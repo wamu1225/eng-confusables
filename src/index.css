@@ -1,0 +1,70 @@
+/* index.css — デザイントークンとベース
+   英単語の逆引きリファレンス。落ち着いたインク藍を単一アクセントに、紙色の地。
+   比較表が主役なので、装飾は控えめにして表とタイポグラフィを引き立てる。 */
+
+:root {
+  --paper: #f7f6f3;
+  --paper-2: #eeece6;
+  --ink: #23272e;
+  --ink-soft: #555b66;
+  --ink-faint: #868d99;
+  --line: #e2dfd7;
+  --line-strong: #cfcabd;
+
+  /* アクセント（インク藍） */
+  --accent: #2f4b7c;
+  --accent-deep: #243b63;
+  --accent-tint: #e8edf5;
+
+  /* コールアウト */
+  --tip: #2f6d5b;       /* 💡 コツ */
+  --tip-bg: #e8f2ee;
+  --exam: #8a5a12;      /* 🎯 試験ポイント */
+  --exam-bg: #f5eddc;
+  --warn: #9a3a2f;      /* ⚠️ 注意 */
+  --warn-bg: #f5e7e3;
+  --read: #3a4a7a;      /* 📖 発展 */
+  --read-bg: #e9ecf6;
+
+  --maxw: 760px;
+  --radius: 8px;
+  --shadow: 0 1px 3px rgba(35, 39, 46, 0.06), 0 6px 20px rgba(35, 39, 46, 0.05);
+
+  --font: "Hiragino Kaku Gothic ProN", "Hiragino Sans", "Noto Sans JP", Meiryo, system-ui, sans-serif;
+  --serif: "Hiragino Mincho ProN", "Yu Mincho", "Noto Serif JP", serif;
+  --mono: "SFMono-Regular", Consolas, "Liberation Mono", Menlo, monospace;
+}
+
+* { box-sizing: border-box; }
+html { -webkit-text-size-adjust: 100%; }
+body {
+  margin: 0;
+  font-family: var(--font);
+  background: var(--paper);
+  color: var(--ink);
+  line-height: 1.8;
+  font-size: 16px;
+  text-rendering: optimizeLegibility;
+  -webkit-font-smoothing: antialiased;
+}
+a { color: var(--accent); text-decoration: none; }
+a:hover { text-decoration: underline; }
+h1, h2, h3 { line-height: 1.4; font-weight: 700; color: var(--ink); }
+code {
+  font-family: var(--mono);
+  background: var(--paper-2);
+  padding: 0.08em 0.36em;
+  border-radius: 4px;
+  font-size: 0.92em;
+}
+hr { border: 0; border-top: 1px solid var(--line); margin: 2rem 0; }
+
+.btn {
+  display: inline-block; font: inherit; font-size: 0.95rem; font-weight: 600;
+  color: var(--ink); background: var(--paper); border: 1px solid var(--line-strong);
+  border-radius: var(--radius); padding: 0.6em 1.2em; cursor: pointer;
+  transition: background 0.15s, border-color 0.15s;
+}
+.btn:hover { background: var(--paper-2); text-decoration: none; }
+.btn-primary { color: #fff; background: var(--accent); border-color: var(--accent); }
+.btn-primary:hover { background: var(--accent-deep); border-color: var(--accent-deep); }

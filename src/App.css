@@ -1,0 +1,174 @@
+/* App.css — コンポーネントスタイル
+   逆引き比較リファレンス。トップは検索を主役に、各ページは比較表をヒーローに。
+   均一カードグリッドや装飾アイコンは避け、検索＋リスト＋表で構造を出す。 */
+
+.app { display: flex; flex-direction: column; min-height: 100vh; }
+.main { flex: 1; width: 100%; }
+
+/* ── ヘッダ ── */
+.site-header {
+  position: sticky; top: 0; z-index: 20;
+  background: rgba(247, 246, 243, 0.92);
+  backdrop-filter: blur(8px);
+  border-bottom: 1px solid var(--line);
+}
+.header-inner { max-width: 980px; margin: 0 auto; padding: 0.7rem 1.2rem; display: flex; align-items: center; gap: 1rem; }
+.brand { font-weight: 700; font-size: 1.02rem; color: var(--ink); letter-spacing: 0.01em; white-space: nowrap; }
+.brand:hover { text-decoration: none; color: var(--accent); }
+.site-nav { display: flex; gap: 1.3rem; margin-left: auto; }
+.site-nav a { color: var(--ink-soft); font-size: 0.92rem; font-weight: 600; padding: 0.2rem 0; border-bottom: 2px solid transparent; }
+.site-nav a:hover { color: var(--accent); text-decoration: none; }
+.site-nav a.active { color: var(--accent); border-bottom-color: var(--accent); }
+.menu-toggle { display: none; margin-left: auto; background: none; border: 0; cursor: pointer; flex-direction: column; gap: 4px; padding: 6px; }
+.menu-toggle span { display: block; width: 22px; height: 2px; background: var(--ink); }
+
+/* ── 共通本文幅 ── */
+.home, .pair, .about, .privacy { max-width: var(--maxw); margin: 0 auto; padding: 2.2rem 1.2rem 4rem; }
+
+/* ── ホーム（検索） ── */
+.hero { padding: 1rem 0 1.6rem; border-bottom: 1px solid var(--line); margin-bottom: 1.4rem; }
+.hero h1 { font-family: var(--serif); font-size: 1.7rem; line-height: 1.5; margin: 0 0 0.7rem; }
+.hero-lead { color: var(--ink-soft); font-size: 1rem; margin: 0 0 1.3rem; }
+
+.search-box {
+  display: flex; align-items: center; gap: 0.5rem;
+  background: #fff; border: 1px solid var(--line-strong); border-radius: 10px;
+  padding: 0.6rem 0.9rem; box-shadow: var(--shadow); color: var(--ink-faint);
+}
+.search-box:focus-within { border-color: var(--accent); }
+.search-box input {
+  flex: 1; border: 0; outline: none; background: transparent;
+  font: inherit; font-size: 1.05rem; color: var(--ink); min-width: 0;
+}
+.search-clear { background: none; border: 0; cursor: pointer; color: var(--ink-faint); display: flex; padding: 2px; }
+.search-clear:hover { color: var(--ink); }
+
+.cat-chips { display: flex; flex-wrap: wrap; gap: 0.5rem; margin-top: 0.9rem; }
+.chip {
+  font: inherit; font-size: 0.86rem; font-weight: 600; cursor: pointer;
+  background: var(--paper); color: var(--ink-soft);
+  border: 1px solid var(--line-strong); border-radius: 999px; padding: 0.32em 0.9em;
+  transition: background 0.15s, color 0.15s, border-color 0.15s;
+}
+.chip:hover { background: var(--paper-2); }
+.chip.active { background: var(--accent); color: #fff; border-color: var(--accent); }
+
+/* ── 検索結果リスト ── */
+.results-count { font-size: 0.85rem; color: var(--ink-faint); margin: 0 0 0.6rem; }
+.no-results { color: var(--ink-soft); padding: 1.5rem 0; }
+.pair-list { list-style: none; margin: 0; padding: 0; }
+.pair-list > li { border-bottom: 1px solid var(--line); }
+.pair-list > li > a {
+  display: grid; grid-template-columns: 1fr auto; gap: 0.1rem 0.6rem;
+  align-items: baseline; padding: 0.8rem 0.4rem; color: var(--ink);
+}
+.pair-list > li > a:hover { background: var(--paper-2); text-decoration: none; }
+.pair-title { font-weight: 700; font-size: 1.04rem; font-family: var(--serif); }
+.pair-cat { justify-self: end; font-size: 0.72rem; font-weight: 600; color: var(--accent); background: var(--accent-tint); padding: 0.1em 0.6em; border-radius: 999px; white-space: nowrap; }
+.pair-desc { grid-column: 1 / -1; color: var(--ink-soft); font-size: 0.88rem; line-height: 1.6; }
+
+/* ── ペアページ ── */
+.breadcrumb { font-size: 0.82rem; color: var(--ink-faint); display: flex; gap: 0.5rem; margin-bottom: 1.1rem; flex-wrap: wrap; }
+.breadcrumb a { color: var(--ink-soft); }
+.pair-header { border-bottom: 1px solid var(--line); padding-bottom: 1.1rem; margin-bottom: 1.5rem; }
+.pair-cat-label { color: var(--accent); font-weight: 700; font-size: 0.78rem; letter-spacing: 0.04em; margin: 0 0 0.5rem; }
+.pair-header h1 { font-family: var(--serif); font-size: 1.7rem; margin: 0 0 0.6rem; line-height: 1.4; }
+.pair-lead { color: var(--ink-soft); font-size: 1rem; margin: 0; }
+
+.pair-body { font-size: 1.02rem; }
+.pair-body h2 { font-size: 1.2rem; margin: 1.8rem 0 0.8rem; padding-left: 0.7rem; border-left: 4px solid var(--accent); }
+.pair-body p { margin: 0.85rem 0; }
+.pair-body ul, .pair-body ol { margin: 0.85rem 0; padding-left: 1.4rem; }
+.pair-body li { margin: 0.35rem 0; }
+.pair-body strong { color: var(--accent-deep); font-weight: 700; }
+
+/* ── コールアウト ── */
+.callout { border-radius: var(--radius); padding: 0.85rem 1.05rem; margin: 1.2rem 0; border-left: 4px solid var(--ink-faint); background: var(--paper-2); }
+.callout p { margin: 0; }
+.callout-label { display: inline-block; font-size: 0.74rem; font-weight: 700; letter-spacing: 0.06em; margin-bottom: 0.3rem; }
+.callout-tip { border-left-color: var(--tip); background: var(--tip-bg); }
+.callout-tip .callout-label { color: var(--tip); }
+.callout-exam { border-left-color: var(--exam); background: var(--exam-bg); }
+.callout-exam .callout-label { color: var(--exam); }
+.callout-warn { border-left-color: var(--warn); background: var(--warn-bg); }
+.callout-warn .callout-label { color: var(--warn); }
+.callout-read { border-left-color: var(--read); background: var(--read-bg); }
+.callout-read .callout-label { color: var(--read); }
+
+/* ── 比較表（ヒーロー） ── */
+.table-wrap { overflow-x: auto; margin: 1.2rem 0; border: 1px solid var(--line); border-radius: var(--radius); box-shadow: var(--shadow); }
+table { border-collapse: collapse; width: 100%; font-size: 0.94rem; }
+th, td { text-align: left; padding: 0.6rem 0.8rem; border-bottom: 1px solid var(--line); vertical-align: top; }
+thead th { background: var(--accent-tint); font-size: 0.86rem; color: var(--accent-deep); border-bottom: 2px solid var(--line-strong); white-space: nowrap; }
+tbody tr:last-child td { border-bottom: 0; }
+tbody td:first-child { font-weight: 700; white-space: nowrap; }
+
+/* ── まとめ ── */
+.keypoints { margin: 2rem 0; padding: 1.1rem 1.3rem; background: var(--paper-2); border-radius: var(--radius); border: 1px solid var(--line); }
+.keypoints h2 { font-size: 1.02rem; margin: 0 0 0.6rem; padding: 0; border: 0; }
+.keypoints ul { margin: 0; padding-left: 1.2rem; }
+.keypoints li { margin: 0.4rem 0; font-size: 0.95rem; }
+
+/* ── Quiz ── */
+.quiz-section { margin-top: 2.4rem; border-top: 2px solid var(--ink); padding-top: 1.3rem; }
+.quiz-section > h2 { font-size: 1.15rem; margin: 0 0 0.9rem; }
+.quiz { background: #fff; border: 1px solid var(--line-strong); border-radius: var(--radius); padding: 1.1rem 1.2rem; box-shadow: var(--shadow); }
+.quiz-count { font-size: 0.78rem; color: var(--ink-faint); font-weight: 700; letter-spacing: 0.04em; }
+.quiz-q { font-size: 1.04rem; font-weight: 700; margin: 0.3rem 0 1rem; line-height: 1.6; }
+.quiz-options { list-style: none; margin: 0; padding: 0; display: flex; flex-direction: column; gap: 0.5rem; }
+.quiz-option {
+  width: 100%; text-align: left; font: inherit; font-size: 0.97rem; cursor: pointer;
+  background: var(--paper); border: 1px solid var(--line-strong); border-radius: var(--radius);
+  padding: 0.65rem 0.85rem; display: flex; gap: 0.6rem; align-items: flex-start; transition: border-color 0.15s, background 0.15s;
+}
+.quiz-option:hover:not(:disabled) { border-color: var(--accent); background: var(--accent-tint); }
+.quiz-option:disabled { cursor: default; }
+.quiz-mark { font-weight: 700; min-width: 1.1em; }
+.quiz-option.is-correct { border-color: var(--tip); background: var(--tip-bg); }
+.quiz-option.is-correct .quiz-mark { color: var(--tip); }
+.quiz-option.is-wrong { border-color: var(--warn); background: var(--warn-bg); }
+.quiz-option.is-wrong .quiz-mark { color: var(--warn); }
+.quiz-explain { margin-top: 1rem; padding-top: 1rem; border-top: 1px dashed var(--line-strong); }
+.quiz-explain p { margin: 0 0 0.8rem; font-size: 0.95rem; }
+.quiz-verdict { font-weight: 700; }
+.quiz-verdict.ok { color: var(--tip); }
+.quiz-verdict.ng { color: var(--warn); }
+.quiz-result { text-align: center; }
+.quiz-score { font-size: 1.1rem; margin: 0.2rem 0 0.6rem; }
+.quiz-score strong { color: var(--accent); font-size: 1.4rem; }
+.quiz-msg { color: var(--ink-soft); margin: 0 0 1rem; }
+
+/* ── ペアナビ ── */
+.pair-nav { display: flex; justify-content: space-between; gap: 1rem; margin-top: 2.4rem; padding-top: 1.3rem; border-top: 1px solid var(--line); }
+.pair-nav .btn { max-width: 48%; }
+
+/* ── About / Privacy ── */
+.about h1, .privacy h1 { font-family: var(--serif); font-size: 1.6rem; margin: 0 0 1rem; }
+.about h2, .privacy h2 { font-size: 1.12rem; margin: 1.8rem 0 0.6rem; }
+.about p, .privacy p { color: var(--ink-soft); }
+.privacy .notice { font-size: 0.84rem; color: var(--ink-faint); border-top: 1px solid var(--line); padding-top: 1rem; margin-top: 2rem; }
+
+/* ── フッタ ── */
+.site-footer { border-top: 1px solid var(--line); background: var(--paper-2); margin-top: 2rem; }
+.footer-inner { max-width: 980px; margin: 0 auto; padding: 1.6rem 1.2rem 2.4rem; }
+.footer-nav { display: flex; flex-wrap: wrap; gap: 0.6rem 1.2rem; margin-bottom: 0.8rem; }
+.footer-nav a { font-size: 0.88rem; color: var(--ink-soft); }
+.footer-note { font-size: 0.8rem; color: var(--ink-faint); margin: 0; }
+
+/* ── レスポンシブ ── */
+@media (max-width: 680px) {
+  .site-nav { display: none; }
+  .menu-toggle { display: flex; }
+  .site-nav.open {
+    display: flex; flex-direction: column; gap: 0.2rem;
+    position: absolute; left: 0; right: 0; top: 100%;
+    background: var(--paper); border-bottom: 1px solid var(--line);
+    padding: 0.6rem 1.2rem 1rem; margin-left: 0;
+  }
+  .hero h1 { font-size: 1.45rem; }
+  .pair-header h1 { font-size: 1.45rem; }
+  table { font-size: 0.86rem; }
+  th, td { padding: 0.5rem 0.6rem; }
+  .pair-list > li > a { grid-template-columns: 1fr; }
+  .pair-cat { justify-self: start; }
+}
