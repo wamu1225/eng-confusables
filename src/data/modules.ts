@@ -12177,4 +12177,614 @@ belief/believe と同じく、**-f（relief）が名詞、-ve（relieve）が動
       },
     ],
   },
+  {
+    id: 'rise-arise',
+    title: 'rise と arise',
+    chapter: 2,
+    description: 'どちらも自動詞。rise は「（物・数値などが）上がる・のぼる」、arise は「（問題・状況が）生じる・起こる」。',
+    content: `## 「上がる」か「生じる」かで見分ける
+
+どちらも目的語をとらない自動詞ですが、使う対象が違います。
+
+- **rise** … 「**（物理的に・数値が）上がる・のぼる・立ち上がる**」。rise-rose-risen。太陽・値段・気温など。
+- **arise** … 「**（問題・状況・機会が）生じる・起こる**」。arise-arose-arisen。抽象的なことが発生する。
+
+| 語 | 対象 | 中心の意味 | 自作の例文 |
+| --- | --- | --- | --- |
+| rise | 物・数値 | 上がる・のぼる | The sun **rises** in the east.（太陽は東からのぼる） |
+| arise | 問題・状況 | 生じる・起こる | Problems may **arise** during the trip.（旅行中に問題が生じるかも） |
+
+🎯 覚え方：**物・数値が「上がる」は rise、問題・状況が「生じる」は arise**。太陽・物価は rise、問題・疑問・機会は arise。※どちらも自動詞（目的語なし）＝他動詞 raise（上げる）と混同しない。`,
+    keyPoints: [
+      'rise＝（物・数値が）上がる・のぼる（rise-rose-risen）',
+      'arise＝（問題・状況が）生じる・起こる（arise-arose-arisen）',
+      'どちらも自動詞（他動詞 raise と別）',
+    ],
+    quiz: [
+      {
+        id: 'q-rise-1',
+        question: '空所に入る適切な語はどれですか。「A dispute ( ) over the boundary.（境界をめぐって争いが生じた）」',
+        options: ['rose', 'arose', 'raised', 'rises'],
+        correctAnswer: 1,
+        explanation: '問題・争いが「生じた」は arise の過去 arose です。',
+      },
+      {
+        id: 'q-rise-2',
+        question: '空所に入る適切な語はどれですか。「Prices continue to ( ) every year.（物価は毎年上がり続ける）」',
+        options: ['arise', 'rise', 'raise', 'arose'],
+        correctAnswer: 1,
+        explanation: '数値が「上がる」は自動詞 rise です。',
+      },
+      {
+        id: 'q-rise-3',
+        question: '問題・状況が「生じる・起こる」を表すのはどちらですか。',
+        options: ['rise', 'arise', 'どちらも', 'どちらも違う'],
+        correctAnswer: 1,
+        explanation: '抽象的なことが「生じる」は arise。物理的に上がるは rise です。',
+      },
+      {
+        id: 'q-rise-4',
+        question: '空所に入る適切な語はどれですか。「Steam ( ) from the hot spring.（温泉から湯気がのぼった）」',
+        options: ['arose', 'rose', 'raised', 'arises'],
+        correctAnswer: 1,
+        explanation: '物理的に「のぼった」は rise の過去 rose です。',
+      },
+      {
+        id: 'q-rise-5',
+        question: '空所に入る適切な語はどれですか。「Should any questions ( ), please ask.（もし疑問が生じたら聞いて）」',
+        options: ['rise', 'arise', 'raise', 'rose'],
+        correctAnswer: 1,
+        explanation: '疑問が「生じる」は arise です。',
+      },
+    ],
+  },
+  {
+    id: 'sit-seat',
+    title: 'sit と seat',
+    chapter: 2,
+    description: 'sit は自動詞「（自分が）座る」、seat は他動詞「（人を）座らせる」（ふつう be seated／seat oneself）。',
+    content: `## 自分が座るか、人を座らせるかで見分ける
+
+どちらも「座る」に関わりますが、自動詞か他動詞かが違います。
+
+- **sit** … **自動詞**「**（自分が）座る・座っている**」。sit-sat-sat。sit down。
+- **seat** … **他動詞**「**（人を）座らせる・（席が）〜人収容する**」。be seated（着席している）／seat oneself（座る・かたい）。
+
+| 語 | 型 | 中心の意味 | 自作の例文 |
+| --- | --- | --- | --- |
+| sit | 自動詞 | （自分が）座る | Please **sit** here.（ここに座って） |
+| seat | 他動詞 | （人を）座らせる | The host **seated** the guests.（主人は客を席に案内した） |
+
+🎯 覚え方：**自分が「座る」は sit（sit down）、人を「座らせる」は seat（be seated）**。「お座りください（かたい）」は Please be **seated**、口語は Please **sit** down。`,
+    keyPoints: [
+      'sit＝自動詞「（自分が）座る」（sit down・sit-sat-sat）',
+      'seat＝他動詞「（人を）座らせる」（be seated／seat oneself）',
+      '「ご着席ください（かたい）」は Please be seated',
+    ],
+    quiz: [
+      {
+        id: 'q-sit-1',
+        question: '空所に入る適切な語はどれですか。「Ladies and gentlemen, please be ( ).（皆様、ご着席ください）」',
+        options: ['sit', 'seated', 'sat', 'sitting'],
+        correctAnswer: 1,
+        explanation: 'かたい「ご着席ください」は be seated（他動詞 seat の受け身）です。',
+      },
+      {
+        id: 'q-sit-2',
+        question: '空所に入る適切な語はどれですか。「The dog ( ) quietly by the door.（犬はドアのそばで静かに座っていた）」',
+        options: ['seated', 'sat', 'seat', 'seats'],
+        correctAnswer: 1,
+        explanation: '自分が「座っていた」は自動詞 sit の過去 sat です。',
+      },
+      {
+        id: 'q-sit-3',
+        question: '他動詞「（人を）座らせる」を表すのはどちらですか。',
+        options: ['sit', 'seat', 'どちらも', 'どちらも違う'],
+        correctAnswer: 1,
+        explanation: '人を座らせるのは他動詞 seat。自分が座るは sit です。',
+      },
+      {
+        id: 'q-sit-4',
+        question: '空所に入る適切な語はどれですか。「This hall can ( ) 500 people.（このホールは500人を収容できる）」',
+        options: ['sit', 'seat', 'sat', 'sitting'],
+        correctAnswer: 1,
+        explanation: '「〜人を収容する（座らせる）」は他動詞 seat です。',
+      },
+      {
+        id: 'q-sit-5',
+        question: '空所に入る適切な語はどれですか。「Let\'s ( ) down and talk.（座って話そう）」',
+        options: ['seat', 'sit', 'seated', 'seats'],
+        correctAnswer: 1,
+        explanation: '自分が「座る」は sit（sit down）です。',
+      },
+    ],
+  },
+  {
+    id: 'intelligent-intelligible',
+    title: 'intelligent と intelligible',
+    chapter: 3,
+    description: 'intelligent「頭がいい・知的な」（人・生物）、intelligible「（言葉・説明が）理解できる・分かりやすい」（物事）。',
+    content: `## 「頭がいい」か「理解できる」かで見分ける
+
+同じ語源ですが、対象が違います。
+
+- **intelligent** … 「**頭がいい・知的な・聡明な**」。人・動物・システムなど。
+- **intelligible** … 「**（言葉・説明・音声が）理解できる・分かりやすい**」（-ible＝〜できる）。
+
+| 語 | 対象 | 中心の意味 | 自作の例文 |
+| --- | --- | --- | --- |
+| intellig**ent** | 人・生物 | 頭がいい | She is an **intelligent** student.（彼女は聡明な生徒だ） |
+| intellig**ible** | 言葉・説明 | 理解できる | His speech was barely **intelligible**.（彼の話はほとんど聞き取れなかった） |
+
+🎯 覚え方：**-ent の intelligent は「（人が）頭がいい」**、-ible の intelligible は「（言葉が）理解できる」。人の賢さなら intelligent、説明の分かりやすさなら intelligible。`,
+    keyPoints: [
+      'intelligent＝頭がいい・知的な（人・生物）',
+      'intelligible＝（言葉・説明が）理解できる・分かりやすい',
+      '人の賢さは intelligent、言葉の明瞭さは intelligible',
+    ],
+    quiz: [
+      {
+        id: 'q-intelligent-1',
+        question: '空所に入る適切な語はどれですか。「The recording was not ( ) due to noise.（雑音で録音が聞き取れなかった）」',
+        options: ['intelligent', 'intelligible', 'intelligence', 'intelligently'],
+        correctAnswer: 1,
+        explanation: '言葉・音声が「理解できる」は intelligible です。',
+      },
+      {
+        id: 'q-intelligent-2',
+        question: '「頭がいい・知的な」という意味の語はどれですか。',
+        options: ['intelligible', 'intelligent', 'intelligence', 'intelligibly'],
+        correctAnswer: 1,
+        explanation: '人が「頭がいい」は intelligent です。',
+      },
+      {
+        id: 'q-intelligent-3',
+        question: '空所に入る適切な語はどれですか。「Dolphins are highly ( ) animals.（イルカは非常に知的な動物だ）」',
+        options: ['intelligible', 'intelligent', 'intelligence', 'intelligibly'],
+        correctAnswer: 1,
+        explanation: '生物が「知的な」は intelligent です。',
+      },
+      {
+        id: 'q-intelligent-4',
+        question: '言葉・説明が「理解できる・分かりやすい」を表すのはどちらですか。',
+        options: ['intelligent', 'intelligible', 'どちらも', 'どちらも違う'],
+        correctAnswer: 1,
+        explanation: 'intelligible が「理解できる」。intelligent は「頭がいい」です。',
+      },
+      {
+        id: 'q-intelligent-5',
+        question: '空所に入る適切な語はどれですか。「Please write in clear, ( ) English.（明快で分かりやすい英語で書いて）」',
+        options: ['intelligent', 'intelligible', 'intelligence', 'intelligently'],
+        correctAnswer: 1,
+        explanation: '文章が「理解できる・分かりやすい」は intelligible です。',
+      },
+    ],
+  },
+  {
+    id: 'sociable-social',
+    title: 'sociable と social',
+    chapter: 3,
+    description: 'sociable「社交的な・人付き合いのよい」（人の性格）、social「社会の・社交（に関する）」（社会・集まり全般）。',
+    content: `## 性格か、社会・集まり全般かで見分ける
+
+同じ語源ですが、focus が違います。
+
+- **sociable** … 「**社交的な・人付き合いのよい・愛想のよい**」。人の性格を表す。
+- **social** … 「**社会の／社交の・親睦の**」。social problems（社会問題）、social event（親睦行事）など幅広い。
+
+| 語 | 中心の意味 | 自作の例文 |
+| --- | --- | --- |
+| soci**able** | 社交的な（性格） | He is friendly and **sociable**.（彼は親しみやすく社交的だ） |
+| soci**al** | 社会の・社交の | We discussed **social** issues.（社会問題について話し合った） |
+
+🎯 覚え方：**-able の sociable は「（人が）社交的（人付き合いできる）」**、social は「社会・社交（全般）」。人の性格をほめるなら sociable、社会・親睦の話題なら social。`,
+    keyPoints: [
+      'sociable＝社交的な・人付き合いのよい（人の性格）',
+      'social＝社会の／社交の・親睦の（社会・集まり全般）',
+      '性格なら sociable、社会・集まりなら social',
+    ],
+    quiz: [
+      {
+        id: 'q-sociable-1',
+        question: '空所に入る適切な語はどれですか。「The government tackled ( ) inequality.（政府は社会的不平等に取り組んだ）」',
+        options: ['sociable', 'social', 'society', 'sociably'],
+        correctAnswer: 1,
+        explanation: '「社会の（不平等）」は social です。',
+      },
+      {
+        id: 'q-sociable-2',
+        question: '「社交的な・人付き合いのよい」という意味の語はどれですか。',
+        options: ['social', 'sociable', 'society', 'socially'],
+        correctAnswer: 1,
+        explanation: '人の性格「社交的な」は sociable です。',
+      },
+      {
+        id: 'q-sociable-3',
+        question: '空所に入る適切な語はどれですか。「She is not very ( ) and prefers to be alone.（彼女はあまり社交的でなく一人を好む）」',
+        options: ['social', 'sociable', 'society', 'socially'],
+        correctAnswer: 1,
+        explanation: '性格「社交的な」は sociable です。',
+      },
+      {
+        id: 'q-sociable-4',
+        question: '「社会の／社交の（全般）」を表すのはどちらですか。',
+        options: ['sociable', 'social', 'どちらも', 'どちらも違う'],
+        correctAnswer: 1,
+        explanation: 'social が「社会・社交（全般）」。sociable は人の性格です。',
+      },
+      {
+        id: 'q-sociable-5',
+        question: '空所に入る適切な語はどれですか。「The club holds a ( ) gathering every month.（クラブは毎月親睦会を開く）」',
+        options: ['sociable', 'social', 'society', 'sociably'],
+        correctAnswer: 1,
+        explanation: '「親睦の（集まり）」は social（social gathering）です。',
+      },
+    ],
+  },
+  {
+    id: 'canvas-canvass',
+    title: 'canvas と canvass',
+    chapter: 1,
+    description: 's の数が違う。canvas「帆布・画布（キャンバス）」（名詞）、canvass「票や意見を求めて回る・世論調査する」（動詞）。',
+    content: `## s の数と品詞で見分ける
+
+**s がひとつ（canvas）かふたつ（canvass）**かで、意味も品詞も変わります。
+
+- **canvas** … /ˈkænvəs/ 名詞「**帆布・画布（キャンバス）・テント地**」。
+- **canvass** … /ˈkænvəs/ 動詞「**（票・意見・注文を求めて）回る・勧誘する・世論調査する**」。
+
+| 語 | 品詞・中心の意味 | 自作の例文 |
+| --- | --- | --- |
+| canva**s** | 名詞：帆布・画布 | The artist painted on **canvas**.（画家はキャンバスに描いた） |
+| canva**ss** | 動詞：票を求めて回る | Volunteers **canvassed** the neighborhood.（ボランティアが近所を回って支持を求めた） |
+
+🎯 覚え方：**s ひとつの canvas は「画布・帆布（もの）」、s ふたつの canvass は「（票などを求めて）回る（動作）」**。絵を描く布なら canvas、選挙運動・調査なら canvass。`,
+    keyPoints: [
+      'canvas＝名詞「帆布・画布（キャンバス）」（s ひとつ）',
+      'canvass＝動詞「票・意見を求めて回る・世論調査する」（s ふたつ）',
+      'ものなら canvas、動作なら canvass',
+    ],
+    quiz: [
+      {
+        id: 'q-canvas-1',
+        question: '空所に入る適切な語はどれですか。「Candidates ( ) voters before the election.（候補者は選挙前に有権者を回って支持を求める）」',
+        options: ['canvas', 'canvass', 'canvases', 'canvassed\''],
+        correctAnswer: 1,
+        explanation: '「票を求めて回る」は動詞 canvass（s ふたつ）です。',
+      },
+      {
+        id: 'q-canvas-2',
+        question: '「帆布・画布（キャンバス）」という意味の名詞はどれですか。',
+        options: ['canvass', 'canvas', 'canvasses', 'canvassing'],
+        correctAnswer: 1,
+        explanation: '「画布・帆布」は canvas（s ひとつ）です。',
+      },
+      {
+        id: 'q-canvas-3',
+        question: '空所に入る適切な語はどれですか。「The tent is made of strong ( ).（テントは丈夫な帆布でできている）」',
+        options: ['canvass', 'canvas', 'canvasses', 'canvassed'],
+        correctAnswer: 1,
+        explanation: '生地の「帆布」は canvas です。',
+      },
+      {
+        id: 'q-canvas-4',
+        question: 's がふたつで「票・意見を求めて回る」動詞はどちらですか。',
+        options: ['canvas', 'canvass', 'どちらも', 'どちらも違う'],
+        correctAnswer: 1,
+        explanation: 'canvass（s ふたつ・動詞）。canvas（s ひとつ・名詞）です。',
+      },
+      {
+        id: 'q-canvas-5',
+        question: '空所に入る適切な語はどれですか。「They ( ) opinions on the new policy.（新政策への意見を広く集めた）」',
+        options: ['canvas', 'canvassed', 'canvases', 'canvasing'],
+        correctAnswer: 1,
+        explanation: '「意見を集める・世論調査する」は canvass の過去 canvassed です。',
+      },
+    ],
+  },
+  {
+    id: 'straight-strait',
+    title: 'straight と strait',
+    chapter: 4,
+    description: '同音 /streɪt/。straight「まっすぐな・率直な」（形容詞・副詞）、strait「海峡／苦境」（名詞）。意味とスペルで判断。',
+    content: `## 音は同じ、意味とスペルで見分ける
+
+**straight と strait は同じ発音 /streɪt/（同音異義語）**。意味とスペルで決めます。
+
+- **straight** … /streɪt/ 「**まっすぐな・一直線の／率直な／連続した**」（形容詞・副詞）。gh は無音。
+- **strait** … /streɪt/ 名詞「**海峡／（しばしば straits で）苦境**」。
+
+| 語 | 発音 | 品詞・中心の意味 | 自作の例文 |
+| --- | --- | --- | --- |
+| strai**ght** | /streɪt/ | まっすぐな | Draw a **straight** line.（まっすぐな線を引いて） |
+| strai**t** | /streɪt/ | 海峡・苦境 | Ships pass through the **strait**.（船が海峡を通る） |
+
+🎯 覚え方：**「まっすぐ」は straight（-ght）、狭い水路の「海峡」は strait（-t）**。方向・率直さなら straight、海峡・苦境なら strait。`,
+    keyPoints: [
+      'straight と strait は同音 /streɪt/',
+      'straight＝まっすぐな・率直な・連続した（gh は無音）',
+      'strait＝海峡／苦境（in dire straits＝ひどい苦境で）',
+    ],
+    quiz: [
+      {
+        id: 'q-straight-1',
+        question: '空所に入る適切な語はどれですか。「The ferry crosses the ( ) in an hour.（フェリーは1時間で海峡を渡る）」',
+        options: ['straight', 'strait', 'straights', 'straits\''],
+        correctAnswer: 1,
+        explanation: '狭い水路「海峡」は strait です。',
+      },
+      {
+        id: 'q-straight-2',
+        question: '「まっすぐな・率直な」という意味の語はどれですか。',
+        options: ['strait', 'straight', 'straits', 'straiten'],
+        correctAnswer: 1,
+        explanation: '「まっすぐな」は straight /streɪt/ です。',
+      },
+      {
+        id: 'q-straight-3',
+        question: 'straight と strait の発音の関係はどれですか。',
+        options: ['母音が違う', '同じ発音（同音異義語）', '子音が違う', 'アクセントが違う'],
+        correctAnswer: 1,
+        explanation: 'どちらも /streɪt/ で同音異義語です（gh は無音）。',
+      },
+      {
+        id: 'q-straight-4',
+        question: '空所に入る適切な語はどれですか。「Go ( ) ahead and turn left.（まっすぐ進んで左に曲がって）」',
+        options: ['strait', 'straight', 'straits', 'straiten'],
+        correctAnswer: 1,
+        explanation: '「まっすぐ（進む）」は straight です。',
+      },
+      {
+        id: 'q-straight-5',
+        question: '「海峡／苦境」を意味するのはどちらですか。',
+        options: ['straight', 'strait', 'どちらも', 'どちらも違う'],
+        correctAnswer: 1,
+        explanation: '海峡・苦境は strait。straight は「まっすぐな」です。',
+      },
+    ],
+  },
+  {
+    id: 'pedal-peddle',
+    title: 'pedal と peddle',
+    chapter: 4,
+    description: '同音 /ˈpɛdəl/。pedal「ペダル／（自転車を）こぐ」、peddle「（商品を）売り歩く・行商する」。意味とスペルで判断。',
+    content: `## 音は同じ、意味とスペルで見分ける
+
+**pedal と peddle は同じ発音 /ˈpɛdəl/（同音異義語）**。意味とスペルで決めます。
+
+- **pedal** … /ˈpɛdəl/ 名詞「**ペダル**」、動詞「**（自転車などを）こぐ**」。足（ped-）に関係。
+- **peddle** … /ˈpɛdəl/ 動詞「**（商品を）売り歩く・行商する**」。peddler（行商人）。
+
+| 語 | 発音 | 品詞・中心の意味 | 自作の例文 |
+| --- | --- | --- | --- |
+| pe**d**al | /ˈpɛdəl/ | ペダル／こぐ | She **pedaled** up the hill.（彼女は坂をこいで上った） |
+| pe**dd**le | /ˈpɛdəl/ | 売り歩く | They **peddle** goods on the street.（彼らは路上で品物を売り歩く） |
+
+🎯 覚え方：**足でこぐ「ペダル」は pedal（ped-＝足）、売り歩く「行商」は peddle（d がふたつ）**。自転車なら pedal、行商なら peddle。`,
+    keyPoints: [
+      'pedal と peddle は同音 /ˈpɛdəl/',
+      'pedal＝ペダル／（自転車を）こぐ（ped-＝足）',
+      'peddle＝（商品を）売り歩く・行商する（d がふたつ・peddler）',
+    ],
+    quiz: [
+      {
+        id: 'q-pedal-1',
+        question: '空所に入る適切な語はどれですか。「Street vendors ( ) souvenirs to tourists.（露天商が観光客に土産を売り歩く）」',
+        options: ['pedal', 'peddle', 'pedals', 'peddled\''],
+        correctAnswer: 1,
+        explanation: '「売り歩く・行商する」は peddle（d ふたつ）です。',
+      },
+      {
+        id: 'q-pedal-2',
+        question: '「ペダル／（自転車を）こぐ」という意味の語はどれですか。',
+        options: ['peddle', 'pedal', 'peddles', 'peddling'],
+        correctAnswer: 1,
+        explanation: '「ペダル・こぐ」は pedal です。',
+      },
+      {
+        id: 'q-pedal-3',
+        question: 'pedal と peddle の発音の関係はどれですか。',
+        options: ['母音が違う', '同じ発音（同音異義語）', '子音が違う', 'アクセントが違う'],
+        correctAnswer: 1,
+        explanation: 'どちらも /ˈpɛdəl/ で同音異義語です。',
+      },
+      {
+        id: 'q-pedal-4',
+        question: '空所に入る適切な語はどれですか。「Press the brake ( ) firmly.（ブレーキペダルをしっかり踏んで）」',
+        options: ['peddle', 'pedal', 'peddles', 'peddled'],
+        correctAnswer: 1,
+        explanation: '足で操作する「ペダル」は pedal です。',
+      },
+      {
+        id: 'q-pedal-5',
+        question: '「（商品を）売り歩く・行商する」を意味するのはどちらですか。',
+        options: ['pedal', 'peddle', 'どちらも', 'どちらも違う'],
+        correctAnswer: 1,
+        explanation: '行商は peddle。pedal はペダル・こぐです。',
+      },
+    ],
+  },
+  {
+    id: 'plum-plumb',
+    title: 'plum と plumb',
+    chapter: 4,
+    description: '同音 /plʌm/。plum「プラム・すもも（果実）」、plumb「鉛直の・（配管などを）調べる」（b は無音）。意味とスペルで判断。',
+    content: `## 音は同じ、意味とスペルで見分ける
+
+**plum と plumb は同じ発音 /plʌm/（同音異義語）**。plumb の **b は発音しません**。
+
+- **plum** … /plʌm/ 名詞「**プラム・すもも（果実）**」。
+- **plumb** … /plʌm/ 形容詞・副詞「**鉛直の・垂直に／まったく**」、動詞「**（深さを）測る・（配管を）調べる**」。plumber（配管工）。
+
+| 語 | 発音 | 中心の意味 | 自作の例文 |
+| --- | --- | --- | --- |
+| plum | /plʌm/ | すもも（果実） | This **plum** is sweet and ripe.（このすももは甘く熟している） |
+| plum**b** | /plʌm/ | 鉛直の・測る | Is the wall exactly **plumb**?（壁は正確に垂直？） |
+
+🎯 覚え方：**果物の「すもも」は plum、垂直・配管の plumb（b は黙字・plumber＝配管工）**。食べ物なら plum、垂直・水道なら plumb。`,
+    keyPoints: [
+      'plum と plumb は同音 /plʌm/（plumb の b は無音）',
+      'plum＝プラム・すもも（果実）',
+      'plumb＝鉛直の・（深さを）測る（plumber＝配管工）',
+    ],
+    quiz: [
+      {
+        id: 'q-plum-1',
+        question: '空所に入る適切な語はどれですか。「We called a ( )er to fix the leak.（水漏れを直すため配管工を呼んだ）」',
+        options: ['plum', 'plumb', 'plums', 'plumbs'],
+        correctAnswer: 1,
+        explanation: '「配管工」は plumber（plumb 由来）です。',
+      },
+      {
+        id: 'q-plum-2',
+        question: '「プラム・すもも（果実）」という意味の語はどれですか。',
+        options: ['plumb', 'plum', 'plumbs', 'plumber'],
+        correctAnswer: 1,
+        explanation: '果実の「すもも」は plum /plʌm/ です。',
+      },
+      {
+        id: 'q-plum-3',
+        question: 'plum と plumb の発音の関係はどれですか。',
+        options: ['母音が違う', '同じ発音（同音異義語）', '子音が違う', 'アクセントが違う'],
+        correctAnswer: 1,
+        explanation: 'どちらも /plʌm/ で同音異義語です（b は無音）。',
+      },
+      {
+        id: 'q-plum-4',
+        question: '空所に入る適切な語はどれですか。「Use a ( ) line to check the wall is vertical.（下げ振りで壁が垂直か確かめて）」',
+        options: ['plum', 'plumb', 'plums', 'plumber'],
+        correctAnswer: 1,
+        explanation: '「鉛直の（下げ振り線）」は plumb line です。',
+      },
+      {
+        id: 'q-plum-5',
+        question: '果物の「すもも」を意味するのはどちらですか。',
+        options: ['plumb', 'plum', 'どちらも', 'どちらも違う'],
+        correctAnswer: 1,
+        explanation: 'すももは plum。plumb は「鉛直の・測る」です。',
+      },
+    ],
+  },
+  {
+    id: 'in-inn',
+    title: 'in と inn',
+    chapter: 4,
+    description: '同音 /ɪn/。in「〜の中に・〜に」（前置詞）、inn「宿屋・旅籠」（名詞）。意味と品詞で判断。',
+    content: `## 音は同じ、意味と品詞で見分ける
+
+**in と inn は同じ発音 /ɪn/（同音異義語）**。意味と品詞で決めます。
+
+- **in** … /ɪn/ 前置詞「**〜の中に・〜に**」、副詞「中へ」。
+- **inn** … /ɪn/ 名詞「**宿屋・旅籠・（田舎の）小さなホテル**」。n がふたつ。
+
+| 語 | 発音 | 品詞・中心の意味 | 自作の例文 |
+| --- | --- | --- | --- |
+| in | /ɪn/ | 前置詞：〜の中に | The keys are **in** the drawer.（鍵は引き出しの中だ） |
+| in**n** | /ɪn/ | 名詞：宿屋 | We stayed at a cozy **inn**.（居心地のよい宿に泊まった） |
+
+🎯 覚え方：**位置の「中に」は in、泊まる「宿屋」は inn（n がふたつ）**。前置詞なら in、宿泊施設なら inn。`,
+    keyPoints: [
+      'in と inn は同音 /ɪn/',
+      'in＝前置詞「〜の中に・〜に」',
+      'inn＝名詞「宿屋・旅籠」（n がふたつ）',
+    ],
+    quiz: [
+      {
+        id: 'q-in-1',
+        question: '空所に入る適切な語はどれですか。「They spent the night at a country ( ).（彼らは田舎の宿で一泊した）」',
+        options: ['in', 'inn', 'ins', 'inns\''],
+        correctAnswer: 1,
+        explanation: '宿泊施設の「宿屋」は inn（n ふたつ）です。',
+      },
+      {
+        id: 'q-in-2',
+        question: '「〜の中に・〜に」を表す前置詞はどれですか。',
+        options: ['inn', 'in', 'inns', 'inning'],
+        correctAnswer: 1,
+        explanation: '前置詞「〜の中に」は in です。',
+      },
+      {
+        id: 'q-in-3',
+        question: 'in と inn の発音の関係はどれですか。',
+        options: ['母音が違う', '同じ発音（同音異義語）', '子音が違う', 'アクセントが違う'],
+        correctAnswer: 1,
+        explanation: 'どちらも /ɪn/ で同音異義語です。',
+      },
+      {
+        id: 'q-in-4',
+        question: '空所に入る適切な語はどれですか。「There is milk ( ) the fridge.（冷蔵庫の中に牛乳がある）」',
+        options: ['inn', 'in', 'inns', 'inning'],
+        correctAnswer: 1,
+        explanation: '位置「〜の中に」は前置詞 in です。',
+      },
+      {
+        id: 'q-in-5',
+        question: 'n がふたつで「宿屋」を意味するのはどちらですか。',
+        options: ['in', 'inn', 'どちらも', 'どちらも違う'],
+        correctAnswer: 1,
+        explanation: 'inn（n ふたつ）＝宿屋。in は前置詞です。',
+      },
+    ],
+  },
+  {
+    id: 'hangar-hanger',
+    title: 'hangar と hanger',
+    chapter: 4,
+    description: '同音 /ˈhæŋər/。hangar「格納庫（飛行機の）」、hanger「ハンガー（衣類掛け）」。意味とスペルで判断。',
+    content: `## 音は同じ、意味とスペルで見分ける
+
+**hangar と hanger は同じ発音 /ˈhæŋər/（同音異義語）**。末尾 **-ar と -er**、意味で決めます。
+
+- **hangar** … /ˈhæŋər/ 名詞「**（飛行機の）格納庫**」。
+- **hanger** … /ˈhæŋər/ 名詞「**ハンガー・衣類掛け**」。hang（掛ける）＋-er。
+
+| 語 | 発音 | 中心の意味 | 自作の例文 |
+| --- | --- | --- | --- |
+| hang**ar** | /ˈhæŋər/ | 格納庫 | The jet is kept in a **hangar**.（ジェット機は格納庫に置かれる） |
+| hang**er** | /ˈhæŋər/ | ハンガー | Hang your coat on a **hanger**.（コートをハンガーに掛けて） |
+
+🎯 覚え方：**飛行機の「格納庫」は hangar（-ar）、服を掛ける「ハンガー」は hanger（hang+-er）**。航空機なら hangar、衣類なら hanger。`,
+    keyPoints: [
+      'hangar と hanger は同音 /ˈhæŋər/',
+      'hangar＝（飛行機の）格納庫（-ar）',
+      'hanger＝ハンガー・衣類掛け（hang+-er）',
+    ],
+    quiz: [
+      {
+        id: 'q-hangar-1',
+        question: '空所に入る適切な語はどれですか。「Please put the shirt on a ( ).（シャツをハンガーに掛けて）」',
+        options: ['hangar', 'hanger', 'hangars', 'hangered\''],
+        correctAnswer: 1,
+        explanation: '衣類の「ハンガー」は hanger（hang+-er）です。',
+      },
+      {
+        id: 'q-hangar-2',
+        question: '「（飛行機の）格納庫」という意味の語はどれですか。',
+        options: ['hanger', 'hangar', 'hangers', 'hanging'],
+        correctAnswer: 1,
+        explanation: '「格納庫」は hangar（-ar）です。',
+      },
+      {
+        id: 'q-hangar-3',
+        question: 'hangar と hanger の発音の関係はどれですか。',
+        options: ['母音が違う', '同じ発音（同音異義語）', '子音が違う', 'アクセントが違う'],
+        correctAnswer: 1,
+        explanation: 'どちらも /ˈhæŋər/ で同音異義語です。',
+      },
+      {
+        id: 'q-hangar-4',
+        question: '空所に入る適切な語はどれですか。「The mechanics worked in the aircraft ( ).（整備士は航空機格納庫で作業した）」',
+        options: ['hanger', 'hangar', 'hangers', 'hanging'],
+        correctAnswer: 1,
+        explanation: '航空機の「格納庫」は hangar です。',
+      },
+      {
+        id: 'q-hangar-5',
+        question: '服を掛ける「ハンガー」を意味するのはどちらですか。',
+        options: ['hangar', 'hanger', 'どちらも', 'どちらも違う'],
+        correctAnswer: 1,
+        explanation: 'ハンガーは hanger。hangar は「格納庫」です。',
+      },
+    ],
+  },
 ];
