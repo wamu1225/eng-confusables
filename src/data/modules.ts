@@ -10950,4 +10950,619 @@ belief/believe と同じく、**-f（relief）が名詞、-ve（relieve）が動
       },
     ],
   },
+  {
+    id: 'hurt-injure-wound',
+    title: 'hurt と injure と wound',
+    chapter: 2,
+    description: '「傷つける」の3語。hurt は一般的（痛める・傷つける）、injure は事故などで負傷させる、wound は武器・刃物で傷を負わせる。',
+    content: `## 傷つけ方・場面で見分ける
+
+いずれも「傷つける」ですが、場面が違います。
+
+- **hurt** … 「**痛める・傷つける**」。最も一般的（体も心も）。hurt-hurt-hurt。
+- **injure** … 「**（事故・スポーツなどで）負傷させる**」。ややかたい。injury（けが）。
+- **wound** … /wuːnd/ 「**（武器・刃物・銃で）傷を負わせる**」。戦争・攻撃の文脈。
+
+| 語 | 場面 | 中心の意味 | 自作の例文 |
+| --- | --- | --- | --- |
+| hurt | 一般 | 痛める・傷つける | I **hurt** my back lifting boxes.（箱を持ち上げて腰を痛めた） |
+| injure | 事故・競技 | 負傷させる | He was **injured** in a car crash.（車の事故で負傷した） |
+| wound | 武器・攻撃 | 傷を負わせる | The soldier was **wounded** in battle.（兵士は戦闘で負傷した） |
+
+🎯 覚え方：**日常の「痛める」は hurt、事故の「負傷」は injure、武器による「負傷」は wound**。心を「傷つける」は hurt が自然。`,
+    keyPoints: [
+      'hurt＝一般的に痛める・傷つける（体も心も・hurt-hurt-hurt）',
+      'injure＝事故・競技で負傷させる（injury）',
+      'wound＝武器・刃物で傷を負わせる（戦争・攻撃）',
+    ],
+    quiz: [
+      {
+        id: 'q-hurt-1',
+        question: '空所に入る適切な語はどれですか。「Three soldiers were ( ) by gunfire.（3人の兵士が銃撃で負傷した）」',
+        options: ['hurt', 'wounded', 'injured', 'hurts'],
+        correctAnswer: 1,
+        explanation: '武器（銃）による負傷は wound（受け身 wounded）が典型です。',
+      },
+      {
+        id: 'q-hurt-2',
+        question: '空所に入る適切な語はどれですか。「Several players were ( ) during the match.（試合中に数人の選手が負傷した）」',
+        options: ['wounded', 'injured', 'hurt', 'wounds'],
+        correctAnswer: 1,
+        explanation: 'スポーツ・事故の負傷は injure（injured）が自然です。',
+      },
+      {
+        id: 'q-hurt-3',
+        question: '最も一般的に「痛める・（心も）傷つける」を表すのはどれですか。',
+        options: ['injure', 'wound', 'hurt', 'どれも同じ'],
+        correctAnswer: 2,
+        explanation: '一般的な「痛める・傷つける」は hurt です。',
+      },
+      {
+        id: 'q-hurt-4',
+        question: '空所に入る適切な語はどれですか。「Her cruel words really ( ) him.（彼女の冷たい言葉は彼をひどく傷つけた）」',
+        options: ['wounded', 'injured', 'hurt', 'injures'],
+        correctAnswer: 2,
+        explanation: '心を「傷つける」は hurt が自然です。',
+      },
+      {
+        id: 'q-hurt-5',
+        question: '刃物・銃など武器による「負傷」に典型的に使うのはどれですか。',
+        options: ['hurt', 'injure', 'wound', 'どれも同じ'],
+        correctAnswer: 2,
+        explanation: '武器による負傷は wound です。',
+      },
+    ],
+  },
+  {
+    id: 'come-go',
+    title: 'come と go',
+    chapter: 2,
+    description: '向きが逆。come は話し手（や聞き手）の方へ「来る・行く」、go はそこから離れて「行く」。',
+    content: `## だれの方へ向かうかで見分ける
+
+移動の向きが逆です。**基準（話し手・聞き手のいる所）に近づくか離れるか**で使い分けます。
+
+- **come** … 基準の**方へ「来る」**。聞き手のいる場所へ向かうときも come（相手基準）。come-came-come。
+- **go** … 基準から**離れて「行く」**。go-went-gone。
+
+| 語 | 向き | 中心の意味 | 自作の例文 |
+| --- | --- | --- | --- |
+| come | こちらへ | 来る | Can you **come** to my house?（うちに来られる？） |
+| go | あちらへ | 行く | I need to **go** to the bank.（銀行へ行かなくては） |
+
+🎯 覚え方：**話し手・聞き手のいる所へなら come、そこから離れるなら go**。「（あなたの所へ）今行くよ」は英語では I'm **coming**（相手基準）。bring/take と同じ発想。`,
+    keyPoints: [
+      'come＝基準（話し手・聞き手）の方へ「来る」（come-came-come）',
+      'go＝基準から離れて「行く」（go-went-gone）',
+      '相手の所へ向かうときも come（bring/take と同型）',
+    ],
+    quiz: [
+      {
+        id: 'q-come-1',
+        question: '空所に入る適切な語はどれですか。「Dinner is ready! — I\'m ( )!（夕食できたよ！ ― 今行く！）」',
+        options: ['going', 'coming', 'went', 'goes'],
+        correctAnswer: 1,
+        explanation: '相手（呼んだ人）の方へ向かうので coming（相手基準の come）です。',
+      },
+      {
+        id: 'q-come-2',
+        question: '空所に入る適切な語はどれですか。「They will ( ) to Paris next week.（来週パリへ行く）」',
+        options: ['come', 'go', 'came', 'comes'],
+        correctAnswer: 1,
+        explanation: '今いる場所から離れて「行く」は go です。',
+      },
+      {
+        id: 'q-come-3',
+        question: '基準（話し手・聞き手）の方へ「来る・向かう」を表すのはどちらですか。',
+        options: ['go', 'come', 'どちらも', 'どちらも違う'],
+        correctAnswer: 1,
+        explanation: '基準へ向かうのは come。離れるのは go です。',
+      },
+      {
+        id: 'q-come-4',
+        question: 'go の活用として正しいものはどれですか。',
+        options: ['go-goed-gone', 'go-went-gone', 'go-go-went', 'go-gone-went'],
+        correctAnswer: 1,
+        explanation: 'go は不規則動詞で go-went-gone です。',
+      },
+      {
+        id: 'q-come-5',
+        question: '空所に入る適切な語はどれですか。「Please ( ) here and sit down.（こちらへ来て座って）」',
+        options: ['go', 'come', 'went', 'goes'],
+        correctAnswer: 1,
+        explanation: '話し手の所「こちらへ」は come here です。',
+      },
+    ],
+  },
+  {
+    id: 'flammable-inflammable',
+    title: 'flammable と inflammable',
+    chapter: 3,
+    description: '要注意：flammable と inflammable は同じ意味「燃えやすい」。in- は否定でなく強めの接頭辞。「燃えない」は non-flammable。',
+    content: `## ⚠️ 同じ意味の紛らわしいペア
+
+**flammable と inflammable は、どちらも「燃えやすい」**という同じ意味です。in- を否定と誤解しやすい危険な語です。
+
+- **flammable** … 「**燃えやすい・可燃性の**」。
+- **inflammable** … 「**燃えやすい・可燃性の**」（flammable と同義）。ここの in- は「否定」ではなく、ラテン語由来の**強め**。
+- **non-flammable** … 「**燃えない・不燃性の**」（これが反対）。
+
+| 語 | 意味 | 自作の例文 |
+| --- | --- | --- |
+| flammable | 燃えやすい | Keep **flammable** liquids away from fire.（可燃性の液体を火から離す） |
+| inflammable | 燃えやすい（同義） | **Inflammable** gas leaked from the pipe.（可燃性ガスが管から漏れた） |
+
+🎯 覚え方：**in- を「否定」と早合点しない。inflammable＝flammable＝「燃えやすい」**。誤解を避けるため、現代では flammable と non-flammable を使うのが推奨。`,
+    keyPoints: [
+      'flammable と inflammable は同義＝「燃えやすい」',
+      'inflammable の in- は否定でなく強め（誤解注意）',
+      '「燃えない」は non-flammable',
+    ],
+    quiz: [
+      {
+        id: 'q-flammable-1',
+        question: 'inflammable の意味として正しいものはどれですか。',
+        options: ['燃えない', '燃えやすい', '燃えたあとの', '火に強い'],
+        correctAnswer: 1,
+        explanation: 'inflammable は flammable と同義で「燃えやすい」です（in- は否定でない）。',
+      },
+      {
+        id: 'q-flammable-2',
+        question: '「燃えない・不燃性の」を表す語はどれですか。',
+        options: ['flammable', 'inflammable', 'non-flammable', 'flame'],
+        correctAnswer: 2,
+        explanation: '「燃えない」は non-flammable です。',
+      },
+      {
+        id: 'q-flammable-3',
+        question: 'flammable と inflammable の意味の関係はどれですか。',
+        options: ['反対の意味', '同じ意味（燃えやすい）', '程度が違う', '品詞が違う'],
+        correctAnswer: 1,
+        explanation: 'どちらも「燃えやすい」で同義です。',
+      },
+      {
+        id: 'q-flammable-4',
+        question: '空所に入る適切な語はどれですか。「This jacket is ( ); it won\'t catch fire easily.（この上着は燃えにくい）」',
+        options: ['flammable', 'inflammable', 'non-flammable', 'flame'],
+        correctAnswer: 2,
+        explanation: '「燃えにくい・燃えない」は non-flammable です。',
+      },
+      {
+        id: 'q-flammable-5',
+        question: 'inflammable の in- の働きはどれですか。',
+        options: ['否定（〜でない）', '強め（燃えやすさを示す）', '再び', '内側'],
+        correctAnswer: 1,
+        explanation: 'この in- は否定でなく、ラテン語由来の強めです。',
+      },
+    ],
+  },
+  {
+    id: 'famous-infamous',
+    title: 'famous と infamous',
+    chapter: 3,
+    description: 'famous「有名な（よい意味も含む）」、infamous「悪名高い（悪い評判で有名）」。in- がここでは否定的な色を加える。',
+    content: `## 良い評判か、悪い評判かで見分ける
+
+どちらも「（広く）知られている」ですが、評判の質が違います。
+
+- **famous** … /ˈfeɪməs/ 「**有名な**」。ふつう良い意味、または中立。
+- **infamous** … /ˈɪnfəməs/ 「**悪名高い・（悪い行いで）知られた**」。アクセントは前（イン）。
+
+| 語 | 発音 | 評判 | 自作の例文 |
+| --- | --- | --- | --- |
+| famous | /ˈfeɪməs/ | 良い・中立 | She is a **famous** actress.（彼女は有名な女優だ） |
+| **in**famous | /ˈɪnfəməs/ | 悪い | He is **infamous** for cheating.（彼は不正で悪名高い） |
+
+🎯 覚え方：**infamous は「悪いことで有名（notorious と同義）」で、アクセントは前・発音は「インファマス」**。ほめる有名は famous、悪評で有名は infamous。`,
+    keyPoints: [
+      'famous＝有名な（良い・中立）',
+      'infamous＝悪名高い（悪い評判で有名・notorious）',
+      'infamous のアクセントは前 /ˈɪnfəməs/',
+    ],
+    quiz: [
+      {
+        id: 'q-famous-1',
+        question: '空所に入る適切な語はどれですか。「The area is ( ) for its high crime rate.（その地域は犯罪率の高さで悪名高い）」',
+        options: ['famous', 'infamous', 'fame', 'famously'],
+        correctAnswer: 1,
+        explanation: '悪い評判で「悪名高い」は infamous です。',
+      },
+      {
+        id: 'q-famous-2',
+        question: '良い意味・中立で「有名な」を表す語はどれですか。',
+        options: ['infamous', 'famous', 'infamy', 'infamously'],
+        correctAnswer: 1,
+        explanation: 'ふつうの「有名な」は famous です。',
+      },
+      {
+        id: 'q-famous-3',
+        question: '空所に入る適切な語はどれですか。「Kyoto is ( ) for its beautiful temples.（京都は美しい寺で有名だ）」',
+        options: ['infamous', 'famous', 'infamy', 'infamously'],
+        correctAnswer: 1,
+        explanation: '良い評判の「有名」は famous です。',
+      },
+      {
+        id: 'q-famous-4',
+        question: '「悪名高い（悪い行いで知られた）」を表すのはどちらですか。',
+        options: ['famous', 'infamous', 'どちらも', 'どちらも違う'],
+        correctAnswer: 1,
+        explanation: 'infamous が「悪名高い」。famous は良い・中立です。',
+      },
+      {
+        id: 'q-famous-5',
+        question: 'infamous のアクセント位置はどれですか。',
+        options: ['前（イン）', '真ん中（ファ）', '後ろ（マス）', 'どこでもよい'],
+        correctAnswer: 0,
+        explanation: 'infamous /ˈɪnfəməs/ はアクセントが前です（famous とは音が違う）。',
+      },
+    ],
+  },
+  {
+    id: 'tail-tale',
+    title: 'tail と tale',
+    chapter: 4,
+    description: '同音 /teɪl/。tail「しっぽ・後部」（名詞）、tale「物語・話」（名詞）。意味とスペルで判断する同音異義語。',
+    content: `## 音は同じ、意味とスペルで見分ける
+
+**tail と tale は同じ発音 /teɪl/（同音異義語）**。意味とスペルで決めます。
+
+- **tail** … /teɪl/ 名詞「**しっぽ・尾／（物の）後部**」。
+- **tale** … /teɪl/ 名詞「**物語・話・作り話**」。fairy tale（おとぎ話）。
+
+| 語 | 発音 | 中心の意味 | 自作の例文 |
+| --- | --- | --- | --- |
+| t**ai**l | /teɪl/ | しっぽ・後部 | The dog wagged its **tail**.（犬はしっぽを振った） |
+| t**a**le | /teɪl/ | 物語 | Grandma told us a **tale**.（祖母が物語を聞かせてくれた） |
+
+🎯 覚え方：**動物の「しっぽ」は tail（ai）**、「物語・おとぎ話」は tale（fairy tale）。体の尾なら tail、お話なら tale。`,
+    keyPoints: [
+      'tail と tale は同音 /teɪl/',
+      'tail＝しっぽ・尾／後部',
+      'tale＝物語・話（fairy tale＝おとぎ話）',
+    ],
+    quiz: [
+      {
+        id: 'q-tail-1',
+        question: '空所に入る適切な語はどれですか。「She loves reading fairy ( ) to her kids.（彼女は子どもにおとぎ話を読むのが好きだ）」',
+        options: ['tails', 'tales', 'tail', 'tailed'],
+        correctAnswer: 1,
+        explanation: '「おとぎ話」は fairy tale（複数 tales）です。',
+      },
+      {
+        id: 'q-tail-2',
+        question: '「しっぽ・尾」という意味の名詞はどれですか。',
+        options: ['tale', 'tail', 'tales', 'tailed'],
+        correctAnswer: 1,
+        explanation: '「しっぽ」は tail /teɪl/ です。',
+      },
+      {
+        id: 'q-tail-3',
+        question: 'tail と tale の発音の関係はどれですか。',
+        options: ['母音が違う', '同じ発音（同音異義語）', '子音が違う', 'アクセントが違う'],
+        correctAnswer: 1,
+        explanation: 'どちらも /teɪl/ で同音異義語です。',
+      },
+      {
+        id: 'q-tail-4',
+        question: '空所に入る適切な語はどれですか。「The cat chased its own ( ).（猫は自分のしっぽを追いかけた）」',
+        options: ['tale', 'tail', 'tales', 'tailed'],
+        correctAnswer: 1,
+        explanation: '動物の「しっぽ」は tail です。',
+      },
+      {
+        id: 'q-tail-5',
+        question: '「物語・作り話」を意味するのはどちらですか。',
+        options: ['tail', 'tale', 'どちらも', 'どちらも違う'],
+        correctAnswer: 1,
+        explanation: '物語は tale。tail は「しっぽ」です。',
+      },
+    ],
+  },
+  {
+    id: 'vain-vein-vane',
+    title: 'vain と vein と vane',
+    chapter: 4,
+    description: '同音 /veɪn/。vain「うぬぼれた・むだな」、vein「静脈・血管」、vane「風見・羽根」。意味とスペルで判断。',
+    content: `## 役割で見分ける（3語の同音）
+
+**vain・vein・vane はすべて同じ発音 /veɪn/**。意味とスペルで決めます。
+
+- **vain** … /veɪn/ 形容詞「**うぬぼれた・虚栄心の強い／むだな**」。in vain（むだに）。
+- **vein** … /veɪn/ 名詞「**静脈・血管／（鉱脈・葉脈の）筋**」。
+- **vane** … /veɪn/ 名詞「**風見・（風車・羽根車の）羽根**」。weather vane（風見鶏）。
+
+| 語 | 発音 | 中心の意味 | 自作の例文 |
+| --- | --- | --- | --- |
+| v**ai**n | /veɪn/ | うぬぼれた・むだな | All our efforts were in **vain**.（努力はすべてむだだった） |
+| v**ei**n | /veɪn/ | 静脈 | Blood returns to the heart through **veins**.（血は静脈を通って心臓へ戻る） |
+| v**a**ne | /veɪn/ | 風見・羽根 | The weather **vane** turned in the wind.（風見鶏が風で回った） |
+
+🎯 覚え方：**うぬぼれ・むだは vain、血管の「静脈」は vein、風見・羽根は vane**。in vain（むだに）、vein（血管）、weather vane（風見鶏）。`,
+    keyPoints: [
+      'vain・vein・vane は同音 /veɪn/',
+      'vain＝うぬぼれた・むだな（in vain＝むだに）',
+      'vein＝静脈・血管／vane＝風見・羽根（weather vane）',
+    ],
+    quiz: [
+      {
+        id: 'q-vain-1',
+        question: '空所に入る適切な語はどれですか。「The nurse found a ( ) to draw blood.（看護師は採血のため血管を探した）」',
+        options: ['vain', 'vein', 'vane', 'vains'],
+        correctAnswer: 1,
+        explanation: '血管の「静脈」は vein です。',
+      },
+      {
+        id: 'q-vain-2',
+        question: '「うぬぼれた／むだな」を表す形容詞はどれですか。',
+        options: ['vein', 'vain', 'vane', 'veins'],
+        correctAnswer: 1,
+        explanation: '「うぬぼれた・むだな」は vain です（in vain）。',
+      },
+      {
+        id: 'q-vain-3',
+        question: '屋根の上で風向きを示す「風見」を表す語はどれですか。',
+        options: ['vain', 'vein', 'vane', 'vains'],
+        correctAnswer: 2,
+        explanation: '「風見・羽根」は vane（weather vane）です。',
+      },
+      {
+        id: 'q-vain-4',
+        question: '3語 vain・vein・vane の発音の関係はどれですか。',
+        options: ['すべて違う', 'すべて同じ（同音異義語）', '2つだけ同じ', 'アクセントが違う'],
+        correctAnswer: 1,
+        explanation: 'すべて /veɪn/ で同音異義語です。',
+      },
+      {
+        id: 'q-vain-5',
+        question: '空所に入る適切な語はどれですか。「They searched all night, but in ( ).（一晩中探したが、むだだった）」',
+        options: ['vein', 'vane', 'vain', 'veins'],
+        correctAnswer: 2,
+        explanation: '成句 in vain「むだに」の vain です。',
+      },
+    ],
+  },
+  {
+    id: 'way-weigh',
+    title: 'way と weigh',
+    chapter: 4,
+    description: '同音 /weɪ/。way「道・方法」（名詞）、weigh「重さを量る・重さがある」（動詞）。意味と品詞で判断。',
+    content: `## 音は同じ、意味と品詞で見分ける
+
+**way と weigh は同じ発音 /weɪ/（同音異義語）**（weigh の gh は無音）。意味と品詞で決めます。
+
+- **way** … /weɪ/ 名詞「**道・方向・方法・やり方**」。
+- **weigh** … /weɪ/ 動詞「**重さを量る／（重さが）〜ある**」。名詞は weight（重さ）。
+
+| 語 | 発音 | 品詞・中心の意味 | 自作の例文 |
+| --- | --- | --- | --- |
+| w**ay** | /weɪ/ | 名詞：道・方法 | Do you know the **way** to the station?（駅への道を知ってる？） |
+| w**eigh** | /weɪ/ | 動詞：重さを量る | Please **weigh** the package.（荷物の重さを量って） |
+
+🎯 覚え方：**「道・方法」は way、「重さを量る」は weigh（weight＝重さ の動詞）**。道順・やり方なら way、はかりで量るなら weigh。`,
+    keyPoints: [
+      'way と weigh は同音 /weɪ/',
+      'way＝名詞「道・方向・方法」',
+      'weigh＝動詞「重さを量る・（重さが）ある」（名詞 weight）',
+    ],
+    quiz: [
+      {
+        id: 'q-way-1',
+        question: '空所に入る適切な語はどれですか。「How much do you ( )?（体重はどれくらい？）」',
+        options: ['way', 'weigh', 'ways', 'weighs\''],
+        correctAnswer: 1,
+        explanation: '「重さがある・体重が〜だ」は動詞 weigh です。',
+      },
+      {
+        id: 'q-way-2',
+        question: '「道・方向・方法」という意味の名詞はどれですか。',
+        options: ['weigh', 'way', 'weighs', 'weighed'],
+        correctAnswer: 1,
+        explanation: '「道・方法」は way /weɪ/ です。',
+      },
+      {
+        id: 'q-way-3',
+        question: 'way と weigh の発音の関係はどれですか。',
+        options: ['母音が違う', '同じ発音（同音異義語）', '子音が違う', 'アクセントが違う'],
+        correctAnswer: 1,
+        explanation: 'どちらも /weɪ/ で同音異義語です（gh は無音）。',
+      },
+      {
+        id: 'q-way-4',
+        question: '空所に入る適切な語はどれですか。「This is the best ( ) to solve it.（これがそれを解く最善の方法だ）」',
+        options: ['weigh', 'way', 'weighs', 'weighed'],
+        correctAnswer: 1,
+        explanation: '「方法・やり方」は way です。',
+      },
+      {
+        id: 'q-way-5',
+        question: '動詞「重さを量る」を意味するのはどちらですか。',
+        options: ['way', 'weigh', 'どちらも', 'どちらも違う'],
+        correctAnswer: 1,
+        explanation: '重さを量るのは weigh。way は「道・方法」です。',
+      },
+    ],
+  },
+  {
+    id: 'mist-missed',
+    title: 'mist と missed',
+    chapter: 4,
+    description: '同音 /mɪst/。mist「霧・かすみ」（名詞）、missed「miss の過去（逃した・恋しく思った）」。意味と品詞で判断。',
+    content: `## 音は同じ、意味と品詞で見分ける
+
+**mist と missed は同じ発音 /mɪst/（同音異義語）**。意味と品詞で決めます。
+
+- **mist** … /mɪst/ 名詞「**霧・かすみ・水しぶき**」。fog より薄い。
+- **missed** … /mɪst/ 動詞 miss の過去・過去分詞「**逃した・乗り遅れた・（人を）恋しく思った**」。
+
+| 語 | 発音 | 品詞・中心の意味 | 自作の例文 |
+| --- | --- | --- | --- |
+| mist | /mɪst/ | 名詞：霧 | Morning **mist** covered the hills.（朝霧が丘を覆った） |
+| miss**ed** | /mɪst/ | miss の過去：逃した | I **missed** the last train.（終電を逃した） |
+
+🎯 覚え方：**うすい「霧」は mist、miss（逃す・恋しく思う）の過去は missed**。天気の霧なら mist、逃した・恋しかったなら missed。`,
+    keyPoints: [
+      'mist と missed は同音 /mɪst/',
+      'mist＝名詞「霧・かすみ」（fog より薄い）',
+      'missed＝miss の過去「逃した・恋しく思った」',
+    ],
+    quiz: [
+      {
+        id: 'q-mist-1',
+        question: '空所に入る適切な語はどれですか。「Sorry I\'m late; I ( ) the bus.（遅れてごめん、バスに乗り遅れた）」',
+        options: ['mist', 'missed', 'mists', 'missing'],
+        correctAnswer: 1,
+        explanation: '「乗り遅れた・逃した」は miss の過去 missed です。',
+      },
+      {
+        id: 'q-mist-2',
+        question: '「霧・かすみ」という意味の名詞はどれですか。',
+        options: ['missed', 'mist', 'missing', 'misses'],
+        correctAnswer: 1,
+        explanation: '「霧」は mist /mɪst/ です。',
+      },
+      {
+        id: 'q-mist-3',
+        question: 'mist と missed の発音の関係はどれですか。',
+        options: ['母音が違う', '同じ発音（同音異義語）', '子音が違う', 'アクセントが違う'],
+        correctAnswer: 1,
+        explanation: 'どちらも /mɪst/ で同音異義語です。',
+      },
+      {
+        id: 'q-mist-4',
+        question: '空所に入る適切な語はどれですか。「She really ( ) her family back home.（彼女は故郷の家族をとても恋しく思った）」',
+        options: ['mist', 'missed', 'mists', 'missing'],
+        correctAnswer: 1,
+        explanation: '「恋しく思った」は miss の過去 missed です。',
+      },
+      {
+        id: 'q-mist-5',
+        question: '天気の「霧・かすみ」を意味するのはどちらですか。',
+        options: ['missed', 'mist', 'どちらも', 'どちらも違う'],
+        correctAnswer: 1,
+        explanation: '霧は mist。missed は「逃した」です。',
+      },
+    ],
+  },
+  {
+    id: 'aisle-isle',
+    title: 'aisle と isle',
+    chapter: 4,
+    description: '同音 /aɪl/。aisle「（座席・棚の間の）通路」、isle「島」。どちらも黙字を含む同音異義語。',
+    content: `## 音は同じ、意味とスペルで見分ける
+
+**aisle と isle は同じ発音 /aɪl/（同音異義語）**。どちらも読まない字を含みます（aisle の s、isle の s は無音）。
+
+- **aisle** … /aɪl/ 名詞「**（電車・店・教会の座席や棚の間の）通路**」。
+- **isle** … /aɪl/ 名詞「**島**」（island の詩的・地名的な語）。
+
+| 語 | 発音 | 中心の意味 | 自作の例文 |
+| --- | --- | --- | --- |
+| **ai**sle | /aɪl/ | 通路 | I prefer an **aisle** seat.（通路側の席がいい） |
+| **i**sle | /aɪl/ | 島 | They sailed to a small **isle**.（小さな島へ船で渡った） |
+
+🎯 覚え方：**店・機内の「通路」は aisle、「島」は isle（island の仲間）**。座席の通路なら aisle、島なら isle。`,
+    keyPoints: [
+      'aisle と isle は同音 /aɪl/（黙字を含む）',
+      'aisle＝（座席・棚の間の）通路',
+      'isle＝島（island の詩的・地名的な語）',
+    ],
+    quiz: [
+      {
+        id: 'q-aisle-1',
+        question: '空所に入る適切な語はどれですか。「The bride walked down the ( ).（花嫁はバージンロード〈通路〉を歩いた）」',
+        options: ['isle', 'aisle', 'aisles', 'isles'],
+        correctAnswer: 1,
+        explanation: '教会などの「通路」は aisle です。',
+      },
+      {
+        id: 'q-aisle-2',
+        question: '「島」という意味の語はどれですか。',
+        options: ['aisle', 'isle', 'aisles', 'isled'],
+        correctAnswer: 1,
+        explanation: '「島」は isle /aɪl/（island の仲間）です。',
+      },
+      {
+        id: 'q-aisle-3',
+        question: 'aisle と isle の発音の関係はどれですか。',
+        options: ['母音が違う', '同じ発音（同音異義語）', '子音が違う', 'アクセントが違う'],
+        correctAnswer: 1,
+        explanation: 'どちらも /aɪl/ で同音異義語です（黙字を含む）。',
+      },
+      {
+        id: 'q-aisle-4',
+        question: '空所に入る適切な語はどれですか。「Cereal is in the third ( ) of the store.（シリアルは店の3番目の通路にある）」',
+        options: ['isle', 'aisle', 'isles', 'aisled'],
+        correctAnswer: 1,
+        explanation: '店の棚間の「通路」は aisle です。',
+      },
+      {
+        id: 'q-aisle-5',
+        question: '座席・棚のあいだの「通路」を意味するのはどちらですか。',
+        options: ['isle', 'aisle', 'どちらも', 'どちらも違う'],
+        correctAnswer: 1,
+        explanation: '通路は aisle。isle は「島」です。',
+      },
+    ],
+  },
+  {
+    id: 'currant-current',
+    title: 'currant と current',
+    chapter: 4,
+    description: '同音 /ˈkʌrənt/。currant「干しブドウ・スグリ（果実）」、current「現在の・流れ・電流」。意味とスペルで判断。',
+    content: `## 音は同じ、意味とスペルで見分ける
+
+**currant と current は同じ発音 /ˈkʌrənt/（同音異義語）**。末尾 **-ant と -ent**、意味で決めます。
+
+- **currant** … /ˈkʌrənt/ 名詞「**干しブドウ／スグリ（の実）**」。お菓子に使う小さな果実。
+- **current** … /ˈkʌrənt/ 形容詞「**現在の・最新の**」、名詞「**流れ・電流・海流**」。
+
+| 語 | 発音 | 中心の意味 | 自作の例文 |
+| --- | --- | --- | --- |
+| curr**ant** | /ˈkʌrənt/ | 干しブドウ・スグリ | Add **currants** to the cake batter.（生地に干しブドウを加えて） |
+| curr**ent** | /ˈkʌrənt/ | 現在の・流れ | What is the **current** situation?（現在の状況は？） |
+
+🎯 覚え方：**食べ物（果実）は currant（-ant）**、「現在の・流れ・電流」は current（-ent）。お菓子の実なら currant、今の状況・流れなら current。`,
+    keyPoints: [
+      'currant と current は同音 /ˈkʌrənt/',
+      'currant＝干しブドウ・スグリ（果実・-ant）',
+      'current＝現在の・最新の／流れ・電流（-ent）',
+    ],
+    quiz: [
+      {
+        id: 'q-currant-1',
+        question: '空所に入る適切な語はどれですか。「Please check the ( ) exchange rate.（現在の為替レートを確認して）」',
+        options: ['currant', 'current', 'currants', 'currently'],
+        correctAnswer: 1,
+        explanation: '「現在の・最新の」は current です。',
+      },
+      {
+        id: 'q-currant-2',
+        question: '「干しブドウ・スグリ（果実）」という意味の語はどれですか。',
+        options: ['current', 'currant', 'currents', 'currently'],
+        correctAnswer: 1,
+        explanation: '果実の「干しブドウ・スグリ」は currant です。',
+      },
+      {
+        id: 'q-currant-3',
+        question: 'currant と current の発音の関係はどれですか。',
+        options: ['母音が違う', '同じ発音（同音異義語）', '子音が違う', 'アクセントが違う'],
+        correctAnswer: 1,
+        explanation: 'どちらも /ˈkʌrənt/ で同音異義語です。',
+      },
+      {
+        id: 'q-currant-4',
+        question: '空所に入る適切な語はどれですか。「A strong ( ) pulled the swimmer out to sea.（強い流れが泳ぐ人を沖へ引いた）」',
+        options: ['currant', 'current', 'currants', 'currantly'],
+        correctAnswer: 1,
+        explanation: '水の「流れ・海流」は current です。',
+      },
+      {
+        id: 'q-currant-5',
+        question: '「現在の・電流・流れ」を意味するのはどちらですか。',
+        options: ['currant', 'current', 'どちらも', 'どちらも違う'],
+        correctAnswer: 1,
+        explanation: 'current が「現在の・流れ」。currant は果実です。',
+      },
+    ],
+  },
 ];
