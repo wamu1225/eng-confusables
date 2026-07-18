@@ -9116,4 +9116,616 @@ belief/believe と同じく、**-f（relief）が名詞、-ve（relieve）が動
       },
     ],
   },
+  {
+    id: 'home-house',
+    title: 'home と house',
+    chapter: 2,
+    description: 'house は「建物としての家」、home は「（暮らす場としての）家庭・我が家・故郷」。',
+    content: `## 建物か、暮らしの場かで見分ける
+
+どちらも「家」ですが、**物理的な建物か、暮らし・帰属の場か**で使い分けます。
+
+- **house** … 「**建物としての家・家屋**」。数えられる物理的な建造物。
+- **home** … 「**（自分が暮らす）家庭・我が家・故郷**」。感情・帰属を含む。at home（在宅で／くつろいで）。
+
+| 語 | 中心の意味 | 自作の例文 |
+| --- | --- | --- |
+| house | 建物としての家 | They built a new **house**.（彼らは新しい家を建てた） |
+| home | 家庭・我が家 | There's no place like **home**.（我が家がいちばん） |
+
+🎯 覚え方：**「建てる・買う」対象の建物は house、「帰る・くつろぐ」暮らしの場は home**。go home（家に帰る）は前置詞なし。建物を指すなら house。`,
+    keyPoints: [
+      'house＝建物としての家・家屋（数えられる建造物）',
+      'home＝家庭・我が家・故郷（帰属・感情を含む）',
+      'go home（前置詞なし）／at home（在宅・くつろいで）',
+    ],
+    quiz: [
+      {
+        id: 'q-home-1',
+        question: '空所に入る適切な語はどれですか。「After work, I just want to go ( ).（仕事のあとは家に帰りたいだけ）」',
+        options: ['house', 'home', 'houses', 'homely'],
+        correctAnswer: 1,
+        explanation: '「家に帰る」は go home（前置詞なし）。暮らしの場 home です。',
+      },
+      {
+        id: 'q-home-2',
+        question: '「建物としての家・家屋」を表す語はどれですか。',
+        options: ['home', 'house', 'homes', 'housing'],
+        correctAnswer: 1,
+        explanation: '建物としての家は house です。',
+      },
+      {
+        id: 'q-home-3',
+        question: '空所に入る適切な語はどれですか。「The old ( ) has five bedrooms.（その古い家には寝室が5つある）」',
+        options: ['home', 'house', 'homely', 'homes'],
+        correctAnswer: 1,
+        explanation: '部屋数を数える物理的な建物は house です。',
+      },
+      {
+        id: 'q-home-4',
+        question: '「家庭・我が家（帰属・感情）」を表すのはどちらですか。',
+        options: ['house', 'home', 'どちらも', 'どちらも違う'],
+        correctAnswer: 1,
+        explanation: '暮らし・帰属の場は home。建物は house です。',
+      },
+      {
+        id: 'q-home-5',
+        question: '空所に入る適切な語はどれですか。「Is anyone ( )? I rang the bell.（誰か在宅ですか。ベルを鳴らしました）」',
+        options: ['house', 'home', 'houses', 'housed'],
+        correctAnswer: 1,
+        explanation: 'at home の意味で「在宅」は home（be home）です。',
+      },
+    ],
+  },
+  {
+    id: 'receive-accept',
+    title: 'receive と accept',
+    chapter: 2,
+    description: 'receive は「（届いたものを）受け取る」（受動的）、accept は「（受け取ったものを）受け入れる・承諾する」（意志を伴う）。',
+    content: `## 受け取るだけか、承諾するかで見分ける
+
+どちらも「受ける」ですが、**単に届くか、意志を持って受け入れるか**で使い分けます。
+
+- **receive** … 「**（送られたもの・届いたもの）を受け取る**」。受動的に手にする。
+- **accept** … 「**（申し出・贈り物・条件）を受け入れる・承諾する**」。意志を持って認める。
+
+| 語 | ニュアンス | 中心の意味 | 自作の例文 |
+| --- | --- | --- | --- |
+| receive | 受動的に手にする | 受け取る | I **received** your letter yesterday.（昨日あなたの手紙を受け取った） |
+| accept | 承諾して受け入れる | 受け入れる | She **accepted** the invitation.（彼女は招待を受けた） |
+
+🎯 覚え方：**「届いた・手にした」は receive、「（承諾して）受け入れる」は accept**。贈り物を receive（受け取る）しても accept（受け入れる）しないこともある。承諾なら accept。`,
+    keyPoints: [
+      'receive＝（届いたもの）を受け取る（受動的）',
+      'accept＝（申し出・贈り物）を受け入れる・承諾する（意志的）',
+      '受け取っても承諾しないことがある＝receive ≠ accept',
+    ],
+    quiz: [
+      {
+        id: 'q-receive-1',
+        question: '空所に入る適切な語はどれですか。「He decided to ( ) the job offer.（彼は内定を受け入れることにした）」',
+        options: ['receive', 'accept', 'received', 'receives'],
+        correctAnswer: 1,
+        explanation: '意志を持って「受け入れる・承諾する」は accept です。',
+      },
+      {
+        id: 'q-receive-2',
+        question: '空所に入る適切な語はどれですか。「Did you ( ) my email this morning?（今朝、私のメールを受け取った？）」',
+        options: ['accept', 'receive', 'accepted', 'accepts'],
+        correctAnswer: 1,
+        explanation: '届いたものを「受け取る」は receive です。',
+      },
+      {
+        id: 'q-receive-3',
+        question: '意志を持って「承諾して受け入れる」を表すのはどちらですか。',
+        options: ['receive', 'accept', 'どちらも', 'どちらも違う'],
+        correctAnswer: 1,
+        explanation: '承諾は accept。単に受け取るは receive です。',
+      },
+      {
+        id: 'q-receive-4',
+        question: '空所に入る適切な語はどれですか。「She ( ) many gifts but returned some.（多くの贈り物を受け取ったが、いくつか返した）」',
+        options: ['accepted', 'received', 'accepts', 'accepting'],
+        correctAnswer: 1,
+        explanation: '「（届いて）手にした」は receive。承諾とは別です。',
+      },
+      {
+        id: 'q-receive-5',
+        question: '「（届いたものを）受動的に受け取る」を表すのはどちらですか。',
+        options: ['accept', 'receive', 'どちらも', 'どちらも違う'],
+        correctAnswer: 1,
+        explanation: '受動的に受け取るのは receive。承諾は accept です。',
+      },
+    ],
+  },
+  {
+    id: 'practical-practicable',
+    title: 'practical と practicable',
+    chapter: 3,
+    description: 'practical「実用的な・現実的な」（役に立つ・地に足のついた）、practicable「実行可能な」（実際にやれる）。',
+    content: `## 「役立つ」か「実行できる」かで見分ける
+
+似ていますが焦点が違います。
+
+- **practical** … 「**実用的な・現実的な・実践的な**」。役に立つ、地に足がついている（人にも使う）。
+- **practicable** … 「**実行可能な・実際にやれる**」。計画・方法が現実に実施できる（人には使わない）。
+
+| 語 | 中心の意味 | 自作の例文 |
+| --- | --- | --- |
+| practic**al** | 実用的な・現実的な | She gave **practical** advice.（彼女は実用的な助言をくれた） |
+| practic**able** | 実行可能な | The plan is not **practicable** in winter.（その計画は冬には実行できない） |
+
+🎯 覚え方：**-able の practicable は「実行できる（可能）」**、practical は「実用的・現実的（役立つ）」。計画が「実施できるか」は practicable、助言が「役立つ・現実的」は practical。`,
+    keyPoints: [
+      'practical＝実用的な・現実的な（役立つ・人にも使う）',
+      'practicable＝実行可能な（計画・方法が実施できる・人には使わない）',
+      '「実施できるか」は practicable、「役立つ」は practical',
+    ],
+    quiz: [
+      {
+        id: 'q-practical-1',
+        question: '空所に入る適切な語はどれですか。「Is this schedule ( ) with our budget?（この予定は予算内で実行可能？）」',
+        options: ['practical', 'practicable', 'practically', 'practice'],
+        correctAnswer: 1,
+        explanation: '「実行可能な」は practicable です。',
+      },
+      {
+        id: 'q-practical-2',
+        question: '「実用的な・現実的な」という意味の語はどれですか。',
+        options: ['practicable', 'practical', 'practice', 'practically'],
+        correctAnswer: 1,
+        explanation: '「実用的・現実的」は practical です。',
+      },
+      {
+        id: 'q-practical-3',
+        question: '空所に入る適切な語はどれですか。「He is a ( ) person who avoids risks.（彼はリスクを避ける現実的な人だ）」',
+        options: ['practicable', 'practical', 'practice', 'practicably'],
+        correctAnswer: 1,
+        explanation: '人にも使える「現実的な」は practical です（practicable は人に使いません）。',
+      },
+      {
+        id: 'q-practical-4',
+        question: '計画・方法が「実際にやれる（実行可能）」を表すのはどちらですか。',
+        options: ['practical', 'practicable', 'どちらも', 'どちらも違う'],
+        correctAnswer: 1,
+        explanation: '実行可能は practicable。実用的・現実的は practical です。',
+      },
+      {
+        id: 'q-practical-5',
+        question: '空所に入る適切な語はどれですか。「The course teaches ( ) skills for the job.（その講座は仕事に役立つ実践的技能を教える）」',
+        options: ['practicable', 'practical', 'practice', 'practicably'],
+        correctAnswer: 1,
+        explanation: '「実践的・実用的な（技能）」は practical です。',
+      },
+    ],
+  },
+  {
+    id: 'desirable-desirous',
+    title: 'desirable と desirous',
+    chapter: 3,
+    description: 'desirable「望ましい・好ましい」（〜される側）、desirous「（〜を）望んでいる」（望む側・desirous of）。',
+    content: `## 望まれる側か、望む側かで見分ける
+
+同じ desire（望む）から派生しますが、向きが逆です。
+
+- **desirable** … 「**望ましい・好ましい・魅力的な**」。（人・物が）**望まれる**側。
+- **desirous** … 「**（〜を）望んでいる・欲している**」。（人が）**望む**側。ふつう **desirous of ~**。
+
+| 語 | 向き | 中心の意味 | 自作の例文 |
+| --- | --- | --- | --- |
+| desir**able** | 望まれる側 | 望ましい | A quiet location is **desirable**.（静かな立地は望ましい） |
+| desir**ous** | 望む側 | 望んでいる | She is **desirous of** success.（彼女は成功を望んでいる） |
+
+🎯 覚え方：**-able の desirable は「（〜される）望ましい」**、-ous の desirous は「（〜を）望んでいる（desirous of）」。物事が「望ましい」なら desirable、人が「望んでいる」なら desirous。`,
+    keyPoints: [
+      'desirable＝望ましい・好ましい（望まれる側）',
+      'desirous＝（〜を）望んでいる（望む側・desirous of ~）',
+      '望まれる=desirable、望む=desirous',
+    ],
+    quiz: [
+      {
+        id: 'q-desirable-1',
+        question: '空所に入る適切な語はどれですか。「Many are ( ) of a better future.（多くの人がより良い未来を望んでいる）」',
+        options: ['desirable', 'desirous', 'desirably', 'desire'],
+        correctAnswer: 1,
+        explanation: '「（〜を）望んでいる」は desirous of ~ です。',
+      },
+      {
+        id: 'q-desirable-2',
+        question: '「望ましい・好ましい」という意味の語はどれですか。',
+        options: ['desirous', 'desirable', 'desire', 'desirably'],
+        correctAnswer: 1,
+        explanation: '「望ましい」は desirable（-able）です。',
+      },
+      {
+        id: 'q-desirable-3',
+        question: '空所に入る適切な語はどれですか。「Experience is ( ) but not required.（経験は望ましいが必須ではない）」',
+        options: ['desirous', 'desirable', 'desire', 'desirously'],
+        correctAnswer: 1,
+        explanation: '「望ましい（条件）」は desirable です。',
+      },
+      {
+        id: 'q-desirable-4',
+        question: '「（人が〜を）望んでいる」を表すのはどちらですか。',
+        options: ['desirable', 'desirous', 'どちらも', 'どちらも違う'],
+        correctAnswer: 1,
+        explanation: '望む側は desirous（of ~）。望まれる側は desirable です。',
+      },
+      {
+        id: 'q-desirable-5',
+        question: '空所に入る適切な語はどれですか。「A sea view makes the house more ( ).（海の眺めは家をより魅力的にする）」',
+        options: ['desirous', 'desirable', 'desire', 'desirously'],
+        correctAnswer: 1,
+        explanation: '「魅力的・望ましい」は desirable です。',
+      },
+    ],
+  },
+  {
+    id: 'rain-reign-rein',
+    title: 'rain と reign と rein',
+    chapter: 4,
+    description: '同音 /reɪn/。rain「雨」、reign「統治（する）・治世」、rein「手綱」。意味とスペルで判断する同音異義語。',
+    content: `## 役割で見分ける（3語の同音）
+
+**rain・reign・rein はすべて同じ発音 /reɪn/**。意味とスペルで決めます。
+
+- **rain** … /reɪn/ 名詞「**雨**」、動詞「雨が降る」。
+- **reign** … /reɪn/ 名詞・動詞「**統治（する）・治世・君臨**」。王・女王の支配。
+- **rein** … /reɪn/ 名詞「**手綱（たづな）**」。馬を操るひも。
+
+| 語 | 発音 | 中心の意味 | 自作の例文 |
+| --- | --- | --- | --- |
+| rain | /reɪn/ | 雨 | The **rain** stopped at noon.（正午に雨がやんだ） |
+| re**ig**n | /reɪn/ | 統治・治世 | The queen's **reign** lasted 50 years.（女王の治世は50年続いた） |
+| re**i**n | /reɪn/ | 手綱 | She pulled the **reins** to stop the horse.（手綱を引いて馬を止めた） |
+
+🎯 覚え方：**天気は rain、王の「統治」は reign（g が入る＝王家 sovereign の仲間）、馬の「手綱」は rein**。雨は rain、治世は reign、手綱は rein。`,
+    keyPoints: [
+      'rain・reign・rein は同音 /reɪn/',
+      'rain＝雨／reign＝統治・治世（g 入り）／rein＝手綱',
+      '天気は rain、王の支配は reign、馬の手綱は rein',
+    ],
+    quiz: [
+      {
+        id: 'q-rain-1',
+        question: '空所に入る適切な語はどれですか。「The king\'s ( ) brought peace.（王の治世は平和をもたらした）」',
+        options: ['rain', 'reign', 'rein', 'rains'],
+        correctAnswer: 1,
+        explanation: '「統治・治世」は reign です。',
+      },
+      {
+        id: 'q-rain-2',
+        question: '馬を操る「手綱」を表す語はどれですか。',
+        options: ['rain', 'reign', 'rein', 'reigns'],
+        correctAnswer: 2,
+        explanation: '「手綱」は rein です。',
+      },
+      {
+        id: 'q-rain-3',
+        question: '空所に入る適切な語はどれですか。「We got wet in the heavy ( ).（激しい雨でぬれた）」',
+        options: ['reign', 'rain', 'rein', 'reigns'],
+        correctAnswer: 1,
+        explanation: '天気の「雨」は rain です。',
+      },
+      {
+        id: 'q-rain-4',
+        question: '3語 rain・reign・rein の発音の関係はどれですか。',
+        options: ['すべて違う', 'すべて同じ（同音異義語）', '2つだけ同じ', 'アクセントが違う'],
+        correctAnswer: 1,
+        explanation: 'すべて /reɪn/ で同音異義語です。',
+      },
+      {
+        id: 'q-rain-5',
+        question: '空所に入る適切な語はどれですか。「The horse slowed as she loosened the ( ).（手綱をゆるめると馬は速度を落とした）」',
+        options: ['rain', 'reign', 'reins', 'rains'],
+        correctAnswer: 2,
+        explanation: '馬の「手綱」は rein（複数 reins）です。',
+      },
+    ],
+  },
+  {
+    id: 'warn-worn',
+    title: 'warn と worn',
+    chapter: 4,
+    description: '同音 /wɔːrn/。warn「警告する」（動詞）、worn「wear の過去分詞（着古した・すり減った）」。意味とスペルで判断。',
+    content: `## 音は同じ、意味とスペルで見分ける
+
+**warn と worn は同じ発音 /wɔːrn/（同音異義語）**。意味とスペルで決めます。
+
+- **warn** … /wɔːrn/ 動詞「**警告する・注意する**」。warn 人 of/about ~。
+- **worn** … /wɔːrn/ 動詞 wear の過去分詞「**身につけた／着古した・すり減った**」。
+
+| 語 | 発音 | 品詞・中心の意味 | 自作の例文 |
+| --- | --- | --- | --- |
+| w**ar**n | /wɔːrn/ | 動詞：警告する | They **warned** us about the storm.（嵐について警告してくれた） |
+| w**or**n | /wɔːrn/ | wear の過去分詞：着古した | These shoes are badly **worn**.（この靴はひどくすり減っている） |
+
+🎯 覚え方：**warn は「警告（alarm の仲間）」、worn は wear（着る）の過去分詞で「着古した・すり減った」**。注意を促すなら warn、使い古したなら worn。`,
+    keyPoints: [
+      'warn と worn は同音 /wɔːrn/',
+      'warn＝動詞「警告する」（warn 人 of/about ~）',
+      'worn＝wear の過去分詞「着古した・すり減った」',
+    ],
+    quiz: [
+      {
+        id: 'q-warn-1',
+        question: '空所に入る適切な語はどれですか。「The tires are too ( ) to be safe.（タイヤはすり減りすぎて安全でない）」',
+        options: ['warn', 'worn', 'warns', 'warned'],
+        correctAnswer: 1,
+        explanation: '「すり減った」は wear の過去分詞 worn です。',
+      },
+      {
+        id: 'q-warn-2',
+        question: '「警告する・注意する」という意味の動詞はどれですか。',
+        options: ['worn', 'warn', 'worns', 'wearing'],
+        correctAnswer: 1,
+        explanation: '動詞「警告する」は warn /wɔːrn/ です。',
+      },
+      {
+        id: 'q-warn-3',
+        question: 'warn と worn の発音の関係はどれですか。',
+        options: ['母音が違う', '同じ発音（同音異義語）', '子音が違う', 'アクセントが違う'],
+        correctAnswer: 1,
+        explanation: 'どちらも /wɔːrn/ で同音異義語です。',
+      },
+      {
+        id: 'q-warn-4',
+        question: '空所に入る適切な語はどれですか。「Signs ( ) drivers of falling rocks.（標識は運転者に落石を警告する）」',
+        options: ['worn', 'warn', 'worns', 'wears'],
+        correctAnswer: 1,
+        explanation: '「警告する」は warn です。',
+      },
+      {
+        id: 'q-warn-5',
+        question: 'wear（着る）の過去分詞「着古した」を意味するのはどちらですか。',
+        options: ['warn', 'worn', 'どちらも', 'どちらも違う'],
+        correctAnswer: 1,
+        explanation: 'worn が wear の過去分詞。warn は「警告する」です。',
+      },
+    ],
+  },
+  {
+    id: 'wear-where',
+    title: 'wear と where',
+    chapter: 4,
+    description: '同音 /wɛər/。wear「身につけている・着る」（動詞）、where「どこに・どこで」（疑問・関係）。意味と品詞で判断。',
+    content: `## 音は同じ、意味と品詞で見分ける
+
+**wear と where は同じ発音 /wɛər/（同音異義語）**。意味と品詞で決めます。
+
+- **wear** … /wɛər/ 動詞「**（衣服・眼鏡などを）身につけている・着る**」。wear-wore-worn。
+- **where** … /wɛər/ 「**どこに・どこで**」（疑問副詞・関係副詞）。
+
+| 語 | 発音 | 品詞・中心の意味 | 自作の例文 |
+| --- | --- | --- | --- |
+| w**ea**r | /wɛər/ | 動詞：身につける | You should **wear** a coat today.（今日はコートを着たほうがいい） |
+| **wh**ere | /wɛər/ | どこに・どこで | **Where** did you buy it?（それをどこで買ったの？） |
+
+🎯 覚え方：**wear は「着る（服）」の動詞、where は wh- で始まる場所の疑問「どこ」**。着る動作なら wear、場所を尋ねるなら where。`,
+    keyPoints: [
+      'wear と where は同音 /wɛər/',
+      'wear＝動詞「身につけている・着る」（wear-wore-worn）',
+      'where＝どこに・どこで（wh- の疑問・関係副詞）',
+    ],
+    quiz: [
+      {
+        id: 'q-wear-1',
+        question: '空所に入る適切な語はどれですか。「( ) are you going tonight?（今夜どこへ行くの？）」',
+        options: ['Wear', 'Where', 'Were', 'We\'re'],
+        correctAnswer: 1,
+        explanation: '場所を尋ねる「どこへ」は where です。',
+      },
+      {
+        id: 'q-wear-2',
+        question: '「（服などを）身につけている・着る」という動詞はどれですか。',
+        options: ['where', 'wear', 'were', 'ware'],
+        correctAnswer: 1,
+        explanation: '動詞「着る」は wear /wɛər/ です。',
+      },
+      {
+        id: 'q-wear-3',
+        question: 'wear と where の発音の関係はどれですか。',
+        options: ['母音が違う', '同じ発音（同音異義語）', '子音が違う', 'アクセントが違う'],
+        correctAnswer: 1,
+        explanation: 'どちらも /wɛər/ で同音異義語です。',
+      },
+      {
+        id: 'q-wear-4',
+        question: '空所に入る適切な語はどれですか。「She likes to ( ) bright colors.（彼女は明るい色を着るのが好きだ）」',
+        options: ['where', 'wear', 'were', 'ware'],
+        correctAnswer: 1,
+        explanation: '「着る」は wear です。',
+      },
+      {
+        id: 'q-wear-5',
+        question: 'wh- で始まり「どこに・どこで」を意味するのはどちらですか。',
+        options: ['wear', 'where', 'どちらも', 'どちらも違う'],
+        correctAnswer: 1,
+        explanation: 'where が場所の疑問。wear は「着る」です。',
+      },
+    ],
+  },
+  {
+    id: 'would-wood',
+    title: 'would と wood',
+    chapter: 4,
+    description: '同音 /wʊd/。would「will の過去・〜だろう」（助動詞）、wood「木材・森」（名詞）。意味と品詞で判断。',
+    content: `## 音は同じ、意味と品詞で見分ける
+
+**would と wood は同じ発音 /wʊd/（同音異義語）**（would は弱く /wəd/ とも）。意味で決めます。
+
+- **would** … /wʊd/ 助動詞「**〜だろう・〜したものだ**」（will の過去、仮定・丁寧）。
+- **wood** … /wʊd/ 名詞「**木材・木／（しばしば woods で）森**」。
+
+| 語 | 発音 | 品詞・中心の意味 | 自作の例文 |
+| --- | --- | --- | --- |
+| would | /wʊd/ | 助動詞：〜だろう | I **would** help if I could.（できれば手伝うのに） |
+| wood | /wʊd/ | 名詞：木材・森 | The table is made of **wood**.（そのテーブルは木でできている） |
+
+🎯 覚え方：**would は助動詞（動詞の前）、wood は「木材（材料）」の名詞**。文で助動詞の位置なら would、材料・森なら wood。`,
+    keyPoints: [
+      'would と wood は同音 /wʊd/',
+      'would＝助動詞「〜だろう・〜したものだ」（will の過去）',
+      'wood＝名詞「木材・木／森（woods）」',
+    ],
+    quiz: [
+      {
+        id: 'q-would-1',
+        question: '空所に入る適切な語はどれですか。「The chairs are made of solid ( ).（椅子は無垢の木でできている）」',
+        options: ['would', 'wood', 'woods', 'wooed'],
+        correctAnswer: 1,
+        explanation: '材料の「木材」は wood です。',
+      },
+      {
+        id: 'q-would-2',
+        question: '「〜だろう」を表す助動詞（will の過去）はどれですか。',
+        options: ['wood', 'would', 'woods', 'wooden'],
+        correctAnswer: 1,
+        explanation: '助動詞「〜だろう」は would /wʊd/ です。',
+      },
+      {
+        id: 'q-would-3',
+        question: 'would と wood の発音の関係はどれですか。',
+        options: ['母音が違う', '同じ発音（同音異義語）', '子音が違う', 'アクセントが違う'],
+        correctAnswer: 1,
+        explanation: 'どちらも /wʊd/ で同音異義語です。',
+      },
+      {
+        id: 'q-would-4',
+        question: '空所に入る適切な語はどれですか。「( ) you like some tea?（お茶はいかがですか）」',
+        options: ['Wood', 'Would', 'Woods', 'Wooden'],
+        correctAnswer: 1,
+        explanation: '丁寧な申し出「〜はいかがですか」は Would you like ~ です。',
+      },
+      {
+        id: 'q-would-5',
+        question: '名詞「木材・森」を意味するのはどちらですか。',
+        options: ['would', 'wood', 'どちらも', 'どちらも違う'],
+        correctAnswer: 1,
+        explanation: '「木材・森」は wood。would は助動詞です。',
+      },
+    ],
+  },
+  {
+    id: 'scene-seen',
+    title: 'scene と seen',
+    chapter: 4,
+    description: '同音 /siːn/。scene「場面・光景・現場」（名詞）、seen「see の過去分詞（見た）」。意味と品詞で判断。',
+    content: `## 音は同じ、意味と品詞で見分ける
+
+**scene と seen は同じ発音 /siːn/（同音異義語）**。意味と品詞で決めます。
+
+- **scene** … /siːn/ 名詞「**場面・光景・（事件の）現場・舞台**」。sc で始まる。
+- **seen** … /siːn/ 動詞 see の過去分詞「**見た・見られた**」。have seen ~。
+
+| 語 | 発音 | 品詞・中心の意味 | 自作の例文 |
+| --- | --- | --- | --- |
+| **sc**ene | /siːn/ | 名詞：場面・現場 | The final **scene** was moving.（最後の場面は感動的だった） |
+| seen | /siːn/ | see の過去分詞：見た | I have **seen** that movie.（その映画を見たことがある） |
+
+🎯 覚え方：**scene は sc で始まる名詞「場面・現場（scenery＝景色の仲間）」**、seen は see の過去分詞。名詞「場面」なら scene、have のあとの「見た」なら seen。`,
+    keyPoints: [
+      'scene と seen は同音 /siːn/',
+      'scene＝名詞「場面・光景・現場」（sc- 始まり）',
+      'seen＝see の過去分詞「見た」（have seen）',
+    ],
+    quiz: [
+      {
+        id: 'q-scene-1',
+        question: '空所に入る適切な語はどれですか。「Have you ever ( ) a shooting star?（流れ星を見たことある？）」',
+        options: ['scene', 'seen', 'scenes', 'seeing'],
+        correctAnswer: 1,
+        explanation: 'have のあとの「見た（過去分詞）」は seen です。',
+      },
+      {
+        id: 'q-scene-2',
+        question: '「場面・光景・現場」という意味の名詞はどれですか。',
+        options: ['seen', 'scene', 'seens', 'seeing'],
+        correctAnswer: 1,
+        explanation: '名詞「場面・現場」は scene /siːn/ です。',
+      },
+      {
+        id: 'q-scene-3',
+        question: 'scene と seen の発音の関係はどれですか。',
+        options: ['母音が違う', '同じ発音（同音異義語）', '子音が違う', 'アクセントが違う'],
+        correctAnswer: 1,
+        explanation: 'どちらも /siːn/ で同音異義語です。',
+      },
+      {
+        id: 'q-scene-4',
+        question: '空所に入る適切な語はどれですか。「Police arrived at the ( ) of the accident.（警察は事故現場に到着した）」',
+        options: ['seen', 'scene', 'seens', 'seeing'],
+        correctAnswer: 1,
+        explanation: '「（事件の）現場」は scene です。',
+      },
+      {
+        id: 'q-scene-5',
+        question: 'see の過去分詞「見た」を意味するのはどちらですか。',
+        options: ['scene', 'seen', 'どちらも', 'どちらも違う'],
+        correctAnswer: 1,
+        explanation: 'seen が see の過去分詞。scene は「場面・現場」です。',
+      },
+    ],
+  },
+  {
+    id: 'profit-prophet',
+    title: 'profit と prophet',
+    chapter: 4,
+    description: '同音 /ˈprɒfɪt/。profit「利益・もうけ」（名詞）、prophet「預言者」（名詞）。意味とスペルで判断。',
+    content: `## 音は同じ、意味とスペルで見分ける
+
+**profit と prophet は同じ発音 /ˈprɒfɪt/（同音異義語）**。意味とスペルで決めます。
+
+- **profit** … /ˈprɒfɪt/ 名詞「**利益・もうけ**」、動詞「利益を得る」。反対は loss。
+- **prophet** … /ˈprɒfɪt/ 名詞「**預言者**」。神の言葉を伝える人。
+
+| 語 | 発音 | 中心の意味 | 自作の例文 |
+| --- | --- | --- | --- |
+| pro**fit** | /ˈprɒfɪt/ | 利益・もうけ | The company made a large **profit**.（会社は大きな利益を上げた） |
+| pro**phet** | /ˈprɒfɪt/ | 預言者 | The **prophet** warned of hard times.（預言者は苦難を予告した） |
+
+🎯 覚え方：**お金の「利益」は profit（fit）、宗教の「預言者」は prophet（ph）**。ビジネスなら profit、聖書・宗教なら prophet。`,
+    keyPoints: [
+      'profit と prophet は同音 /ˈprɒfɪt/',
+      'profit＝利益・もうけ（反対は loss）',
+      'prophet＝預言者（ph で綴る）',
+    ],
+    quiz: [
+      {
+        id: 'q-profit-1',
+        question: '空所に入る適切な語はどれですか。「They sold the house at a ( ).（彼らは家を売って利益を得た）」',
+        options: ['prophet', 'profit', 'prophets', 'profited\''],
+        correctAnswer: 1,
+        explanation: 'お金の「利益」は profit です。',
+      },
+      {
+        id: 'q-profit-2',
+        question: '「預言者」という意味の名詞はどれですか。',
+        options: ['profit', 'prophet', 'profits', 'prophecy'],
+        correctAnswer: 1,
+        explanation: '「預言者」は prophet /ˈprɒfɪt/ です。',
+      },
+      {
+        id: 'q-profit-3',
+        question: 'profit と prophet の発音の関係はどれですか。',
+        options: ['母音が違う', '同じ発音（同音異義語）', '子音が違う', 'アクセントが違う'],
+        correctAnswer: 1,
+        explanation: 'どちらも /ˈprɒfɪt/ で同音異義語です。',
+      },
+      {
+        id: 'q-profit-4',
+        question: '空所に入る適切な語はどれですか。「The business runs at a small ( ) each month.（その事業は毎月わずかな利益を出す）」',
+        options: ['prophet', 'profit', 'prophets', 'prophecy'],
+        correctAnswer: 1,
+        explanation: '「利益・もうけ」は profit です。',
+      },
+      {
+        id: 'q-profit-5',
+        question: 'ph で綴り「神の言葉を伝える人」を意味するのはどちらですか。',
+        options: ['profit', 'prophet', 'どちらも', 'どちらも違う'],
+        correctAnswer: 1,
+        explanation: 'prophet（ph）＝預言者。profit（fit）＝利益です。',
+      },
+    ],
+  },
 ];
