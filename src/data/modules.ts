@@ -10340,4 +10340,614 @@ belief/believe と同じく、**-f（relief）が名詞、-ve（relieve）が動
       },
     ],
   },
+  {
+    id: 'amount-number',
+    title: 'amount と number',
+    chapter: 2,
+    description: '数えられるかで使い分ける。amount は「（不可算の）量」、number は「（可算の）数」。amount of ~／number of ~。',
+    content: `## 量か、数かで見分ける
+
+どちらも「〜の多さ」ですが、**後ろの名詞が不可算か可算か**で使い分けます。
+
+- **amount** … 「**（不可算の）量**」。an amount of + **不可算名詞**（water, money, time）。
+- **number** … 「**（可算の）数**」。a number of + **可算名詞（複数）**（people, books）。
+
+| 語 | 付く名詞 | 中心の意味 | 自作の例文 |
+| --- | --- | --- | --- |
+| amount | 不可算 | 量 | a large **amount** of water（大量の水） |
+| number | 可算・複数 | 数 | a large **number** of students（多数の生徒） |
+
+🎯 覚え方：**数えられない「量」は amount、数えられる「数」は number**。fewer/less と同じ判断（可算か不可算か）。water は amount、people は number。`,
+    keyPoints: [
+      'amount＝（不可算の）量（an amount of water）',
+      'number＝（可算の）数（a number of people）',
+      '判断の鍵：後ろの名詞が数えられるか（fewer/less と同じ）',
+    ],
+    quiz: [
+      {
+        id: 'q-amount-1',
+        question: '空所に入る適切な語はどれですか。「A large ( ) of tourists visit each year.（毎年多数の観光客が訪れる）」',
+        options: ['amount', 'number', 'amounts', 'numbers\''],
+        correctAnswer: 1,
+        explanation: 'tourists は可算・複数なので number（a number of ~）です。',
+      },
+      {
+        id: 'q-amount-2',
+        question: '空所に入る適切な語はどれですか。「They wasted a huge ( ) of money.（彼らは多額の金を浪費した）」',
+        options: ['number', 'amount', 'numbers', 'amounted'],
+        correctAnswer: 1,
+        explanation: 'money は不可算なので amount（an amount of ~）です。',
+      },
+      {
+        id: 'q-amount-3',
+        question: '可算名詞（複数）に付いて「数」を表すのはどちらですか。',
+        options: ['amount', 'number', 'どちらも', 'どちらも違う'],
+        correctAnswer: 1,
+        explanation: '可算・複数には number。不可算には amount です。',
+      },
+      {
+        id: 'q-amount-4',
+        question: '空所に入る適切な語はどれですか。「The ( ) of rainfall was above average.（降水量は平年を上回った）」',
+        options: ['number', 'amount', 'numbers', 'amounts'],
+        correctAnswer: 1,
+        explanation: 'rainfall は不可算なので amount です。',
+      },
+      {
+        id: 'q-amount-5',
+        question: '空所に入る適切な語はどれですか。「A small ( ) of errors were found.（少数の誤りが見つかった）」',
+        options: ['amount', 'number', 'amounts', 'amounted'],
+        correctAnswer: 1,
+        explanation: 'errors は可算・複数なので number です。',
+      },
+    ],
+  },
+  {
+    id: 'much-many',
+    title: 'much と many',
+    chapter: 2,
+    description: '数えられるかで使い分ける。much は「（不可算に）多くの」、many は「（可算に）多くの」。',
+    content: `## 数えられるかで見分ける
+
+どちらも「多くの」ですが、**後ろの名詞が不可算か可算か**で使い分けます。
+
+- **much** … 「**（不可算名詞に）多くの・多量の**」。much water, much time。
+- **many** … 「**（可算名詞の複数に）多くの・多数の**」。many books, many people。
+
+| 語 | 付く名詞 | 中心の意味 | 自作の例文 |
+| --- | --- | --- | --- |
+| much | 不可算 | 多くの（量） | I don't have **much** time.（あまり時間がない） |
+| many | 可算・複数 | 多くの（数） | She has **many** friends.（彼女は友達が多い） |
+
+🎯 覚え方：**不可算の「多量」は much、可算の「多数」は many**。肯定文で「たくさんの」は a lot of がどちらにも使える。water は much、friends は many。`,
+    keyPoints: [
+      'much＝（不可算に）多くの（much water/time）',
+      'many＝（可算・複数に）多くの（many books/people）',
+      '肯定文の「たくさん」は a lot of がどちらにも可',
+    ],
+    quiz: [
+      {
+        id: 'q-much-1',
+        question: '空所に入る適切な語はどれですか。「How ( ) books did you read?（何冊本を読んだ？）」',
+        options: ['much', 'many', 'muches', 'manies'],
+        correctAnswer: 1,
+        explanation: 'books は可算・複数なので many です。',
+      },
+      {
+        id: 'q-much-2',
+        question: '空所に入る適切な語はどれですか。「There isn\'t ( ) milk left.（牛乳があまり残っていない）」',
+        options: ['many', 'much', 'manys', 'muches'],
+        correctAnswer: 1,
+        explanation: 'milk は不可算なので much です。',
+      },
+      {
+        id: 'q-much-3',
+        question: '可算名詞（複数）に付くのはどちらですか。',
+        options: ['much', 'many', 'どちらも', 'どちらも違う'],
+        correctAnswer: 1,
+        explanation: '可算・複数には many。不可算には much です。',
+      },
+      {
+        id: 'q-much-4',
+        question: '空所に入る適切な語はどれですか。「He spends too ( ) money on games.（彼はゲームに金を使いすぎる）」',
+        options: ['many', 'much', 'manys', 'muches'],
+        correctAnswer: 1,
+        explanation: 'money は不可算なので much です。',
+      },
+      {
+        id: 'q-much-5',
+        question: '空所に入る適切な語はどれですか。「( ) people came to the festival.（多くの人が祭りに来た）」',
+        options: ['Much', 'Many', 'Muches', 'Manies'],
+        correctAnswer: 1,
+        explanation: 'people は可算・複数扱いなので Many です。',
+      },
+    ],
+  },
+  {
+    id: 'little-few',
+    title: 'little と few',
+    chapter: 2,
+    description: '数えられるかで使い分ける。little は「（不可算に）ほとんどない／少しの」、few は「（可算に）ほとんどない／少しの」。a の有無で意味が変わる。',
+    content: `## 数えられるか＋a の有無で見分ける
+
+どちらも「少ない」ですが、**不可算か可算か**、さらに **a が付くか**で意味が変わります。
+
+- **little** … **不可算名詞**に。**little＝ほとんどない**（否定的）／**a little＝少しある**（肯定的）。
+- **few** … **可算名詞（複数）**に。**few＝ほとんどない**（否定的）／**a few＝少しある**（肯定的）。
+
+| 語 | 付く名詞 | 中心の意味 | 自作の例文 |
+| --- | --- | --- | --- |
+| little / a little | 不可算 | ほとんどない／少し | We have **little** time.（ほとんど時間がない） |
+| few / a few | 可算・複数 | ほとんどない／少し | **A few** students stayed.（数人の生徒が残った） |
+
+🎯 覚え方：**不可算は little、可算は few**。さらに **a が付くと「少しある（肯定）」、付かないと「ほとんどない（否定）」**。water は little、books は few。`,
+    keyPoints: [
+      'little＝（不可算に）ほとんどない／a little＝少しある',
+      'few＝（可算・複数に）ほとんどない／a few＝少しある',
+      '不可算=little、可算=few。a の有無で肯定/否定が変わる',
+    ],
+    quiz: [
+      {
+        id: 'q-little-1',
+        question: '空所に入る適切な語はどれですか。「( ) people know this secret.（この秘密を知る人はほとんどいない）」',
+        options: ['Little', 'Few', 'Littles', 'Fews'],
+        correctAnswer: 1,
+        explanation: 'people は可算・複数で「ほとんどない」は Few です。',
+      },
+      {
+        id: 'q-little-2',
+        question: '空所に入る適切な語はどれですか。「There is ( ) hope of success.（成功の望みはほとんどない）」',
+        options: ['few', 'little', 'fews', 'littles'],
+        correctAnswer: 1,
+        explanation: 'hope は不可算で「ほとんどない」は little です。',
+      },
+      {
+        id: 'q-little-3',
+        question: '可算名詞（複数）に付くのはどちらですか。',
+        options: ['little', 'few', 'どちらも', 'どちらも違う'],
+        correctAnswer: 1,
+        explanation: '可算・複数には few。不可算には little です。',
+      },
+      {
+        id: 'q-little-4',
+        question: '空所に入る適切な語はどれですか。「Can I have ( ) water?（少し水をもらえる？）」',
+        options: ['a few', 'a little', 'few', 'little'],
+        correctAnswer: 1,
+        explanation: 'water は不可算で「少しある（肯定）」は a little です。',
+      },
+      {
+        id: 'q-little-5',
+        question: '「a ( ) friends came（数人の友達が来た）」の空所に入るのはどれですか。',
+        options: ['little', 'few', 'much', 'amount'],
+        correctAnswer: 1,
+        explanation: 'friends は可算・複数で「少し（数人）」は a few です。',
+      },
+    ],
+  },
+  {
+    id: 'regretful-regrettable',
+    title: 'regretful と regrettable',
+    chapter: 3,
+    description: 'regretful「（人が）後悔している・残念に思う」、regrettable「（事が）残念な・遺憾な」。主語が人か事かで使い分ける。',
+    content: `## 人が感じるか、事が残念かで見分ける
+
+同じ regret（後悔）から派生しますが、主語が違います。
+
+- **regretful** … 「**（人が）後悔している・すまなく思う**」。人の気持ち。
+- **regrettable** … 「**（事・状況が）残念な・遺憾な**」。物事の性質（-able＝〜されるべき）。
+
+| 語 | 主語 | 中心の意味 | 自作の例文 |
+| --- | --- | --- | --- |
+| regret**ful** | 人 | 後悔している | She felt **regretful** about her words.（自分の言葉を後悔した） |
+| regret**table** | 事 | 残念な・遺憾な | The delay is **regrettable**.（その遅れは遺憾だ） |
+
+🎯 覚え方：**-ful の regretful は「（人が）後悔でいっぱい」**、-able の regrettable は「（事が）残念がられるべき」。人の気持ちなら regretful、出来事の評価なら regrettable。`,
+    keyPoints: [
+      'regretful＝（人が）後悔している・すまなく思う',
+      'regrettable＝（事・状況が）残念な・遺憾な',
+      '主語が人なら regretful、事なら regrettable',
+    ],
+    quiz: [
+      {
+        id: 'q-regretful-1',
+        question: '空所に入る適切な語はどれですか。「It was a ( ) mistake that cost us the deal.（取引を失った残念な誤りだった）」',
+        options: ['regretful', 'regrettable', 'regret', 'regretfully'],
+        correctAnswer: 1,
+        explanation: '事・状況が「残念な・遺憾な」は regrettable です。',
+      },
+      {
+        id: 'q-regretful-2',
+        question: '「（人が）後悔している」という意味の語はどれですか。',
+        options: ['regrettable', 'regretful', 'regret', 'regrettably'],
+        correctAnswer: 1,
+        explanation: '人の気持ち「後悔している」は regretful です。',
+      },
+      {
+        id: 'q-regretful-3',
+        question: '空所に入る適切な語はどれですか。「He gave a ( ) sigh and apologized.（彼は後悔のため息をつき、謝った）」',
+        options: ['regrettable', 'regretful', 'regret', 'regrettably'],
+        correctAnswer: 1,
+        explanation: '人の気持ちを表す「後悔の（ため息）」は regretful です。',
+      },
+      {
+        id: 'q-regretful-4',
+        question: '「（事・状況が）残念な・遺憾な」を表すのはどちらですか。',
+        options: ['regretful', 'regrettable', 'どちらも', 'どちらも違う'],
+        correctAnswer: 1,
+        explanation: '事が「残念な」は regrettable。人が「後悔している」は regretful です。',
+      },
+      {
+        id: 'q-regretful-5',
+        question: '空所に入る適切な語はどれですか。「It is ( ) that so few attended.（出席者がとても少なかったのは残念だ）」',
+        options: ['regretful', 'regrettable', 'regret', 'regretfully'],
+        correctAnswer: 1,
+        explanation: '状況が「残念だ」は regrettable（It is regrettable that ~）です。',
+      },
+    ],
+  },
+  {
+    id: 'official-officious',
+    title: 'official と officious',
+    chapter: 3,
+    description: 'official「公式の・職員」、officious「お節介な・でしゃばりな」。同じ office 由来だが意味は大きく違う。',
+    content: `## 「公式」か「お節介」かで見分ける
+
+つづりは近いですが、意味は正反対に近いほど違います。
+
+- **official** … 「**公式の・正式の・公認の**」（形容詞）、「**職員・役人**」（名詞）。
+- **officious** … 「**お節介な・でしゃばりな・（頼まれもせず）差し出がましい**」（否定的）。
+
+| 語 | 中心の意味 | 自作の例文 |
+| --- | --- | --- |
+| offici**al** | 公式の・職員 | We await the **official** results.（公式の結果を待っている） |
+| offici**ous** | お節介な | An **officious** clerk kept interrupting.（でしゃばりな係員が口を挟み続けた） |
+
+🎯 覚え方：**-al の official は「公式・役人（まっとう）」**、-ous の officious は「お節介・でしゃばり（否定的）」。公認・正式なら official、頼まれもせず口を出すなら officious。`,
+    keyPoints: [
+      'official＝公式の・正式の／職員・役人',
+      'officious＝お節介な・でしゃばりな（否定的）',
+      '正式なら official、差し出がましいなら officious',
+    ],
+    quiz: [
+      {
+        id: 'q-official-1',
+        question: '空所に入る適切な語はどれですか。「The ( ) manager annoyed everyone with unwanted advice.（でしゃばりな上司が余計な助言でみなを苛立たせた）」',
+        options: ['official', 'officious', 'office', 'officially'],
+        correctAnswer: 1,
+        explanation: '否定的な「お節介・でしゃばり」は officious です。',
+      },
+      {
+        id: 'q-official-2',
+        question: '「公式の・正式の」という意味の語はどれですか。',
+        options: ['officious', 'official', 'office', 'officiously'],
+        correctAnswer: 1,
+        explanation: '「公式の・正式の」は official です。',
+      },
+      {
+        id: 'q-official-3',
+        question: '空所に入る適切な語はどれですか。「This is the ( ) website of the company.（これは会社の公式サイトだ）」',
+        options: ['officious', 'official', 'office', 'officiously'],
+        correctAnswer: 1,
+        explanation: '「公式の（サイト）」は official です。',
+      },
+      {
+        id: 'q-official-4',
+        question: '「お節介な・差し出がましい（否定的）」を表すのはどちらですか。',
+        options: ['official', 'officious', 'どちらも', 'どちらも違う'],
+        correctAnswer: 1,
+        explanation: 'officious が「お節介な」。official は「公式の」です。',
+      },
+      {
+        id: 'q-official-5',
+        question: '空所に入る適切な語はどれですか。「An ( ) from the ministry gave a statement.（省庁の職員が声明を出した）」',
+        options: ['officious', 'official', 'office', 'officiously'],
+        correctAnswer: 1,
+        explanation: '名詞「職員・役人」は official です。',
+      },
+    ],
+  },
+  {
+    id: 'toe-tow',
+    title: 'toe と tow',
+    chapter: 4,
+    description: '同音 /toʊ/。toe「つま先・足の指」（名詞）、tow「牽引する・引く」（動詞）。意味とスペルで判断。',
+    content: `## 音は同じ、意味とスペルで見分ける
+
+**toe と tow は同じ発音 /toʊ/（同音異義語）**。意味とスペルで決めます。
+
+- **toe** … /toʊ/ 名詞「**足の指・つま先**」。
+- **tow** … /toʊ/ 動詞「**（車・船を）牽引する・引く**」、名詞「牽引」。
+
+| 語 | 発音 | 品詞・中心の意味 | 自作の例文 |
+| --- | --- | --- | --- |
+| t**oe** | /toʊ/ | 名詞：つま先 | I stubbed my **toe** on the door.（ドアでつま先をぶつけた） |
+| t**ow** | /toʊ/ | 動詞：牽引する | A truck **towed** the broken car.（トラックが故障車を牽引した） |
+
+🎯 覚え方：**足の「指・つま先」は toe（e で終わる）**、車を「引っぱる（tow truck＝レッカー車）」は tow。体なら toe、牽引なら tow。`,
+    keyPoints: [
+      'toe と tow は同音 /toʊ/',
+      'toe＝足の指・つま先（名詞）',
+      'tow＝牽引する・引く（tow truck＝レッカー車）',
+    ],
+    quiz: [
+      {
+        id: 'q-toe-1',
+        question: '空所に入る適切な語はどれですか。「They had to ( ) the car to a garage.（車を修理工場まで牽引せねばならなかった）」',
+        options: ['toe', 'tow', 'toes', 'towed\''],
+        correctAnswer: 1,
+        explanation: '「牽引する」は動詞 tow です。',
+      },
+      {
+        id: 'q-toe-2',
+        question: '「足の指・つま先」という意味の名詞はどれですか。',
+        options: ['tow', 'toe', 'tows', 'toed'],
+        correctAnswer: 1,
+        explanation: '「つま先」は toe /toʊ/ です。',
+      },
+      {
+        id: 'q-toe-3',
+        question: 'toe と tow の発音の関係はどれですか。',
+        options: ['母音が違う', '同じ発音（同音異義語）', '子音が違う', 'アクセントが違う'],
+        correctAnswer: 1,
+        explanation: 'どちらも /toʊ/ で同音異義語です。',
+      },
+      {
+        id: 'q-toe-4',
+        question: '空所に入る適切な語はどれですか。「She wore sandals that showed her ( ).（彼女はつま先の見えるサンダルを履いた）」',
+        options: ['tow', 'toes', 'tows', 'towed'],
+        correctAnswer: 1,
+        explanation: '足の「指（複数）」は toes です。',
+      },
+      {
+        id: 'q-toe-5',
+        question: '車を「牽引する」を意味するのはどちらですか。',
+        options: ['toe', 'tow', 'どちらも', 'どちらも違う'],
+        correctAnswer: 1,
+        explanation: '牽引は tow。toe は「つま先」です。',
+      },
+    ],
+  },
+  {
+    id: 'band-banned',
+    title: 'band と banned',
+    chapter: 4,
+    description: '同音 /bænd/。band「楽団・帯・集団」（名詞）、banned「ban の過去分詞（禁止された）」。意味と品詞で判断。',
+    content: `## 音は同じ、意味と品詞で見分ける
+
+**band と banned は同じ発音 /bænd/（同音異義語）**。意味と品詞で決めます。
+
+- **band** … /bænd/ 名詞「**楽団・バンド／帯・ひも／集団**」。
+- **banned** … /bænd/ 動詞 ban の過去・過去分詞「**禁止された**」。
+
+| 語 | 発音 | 品詞・中心の意味 | 自作の例文 |
+| --- | --- | --- | --- |
+| band | /bænd/ | 名詞：楽団・帯 | The **band** played all night.（バンドは一晩中演奏した） |
+| ban**ned** | /bænd/ | ban の過去分詞：禁止された | Smoking is **banned** here.（ここは喫煙禁止だ） |
+
+🎯 覚え方：**音楽の「バンド」や「帯」は band、ban（禁止する）の過去分詞「禁止された」は banned（n がふたつ）**。楽団・帯なら band、禁止なら banned。`,
+    keyPoints: [
+      'band と banned は同音 /bænd/',
+      'band＝楽団・バンド／帯・ひも／集団（名詞）',
+      'banned＝ban の過去分詞「禁止された」（n がふたつ）',
+    ],
+    quiz: [
+      {
+        id: 'q-band-1',
+        question: '空所に入る適切な語はどれですか。「Plastic bags were ( ) in the city.（市ではレジ袋が禁止された）」',
+        options: ['band', 'banned', 'bands', 'banding'],
+        correctAnswer: 1,
+        explanation: '「禁止された」は ban の過去分詞 banned です。',
+      },
+      {
+        id: 'q-band-2',
+        question: '「楽団・バンド／帯」という意味の名詞はどれですか。',
+        options: ['banned', 'band', 'bans', 'banning'],
+        correctAnswer: 1,
+        explanation: '「楽団・帯」は band です。',
+      },
+      {
+        id: 'q-band-3',
+        question: 'band と banned の発音の関係はどれですか。',
+        options: ['母音が違う', '同じ発音（同音異義語）', '子音が違う', 'アクセントが違う'],
+        correctAnswer: 1,
+        explanation: 'どちらも /bænd/ で同音異義語です。',
+      },
+      {
+        id: 'q-band-4',
+        question: '空所に入る適切な語はどれですか。「She joined a jazz ( ) at college.（大学でジャズバンドに入った）」',
+        options: ['banned', 'band', 'bans', 'banning'],
+        correctAnswer: 1,
+        explanation: '音楽の「バンド」は band です。',
+      },
+      {
+        id: 'q-band-5',
+        question: 'ban（禁止する）の過去分詞「禁止された」を意味するのはどちらですか。',
+        options: ['band', 'banned', 'どちらも', 'どちらも違う'],
+        correctAnswer: 1,
+        explanation: 'banned が ban の過去分詞。band は「楽団・帯」です。',
+      },
+    ],
+  },
+  {
+    id: 'cereal-serial',
+    title: 'cereal と serial',
+    chapter: 4,
+    description: '同音 /ˈsɪəriəl/。cereal「穀物・シリアル（食品）」、serial「連続的な・連載の」。意味とスペルで判断。',
+    content: `## 音は同じ、意味とスペルで見分ける
+
+**cereal と serial は同じ発音 /ˈsɪəriəl/（同音異義語）**。意味とスペルで決めます。
+
+- **cereal** … /ˈsɪəriəl/ 名詞「**穀物／（朝食の）シリアル**」。c で始まる。
+- **serial** … /ˈsɪəriəl/ 形容詞「**連続的な・（一続きの）連載の・通し番号の**」、名詞「連続もの」。s で始まる。
+
+| 語 | 発音 | 中心の意味 | 自作の例文 |
+| --- | --- | --- | --- |
+| **c**ereal | /ˈsɪəriəl/ | 穀物・シリアル | I eat **cereal** for breakfast.（朝食にシリアルを食べる） |
+| **s**erial | /ˈsɪəriəl/ | 連続的な・連載の | The **serial** number is on the back.（通し番号は裏にある） |
+
+🎯 覚え方：**食べ物の「シリアル・穀物」は cereal（c）**、「連続・連載・通し番号」は serial（s＝series の仲間）。朝食なら cereal、通し番号・連続なら serial。`,
+    keyPoints: [
+      'cereal と serial は同音 /ˈsɪəriəl/',
+      'cereal＝穀物・シリアル（食品・c 始まり）',
+      'serial＝連続的な・連載の・通し番号の（s＝series の仲間）',
+    ],
+    quiz: [
+      {
+        id: 'q-cereal-1',
+        question: '空所に入る適切な語はどれですか。「Enter the ( ) number to register.（登録には通し番号を入力して）」',
+        options: ['cereal', 'serial', 'cereals', 'serially'],
+        correctAnswer: 1,
+        explanation: '「通し番号」は serial number です。',
+      },
+      {
+        id: 'q-cereal-2',
+        question: '「（朝食の）シリアル・穀物」という意味の語はどれですか。',
+        options: ['serial', 'cereal', 'serials', 'cereally'],
+        correctAnswer: 1,
+        explanation: '食品の「シリアル・穀物」は cereal /ˈsɪəriəl/ です。',
+      },
+      {
+        id: 'q-cereal-3',
+        question: 'cereal と serial の発音の関係はどれですか。',
+        options: ['母音が違う', '同じ発音（同音異義語）', '子音が違う', 'アクセントが違う'],
+        correctAnswer: 1,
+        explanation: 'どちらも /ˈsɪəriəl/ で同音異義語です。',
+      },
+      {
+        id: 'q-cereal-4',
+        question: '空所に入る適切な語はどれですか。「The story was published as a ( ) in the magazine.（その物語は雑誌に連載された）」',
+        options: ['cereal', 'serial', 'cereals', 'cereally'],
+        correctAnswer: 1,
+        explanation: '「連載・連続もの」は serial です。',
+      },
+      {
+        id: 'q-cereal-5',
+        question: '「連続的な・連載の・通し番号の」を意味するのはどちらですか。',
+        options: ['cereal', 'serial', 'どちらも', 'どちらも違う'],
+        correctAnswer: 1,
+        explanation: 'serial が「連続・連載」。cereal は「穀物・シリアル」です。',
+      },
+    ],
+  },
+  {
+    id: 'patience-patients',
+    title: 'patience と patients',
+    chapter: 4,
+    description: 'ほぼ同音 /ˈpeɪʃ(ə)ns/。patience「忍耐・辛抱」（不可算名詞）、patients「patient（患者）の複数」。意味で判断。',
+    content: `## 音はほぼ同じ、意味とスペルで見分ける
+
+**patience と patients はほぼ同じ発音 /ˈpeɪʃ(ə)ns/**。意味とスペルで決めます。
+
+- **patience** … /ˈpeɪʃəns/ 名詞「**忍耐・辛抱**」（不可算）。形容詞は patient（我慢強い）。
+- **patients** … /ˈpeɪʃənts/ 名詞「**患者（patient）の複数形**」。
+
+| 語 | 発音 | 中心の意味 | 自作の例文 |
+| --- | --- | --- | --- |
+| patien**ce** | /ˈpeɪʃəns/ | 忍耐 | Learning a language takes **patience**.（言語習得には忍耐がいる） |
+| patien**ts** | /ˈpeɪʃənts/ | 患者（複数） | The doctor sees many **patients** a day.（医者は1日に多くの患者を診る） |
+
+🎯 覚え方：**「忍耐」は patience（-ce）**、「患者たち」は patients（-ts＝複数）。我慢の話なら patience、病院の人なら patients。`,
+    keyPoints: [
+      'patience と patients はほぼ同音 /ˈpeɪʃ(ə)ns/',
+      'patience＝忍耐・辛抱（不可算名詞・-ce）',
+      'patients＝患者 patient の複数形（-ts）',
+    ],
+    quiz: [
+      {
+        id: 'q-patience-1',
+        question: '空所に入る適切な語はどれですか。「The nurse cared for six ( ) that night.（看護師はその夜6人の患者を看た）」',
+        options: ['patience', 'patients', 'patiences', 'patient'],
+        correctAnswer: 1,
+        explanation: '「患者（複数）」は patients です。',
+      },
+      {
+        id: 'q-patience-2',
+        question: '「忍耐・辛抱」という意味の名詞はどれですか。',
+        options: ['patients', 'patience', 'patient', 'patiently'],
+        correctAnswer: 1,
+        explanation: '「忍耐」は patience /ˈpeɪʃəns/ です。',
+      },
+      {
+        id: 'q-patience-3',
+        question: '空所に入る適切な語はどれですか。「Please have ( ); the line is long.（辛抱して。列は長い）」',
+        options: ['patients', 'patience', 'patient', 'patiently'],
+        correctAnswer: 1,
+        explanation: '「忍耐（を持つ）」は patience（have patience）です。',
+      },
+      {
+        id: 'q-patience-4',
+        question: '「患者たち（複数）」を表すのはどちらですか。',
+        options: ['patience', 'patients', 'どちらも', 'どちらも違う'],
+        correctAnswer: 1,
+        explanation: '患者の複数は patients。patience は「忍耐」です。',
+      },
+      {
+        id: 'q-patience-5',
+        question: '空所に入る適切な語はどれですか。「He lost his ( ) and shouted.（彼は我慢できず怒鳴った）」',
+        options: ['patients', 'patience', 'patient', 'patiently'],
+        correctAnswer: 1,
+        explanation: '「我慢・忍耐（を失う）」は patience（lose one\'s patience）です。',
+      },
+    ],
+  },
+  {
+    id: 'bury-berry',
+    title: 'bury と berry',
+    chapter: 4,
+    description: '同音 /ˈbɛri/。bury「埋める・葬る」（動詞）、berry「ベリー（果実）」（名詞）。意味とスペルで判断。',
+    content: `## 音は同じ、意味とスペルで見分ける
+
+**bury と berry は同じ発音 /ˈbɛri/（同音異義語）**。bury の u は「エ」の音です。
+
+- **bury** … /ˈbɛri/ 動詞「**埋める・葬る**」。bury-buried-buried。
+- **berry** … /ˈbɛri/ 名詞「**ベリー・液果（小さな果実）**」。strawberry など。
+
+| 語 | 発音 | 品詞・中心の意味 | 自作の例文 |
+| --- | --- | --- | --- |
+| b**u**ry | /ˈbɛri/ | 動詞：埋める | Dogs like to **bury** bones.（犬は骨を埋めるのが好きだ） |
+| b**e**rry | /ˈbɛri/ | 名詞：ベリー | This **berry** is sweet and red.（このベリーは甘くて赤い） |
+
+🎯 覚え方：**動詞「埋める」は bury（u だが「ベ」と読む）**、果実の「ベリー」は berry（r がふたつ）。埋める動作なら bury、果物なら berry。`,
+    keyPoints: [
+      'bury と berry は同音 /ˈbɛri/（bury の u は「エ」）',
+      'bury＝動詞「埋める・葬る」（bury-buried-buried）',
+      'berry＝名詞「ベリー・小さな果実」（r がふたつ）',
+    ],
+    quiz: [
+      {
+        id: 'q-bury-1',
+        question: '空所に入る適切な語はどれですか。「We picked a basket of ( ) in the field.（野原でベリーをひとかご摘んだ）」',
+        options: ['bury', 'berries', 'buries', 'buried'],
+        correctAnswer: 1,
+        explanation: '果実の「ベリー（複数）」は berries です。',
+      },
+      {
+        id: 'q-bury-2',
+        question: '「埋める・葬る」という意味の動詞はどれですか。',
+        options: ['berry', 'bury', 'berries', 'berried'],
+        correctAnswer: 1,
+        explanation: '動詞「埋める」は bury /ˈbɛri/ です。',
+      },
+      {
+        id: 'q-bury-3',
+        question: 'bury と berry の発音の関係はどれですか。',
+        options: ['母音が違う', '同じ発音（同音異義語）', '子音が違う', 'アクセントが違う'],
+        correctAnswer: 1,
+        explanation: 'どちらも /ˈbɛri/ で同音異義語です。',
+      },
+      {
+        id: 'q-bury-4',
+        question: '空所に入る適切な語はどれですか。「They ( ) the time capsule in the yard.（庭にタイムカプセルを埋めた）」',
+        options: ['berried', 'buried', 'berry', 'berries'],
+        correctAnswer: 1,
+        explanation: '「埋めた」は bury の過去 buried です。',
+      },
+      {
+        id: 'q-bury-5',
+        question: '果物の「ベリー」を意味するのはどちらですか。',
+        options: ['bury', 'berry', 'どちらも', 'どちらも違う'],
+        correctAnswer: 1,
+        explanation: 'ベリーは berry。bury は「埋める」です。',
+      },
+    ],
+  },
 ];
