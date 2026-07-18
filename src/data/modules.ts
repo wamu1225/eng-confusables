@@ -8506,4 +8506,614 @@ belief/believe と同じく、**-f（relief）が名詞、-ve（relieve）が動
       },
     ],
   },
+  {
+    id: 'imply-infer',
+    title: 'imply と infer',
+    chapter: 2,
+    description: '向きが逆。imply は話し手が「ほのめかす・暗に示す」、infer は聞き手が「推測する・読み取る」。',
+    content: `## だれがするかで見分ける
+
+情報の流れの向きが逆です。**送り手か、受け手か**で使い分けます。
+
+- **imply** … （話し手・文章が）「**ほのめかす・暗に示す**」。はっきり言わずに含める側。
+- **infer** … （聞き手・読み手が）「**推測する・読み取る**」。示されたものから結論を出す側。
+
+| 語 | 主体 | 中心の意味 | 自作の例文 |
+| --- | --- | --- | --- |
+| imply | 話し手 | ほのめかす | His silence **implied** disagreement.（彼の沈黙は反対を暗に示した） |
+| infer | 聞き手 | 推測する | From her tone, I **inferred** she was upset.（口調から動揺していると推測した） |
+
+🎯 覚え方：**imply は「中に込めて出す（in＋ply）＝ほのめかす」送り手**、infer は「中から引き出す（in＋fer）＝推測する」受け手。言う側は imply、読み取る側は infer。`,
+    keyPoints: [
+      'imply＝（話し手が）ほのめかす・暗に示す',
+      'infer＝（聞き手が）推測する・読み取る',
+      '送り手は imply、受け手は infer',
+    ],
+    quiz: [
+      {
+        id: 'q-imply-1',
+        question: '空所に入る適切な語はどれですか。「Readers can ( ) the theme from the story.（読者は物語からテーマを読み取れる）」',
+        options: ['imply', 'infer', 'implies', 'inferred\''],
+        correctAnswer: 1,
+        explanation: '受け手が「推測する・読み取る」は infer です。',
+      },
+      {
+        id: 'q-imply-2',
+        question: '話し手が「ほのめかす・暗に示す」を表すのはどちらですか。',
+        options: ['infer', 'imply', 'どちらも', 'どちらも違う'],
+        correctAnswer: 1,
+        explanation: 'ほのめかす（送り手）は imply。推測する（受け手）は infer です。',
+      },
+      {
+        id: 'q-imply-3',
+        question: '空所に入る適切な語はどれですか。「Are you ( ) that I lied?（私が嘘をついたとほのめかしているの？）」',
+        options: ['inferring', 'implying', 'inferred', 'infer'],
+        correctAnswer: 1,
+        explanation: '話し手が「ほのめかす」は imply（進行形 implying）です。',
+      },
+      {
+        id: 'q-imply-4',
+        question: '空所に入る適切な語はどれですか。「We ( ) from the data that sales rose.（データから売上が伸びたと推測した）」',
+        options: ['implied', 'inferred', 'imply', 'implies'],
+        correctAnswer: 1,
+        explanation: 'データから「推測する」は infer（過去 inferred）です。',
+      },
+      {
+        id: 'q-imply-5',
+        question: '聞き手・読み手が「結論を引き出す」のはどちらですか。',
+        options: ['imply', 'infer', 'どちらも', 'どちらも違う'],
+        correctAnswer: 1,
+        explanation: '結論を引き出す（受け手）は infer です。',
+      },
+    ],
+  },
+  {
+    id: 'refuse-reject',
+    title: 'refuse と reject',
+    chapter: 2,
+    description: 'refuse は「（申し出・依頼）を断る」（refuse to do も）、reject は「（案・応募・品）を拒絶・却下する」。',
+    content: `## 断り方の強さ・対象で見分ける
+
+どちらも「断る・拒む」ですが、対象や語法に差があります。
+
+- **refuse** … 「**（申し出・依頼・許可）をきっぱり断る**」。refuse + 名詞／**refuse to do**（〜するのを拒む）。
+- **reject** … 「**（提案・応募・製品など）を拒絶・却下・不合格にする**」。基準に照らして退けるニュアンス。
+
+| 語 | 対象・語法 | 中心の意味 | 自作の例文 |
+| --- | --- | --- | --- |
+| refuse | 申し出／refuse to do | 断る | He **refused** to answer.（彼は答えるのを拒んだ） |
+| reject | 案・応募・品 | 却下・不合格 | The committee **rejected** the plan.（委員会は案を却下した） |
+
+🎯 覚え方：**refuse は「〜するのを断る（refuse to do）」に使える**、reject は「（審査して）退ける・不合格」。応募や提案を「却下」なら reject、依頼を「断る」なら refuse。`,
+    keyPoints: [
+      'refuse＝（申し出・依頼）を断る（refuse to do）',
+      'reject＝（案・応募・品）を拒絶・却下・不合格にする',
+      '「〜するのを断る」は refuse to do、審査で退けるは reject',
+    ],
+    quiz: [
+      {
+        id: 'q-refuse-1',
+        question: '空所に入る適切な語はどれですか。「The publisher ( ) his manuscript.（出版社は彼の原稿を却下した）」',
+        options: ['refused', 'rejected', 'refuses', 'refuse'],
+        correctAnswer: 1,
+        explanation: '審査して「却下する」は reject です。',
+      },
+      {
+        id: 'q-refuse-2',
+        question: '空所に入る適切な語はどれですか。「She ( ) to sign the contract.（彼女は契約書への署名を拒んだ）」',
+        options: ['rejected', 'refused', 'rejects', 'reject'],
+        correctAnswer: 1,
+        explanation: 'refuse to do「〜するのを拒む」の refused です。',
+      },
+      {
+        id: 'q-refuse-3',
+        question: '「refuse to do（〜するのを断る）」の形をとるのはどちらですか。',
+        options: ['reject', 'refuse', 'どちらも', 'どちらも違う'],
+        correctAnswer: 1,
+        explanation: 'refuse to do。reject は reject to do とは言いません。',
+      },
+      {
+        id: 'q-refuse-4',
+        question: '空所に入る適切な語はどれですか。「Her application was ( ).（彼女の応募は不合格になった）」',
+        options: ['refused', 'rejected', 'refuse', 'refuses'],
+        correctAnswer: 1,
+        explanation: '応募が「不合格・却下」は reject（受け身 rejected）です。',
+      },
+      {
+        id: 'q-refuse-5',
+        question: '依頼・申し出を「きっぱり断る」のはどちらですか。',
+        options: ['reject', 'refuse', 'どちらも', 'どちらも違う'],
+        correctAnswer: 1,
+        explanation: '申し出・依頼を断るのは refuse が中心です。',
+      },
+    ],
+  },
+  {
+    id: 'notice-realize',
+    title: 'notice と realize',
+    chapter: 2,
+    description: 'notice は五感で「気づく・目に留める」、realize は頭で「（重要さ・事実を）はっきり理解する・悟る」。',
+    content: `## 感覚か、理解かで見分ける
+
+どちらも「気づく」ですが、**感覚でとらえるか、頭で理解するか**で使い分けます。
+
+- **notice** … 「**（見て・聞いて）気づく・目に留める**」。五感で表面的に気づく。
+- **realize** … 「**（事実・重要さを）はっきり理解する・悟る**」。頭の中で分かる。※「実現する」の意味もある。
+
+| 語 | 気づき方 | 中心の意味 | 自作の例文 |
+| --- | --- | --- | --- |
+| notice | 五感 | 目・耳で気づく | I **noticed** a new sign on the door.（ドアの新しい張り紙に気づいた） |
+| realize | 頭 | 理解する・悟る | I **realized** my mistake too late.（自分の誤りに気づくのが遅すぎた） |
+
+🎯 覚え方：**目・耳で「気づく」は notice、頭で「はっと理解する・悟る」は realize**。表面的な気づきは notice、意味・重大さの理解は realize。`,
+    keyPoints: [
+      'notice＝五感で「気づく・目に留める」',
+      'realize＝頭で「はっきり理解する・悟る」（「実現する」も）',
+      '表面的な気づきは notice、意味の理解は realize',
+    ],
+    quiz: [
+      {
+        id: 'q-notice-1',
+        question: '空所に入る適切な語はどれですか。「Suddenly I ( ) how important she was to me.（突然、彼女が自分にどれほど大切か悟った）」',
+        options: ['noticed', 'realized', 'notice', 'notices'],
+        correctAnswer: 1,
+        explanation: '重要さを頭で「悟る・理解する」は realize です。',
+      },
+      {
+        id: 'q-notice-2',
+        question: '空所に入る適切な語はどれですか。「Did you ( ) that he changed his hair?（彼が髪型を変えたのに気づいた？）」',
+        options: ['realize', 'notice', 'realized', 'realizes'],
+        correctAnswer: 1,
+        explanation: '見て「気づく」は notice が自然です。',
+      },
+      {
+        id: 'q-notice-3',
+        question: '頭で「事実・重要さを理解する・悟る」を表すのはどちらですか。',
+        options: ['notice', 'realize', 'どちらも', 'どちらも違う'],
+        correctAnswer: 1,
+        explanation: '理解・悟りは realize。表面的な気づきは notice です。',
+      },
+      {
+        id: 'q-notice-4',
+        question: '空所に入る適切な語はどれですか。「He didn\'t ( ) the small print at first.（最初、小さな文字に気づかなかった）」',
+        options: ['realize', 'notice', 'realized', 'realizes'],
+        correctAnswer: 1,
+        explanation: '目で「気づく」は notice です。',
+      },
+      {
+        id: 'q-notice-5',
+        question: '五感で「目に留める・気づく」を表すのはどちらですか。',
+        options: ['realize', 'notice', 'どちらも', 'どちらも違う'],
+        correctAnswer: 1,
+        explanation: '五感の気づきは notice。頭の理解は realize です。',
+      },
+    ],
+  },
+  {
+    id: 'comprehensible-comprehensive',
+    title: 'comprehensible と comprehensive',
+    chapter: 3,
+    description: '同じ comprehend 由来でも別語。comprehensible「理解できる・わかりやすい」、comprehensive「包括的な・網羅的な」。',
+    content: `## 意味の違いで見分ける
+
+どちらも comprehend（理解する）から派生しますが、意味は別です。
+
+- **comprehensible** … 「**理解できる・わかりやすい**」。相手が分かる（-ible＝〜できる）。
+- **comprehensive** … 「**包括的な・網羅的な・総合的な**」。広く全体をカバーする。
+
+| 語 | 中心の意味 | 自作の例文 |
+| --- | --- | --- |
+| comprehens**ible** | 理解できる | The instructions were clear and **comprehensible**.（説明は明快で理解しやすかった） |
+| comprehens**ive** | 包括的な | The report gives a **comprehensive** overview.（報告書は包括的な概観を示す） |
+
+🎯 覚え方：**-ible の comprehensible は「理解できる」**、-ive の comprehensive は「包括的（広くカバー）」。「わかりやすい」は comprehensible、「網羅的・総合」は comprehensive。`,
+    keyPoints: [
+      'comprehensible＝理解できる・わかりやすい（-ible）',
+      'comprehensive＝包括的な・網羅的な（-ive）',
+      '「わかりやすい」は comprehensible、「網羅的」は comprehensive',
+    ],
+    quiz: [
+      {
+        id: 'q-comprehensible-1',
+        question: '空所に入る適切な語はどれですか。「The textbook offers ( ) coverage of the topic.（その教科書は主題を網羅的に扱う）」',
+        options: ['comprehensible', 'comprehensive', 'comprehend', 'comprehension'],
+        correctAnswer: 1,
+        explanation: '「網羅的・包括的」は comprehensive です。',
+      },
+      {
+        id: 'q-comprehensible-2',
+        question: '「理解できる・わかりやすい」という意味の語はどれですか。',
+        options: ['comprehensive', 'comprehensible', 'comprehend', 'comprehensively'],
+        correctAnswer: 1,
+        explanation: '「理解できる」は comprehensible（-ible）です。',
+      },
+      {
+        id: 'q-comprehensible-3',
+        question: '空所に入る適切な語はどれですか。「Please make your explanation ( ) to beginners.（初心者にも理解できる説明にして）」',
+        options: ['comprehensive', 'comprehensible', 'comprehend', 'comprehension'],
+        correctAnswer: 1,
+        explanation: '「理解できる」は comprehensible です。',
+      },
+      {
+        id: 'q-comprehensible-4',
+        question: '「包括的な・総合的な」を表すのはどちらですか。',
+        options: ['comprehensible', 'comprehensive', 'どちらも', 'どちらも違う'],
+        correctAnswer: 1,
+        explanation: 'comprehensive が「包括的」。comprehensible は「理解できる」です。',
+      },
+      {
+        id: 'q-comprehensible-5',
+        question: '空所に入る適切な語はどれですか。「They bought ( ) insurance covering everything.（彼らはすべてをカバーする総合保険に入った）」',
+        options: ['comprehensible', 'comprehensive', 'comprehend', 'comprehension'],
+        correctAnswer: 1,
+        explanation: '「総合的な（保険）」は comprehensive です。',
+      },
+    ],
+  },
+  {
+    id: 'credible-credulous',
+    title: 'credible と credulous',
+    chapter: 3,
+    description: '同じ cred（信じる）由来でも別語。credible「信用できる・信じるに足る」、credulous「（人が）すぐ信じる・だまされやすい」。',
+    content: `## 何が信用に関わるかで見分ける
+
+どちらも cred-（信じる）から来ますが、意味の向きが違います。
+
+- **credible** … 「**信用できる・もっともらしい**」。情報・証人などが信じるに足る。
+- **credulous** … 「**（人が）すぐ信じる・だまされやすい・軽信的な**」。人の性質。
+
+| 語 | 対象 | 中心の意味 | 自作の例文 |
+| --- | --- | --- | --- |
+| cred**ible** | 情報・人の信頼性 | 信用できる | The witness gave a **credible** account.（証人は信用できる証言をした） |
+| cred**ulous** | 人の性質 | だまされやすい | A **credulous** buyer fell for the scam.（軽信的な買い手が詐欺に引っかかった） |
+
+🎯 覚え方：**-ible の credible は「（対象が）信じられる」**、-ulous の credulous は「（人が）すぐ信じてしまう」。情報が信頼できるなら credible、人がだまされやすいなら credulous。`,
+    keyPoints: [
+      'credible＝信用できる・もっともらしい（情報・証人）',
+      'credulous＝（人が）すぐ信じる・だまされやすい',
+      '対象が信頼できる=credible、人が軽信的=credulous',
+    ],
+    quiz: [
+      {
+        id: 'q-credible-1',
+        question: '空所に入る適切な語はどれですか。「Too ( ), he believed every rumor.（軽信的すぎて、彼はどんな噂も信じた）」',
+        options: ['credible', 'credulous', 'credibly', 'credit'],
+        correctAnswer: 1,
+        explanation: '「（人が）だまされやすい・軽信的な」は credulous です。',
+      },
+      {
+        id: 'q-credible-2',
+        question: '「信用できる・もっともらしい」という意味の語はどれですか。',
+        options: ['credulous', 'credible', 'credit', 'credulity'],
+        correctAnswer: 1,
+        explanation: '「信用できる」は credible（-ible）です。',
+      },
+      {
+        id: 'q-credible-3',
+        question: '空所に入る適切な語はどれですか。「Is there any ( ) evidence for this claim?（この主張に信用できる証拠はある？）」',
+        options: ['credulous', 'credible', 'credit', 'credulity'],
+        correctAnswer: 1,
+        explanation: '証拠が「信用できる」は credible です。',
+      },
+      {
+        id: 'q-credible-4',
+        question: '「（人が）すぐ信じる・だまされやすい」を表すのはどちらですか。',
+        options: ['credible', 'credulous', 'どちらも', 'どちらも違う'],
+        correctAnswer: 1,
+        explanation: '人の性質「だまされやすい」は credulous。情報の信頼性は credible です。',
+      },
+      {
+        id: 'q-credible-5',
+        question: '空所に入る適切な語はどれですか。「Her story sounded ( ) enough to trust.（彼女の話は信じるに足るほどもっともらしかった）」',
+        options: ['credulous', 'credible', 'credit', 'credulity'],
+        correctAnswer: 1,
+        explanation: '「もっともらしい・信用できる」は credible です。',
+      },
+    ],
+  },
+  {
+    id: 'threw-through',
+    title: 'threw と through',
+    chapter: 4,
+    description: '同音 /θruː/。threw「throw の過去（投げた）」、through「〜を通って」（前置詞）。意味とスペルで判断。',
+    content: `## 音は同じ、意味とスペルで見分ける
+
+**threw と through は同じ発音 /θruː/（同音異義語）**。意味と品詞で決めます。
+
+- **threw** … /θruː/ 動詞 throw の過去「**投げた**」。throw-threw-thrown。
+- **through** … /θruː/ 前置詞・副詞「**〜を通って・〜を通じて・終えて**」。
+
+| 語 | 発音 | 品詞・中心の意味 | 自作の例文 |
+| --- | --- | --- | --- |
+| thr**ew** | /θruː/ | throw の過去：投げた | She **threw** the ball to me.（彼女は私にボールを投げた） |
+| thr**ough** | /θruː/ | 前置詞：〜を通って | We drove **through** the tunnel.（トンネルを車で通った） |
+
+🎯 覚え方：**動詞（投げた）は threw、前置詞（通って）は through**。過去の「投げた」なら threw、「〜を通って・通じて」なら through。`,
+    keyPoints: [
+      'threw と through は同音 /θruː/',
+      'threw＝throw の過去「投げた」（throw-threw-thrown）',
+      'through＝前置詞「〜を通って・通じて」',
+    ],
+    quiz: [
+      {
+        id: 'q-threw-1',
+        question: '空所に入る適切な語はどれですか。「The train went ( ) several tunnels.（列車はいくつものトンネルを通った）」',
+        options: ['threw', 'through', 'threws', 'thrown'],
+        correctAnswer: 1,
+        explanation: '「〜を通って」は前置詞 through です。',
+      },
+      {
+        id: 'q-threw-2',
+        question: 'throw の過去形「投げた」を表す語はどれですか。',
+        options: ['through', 'threw', 'throughs', 'thrown'],
+        correctAnswer: 1,
+        explanation: 'throw の過去は threw です。',
+      },
+      {
+        id: 'q-threw-3',
+        question: 'threw と through の発音の関係はどれですか。',
+        options: ['母音が違う', '同じ発音（同音異義語）', '子音が違う', 'アクセントが違う'],
+        correctAnswer: 1,
+        explanation: 'どちらも /θruː/ で同音異義語です。',
+      },
+      {
+        id: 'q-threw-4',
+        question: '空所に入る適切な語はどれですか。「He ( ) the trash into the bin.（彼はゴミを箱に投げ入れた）」',
+        options: ['through', 'threw', 'throughs', 'thrown'],
+        correctAnswer: 1,
+        explanation: '「投げた」は throw の過去 threw です。',
+      },
+      {
+        id: 'q-threw-5',
+        question: '前置詞「〜を通じて・終えて」を意味するのはどちらですか。',
+        options: ['threw', 'through', 'どちらも', 'どちらも違う'],
+        correctAnswer: 1,
+        explanation: '前置詞は through。threw は「投げた」です。',
+      },
+    ],
+  },
+  {
+    id: 'passed-past',
+    title: 'passed と past',
+    chapter: 4,
+    description: '同音 /pæst/。passed「pass の過去（通り過ぎた・合格した）」、past「過去・〜を過ぎて」（名詞・前置詞）。',
+    content: `## 品詞で見分ける（ほぼ同音）
+
+**passed と past はほぼ同じ発音 /pæst/**。品詞と意味で決めます。
+
+- **passed** … /pæst/ 動詞 pass の過去・過去分詞「**通り過ぎた・合格した・手渡した**」。
+- **past** … /pæst/ 名詞「**過去**」、前置詞「**〜を過ぎて**」、形容詞「**過ぎ去った**」。
+
+| 語 | 品詞 | 中心の意味 | 自作の例文 |
+| --- | --- | --- | --- |
+| pass**ed** | 動詞（過去） | 通り過ぎた・合格した | She **passed** the exam.（彼女は試験に合格した） |
+| past | 名詞・前置詞 | 過去・〜を過ぎて | We walked **past** the shop.（店の前を通り過ぎた） |
+
+🎯 覚え方：**動詞（pass の過去）は passed、名詞・前置詞（過去・〜を過ぎて）は past**。動作「通り過ぎた・合格した」なら passed、「〜を過ぎて／過去」なら past。`,
+    keyPoints: [
+      'passed と past はほぼ同音 /pæst/',
+      'passed＝pass の過去「通り過ぎた・合格した」（動詞）',
+      'past＝過去・〜を過ぎて（名詞・前置詞・形容詞）',
+    ],
+    quiz: [
+      {
+        id: 'q-passed-1',
+        question: '空所に入る適切な語はどれですか。「The bus drove ( ) the station without stopping.（バスは止まらず駅を通り過ぎた）」',
+        options: ['passed', 'past', 'passes', 'passing'],
+        correctAnswer: 1,
+        explanation: '前置詞「〜を過ぎて」は past です。',
+      },
+      {
+        id: 'q-passed-2',
+        question: 'pass の過去形「通り過ぎた・合格した」を表す語はどれですか。',
+        options: ['past', 'passed', 'pasts', 'passing'],
+        correctAnswer: 1,
+        explanation: 'pass の過去は passed です。',
+      },
+      {
+        id: 'q-passed-3',
+        question: '空所に入る適切な語はどれですか。「In the ( ), people wrote letters by hand.（昔は人々は手紙を手で書いた）」',
+        options: ['passed', 'past', 'passes', 'passing'],
+        correctAnswer: 1,
+        explanation: '名詞「過去・昔」は past です。',
+      },
+      {
+        id: 'q-passed-4',
+        question: '空所に入る適切な語はどれですか。「He ( ) the salt to me.（彼は私に塩を手渡した）」',
+        options: ['past', 'passed', 'pasts', 'passing'],
+        correctAnswer: 1,
+        explanation: '「手渡した」は pass の過去 passed です。',
+      },
+      {
+        id: 'q-passed-5',
+        question: '名詞「過去」・前置詞「〜を過ぎて」を表すのはどちらですか。',
+        options: ['passed', 'past', 'どちらも', 'どちらも違う'],
+        correctAnswer: 1,
+        explanation: 'past が名詞・前置詞。passed は動詞（pass の過去）です。',
+      },
+    ],
+  },
+  {
+    id: 'fair-fare',
+    title: 'fair と fare',
+    chapter: 4,
+    description: '同音 /fɛər/。fair「公平な・見本市・晴れの」、fare「（乗り物の）運賃」。意味とスペルで判断。',
+    content: `## 音は同じ、意味とスペルで見分ける
+
+**fair と fare は同じ発音 /fɛər/（同音異義語）**。意味とスペルで決めます。
+
+- **fair** … /fɛər/ 形容詞「**公平な・妥当な／晴れの／（肌・髪が）色白の**」、名詞「**見本市・品評会**」。
+- **fare** … /fɛər/ 名詞「**（乗り物の）運賃・料金**」。
+
+| 語 | 発音 | 中心の意味 | 自作の例文 |
+| --- | --- | --- | --- |
+| f**ai**r | /fɛər/ | 公平な・見本市 | That's not a **fair** decision.（それは公平な決定ではない） |
+| f**a**re | /fɛər/ | 運賃 | The train **fare** went up.（電車の運賃が上がった） |
+
+🎯 覚え方：**乗り物の「運賃」は fare（bus fare / train fare）**。「公平な・見本市」は fair。料金なら fare、公平・イベントなら fair。`,
+    keyPoints: [
+      'fair と fare は同音 /fɛər/',
+      'fair＝公平な・見本市・晴れの・色白の',
+      'fare＝（乗り物の）運賃・料金',
+    ],
+    quiz: [
+      {
+        id: 'q-fair-1',
+        question: '空所に入る適切な語はどれですか。「How much is the bus ( ) to the airport?（空港までのバス運賃はいくら？）」',
+        options: ['fair', 'fare', 'fairs', 'fared'],
+        correctAnswer: 1,
+        explanation: '乗り物の「運賃」は fare です。',
+      },
+      {
+        id: 'q-fair-2',
+        question: '「公平な」または「見本市」を表す語はどれですか。',
+        options: ['fare', 'fair', 'fares', 'fairing'],
+        correctAnswer: 1,
+        explanation: '「公平な・見本市」は fair /fɛər/ です。',
+      },
+      {
+        id: 'q-fair-3',
+        question: 'fair と fare の発音の関係はどれですか。',
+        options: ['母音が違う', '同じ発音（同音異義語）', '子音が違う', 'アクセントが違う'],
+        correctAnswer: 1,
+        explanation: 'どちらも /fɛər/ で同音異義語です。',
+      },
+      {
+        id: 'q-fair-4',
+        question: '空所に入る適切な語はどれですか。「We saw new robots at the science ( ).（科学の見本市で新しいロボットを見た）」',
+        options: ['fare', 'fair', 'fares', 'fared'],
+        correctAnswer: 1,
+        explanation: '「見本市・品評会」は fair です。',
+      },
+      {
+        id: 'q-fair-5',
+        question: '乗り物の「運賃・料金」を意味するのはどちらですか。',
+        options: ['fair', 'fare', 'どちらも', 'どちらも違う'],
+        correctAnswer: 1,
+        explanation: '運賃は fare。fair は公平な・見本市です。',
+      },
+    ],
+  },
+  {
+    id: 'hour-our',
+    title: 'hour と our',
+    chapter: 4,
+    description: '同音 /aʊər/。hour「1時間・時刻」（h は無音）、our「私たちの」（所有格）。意味とスペルで判断。',
+    content: `## 音は同じ、意味とスペルで見分ける
+
+**hour と our はほぼ同じ発音 /aʊər/**。hour の **h は発音しません**。
+
+- **hour** … /aʊər/ 名詞「**1時間・時刻**」。an hour（1時間）。
+- **our** … /aʊər/ 所有格「**私たちの**」。うしろに名詞（our house）。
+
+| 語 | 発音 | 品詞・中心の意味 | 自作の例文 |
+| --- | --- | --- | --- |
+| **h**our | /aʊər/ | 名詞：1時間 | The meeting lasted an **hour**.（会議は1時間続いた） |
+| our | /aʊər/ | 所有格：私たちの | This is **our** classroom.（ここが私たちの教室だ） |
+
+🎯 覚え方：**hour は h を読まないが「1時間（時間）」**。所有の「私たちの」は our（うしろに名詞）。時間なら hour、所有なら our。`,
+    keyPoints: [
+      'hour と our はほぼ同音 /aʊər/（hour の h は無音）',
+      'hour＝1時間・時刻（an hour）',
+      'our＝私たちの（所有格・うしろに名詞）',
+    ],
+    quiz: [
+      {
+        id: 'q-hour-1',
+        question: '空所に入る適切な語はどれですか。「It takes half an ( ) by car.（車で30分かかる）」',
+        options: ['our', 'hour', 'ours', 'hours\''],
+        correctAnswer: 1,
+        explanation: '時間の「1時間」は hour（half an hour＝30分）です。',
+      },
+      {
+        id: 'q-hour-2',
+        question: '「私たちの」という意味の所有格はどれですか。',
+        options: ['hour', 'our', 'ours', 'hours'],
+        correctAnswer: 1,
+        explanation: '所有格「私たちの」は our /aʊər/ です。',
+      },
+      {
+        id: 'q-hour-3',
+        question: 'hour の先頭の h はどう発音しますか。',
+        options: ['「ハ」と読む', '発音しない（無音）', '「フ」と読む', '「ヘ」と読む'],
+        correctAnswer: 1,
+        explanation: 'hour の h は無音で、発音は /aʊər/ です（an hour）。',
+      },
+      {
+        id: 'q-hour-4',
+        question: '空所に入る適切な語はどれですか。「We invited them to ( ) home.（私たちは彼らを家に招いた）」',
+        options: ['hour', 'our', 'ours', 'hours'],
+        correctAnswer: 1,
+        explanation: '名詞 home を修飾する所有格「私たちの」は our です。',
+      },
+      {
+        id: 'q-hour-5',
+        question: '時間の単位「1時間」を意味するのはどちらですか。',
+        options: ['our', 'hour', 'どちらも', 'どちらも違う'],
+        correctAnswer: 1,
+        explanation: '1時間は hour。our は「私たちの」です。',
+      },
+    ],
+  },
+  {
+    id: 'knew-new',
+    title: 'knew と new',
+    chapter: 4,
+    description: '同音 /njuː/。knew「know の過去（知っていた）」（k は無音）、new「新しい」（形容詞）。意味とスペルで判断。',
+    content: `## 音は同じ、意味とスペルで見分ける
+
+**knew と new は同じ発音 /njuː/（同音異義語）**。knew の **k は発音しません**。
+
+- **knew** … /njuː/ 動詞 know の過去「**知っていた・分かっていた**」。know-knew-known。
+- **new** … /njuː/ 形容詞「**新しい**」。反対は old。
+
+| 語 | 発音 | 品詞・中心の意味 | 自作の例文 |
+| --- | --- | --- | --- |
+| **k**new | /njuː/ | know の過去：知っていた | I **knew** the answer.（答えを知っていた） |
+| new | /njuː/ | 形容詞：新しい | She bought a **new** bag.（彼女は新しいかばんを買った） |
+
+🎯 覚え方：**knew は先頭の k を読まないが「know の過去（知っていた）」**。形容詞「新しい」は new。過去の「知っていた」なら knew、「新しい」なら new。`,
+    keyPoints: [
+      'knew と new は同音 /njuː/（knew の k は無音）',
+      'knew＝know の過去「知っていた」（know-knew-known）',
+      'new＝形容詞「新しい」（反対は old）',
+    ],
+    quiz: [
+      {
+        id: 'q-knew-1',
+        question: '空所に入る適切な語はどれですか。「They moved into a ( ) apartment.（彼らは新しいアパートに引っ越した）」',
+        options: ['knew', 'new', 'news', 'knews'],
+        correctAnswer: 1,
+        explanation: '形容詞「新しい」は new です。',
+      },
+      {
+        id: 'q-knew-2',
+        question: 'know の過去形「知っていた」を表す語はどれですか。',
+        options: ['new', 'knew', 'known', 'news'],
+        correctAnswer: 1,
+        explanation: 'know の過去は knew です。',
+      },
+      {
+        id: 'q-knew-3',
+        question: 'knew と new の発音の関係はどれですか。',
+        options: ['母音が違う', '同じ発音（同音異義語）', '子音が違う', 'アクセントが違う'],
+        correctAnswer: 1,
+        explanation: 'どちらも /njuː/ で同音異義語です（k は無音）。',
+      },
+      {
+        id: 'q-knew-4',
+        question: '空所に入る適切な語はどれですか。「I ( ) him when we were children.（子どものころ彼を知っていた）」',
+        options: ['new', 'knew', 'known', 'news'],
+        correctAnswer: 1,
+        explanation: '「知っていた」は know の過去 knew です。',
+      },
+      {
+        id: 'q-knew-5',
+        question: '形容詞「新しい」を意味するのはどちらですか。',
+        options: ['knew', 'new', 'どちらも', 'どちらも違う'],
+        correctAnswer: 1,
+        explanation: '「新しい」は new。knew は「知っていた」です。',
+      },
+    ],
+  },
 ];
