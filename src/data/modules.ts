@@ -6674,4 +6674,614 @@ belief/believe と同じく、**-f（relief）が名詞、-ve（relieve）が動
       },
     ],
   },
+  {
+    id: 'envelope-envelop',
+    title: 'envelope と envelop',
+    chapter: 3,
+    description: '名詞と動詞。envelope /ˈɛnvəloʊp/「封筒」（名詞）、envelop /ɪnˈvɛləp/「包み込む」（動詞）。e の有無とアクセントが違う。',
+    content: `## 品詞・アクセントで見分ける
+
+**末尾 e のあるなし**と**アクセント位置**で名詞・動詞が分かれます。
+
+- **envelope** … /ˈɛnvəloʊp/ **名詞**「**封筒**」。アクセントは前、末尾に e。
+- **envelop** … /ɪnˈvɛləp/ **動詞**「**包み込む・覆う**」。アクセントは後ろ、e なし。
+
+| 語 | 発音 | 品詞・中心の意味 | 自作の例文 |
+| --- | --- | --- | --- |
+| envelop**e** | /ˈɛnvəloʊp/ | 名詞：封筒 | Put the letter in an **envelope**.（手紙を封筒に入れて） |
+| envelop | /ɪnˈvɛləp/ | 動詞：包み込む | Fog began to **envelop** the town.（霧が町を包み始めた） |
+
+🎯 覚え方：**モノの「封筒」は e が付いて envelope（名詞）**、「包み込む」動作は e のない envelop（動詞、アクセント後ろ）。手紙を入れるなら envelope。`,
+    keyPoints: [
+      'envelope /ˈɛnvəloʊp/＝名詞「封筒」（末尾 e・前アクセント）',
+      'envelop /ɪnˈvɛləp/＝動詞「包み込む」（e なし・後ろアクセント）',
+      'モノなら envelope、動作なら envelop',
+    ],
+    quiz: [
+      {
+        id: 'q-envelope-1',
+        question: '空所に入る適切な語はどれですか。「Seal the ( ) before mailing it.（郵送前に封筒を閉じて）」',
+        options: ['envelop', 'envelope', 'envelopes\'', 'enveloping'],
+        correctAnswer: 1,
+        explanation: 'モノの「封筒」は名詞 envelope です。',
+      },
+      {
+        id: 'q-envelope-2',
+        question: '「包み込む・覆う」という意味の動詞はどれですか。',
+        options: ['envelope', 'envelop', 'envelopes', 'enveloped\''],
+        correctAnswer: 1,
+        explanation: '動詞「包み込む」は envelop /ɪnˈvɛləp/ です。',
+      },
+      {
+        id: 'q-envelope-3',
+        question: '空所に入る適切な語はどれですか。「Darkness seemed to ( ) the valley.（闇が谷を包み込むようだった）」',
+        options: ['envelope', 'envelop', 'envelopes', 'envelopment'],
+        correctAnswer: 1,
+        explanation: '動詞「包み込む」は envelop です。',
+      },
+      {
+        id: 'q-envelope-4',
+        question: '末尾に e が付く名詞「封筒」はどちらですか。',
+        options: ['envelop', 'envelope', 'どちらも', 'どちらも違う'],
+        correctAnswer: 1,
+        explanation: 'envelope（e あり・名詞）。envelop（e なし・動詞）です。',
+      },
+      {
+        id: 'q-envelope-5',
+        question: '空所に入る適切な語はどれですか。「She opened the ( ) and read the card.（封筒を開けてカードを読んだ）」',
+        options: ['envelop', 'envelope', 'enveloping', 'enveloped'],
+        correctAnswer: 1,
+        explanation: 'モノの「封筒」は envelope です。',
+      },
+    ],
+  },
+  {
+    id: 'proof-prove',
+    title: 'proof と prove',
+    chapter: 3,
+    description: '名詞と動詞。proof /pruːf/「証拠・証明」（名詞）、prove /pruːv/「証明する」（動詞）。語尾 /f/ と /v/。',
+    content: `## 品詞と語尾の音で見分ける
+
+**-f（proof）が名詞、-ve（prove）が動詞**。belief/believe と同じパターンです。
+
+- **proof** … /pruːf/ **名詞**「**証拠・証明**」。語尾 /f/。
+- **prove** … /pruːv/ **動詞**「**証明する・（結果的に）〜だと分かる**」。prove-proved-proven/proved。
+
+| 語 | 発音 | 品詞・中心の意味 | 自作の例文 |
+| --- | --- | --- | --- |
+| proo**f** | /pruːf/ | 名詞：証拠 | Do you have any **proof**?（何か証拠はある？） |
+| pro**ve** | /pruːv/ | 動詞：証明する | Can you **prove** it?（それを証明できる？） |
+
+🎯 覚え方：**名詞は -f（proof）、動詞は -ve（prove）**。「証拠（モノ・事実）」は proof、「証明する（行為）」は prove。`,
+    keyPoints: [
+      'proof /pruːf/＝名詞「証拠・証明」（-f）',
+      'prove /pruːv/＝動詞「証明する」（-ve）',
+      'belief/believe と同じ -f 名詞／-ve 動詞',
+    ],
+    quiz: [
+      {
+        id: 'q-proof-1',
+        question: '空所に入る適切な語はどれですか。「The scientist tried to ( ) the theory.（科学者はその理論を証明しようとした）」',
+        options: ['proof', 'prove', 'proofs', 'proved\''],
+        correctAnswer: 1,
+        explanation: '動詞「証明する」は prove です。',
+      },
+      {
+        id: 'q-proof-2',
+        question: '「証拠・証明」という意味の名詞はどれですか。',
+        options: ['prove', 'proof', 'proves', 'proving'],
+        correctAnswer: 1,
+        explanation: '名詞「証拠」は proof /pruːf/ です。',
+      },
+      {
+        id: 'q-proof-3',
+        question: '空所に入る適切な語はどれですか。「There is no ( ) that he was there.（彼がそこにいた証拠はない）」',
+        options: ['prove', 'proof', 'proves', 'proved'],
+        correctAnswer: 1,
+        explanation: '名詞「証拠」は proof です。',
+      },
+      {
+        id: 'q-proof-4',
+        question: '語尾が濁る /v/ で、動詞「証明する」なのはどちらですか。',
+        options: ['proof', 'prove', 'どちらも', 'どちらも違う'],
+        correctAnswer: 1,
+        explanation: 'prove /pruːv/（動詞）。proof /pruːf/（名詞）です。',
+      },
+      {
+        id: 'q-proof-5',
+        question: '空所に入る適切な語はどれですか。「Keep the receipt as ( ) of purchase.（購入の証拠としてレシートを取っておいて）」',
+        options: ['prove', 'proof', 'proves', 'proven'],
+        correctAnswer: 1,
+        explanation: '名詞「証拠」は proof です。',
+      },
+    ],
+  },
+  {
+    id: 'success-succeed',
+    title: 'success と succeed',
+    chapter: 3,
+    description: '名詞と動詞。success /səkˈsɛs/「成功」（名詞）、succeed /səkˈsiːd/「成功する・後を継ぐ」（動詞）。',
+    content: `## 品詞で見分ける
+
+同語源ですが品詞が違い、語尾のつづり・音も異なります。
+
+- **success** … /səkˈsɛs/ **名詞**「**成功**」。形容詞は successful。
+- **succeed** … /səkˈsiːd/ **動詞**「**成功する（succeed in ~）・後を継ぐ（succeed 人）**」。
+
+| 語 | 発音 | 品詞・中心の意味 | 自作の例文 |
+| --- | --- | --- | --- |
+| succe**ss** | /səkˈsɛs/ | 名詞：成功 | The event was a great **success**.（そのイベントは大成功だった） |
+| succe**ed** | /səkˈsiːd/ | 動詞：成功する | She **succeeded** in passing the exam.（彼女は試験に合格した） |
+
+🎯 覚え方：**名詞は -ss（success）、動詞は -eed（succeed）**。「成功（結果・状態）」は名詞 success、「成功する（動作）」は動詞 succeed（succeed in doing）。`,
+    keyPoints: [
+      'success /səkˈsɛs/＝名詞「成功」（形容詞は successful）',
+      'succeed /səkˈsiːd/＝動詞「成功する・後を継ぐ」',
+      'succeed in doing で「〜に成功する」',
+    ],
+    quiz: [
+      {
+        id: 'q-success-1',
+        question: '空所に入る適切な語はどれですか。「If you keep trying, you will ( ).（努力を続ければ成功する）」',
+        options: ['success', 'succeed', 'successful', 'succeeds\''],
+        correctAnswer: 1,
+        explanation: '動詞「成功する」は succeed です。',
+      },
+      {
+        id: 'q-success-2',
+        question: '「成功」という意味の名詞はどれですか。',
+        options: ['succeed', 'success', 'successful', 'succeeding'],
+        correctAnswer: 1,
+        explanation: '名詞「成功」は success /səkˈsɛs/ です。',
+      },
+      {
+        id: 'q-success-3',
+        question: '空所に入る適切な語はどれですか。「Her business was a big ( ).（彼女の事業は大きな成功だった）」',
+        options: ['succeed', 'success', 'successful', 'succeeded'],
+        correctAnswer: 1,
+        explanation: '名詞「成功」は success です。',
+      },
+      {
+        id: 'q-success-4',
+        question: '動詞「成功する・後を継ぐ」を表すのはどちらですか。',
+        options: ['success', 'succeed', 'どちらも', 'どちらも違う'],
+        correctAnswer: 1,
+        explanation: '動詞は succeed。success は名詞です。',
+      },
+      {
+        id: 'q-success-5',
+        question: '空所に入る適切な語はどれですか。「They ( ) in reducing costs.（彼らはコスト削減に成功した）」',
+        options: ['success', 'succeeded', 'successful', 'successes'],
+        correctAnswer: 1,
+        explanation: 'succeed in doing「〜に成功する」の過去 succeeded です。',
+      },
+    ],
+  },
+  {
+    id: 'farther-further',
+    title: 'farther と further',
+    chapter: 2,
+    description: 'farther は主に「（物理的な距離）より遠く」、further は「（程度・追加）さらに」＋距離にも使える。',
+    content: `## 距離か、程度・追加かで見分ける
+
+どちらも far の比較級ですが、使い分けの目安があります。
+
+- **farther** … 主に**物理的な距離**「**より遠くに**」。
+- **further** … **程度・追加**「**さらに・それ以上・追加の**」。距離にも使えるが、抽象的な意味では further。
+
+| 語 | 中心の使い方 | 自作の例文 |
+| --- | --- | --- |
+| farther | 物理的な距離 | The station is **farther** than I thought.（駅は思ったより遠い） |
+| further | 程度・追加 | We need **further** information.（さらなる情報が必要だ） |
+
+🎯 覚え方：**farther には far（距離）が入り「より遠く（物理）」**、further は「さらに・追加（程度）」。「これ以上・追加の」は further。距離でも further は使えますが、抽象なら必ず further。`,
+    keyPoints: [
+      'farther＝主に物理的な距離「より遠くに」',
+      'further＝程度・追加「さらに・追加の」（距離にも可）',
+      '抽象的な「これ以上」は further',
+    ],
+    quiz: [
+      {
+        id: 'q-farther-1',
+        question: '空所に入る適切な語はどれですか。「If you have any ( ) questions, please ask.（さらに質問があれば聞いて）」',
+        options: ['farther', 'further', 'far', 'farthest'],
+        correctAnswer: 1,
+        explanation: '「追加の・さらなる（質問）」は further です。',
+      },
+      {
+        id: 'q-farther-2',
+        question: '主に「（物理的に）より遠く」を表すのはどちらですか。',
+        options: ['further', 'farther', 'どちらも同じ', 'どちらも違う'],
+        correctAnswer: 1,
+        explanation: '物理的な距離は farther（far が入る）が基本です。',
+      },
+      {
+        id: 'q-farther-3',
+        question: '空所に入る適切な語はどれですか。「We can\'t walk any ( ); I\'m exhausted.（もうこれ以上歩けない、へとへとだ）」',
+        options: ['further', 'farther', 'far', 'furthest'],
+        correctAnswer: 1,
+        explanation: '物理的な距離「これ以上遠く」は farther が自然です（further も可）。',
+      },
+      {
+        id: 'q-farther-4',
+        question: '空所に入る適切な語はどれですか。「The matter needs ( ) discussion.（その件はさらなる議論が必要だ）」',
+        options: ['farther', 'further', 'far', 'farthest'],
+        correctAnswer: 1,
+        explanation: '抽象的な「さらなる（議論）」は further です。',
+      },
+      {
+        id: 'q-farther-5',
+        question: '「さらに・追加の（程度）」に使うのはどちらですか。',
+        options: ['farther', 'further', 'どちらも同じ', 'どちらも違う'],
+        correctAnswer: 1,
+        explanation: '程度・追加は further。物理的距離は farther が基本です。',
+      },
+    ],
+  },
+  {
+    id: 'reach-arrive',
+    title: 'reach と arrive',
+    chapter: 2,
+    description: '自動詞か他動詞か。reach は他動詞で「（場所）に着く」（reach + 場所）、arrive は自動詞で at/in を伴う（arrive at/in）。',
+    content: `## 前置詞が要るかどうかで見分ける
+
+どちらも「到着する」ですが、**あとに前置詞が要るか**が違います。
+
+- **reach** … **他動詞**。**前置詞なし**で目的語（場所）をとる。reach the station。
+- **arrive** … **自動詞**。場所の前に **at（狭い場所）/ in（広い場所）** が要る。arrive at the airport / arrive in Tokyo。
+
+| 語 | 型 | 中心の意味 | 自作の例文 |
+| --- | --- | --- | --- |
+| reach | 他動詞 | （場所）に着く | We **reached** the summit at noon.（正午に頂上に着いた） |
+| arrive | 自動詞 | （at/in）到着する | They **arrived at** the hotel.（彼らはホテルに着いた） |
+
+🎯 覚え方：**reach はそのまま場所（reach ~）、arrive は at/in が必要**。get to ~ も arrive at と同じく前置詞つき。「駅に着く」は reach the station / arrive at the station。`,
+    keyPoints: [
+      'reach＝他動詞（reach + 場所・前置詞なし）',
+      'arrive＝自動詞（arrive at 狭い場所 / in 広い場所）',
+      'get to ~ も前置詞つきで arrive at と同型',
+    ],
+    quiz: [
+      {
+        id: 'q-reach-1',
+        question: '空所に入る適切な語はどれですか。「What time did you ( ) at the station?（何時に駅に着いた？）」',
+        options: ['reach', 'arrive', 'reached', 'arrival'],
+        correctAnswer: 1,
+        explanation: 'at を伴うのは自動詞 arrive（arrive at）です。',
+      },
+      {
+        id: 'q-reach-2',
+        question: '空所に入る適切な語はどれですか。「We finally ( ) the top of the hill.（ついに丘の頂上に着いた）」',
+        options: ['arrived', 'reached', 'arrived at', 'arrival'],
+        correctAnswer: 1,
+        explanation: '前置詞なしで場所をとるのは他動詞 reach です。',
+      },
+      {
+        id: 'q-reach-3',
+        question: '前置詞 at/in を伴う自動詞はどちらですか。',
+        options: ['reach', 'arrive', 'どちらも', 'どちらも違う'],
+        correctAnswer: 1,
+        explanation: 'arrive は自動詞で at/in が必要。reach は他動詞です。',
+      },
+      {
+        id: 'q-reach-4',
+        question: '空所に入る適切な語はどれですか。「They will ( ) in Osaka tomorrow.（彼らは明日大阪に到着する）」',
+        options: ['reach', 'arrive', 'reach at', 'arrival'],
+        correctAnswer: 1,
+        explanation: '広い場所（都市）は arrive in です。reach なら reach Osaka。',
+      },
+      {
+        id: 'q-reach-5',
+        question: '空所に入る適切な語はどれですか。「The letter did not ( ) me in time.（手紙は間に合って私に届かなかった）」',
+        options: ['arrive', 'reach', 'arrive at', 'arrival'],
+        correctAnswer: 1,
+        explanation: '「（人・場所）に届く」は他動詞 reach（reach me）です。',
+      },
+    ],
+  },
+  {
+    id: 'pray-prey',
+    title: 'pray と prey',
+    chapter: 4,
+    description: '同音 /preɪ/。pray「祈る」（動詞）、prey「獲物・えじき」（名詞）。意味とスペルで判断する同音異義語。',
+    content: `## 音は同じ、意味とスペルで見分ける
+
+**pray と prey は同じ発音 /preɪ/（同音異義語）**。意味とスペルで決めます。
+
+- **pray** … /preɪ/ 動詞「**祈る**」。prayer（祈り）。
+- **prey** … /preɪ/ 名詞「**獲物・えじき**」。捕食される側。
+
+| 語 | 発音 | 品詞・中心の意味 | 自作の例文 |
+| --- | --- | --- | --- |
+| pr**ay** | /preɪ/ | 動詞：祈る | They **pray** for peace.（彼らは平和を祈る） |
+| pr**ey** | /preɪ/ | 名詞：獲物 | The lion caught its **prey**.（ライオンは獲物を捕らえた） |
+
+🎯 覚え方：**pray は「祈る（say a prayer）」**、prey は「獲物（捕食者 predator に食べられる側）」。動作の「祈る」なら pray、動物の「えじき」なら prey。`,
+    keyPoints: [
+      'pray と prey は同音 /preɪ/',
+      'pray＝動詞「祈る」（prayer＝祈り）',
+      'prey＝名詞「獲物・えじき」',
+    ],
+    quiz: [
+      {
+        id: 'q-pray-1',
+        question: '空所に入る適切な語はどれですか。「Owls hunt small animals as ( ).（フクロウは小動物を獲物として狩る）」',
+        options: ['pray', 'prey', 'prays', 'preys\''],
+        correctAnswer: 1,
+        explanation: '「獲物・えじき」は prey です。',
+      },
+      {
+        id: 'q-pray-2',
+        question: '「祈る」という意味の動詞はどれですか。',
+        options: ['prey', 'pray', 'preys', 'praying\''],
+        correctAnswer: 1,
+        explanation: '動詞「祈る」は pray /preɪ/ です。',
+      },
+      {
+        id: 'q-pray-3',
+        question: 'pray と prey の発音の関係はどれですか。',
+        options: ['母音が違う', '同じ発音（同音異義語）', '子音が違う', 'アクセントが違う'],
+        correctAnswer: 1,
+        explanation: 'どちらも /preɪ/ で同音異義語です。',
+      },
+      {
+        id: 'q-pray-4',
+        question: '空所に入る適切な語はどれですか。「She went to the temple to ( ).（彼女は祈るために寺へ行った）」',
+        options: ['prey', 'pray', 'preys', 'prayed\''],
+        correctAnswer: 1,
+        explanation: '「祈る」は pray です。',
+      },
+      {
+        id: 'q-pray-5',
+        question: '捕食される側「獲物」を意味するのはどちらですか。',
+        options: ['pray', 'prey', 'どちらも', 'どちらも違う'],
+        correctAnswer: 1,
+        explanation: '獲物は prey。pray は「祈る」です。',
+      },
+    ],
+  },
+  {
+    id: 'here-hear',
+    title: 'here と hear',
+    chapter: 4,
+    description: '同音 /hɪər/。here「ここに」（副詞）、hear「聞く・聞こえる」（動詞）。意味とスペルで判断する同音異義語。',
+    content: `## 音は同じ、意味とスペルで見分ける
+
+**here と hear は同じ発音 /hɪər/（同音異義語）**。意味とスペルで決めます。
+
+- **here** … /hɪər/ 副詞「**ここに・ここへ**」。反対は there。
+- **hear** … /hɪər/ 動詞「**聞く・聞こえる**」。hear-heard-heard。
+
+| 語 | 発音 | 品詞・中心の意味 | 自作の例文 |
+| --- | --- | --- | --- |
+| h**ere** | /hɪər/ | 副詞：ここに | Come **here**, please.（こっちへ来て） |
+| h**ear** | /hɪər/ | 動詞：聞く | I can't **hear** you well.（よく聞こえない） |
+
+🎯 覚え方：**hear には ear（耳）が入っていて「聞く」**。場所の「ここ」は here。耳で「聞く」なら hear。`,
+    keyPoints: [
+      'here と hear は同音 /hɪər/',
+      'here＝副詞「ここに」（反対は there）',
+      'hear＝動詞「聞く」（中に ear＝耳）',
+    ],
+    quiz: [
+      {
+        id: 'q-here-1',
+        question: '空所に入る適切な語はどれですか。「Did you ( ) that noise?（あの音が聞こえた？）」',
+        options: ['here', 'hear', 'heard\'', 'hears'],
+        correctAnswer: 1,
+        explanation: '動詞「聞く・聞こえる」は hear です。',
+      },
+      {
+        id: 'q-here-2',
+        question: '「ここに・ここへ」という意味の語はどれですか。',
+        options: ['hear', 'here', 'hair', 'heir'],
+        correctAnswer: 1,
+        explanation: '場所の「ここに」は here /hɪər/ です。',
+      },
+      {
+        id: 'q-here-3',
+        question: 'ear（耳）を含み「聞く」を意味するのはどちらですか。',
+        options: ['here', 'hear', 'どちらも', 'どちらも違う'],
+        correctAnswer: 1,
+        explanation: 'hear に ear が入っています。here は「ここに」です。',
+      },
+      {
+        id: 'q-here-4',
+        question: '空所に入る適切な語はどれですか。「Please sign ( ) on the form.（用紙のここに署名して）」',
+        options: ['hear', 'here', 'hair', 'heir'],
+        correctAnswer: 1,
+        explanation: '場所「ここに」は here です。',
+      },
+      {
+        id: 'q-here-5',
+        question: 'here と hear の発音の関係はどれですか。',
+        options: ['母音が違う', '同じ発音（同音異義語）', '子音が違う', 'アクセントが違う'],
+        correctAnswer: 1,
+        explanation: 'どちらも /hɪər/ で同音異義語です。',
+      },
+    ],
+  },
+  {
+    id: 'one-won',
+    title: 'one と won',
+    chapter: 4,
+    description: '同音 /wʌn/。one「1・一つ」、won「win の過去・過去分詞（勝った）」。意味とスペルで判断。',
+    content: `## 音は同じ、意味とスペルで見分ける
+
+**one と won は同じ発音 /wʌn/（同音異義語）**。意味で決めます（one の発音は「ワン」で w の音）。
+
+- **one** … /wʌn/ 数「**1・一つ**」、代名詞「（前に出た名詞の代わりの）もの」。
+- **won** … /wʌn/ 動詞 win の過去・過去分詞「**勝った・獲得した**」。win-won-won。
+
+| 語 | 発音 | 品詞・中心の意味 | 自作の例文 |
+| --- | --- | --- | --- |
+| one | /wʌn/ | 数：1 | I have only **one** ticket.（チケットは1枚しかない） |
+| won | /wʌn/ | win の過去：勝った | Our team **won** the game.（私たちのチームは試合に勝った） |
+
+🎯 覚え方：**数の「1」は one、win の過去「勝った」は won**。過去の「勝った」なら won、数量の「一つ」なら one。`,
+    keyPoints: [
+      'one と won は同音 /wʌn/',
+      'one＝数「1・一つ」・代名詞',
+      'won＝win の過去・過去分詞「勝った」',
+    ],
+    quiz: [
+      {
+        id: 'q-one-1',
+        question: '空所に入る適切な語はどれですか。「She ( ) the first prize.（彼女は1等賞を取った）」',
+        options: ['one', 'won', 'ones', 'wons'],
+        correctAnswer: 1,
+        explanation: 'win の過去「勝った・獲得した」は won です。',
+      },
+      {
+        id: 'q-one-2',
+        question: '数の「1・一つ」を表す語はどれですか。',
+        options: ['won', 'one', 'wan', 'own'],
+        correctAnswer: 1,
+        explanation: '数の「1」は one /wʌn/ です。',
+      },
+      {
+        id: 'q-one-3',
+        question: 'one と won の発音の関係はどれですか。',
+        options: ['母音が違う', '同じ発音（同音異義語）', '子音が違う', 'アクセントが違う'],
+        correctAnswer: 1,
+        explanation: 'どちらも /wʌn/ で同音異義語です。',
+      },
+      {
+        id: 'q-one-4',
+        question: '空所に入る適切な語はどれですか。「Only ( ) of them came.（そのうち一人だけ来た）」',
+        options: ['won', 'one', 'wan', 'own'],
+        correctAnswer: 1,
+        explanation: '「一つ・一人」は one です。',
+      },
+      {
+        id: 'q-one-5',
+        question: 'win の過去形「勝った」を意味するのはどちらですか。',
+        options: ['one', 'won', 'どちらも', 'どちらも違う'],
+        correctAnswer: 1,
+        explanation: 'won が win の過去。one は数の「1」です。',
+      },
+    ],
+  },
+  {
+    id: 'wait-weight',
+    title: 'wait と weight',
+    chapter: 4,
+    description: '同音 /weɪt/。wait「待つ」（動詞）、weight「重さ・重量」（名詞）。意味とスペルで判断する同音異義語。',
+    content: `## 音は同じ、意味とスペルで見分ける
+
+**wait と weight は同じ発音 /weɪt/（同音異義語）**。意味とスペルで決めます（gh は無音）。
+
+- **wait** … /weɪt/ 動詞「**待つ**」。wait for ~（〜を待つ）。
+- **weight** … /weɪt/ 名詞「**重さ・重量・体重**」。動詞 weigh（重さを量る）から。
+
+| 語 | 発音 | 品詞・中心の意味 | 自作の例文 |
+| --- | --- | --- | --- |
+| w**ai**t | /weɪt/ | 動詞：待つ | Please **wait** for me here.（ここで待っていて） |
+| w**eigh**t | /weɪt/ | 名詞：重さ | What is the **weight** of this box?（この箱の重さは？） |
+
+🎯 覚え方：**weight には weigh（重さを量る）が入っていて「重さ」**。「待つ」動作は wait。時間を「待つ」なら wait、はかりの「重さ」なら weight。`,
+    keyPoints: [
+      'wait と weight は同音 /weɪt/',
+      'wait＝動詞「待つ」（wait for ~）',
+      'weight＝名詞「重さ・重量」（weigh の名詞）',
+    ],
+    quiz: [
+      {
+        id: 'q-wait-1',
+        question: '空所に入る適切な語はどれですか。「The doctor checked my ( ) and height.（医者は私の体重と身長を測った）」',
+        options: ['wait', 'weight', 'waits', 'weights\''],
+        correctAnswer: 1,
+        explanation: '「重さ・体重」は weight です。',
+      },
+      {
+        id: 'q-wait-2',
+        question: '「待つ」という意味の動詞はどれですか。',
+        options: ['weight', 'wait', 'weigh', 'waits\''],
+        correctAnswer: 1,
+        explanation: '動詞「待つ」は wait /weɪt/ です。',
+      },
+      {
+        id: 'q-wait-3',
+        question: 'wait と weight の発音の関係はどれですか。',
+        options: ['母音が違う', '同じ発音（同音異義語）', '子音が違う', 'アクセントが違う'],
+        correctAnswer: 1,
+        explanation: 'どちらも /weɪt/ で同音異義語です（gh は無音）。',
+      },
+      {
+        id: 'q-wait-4',
+        question: '空所に入る適切な語はどれですか。「Let\'s ( ) for the next bus.（次のバスを待とう）」',
+        options: ['weight', 'wait', 'weigh', 'waited\''],
+        correctAnswer: 1,
+        explanation: 'wait for ~「〜を待つ」の wait です。',
+      },
+      {
+        id: 'q-wait-5',
+        question: 'weigh（重さを量る）から来て「重さ」を意味するのはどちらですか。',
+        options: ['wait', 'weight', 'どちらも', 'どちらも違う'],
+        correctAnswer: 1,
+        explanation: '「重さ」は weight。wait は「待つ」です。',
+      },
+    ],
+  },
+  {
+    id: 'sale-sail',
+    title: 'sale と sail',
+    chapter: 4,
+    description: '同音 /seɪl/。sale「販売・特売」（名詞）、sail「帆／航行する」（名詞・動詞）。意味とスペルで判断。',
+    content: `## 音は同じ、意味とスペルで見分ける
+
+**sale と sail は同じ発音 /seɪl/（同音異義語）**。意味とスペルで決めます。
+
+- **sale** … /seɪl/ 名詞「**販売・売却・特売（セール）**」。for sale（売り物）、on sale（特売中）。
+- **sail** … /seɪl/ 名詞「**帆**」、動詞「**航行する・帆走する**」。
+
+| 語 | 発音 | 品詞・中心の意味 | 自作の例文 |
+| --- | --- | --- | --- |
+| s**a**le | /seɪl/ | 名詞：販売・特売 | The store is having a **sale**.（その店はセール中だ） |
+| s**ai**l | /seɪl/ | 帆／航行する | The boat **sailed** across the bay.（船は湾を横切って進んだ） |
+
+🎯 覚え方：**sale は「売る（sell）」の仲間で「販売・特売」**。sail は ai で「帆・航海」。買い物の「セール」は sale、船の「帆・航行」は sail。`,
+    keyPoints: [
+      'sale と sail は同音 /seɪl/',
+      'sale＝名詞「販売・特売」（for sale／on sale）',
+      'sail＝名詞「帆」／動詞「航行する」',
+    ],
+    quiz: [
+      {
+        id: 'q-sale-1',
+        question: '空所に入る適切な語はどれですか。「We will ( ) to the island tomorrow.（明日その島へ船で行く）」',
+        options: ['sale', 'sail', 'sales', 'sails\''],
+        correctAnswer: 1,
+        explanation: '動詞「航行する・帆走する」は sail です。',
+      },
+      {
+        id: 'q-sale-2',
+        question: '「販売・特売」という意味の名詞はどれですか。',
+        options: ['sail', 'sale', 'sails', 'sailing'],
+        correctAnswer: 1,
+        explanation: '名詞「販売・特売」は sale /seɪl/ です。',
+      },
+      {
+        id: 'q-sale-3',
+        question: '空所に入る適切な語はどれですか。「This house is for ( ).（この家は売り出し中だ）」',
+        options: ['sail', 'sale', 'sails', 'sailing'],
+        correctAnswer: 1,
+        explanation: '成句 for sale「売り物・売り出し中」の sale です。',
+      },
+      {
+        id: 'q-sale-4',
+        question: '船の「帆」または「航行する」を意味するのはどちらですか。',
+        options: ['sale', 'sail', 'どちらも', 'どちらも違う'],
+        correctAnswer: 1,
+        explanation: '帆・航行は sail。販売・特売は sale です。',
+      },
+      {
+        id: 'q-sale-5',
+        question: '空所に入る適切な語はどれですか。「These shoes are on ( ) this week.（この靴は今週特売中だ）」',
+        options: ['sail', 'sale', 'sails', 'sailing'],
+        correctAnswer: 1,
+        explanation: '成句 on sale「特売中」の sale です。',
+      },
+    ],
+  },
 ];
