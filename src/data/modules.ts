@@ -11565,4 +11565,616 @@ belief/believe と同じく、**-f（relief）が名詞、-ve（relieve）が動
       },
     ],
   },
+  {
+    id: 'hope-wish-expect',
+    title: 'hope と wish と expect',
+    chapter: 2,
+    description: '「望む・思う」の3語。hope は実現可能なことを望む、wish は実現しにくい願い（仮定法）、expect は起こると予期する。',
+    content: `## 実現の可能性・語法で見分ける
+
+いずれも心の動きですが、可能性と語法が違います。
+
+- **hope** … 「**（実現可能なことを）望む**」。hope to do／hope (that) + 現在・未来。
+- **wish** … 「**（実現しにくいことを）願う**」。しばしば**仮定法**（wish + 主語 + 過去/過去完了）。wish to do はかたい「〜したい」。
+- **expect** … 「**（起こると）予期する・期待する**」。根拠があって見込む。
+
+| 語 | ニュアンス | 中心の意味 | 自作の例文 |
+| --- | --- | --- | --- |
+| hope | 実現可能を望む | 望む | I **hope** it doesn't rain tomorrow.（明日雨が降らないといいな） |
+| wish | 実現しにくい願い | 願う | I **wish** I could fly.（飛べたらいいのに） |
+| expect | 起こると見込む | 予期する | We **expect** him to arrive by noon.（正午までに着くと見込む） |
+
+🎯 覚え方：**実現しそうなら hope、実現しにくい（仮定）なら wish、起こると見込むなら expect**。wish のあとの節はよく過去形（仮定法）になる。`,
+    keyPoints: [
+      'hope＝実現可能なことを望む（hope to do／hope that ~）',
+      'wish＝実現しにくい願い（wish + 過去＝仮定法）',
+      'expect＝根拠があり起こると予期する',
+    ],
+    quiz: [
+      {
+        id: 'q-hope-1',
+        question: '空所に入る適切な語はどれですか。「I ( ) I were taller.（もっと背が高ければなあ）」',
+        options: ['hope', 'wish', 'expect', 'hoped'],
+        correctAnswer: 1,
+        explanation: '実現しにくい願い（仮定法 were）は wish です。',
+      },
+      {
+        id: 'q-hope-2',
+        question: '空所に入る適切な語はどれですか。「I ( ) to see you again soon.（またすぐ会えるといいな）」',
+        options: ['wish', 'hope', 'expect', 'wished'],
+        correctAnswer: 1,
+        explanation: '実現可能なことを望むのは hope（hope to do）です。',
+      },
+      {
+        id: 'q-hope-3',
+        question: '「（根拠があって）起こると予期する」を表すのはどれですか。',
+        options: ['hope', 'wish', 'expect', 'どれも同じ'],
+        correctAnswer: 2,
+        explanation: '起こると見込むのは expect です。',
+      },
+      {
+        id: 'q-hope-4',
+        question: '空所に入る適切な語はどれですか。「Sales are ( ) to rise next quarter.（来四半期は売上が伸びると見込まれる）」',
+        options: ['hoped', 'wished', 'expected', 'hoping'],
+        correctAnswer: 2,
+        explanation: '根拠のある見込みは expect（受け身 expected）です。',
+      },
+      {
+        id: 'q-hope-5',
+        question: '仮定法（wish + 主語 + 過去）で「実現しにくい願い」を表すのはどれですか。',
+        options: ['hope', 'wish', 'expect', 'どれも同じ'],
+        correctAnswer: 1,
+        explanation: 'wish は仮定法を伴い「〜だったらいいのに」を表します。',
+      },
+    ],
+  },
+  {
+    id: 'tall-high',
+    title: 'tall と high',
+    chapter: 2,
+    description: 'tall は「（人・木・細長いものが）背が高い」、high は「（位置・程度が）高い／地面から高い所にある」。',
+    content: `## 何の高さかで見分ける
+
+どちらも「高い」ですが、対象が違います。
+
+- **tall** … 「**（縦に細長いものの）背が高い**」。人・木・ビル・キリンなど、下から上まで長いもの。
+- **high** … 「**（位置・程度が）高い／地面から高い所にある**」。山・壁・棚・値段・温度など。
+
+| 語 | 対象 | 中心の意味 | 自作の例文 |
+| --- | --- | --- | --- |
+| tall | 縦に長いもの | 背が高い | He is very **tall** for his age.（年のわりに背が高い） |
+| high | 位置・程度 | 高い | The shelf is too **high** to reach.（棚が高すぎて届かない） |
+
+🎯 覚え方：**人・木・ビルの「背の高さ」は tall、山・壁・値段・位置の「高さ」は high**。建物は a tall building、山は a high mountain。※ビルの「高さ」を数値で言うときは high も使う（100m high）。`,
+    keyPoints: [
+      'tall＝縦に細長いものの背が高い（人・木・ビル）',
+      'high＝位置・程度が高い／地面から高い所（山・棚・値段）',
+      'a tall building／a high mountain',
+    ],
+    quiz: [
+      {
+        id: 'q-tall-1',
+        question: '空所に入る適切な語はどれですか。「Mt. Fuji is a very ( ) mountain.（富士山はとても高い山だ）」',
+        options: ['tall', 'high', 'taller', 'highly'],
+        correctAnswer: 1,
+        explanation: '山の高さは high（a high mountain）です。',
+      },
+      {
+        id: 'q-tall-2',
+        question: '空所に入る適切な語はどれですか。「Giraffes have very ( ) necks.（キリンはとても長い首を持つ）」',
+        options: ['high', 'tall', 'highly', 'height'],
+        correctAnswer: 1,
+        explanation: '縦に長い「背の高い（首）」は tall が自然です。',
+      },
+      {
+        id: 'q-tall-3',
+        question: '人や木の「背の高さ」に使うのはどちらですか。',
+        options: ['high', 'tall', 'どちらも', 'どちらも違う'],
+        correctAnswer: 1,
+        explanation: '人・木・ビルの背の高さは tall。位置・程度は high です。',
+      },
+      {
+        id: 'q-tall-4',
+        question: '空所に入る適切な語はどれですか。「Prices are very ( ) in this city.（この街は物価がとても高い）」',
+        options: ['tall', 'high', 'taller', 'tallly'],
+        correctAnswer: 1,
+        explanation: '程度（値段）の「高い」は high です。',
+      },
+      {
+        id: 'q-tall-5',
+        question: '空所に入る適切な語はどれですか。「She is the ( ) girl in her class.（彼女はクラスで一番背が高い）」',
+        options: ['highest', 'tallest', 'higher', 'highly'],
+        correctAnswer: 1,
+        explanation: '人の背の高さの最上級は tallest です。',
+      },
+    ],
+  },
+  {
+    id: 'memorable-memorial',
+    title: 'memorable と memorial',
+    chapter: 3,
+    description: 'memorable「記憶に残る・忘れられない」（形容詞）、memorial「記念の・追悼の（形容詞）／記念碑（名詞）」。',
+    content: `## 「記憶に残る」か「記念・追悼」かで見分ける
+
+同じ memory 由来ですが、意味が違います。
+
+- **memorable** … /ˈmɛmərəbəl/ 形容詞「**記憶に残る・忘れられない・印象的な**」。
+- **memorial** … /məˈmɔːriəl/ 形容詞「**記念の・追悼の**」、名詞「**記念碑・記念物・追悼式**」。
+
+| 語 | 品詞・中心の意味 | 自作の例文 |
+| --- | --- | --- |
+| memor**able** | 形容詞：記憶に残る | It was a **memorable** trip.（忘れられない旅だった） |
+| memor**ial** | 記念の・追悼の／記念碑 | They built a war **memorial**.（戦争記念碑を建てた） |
+
+🎯 覚え方：**-able の memorable は「記憶に残る（印象的）」**、-ial の memorial は「記念・追悼（記念碑・式）」。楽しい思い出なら memorable、追悼・記念の建造物や式なら memorial。`,
+    keyPoints: [
+      'memorable＝記憶に残る・忘れられない（形容詞）',
+      'memorial＝記念の・追悼の／記念碑（名詞）',
+      '印象的なら memorable、記念・追悼なら memorial',
+    ],
+    quiz: [
+      {
+        id: 'q-memorable-1',
+        question: '空所に入る適切な語はどれですか。「A ( ) service was held for the victims.（犠牲者の追悼式が行われた）」',
+        options: ['memorable', 'memorial', 'memory', 'memorably'],
+        correctAnswer: 1,
+        explanation: '「追悼の（式）」は memorial です。',
+      },
+      {
+        id: 'q-memorable-2',
+        question: '「記憶に残る・忘れられない」という意味の語はどれですか。',
+        options: ['memorial', 'memorable', 'memory', 'memorially'],
+        correctAnswer: 1,
+        explanation: '「記憶に残る」は memorable です。',
+      },
+      {
+        id: 'q-memorable-3',
+        question: '空所に入る適切な語はどれですか。「The concert was truly ( ).（そのコンサートは本当に忘れられなかった）」',
+        options: ['memorial', 'memorable', 'memory', 'memorially'],
+        correctAnswer: 1,
+        explanation: '「忘れられない・印象的」は memorable です。',
+      },
+      {
+        id: 'q-memorable-4',
+        question: '「記念碑・追悼式」を表す名詞はどちらですか。',
+        options: ['memorable', 'memorial', 'どちらも', 'どちらも違う'],
+        correctAnswer: 1,
+        explanation: 'memorial が「記念碑・追悼」。memorable は「記憶に残る」です。',
+      },
+      {
+        id: 'q-memorable-5',
+        question: '空所に入る適切な語はどれですか。「We visited the Lincoln ( ) in Washington.（ワシントンのリンカーン記念館を訪れた）」',
+        options: ['memorable', 'memorial', 'memory', 'memorably'],
+        correctAnswer: 1,
+        explanation: '「記念館・記念碑」は memorial です。',
+      },
+    ],
+  },
+  {
+    id: 'forgetful-forgettable',
+    title: 'forgetful と forgettable',
+    chapter: 3,
+    description: 'forgetful「（人が）忘れっぽい」、forgettable「（物・事が）忘れられやすい・印象に残らない」。',
+    content: `## 忘れる側か、忘れられる側かで見分ける
+
+同じ forget 由来ですが、主語が違います。
+
+- **forgetful** … 「**（人が）忘れっぽい・物覚えが悪い**」。人の性質。
+- **forgettable** … 「**（物・事が）忘れられやすい・印象に残らない**」（-able＝〜されやすい）。ふつう否定的。
+
+| 語 | 主語 | 中心の意味 | 自作の例文 |
+| --- | --- | --- | --- |
+| forget**ful** | 人 | 忘れっぽい | My grandfather is getting **forgetful**.（祖父は物忘れが増えてきた） |
+| forget**table** | 物・事 | 忘れられやすい | The movie was dull and **forgettable**.（退屈で印象に残らない映画だった） |
+
+🎯 覚え方：**-ful の forgetful は「（人が）忘れでいっぱい＝忘れっぽい」**、-able の forgettable は「（物が）忘れられやすい」。人なら forgetful、作品・出来事なら forgettable。`,
+    keyPoints: [
+      'forgetful＝（人が）忘れっぽい・物覚えが悪い',
+      'forgettable＝（物・事が）忘れられやすい・印象に残らない',
+      '人なら forgetful、物・事なら forgettable',
+    ],
+    quiz: [
+      {
+        id: 'q-forgetful-1',
+        question: '空所に入る適切な語はどれですか。「The performance was ( ); no one remembers it.（その公演は印象に残らず、誰も覚えていない）」',
+        options: ['forgetful', 'forgettable', 'forget', 'forgetfully'],
+        correctAnswer: 1,
+        explanation: '物・事が「忘れられやすい・印象に残らない」は forgettable です。',
+      },
+      {
+        id: 'q-forgetful-2',
+        question: '「（人が）忘れっぽい」という意味の語はどれですか。',
+        options: ['forgettable', 'forgetful', 'forget', 'forgetfully'],
+        correctAnswer: 1,
+        explanation: '人の性質「忘れっぽい」は forgetful です。',
+      },
+      {
+        id: 'q-forgetful-3',
+        question: '空所に入る適切な語はどれですか。「Write it down if you are ( ).（忘れっぽいならメモして）」',
+        options: ['forgettable', 'forgetful', 'forget', 'forgettably'],
+        correctAnswer: 1,
+        explanation: '人が「忘れっぽい」は forgetful です。',
+      },
+      {
+        id: 'q-forgetful-4',
+        question: '物・事が「忘れられやすい・印象に残らない」を表すのはどちらですか。',
+        options: ['forgetful', 'forgettable', 'どちらも', 'どちらも違う'],
+        correctAnswer: 1,
+        explanation: 'forgettable が「忘れられやすい」。forgetful は人が「忘れっぽい」です。',
+      },
+      {
+        id: 'q-forgetful-5',
+        question: '空所に入る適切な語はどれですか。「She was so ( ) that she lost her keys daily.（彼女はとても忘れっぽく、毎日鍵をなくした）」',
+        options: ['forgettable', 'forgetful', 'forget', 'forgettably'],
+        correctAnswer: 1,
+        explanation: '人が「忘れっぽい」は forgetful です。',
+      },
+    ],
+  },
+  {
+    id: 'born-borne',
+    title: 'born と borne',
+    chapter: 1,
+    description: '同じ bear の過去分詞。born は「生まれる（be born）」の意味専用、borne はそれ以外（運ぶ・耐える・実らせる）の過去分詞。',
+    content: `## 「生まれる」かそれ以外かで見分ける
+
+どちらも動詞 bear の過去分詞ですが、意味で使い分けます（発音はどちらも /bɔːrn/）。
+
+- **born** … 「**生まれる**」の意味の受け身専用。**be born**（生まれる）。I was born in 2000.
+- **borne** … それ以外の bear（**運ぶ・支える・耐える・（実を）結ぶ**）の過去分詞。have borne, air-borne（空気で運ばれる）。
+
+| 語 | 用途 | 中心の意味 | 自作の例文 |
+| --- | --- | --- | --- |
+| born | be born 専用 | 生まれる | She was **born** in Kyoto.（京都で生まれた） |
+| borne | 運ぶ・耐える等 | 担われた・耐えた | The cost was **borne** by the company.（費用は会社が負担した） |
+
+🎯 覚え方：**「生まれる（be born）」だけ born、それ以外の bear の完了・受け身は borne（e が付く）**。出生なら born、負担・運搬・耐えるなら borne。`,
+    keyPoints: [
+      'born＝「生まれる（be born）」の意味専用',
+      'borne＝bear のそれ以外（運ぶ・耐える・負担する・実らせる）の過去分詞',
+      '発音は同じ /bɔːrn/、意味で使い分ける',
+    ],
+    quiz: [
+      {
+        id: 'q-born-1',
+        question: '空所に入る適切な語はどれですか。「He was ( ) in a small village.（彼は小さな村で生まれた）」',
+        options: ['borne', 'born', 'bore', 'bearing'],
+        correctAnswer: 1,
+        explanation: '「生まれる」は be born（born 専用）です。',
+      },
+      {
+        id: 'q-born-2',
+        question: '空所に入る適切な語はどれですか。「The expenses have been ( ) by the city.（費用は市が負担してきた）」',
+        options: ['born', 'borne', 'bore', 'bearing'],
+        correctAnswer: 1,
+        explanation: '「負担された・担われた」は bear の過去分詞 borne です。',
+      },
+      {
+        id: 'q-born-3',
+        question: '「生まれる（be born）」の意味だけに使うのはどちらですか。',
+        options: ['borne', 'born', 'どちらも', 'どちらも違う'],
+        correctAnswer: 1,
+        explanation: '「生まれる」は born。それ以外は borne です。',
+      },
+      {
+        id: 'q-born-4',
+        question: '空所に入る適切な語はどれですか。「Diseases can be air-( ).（病気は空気で運ばれることがある）」',
+        options: ['born', 'borne', 'bore', 'bearing'],
+        correctAnswer: 1,
+        explanation: '「運ばれる」は borne（air-borne＝空気で運ばれる）です。',
+      },
+      {
+        id: 'q-born-5',
+        question: '「運ぶ・耐える・負担する」の過去分詞はどちらですか。',
+        options: ['born', 'borne', 'どちらも', 'どちらも違う'],
+        correctAnswer: 1,
+        explanation: 'それらは borne。born は「生まれる」専用です。',
+      },
+    ],
+  },
+  {
+    id: 'stake-steak',
+    title: 'stake と steak',
+    chapter: 4,
+    description: '同音 /steɪk/。stake「杭・賭け金・利害」（名詞）、steak「ステーキ（肉）」（名詞）。意味とスペルで判断。',
+    content: `## 音は同じ、意味とスペルで見分ける
+
+**stake と steak は同じ発音 /steɪk/（同音異義語）**。意味とスペルで決めます。
+
+- **stake** … /steɪk/ 名詞「**杭／賭け金／利害・出資分**」。at stake（危機にさらされて）。
+- **steak** … /steɪk/ 名詞「**ステーキ（厚切りの肉・魚）**」。
+
+| 語 | 発音 | 中心の意味 | 自作の例文 |
+| --- | --- | --- | --- |
+| st**a**ke | /steɪk/ | 杭・賭け金・利害 | Their lives were at **stake**.（彼らの命が危険にさらされていた） |
+| st**ea**k | /steɪk/ | ステーキ | I ordered a beef **steak**.（ビーフステーキを注文した） |
+
+🎯 覚え方：**食べ物の「ステーキ」は steak（ea）**、「杭・賭け・利害」は stake。料理なら steak、賭け・利害なら stake（at stake）。`,
+    keyPoints: [
+      'stake と steak は同音 /steɪk/',
+      'stake＝杭／賭け金／利害（at stake＝危機にさらされて）',
+      'steak＝ステーキ（厚切りの肉・魚）',
+    ],
+    quiz: [
+      {
+        id: 'q-stake-1',
+        question: '空所に入る適切な語はどれですか。「He grilled a juicy ( ) for dinner.（夕食にジューシーなステーキを焼いた）」',
+        options: ['stake', 'steak', 'stakes', 'steaks\''],
+        correctAnswer: 1,
+        explanation: '食べ物の「ステーキ」は steak です。',
+      },
+      {
+        id: 'q-stake-2',
+        question: '「杭／賭け金／利害」という意味の名詞はどれですか。',
+        options: ['steak', 'stake', 'steaks', 'staked'],
+        correctAnswer: 1,
+        explanation: '「杭・賭け・利害」は stake です。',
+      },
+      {
+        id: 'q-stake-3',
+        question: 'stake と steak の発音の関係はどれですか。',
+        options: ['母音が違う', '同じ発音（同音異義語）', '子音が違う', 'アクセントが違う'],
+        correctAnswer: 1,
+        explanation: 'どちらも /steɪk/ で同音異義語です。',
+      },
+      {
+        id: 'q-stake-4',
+        question: '空所に入る適切な語はどれですか。「The company\'s future is at ( ).（会社の将来が危機にさらされている）」',
+        options: ['steak', 'stake', 'steaks', 'staked'],
+        correctAnswer: 1,
+        explanation: '成句 at stake「危機にさらされて」の stake です。',
+      },
+      {
+        id: 'q-stake-5',
+        question: '厚切りの「肉（ステーキ）」を意味するのはどちらですか。',
+        options: ['stake', 'steak', 'どちらも', 'どちらも違う'],
+        correctAnswer: 1,
+        explanation: 'ステーキは steak。stake は杭・賭け・利害です。',
+      },
+    ],
+  },
+  {
+    id: 'which-witch',
+    title: 'which と witch',
+    chapter: 4,
+    description: '同音 /wɪtʃ/。which「どちら・どれ（疑問・関係）」、witch「魔女」（名詞）。意味と品詞で判断。',
+    content: `## 音は同じ、意味と品詞で見分ける
+
+**which と witch は同じ発音 /wɪtʃ/（同音異義語）**。意味と品詞で決めます。
+
+- **which** … /wɪtʃ/ 「**どちら・どれ**」（疑問詞）、「〜するところの」（関係代名詞）。
+- **witch** … /wɪtʃ/ 名詞「**魔女**」。
+
+| 語 | 発音 | 品詞・中心の意味 | 自作の例文 |
+| --- | --- | --- | --- |
+| **wh**ich | /wɪtʃ/ | どちら・どれ | **Which** color do you like?（どちらの色が好き？） |
+| **w**itch | /wɪtʃ/ | 名詞：魔女 | The **witch** cast a spell.（魔女は呪文を唱えた） |
+
+🎯 覚え方：**選択・関係の「どちら」は which（wh-）、物語の「魔女」は witch**。疑問・関係なら which、魔女なら witch。`,
+    keyPoints: [
+      'which と witch は同音 /wɪtʃ/',
+      'which＝どちら・どれ（疑問詞・関係代名詞）',
+      'witch＝魔女（名詞）',
+    ],
+    quiz: [
+      {
+        id: 'q-which-1',
+        question: '空所に入る適切な語はどれですか。「The story is about a kind ( ).（その物語は優しい魔女の話だ）」',
+        options: ['which', 'witch', 'whichs', 'witches\''],
+        correctAnswer: 1,
+        explanation: '「魔女」は witch です。',
+      },
+      {
+        id: 'q-which-2',
+        question: '「どちら・どれ」を表す疑問詞はどれですか。',
+        options: ['witch', 'which', 'witches', 'witchy'],
+        correctAnswer: 1,
+        explanation: '疑問・関係の「どちら」は which です。',
+      },
+      {
+        id: 'q-which-3',
+        question: 'which と witch の発音の関係はどれですか。',
+        options: ['母音が違う', '同じ発音（同音異義語）', '子音が違う', 'アクセントが違う'],
+        correctAnswer: 1,
+        explanation: 'どちらも /wɪtʃ/ で同音異義語です。',
+      },
+      {
+        id: 'q-which-4',
+        question: '空所に入る適切な語はどれですか。「( ) way should we go?（どちらの道へ行くべき？）」',
+        options: ['Witch', 'Which', 'Witches', 'Witchy'],
+        correctAnswer: 1,
+        explanation: '「どちらの（道）」は疑問詞 Which です。',
+      },
+      {
+        id: 'q-which-5',
+        question: '物語に出る「魔女」を意味するのはどちらですか。',
+        options: ['which', 'witch', 'どちらも', 'どちらも違う'],
+        correctAnswer: 1,
+        explanation: '魔女は witch。which は「どちら」です。',
+      },
+    ],
+  },
+  {
+    id: 'medal-meddle',
+    title: 'medal と meddle',
+    chapter: 4,
+    description: '同音 /ˈmɛdəl/。medal「メダル・勲章」（名詞）、meddle「（余計な）干渉をする・おせっかいする」（動詞）。',
+    content: `## 音は同じ、意味とスペルで見分ける
+
+**medal と meddle は同じ発音 /ˈmɛdəl/（同音異義語）**。意味とスペルで決めます。
+
+- **medal** … /ˈmɛdəl/ 名詞「**メダル・勲章**」。gold medal（金メダル）。
+- **meddle** … /ˈmɛdəl/ 動詞「**（他人のことに）余計な干渉をする・おせっかいする**」。meddle in ~。
+
+| 語 | 発音 | 品詞・中心の意味 | 自作の例文 |
+| --- | --- | --- | --- |
+| me**d**al | /ˈmɛdəl/ | 名詞：メダル | She won a gold **medal**.（金メダルを取った） |
+| me**dd**le | /ˈmɛdəl/ | 動詞：干渉する | Don't **meddle** in my affairs.（私のことに口出ししないで） |
+
+🎯 覚え方：**賞の「メダル」は medal、他人事への「おせっかい」は meddle（d がふたつ）**。表彰なら medal、口出し・干渉なら meddle。`,
+    keyPoints: [
+      'medal と meddle は同音 /ˈmɛdəl/',
+      'medal＝メダル・勲章（名詞）',
+      'meddle＝（余計な）干渉をする・おせっかいする（d がふたつ）',
+    ],
+    quiz: [
+      {
+        id: 'q-medal-1',
+        question: '空所に入る適切な語はどれですか。「Stop trying to ( ) in their relationship.（彼らの関係に口出ししないで）」',
+        options: ['medal', 'meddle', 'medals', 'meddled\''],
+        correctAnswer: 1,
+        explanation: '「干渉する・おせっかいする」は動詞 meddle です。',
+      },
+      {
+        id: 'q-medal-2',
+        question: '「メダル・勲章」という意味の名詞はどれですか。',
+        options: ['meddle', 'medal', 'meddles', 'meddling'],
+        correctAnswer: 1,
+        explanation: '「メダル」は medal /ˈmɛdəl/ です。',
+      },
+      {
+        id: 'q-medal-3',
+        question: 'medal と meddle の発音の関係はどれですか。',
+        options: ['母音が違う', '同じ発音（同音異義語）', '子音が違う', 'アクセントが違う'],
+        correctAnswer: 1,
+        explanation: 'どちらも /ˈmɛdəl/ で同音異義語です。',
+      },
+      {
+        id: 'q-medal-4',
+        question: '空所に入る適切な語はどれですか。「He proudly wore his war ( ).（彼は誇らしげに従軍勲章をつけた）」',
+        options: ['meddle', 'medal', 'meddles', 'meddling'],
+        correctAnswer: 1,
+        explanation: '「勲章・メダル」は medal です。',
+      },
+      {
+        id: 'q-medal-5',
+        question: '他人事への「干渉・おせっかい」を意味するのはどちらですか。',
+        options: ['medal', 'meddle', 'どちらも', 'どちらも違う'],
+        correctAnswer: 1,
+        explanation: '干渉は meddle。medal はメダル・勲章です。',
+      },
+    ],
+  },
+  {
+    id: 'tide-tied',
+    title: 'tide と tied',
+    chapter: 4,
+    description: '同音 /taɪd/。tide「潮・潮の満ち引き」（名詞）、tied「tie の過去（結んだ・引き分けた）」。意味と品詞で判断。',
+    content: `## 音は同じ、意味と品詞で見分ける
+
+**tide と tied は同じ発音 /taɪd/（同音異義語）**。意味と品詞で決めます。
+
+- **tide** … /taɪd/ 名詞「**潮・潮の満ち引き・（時勢の）流れ**」。high tide（満潮）。
+- **tied** … /taɪd/ 動詞 tie の過去・過去分詞「**結んだ・縛った／（試合が）同点だった**」。
+
+| 語 | 発音 | 品詞・中心の意味 | 自作の例文 |
+| --- | --- | --- | --- |
+| tide | /taɪd/ | 名詞：潮 | The **tide** is coming in.（潮が満ちてきている） |
+| tie**d** | /taɪd/ | tie の過去：結んだ | He **tied** his shoelaces.（彼は靴ひもを結んだ） |
+
+🎯 覚え方：**海の「潮」は tide、tie（結ぶ・同点になる）の過去は tied**。潮の話なら tide、結んだ・引き分けたなら tied。`,
+    keyPoints: [
+      'tide と tied は同音 /taɪd/',
+      'tide＝名詞「潮・潮の満ち引き」（high tide＝満潮）',
+      'tied＝tie の過去「結んだ・引き分けた」',
+    ],
+    quiz: [
+      {
+        id: 'q-tide-1',
+        question: '空所に入る適切な語はどれですか。「She ( ) a ribbon around the box.（箱にリボンを結んだ）」',
+        options: ['tide', 'tied', 'tides', 'tiding'],
+        correctAnswer: 1,
+        explanation: '「結んだ」は tie の過去 tied です。',
+      },
+      {
+        id: 'q-tide-2',
+        question: '「潮・潮の満ち引き」という意味の名詞はどれですか。',
+        options: ['tied', 'tide', 'tides', 'tiding'],
+        correctAnswer: 1,
+        explanation: '海の「潮」は tide /taɪd/ です。',
+      },
+      {
+        id: 'q-tide-3',
+        question: 'tide と tied の発音の関係はどれですか。',
+        options: ['母音が違う', '同じ発音（同音異義語）', '子音が違う', 'アクセントが違う'],
+        correctAnswer: 1,
+        explanation: 'どちらも /taɪd/ で同音異義語です。',
+      },
+      {
+        id: 'q-tide-4',
+        question: '空所に入る適切な語はどれですか。「The game was ( ) at two each.（試合は2対2の同点だった）」',
+        options: ['tide', 'tied', 'tides', 'tiding'],
+        correctAnswer: 1,
+        explanation: '「同点だった」は tie の過去 tied です。',
+      },
+      {
+        id: 'q-tide-5',
+        question: '海の「潮」を意味するのはどちらですか。',
+        options: ['tied', 'tide', 'どちらも', 'どちらも違う'],
+        correctAnswer: 1,
+        explanation: '潮は tide。tied は「結んだ・引き分けた」です。',
+      },
+    ],
+  },
+  {
+    id: 'whine-wine',
+    title: 'whine と wine',
+    chapter: 4,
+    description: '同音 /waɪn/。whine「めそめそ泣く・泣き言を言う」（動詞）、wine「ワイン」（名詞）。意味と品詞で判断。',
+    content: `## 音は同じ、意味と品詞で見分ける
+
+**whine と wine は同じ発音 /waɪn/（同音異義語）**。意味と品詞で決めます。
+
+- **whine** … /waɪn/ 動詞「**めそめそ泣く・泣き言を言う・（機械が）甲高い音を出す**」。
+- **wine** … /waɪn/ 名詞「**ワイン・ぶどう酒**」。
+
+| 語 | 発音 | 品詞・中心の意味 | 自作の例文 |
+| --- | --- | --- | --- |
+| **wh**ine | /waɪn/ | 動詞：泣き言を言う | Stop **whining** and finish your work.（泣き言はやめて仕事を終えて） |
+| **w**ine | /waɪn/ | 名詞：ワイン | They shared a bottle of **wine**.（ワインを1本分け合った） |
+
+🎯 覚え方：**飲み物の「ワイン」は wine（w-）、めそめそ「泣き言」は whine（wh-）**。お酒なら wine、不平・泣き言なら whine。`,
+    keyPoints: [
+      'whine と wine は同音 /waɪn/',
+      'whine＝めそめそ泣く・泣き言を言う（動詞・wh-）',
+      'wine＝ワイン（名詞・w-）',
+    ],
+    quiz: [
+      {
+        id: 'q-whine-1',
+        question: '空所に入る適切な語はどれですか。「We enjoyed red ( ) with dinner.（夕食に赤ワインを楽しんだ）」',
+        options: ['whine', 'wine', 'whines', 'wined\''],
+        correctAnswer: 1,
+        explanation: '飲み物の「ワイン」は wine です。',
+      },
+      {
+        id: 'q-whine-2',
+        question: '「めそめそ泣く・泣き言を言う」という意味の動詞はどれですか。',
+        options: ['wine', 'whine', 'wines', 'wining'],
+        correctAnswer: 1,
+        explanation: '「泣き言を言う」は whine /waɪn/ です。',
+      },
+      {
+        id: 'q-whine-3',
+        question: 'whine と wine の発音の関係はどれですか。',
+        options: ['母音が違う', '同じ発音（同音異義語）', '子音が違う', 'アクセントが違う'],
+        correctAnswer: 1,
+        explanation: 'どちらも /waɪn/ で同音異義語です。',
+      },
+      {
+        id: 'q-whine-4',
+        question: '空所に入る適切な語はどれですか。「The children ( ) when they are tired.（子どもは疲れるとぐずる）」',
+        options: ['wine', 'whine', 'wines', 'wined'],
+        correctAnswer: 1,
+        explanation: '「ぐずる・泣き言を言う」は whine です。',
+      },
+      {
+        id: 'q-whine-5',
+        question: 'ぶどう酒「ワイン」を意味するのはどちらですか。',
+        options: ['whine', 'wine', 'どちらも', 'どちらも違う'],
+        correctAnswer: 1,
+        explanation: 'ワインは wine。whine は「泣き言を言う」です。',
+      },
+    ],
+  },
 ];
