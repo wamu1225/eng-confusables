@@ -7284,4 +7284,614 @@ belief/believe と同じく、**-f（relief）が名詞、-ve（relieve）が動
       },
     ],
   },
+  {
+    id: 'conscious-conscience',
+    title: 'conscious と conscience',
+    chapter: 1,
+    description: 'つづりが紛らわしい。conscious /ˈkɒnʃəs/「意識のある・気づいている」（形容詞）、conscience /ˈkɒnʃəns/「良心」（名詞）。',
+    content: `## 品詞と意味で見分ける
+
+似たつづりですが、**末尾 -ous（conscious）と -ence（conscience）**、意味と品詞が違います。
+
+- **conscious** … /ˈkɒnʃəs/ 形容詞「**意識のある・気づいている**」。be conscious of ~（〜に気づいている）。
+- **conscience** … /ˈkɒnʃəns/ 名詞「**良心**」。善悪を判断する心。
+
+| 語 | 発音 | 品詞・中心の意味 | 自作の例文 |
+| --- | --- | --- | --- |
+| consci**ous** | /ˈkɒnʃəs/ | 形容詞：意識のある | She is **conscious** of the risk.（彼女はその危険に気づいている） |
+| consci**ence** | /ˈkɒnʃəns/ | 名詞：良心 | His **conscience** troubled him.（良心の呵責に苦しんだ） |
+
+🎯 覚え方：**-ous の conscious は「気づいている（状態）」の形容詞**、-ence の conscience は「良心」という名詞（science＝知る心）。善悪の心なら conscience。`,
+    keyPoints: [
+      'conscious /ˈkɒnʃəs/＝形容詞「意識のある・気づいている」',
+      'conscience /ˈkɒnʃəns/＝名詞「良心」',
+      '-ous は形容詞、-ence は名詞',
+    ],
+    quiz: [
+      {
+        id: 'q-conscious-1',
+        question: '空所に入る適切な語はどれですか。「Her ( ) would not let her lie.（良心が彼女に嘘をつかせなかった）」',
+        options: ['conscious', 'conscience', 'consciously', 'consciences\''],
+        correctAnswer: 1,
+        explanation: '名詞「良心」は conscience です。',
+      },
+      {
+        id: 'q-conscious-2',
+        question: '「意識のある・気づいている」という意味の形容詞はどれですか。',
+        options: ['conscience', 'conscious', 'consciences', 'conscientious'],
+        correctAnswer: 1,
+        explanation: '形容詞「意識のある」は conscious /ˈkɒnʃəs/ です。',
+      },
+      {
+        id: 'q-conscious-3',
+        question: '空所に入る適切な語はどれですか。「The patient was still ( ) after the fall.（転倒後も患者は意識があった）」',
+        options: ['conscience', 'conscious', 'consciences', 'conscientious'],
+        correctAnswer: 1,
+        explanation: '「意識のある」は conscious です。',
+      },
+      {
+        id: 'q-conscious-4',
+        question: '名詞「良心」を表すのはどちらですか。',
+        options: ['conscious', 'conscience', 'どちらも', 'どちらも違う'],
+        correctAnswer: 1,
+        explanation: '「良心」は名詞 conscience。conscious は形容詞です。',
+      },
+      {
+        id: 'q-conscious-5',
+        question: '空所に入る適切な語はどれですか。「Are you ( ) of the time?（時間を意識している？）」',
+        options: ['conscience', 'conscious', 'consciences', 'conscientious'],
+        correctAnswer: 1,
+        explanation: 'be conscious of ~「〜に気づいている」の conscious です。',
+      },
+    ],
+  },
+  {
+    id: 'moral-morale',
+    title: 'moral と morale',
+    chapter: 1,
+    description: 'e の有無とアクセント。moral /ˈmɒrəl/「道徳的な・教訓」、morale /məˈræl/「士気・やる気」。',
+    content: `## 末尾 e とアクセントで見分ける
+
+**末尾 e のあるなし**とアクセント位置で別語になります。
+
+- **moral** … /ˈmɒrəl/ 形容詞「**道徳的な**」、名詞「**教訓**」。アクセントは前。
+- **morale** … /məˈræl/ 名詞「**士気・やる気**」。アクセントは後ろ（e が付く）。
+
+| 語 | 発音 | 品詞・中心の意味 | 自作の例文 |
+| --- | --- | --- | --- |
+| moral | /ˈmɒrəl/ | 道徳的な・教訓 | The story has a clear **moral**.（その話には明確な教訓がある） |
+| moral**e** | /məˈræl/ | 士気・やる気 | The team's **morale** was high.（チームの士気は高かった） |
+
+🎯 覚え方：**e が付く morale は「士気（やる気）」でアクセントも後ろ（moraleの e が上がる）**。道徳・教訓は moral。集団の「やる気」なら morale。`,
+    keyPoints: [
+      'moral /ˈmɒrəl/＝道徳的な・教訓（前アクセント）',
+      'morale /məˈræl/＝士気・やる気（後ろアクセント・e あり）',
+      '集団のやる気は morale',
+    ],
+    quiz: [
+      {
+        id: 'q-moral-1',
+        question: '空所に入る適切な語はどれですか。「Good pay can boost employee ( ).（良い給与は従業員の士気を高める）」',
+        options: ['moral', 'morale', 'morals', 'morally'],
+        correctAnswer: 1,
+        explanation: '「士気・やる気」は morale です。',
+      },
+      {
+        id: 'q-moral-2',
+        question: '「道徳的な」または「教訓」を表す語はどれですか。',
+        options: ['morale', 'moral', 'morales', 'morally'],
+        correctAnswer: 1,
+        explanation: '「道徳的な・教訓」は moral /ˈmɒrəl/ です。',
+      },
+      {
+        id: 'q-moral-3',
+        question: '空所に入る適切な語はどれですか。「It is a ( ) duty to help others.（人を助けるのは道徳的な義務だ）」',
+        options: ['morale', 'moral', 'morales', 'morally'],
+        correctAnswer: 1,
+        explanation: '形容詞「道徳的な」は moral です。',
+      },
+      {
+        id: 'q-moral-4',
+        question: '後ろにアクセントがあり「士気」を意味するのはどちらですか。',
+        options: ['moral', 'morale', 'どちらも', 'どちらも違う'],
+        correctAnswer: 1,
+        explanation: 'morale /məˈræl/（士気）。moral（道徳的な・教訓）です。',
+      },
+      {
+        id: 'q-moral-5',
+        question: '空所に入る適切な語はどれですか。「Losing the game hurt their ( ).（敗戦は彼らの士気を下げた）」',
+        options: ['moral', 'morale', 'morals', 'morally'],
+        correctAnswer: 1,
+        explanation: '集団の「士気」は morale です。',
+      },
+    ],
+  },
+  {
+    id: 'avoid-prevent',
+    title: 'avoid と prevent',
+    chapter: 2,
+    description: '主語の関わり方が違う。avoid は自分が「〜を避ける」、prevent は「（人・事が起きるの）を防ぐ・妨げる」。',
+    content: `## 避けるか、防ぐかで見分ける
+
+どちらも「〜しないようにする」ですが、視点と語法が違います。
+
+- **avoid** … 「**（好ましくないもの）を避ける**」。avoid + 名詞／avoid **doing**（動名詞）。
+- **prevent** … 「**（事が起きるの）を防ぐ・（人が〜するのを）妨げる**」。prevent 人 **from doing**。
+
+| 語 | 語法 | 中心の意味 | 自作の例文 |
+| --- | --- | --- | --- |
+| avoid | avoid doing | （自分が）避ける | I **avoid** eating too much sugar.（砂糖の取りすぎを避けている） |
+| prevent | prevent 人 from doing | 防ぐ・妨げる | The rain **prevented** us from going out.（雨で外出できなかった） |
+
+🎯 覚え方：**avoid のあとは doing（避ける対象）、prevent のあとは「人 from doing（〜が…するのを妨げる）」**。「〜するのを避ける」は avoid doing、「〜が…するのを防ぐ」は prevent ~ from doing。`,
+    keyPoints: [
+      'avoid＝（自分が）避ける（avoid doing）',
+      'prevent＝防ぐ・妨げる（prevent 人 from doing）',
+      '語法：avoid doing／prevent ~ from doing',
+    ],
+    quiz: [
+      {
+        id: 'q-avoid-1',
+        question: '空所に入る適切な語はどれですか。「Seatbelts ( ) drivers from serious injury.（シートベルトは運転者の重傷を防ぐ）」',
+        options: ['avoid', 'prevent', 'avoided', 'prevents\''],
+        correctAnswer: 1,
+        explanation: 'prevent 人 from ~「〜を防ぐ・妨げる」の prevent です。',
+      },
+      {
+        id: 'q-avoid-2',
+        question: '空所に入る適切な語はどれですか。「Try to ( ) making the same mistake.（同じ間違いをするのを避けて）」',
+        options: ['prevent', 'avoid', 'prevented', 'prevents'],
+        correctAnswer: 1,
+        explanation: 'avoid doing「〜するのを避ける」の avoid です。',
+      },
+      {
+        id: 'q-avoid-3',
+        question: '「prevent 人 from doing」の形をとるのはどちらですか。',
+        options: ['avoid', 'prevent', 'どちらも', 'どちらも違う'],
+        correctAnswer: 1,
+        explanation: 'prevent ~ from doing。avoid は avoid doing です。',
+      },
+      {
+        id: 'q-avoid-4',
+        question: '空所に入る適切な語はどれですか。「Wash your hands to ( ) infection.（感染を防ぐため手を洗って）」',
+        options: ['avoid', 'prevent', 'avoided', 'avoiding'],
+        correctAnswer: 1,
+        explanation: '「（感染が起きるのを）防ぐ」は prevent です（avoid も可だが「防ぐ」は prevent が中心）。',
+      },
+      {
+        id: 'q-avoid-5',
+        question: 'あとに動名詞（doing）を直接とって「〜するのを避ける」となるのはどちらですか。',
+        options: ['prevent', 'avoid', 'どちらも', 'どちらも違う'],
+        correctAnswer: 1,
+        explanation: 'avoid doing。prevent は prevent ~ from doing です。',
+      },
+    ],
+  },
+  {
+    id: 'big-large',
+    title: 'big と large',
+    chapter: 2,
+    description: 'big は大きさ・重要さ全般（口語的）、large は主にサイズ・量・数（ややフォーマル）。多くは置き換え可能だが相性がある。',
+    content: `## 大きさの種類と語感で見分ける
+
+どちらも「大きい」ですが、語感と相性に差があります。
+
+- **big** … 「**大きい・重大な**」。口語的で、抽象的な「大きさ・重要さ」にも使う（a big decision, a big problem）。
+- **large** … 主に「**サイズ・量・数が大きい**」。ややフォーマル。抽象的な「重要さ」にはあまり使わない。
+
+| 語 | 得意な使い方 | 自作の例文 |
+| --- | --- | --- |
+| big | 重要さ・程度も | It was a **big** decision.（それは大きな決断だった） |
+| large | サイズ・量・数 | They live in a **large** house.（彼らは大きな家に住んでいる） |
+
+🎯 覚え方：**「重大な（重要さ）」は big が自然、「サイズ・量・数」は large も自然**。a big mistake（○）／a large mistake（△）。数量は a large number of ~。`,
+    keyPoints: [
+      'big＝大きい・重大な（口語的・重要さにも）',
+      'large＝サイズ・量・数が大きい（ややフォーマル）',
+      '「重大な」は big、「量・数」は large（a large number of ~）',
+    ],
+    quiz: [
+      {
+        id: 'q-big-1',
+        question: '空所に入る適切な語はどれですか。「A ( ) number of students attended.（多数の生徒が出席した）」',
+        options: ['big', 'large', 'bigger', 'largely'],
+        correctAnswer: 1,
+        explanation: '数量の「多数の」は a large number of ~ が定型です。',
+      },
+      {
+        id: 'q-big-2',
+        question: '空所に入る適切な語はどれですか。「Quitting his job was a ( ) mistake.（仕事を辞めたのは大きな失敗だった）」',
+        options: ['large', 'big', 'largely', 'bigly'],
+        correctAnswer: 1,
+        explanation: '「重大な失敗」は a big mistake が自然です。',
+      },
+      {
+        id: 'q-big-3',
+        question: '主にサイズ・量・数の大きさに使い、ややフォーマルなのはどちらですか。',
+        options: ['big', 'large', 'どちらも同じ', 'どちらも違う'],
+        correctAnswer: 1,
+        explanation: 'large はサイズ・量・数向きでややフォーマル。big は口語的で重要さにも使えます。',
+      },
+      {
+        id: 'q-big-4',
+        question: '空所に入る適切な語はどれですか。「This is a ( ) opportunity for us.（これは私たちにとって大きな好機だ）」',
+        options: ['large', 'big', 'largely', 'bigly'],
+        correctAnswer: 1,
+        explanation: '抽象的な「重要な（好機）」は big が自然です。',
+      },
+      {
+        id: 'q-big-5',
+        question: '空所に入る適切な語はどれですか。「We need a ( ) box to fit everything.（全部入れるには大きな箱がいる）」',
+        options: ['big', 'large', 'どちらも自然', 'どちらも不可'],
+        correctAnswer: 2,
+        explanation: 'サイズの意味ではどちらも自然に使えます。',
+      },
+    ],
+  },
+  {
+    id: 'confident-confidant',
+    title: 'confident と confidant',
+    chapter: 3,
+    description: 'confident /ˈkɒnfɪdənt/「自信のある」（形容詞）、confidant /ˈkɒnfɪdænt/「腹心の友・秘密を打ち明ける相手」（名詞）。',
+    content: `## 品詞と末尾の音で見分ける
+
+つづりは **-ent（confident）と -ant（confidant）**、意味と品詞が違います。
+
+- **confident** … /ˈkɒnfɪdənt/ 形容詞「**自信のある・確信して**」。be confident of/that ~。
+- **confidant** … /ˈkɒnfɪdænt/ 名詞「**腹心の友・（秘密を打ち明ける）親友**」。末尾は「ダント／ダーント」。
+
+| 語 | 発音 | 品詞・中心の意味 | 自作の例文 |
+| --- | --- | --- | --- |
+| confid**ent** | /ˈkɒnfɪdənt/ | 形容詞：自信のある | She felt **confident** before the test.（試験前、自信があった） |
+| confid**ant** | /ˈkɒnfɪdænt/ | 名詞：腹心の友 | He is my closest **confidant**.（彼は私の最も親しい相談相手だ） |
+
+🎯 覚え方：**-ent の confident は「自信のある（形容詞）」**、-ant の confidant は「秘密を打ち明ける友（名詞・人）」。人を指すなら confidant。`,
+    keyPoints: [
+      'confident /ˈkɒnfɪdənt/＝形容詞「自信のある」（-ent）',
+      'confidant /ˈkɒnfɪdænt/＝名詞「腹心の友」（-ant）',
+      '人（相談相手）を指すなら confidant',
+    ],
+    quiz: [
+      {
+        id: 'q-confident-1',
+        question: '空所に入る適切な語はどれですか。「She is the only ( ) I trust with secrets.（秘密を打ち明けられる唯一の相手だ）」',
+        options: ['confident', 'confidant', 'confidently', 'confidence'],
+        correctAnswer: 1,
+        explanation: '「腹心の友・打ち明け相手」は名詞 confidant です。',
+      },
+      {
+        id: 'q-confident-2',
+        question: '「自信のある・確信して」という意味の形容詞はどれですか。',
+        options: ['confidant', 'confident', 'confidence', 'confidants'],
+        correctAnswer: 1,
+        explanation: '形容詞「自信のある」は confident /ˈkɒnfɪdənt/ です。',
+      },
+      {
+        id: 'q-confident-3',
+        question: '空所に入る適切な語はどれですか。「I am ( ) that we will win.（私たちが勝つと確信している）」',
+        options: ['confidant', 'confident', 'confidence', 'confidants'],
+        correctAnswer: 1,
+        explanation: 'be confident that ~「〜を確信している」の confident です。',
+      },
+      {
+        id: 'q-confident-4',
+        question: '「人（相談相手）」を指す名詞はどちらですか。',
+        options: ['confident', 'confidant', 'どちらも', 'どちらも違う'],
+        correctAnswer: 1,
+        explanation: 'confidant が人（腹心の友）。confident は形容詞です。',
+      },
+      {
+        id: 'q-confident-5',
+        question: '空所に入る適切な語はどれですか。「He gave a ( ) answer without hesitation.（彼はためらわず自信ある返答をした）」',
+        options: ['confidant', 'confident', 'confidance', 'confidants'],
+        correctAnswer: 1,
+        explanation: '「自信ある（返答）」は形容詞 confident です。',
+      },
+    ],
+  },
+  {
+    id: 'momentary-momentous',
+    title: 'momentary と momentous',
+    chapter: 3,
+    description: '同じ moment 由来でも別語。momentary /ˈmoʊməntɛri/「一瞬の・つかの間の」、momentous /moʊˈmɛntəs/「重大な」。',
+    content: `## 意味の違いで見分ける
+
+どちらも moment（瞬間）から派生しますが、意味は大きく違います。
+
+- **momentary** … /ˈmoʊməntɛri/ 「**一瞬の・つかの間の**」。時間が短いこと。
+- **momentous** … /moʊˈmɛntəs/ 「**重大な・重要な**」。重み・意義が大きいこと。
+
+| 語 | 中心の意味 | 自作の例文 |
+| --- | --- | --- |
+| moment**ary** | 一瞬の | There was a **momentary** silence.（つかの間の沈黙があった） |
+| moment**ous** | 重大な | It was a **momentous** decision.（それは重大な決断だった） |
+
+🎯 覚え方：**-ary の momentary は「（moment＝瞬間）一瞬の」**、-ous の momentous は「（重み）重大な」。時間が短いなら momentary、意義が大きいなら momentous。`,
+    keyPoints: [
+      'momentary /ˈmoʊməntɛri/＝一瞬の・つかの間の（時間）',
+      'momentous /moʊˈmɛntəs/＝重大な・重要な（意義）',
+      '短い時間なら momentary、大きな意義なら momentous',
+    ],
+    quiz: [
+      {
+        id: 'q-momentary-1',
+        question: '空所に入る適切な語はどれですか。「Signing the treaty was a ( ) event.（条約の調印は重大な出来事だった）」',
+        options: ['momentary', 'momentous', 'moment', 'momentarily'],
+        correctAnswer: 1,
+        explanation: '「重大な（出来事）」は momentous です。',
+      },
+      {
+        id: 'q-momentary-2',
+        question: '「一瞬の・つかの間の」という意味の語はどれですか。',
+        options: ['momentous', 'momentary', 'moment', 'momentously'],
+        correctAnswer: 1,
+        explanation: '「一瞬の」は momentary /ˈmoʊməntɛri/ です。',
+      },
+      {
+        id: 'q-momentary-3',
+        question: '空所に入る適切な語はどれですか。「He felt a ( ) flash of doubt.（彼は一瞬の疑念を感じた）」',
+        options: ['momentous', 'momentary', 'moment', 'momentously'],
+        correctAnswer: 1,
+        explanation: '「一瞬の（疑念）」は momentary です。',
+      },
+      {
+        id: 'q-momentary-4',
+        question: '「重大な・重要な（意義）」を表すのはどちらですか。',
+        options: ['momentary', 'momentous', 'どちらも', 'どちらも違う'],
+        correctAnswer: 1,
+        explanation: 'momentous が「重大な」。momentary は「一瞬の」です。',
+      },
+      {
+        id: 'q-momentary-5',
+        question: '空所に入る適切な語はどれですか。「The pause was only ( ).（その間はほんの一瞬だった）」',
+        options: ['momentous', 'momentary', 'moment', 'momentously'],
+        correctAnswer: 1,
+        explanation: '時間が短い「一瞬の」は momentary です。',
+      },
+    ],
+  },
+  {
+    id: 'die-dye',
+    title: 'die と dye',
+    chapter: 4,
+    description: '同音 /daɪ/。die「死ぬ」（動詞）、dye「染める・染料」（動詞・名詞）。意味とスペルで判断する同音異義語。',
+    content: `## 音は同じ、意味とスペルで見分ける
+
+**die と dye は同じ発音 /daɪ/（同音異義語）**。意味とスペルで決めます。
+
+- **die** … /daɪ/ 動詞「**死ぬ・枯れる**」。die-died-died。進行形は dying。
+- **dye** … /daɪ/ 動詞「**染める**」、名詞「**染料**」。進行形は dyeing（e を残す）。
+
+| 語 | 発音 | 品詞・中心の意味 | 自作の例文 |
+| --- | --- | --- | --- |
+| die | /daɪ/ | 動詞：死ぬ | The plant will **die** without water.（水がないと枯れる） |
+| dye | /daɪ/ | 染める・染料 | She **dyed** her hair brown.（髪を茶色に染めた） |
+
+🎯 覚え方：**dye には e があって「染める（色）」、進行形 dyeing も e を残す**。「死ぬ」は die（dying）。色を「染める」なら dye。`,
+    keyPoints: [
+      'die と dye は同音 /daɪ/',
+      'die＝動詞「死ぬ・枯れる」（進行形 dying）',
+      'dye＝染める・染料（進行形 dyeing・e を残す）',
+    ],
+    quiz: [
+      {
+        id: 'q-die-1',
+        question: '空所に入る適切な語はどれですか。「They used natural ( ) to color the cloth.（布を染めるのに天然の染料を使った）」',
+        options: ['die', 'dye', 'dies', 'died'],
+        correctAnswer: 1,
+        explanation: '「染料・染める」は dye です。',
+      },
+      {
+        id: 'q-die-2',
+        question: '「死ぬ・枯れる」という意味の動詞はどれですか。',
+        options: ['dye', 'die', 'dyes', 'dyed'],
+        correctAnswer: 1,
+        explanation: '動詞「死ぬ」は die /daɪ/ です。',
+      },
+      {
+        id: 'q-die-3',
+        question: 'die と dye の発音の関係はどれですか。',
+        options: ['母音が違う', '同じ発音（同音異義語）', '子音が違う', 'アクセントが違う'],
+        correctAnswer: 1,
+        explanation: 'どちらも /daɪ/ で同音異義語です。',
+      },
+      {
+        id: 'q-die-4',
+        question: '空所に入る適切な語はどれですか。「Many trees ( ) during the drought.（干ばつで多くの木が枯れた）」',
+        options: ['dyed', 'died', 'dye', 'dyes'],
+        correctAnswer: 1,
+        explanation: '「枯れた・死んだ」は die の過去 died です。',
+      },
+      {
+        id: 'q-die-5',
+        question: '色を「染める」を意味するのはどちらですか。',
+        options: ['die', 'dye', 'どちらも', 'どちらも違う'],
+        correctAnswer: 1,
+        explanation: '染めるのは dye。die は「死ぬ」です。',
+      },
+    ],
+  },
+  {
+    id: 'board-bored',
+    title: 'board と bored',
+    chapter: 4,
+    description: '同音 /bɔːrd/。board「板・委員会／乗り込む」、bored「退屈した」（形容詞）。意味とスペルで判断。',
+    content: `## 音は同じ、意味とスペルで見分ける
+
+**board と bored は同じ発音 /bɔːrd/（同音異義語）**。意味とスペルで決めます。
+
+- **board** … /bɔːrd/ 名詞「**板・掲示板・委員会**」、動詞「**（乗り物に）乗り込む**」。
+- **bored** … /bɔːrd/ 形容詞「**退屈した・うんざりした**」。動詞 bore（退屈させる）の過去分詞から。
+
+| 語 | 発音 | 品詞・中心の意味 | 自作の例文 |
+| --- | --- | --- | --- |
+| board | /bɔːrd/ | 板・委員会／乗り込む | Passengers began to **board** the plane.（乗客が搭乗を始めた） |
+| bored | /bɔːrd/ | 形容詞：退屈した | I was **bored** during the long lecture.（長い講義で退屈した） |
+
+🎯 覚え方：**bored は bore（退屈させる）の -ed で「退屈した（気持ち）」**。板・委員会・搭乗は board。退屈な気分なら bored。`,
+    keyPoints: [
+      'board と bored は同音 /bɔːrd/',
+      'board＝板・掲示板・委員会／乗り込む',
+      'bored＝形容詞「退屈した」（bore の過去分詞）',
+    ],
+    quiz: [
+      {
+        id: 'q-board-1',
+        question: '空所に入る適切な語はどれですか。「The children were ( ) with nothing to do.（子どもたちは何もすることがなく退屈していた）」',
+        options: ['board', 'bored', 'boards', 'boarded'],
+        correctAnswer: 1,
+        explanation: '「退屈した」は形容詞 bored です。',
+      },
+      {
+        id: 'q-board-2',
+        question: '「板・掲示板・委員会」または「乗り込む」を表す語はどれですか。',
+        options: ['bored', 'board', 'boring', 'bores'],
+        correctAnswer: 1,
+        explanation: '「板・委員会／乗り込む」は board です。',
+      },
+      {
+        id: 'q-board-3',
+        question: 'board と bored の発音の関係はどれですか。',
+        options: ['母音が違う', '同じ発音（同音異義語）', '子音が違う', 'アクセントが違う'],
+        correctAnswer: 1,
+        explanation: 'どちらも /bɔːrd/ で同音異義語です。',
+      },
+      {
+        id: 'q-board-4',
+        question: '空所に入る適切な語はどれですか。「Please ( ) the train now.（今、電車に乗ってください）」',
+        options: ['bored', 'board', 'boring', 'bores'],
+        correctAnswer: 1,
+        explanation: '「乗り込む」は動詞 board です。',
+      },
+      {
+        id: 'q-board-5',
+        question: '気持ちの「退屈した」を意味するのはどちらですか。',
+        options: ['board', 'bored', 'どちらも', 'どちらも違う'],
+        correctAnswer: 1,
+        explanation: '「退屈した」は bored。board は板・委員会・乗り込むです。',
+      },
+    ],
+  },
+  {
+    id: 'sight-site',
+    title: 'sight と site',
+    chapter: 4,
+    description: '同音 /saɪt/。sight「視界・光景・視力」、site「用地・場所・（ウェブ）サイト」。意味とスペルで判断。',
+    content: `## 音は同じ、意味とスペルで見分ける
+
+**sight と site は同じ発音 /saɪt/（同音異義語）**。意味とスペルで決めます。
+
+- **sight** … /saɪt/ 名詞「**視界・光景・視力・名所**」。sightseeing（観光）。
+- **site** … /saɪt/ 名詞「**用地・敷地・（事件などの）現場・ウェブサイト**」。
+
+| 語 | 発音 | 中心の意味 | 自作の例文 |
+| --- | --- | --- | --- |
+| s**igh**t | /saɪt/ | 視界・光景・視力 | The sunset was a beautiful **sight**.（夕日は美しい光景だった） |
+| s**i**te | /saɪt/ | 用地・場所・サイト | This is the **site** of the new school.（ここが新校舎の用地だ） |
+
+🎯 覚え方：**sight は「見る（see）」の仲間で「光景・視力」**、site は「場所・敷地（location）」。建設用地やウェブサイトは site、目に映る「光景」は sight。`,
+    keyPoints: [
+      'sight と site は同音 /saɪt/',
+      'sight＝視界・光景・視力・名所（sightseeing）',
+      'site＝用地・敷地・現場・ウェブサイト',
+    ],
+    quiz: [
+      {
+        id: 'q-sight-1',
+        question: '空所に入る適切な語はどれですか。「They chose a ( ) for the new factory.（新工場の用地を選んだ）」',
+        options: ['sight', 'site', 'sights', 'sighted'],
+        correctAnswer: 1,
+        explanation: '「用地・敷地」は site です。',
+      },
+      {
+        id: 'q-sight-2',
+        question: '「視界・光景・視力」という意味の語はどれですか。',
+        options: ['site', 'sight', 'sites', 'sited'],
+        correctAnswer: 1,
+        explanation: '「光景・視力」は sight /saɪt/ です。',
+      },
+      {
+        id: 'q-sight-3',
+        question: 'sight と site の発音の関係はどれですか。',
+        options: ['母音が違う', '同じ発音（同音異義語）', '子音が違う', 'アクセントが違う'],
+        correctAnswer: 1,
+        explanation: 'どちらも /saɪt/ で同音異義語です。',
+      },
+      {
+        id: 'q-sight-4',
+        question: '空所に入る適切な語はどれですか。「We went ( )seeing in Kyoto.（京都で観光した）」',
+        options: ['site', 'sight', 'sites', 'sighted'],
+        correctAnswer: 1,
+        explanation: '「観光」は sightseeing。sight（光景）が入ります。',
+      },
+      {
+        id: 'q-sight-5',
+        question: '建設用地やウェブの「サイト」を意味するのはどちらですか。',
+        options: ['sight', 'site', 'どちらも', 'どちらも違う'],
+        correctAnswer: 1,
+        explanation: '用地・ウェブサイトは site。sight は光景・視力です。',
+      },
+    ],
+  },
+  {
+    id: 'male-mail',
+    title: 'male と mail',
+    chapter: 4,
+    description: '同音 /meɪl/。male「男性（の）・オスの」、mail「郵便（物）・（郵便で）送る」。意味とスペルで判断。',
+    content: `## 音は同じ、意味とスペルで見分ける
+
+**male と mail は同じ発音 /meɪl/（同音異義語）**。意味とスペルで決めます。
+
+- **male** … /meɪl/ 「**男性（の）・オスの**」（形容詞・名詞）。反対は female。
+- **mail** … /meɪl/ 名詞「**郵便（物）・メール**」、動詞「**（郵便で）送る**」。
+
+| 語 | 発音 | 中心の意味 | 自作の例文 |
+| --- | --- | --- | --- |
+| m**a**le | /meɪl/ | 男性の・オスの | A **male** lion has a mane.（オスのライオンにはたてがみがある） |
+| m**ai**l | /meɪl/ | 郵便・送る | I got a lot of **mail** today.（今日は郵便がたくさん届いた） |
+
+🎯 覚え方：**mail には ai があって「郵便（届くもの）」**。性別の「男性・オス」は male（female と対）。郵便なら mail、性別なら male。`,
+    keyPoints: [
+      'male と mail は同音 /meɪl/',
+      'male＝男性の・オスの（反対は female）',
+      'mail＝郵便（物）・（郵便で）送る',
+    ],
+    quiz: [
+      {
+        id: 'q-male-1',
+        question: '空所に入る適切な語はどれですか。「Please ( ) the documents to our office.（書類を事務所へ郵送して）」',
+        options: ['male', 'mail', 'males', 'mailed\''],
+        correctAnswer: 1,
+        explanation: '「郵送する」は動詞 mail です。',
+      },
+      {
+        id: 'q-male-2',
+        question: '「男性の・オスの」という意味の語はどれですか。',
+        options: ['mail', 'male', 'mails', 'mailed'],
+        correctAnswer: 1,
+        explanation: '「男性の・オスの」は male /meɪl/ です（反対 female）。',
+      },
+      {
+        id: 'q-male-3',
+        question: 'male と mail の発音の関係はどれですか。',
+        options: ['母音が違う', '同じ発音（同音異義語）', '子音が違う', 'アクセントが違う'],
+        correctAnswer: 1,
+        explanation: 'どちらも /meɪl/ で同音異義語です。',
+      },
+      {
+        id: 'q-male-4',
+        question: '空所に入る適切な語はどれですか。「The survey asked for your age and ( ).（調査は年齢と性別を尋ねた）」',
+        options: ['mail', 'male', 'mails', 'mailed'],
+        correctAnswer: 1,
+        explanation: '性別（male/female）の male です。',
+      },
+      {
+        id: 'q-male-5',
+        question: '「郵便（物）」を意味するのはどちらですか。',
+        options: ['male', 'mail', 'どちらも', 'どちらも違う'],
+        correctAnswer: 1,
+        explanation: '郵便は mail。male は「男性・オス」です。',
+      },
+    ],
+  },
 ];
