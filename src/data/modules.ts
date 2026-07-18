@@ -9728,4 +9728,616 @@ belief/believe と同じく、**-f（relief）が名詞、-ve（relieve）が動
       },
     ],
   },
+  {
+    id: 'allow-permit-let',
+    title: 'allow と permit と let',
+    chapter: 2,
+    description: '「許す」の3語。語法が違う。allow/permit は「人 to do」、let は「人 do（原形）」。permit はやや硬い。',
+    content: `## あとの形（to do か 原形か）で見分ける
+
+いずれも「（人に〜するのを）許す」ですが、**続く形**が違います。
+
+- **allow** … 「**許す**」。**allow 人 to do**。一般的。
+- **permit** … 「**許可する**」。**permit 人 to do**。allow よりやや**硬い・公式**。
+- **let** … 「**〜させてやる**」。**let 人 do（動詞の原形）**。to は付けない。
+
+| 語 | 続く形 | 中心の意味 | 自作の例文 |
+| --- | --- | --- | --- |
+| allow | 人 to do | 許す | They **allow** us to enter.（入場を許している） |
+| permit | 人 to do | 許可する（硬め） | Visitors are **permitted to** take photos.（訪問者は撮影を許可されている） |
+| let | 人 do | 〜させてやる | Please **let** me go.（行かせてください） |
+
+🎯 覚え方：**allow / permit のあとは to do、let のあとは to なしの原形（let me go）**。硬い場面は permit、口語は let。`,
+    keyPoints: [
+      'allow 人 to do／permit 人 to do（permit は硬め）',
+      'let 人 do（動詞の原形・to なし）',
+      '続く形が to do か原形かで区別',
+    ],
+    quiz: [
+      {
+        id: 'q-allow-1',
+        question: '空所に入る適切な語はどれですか。「Please ( ) me help you.（手伝わせてください）」',
+        options: ['allow', 'permit', 'let', 'allowed'],
+        correctAnswer: 2,
+        explanation: 'あとが原形（help）なので let（let me help）です。',
+      },
+      {
+        id: 'q-allow-2',
+        question: '空所に入る適切な語はどれですか。「The rules do not ( ) students to use phones.（規則は生徒の携帯使用を許さない）」',
+        options: ['let', 'allow', 'letting', 'lets'],
+        correctAnswer: 1,
+        explanation: 'あとが to do（to use）なので allow（allow 人 to do）です。',
+      },
+      {
+        id: 'q-allow-3',
+        question: 'あとに「動詞の原形（to なし）」をとるのはどれですか。',
+        options: ['allow', 'permit', 'let', 'どれも to do'],
+        correctAnswer: 2,
+        explanation: 'let 人 do（原形）。allow/permit は 人 to do です。',
+      },
+      {
+        id: 'q-allow-4',
+        question: '空所に入る適切な語はどれですか。「Smoking is not ( ) in this building.（この建物では喫煙は許可されていない）」',
+        options: ['let', 'permitted', 'letting', 'lets'],
+        correctAnswer: 1,
+        explanation: '硬い「許可されている」の受け身は permitted（allowed も可）です。',
+      },
+      {
+        id: 'q-allow-5',
+        question: '「allow / permit 人 ( ) do」の空所に入るのはどれですか。',
+        options: ['（なし）', 'to', 'for', 'that'],
+        correctAnswer: 1,
+        explanation: 'allow/permit は「人 to do」。to が必要です。',
+      },
+    ],
+  },
+  {
+    id: 'earn-gain',
+    title: 'earn と gain',
+    chapter: 2,
+    description: 'earn は「（働き・努力で）稼ぐ・得る」、gain は「（量・程度を）増やして得る・獲得する」。',
+    content: `## 得方の違いで見分ける
+
+どちらも「得る」ですが、**努力の対価か、増加・獲得か**で使い分けます。
+
+- **earn** … 「**（労働・努力の対価として）稼ぐ・得る**」。earn money, earn respect。
+- **gain** … 「**（量・程度を）増やして得る・獲得する**」。gain weight, gain experience, gain speed。
+
+| 語 | ニュアンス | 中心の意味 | 自作の例文 |
+| --- | --- | --- | --- |
+| earn | 努力の対価 | 稼ぐ・得る | He **earns** a good salary.（彼は良い給料を稼ぐ） |
+| gain | 増やして得る | 獲得する・増す | She **gained** confidence over time.（次第に自信をつけた） |
+
+🎯 覚え方：**「働いて稼ぐ・値する」は earn、「（量・程度が）増える・獲得する」は gain**。お金・信頼を「稼ぐ・勝ち取る」は earn、体重・経験・速度が「増す」は gain。`,
+    keyPoints: [
+      'earn＝（労働・努力の対価で）稼ぐ・得る（earn money/respect）',
+      'gain＝（量・程度を）増やして得る（gain weight/experience/speed）',
+      '対価は earn、増加・獲得は gain',
+    ],
+    quiz: [
+      {
+        id: 'q-earn-1',
+        question: '空所に入る適切な語はどれですか。「You may ( ) weight if you eat too much.（食べ過ぎると体重が増えるかも）」',
+        options: ['earn', 'gain', 'earned', 'earns'],
+        correctAnswer: 1,
+        explanation: '量が「増える」は gain（gain weight）です。',
+      },
+      {
+        id: 'q-earn-2',
+        question: '空所に入る適切な語はどれですか。「She works hard to ( ) a living.（彼女は生計を立てるため懸命に働く）」',
+        options: ['gain', 'earn', 'gained', 'gains'],
+        correctAnswer: 1,
+        explanation: '労働の対価で「稼ぐ」は earn（earn a living）です。',
+      },
+      {
+        id: 'q-earn-3',
+        question: '「（量・程度を）増やして得る・獲得する」を表すのはどちらですか。',
+        options: ['earn', 'gain', 'どちらも', 'どちらも違う'],
+        correctAnswer: 1,
+        explanation: '増やして得るのは gain。努力の対価は earn です。',
+      },
+      {
+        id: 'q-earn-4',
+        question: '空所に入る適切な語はどれですか。「Over the years he ( ) their trust.（長年かけて彼は信頼を勝ち取った）」',
+        options: ['gained', 'earned', 'earn', 'gains'],
+        correctAnswer: 1,
+        explanation: '努力で「勝ち取る・値する」信頼は earn（earn trust）が中心です（gain も可）。',
+      },
+      {
+        id: 'q-earn-5',
+        question: '空所に入る適切な語はどれですか。「The plane began to ( ) altitude.（飛行機は高度を上げ始めた）」',
+        options: ['earn', 'gain', 'earned', 'earns'],
+        correctAnswer: 1,
+        explanation: '程度が「増す（高度を上げる）」は gain altitude です。',
+      },
+    ],
+  },
+  {
+    id: 'other-another',
+    title: 'other と another',
+    chapter: 2,
+    description: 'another＝an＋other で「もう一つの（単数・可算）」、other は「他の」（複数名詞や the とともに）。',
+    content: `## 単数か複数か・the が付くかで見分ける
+
+同じ「他の」ですが、形が違います。
+
+- **another** … **an + other**。「**もう一つの・別の（単数・可算）**」。うしろは単数名詞。
+- **other** … 「**他の**」。うしろは**複数名詞**（other books）か、**the other(s)**（特定の残り）。
+
+| 語 | 形 | 中心の意味 | 自作の例文 |
+| --- | --- | --- | --- |
+| another | 単数 | もう一つの | Would you like **another** cup?（もう一杯いかが？） |
+| other | 複数／the と | 他の | I have **other** ideas.（他の考えがある） |
+
+🎯 覚え方：**another は an が付くので単数（もう一つ）**、other は複数名詞や the other(s)（残り）で使う。単数の「もう一つ」なら another、複数の「他の」なら other。`,
+    keyPoints: [
+      'another＝an+other「もう一つの（単数・可算）」',
+      'other＝他の（複数名詞／the other(s) で特定の残り）',
+      '単数は another、複数は other',
+    ],
+    quiz: [
+      {
+        id: 'q-other-1',
+        question: '空所に入る適切な語はどれですか。「Some people like tea; ( ) prefer coffee.（お茶好きもいれば、コーヒー好きもいる）」',
+        options: ['another', 'others', 'other', 'the another'],
+        correctAnswer: 1,
+        explanation: '「他の人々（複数の代名詞）」は others です。',
+      },
+      {
+        id: 'q-other-2',
+        question: '空所に入る適切な語はどれですか。「Can I have ( ) piece of cake?（ケーキをもう一切れもらえる？）」',
+        options: ['other', 'another', 'others', 'the other'],
+        correctAnswer: 1,
+        explanation: '単数「もう一つの」は another（an+other）です。',
+      },
+      {
+        id: 'q-other-3',
+        question: 'うしろに複数名詞をとって「他の〜」となるのはどちらですか。',
+        options: ['another', 'other', 'どちらも', 'どちらも違う'],
+        correctAnswer: 1,
+        explanation: 'other + 複数名詞。another は単数名詞です。',
+      },
+      {
+        id: 'q-other-4',
+        question: '空所に入る適切な語はどれですか。「I have two pens. One is red; ( ) is blue.（ペンが2本。1本は赤で、もう1本は青）」',
+        options: ['another', 'the other', 'other', 'others'],
+        correctAnswer: 1,
+        explanation: '2つのうち特定の「もう一方」は the other です。',
+      },
+      {
+        id: 'q-other-5',
+        question: '空所に入る適切な語はどれですか。「Let\'s meet on ( ) day.（また別の日に会おう）」',
+        options: ['other', 'another', 'others', 'the others'],
+        correctAnswer: 1,
+        explanation: '単数「別の（日）」は another day です。',
+      },
+    ],
+  },
+  {
+    id: 'ate-eight',
+    title: 'ate と eight',
+    chapter: 4,
+    description: '同音 /eɪt/。ate「eat の過去（食べた）」、eight「8」（数）。意味とスペルで判断する同音異義語。',
+    content: `## 音は同じ、意味とスペルで見分ける
+
+**ate と eight は同じ発音 /eɪt/（同音異義語）**。意味とスペルで決めます。
+
+- **ate** … /eɪt/ 動詞 eat の過去「**食べた**」。eat-ate-eaten。
+- **eight** … /eɪt/ 数「**8**」。
+
+| 語 | 発音 | 品詞・中心の意味 | 自作の例文 |
+| --- | --- | --- | --- |
+| ate | /eɪt/ | eat の過去：食べた | We **ate** dinner at seven.（7時に夕食を食べた） |
+| **eigh**t | /eɪt/ | 数：8 | There are **eight** players.（選手が8人いる） |
+
+🎯 覚え方：**数の「8」は eight（-eight の綴り）**、eat の過去「食べた」は ate。数なら eight、食べたなら ate。`,
+    keyPoints: [
+      'ate と eight は同音 /eɪt/',
+      'ate＝eat の過去「食べた」（eat-ate-eaten）',
+      'eight＝数「8」',
+    ],
+    quiz: [
+      {
+        id: 'q-ate-1',
+        question: '空所に入る適切な語はどれですか。「The train leaves at ( ) o\'clock.（電車は8時に出る）」',
+        options: ['ate', 'eight', 'ates', 'eighth'],
+        correctAnswer: 1,
+        explanation: '数の「8」は eight です。',
+      },
+      {
+        id: 'q-ate-2',
+        question: 'eat の過去形「食べた」を表す語はどれですか。',
+        options: ['eight', 'ate', 'eaten', 'eights'],
+        correctAnswer: 1,
+        explanation: 'eat の過去は ate です。',
+      },
+      {
+        id: 'q-ate-3',
+        question: 'ate と eight の発音の関係はどれですか。',
+        options: ['母音が違う', '同じ発音（同音異義語）', '子音が違う', 'アクセントが違う'],
+        correctAnswer: 1,
+        explanation: 'どちらも /eɪt/ で同音異義語です。',
+      },
+      {
+        id: 'q-ate-4',
+        question: '空所に入る適切な語はどれですか。「She ( ) an apple for breakfast.（彼女は朝食にリンゴを食べた）」',
+        options: ['eight', 'ate', 'eaten', 'eights'],
+        correctAnswer: 1,
+        explanation: '「食べた」は eat の過去 ate です。',
+      },
+      {
+        id: 'q-ate-5',
+        question: '数字の「8」を意味するのはどちらですか。',
+        options: ['ate', 'eight', 'どちらも', 'どちらも違う'],
+        correctAnswer: 1,
+        explanation: '「8」は eight。ate は「食べた」です。',
+      },
+    ],
+  },
+  {
+    id: 'higher-hire',
+    title: 'higher と hire',
+    chapter: 4,
+    description: '同音 /ˈhaɪər/。higher「より高い」（high の比較級）、hire「雇う・借りる」（動詞）。意味とスペルで判断。',
+    content: `## 音は同じ、意味とスペルで見分ける
+
+**higher と hire はほぼ同じ発音 /ˈhaɪər/**。意味と品詞で決めます（higher の gh は無音）。
+
+- **higher** … /ˈhaɪər/ 形容詞「**より高い**」（high の比較級）。
+- **hire** … /ˈhaɪər/ 動詞「**雇う／（英）（有料で）借りる**」、名詞「賃借」。
+
+| 語 | 発音 | 品詞・中心の意味 | 自作の例文 |
+| --- | --- | --- | --- |
+| hi**gh**er | /ˈhaɪər/ | 比較級：より高い | Prices are **higher** this year.（今年は物価が高い） |
+| hire | /ˈhaɪər/ | 動詞：雇う・借りる | The company will **hire** ten people.（会社は10人を雇う） |
+
+🎯 覚え方：**higher は high の比較級「より高い」（gh は無音）**、hire は「雇う・借りる」。高さ・程度が上なら higher、人を雇う・物を借りるなら hire。`,
+    keyPoints: [
+      'higher と hire はほぼ同音 /ˈhaɪər/',
+      'higher＝より高い（high の比較級）',
+      'hire＝雇う／（英）有料で借りる',
+    ],
+    quiz: [
+      {
+        id: 'q-higher-1',
+        question: '空所に入る適切な語はどれですか。「They plan to ( ) more staff next month.（来月もっと人を雇う予定だ）」',
+        options: ['higher', 'hire', 'highers', 'hired\''],
+        correctAnswer: 1,
+        explanation: '「雇う」は動詞 hire です。',
+      },
+      {
+        id: 'q-higher-2',
+        question: '「より高い」（high の比較級）を表す語はどれですか。',
+        options: ['hire', 'higher', 'hires', 'highest'],
+        correctAnswer: 1,
+        explanation: '比較級「より高い」は higher です。',
+      },
+      {
+        id: 'q-higher-3',
+        question: 'higher と hire の発音の関係はどれですか。',
+        options: ['母音が違う', 'ほぼ同じ発音', '子音が大きく違う', 'アクセントが違う'],
+        correctAnswer: 1,
+        explanation: 'どちらも /ˈhaɪər/ でほぼ同音です（gh は無音）。',
+      },
+      {
+        id: 'q-higher-4',
+        question: '空所に入る適切な語はどれですか。「Climb ( ) to get a better view.（もっと高く登れば眺めがよい）」',
+        options: ['hire', 'higher', 'hires', 'hired'],
+        correctAnswer: 1,
+        explanation: '「より高く」は higher です。',
+      },
+      {
+        id: 'q-higher-5',
+        question: '「（人を）雇う・（物を）借りる」を意味するのはどちらですか。',
+        options: ['higher', 'hire', 'どちらも', 'どちらも違う'],
+        correctAnswer: 1,
+        explanation: '雇う・借りるは hire。higher は「より高い」です。',
+      },
+    ],
+  },
+  {
+    id: 'guessed-guest',
+    title: 'guessed と guest',
+    chapter: 4,
+    description: '同音 /ɡɛst/。guessed「guess の過去（推測した）」、guest「客・ゲスト」（名詞）。意味と品詞で判断。',
+    content: `## 音は同じ、意味と品詞で見分ける
+
+**guessed と guest は同じ発音 /ɡɛst/（同音異義語）**。意味と品詞で決めます。
+
+- **guessed** … /ɡɛst/ 動詞 guess の過去・過去分詞「**推測した・言い当てた**」。
+- **guest** … /ɡɛst/ 名詞「**客・ゲスト・招待客**」。反対は host。
+
+| 語 | 発音 | 品詞・中心の意味 | 自作の例文 |
+| --- | --- | --- | --- |
+| guess**ed** | /ɡɛst/ | guess の過去：推測した | I **guessed** the answer correctly.（答えを正しく言い当てた） |
+| guest | /ɡɛst/ | 名詞：客 | We have a **guest** for dinner.（夕食に客が来る） |
+
+🎯 覚え方：**動詞（推測した）は guessed、名詞（客）は guest**。推測なら guessed、招待客・宿泊客なら guest。`,
+    keyPoints: [
+      'guessed と guest は同音 /ɡɛst/',
+      'guessed＝guess の過去「推測した」（動詞）',
+      'guest＝名詞「客・ゲスト」（反対は host）',
+    ],
+    quiz: [
+      {
+        id: 'q-guessed-1',
+        question: '空所に入る適切な語はどれですか。「The hotel welcomes every ( ) warmly.（ホテルはどの客も温かく迎える）」',
+        options: ['guessed', 'guest', 'guests\'', 'guessing'],
+        correctAnswer: 1,
+        explanation: '「客・ゲスト」は名詞 guest です。',
+      },
+      {
+        id: 'q-guessed-2',
+        question: 'guess の過去形「推測した」を表す語はどれですか。',
+        options: ['guest', 'guessed', 'guests', 'guessing'],
+        correctAnswer: 1,
+        explanation: 'guess の過去は guessed です。',
+      },
+      {
+        id: 'q-guessed-3',
+        question: 'guessed と guest の発音の関係はどれですか。',
+        options: ['母音が違う', '同じ発音（同音異義語）', '子音が違う', 'アクセントが違う'],
+        correctAnswer: 1,
+        explanation: 'どちらも /ɡɛst/ で同音異義語です。',
+      },
+      {
+        id: 'q-guessed-4',
+        question: '空所に入る適切な語はどれですか。「She ( ) my age almost exactly.（彼女は私の年齢をほぼ正確に言い当てた）」',
+        options: ['guest', 'guessed', 'guests', 'guesting'],
+        correctAnswer: 1,
+        explanation: '「言い当てた・推測した」は guess の過去 guessed です。',
+      },
+      {
+        id: 'q-guessed-5',
+        question: '「招待客・宿泊客」を意味するのはどちらですか。',
+        options: ['guessed', 'guest', 'どちらも', 'どちらも違う'],
+        correctAnswer: 1,
+        explanation: '客は guest。guessed は「推測した」です。',
+      },
+    ],
+  },
+  {
+    id: 'made-maid',
+    title: 'made と maid',
+    chapter: 4,
+    description: '同音 /meɪd/。made「make の過去（作った）」、maid「メイド・お手伝い」（名詞）。意味と品詞で判断。',
+    content: `## 音は同じ、意味と品詞で見分ける
+
+**made と maid は同じ発音 /meɪd/（同音異義語）**。意味と品詞で決めます。
+
+- **made** … /meɪd/ 動詞 make の過去・過去分詞「**作った・させた**」。be made of ~（〜でできている）。
+- **maid** … /meɪd/ 名詞「**メイド・お手伝い・女中**」。
+
+| 語 | 発音 | 品詞・中心の意味 | 自作の例文 |
+| --- | --- | --- | --- |
+| ma**de** | /meɪd/ | make の過去：作った | This cake was **made** at home.（このケーキは家で作られた） |
+| ma**id** | /meɪd/ | 名詞：メイド | The **maid** cleaned the rooms.（メイドが部屋を掃除した） |
+
+🎯 覚え方：**動詞（作った）は made、名詞（お手伝い）は maid**。作られたなら made、掃除・給仕をする人なら maid。`,
+    keyPoints: [
+      'made と maid は同音 /meɪd/',
+      'made＝make の過去「作った」（be made of ~）',
+      'maid＝名詞「メイド・お手伝い」',
+    ],
+    quiz: [
+      {
+        id: 'q-made-1',
+        question: '空所に入る適切な語はどれですか。「The hotel ( ) makes up the beds daily.（ホテルのメイドが毎日ベッドを整える）」',
+        options: ['made', 'maid', 'maids\'', 'making'],
+        correctAnswer: 1,
+        explanation: '「メイド・お手伝い」は名詞 maid です。',
+      },
+      {
+        id: 'q-made-2',
+        question: 'make の過去形「作った」を表す語はどれですか。',
+        options: ['maid', 'made', 'maids', 'making'],
+        correctAnswer: 1,
+        explanation: 'make の過去は made です。',
+      },
+      {
+        id: 'q-made-3',
+        question: 'made と maid の発音の関係はどれですか。',
+        options: ['母音が違う', '同じ発音（同音異義語）', '子音が違う', 'アクセントが違う'],
+        correctAnswer: 1,
+        explanation: 'どちらも /meɪd/ で同音異義語です。',
+      },
+      {
+        id: 'q-made-4',
+        question: '空所に入る適切な語はどれですか。「This ring is ( ) of gold.（この指輪は金でできている）」',
+        options: ['maid', 'made', 'maids', 'making'],
+        correctAnswer: 1,
+        explanation: 'be made of ~「〜でできている」の made です。',
+      },
+      {
+        id: 'q-made-5',
+        question: '「お手伝い・女中」を意味するのはどちらですか。',
+        options: ['made', 'maid', 'どちらも', 'どちらも違う'],
+        correctAnswer: 1,
+        explanation: 'お手伝いは maid。made は「作った」です。',
+      },
+    ],
+  },
+  {
+    id: 'some-sum',
+    title: 'some と sum',
+    chapter: 4,
+    description: '同音 /sʌm/。some「いくつかの・いくらかの」（限定詞）、sum「合計・金額」（名詞）。意味と品詞で判断。',
+    content: `## 音は同じ、意味と品詞で見分ける
+
+**some と sum は同じ発音 /sʌm/（同音異義語）**。意味と品詞で決めます。
+
+- **some** … /sʌm/ 「**いくつかの・いくらかの・ある〜**」（限定詞・代名詞）。
+- **sum** … /sʌm/ 名詞「**合計・総額・金額／計算**」。the sum of ~。
+
+| 語 | 発音 | 品詞・中心の意味 | 自作の例文 |
+| --- | --- | --- | --- |
+| some | /sʌm/ | いくつかの | I bought **some** apples.（リンゴをいくつか買った） |
+| sum | /sʌm/ | 名詞：合計 | The **sum** of 3 and 4 is 7.（3と4の合計は7だ） |
+
+🎯 覚え方：**数量の「いくつかの」は some、計算の「合計・金額」は sum**。名詞で「合計」なら sum、「いくらかの〜」なら some。`,
+    keyPoints: [
+      'some と sum は同音 /sʌm/',
+      'some＝いくつかの・いくらかの（限定詞・代名詞）',
+      'sum＝名詞「合計・総額・金額」（the sum of ~）',
+    ],
+    quiz: [
+      {
+        id: 'q-some-1',
+        question: '空所に入る適切な語はどれですか。「They paid a large ( ) of money.（彼らは多額の金を払った）」',
+        options: ['some', 'sum', 'sums\'', 'somes'],
+        correctAnswer: 1,
+        explanation: '「金額・合計」は名詞 sum です。',
+      },
+      {
+        id: 'q-some-2',
+        question: '「いくつかの・いくらかの」を表す語はどれですか。',
+        options: ['sum', 'some', 'sums', 'summed'],
+        correctAnswer: 1,
+        explanation: '「いくつかの」は some /sʌm/ です。',
+      },
+      {
+        id: 'q-some-3',
+        question: 'some と sum の発音の関係はどれですか。',
+        options: ['母音が違う', '同じ発音（同音異義語）', '子音が違う', 'アクセントが違う'],
+        correctAnswer: 1,
+        explanation: 'どちらも /sʌm/ で同音異義語です。',
+      },
+      {
+        id: 'q-some-4',
+        question: '空所に入る適切な語はどれですか。「Would you like ( ) water?（お水はいかが？）」',
+        options: ['sum', 'some', 'sums', 'summed'],
+        correctAnswer: 1,
+        explanation: '「いくらかの（水）」は some です。',
+      },
+      {
+        id: 'q-some-5',
+        question: '計算の「合計・総額」を意味するのはどちらですか。',
+        options: ['some', 'sum', 'どちらも', 'どちらも違う'],
+        correctAnswer: 1,
+        explanation: '合計は sum。some は「いくつかの」です。',
+      },
+    ],
+  },
+  {
+    id: 'great-grate',
+    title: 'great と grate',
+    chapter: 4,
+    description: '同音 /ɡreɪt/。great「偉大な・すばらしい」（形容詞）、grate「すりおろす／（金属の）格子」（動詞・名詞）。',
+    content: `## 音は同じ、意味とスペルで見分ける
+
+**great と grate は同じ発音 /ɡreɪt/（同音異義語）**。意味とスペルで決めます。
+
+- **great** … /ɡreɪt/ 形容詞「**偉大な・すばらしい・大きな**」。
+- **grate** … /ɡreɪt/ 動詞「**すりおろす・きしむ**」、名詞「**（暖炉などの）火格子・格子**」。
+
+| 語 | 発音 | 品詞・中心の意味 | 自作の例文 |
+| --- | --- | --- | --- |
+| gr**ea**t | /ɡreɪt/ | 形容詞：偉大な | She is a **great** scientist.（彼女は偉大な科学者だ） |
+| gr**a**te | /ɡreɪt/ | すりおろす／格子 | **Grate** some cheese on top.（上にチーズをすりおろして） |
+
+🎯 覚え方：**「偉大な・すばらしい」は great（eat が入る）**、料理で「すりおろす」や「格子」は grate。ほめ言葉なら great、調理・格子なら grate。`,
+    keyPoints: [
+      'great と grate は同音 /ɡreɪt/',
+      'great＝形容詞「偉大な・すばらしい」',
+      'grate＝すりおろす・きしむ／（火）格子',
+    ],
+    quiz: [
+      {
+        id: 'q-great-1',
+        question: '空所に入る適切な語はどれですか。「Please ( ) the carrot for the salad.（サラダ用ににんじんをすりおろして）」',
+        options: ['great', 'grate', 'greats', 'grated\''],
+        correctAnswer: 1,
+        explanation: '「すりおろす」は動詞 grate です。',
+      },
+      {
+        id: 'q-great-2',
+        question: '「偉大な・すばらしい」という意味の形容詞はどれですか。',
+        options: ['grate', 'great', 'grates', 'grating'],
+        correctAnswer: 1,
+        explanation: '形容詞「偉大な」は great /ɡreɪt/ です。',
+      },
+      {
+        id: 'q-great-3',
+        question: 'great と grate の発音の関係はどれですか。',
+        options: ['母音が違う', '同じ発音（同音異義語）', '子音が違う', 'アクセントが違う'],
+        correctAnswer: 1,
+        explanation: 'どちらも /ɡreɪt/ で同音異義語です。',
+      },
+      {
+        id: 'q-great-4',
+        question: '空所に入る適切な語はどれですか。「That was a ( ) performance!（すばらしい演奏だった！）」',
+        options: ['grate', 'great', 'grates', 'grated'],
+        correctAnswer: 1,
+        explanation: '「すばらしい」は great です。',
+      },
+      {
+        id: 'q-great-5',
+        question: '「すりおろす／（火）格子」を意味するのはどちらですか。',
+        options: ['great', 'grate', 'どちらも', 'どちらも違う'],
+        correctAnswer: 1,
+        explanation: 'すりおろす・格子は grate。great は「偉大な」です。',
+      },
+    ],
+  },
+  {
+    id: 'morning-mourning',
+    title: 'morning と mourning',
+    chapter: 4,
+    description: '同音 /ˈmɔːrnɪŋ/。morning「朝・午前」（名詞）、mourning「喪・哀悼（すること）」（名詞・mourn の -ing）。',
+    content: `## 音は同じ、意味とスペルで見分ける
+
+**morning と mourning は同じ発音 /ˈmɔːrnɪŋ/（同音異義語）**。意味とスペルで決めます。
+
+- **morning** … /ˈmɔːrnɪŋ/ 名詞「**朝・午前**」。反対は evening。
+- **mourning** … /ˈmɔːrnɪŋ/ 名詞「**喪・哀悼・悲しむこと**」。動詞 mourn（悼む）から。in mourning（喪に服して）。
+
+| 語 | 発音 | 中心の意味 | 自作の例文 |
+| --- | --- | --- | --- |
+| m**or**ning | /ˈmɔːrnɪŋ/ | 朝・午前 | I jog every **morning**.（毎朝ジョギングする） |
+| m**our**ning | /ˈmɔːrnɪŋ/ | 喪・哀悼 | The nation was in **mourning**.（国じゅうが喪に服した） |
+
+🎯 覚え方：**時間の「朝」は morning、悲しみの「喪・哀悼」は mourning（mourn＝悼む＋-ing）**。u が入るのは悲しむ mourning。朝なら morning。`,
+    keyPoints: [
+      'morning と mourning は同音 /ˈmɔːrnɪŋ/',
+      'morning＝朝・午前（反対は evening）',
+      'mourning＝喪・哀悼（mourn の -ing・u が入る）',
+    ],
+    quiz: [
+      {
+        id: 'q-morning-1',
+        question: '空所に入る適切な語はどれですか。「The family is still in ( ) for their loss.（家族はまだ喪に服している）」',
+        options: ['morning', 'mourning', 'mornings', 'mourn'],
+        correctAnswer: 1,
+        explanation: '「喪・哀悼」は mourning です。',
+      },
+      {
+        id: 'q-morning-2',
+        question: '「朝・午前」という意味の語はどれですか。',
+        options: ['mourning', 'morning', 'mournings', 'mourn'],
+        correctAnswer: 1,
+        explanation: '「朝」は morning /ˈmɔːrnɪŋ/ です。',
+      },
+      {
+        id: 'q-morning-3',
+        question: 'morning と mourning の発音の関係はどれですか。',
+        options: ['母音が違う', '同じ発音（同音異義語）', '子音が違う', 'アクセントが違う'],
+        correctAnswer: 1,
+        explanation: 'どちらも /ˈmɔːrnɪŋ/ で同音異義語です。',
+      },
+      {
+        id: 'q-morning-4',
+        question: '空所に入る適切な語はどれですか。「See you tomorrow ( )!（また明日の朝ね！）」',
+        options: ['mourning', 'morning', 'mournings', 'mourn'],
+        correctAnswer: 1,
+        explanation: '時間の「朝」は morning です。',
+      },
+      {
+        id: 'q-morning-5',
+        question: 'u が入り「喪・哀悼」を意味するのはどちらですか。',
+        options: ['morning', 'mourning', 'どちらも', 'どちらも違う'],
+        correctAnswer: 1,
+        explanation: 'mourning（u あり）＝喪。morning＝朝です。',
+      },
+    ],
+  },
 ];
