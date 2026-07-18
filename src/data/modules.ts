@@ -7894,4 +7894,616 @@ belief/believe と同じく、**-f（relief）が名詞、-ve（relieve）が動
       },
     ],
   },
+  {
+    id: 'decent-descent',
+    title: 'decent と descent',
+    chapter: 1,
+    description: 'つづりが紛らわしい。decent /ˈdiːsənt/「きちんとした・まともな」（形容詞）、descent /dɪˈsɛnt/「下降・降下・家系」（名詞）。',
+    content: `## 品詞と発音で見分ける
+
+つづりが似ていますが、**アクセントと母音**、意味と品詞が違います。
+
+- **decent** … /ˈdiːsənt/ 形容詞「**きちんとした・まともな・見苦しくない**」。アクセントは前（ディー）。
+- **descent** … /dɪˈsɛnt/ 名詞「**下降・降下／家系・血統**」。アクセントは後ろ（セント）。反対は ascent（上昇）。
+
+| 語 | 発音 | 品詞・中心の意味 | 自作の例文 |
+| --- | --- | --- | --- |
+| **de**cent | /ˈdiːsənt/ | 形容詞：まともな | He earns a **decent** salary.（彼はまともな給料を得ている） |
+| de**scent** | /dɪˈsɛnt/ | 名詞：下降・家系 | The plane began its **descent**.（飛行機は降下を始めた） |
+
+🎯 覚え方：**decent は「まとも（形容詞）」でアクセント前**、descent は「下る・家系（名詞）」でアクセント後ろ（ascent＝上昇と対）。下降・血統なら descent。`,
+    keyPoints: [
+      'decent /ˈdiːsənt/＝形容詞「きちんとした・まともな」',
+      'descent /dɪˈsɛnt/＝名詞「下降・降下・家系」（反対 ascent）',
+      'アクセント：decent は前、descent は後ろ',
+    ],
+    quiz: [
+      {
+        id: 'q-decent-1',
+        question: '空所に入る適切な語はどれですか。「The steep ( ) took twenty minutes.（急な下りは20分かかった）」',
+        options: ['decent', 'descent', 'decently', 'decency'],
+        correctAnswer: 1,
+        explanation: '名詞「下降・下り」は descent です。',
+      },
+      {
+        id: 'q-decent-2',
+        question: '「きちんとした・まともな」という意味の形容詞はどれですか。',
+        options: ['descent', 'decent', 'descend', 'descents'],
+        correctAnswer: 1,
+        explanation: '形容詞「まともな」は decent /ˈdiːsənt/ です。',
+      },
+      {
+        id: 'q-decent-3',
+        question: '空所に入る適切な語はどれですか。「She is of Irish ( ).（彼女はアイルランド系の血筋だ）」',
+        options: ['decent', 'descent', 'decency', 'decently'],
+        correctAnswer: 1,
+        explanation: '「家系・血統」は descent です。',
+      },
+      {
+        id: 'q-decent-4',
+        question: 'アクセントが前にあり「まともな」を意味するのはどちらですか。',
+        options: ['descent', 'decent', 'どちらも', 'どちらも違う'],
+        correctAnswer: 1,
+        explanation: 'decent（前アクセント・形容詞）。descent（後ろアクセント・名詞）です。',
+      },
+      {
+        id: 'q-decent-5',
+        question: '空所に入る適切な語はどれですか。「We need a ( ) place to stay tonight.（今夜はまともな宿がいる）」',
+        options: ['descent', 'decent', 'descend', 'descents'],
+        correctAnswer: 1,
+        explanation: '「まともな（宿）」は decent です。',
+      },
+    ],
+  },
+  {
+    id: 'salary-wage',
+    title: 'salary と wage',
+    chapter: 2,
+    description: '支払い方が違う。salary は主に「月給・年俸（固定給）」、wage は主に「時給・週給（働いた時間・量で払う賃金）」。',
+    content: `## 支払いの単位で見分ける
+
+どちらも「賃金」ですが、**払われ方**が違います。
+
+- **salary** … 主に「**固定給（月給・年俸）**」。専門職・事務職などで、月や年ごとにまとまって支払われる。
+- **wage** … 主に「**時間給・出来高（時給・週給）**」。働いた時間や量に応じて支払われる。しばしば複数 wages。
+
+| 語 | 単位 | 中心の意味 | 自作の例文 |
+| --- | --- | --- | --- |
+| salary | 月・年 | 固定給 | Her annual **salary** is high.（彼女の年俸は高い） |
+| wage | 時間・週 | 時間給 | Workers demanded higher **wages**.（労働者は賃上げを求めた） |
+
+🎯 覚え方：**まとまった「月給・年俸」は salary、時間で払う「時給・週給」は wage(s)**。会社員の固定給は salary、アルバイトの時給は wage。`,
+    keyPoints: [
+      'salary＝固定給（月給・年俸）',
+      'wage＝時間給・週給（働いた時間・量で払う。複数 wages）',
+      '固定給は salary、時給は wage',
+    ],
+    quiz: [
+      {
+        id: 'q-salary-1',
+        question: '空所に入る適切な語はどれですか。「The part-time job pays an hourly ( ).（そのバイトは時給制だ）」',
+        options: ['salary', 'wage', 'salaries', 'waged'],
+        correctAnswer: 1,
+        explanation: '時間給は wage（hourly wage）です。',
+      },
+      {
+        id: 'q-salary-2',
+        question: '「月給・年俸（固定給）」を表す語はどれですか。',
+        options: ['wage', 'salary', 'wages', 'waged'],
+        correctAnswer: 1,
+        explanation: '固定給は salary です。',
+      },
+      {
+        id: 'q-salary-3',
+        question: '空所に入る適切な語はどれですか。「He was offered a good ( ) at the firm.（彼はその会社で良い給料を提示された）」',
+        options: ['wage', 'salary', 'wages', 'waged'],
+        correctAnswer: 1,
+        explanation: '会社員の固定給は salary が自然です。',
+      },
+      {
+        id: 'q-salary-4',
+        question: '働いた時間・量に応じて払う賃金はどちらですか。',
+        options: ['salary', 'wage', 'どちらも', 'どちらも違う'],
+        correctAnswer: 1,
+        explanation: '時間・量で払うのは wage。固定給は salary です。',
+      },
+      {
+        id: 'q-salary-5',
+        question: '空所に入る適切な語はどれですか。「The minimum ( ) was raised this year.（今年、最低賃金が上がった）」',
+        options: ['salary', 'wage', 'salaries', 'salaried'],
+        correctAnswer: 1,
+        explanation: '「最低賃金」は minimum wage です。',
+      },
+    ],
+  },
+  {
+    id: 'custom-habit',
+    title: 'custom と habit',
+    chapter: 2,
+    description: '主体が社会か個人か。custom は「（社会・集団の）慣習・風習」、habit は「（個人の）癖・習慣」。',
+    content: `## 社会の慣習か、個人の癖かで見分ける
+
+どちらも「習慣」ですが、**社会・集団のものか、個人のものか**で使い分けます。
+
+- **custom** … 「**（社会・地域・集団の）慣習・風習・しきたり**」。文化的なならわし。
+- **habit** … 「**（個人の）癖・習慣**」。無意識に繰り返す個人の行動。
+
+| 語 | 主体 | 中心の意味 | 自作の例文 |
+| --- | --- | --- | --- |
+| custom | 社会・集団 | 慣習・風習 | It is a **custom** to bow in Japan.（日本ではお辞儀をする習慣がある） |
+| habit | 個人 | 癖・習慣 | Biting nails is a bad **habit**.（爪をかむのは悪い癖だ） |
+
+🎯 覚え方：**文化・地域の「ならわし」は custom、個人の「癖」は habit**。「〜する習慣がある（社会）」は custom、「〜する癖がある（個人）」は habit。`,
+    keyPoints: [
+      'custom＝社会・集団の慣習・風習・しきたり',
+      'habit＝個人の癖・習慣（無意識に繰り返す）',
+      '文化なら custom、個人の癖なら habit',
+    ],
+    quiz: [
+      {
+        id: 'q-custom-1',
+        question: '空所に入る適切な語はどれですか。「He has a ( ) of tapping his pen.（彼はペンを叩く癖がある）」',
+        options: ['custom', 'habit', 'customs', 'habitual'],
+        correctAnswer: 1,
+        explanation: '個人の「癖」は habit です。',
+      },
+      {
+        id: 'q-custom-2',
+        question: '「（社会・地域の）慣習・風習」を表す語はどれですか。',
+        options: ['habit', 'custom', 'habits', 'habitat'],
+        correctAnswer: 1,
+        explanation: '社会の「慣習・風習」は custom です。',
+      },
+      {
+        id: 'q-custom-3',
+        question: '空所に入る適切な語はどれですか。「Removing shoes indoors is a local ( ).（屋内で靴を脱ぐのは土地の習慣だ）」',
+        options: ['habit', 'custom', 'habits', 'habitat'],
+        correctAnswer: 1,
+        explanation: '地域の「習慣・しきたり」は custom です。',
+      },
+      {
+        id: 'q-custom-4',
+        question: '個人が無意識に繰り返す「癖」を表すのはどちらですか。',
+        options: ['custom', 'habit', 'どちらも', 'どちらも違う'],
+        correctAnswer: 1,
+        explanation: '個人の癖は habit。社会の慣習は custom です。',
+      },
+      {
+        id: 'q-custom-5',
+        question: '空所に入る適切な語はどれですか。「I\'m trying to break the ( ) of eating late.（夜遅く食べる習慣を直そうとしている）」',
+        options: ['custom', 'habit', 'customs', 'customary'],
+        correctAnswer: 1,
+        explanation: '個人の「習慣・癖（を直す）」は break the habit です。',
+      },
+    ],
+  },
+  {
+    id: 'shade-shadow',
+    title: 'shade と shadow',
+    chapter: 2,
+    description: 'shade は「（光の当たらない）日陰・色合い」、shadow は「（物体がつくる輪郭のある）影」。',
+    content: `## 日陰か、輪郭のある影かで見分ける
+
+どちらも光と関係しますが、指すものが違います。
+
+- **shade** … 「**日陰・（光をさえぎった）暗がり／色合い**」。輪郭のない、光の当たらない領域。日よけ（shade）も。
+- **shadow** … 「**影**」。物や人が光をさえぎってできる、**輪郭のある**黒い形。
+
+| 語 | 中心の意味 | 自作の例文 |
+| --- | --- | --- |
+| shade | 日陰・色合い | Let's sit in the **shade** of that tree.（あの木の日陰に座ろう） |
+| shadow | 輪郭のある影 | The tree cast a long **shadow**.（木は長い影を落とした） |
+
+🎯 覚え方：**「日陰（涼しい領域）」は shade、「（形のある）影」は shadow**。木陰でひと休みは shade、地面に伸びる木の「影」は shadow。色の「濃淡」も shade。`,
+    keyPoints: [
+      'shade＝日陰・光の当たらない領域／色合い',
+      'shadow＝輪郭のある影（物・人がつくる形）',
+      '涼む「日陰」は shade、伸びる「影」は shadow',
+    ],
+    quiz: [
+      {
+        id: 'q-shade-1',
+        question: '空所に入る適切な語はどれですか。「Her hat cast a ( ) on her face.（帽子が顔に影を落とした）」',
+        options: ['shade', 'shadow', 'shades', 'shaded'],
+        correctAnswer: 1,
+        explanation: '輪郭のある「影」は shadow です。',
+      },
+      {
+        id: 'q-shade-2',
+        question: '「日陰・（涼しい）暗がり」を表す語はどれですか。',
+        options: ['shadow', 'shade', 'shadows', 'shadowed'],
+        correctAnswer: 1,
+        explanation: '「日陰」は shade です。',
+      },
+      {
+        id: 'q-shade-3',
+        question: '空所に入る適切な語はどれですか。「The cat is resting in the ( ).（猫は日陰で休んでいる）」',
+        options: ['shadow', 'shade', 'shadows', 'shadowy'],
+        correctAnswer: 1,
+        explanation: '涼しい「日陰」は shade です。',
+      },
+      {
+        id: 'q-shade-4',
+        question: '物や人がつくる「輪郭のある影」を表すのはどちらですか。',
+        options: ['shade', 'shadow', 'どちらも', 'どちらも違う'],
+        correctAnswer: 1,
+        explanation: '形のある影は shadow。日陰・色合いは shade です。',
+      },
+      {
+        id: 'q-shade-5',
+        question: '空所に入る適切な語はどれですか。「This paint comes in three ( ) of blue.（この塗料は青が3色調ある）」',
+        options: ['shadows', 'shades', 'shadow', 'shadowed'],
+        correctAnswer: 1,
+        explanation: '色の「濃淡・色調」は shade（shades of blue）です。',
+      },
+    ],
+  },
+  {
+    id: 'luxury-luxurious',
+    title: 'luxury と luxurious',
+    chapter: 3,
+    description: '品詞が違う。luxury /ˈlʌkʃəri/「ぜいたく・高級品」（名詞）、luxurious /lʌɡˈʒʊəriəs/「豪華な・ぜいたくな」（形容詞）。',
+    content: `## 名詞か形容詞かで見分ける
+
+同語源ですが品詞が違います。
+
+- **luxury** … /ˈlʌkʃəri/ **名詞**「**ぜいたく・高級（品）**」。形容詞的に luxury car（高級車）とも。
+- **luxurious** … /lʌɡˈʒʊəriəs/ **形容詞**「**豪華な・ぜいたくな**」。
+
+| 語 | 発音 | 品詞・中心の意味 | 自作の例文 |
+| --- | --- | --- | --- |
+| luxury | /ˈlʌkʃəri/ | 名詞：ぜいたく | Travel is a **luxury** for them.（旅行は彼らには贅沢だ） |
+| luxuri**ous** | /lʌɡˈʒʊəriəs/ | 形容詞：豪華な | They stayed in a **luxurious** hotel.（豪華なホテルに泊まった） |
+
+🎯 覚え方：**-ous の luxurious は「豪華な（形容詞）」**、luxury は「ぜいたく（名詞）」。名詞を修飾して「豪華な〜」なら luxurious。`,
+    keyPoints: [
+      'luxury /ˈlʌkʃəri/＝名詞「ぜいたく・高級品」',
+      'luxurious /lʌɡˈʒʊəriəs/＝形容詞「豪華な・ぜいたくな」',
+      '「豪華な〜」と名詞を修飾するなら luxurious',
+    ],
+    quiz: [
+      {
+        id: 'q-luxury-1',
+        question: '空所に入る適切な語はどれですか。「They enjoyed a ( ) meal at the resort.（リゾートで豪華な食事を楽しんだ）」',
+        options: ['luxury', 'luxurious', 'luxuries', 'luxuriously'],
+        correctAnswer: 1,
+        explanation: '名詞 meal を修飾する形容詞「豪華な」は luxurious です。',
+      },
+      {
+        id: 'q-luxury-2',
+        question: '「ぜいたく・高級品」という意味の名詞はどれですか。',
+        options: ['luxurious', 'luxury', 'luxuriously', 'luxuriant'],
+        correctAnswer: 1,
+        explanation: '名詞「ぜいたく」は luxury /ˈlʌkʃəri/ です。',
+      },
+      {
+        id: 'q-luxury-3',
+        question: '空所に入る適切な語はどれですか。「For me, free time is a real ( ).（私にとって自由時間は本当のぜいたくだ）」',
+        options: ['luxurious', 'luxury', 'luxuriously', 'luxuriant'],
+        correctAnswer: 1,
+        explanation: '名詞「ぜいたく」は luxury です。',
+      },
+      {
+        id: 'q-luxury-4',
+        question: '名詞を修飾する形容詞「豪華な」を表すのはどちらですか。',
+        options: ['luxury', 'luxurious', 'どちらも', 'どちらも違う'],
+        correctAnswer: 1,
+        explanation: '形容詞は luxurious。luxury は名詞です。',
+      },
+      {
+        id: 'q-luxury-5',
+        question: '空所に入る適切な語はどれですか。「The apartment has a ( ) marble bathroom.（その部屋は豪華な大理石の浴室がある）」',
+        options: ['luxury', 'luxurious', 'luxuries', 'luxuriate'],
+        correctAnswer: 1,
+        explanation: '「豪華な（浴室）」は形容詞 luxurious です。',
+      },
+    ],
+  },
+  {
+    id: 'healthy-healthful',
+    title: 'healthy と healthful',
+    chapter: 3,
+    description: 'healthy「健康な・健康的な」（人・状態）、healthful「健康に良い」（食べ物・環境など、健康を促すもの）。※現代英語では healthy が両方に使われる傾向。',
+    content: `## 「健康な」か「健康を促す」かで見分ける
+
+伝統的には使い分けがあります。
+
+- **healthy** … 「**健康な・健康的な**」。健康を持っている人・状態（a healthy child）。
+- **healthful** … 「**健康に良い・健康を促す**」。健康をもたらす食べ物・環境など（a healthful diet）。
+
+| 語 | 中心の意味 | 自作の例文 |
+| --- | --- | --- |
+| healthy | 健康な（状態） | She is a **healthy** young woman.（彼女は健康な若い女性だ） |
+| healthful | 健康に良い（促す） | A **healthful** diet includes vegetables.（健康的な食事には野菜が入る） |
+
+🎯 覚え方：**「（人が）健康である」は healthy、「（食事などが）健康に良い」は healthful**。ただし現代英語では healthy が「健康に良い」の意味でも広く使われます（a healthy diet も一般的）。試験では区別を問われることがあります。`,
+    keyPoints: [
+      'healthy＝健康な・健康的な（人・状態）',
+      'healthful＝健康に良い・健康を促す（食べ物・環境）',
+      '現代英語では healthy が両方に使われる傾向（試験では区別）',
+    ],
+    quiz: [
+      {
+        id: 'q-healthy-1',
+        question: '伝統的な使い分けで「健康に良い（健康を促す）食べ物」に使われるのはどちらですか。',
+        options: ['healthy', 'healthful', 'どちらも不可', 'health'],
+        correctAnswer: 1,
+        explanation: '伝統的には「健康を促す」は healthful です（現代では healthy も可）。',
+      },
+      {
+        id: 'q-healthy-2',
+        question: '空所に入る適切な語はどれですか。「Regular exercise keeps you ( ).（定期的な運動は健康を保つ）」',
+        options: ['healthful', 'healthy', 'health', 'healthfully'],
+        correctAnswer: 1,
+        explanation: '「（人が）健康である」は healthy です。',
+      },
+      {
+        id: 'q-healthy-3',
+        question: '「（人・状態が）健康な」を表すのはどちらですか。',
+        options: ['healthful', 'healthy', 'どちらも', 'どちらも違う'],
+        correctAnswer: 1,
+        explanation: '人・状態の「健康な」は healthy。「健康に良い」は healthful です。',
+      },
+      {
+        id: 'q-healthy-4',
+        question: '空所に入る適切な語はどれですか。「They grow ( ) crops without chemicals.（彼らは化学薬品なしで健康な作物を育てる）」',
+        options: ['healthful', 'healthy', 'health', 'healthfully'],
+        correctAnswer: 1,
+        explanation: '「（作物が）健康な・元気な」は healthy です。',
+      },
+      {
+        id: 'q-healthy-5',
+        question: '接尾辞 -ful がつき「健康に良い（促す）」を表すのはどちらですか。',
+        options: ['healthy', 'healthful', 'どちらも', 'どちらも違う'],
+        correctAnswer: 1,
+        explanation: 'healthful（-ful＝健康を与える）が「健康に良い」です。',
+      },
+    ],
+  },
+  {
+    id: 'night-knight',
+    title: 'night と knight',
+    chapter: 4,
+    description: '同音 /naɪt/。night「夜」（名詞）、knight「騎士」（名詞・k は無音）。意味とスペルで判断。',
+    content: `## 音は同じ、意味とスペルで見分ける
+
+**night と knight は同じ発音 /naɪt/（同音異義語）**。knight の **k は発音しません**。
+
+- **night** … /naɪt/ 名詞「**夜**」。反対は day。
+- **knight** … /naɪt/ 名詞「**騎士・ナイト**」（チェスの駒でも）。
+
+| 語 | 発音 | 中心の意味 | 自作の例文 |
+| --- | --- | --- | --- |
+| night | /naɪt/ | 夜 | We arrived late at **night**.（夜遅くに着いた） |
+| **k**night | /naɪt/ | 騎士 | The **knight** wore shining armor.（騎士は輝く鎧を着ていた） |
+
+🎯 覚え方：**knight は先頭の k を読まないが「騎士（中世の戦士）」**。時間の「夜」は night。歴史・チェスの「騎士」なら knight。`,
+    keyPoints: [
+      'night と knight は同音 /naɪt/（k は無音）',
+      'night＝夜（反対は day）',
+      'knight＝騎士（チェスの駒も）',
+    ],
+    quiz: [
+      {
+        id: 'q-night-1',
+        question: '空所に入る適切な語はどれですか。「The ( ) rode a white horse.（騎士は白馬に乗っていた）」',
+        options: ['night', 'knight', 'nights', 'knights\''],
+        correctAnswer: 1,
+        explanation: '「騎士」は knight です。',
+      },
+      {
+        id: 'q-night-2',
+        question: '「夜」という意味の語はどれですか。',
+        options: ['knight', 'night', 'nite', 'knite'],
+        correctAnswer: 1,
+        explanation: '「夜」は night /naɪt/ です。',
+      },
+      {
+        id: 'q-night-3',
+        question: 'night と knight の発音の関係はどれですか。',
+        options: ['母音が違う', '同じ発音（同音異義語）', '子音が違う', 'アクセントが違う'],
+        correctAnswer: 1,
+        explanation: 'どちらも /naɪt/ で同音異義語です（k は無音）。',
+      },
+      {
+        id: 'q-night-4',
+        question: '空所に入る適切な語はどれですか。「Stars shine brightly at ( ).（夜には星が明るく輝く）」',
+        options: ['knight', 'night', 'nite', 'knite'],
+        correctAnswer: 1,
+        explanation: '時間の「夜」は night です。',
+      },
+      {
+        id: 'q-night-5',
+        question: '先頭の（無音の）k を持ち「騎士」を意味するのはどちらですか。',
+        options: ['night', 'knight', 'どちらも', 'どちらも違う'],
+        correctAnswer: 1,
+        explanation: 'knight（k 付き・騎士）。night は「夜」です。',
+      },
+    ],
+  },
+  {
+    id: 'role-roll',
+    title: 'role と roll',
+    chapter: 4,
+    description: '同音 /roʊl/。role「役割・役」（名詞）、roll「転がる・巻く／名簿・ロールパン」（動詞・名詞）。',
+    content: `## 音は同じ、意味とスペルで見分ける
+
+**role と roll は同じ発音 /roʊl/（同音異義語）**。意味とスペルで決めます。
+
+- **role** … /roʊl/ 名詞「**役割・役**」。play a role（役割を果たす）。
+- **roll** … /roʊl/ 動詞「**転がる・巻く**」、名詞「**ひと巻き・名簿・ロールパン**」。
+
+| 語 | 発音 | 品詞・中心の意味 | 自作の例文 |
+| --- | --- | --- | --- |
+| role | /roʊl/ | 名詞：役割 | She played a key **role** in the project.（計画で重要な役割を果たした） |
+| roll | /roʊl/ | 転がる・巻く／名簿 | The ball **rolled** down the hill.（ボールが坂を転がった） |
+
+🎯 覚え方：**role は「役割（part）」、roll は l がふたつで「転がる・巻く（ぐるぐる）」**。演劇や仕事の「役割」は role、動作の「転がる・巻く」は roll。`,
+    keyPoints: [
+      'role と roll は同音 /roʊl/',
+      'role＝役割・役（play a role）',
+      'roll＝転がる・巻く／名簿・ロールパン（l がふたつ）',
+    ],
+    quiz: [
+      {
+        id: 'q-role-1',
+        question: '空所に入る適切な語はどれですか。「Please ( ) the dough into a ball.（生地を丸めて球にして）」',
+        options: ['role', 'roll', 'roles', 'rolled\''],
+        correctAnswer: 1,
+        explanation: '「巻く・丸める」は動詞 roll です。',
+      },
+      {
+        id: 'q-role-2',
+        question: '「役割・役」という意味の名詞はどれですか。',
+        options: ['roll', 'role', 'rolls', 'rolled'],
+        correctAnswer: 1,
+        explanation: '「役割」は role /roʊl/ です。',
+      },
+      {
+        id: 'q-role-3',
+        question: 'role と roll の発音の関係はどれですか。',
+        options: ['母音が違う', '同じ発音（同音異義語）', '子音が違う', 'アクセントが違う'],
+        correctAnswer: 1,
+        explanation: 'どちらも /roʊl/ で同音異義語です。',
+      },
+      {
+        id: 'q-role-4',
+        question: '空所に入る適切な語はどれですか。「The teacher called the ( ) in the morning.（先生は朝に出席をとった）」',
+        options: ['role', 'roll', 'roles', 'roled'],
+        correctAnswer: 1,
+        explanation: '「名簿・出席」は roll（call the roll＝出席をとる）です。',
+      },
+      {
+        id: 'q-role-5',
+        question: '演劇や仕事の「役割・役」を意味するのはどちらですか。',
+        options: ['roll', 'role', 'どちらも', 'どちらも違う'],
+        correctAnswer: 1,
+        explanation: '役割は role。転がる・巻く・名簿は roll です。',
+      },
+    ],
+  },
+  {
+    id: 'cent-scent-sent',
+    title: 'cent と scent と sent',
+    chapter: 4,
+    description: '同音 /sɛnt/。cent「セント（通貨）」、scent「香り」、sent「send の過去（送った）」。意味とスペルで判断。',
+    content: `## 役割で見分ける（3語の同音）
+
+**cent・scent・sent はすべて同じ発音 /sɛnt/**。意味とスペルで決めます。
+
+- **cent** … /sɛnt/ 名詞「**セント**」（ドルの100分の1の通貨）。
+- **scent** … /sɛnt/ 名詞「**香り・におい**」。s の後に c。
+- **sent** … /sɛnt/ 動詞 send の過去・過去分詞「**送った**」。
+
+| 語 | 発音 | 中心の意味 | 自作の例文 |
+| --- | --- | --- | --- |
+| cent | /sɛnt/ | セント（通貨） | It costs fifty **cents**.（それは50セントだ） |
+| **s**cent | /sɛnt/ | 香り | The **scent** of roses filled the room.（バラの香りが部屋に満ちた） |
+| sent | /sɛnt/ | send の過去：送った | I **sent** her an email.（彼女にメールを送った） |
+
+🎯 覚え方：**通貨は cent、香り（smell）は scent（s 付き）、send の過去は sent**。お金なら cent、におい なら scent、送ったなら sent。`,
+    keyPoints: [
+      'cent・scent・sent は同音 /sɛnt/',
+      'cent＝通貨のセント／scent＝香り（s 付き）／sent＝send の過去',
+      'お金は cent、におい は scent、送った は sent',
+    ],
+    quiz: [
+      {
+        id: 'q-cent-1',
+        question: '空所に入る適切な語はどれですか。「The dog followed the ( ) of the fox.（犬はキツネのにおいを追った）」',
+        options: ['cent', 'scent', 'sent', 'cents'],
+        correctAnswer: 1,
+        explanation: '「香り・におい」は scent（s 付き）です。',
+      },
+      {
+        id: 'q-cent-2',
+        question: 'send の過去形「送った」を表す語はどれですか。',
+        options: ['cent', 'scent', 'sent', 'scents'],
+        correctAnswer: 2,
+        explanation: 'send の過去・過去分詞は sent です。',
+      },
+      {
+        id: 'q-cent-3',
+        question: '空所に入る適切な語はどれですか。「A dollar is one hundred ( ).（1ドルは100セントだ）」',
+        options: ['scents', 'cents', 'sents', 'sent'],
+        correctAnswer: 1,
+        explanation: '通貨の「セント」は cent（複数 cents）です。',
+      },
+      {
+        id: 'q-cent-4',
+        question: '空所に入る適切な語はどれですか。「She ( ) a postcard from Paris.（彼女はパリから絵はがきを送った）」',
+        options: ['cent', 'scent', 'sent', 'scents'],
+        correctAnswer: 2,
+        explanation: '「送った」は send の過去 sent です。',
+      },
+      {
+        id: 'q-cent-5',
+        question: 's の後に c が入り「香り」を意味するのはどれですか。',
+        options: ['cent', 'scent', 'sent', 'どれも違う'],
+        correctAnswer: 1,
+        explanation: '「香り」は scent（s+cent）です。',
+      },
+    ],
+  },
+  {
+    id: 'allowed-aloud',
+    title: 'allowed と aloud',
+    chapter: 4,
+    description: '同音 /əˈlaʊd/。allowed「許された」（allow の過去分詞）、aloud「声に出して」（副詞）。意味とスペルで判断。',
+    content: `## 音は同じ、意味とスペルで見分ける
+
+**allowed と aloud は同じ発音 /əˈlaʊd/（同音異義語）**。意味とスペルで決めます。
+
+- **allowed** … /əˈlaʊd/ 動詞 allow（許す）の過去・過去分詞「**許された**」。be allowed to do（〜してよい）。
+- **aloud** … /əˈlaʊd/ 副詞「**声に出して・音読で**」。read aloud（音読する）。
+
+| 語 | 発音 | 品詞・中心の意味 | 自作の例文 |
+| --- | --- | --- | --- |
+| allow**ed** | /əˈlaʊd/ | 許された | Smoking is not **allowed** here.（ここは禁煙だ） |
+| al**oud** | /əˈlaʊd/ | 声に出して | She read the poem **aloud**.（彼女は詩を音読した） |
+
+🎯 覚え方：**aloud は「声（loud＝大きな声）に出して」の副詞**。「許された」は allow の -ed で allowed。許可なら allowed、音読なら aloud。`,
+    keyPoints: [
+      'allowed と aloud は同音 /əˈlaʊd/',
+      'allowed＝許された（allow の過去分詞・be allowed to do）',
+      'aloud＝副詞「声に出して」（read aloud）',
+    ],
+    quiz: [
+      {
+        id: 'q-allowed-1',
+        question: '空所に入る適切な語はどれですか。「Please read the sentence ( ).（その文を声に出して読んで）」',
+        options: ['allowed', 'aloud', 'alouds', 'allow'],
+        correctAnswer: 1,
+        explanation: '「声に出して」は副詞 aloud です。',
+      },
+      {
+        id: 'q-allowed-2',
+        question: '「許された」（allow の過去分詞）を表す語はどれですか。',
+        options: ['aloud', 'allowed', 'alouds', 'allow'],
+        correctAnswer: 1,
+        explanation: '「許された」は allowed です。',
+      },
+      {
+        id: 'q-allowed-3',
+        question: 'allowed と aloud の発音の関係はどれですか。',
+        options: ['母音が違う', '同じ発音（同音異義語）', '子音が違う', 'アクセントが違う'],
+        correctAnswer: 1,
+        explanation: 'どちらも /əˈlaʊd/ で同音異義語です。',
+      },
+      {
+        id: 'q-allowed-4',
+        question: '空所に入る適切な語はどれですか。「Are we ( ) to take photos here?（ここで写真を撮ってもいい？）」',
+        options: ['aloud', 'allowed', 'alouds', 'allowing'],
+        correctAnswer: 1,
+        explanation: 'be allowed to do「〜してよい」の allowed です。',
+      },
+      {
+        id: 'q-allowed-5',
+        question: '副詞「声に出して」を意味するのはどちらですか。',
+        options: ['allowed', 'aloud', 'どちらも', 'どちらも違う'],
+        correctAnswer: 1,
+        explanation: 'aloud が「声に出して」。allowed は「許された」です。',
+      },
+    ],
+  },
 ];
