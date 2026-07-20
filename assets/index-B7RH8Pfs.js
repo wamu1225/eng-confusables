@@ -2494,5 +2494,372 @@ belief/believe と同じく、**-f（relief）が名詞、-ve（relieve）が動
 | hang**ar** | /ˈhæŋər/ | 格納庫 | The jet is kept in a **hangar**.（ジェット機は格納庫に置かれる） |
 | hang**er** | /ˈhæŋər/ | ハンガー | Hang your coat on a **hanger**.（コートをハンガーに掛けて） |
 
-🎯 覚え方：**飛行機の「格納庫」は hangar（-ar）、服を掛ける「ハンガー」は hanger（hang+-er）**。航空機なら hangar、衣類なら hanger。`,keyPoints:[`hangar と hanger は同音 /ˈhæŋər/`,`hangar＝（飛行機の）格納庫（-ar）`,`hanger＝ハンガー・衣類掛け（hang+-er）`],quiz:[{id:`q-hangar-1`,question:`空所に入る適切な語はどれですか。「Please put the shirt on a ( ).（シャツをハンガーに掛けて）」`,options:[`hangar`,`hanger`,`hangars`,`hangered'`],correctAnswer:1,explanation:`衣類の「ハンガー」は hanger（hang+-er）です。`},{id:`q-hangar-2`,question:`「（飛行機の）格納庫」という意味の語はどれですか。`,options:[`hanger`,`hangar`,`hangers`,`hanging`],correctAnswer:1,explanation:`「格納庫」は hangar（-ar）です。`},{id:`q-hangar-3`,question:`hangar と hanger の発音の関係はどれですか。`,options:[`母音が違う`,`同じ発音（同音異義語）`,`子音が違う`,`アクセントが違う`],correctAnswer:1,explanation:`どちらも /ˈhæŋər/ で同音異義語です。`},{id:`q-hangar-4`,question:`空所に入る適切な語はどれですか。「The mechanics worked in the aircraft ( ).（整備士は航空機格納庫で作業した）」`,options:[`hanger`,`hangar`,`hangers`,`hanging`],correctAnswer:1,explanation:`航空機の「格納庫」は hangar です。`},{id:`q-hangar-5`,question:`服を掛ける「ハンガー」を意味するのはどちらですか。`,options:[`hangar`,`hanger`,`どちらも`,`どちらも違う`],correctAnswer:1,explanation:`ハンガーは hanger。hangar は「格納庫」です。`}]}],c={1:`スペルが似ている語`,2:`意味が近く使い分けが難しい語`,3:`品詞・派生でまぎらわしい語`,4:`発音が似ている語`},l={audience:`大学受験・TOEIC・英検の学習者、英語を学び直す社会人`,approach:`一対一の和訳暗記ではなく、意味の核と使い分けを比較表とミニ問題で身につける`};function u(e){let t=[],n=0,r,i=/\[([^\]]+)\]\(([^)]+)\)|\*\*([^*]+)\*\*|`([^`]+)`/g;for(;(r=i.exec(e))!==null;)r.index>n&&t.push({t:`text`,v:e.slice(n,r.index)}),r[1]!==void 0&&r[2]!==void 0?t.push({t:`link`,label:r[1],url:r[2]}):r[3]===void 0?r[4]!==void 0&&t.push({t:`code`,v:r[4]}):t.push({t:`bold`,children:u(r[3])}),n=r.index+r[0].length;return n<e.length&&t.push({t:`text`,v:e.slice(n)}),t}var d=i();function f({questions:e}){let[t,n]=(0,a.useState)(0),[r,i]=(0,a.useState)(null),[o,s]=(0,a.useState)(!1),[c,l]=(0,a.useState)(0),[u,f]=(0,a.useState)(!1),p=e[t],m=t===e.length-1,h=e=>{o||(i(e),s(!0),e===p.correctAnswer&&l(e=>e+1))},g=()=>{if(m){f(!0);return}n(e=>e+1),i(null),s(!1)},_=()=>{n(0),i(null),s(!1),l(0),f(!1)};if(u){let t=Math.round(c/e.length*100),n=t>=80?`よくできました。この区別はばっちりです。`:t>=50?`あと少し。間違えた問題の解説を読み返しましょう。`:`もう一度、上の比較表と例文を見てから挑戦しましょう。`;return(0,d.jsxs)(`div`,{className:`quiz quiz-result`,children:[(0,d.jsxs)(`p`,{className:`quiz-score`,children:[e.length,`問中 `,(0,d.jsx)(`strong`,{children:c}),`問正解（`,t,`%）`]}),(0,d.jsx)(`p`,{className:`quiz-msg`,children:n}),(0,d.jsx)(`button`,{className:`btn`,onClick:_,children:`もう一度`})]})}return(0,d.jsxs)(`div`,{className:`quiz`,children:[(0,d.jsx)(`div`,{className:`quiz-head`,children:(0,d.jsxs)(`span`,{className:`quiz-count`,children:[`第 `,t+1,` / `,e.length,` 問`]})}),(0,d.jsx)(`p`,{className:`quiz-q`,children:p.question}),(0,d.jsx)(`ul`,{className:`quiz-options`,children:p.options.map((e,t)=>{let n=`quiz-option`;return o&&(t===p.correctAnswer?n+=` is-correct`:t===r&&(n+=` is-wrong`)),(0,d.jsx)(`li`,{children:(0,d.jsxs)(`button`,{className:n,onClick:()=>h(t),disabled:o,children:[(0,d.jsx)(`span`,{className:`quiz-mark`,"aria-hidden":`true`,children:o&&t===p.correctAnswer?`○`:o&&t===r?`×`:``}),(0,d.jsx)(`span`,{children:e})]})},t)})}),o&&(0,d.jsxs)(`div`,{className:`quiz-explain`,children:[(0,d.jsx)(`p`,{className:r===p.correctAnswer?`quiz-verdict ok`:`quiz-verdict ng`,children:r===p.correctAnswer?`正解`:`不正解`}),(0,d.jsx)(`p`,{children:p.explanation}),(0,d.jsx)(`button`,{className:`btn`,onClick:g,children:m?`結果を見る`:`次の問題へ`})]})]})}var p=`/eng-confusables`;function m(e){let t=e;if(t.startsWith(p)&&(t=t.slice(16)),t=t.replace(/^\/+|\/+$/g,``),t===``)return{view:`home`};if(t===`about`)return{view:`about`};if(t===`privacy`)return{view:`privacy`};let n=s.find(e=>e.id===t);return n?{view:`pair`,id:n.id}:{view:`home`}}function h(e){switch(e.view){case`home`:return`${p}/`;case`pair`:return`${p}/${e.id}/`;default:return`${p}/${e.view}/`}}function g(e,t){return e.map((e,n)=>{let r=`${t}-${n}`;switch(e.t){case`text`:return(0,d.jsx)(`span`,{children:e.v},r);case`bold`:return(0,d.jsx)(`strong`,{children:g(e.children,r)},r);case`code`:return(0,d.jsx)(`code`,{children:e.v},r);case`link`:return/^https?:\/\//.test(e.url)?(0,d.jsx)(`a`,{href:e.url,target:`_blank`,rel:`noopener noreferrer`,children:e.label},r):(0,d.jsx)(`a`,{href:e.url,children:e.label},r)}})}var _=(e,t)=>g(u(e),t),v={"💡":{label:`コツ`,cls:`callout-tip`},"🎯":{label:`試験ポイント`,cls:`callout-exam`},"⚠️":{label:`注意`,cls:`callout-warn`},"📖":{label:`発展`,cls:`callout-read`}};function y(e){let t=e.split(`
+🎯 覚え方：**飛行機の「格納庫」は hangar（-ar）、服を掛ける「ハンガー」は hanger（hang+-er）**。航空機なら hangar、衣類なら hanger。`,keyPoints:[`hangar と hanger は同音 /ˈhæŋər/`,`hangar＝（飛行機の）格納庫（-ar）`,`hanger＝ハンガー・衣類掛け（hang+-er）`],quiz:[{id:`q-hangar-1`,question:`空所に入る適切な語はどれですか。「Please put the shirt on a ( ).（シャツをハンガーに掛けて）」`,options:[`hangar`,`hanger`,`hangars`,`hangered'`],correctAnswer:1,explanation:`衣類の「ハンガー」は hanger（hang+-er）です。`},{id:`q-hangar-2`,question:`「（飛行機の）格納庫」という意味の語はどれですか。`,options:[`hanger`,`hangar`,`hangers`,`hanging`],correctAnswer:1,explanation:`「格納庫」は hangar（-ar）です。`},{id:`q-hangar-3`,question:`hangar と hanger の発音の関係はどれですか。`,options:[`母音が違う`,`同じ発音（同音異義語）`,`子音が違う`,`アクセントが違う`],correctAnswer:1,explanation:`どちらも /ˈhæŋər/ で同音異義語です。`},{id:`q-hangar-4`,question:`空所に入る適切な語はどれですか。「The mechanics worked in the aircraft ( ).（整備士は航空機格納庫で作業した）」`,options:[`hanger`,`hangar`,`hangers`,`hanging`],correctAnswer:1,explanation:`航空機の「格納庫」は hangar です。`},{id:`q-hangar-5`,question:`服を掛ける「ハンガー」を意味するのはどちらですか。`,options:[`hangar`,`hanger`,`どちらも`,`どちらも違う`],correctAnswer:1,explanation:`ハンガーは hanger。hangar は「格納庫」です。`}]},{id:`emigrate-immigrate`,title:`emigrate と immigrate`,chapter:2,description:`向きが逆。emigrate は「（自国から）出ていく」（emigrate from）、immigrate は「（他国へ）入ってくる」（immigrate to）。`,content:`## 出るか入るかで見分ける
+
+同じ移住でも、視点の向きが逆です。
+
+- **emigrate** … 「**（自国を出て他国へ）移住する・出ていく**」。**e**migrate＝**e**xit（出る）。emigrate **from** ~。
+- **immigrate** … 「**（他国から入って）移住してくる**」。**im**migrate＝**in**（入る）。immigrate **to** ~。
+
+| 語 | 向き | 中心の意味 | 自作の例文 |
+| --- | --- | --- | --- |
+| emigrate | 出ていく | 移住して出る | They **emigrated from** Ireland.（彼らはアイルランドを出て移住した） |
+| immigrate | 入ってくる | 移住して入る | Many **immigrated to** the US.（多くが米国へ移住してきた） |
+
+🎯 覚え方：**e-（exit）で出る emigrate、im-（in）で入る immigrate**。出発国を言うなら emigrate from、到着国を言うなら immigrate to。名詞は emigrant／immigrant。`,keyPoints:[`emigrate＝（自国から）出ていく（e-＝exit・emigrate from）`,`immigrate＝（他国へ）入ってくる（im-＝in・immigrate to）`,`出発国なら emigrate、到着国なら immigrate`],quiz:[{id:`q-emigrate-1`,question:`空所に入る適切な語はどれですか。「Her family ( ) to Canada in 1990.（一家は1990年にカナダへ移住してきた）」`,options:[`emigrated`,`immigrated`,`emigrate`,`emigrates`],correctAnswer:1,explanation:`到着国（to Canada）へ入るので immigrate です。`},{id:`q-emigrate-2`,question:`空所に入る適切な語はどれですか。「Many people ( ) from Europe during the war.（戦時中、多くが欧州を出て移住した）」`,options:[`immigrated`,`emigrated`,`immigrate`,`immigrates`],correctAnswer:1,explanation:`出発国（from Europe）を出るので emigrate です。`},{id:`q-emigrate-3`,question:`「（自国を出て）移住する」を表すのはどちらですか。`,options:[`immigrate`,`emigrate`,`どちらも`,`どちらも違う`],correctAnswer:1,explanation:`出るのは emigrate（e-＝exit）。入るのは immigrate です。`},{id:`q-emigrate-4`,question:`空所に入る適切な語はどれですか。「The country welcomed ( ) from many nations.（その国は多くの国からの移民を歓迎した）」`,options:[`emigrants`,`immigrants`,`emigrate`,`emigrated`],correctAnswer:1,explanation:`入ってくる移民は immigrant です。`},{id:`q-emigrate-5`,question:`im-（in＝入る）で「移住してくる」のはどちらですか。`,options:[`emigrate`,`immigrate`,`どちらも`,`どちらも違う`],correctAnswer:1,explanation:`immigrate（im-＝in）が入る側。emigrate（e-＝exit）は出る側です。`}]},{id:`biannual-biennial`,title:`biannual と biennial`,chapter:2,description:`頻度が違う。biannual は「年に2回（半年ごと）」、biennial は「2年に1回」。`,content:`## 「年2回」か「2年に1回」かで見分ける
+
+どちらも bi-（2）が付きますが、周期が正反対に近いほど違います。
+
+- **biannual** … 「**年に2回・半年ごと**」（＝semiannual）。1年の中で2回。
+- **biennial** … 「**2年に1回・2年ごと**」。2年周期。
+
+| 語 | 周期 | 自作の例文 |
+| --- | --- | --- |
+| bi**annual** | 年2回 | The club holds a **biannual** sale (spring and autumn).（クラブは年2回セールをする） |
+| bi**ennial** | 2年に1回 | The **biennial** festival returns every two years.（その祭りは2年ごとに開かれる） |
+
+🎯 覚え方：**-annual（年）が付く biannual は「1年の中で2回」、-ennial（〜年の周期）の biennial は「2年ごと」**。混同を避けたいときは biannual の代わりに semiannual（半年ごと）を使うと明確。`,keyPoints:[`biannual＝年に2回・半年ごと（＝semiannual）`,`biennial＝2年に1回・2年ごと`,`紛らわしければ「半年ごと」は semiannual を使う`],quiz:[{id:`q-biannual-1`,question:`「2年に1回」を表す語はどれですか。`,options:[`biannual`,`biennial`,`annual`,`biweekly`],correctAnswer:1,explanation:`2年周期は biennial です。`},{id:`q-biannual-2`,question:`「年に2回（半年ごと）」を表す語はどれですか。`,options:[`biennial`,`biannual`,`annual`,`decennial`],correctAnswer:1,explanation:`年2回は biannual（＝semiannual）です。`},{id:`q-biannual-3`,question:`空所に入る適切な語はどれですか。「We have a ( ) checkup every six months.（半年ごとに定期健診がある）」`,options:[`biennial`,`biannual`,`annual`,`biweekly`],correctAnswer:1,explanation:`半年ごと（年2回）は biannual です。`},{id:`q-biannual-4`,question:`空所に入る適切な語はどれですか。「The ( ) conference is held once every two years.（その会議は2年に1度開かれる）」`,options:[`biannual`,`biennial`,`annual`,`semiannual`],correctAnswer:1,explanation:`2年に1回は biennial です。`},{id:`q-biannual-5`,question:`biannual と同じ「年2回」を明確に表す語はどれですか。`,options:[`biennial`,`semiannual`,`annual`,`decennial`],correctAnswer:1,explanation:`semiannual（半年ごと＝年2回）が biannual と同義で明確です。`}]},{id:`sit-set`,title:`sit と set`,chapter:2,description:`自動詞と他動詞。sit は「（自分が）座る」（自動詞）、set は「（物を）置く」（他動詞・set-set-set）。`,content:`## 自分が座るか、物を置くかで見分ける
+
+- **sit** … **自動詞**「**（自分が）座る**」。目的語をとらない。sit-sat-sat。
+- **set** … **他動詞**「**（物を）置く・据える・（値などを）定める**」。目的語をとる。set-set-set。
+
+| 語 | 型 | 中心の意味 | 自作の例文 |
+| --- | --- | --- | --- |
+| sit | 自動詞 | （自分が）座る | Please **sit** by the window.（窓ぎわに座って） |
+| set | 他動詞 | （物を）置く | She **set** the cup on the table.（カップをテーブルに置いた） |
+
+🎯 覚え方：**自分が「座る」は sit（目的語なし）、物を「置く」は set（目的語あり）**。lie/lay（横たわる／置く）と同じ自動詞・他動詞の対。set は活用が set-set-set で変化しない。`,keyPoints:[`sit＝自動詞「（自分が）座る」（sit-sat-sat）`,`set＝他動詞「（物を）置く・定める」（set-set-set）`,`lie/lay と同じ自動詞・他動詞の対`],quiz:[{id:`q-set-1`,question:`空所に入る適切な語はどれですか。「He ( ) the box down carefully.（彼は箱を注意深く置いた）」`,options:[`sat`,`set`,`sits`,`sitting`],correctAnswer:1,explanation:`目的語（box）を「置く」は他動詞 set（過去も set）です。`},{id:`q-set-2`,question:`空所に入る適切な語はどれですか。「The children ( ) quietly on the floor.（子どもたちは床に静かに座った）」`,options:[`set`,`sat`,`sets`,`setting`],correctAnswer:1,explanation:`自分が「座る」は自動詞 sit（過去 sat）です。`},{id:`q-set-3`,question:`目的語をとる他動詞「（物を）置く」はどちらですか。`,options:[`sit`,`set`,`どちらも`,`どちらも違う`],correctAnswer:1,explanation:`「物を置く」は他動詞 set。「自分が座る」は自動詞 sit です。`},{id:`q-set-4`,question:`set の活用として正しいものはどれですか。`,options:[`set-setted-setted`,`set-set-set`,`set-sat-sat`,`set-set-setten`],correctAnswer:1,explanation:`set は set-set-set で変化しません。`},{id:`q-set-5`,question:`空所に入る適切な語はどれですか。「Let's ( ) a date for the meeting.（会議の日程を決めよう）」`,options:[`sit`,`set`,`sat`,`sitting`],correctAnswer:1,explanation:`「（日程を）定める」は他動詞 set です。`}]},{id:`continual-continuous`,title:`continual と continuous`,chapter:3,description:`continual は「繰り返し起こる・断続的な」、continuous は「途切れずに続く」。`,content:`## 途切れがあるかどうかで見分ける
+
+どちらも continue から派生しますが、途切れの有無が違います。
+
+- **continual** … 「**繰り返し起こる・たびたびの（断続的）**」。合間に途切れがある。
+- **continuous** … 「**途切れずにずっと続く（連続）**」。切れ目がない。
+
+| 語 | 途切れ | 中心の意味 | 自作の例文 |
+| --- | --- | --- | --- |
+| continu**al** | あり（断続） | たびたびの | His **continual** interruptions annoyed us.（たびたびの中断に苛立った） |
+| continu**ous** | なし（連続） | 途切れず続く | The **continuous** hum of the engine.（エンジンの途切れない低い音） |
+
+🎯 覚え方：**-al の continual は「たびたび（何度も・合間あり）」、-ous の continuous は「切れ目なくずっと」**。何度も繰り返すなら continual、ノンストップなら continuous。`,keyPoints:[`continual＝繰り返し起こる・断続的（合間に途切れあり）`,`continuous＝途切れずに続く（連続・切れ目なし）`,`「たびたび」は continual、「ノンストップ」は continuous`],quiz:[{id:`q-continual-1`,question:`空所に入る適切な語はどれですか。「The machine made a ( ) noise for hours without stopping.（機械は何時間も止まらず連続した音を立てた）」`,options:[`continual`,`continuous`,`continue`,`continually`],correctAnswer:1,explanation:`途切れず続く「連続の」は continuous です。`},{id:`q-continual-2`,question:`「繰り返し起こる・たびたびの（断続的）」を表す語はどれですか。`,options:[`continuous`,`continual`,`continue`,`continuously`],correctAnswer:1,explanation:`断続的な「たびたびの」は continual です。`},{id:`q-continual-3`,question:`空所に入る適切な語はどれですか。「We suffered ( ) power cuts all week.（一週間、たびたびの停電に悩まされた）」`,options:[`continuous`,`continual`,`continue`,`continuum`],correctAnswer:1,explanation:`何度も繰り返す停電は continual です。`},{id:`q-continual-4`,question:`「途切れずにずっと続く」を表すのはどちらですか。`,options:[`continual`,`continuous`,`どちらも`,`どちらも違う`],correctAnswer:1,explanation:`continuous が「連続（切れ目なし）」。continual は「断続」です。`},{id:`q-continual-5`,question:`空所に入る適切な語はどれですか。「A ( ) line has no gaps.（連続した線には切れ目がない）」`,options:[`continual`,`continuous`,`continue`,`continually`],correctAnswer:1,explanation:`切れ目のない「連続した」は continuous です。`}]},{id:`human-humane`,title:`human と humane`,chapter:3,description:`human「人間の・人間」、humane「人道的な・思いやりのある」。末尾 e とアクセントで意味が変わる。`,content:`## 「人間の」か「思いやりある」かで見分ける
+
+- **human** … /ˈhjuːmən/ 「**人間の・人間**」（形容詞・名詞）。種としてのヒトに関する。
+- **humane** … /hjuːˈmeɪn/ 「**人道的な・思いやりのある・慈悲深い**」。末尾に e、アクセントは後ろ。
+
+| 語 | 発音 | 中心の意味 | 自作の例文 |
+| --- | --- | --- | --- |
+| human | /ˈhjuːmən/ | 人間の | It is a **human** right.（それは人間の権利だ） |
+| human**e** | /hjuːˈmeɪn/ | 人道的な | They called for **humane** treatment.（人道的な扱いを求めた） |
+
+🎯 覚え方：**e が付く humane は「人道的（思いやり）」でアクセント後ろ**。種としての「人間の」は human。扱いが「思いやりある」なら humane。`,keyPoints:[`human /ˈhjuːmən/＝人間の・人間`,`humane /hjuːˈmeɪn/＝人道的な・思いやりのある（e あり・後ろアクセント）`,`扱い・行いが「思いやりある」なら humane`],quiz:[{id:`q-human-1`,question:`空所に入る適切な語はどれですか。「Animals deserve ( ) treatment.（動物は人道的な扱いを受けるべきだ）」`,options:[`human`,`humane`,`humanly`,`humanity`],correctAnswer:1,explanation:`「人道的な（扱い）」は humane です。`},{id:`q-human-2`,question:`「人間の・人間」を表す語はどれですか。`,options:[`humane`,`human`,`humanely`,`humaneness`],correctAnswer:1,explanation:`種としての「人間の」は human です。`},{id:`q-human-3`,question:`空所に入る適切な語はどれですか。「The disease affects the ( ) body.（その病気は人体を冒す）」`,options:[`humane`,`human`,`humanely`,`humanity`],correctAnswer:1,explanation:`「人体＝人間の体」は human body です。`},{id:`q-human-4`,question:`「思いやりのある・慈悲深い」を表すのはどちらですか。`,options:[`human`,`humane`,`どちらも`,`どちらも違う`],correctAnswer:1,explanation:`humane が「人道的・思いやりある」。human は「人間の」です。`},{id:`q-human-5`,question:`空所に入る適切な語はどれですか。「She is known for her ( ) work helping refugees.（彼女は難民を助ける人道的な活動で知られる）」`,options:[`human`,`humane`,`humanly`,`humans`],correctAnswer:1,explanation:`「人道的な（活動）」は humane です。`}]},{id:`adverse-averse`,title:`adverse と averse`,chapter:1,description:`adverse「不利な・逆の」（物事）、averse「（〜を）嫌って・気が進まない」（人・averse to）。`,content:`## 物事が不利か、人が嫌かで見分ける
+
+つづりは d の有無で近いですが、意味と使い方が違います。
+
+- **adverse** … 「**不利な・好ましくない・逆の**」。物事・状況に使う。adverse effects（悪影響）。
+- **averse** … 「**（〜を）嫌って・気が進まない**」。人の気持ち。ふつう **averse to ~**。
+
+| 語 | 対象 | 中心の意味 | 自作の例文 |
+| --- | --- | --- | --- |
+| a**d**verse | 物事・状況 | 不利な・逆の | The plan failed due to **adverse** conditions.（不利な状況で計画は失敗した） |
+| averse | 人の気持ち | 嫌って・気が進まない | She is **averse to** taking risks.（彼女はリスクを嫌う） |
+
+🎯 覚え方：**d のある adverse は「（状況が）不利・逆」、d のない averse は「（人が）嫌がる（averse to）」**。悪影響・悪条件なら adverse、〜したがらないなら averse to。`,keyPoints:[`adverse＝不利な・好ましくない・逆の（物事・状況）`,`averse＝（〜を）嫌って・気が進まない（人・averse to ~）`,`状況なら adverse、人の忌避なら averse to`],quiz:[{id:`q-adverse-1`,question:`空所に入る適切な語はどれですか。「The medicine may have ( ) effects.（その薬には悪影響があるかもしれない）」`,options:[`averse`,`adverse`,`aversion`,`adversely`],correctAnswer:1,explanation:`「悪影響・不利な影響」は adverse effects です。`},{id:`q-adverse-2`,question:`空所に入る適切な語はどれですか。「He is ( ) to change.（彼は変化を嫌う）」`,options:[`adverse`,`averse`,`adversity`,`adversely`],correctAnswer:1,explanation:`人が「〜を嫌う」は averse to ~ です。`},{id:`q-adverse-3`,question:`物事・状況が「不利な・好ましくない」を表すのはどちらですか。`,options:[`averse`,`adverse`,`どちらも`,`どちらも違う`],correctAnswer:1,explanation:`状況が「不利な」は adverse。人が「嫌って」は averse です。`},{id:`q-adverse-4`,question:`空所に入る適切な語はどれですか。「Farmers worried about the ( ) weather.（農家は悪天候を心配した）」`,options:[`averse`,`adverse`,`aversion`,`aversely`],correctAnswer:1,explanation:`「悪い・不利な（天候）」は adverse です。`},{id:`q-adverse-5`,question:`「averse ( ) risk（リスクを嫌う）」の空所に入るのはどれですか。`,options:[`of`,`to`,`from`,`with`],correctAnswer:1,explanation:`averse は averse to ~ の形をとります。`}]},{id:`allusion-illusion`,title:`allusion と illusion`,chapter:1,description:`allusion「それとない言及・ほのめかし」、illusion「錯覚・幻想」。語頭 a-/i- が違う。`,content:`## 「言及」か「錯覚」かで見分ける
+
+語頭が **al-（allusion）と il-（illusion）** で、意味も別です。
+
+- **allusion** … 「**それとない言及・ほのめかし**」。allude（それとなく言及する）の名詞。
+- **illusion** … 「**錯覚・幻想・思い違い**」。実際と違う見え方・思い込み。
+
+| 語 | 中心の意味 | 自作の例文 |
+| --- | --- | --- |
+| **al**lusion | それとない言及 | The poem makes an **allusion** to the Bible.（その詩は聖書をそれとなく引く） |
+| **il**lusion | 錯覚・幻想 | The mirror creates an **illusion** of space.（鏡は空間の錯覚を生む） |
+
+🎯 覚え方：**al- の allusion は「（それとなく）言及」、il- の illusion は「錯覚・幻想（illusory）」**。ほのめかしなら allusion、目や心の錯覚なら illusion。`,keyPoints:[`allusion＝それとない言及・ほのめかし（allude の名詞）`,`illusion＝錯覚・幻想・思い違い`,`ほのめかしは allusion、錯覚は illusion`],quiz:[{id:`q-allusion-1`,question:`空所に入る適切な語はどれですか。「The magician created an optical ( ).（手品師は目の錯覚を作り出した）」`,options:[`allusion`,`illusion`,`allusions`,`illusory`],correctAnswer:1,explanation:`目の「錯覚」は optical illusion です。`},{id:`q-allusion-2`,question:`「それとない言及・ほのめかし」を表す語はどれですか。`,options:[`illusion`,`allusion`,`illusions`,`allude`],correctAnswer:1,explanation:`「それとない言及」は allusion です。`},{id:`q-allusion-3`,question:`空所に入る適切な語はどれですか。「Her speech contained an ( ) to Shakespeare.（彼女の演説はシェイクスピアをそれとなく引いた）」`,options:[`illusion`,`allusion`,`illusory`,`illusions`],correctAnswer:1,explanation:`「（〜への）それとない言及」は allusion です。`},{id:`q-allusion-4`,question:`「錯覚・幻想」を意味するのはどちらですか。`,options:[`allusion`,`illusion`,`どちらも`,`どちらも違う`],correctAnswer:1,explanation:`錯覚・幻想は illusion。ほのめかしは allusion です。`},{id:`q-allusion-5`,question:`空所に入る適切な語はどれですか。「He had no ( ) about his chances of winning.（勝つ見込みについて幻想は抱いていなかった）」`,options:[`allusions`,`illusions`,`allusion`,`allude`],correctAnswer:1,explanation:`「幻想・思い違い」は illusion（複数 illusions）です。`}]},{id:`eligible-illegible`,title:`eligible と illegible`,chapter:1,description:`eligible「（〜の）資格がある・適格な」、illegible「判読できない・読めない（字）」。まったく別の語。`,content:`## 「資格がある」か「読めない」かで見分ける
+
+見た目が似ていますが、意味はまったく別です。
+
+- **eligible** … /ˈɛlɪdʒəbl/ 「**（〜する）資格がある・適格な**」。eligible for/to do。
+- **illegible** … /ɪˈlɛdʒəbl/ 「**判読できない・読めない**」（字などが）。反対は legible（読める）。
+
+| 語 | 発音 | 中心の意味 | 自作の例文 |
+| --- | --- | --- | --- |
+| eligible | /ˈɛlɪdʒəbl/ | 資格がある | You are **eligible** for the discount.（あなたは割引の資格がある） |
+| illegible | /ɪˈlɛdʒəbl/ | 判読できない | His handwriting is **illegible**.（彼の字は判読できない） |
+
+🎯 覚え方：**eligible は「選ばれる（elect）資格」、illegible は il-（否定）＋legible（読める）＝「読めない」**。資格なら eligible、字が読めないなら illegible。`,keyPoints:[`eligible＝（〜の）資格がある・適格な（eligible for/to do）`,`illegible＝判読できない・読めない（il-＋legible、反対 legible）`,`資格は eligible、字が読めないは illegible`],quiz:[{id:`q-eligible-1`,question:`空所に入る適切な語はどれですか。「The form was ( ); no one could read it.（用紙は判読不能で、誰も読めなかった）」`,options:[`eligible`,`illegible`,`legible`,`eligibly`],correctAnswer:1,explanation:`「判読できない」は illegible です。`},{id:`q-eligible-2`,question:`「（〜の）資格がある・適格な」を表す語はどれですか。`,options:[`illegible`,`eligible`,`legible`,`illegibly`],correctAnswer:1,explanation:`「資格がある」は eligible です。`},{id:`q-eligible-3`,question:`空所に入る適切な語はどれですか。「Only members are ( ) to vote.（会員だけが投票する資格がある）」`,options:[`illegible`,`eligible`,`legible`,`eligibility`],correctAnswer:1,explanation:`「投票する資格がある」は eligible to vote です。`},{id:`q-eligible-4`,question:`il-（否定）＋legible（読める）で「読めない」を意味するのはどちらですか。`,options:[`eligible`,`illegible`,`どちらも`,`どちらも違う`],correctAnswer:1,explanation:`illegible が「読めない」。eligible は「資格がある」です。`},{id:`q-eligible-5`,question:`空所に入る適切な語はどれですか。「Are you ( ) for a refund?（あなたは返金の資格がありますか）」`,options:[`illegible`,`eligible`,`legible`,`illegibly`],correctAnswer:1,explanation:`eligible for ~「〜の資格がある」です。`}]},{id:`elicit-illicit`,title:`elicit と illicit`,chapter:4,description:`ほぼ同音 /ɪˈlɪsɪt/。elicit「（反応・情報を）引き出す」（動詞）、illicit「不法の・違法の」（形容詞）。`,content:`## 音は近い、品詞と意味で見分ける
+
+**elicit と illicit はほぼ同じ発音 /ɪˈlɪsɪt/**。品詞と意味で決めます。
+
+- **elicit** … 動詞「**（反応・情報・答えを）引き出す・誘い出す**」。
+- **illicit** … 形容詞「**不法の・違法の・不正な**」。il-（否定）＋licit（合法の）。
+
+| 語 | 品詞・中心の意味 | 自作の例文 |
+| --- | --- | --- |
+| e**l**icit | 動詞：引き出す | The question **elicited** no response.（その質問は反応を引き出さなかった） |
+| i**ll**icit | 形容詞：不法の | The police found **illicit** drugs.（警察は違法薬物を見つけた） |
+
+🎯 覚え方：**動詞で「引き出す」は elicit、形容詞で「不法の」は illicit（il-＝not＋licit＝合法）**。答え・反応を「引き出す」なら elicit、法に反するなら illicit。`,keyPoints:[`elicit と illicit はほぼ同音 /ɪˈlɪsɪt/`,`elicit＝動詞「（反応・情報を）引き出す」`,`illicit＝形容詞「不法の・違法の」（il-＋licit）`],quiz:[{id:`q-elicit-1`,question:`空所に入る適切な語はどれですか。「They were arrested for ( ) trade.（彼らは違法取引で逮捕された）」`,options:[`elicit`,`illicit`,`elicited`,`elicits`],correctAnswer:1,explanation:`「不法の・違法の（取引）」は illicit です。`},{id:`q-elicit-2`,question:`「（反応・情報を）引き出す」という意味の動詞はどれですか。`,options:[`illicit`,`elicit`,`illicitly`,`illicits`],correctAnswer:1,explanation:`動詞「引き出す」は elicit です。`},{id:`q-elicit-3`,question:`空所に入る適切な語はどれですか。「The teacher tried to ( ) answers from the class.（先生はクラスから答えを引き出そうとした）」`,options:[`illicit`,`elicit`,`illicitly`,`illicit'`],correctAnswer:1,explanation:`「答えを引き出す」は動詞 elicit です。`},{id:`q-elicit-4`,question:`il-（not）＋licit（合法）で「不法の」を意味するのはどちらですか。`,options:[`elicit`,`illicit`,`どちらも`,`どちらも違う`],correctAnswer:1,explanation:`illicit が「不法の」。elicit は動詞「引き出す」です。`},{id:`q-elicit-5`,question:`空所に入る適切な語はどれですか。「Her comment ( ) laughter from the audience.（彼女の一言は観客の笑いを誘った）」`,options:[`illicit`,`elicited`,`illicitly`,`illicit`],correctAnswer:1,explanation:`「（笑いを）引き出した・誘った」は elicit の過去 elicited です。`}]},{id:`berth-birth`,title:`berth と birth`,chapter:4,description:`同音 /bɜːrθ/。berth「停泊所・（列車などの）寝台」、birth「誕生・出産」。意味とスペルで判断。`,content:`## 音は同じ、意味とスペルで見分ける
+
+**berth と birth は同じ発音 /bɜːrθ/（同音異義語）**。意味とスペルで決めます。
+
+- **berth** … /bɜːrθ/ 名詞「**（船の）停泊所・（列車・船の）寝台**」。give a wide berth（大きく避ける）。
+- **birth** … /bɜːrθ/ 名詞「**誕生・出産**」。give birth（出産する）。
+
+| 語 | 発音 | 中心の意味 | 自作の例文 |
+| --- | --- | --- | --- |
+| b**er**th | /bɜːrθ/ | 停泊所・寝台 | The ship returned to its **berth**.（船は停泊所に戻った） |
+| b**ir**th | /bɜːrθ/ | 誕生・出産 | We celebrated the **birth** of our daughter.（娘の誕生を祝った） |
+
+🎯 覚え方：**船・列車の「停泊所・寝台」は berth、「誕生」は birth**。give birth（出産）と give a wide berth（大きく避ける）を混同しない。`,keyPoints:[`berth と birth は同音 /bɜːrθ/`,`berth＝停泊所・寝台（give a wide berth＝大きく避ける）`,`birth＝誕生・出産（give birth）`],quiz:[{id:`q-berth-1`,question:`空所に入る適切な語はどれですか。「She gave ( ) to twins.（彼女は双子を出産した）」`,options:[`berth`,`birth`,`berths`,`births`],correctAnswer:1,explanation:`give birth「出産する」の birth です。`},{id:`q-berth-2`,question:`「（船の）停泊所・（列車の）寝台」を表す語はどれですか。`,options:[`birth`,`berth`,`births`,`birthed`],correctAnswer:1,explanation:`「停泊所・寝台」は berth です。`},{id:`q-berth-3`,question:`berth と birth の発音の関係はどれですか。`,options:[`母音が違う`,`同じ発音（同音異義語）`,`子音が違う`,`アクセントが違う`],correctAnswer:1,explanation:`どちらも /bɜːrθ/ で同音異義語です。`},{id:`q-berth-4`,question:`空所に入る適切な語はどれですか。「Book a ( ) on the night train.（夜行列車の寝台を予約して）」`,options:[`birth`,`berth`,`births`,`birthed`],correctAnswer:1,explanation:`列車の「寝台」は berth です。`},{id:`q-berth-5`,question:`「誕生・出産」を意味するのはどちらですか。`,options:[`berth`,`birth`,`どちらも`,`どちらも違う`],correctAnswer:1,explanation:`誕生は birth。berth は停泊所・寝台です。`}]},{id:`hoarse-horse`,title:`hoarse と horse`,chapter:4,description:`同音 /hɔːrs/。hoarse「（声が）しゃがれた・かすれた」（形容詞）、horse「馬」（名詞）。意味とスペルで判断。`,content:`## 音は同じ、意味とスペルで見分ける
+
+**hoarse と horse は同じ発音 /hɔːrs/（同音異義語）**。意味とスペルで決めます。
+
+- **hoarse** … /hɔːrs/ 形容詞「**（声が）しゃがれた・かすれた**」。
+- **horse** … /hɔːrs/ 名詞「**馬**」。
+
+| 語 | 発音 | 品詞・中心の意味 | 自作の例文 |
+| --- | --- | --- | --- |
+| h**oa**rse | /hɔːrs/ | 形容詞：しゃがれた | My voice is **hoarse** from shouting.（叫びすぎて声がかすれた） |
+| h**o**rse | /hɔːrs/ | 名詞：馬 | She rode a brown **horse**.（彼女は茶色の馬に乗った） |
+
+🎯 覚え方：**声の「しゃがれ」は hoarse（oa）、動物の「馬」は horse**。のどの話なら hoarse、動物なら horse。`,keyPoints:[`hoarse と horse は同音 /hɔːrs/`,`hoarse＝形容詞「（声が）しゃがれた・かすれた」`,`horse＝名詞「馬」`],quiz:[{id:`q-hoarse-1`,question:`空所に入る適切な語はどれですか。「After the concert her voice was ( ).（コンサートのあと彼女の声はかすれていた）」`,options:[`horse`,`hoarse`,`horses`,`hoarsely`],correctAnswer:1,explanation:`「（声が）しゃがれた」は hoarse です。`},{id:`q-hoarse-2`,question:`「馬」という意味の名詞はどれですか。`,options:[`hoarse`,`horse`,`hoarses`,`hoarsely`],correctAnswer:1,explanation:`動物の「馬」は horse /hɔːrs/ です。`},{id:`q-hoarse-3`,question:`hoarse と horse の発音の関係はどれですか。`,options:[`母音が違う`,`同じ発音（同音異義語）`,`子音が違う`,`アクセントが違う`],correctAnswer:1,explanation:`どちらも /hɔːrs/ で同音異義語です。`},{id:`q-hoarse-4`,question:`空所に入る適切な語はどれですか。「The knight jumped onto his ( ).（騎士は馬にまたがった）」`,options:[`hoarse`,`horse`,`hoarses`,`hoarse'`],correctAnswer:1,explanation:`動物の「馬」は horse です。`},{id:`q-hoarse-5`,question:`声が「かすれた・しゃがれた」を意味するのはどちらですか。`,options:[`horse`,`hoarse`,`どちらも`,`どちらも違う`],correctAnswer:1,explanation:`しゃがれ声は hoarse。horse は「馬」です。`}]},{id:`muscle-mussel`,title:`muscle と mussel`,chapter:4,description:`同音 /ˈmʌsl/。muscle「筋肉」、mussel「ムール貝（イガイ）」。意味とスペルで判断する同音異義語。`,content:`## 音は同じ、意味とスペルで見分ける
+
+**muscle と mussel は同じ発音 /ˈmʌsl/（同音異義語）**。意味とスペルで決めます（muscle の c は無音）。
+
+- **muscle** … /ˈmʌsl/ 名詞「**筋肉**」。muscular（筋肉の）。
+- **mussel** … /ˈmʌsl/ 名詞「**ムール貝・イガイ**」（食用の二枚貝）。
+
+| 語 | 発音 | 中心の意味 | 自作の例文 |
+| --- | --- | --- | --- |
+| mus**c**le | /ˈmʌsl/ | 筋肉 | Exercise builds **muscle**.（運動は筋肉をつくる） |
+| mus**s**el | /ˈmʌsl/ | ムール貝 | We ate **mussels** in white wine.（白ワイン蒸しのムール貝を食べた） |
+
+🎯 覚え方：**体の「筋肉」は muscle（c が入る・muscular）、食べる貝は mussel（s がふたつ）**。体なら muscle、料理の貝なら mussel。`,keyPoints:[`muscle と mussel は同音 /ˈmʌsl/`,`muscle＝筋肉（c あり・muscular）`,`mussel＝ムール貝・イガイ（s がふたつ）`],quiz:[{id:`q-muscle-1`,question:`空所に入る適切な語はどれですか。「The restaurant serves fresh ( ) from the coast.（その店は海岸産の新鮮なムール貝を出す）」`,options:[`muscles`,`mussels`,`muscle`,`muscular`],correctAnswer:1,explanation:`食用の貝「ムール貝」は mussel（複数 mussels）です。`},{id:`q-muscle-2`,question:`「筋肉」という意味の名詞はどれですか。`,options:[`mussel`,`muscle`,`mussels`,`mussel'`],correctAnswer:1,explanation:`体の「筋肉」は muscle /ˈmʌsl/ です。`},{id:`q-muscle-3`,question:`muscle と mussel の発音の関係はどれですか。`,options:[`母音が違う`,`同じ発音（同音異義語）`,`子音が違う`,`アクセントが違う`],correctAnswer:1,explanation:`どちらも /ˈmʌsl/ で同音異義語です。`},{id:`q-muscle-4`,question:`空所に入る適切な語はどれですか。「He pulled a ( ) while running.（走っていて筋肉を痛めた）」`,options:[`mussel`,`muscle`,`mussels`,`muscled`],correctAnswer:1,explanation:`体の「筋肉（を痛める）」は muscle です。`},{id:`q-muscle-5`,question:`食用の二枚貝「ムール貝」を意味するのはどちらですか。`,options:[`muscle`,`mussel`,`どちらも`,`どちらも違う`],correctAnswer:1,explanation:`ムール貝は mussel。muscle は「筋肉」です。`}]},{id:`wander-wonder`,title:`wander と wonder`,chapter:1,description:`wander /ˈwɑːndər/「あてもなく歩き回る」、wonder /ˈwʌndər/「不思議に思う・〜かしらと思う」。母音が違い、意味も別。`,content:`## 1文字違いで、母音も意味も別
+
+**wander と wonder はスペルが a と o の1文字違い**ですが、発音する母音も意味も別です。
+
+- **wander** … /ˈwɑːndər/（英 /ˈwɒndə/）動詞「**あてもなく歩き回る・さまよう**」。話が「脱線する」意味でも使う。
+- **wonder** … /ˈwʌndər/ 動詞「**不思議に思う・〜だろうかと思う**」／名詞「**驚き・驚異**」。
+
+| 語 | 発音 | 中心の意味 | 自作の例文 |
+| --- | --- | --- | --- |
+| w**a**nder | /ˈwɑːndər/ | 歩き回る・さまよう | We **wandered** through the old town.（旧市街をぶらぶら歩いた） |
+| w**o**nder | /ˈwʌndər/ | 〜かしらと思う・驚異 | I **wonder** why she left early.（なぜ早く帰ったのだろう） |
+
+wonder は **wonder if / wonder why** のように節を続ける形が多く、\`I wonder if you could help me.\` は丁寧な依頼にもなります。
+
+🎯 覚え方：**a は歩く（wAnder＝walk）、o は思う（wOnder）**。足なら wander、頭なら wonder。`,keyPoints:[`wander＝あてもなく歩き回る・さまよう /ˈwɑːndər/`,`wonder＝不思議に思う・〜かしらと思う /ˈwʌndər/（名詞は驚異）`,`wonder if / wonder why のように節を続ける形が多い`],quiz:[{id:`q-wander-1`,question:`空所に入る適切な語はどれですか。「The child ( ) away from his parents in the store.（子どもは店で親から離れてさまよった）」`,options:[`wondered`,`wandered`,`wonders`,`wonder`],correctAnswer:1,explanation:`「さまよう・歩き回る」は wander です。`},{id:`q-wander-2`,question:`空所に入る適切な語はどれですか。「I ( ) if it will rain tomorrow.（明日は雨が降るだろうか）」`,options:[`wander`,`wonder`,`wandered`,`wandering`],correctAnswer:1,explanation:`「〜だろうかと思う」は wonder。wonder if の形です。`},{id:`q-wander-3`,question:`wander の発音として適切なものはどれですか。`,options:[`/ˈwʌndər/`,`/ˈwɑːndər/`,`/ˈweɪndər/`,`/ˈwaʊndər/`],correctAnswer:1,explanation:`wander は /ˈwɑːndər/（英 /ˈwɒndə/）。/ˈwʌndər/ は wonder です。`},{id:`q-wander-4`,question:`「世界の七不思議」のように「驚異」を表す名詞はどれですか。`,options:[`wander`,`wonder`,`wandering`,`wanderer`],correctAnswer:1,explanation:`the Seven Wonders of the World のように wonder が「驚異」です。`},{id:`q-wander-5`,question:`「話が脱線する」の意味でも使われるのはどちらですか。`,options:[`wonder`,`wander`,`どちらも`,`どちらも違う`],correctAnswer:1,explanation:`My mind wandered. のように wander が「（考え・話が）それる」を表します。`}]},{id:`expand-expend`,title:`expand と expend`,chapter:1,description:`expand「大きくする・拡大する」、expend「（金・時間・労力を）費やす」。名詞形は expansion と expenditure。`,content:`## a は「広がる」、e は「使い切る」
+
+**expand と expend は1文字違い**で、派生語をたどると区別しやすくなります。
+
+- **expand** … /ɪkˈspænd/「**拡大する・膨張する**」（自動詞・他動詞）。名詞 **expansion**、形容詞 expansive。
+- **expend** … /ɪkˈspend/「**（お金・時間・労力を）費やす**」（他動詞・やや硬い語）。名詞 **expenditure**、関連語 expense / expensive。
+
+| 語 | 発音 | 中心の意味 | 自作の例文 |
+| --- | --- | --- | --- |
+| exp**a**nd | /ɪkˈspænd/ | 拡大する・膨張する | The company plans to **expand** into Asia.（アジアへ事業を広げる計画だ） |
+| exp**e**nd | /ɪkˈspend/ | 費やす・消費する | They **expended** a lot of energy on the project.（多くの労力を注いだ） |
+
+日常会話では expend より **spend** が普通です。expend は報告書などの硬い文脈で使われます。
+
+🎯 覚え方：**expAnd は area（面積）が広がる、expEnd は expense（費用）を使う**。`,keyPoints:[`expand＝拡大する・膨張する（名詞 expansion）`,`expend＝金・時間・労力を費やす（名詞 expenditure）`,`日常では expend より spend が一般的`],quiz:[{id:`q-expand-1`,question:`空所に入る適切な語はどれですか。「Metal ( ) when it is heated.（金属は熱すると膨張する）」`,options:[`expends`,`expands`,`expended`,`expense`],correctAnswer:1,explanation:`「膨張する」は expand です。`},{id:`q-expand-2`,question:`expand の名詞形はどれですか。`,options:[`expenditure`,`expansion`,`expense`,`expandation`],correctAnswer:1,explanation:`expand の名詞は expansion。expenditure は expend の名詞です。`},{id:`q-expand-3`,question:`空所に入る適切な語はどれですか。「The city ( ) large sums on public transport.（市は公共交通に多額を費やした）」`,options:[`expanded`,`expended`,`expansive`,`expansion`],correctAnswer:1,explanation:`「（金額を）費やす」は expend です。`},{id:`q-expand-4`,question:`expend と意味が近い日常語はどれですか。`,options:[`expand`,`spend`,`extend`,`expect`],correctAnswer:1,explanation:`expend は硬い語で、日常では spend を使います。`},{id:`q-expand-5`,question:`「事業を海外へ拡大する」に使うのはどちらですか。`,options:[`expend`,`expand`,`どちらも`,`どちらも違う`],correctAnswer:1,explanation:`規模を広げるのは expand です。`}]},{id:`perspective-prospective`,title:`perspective と prospective`,chapter:1,description:`perspective は名詞「観点・見方・遠近法」、prospective は形容詞「見込みの・将来の」。品詞から違う。`,content:`## 名詞か形容詞かで切り分ける
+
+見た目は似ていますが、**perspective は名詞、prospective は形容詞**が基本です。
+
+- **perspective** … /pərˈspektɪv/ 名詞「**観点・見方**」「**遠近法**」。from a different perspective（別の観点から）。
+- **prospective** … /prəˈspektɪv/ 形容詞「**見込みのある・将来の**」。prospective buyer（購入見込み客）。名詞は prospect（見込み・展望）。
+
+| 語 | 品詞 | 中心の意味 | 自作の例文 |
+| --- | --- | --- | --- |
+| **per**spective | 名詞 | 観点・見方／遠近法 | Try to see it from her **perspective**.（彼女の視点で見てみて） |
+| **pro**spective | 形容詞 | 見込みの・将来の | We interviewed three **prospective** employees.（採用候補者3人と面接した） |
+
+⚠️ prospective を「見通し」という名詞で使うのは誤りです。名詞は **prospect**（The prospects are good.）。
+
+🎯 覚え方：**per は「〜を通して」見る＝視点（perspective）、pro は「前方へ」＝これから起きる（prospective）**。`,keyPoints:[`perspective＝名詞「観点・見方・遠近法」`,`prospective＝形容詞「見込みの・将来の」（名詞は prospect）`,`prospective を名詞として使わない`],quiz:[{id:`q-perspective-1`,question:`空所に入る適切な語はどれですか。「The book looks at history from an Asian ( ).（アジアの視点から歴史を見る本だ）」`,options:[`prospective`,`perspective`,`prospect`,`perspectively`],correctAnswer:1,explanation:`「視点・観点」は名詞 perspective です。`},{id:`q-perspective-2`,question:`空所に入る適切な語はどれですか。「She showed the house to a ( ) buyer.（購入見込み客に家を見せた）」`,options:[`perspective`,`prospective`,`perspectives`,`prospect`],correctAnswer:1,explanation:`「見込みの」は形容詞 prospective です。`},{id:`q-perspective-3`,question:`prospective の名詞形はどれですか。`,options:[`perspective`,`prospect`,`prospection`,`prospectively`],correctAnswer:1,explanation:`「見込み・展望」の名詞は prospect です。`},{id:`q-perspective-4`,question:`絵画の「遠近法」を意味するのはどちらですか。`,options:[`prospective`,`perspective`,`どちらも`,`どちらも違う`],correctAnswer:1,explanation:`遠近法は perspective です。`},{id:`q-perspective-5`,question:`品詞の組み合わせとして正しいものはどれですか。`,options:[`perspective＝形容詞／prospective＝名詞`,`perspective＝名詞／prospective＝形容詞`,`どちらも名詞`,`どちらも形容詞`],correctAnswer:1,explanation:`perspective が名詞、prospective が形容詞です。`}]},{id:`martial-marital`,title:`martial と marital`,chapter:1,description:`martial「軍事の・戦いの」（martial arts / martial law）、marital「結婚の・婚姻の」（marital status）。文字の並びが入れ替わっただけ。`,content:`## t と i の並びが入れ替わるだけの危険なペア
+
+**martial と marital は同じ文字を並べ替えただけ**で、打ち間違えても綴りチェックに引っかかりません。意味は大きく違います。
+
+- **martial** … /ˈmɑːrʃl/ 形容詞「**軍事の・戦いの**」。martial arts（武術）、martial law（戒厳令）。
+- **marital** … /ˈmærɪtl/ 形容詞「**結婚の・婚姻の**」。marital status（婚姻状況）。
+
+| 語 | 発音 | 中心の意味 | 自作の例文 |
+| --- | --- | --- | --- |
+| mar**ti**al | /ˈmɑːrʃl/ | 軍事の・戦いの | He has studied **martial** arts for ten years.（10年間武術を学んでいる） |
+| mar**it**al | /ˈmærɪtl/ | 結婚の・婚姻の | The form asks for your **marital** status.（用紙は婚姻状況を尋ねている） |
+
+⚠️ 申請書の項目を martial status と書くと「軍事状況」になってしまいます。
+
+🎯 覚え方：**marital には marry（結婚）が隠れている**。結婚なら marital、武術・戒厳令なら martial。`,keyPoints:[`martial＝軍事の・戦いの（martial arts / martial law）`,`marital＝結婚の・婚姻の（marital status）`,`marital は marry と同語源で覚える`],quiz:[{id:`q-martial-1`,question:`空所に入る適切な語はどれですか。「Please write your ( ) status on the form.（用紙に婚姻状況を記入してください）」`,options:[`martial`,`marital`,`martially`,`maritally`],correctAnswer:1,explanation:`「婚姻の」は marital です。`},{id:`q-martial-2`,question:`「武術」を表す語句はどれですか。`,options:[`marital arts`,`martial arts`,`marital law`,`maritally arts`],correctAnswer:1,explanation:`武術は martial arts です。`},{id:`q-martial-3`,question:`「戒厳令」を表す語句はどれですか。`,options:[`marital law`,`martial law`,`marital rule`,`martial status`],correctAnswer:1,explanation:`戒厳令は martial law です。`},{id:`q-martial-4`,question:`marital と同語源で覚えるとよい語はどれですか。`,options:[`march`,`marry`,`market`,`margin`],correctAnswer:1,explanation:`marital は marry（結婚する）と同じ系統の語です。`},{id:`q-martial-5`,question:`空所に入る適切な語はどれですか。「They went to counseling about their ( ) problems.（夫婦の問題で相談に行った）」`,options:[`martial`,`marital`,`martials`,`maritals`],correctAnswer:1,explanation:`夫婦・結婚生活に関することは marital です。`}]},{id:`look-see-watch`,title:`look と see と watch`,chapter:2,description:`「見る」の3語。look（at）は意識して視線を向ける、see は目に入る・見える、watch は動くものを継続して注視する。`,content:`## 「見る」は視線・知覚・継続の3種類
+
+日本語ではどれも「見る」ですが、英語は**視線を向ける／目に入る／動きを追う**で語を変えます。
+
+- **look (at)** … 自分の意志で**視線を向ける**。方向の動作なので前置詞 at が要る。
+- **see** … 意志と関係なく**目に入る・見える**。知覚動詞で進行形にしにくい。
+- **watch** … 動きや変化のあるものを**一定時間注視する**。
+
+| 語 | 焦点 | 目的語の前 | 自作の例文 |
+| --- | --- | --- | --- |
+| look | 視線を向ける動作 | at が必要 | **Look at** this photo.（この写真を見て） |
+| see | 見える・目に入る | 直接続く | I can **see** the tower from here.（ここから塔が見える） |
+| watch | 動くものを追う | 直接続く | We **watched** the game to the end.（試合を最後まで見た） |
+
+映画館の作品は see a movie、テレビ番組は watch TV が普通です（テレビは動きを追い続けるため）。
+
+🎯 覚え方：**look＝向ける、see＝入ってくる、watch＝追いかける**。静止画は look、風景は see、動画は watch。`,keyPoints:[`look (at)＝意識して視線を向ける（at が必要）`,`see＝目に入る・見える（意志と無関係）`,`watch＝動くものを一定時間注視する`],quiz:[{id:`q-look-1`,question:`空所に入る適切な語はどれですか。「( ) at the blackboard, please.（黒板を見てください）」`,options:[`See`,`Look`,`Watch`,`Seem`],correctAnswer:1,explanation:`視線を向ける動作は look at です。`},{id:`q-look-2`,question:`空所に入る適切な語はどれですか。「I can ( ) the sea from my window.（窓から海が見える）」`,options:[`look`,`see`,`watch`,`look at`],correctAnswer:1,explanation:`目に入って「見える」は see です。`},{id:`q-look-3`,question:`空所に入る適切な語はどれですか。「They ( ) the soccer match on TV last night.（昨夜テレビでサッカーの試合を見た）」`,options:[`looked`,`saw at`,`watched`,`looked`],correctAnswer:2,explanation:`動きを追い続ける観戦は watch です。`},{id:`q-look-4`,question:`look の後に目的語を置くとき、必要になる前置詞はどれですか。`,options:[`for のみ`,`at`,`to`,`不要`],correctAnswer:1,explanation:`「〜を見る」は look at 〜。look だけでは目的語を取れません。`},{id:`q-look-5`,question:`3語の使い分けとして正しい説明はどれですか。`,options:[`look＝見える／see＝注視する／watch＝視線を向ける`,`look＝視線を向ける／see＝目に入る／watch＝動くものを追う`,`3語とも同じで交換できる`,`watch は静止したものにだけ使う`],correctAnswer:1,explanation:`look は動作、see は知覚、watch は継続的な注視です。`}]},{id:`during-while`,title:`during と while`,chapter:2,description:`どちらも「〜の間」。during は前置詞で後ろに名詞、while は接続詞で後ろに「主語＋動詞」の節が来る。`,content:`## 後ろに名詞が来るか、文が来るか
+
+意味はどちらも「**〜の間に**」ですが、**後ろに置ける形が違います**。
+
+- **during** … **前置詞**。後ろは**名詞（句）**。during the meeting / during summer。
+- **while** … **接続詞**。後ろは**主語＋動詞の節**。while I was cooking。
+
+| 語 | 品詞 | 後ろに来る形 | 自作の例文 |
+| --- | --- | --- | --- |
+| during | 前置詞 | 名詞（句） | He fell asleep **during the film**.（映画の間に眠ってしまった） |
+| while | 接続詞 | 主語＋動詞 | He fell asleep **while he was watching** the film.（映画を見ている間に眠った） |
+
+⚠️ during I was young とは言えません。during my childhood か while I was young にします。
+
+💡 while には「一方で（対比）」の意味もあります（While she likes tea, he prefers coffee.）。
+
+🎯 覚え方：**during のあとは「物・時期」、while のあとは「文」**。`,keyPoints:[`during＝前置詞。後ろは名詞（during the trip）`,`while＝接続詞。後ろは主語＋動詞（while I was traveling）`,`while には「一方で」という対比の用法もある`],quiz:[{id:`q-during-1`,question:`空所に入る適切な語はどれですか。「I read three books ( ) the holidays.（休暇中に3冊読んだ）」`,options:[`while`,`during`,`while of`,`during that`],correctAnswer:1,explanation:`後ろが名詞句 the holidays なので during です。`},{id:`q-during-2`,question:`空所に入る適切な語はどれですか。「The phone rang ( ) I was taking a shower.（シャワーを浴びている間に電話が鳴った）」`,options:[`during`,`while`,`during when`,`while of`],correctAnswer:1,explanation:`後ろが主語＋動詞の節なので while です。`},{id:`q-during-3`,question:`during の品詞はどれですか。`,options:[`接続詞`,`前置詞`,`副詞`,`関係代名詞`],correctAnswer:1,explanation:`during は前置詞で、後ろに名詞を取ります。`},{id:`q-during-4`,question:`誤りを含む文はどれですか。`,options:[`during my stay in Kyoto`,`during I stayed in Kyoto`,`while I stayed in Kyoto`,`during the concert`],correctAnswer:1,explanation:`during の後ろに節は置けません。while I stayed in Kyoto が正しい形です。`},{id:`q-during-5`,question:`「一方で・〜だが」という対比の意味でも使えるのはどちらですか。`,options:[`during`,`while`,`どちらも`,`どちらも違う`],correctAnswer:1,explanation:`While some agree, others do not. のように while は対比も表します。`}]},{id:`almost-most`,title:`almost と most`,chapter:2,description:`almost は副詞「ほとんど・もう少しで」で名詞を直接修飾しない。「ほとんどの〜」は most 〜 か almost all 〜。`,content:`## almost は名詞を直接修飾できない
+
+日本語の「ほとんどの学生」に引かれて **almost students** と書く誤りが定番です。
+
+- **almost** … **副詞**「もう少しで・ほとんど」。動詞・形容詞・all/every/always などを修飾する。
+- **most** … 形容詞・代名詞「**大部分の・大多数**」。名詞を直接修飾できる。
+
+| 表現 | 可否 | 意味 |
+| --- | --- | --- |
+| **most** students | ○ | ほとんどの学生 |
+| **almost all** students | ○ | ほとんどすべての学生 |
+| almost students | ✕ | 副詞 almost は名詞を直接修飾できない |
+| I **almost** missed the train. | ○ | もう少しで乗り遅れるところだった |
+
+💡 most of the students のように of を使うときは the などの限定語が必要です（most of students は不可）。
+
+🎯 覚え方：**almost の後ろには all / every / always を置く**。名詞だけなら most。`,keyPoints:[`almost＝副詞。名詞を直接修飾しない`,`「ほとんどの〜」は most 〜 または almost all 〜`,`most of 〜 の of の後ろには the/my などの限定語が要る`],quiz:[{id:`q-almost-1`,question:`「ほとんどの生徒が試験に合格した」として正しい文はどれですか。`,options:[`Almost students passed the exam.`,`Most students passed the exam.`,`Almost of students passed the exam.`,`Most of students passed the exam.`],correctAnswer:1,explanation:`名詞を直接修飾できるのは most です。`},{id:`q-almost-2`,question:`almost を使って「ほとんどすべての客」を表すのはどれですか。`,options:[`almost customers`,`almost all customers`,`almost of customers`,`almost the customers`],correctAnswer:1,explanation:`almost は all を修飾して almost all 〜 の形にします。`},{id:`q-almost-3`,question:`almost の品詞はどれですか。`,options:[`形容詞`,`副詞`,`名詞`,`前置詞`],correctAnswer:1,explanation:`almost は副詞です。`},{id:`q-almost-4`,question:`空所に入る適切な語はどれですか。「I ( ) forgot your birthday.（もう少しで誕生日を忘れるところだった）」`,options:[`most`,`almost`,`almost of`,`the most`],correctAnswer:1,explanation:`動詞を修飾して「もう少しで」は almost です。`},{id:`q-almost-5`,question:`正しい形はどれですか。`,options:[`most of students`,`most of the students`,`almost of the students`,`most of student`],correctAnswer:1,explanation:`most of の後ろには the などの限定語つき名詞が必要です。`}]},{id:`client-customer`,title:`client と customer`,chapter:2,description:`customer は商品やサービスを買う客、client は専門的サービスを継続的に受ける依頼人。日本語ではどちらも「顧客」。`,content:`## 買う人か、依頼する人か
+
+どちらも「顧客」ですが、**関係の性質**が違います。
+
+- **customer** … 店や企業から**商品・サービスを買う客**。小売・飲食・オンライン販売など。
+- **client** … 弁護士・会計士・広告代理店・コンサルタントなど、**専門的な助言やサービスを依頼する人**。契約に基づく継続的な関係が前提になりやすい。
+
+| 語 | 典型的な相手 | 関係 | 自作の例文 |
+| --- | --- | --- | --- |
+| customer | 店・メーカー・ネット通販 | 単発の売買が中心 | The shop has many regular **customers**.（常連客が多い） |
+| client | 法律事務所・会計事務所・代理店 | 契約に基づく継続的な依頼 | Our agency lost its biggest **client**.（最大の取引先を失った） |
+
+💡 病院なら patient、ホテルや招待客なら guest、公共交通なら passenger と、業種ごとの語もあります。
+
+🎯 覚え方：**レジで払うなら customer、契約して任せるなら client**。`,keyPoints:[`customer＝商品・サービスを買う客（小売や飲食）`,`client＝専門的サービスを依頼する人（法律・会計・広告など）`,`病院は patient、ホテルは guest など業種別の語もある`],quiz:[{id:`q-client-1`,question:`空所に入る適切な語はどれですか。「The café has many regular ( ).（そのカフェには常連客が多い）」`,options:[`clients`,`customers`,`patients`,`guests`],correctAnswer:1,explanation:`店で買う客は customer です。`},{id:`q-client-2`,question:`空所に入る適切な語はどれですか。「The lawyer met her ( ) before the trial.（弁護士は裁判前に依頼人と会った）」`,options:[`customer`,`client`,`buyer`,`shopper`],correctAnswer:1,explanation:`弁護士に依頼する人は client です。`},{id:`q-client-3`,question:`広告代理店が取引する企業を指すのに適した語はどれですか。`,options:[`customer`,`client`,`passenger`,`guest`],correctAnswer:1,explanation:`専門サービスの契約相手は client です。`},{id:`q-client-4`,question:`病院で治療を受ける人を指す語はどれですか。`,options:[`client`,`patient`,`customer`,`guest`],correctAnswer:1,explanation:`医療機関では patient を使います。`},{id:`q-client-5`,question:`customer と client の違いの説明として適切なものはどれですか。`,options:[`customer は専門サービスの依頼人、client は買い物客`,`customer は商品を買う客、client は専門サービスを依頼する人`,`両者は完全に同義`,`client は無料の利用者だけを指す`],correctAnswer:1,explanation:`買う人が customer、専門的な依頼をする人が client です。`}]},{id:`confusing-confused`,title:`confusing と confused`,chapter:3,description:`感情動詞の -ing 形と -ed 形。confusing は「（物事が）混乱させる」、confused は「（人が）混乱している」。`,content:`## -ing は原因、-ed は受け手の状態
+
+confuse（混乱させる）のような**感情動詞**は、分詞の形で意味が変わります。
+
+- **confusing** … 現在分詞から来た形容詞。**混乱させる側**（説明・状況・指示など）を修飾。
+- **confused** … 過去分詞から来た形容詞。**混乱させられた側**（人）を修飾。
+
+| 語 | 修飾する対象 | 自作の例文 |
+| --- | --- | --- |
+| confus**ing** | 物・事（原因） | The instructions are **confusing**.（説明書が分かりにくい） |
+| confus**ed** | 人（受け手） | I am **confused** by the instructions.（説明書で混乱している） |
+
+同じ型の語がまとまって覚えられます。
+
+| 原因（-ing） | 受け手（-ed） |
+| --- | --- |
+| interesting | interested |
+| boring | bored |
+| surprising | surprised |
+| tiring | tired |
+
+⚠️ I am boring. は「私は退屈な人だ」という意味になります。「退屈している」は I am bored.
+
+🎯 覚え方：**-ing は「させる」、-ed は「された」**。人が主語なら基本は -ed。`,keyPoints:[`-ing 形＝感情を引き起こす原因（物・事）を表す`,`-ed 形＝感情を受けた人の状態を表す`,`interesting/interested、boring/bored も同じ型`],quiz:[{id:`q-confusing-1`,question:`空所に入る適切な語はどれですか。「The map was so ( ) that we got lost.（地図が分かりにくくて道に迷った）」`,options:[`confused`,`confusing`,`confuse`,`confusion`],correctAnswer:1,explanation:`混乱させる側（物）なので confusing です。`},{id:`q-confusing-2`,question:`空所に入る適切な語はどれですか。「She looked ( ) when I explained the rule.（規則を説明すると彼女は困惑した様子だった）」`,options:[`confusing`,`confused`,`confuse`,`confuses`],correctAnswer:1,explanation:`混乱している人の状態なので confused です。`},{id:`q-confusing-3`,question:`「私は退屈している」として正しい文はどれですか。`,options:[`I am boring.`,`I am bored.`,`I am bore.`,`I am boredom.`],correctAnswer:1,explanation:`人の状態は -ed。I am boring. は「私は退屈な人だ」の意味です。`},{id:`q-confusing-4`,question:`「その知らせは驚くべきものだった」に合う語はどれですか。`,options:[`surprised`,`surprising`,`surprise`,`surprisingly`],correctAnswer:1,explanation:`知らせは原因側なので surprising です。`},{id:`q-confusing-5`,question:`-ing 形と -ed 形の説明として正しいものはどれですか。`,options:[`-ing は人の状態、-ed は原因`,`-ing は感情を引き起こす原因、-ed は感情を受けた人の状態`,`どちらも人にだけ使う`,`どちらも物にだけ使う`],correctAnswer:1,explanation:`-ing が原因側、-ed が受け手側です。`}]},{id:`comparable-comparative`,title:`comparable と comparative`,chapter:3,description:`comparable「比較できる・同等の」、comparative「比較による・相対的な」（文法では比較級）。compare の派生2語。`,content:`## 「同等だ」と「比較して見る」
+
+どちらも compare から派生しますが、伝える内容が違います。
+
+- **comparable** … 「**比較できるほど似ている・同等の**」。品質や規模が近いことを言う。
+- **comparative** … 「**比較による・相対的な**」。comparative study（比較研究）、comparative literature（比較文学）。文法では**比較級**（the comparative form）。
+
+| 語 | 中心の意味 | 自作の例文 |
+| --- | --- | --- |
+| compar**able** | 同等の・比較しうる | The two phones are **comparable** in price.（2機種は価格が同程度だ） |
+| compar**ative** | 比較の・相対的な | She wrote a **comparative** study of two cities.（2都市の比較研究を書いた） |
+
+💡 comparatively は「比較的・わりに」という副詞（comparatively cheap＝わりと安い）。
+
+⚠️ comparable のアクセントは一般に第1音節（/ˈkɑːmpərəbl/）で、compare（/kəmˈper/）と位置が違います。
+
+🎯 覚え方：**-able は「同じくらいと言える」、-ative は「並べて調べる」**。`,keyPoints:[`comparable＝同等の・比較しうる（品質や規模が近い）`,`comparative＝比較による・相対的な（比較研究／文法の比較級）`,`comparatively＝比較的・わりに（副詞）`],quiz:[{id:`q-comparable-1`,question:`空所に入る適切な語はどれですか。「The two hotels offer ( ) service.（2つのホテルは同程度のサービスだ）」`,options:[`comparative`,`comparable`,`compared`,`comparatively`],correctAnswer:1,explanation:`「同等の」は comparable です。`},{id:`q-comparable-2`,question:`「比較文学」を表す語句はどれですか。`,options:[`comparable literature`,`comparative literature`,`compared literature`,`comparison literature`],correctAnswer:1,explanation:`学問分野としての比較文学は comparative literature です。`},{id:`q-comparable-3`,question:`文法用語の「比較級」を表す語はどれですか。`,options:[`comparable`,`comparative`,`comparably`,`comparison`],correctAnswer:1,explanation:`the comparative（form）が比較級です。`},{id:`q-comparable-4`,question:`空所に入る適切な語はどれですか。「Rents here are ( ) low.（この辺りの家賃はわりに安い）」`,options:[`comparably`,`comparatively`,`comparable`,`comparative`],correctAnswer:1,explanation:`「比較的・わりに」は副詞 comparatively です。`},{id:`q-comparable-5`,question:`comparable の説明として正しいものはどれですか。`,options:[`比較研究を指す名詞`,`比較できるほど似ている・同等だという意味の形容詞`,`比較級をつくる副詞`,`compare の過去形`],correctAnswer:1,explanation:`comparable は「同等の・比較しうる」という形容詞です。`}]},{id:`complementary-complimentary`,title:`complementary と complimentary`,chapter:3,description:`complementary「補い合う・補完的な」、complimentary「賛辞の／無料の」。e と i の1文字で意味が変わる。`,content:`## 補うのは e、ほめる・おごるのは i
+
+名詞の complement / compliment と同じ対立が、形容詞にもそのまま続きます。
+
+- **complementary** … /ˌkɑːmplɪˈmentəri/「**補い合う・補完的な**」。complementary colors（補色）。
+- **complimentary** … /ˌkɑːmplɪˈmentəri/「**賛辞の・ほめる**」／「**無料で提供される**」。complimentary breakfast（無料の朝食）。
+
+| 語 | 中心の意味 | 自作の例文 |
+| --- | --- | --- |
+| compl**e**mentary | 補い合う | Their skills are **complementary**.（2人の技能は補い合っている） |
+| compl**i**mentary | 賛辞の／無料の | The hotel offers a **complimentary** shuttle.（無料送迎がある） |
+
+💡 「無料の」意味は「ほめる」から離れて見えますが、「（好意で）進呈する」という感覚から来る用法として定着しています。ホテルや航空会社の案内で頻出します。
+
+🎯 覚え方：**complEment は complEte（完全にする）＝補う、complIment は「I ほめる」**。`,keyPoints:[`complementary＝補い合う・補完的な（complete と同系）`,`complimentary＝賛辞の、および「無料の」`,`complementary colors＝補色／complimentary breakfast＝無料の朝食`],quiz:[{id:`q-complementary-1`,question:`空所に入る適切な語はどれですか。「Guests receive a ( ) drink on arrival.（到着時に無料のドリンクが出る）」`,options:[`complementary`,`complimentary`,`complement`,`completing`],correctAnswer:1,explanation:`「無料の」は complimentary です。`},{id:`q-complementary-2`,question:`「補色」を表す語句はどれですか。`,options:[`complimentary colors`,`complementary colors`,`compliment colors`,`completed colors`],correctAnswer:1,explanation:`補色は complementary colors です。`},{id:`q-complementary-3`,question:`空所に入る適切な語はどれですか。「Her remarks about my work were very ( ).（私の作品への発言はとても好意的だった）」`,options:[`complementary`,`complimentary`,`complement`,`completely`],correctAnswer:1,explanation:`「賛辞の・ほめる」は complimentary です。`},{id:`q-complementary-4`,question:`complementary と同じ語源で覚えるとよい語はどれですか。`,options:[`complain`,`complete`,`comply`,`compile`],correctAnswer:1,explanation:`complement は complete（完全にする）と同系で「補う」意味です。`},{id:`q-complementary-5`,question:`「2つの役割が互いを補っている」に使うのはどちらですか。`,options:[`complimentary`,`complementary`,`どちらも`,`どちらも違う`],correctAnswer:1,explanation:`補い合う関係は complementary です。`}]},{id:`stair-stare`,title:`stair と stare`,chapter:4,description:`同音 /ster/。stair は名詞「階段の1段・（複数で）階段」、stare は動詞「じっと見つめる」。`,content:`## 音は同じ、階段か視線か
+
+**stair と stare は同じ発音 /ster/（英 /steə/）**の同音異義語です。
+
+- **stair** … 名詞「**階段の1段**」。ふつう複数形 **stairs**（階段）で使う。staircase（階段一式）。
+- **stare** … 動詞「**じっと見つめる**」。stare at 〜 の形。名詞で「凝視」。
+
+| 語 | 品詞 | 中心の意味 | 自作の例文 |
+| --- | --- | --- | --- |
+| st**ai**r | 名詞 | 階段（の1段） | She ran up the **stairs**.（階段を駆け上がった） |
+| st**a**re | 動詞 | じっと見つめる | Don't **stare at** strangers.（知らない人をじろじろ見ないで） |
+
+💡 stare は「不作法にじろじろ見る」含みが出やすい語です。単に視線を向けるなら look at を使います。
+
+🎯 覚え方：**air（空気）を上って行くのが stair、are（〜である）と目を合わせるのが stare**。`,keyPoints:[`stair と stare は同音 /ster/`,`stair＝階段（ふつう複数形 stairs）`,`stare＝じっと見つめる（stare at 〜）`],quiz:[{id:`q-stair-1`,question:`空所に入る適切な語はどれですか。「He waited at the bottom of the ( ).（彼は階段の下で待っていた）」`,options:[`stares`,`stairs`,`stare`,`staring`],correctAnswer:1,explanation:`階段は stairs です。`},{id:`q-stair-2`,question:`空所に入る適切な語はどれですか。「The boy ( ) at the huge cake.（少年は巨大なケーキをじっと見つめた）」`,options:[`staired`,`stared`,`stairs`,`stair`],correctAnswer:1,explanation:`「じっと見つめる」は stare（過去形 stared）です。`},{id:`q-stair-3`,question:`stair と stare の発音の関係はどれですか。`,options:[`母音が違う`,`同じ発音（同音異義語）`,`子音が違う`,`アクセントが違う`],correctAnswer:1,explanation:`どちらも /ster/（英 /steə/）で同音異義語です。`},{id:`q-stair-4`,question:`stare の後ろに置く前置詞として自然なものはどれですか。`,options:[`on`,`at`,`to`,`of`],correctAnswer:1,explanation:`stare at 〜 で「〜をじっと見つめる」です。`},{id:`q-stair-5`,question:`「階段一式」を表す語はどれですか。`,options:[`starecase`,`staircase`,`stairing`,`staringcase`],correctAnswer:1,explanation:`建物の階段は staircase と言います。`}]},{id:`idle-idol`,title:`idle と idol`,chapter:4,description:`同音 /ˈaɪdl/。idle は形容詞「働いていない・遊んでいる」、idol は名詞「偶像・崇拝の対象」。`,content:`## 音は同じ、状態か対象か
+
+**idle と idol は同じ発音 /ˈaɪdl/**の同音異義語です。
+
+- **idle** … 形容詞「**何もしていない・稼働していない・怠惰な**」。動詞ではエンジンが「アイドリングする」。
+- **idol** … 名詞「**偶像・崇拝の対象**」。日本語の「アイドル（芸能人）」もこの語から。
+
+| 語 | 品詞 | 中心の意味 | 自作の例文 |
+| --- | --- | --- | --- |
+| id**le** | 形容詞・動詞 | 稼働していない・怠惰な | The machines stood **idle** all week.（機械は一週間止まっていた） |
+| id**ol** | 名詞 | 偶像・崇拝の対象 | The player was an **idol** to young fans.（その選手は若いファンの憧れだった） |
+
+💡 idle には「根拠のない」という用法もあります（idle rumors＝根も葉もないうわさ）。
+
+🎯 覚え方：**-le は動きが「止まっている」idle、-ol は人が「拝む」idol**。`,keyPoints:[`idle と idol は同音 /ˈaɪdl/`,`idle＝稼働していない・怠惰な（動詞ではアイドリング）`,`idol＝偶像・崇拝の対象`],quiz:[{id:`q-idle-1`,question:`空所に入る適切な語はどれですか。「The factory has been ( ) since the order was canceled.（受注取り消し以来、工場は動いていない）」`,options:[`idol`,`idle`,`idols`,`idly`],correctAnswer:1,explanation:`「稼働していない」は idle です。`},{id:`q-idle-2`,question:`「偶像・崇拝の対象」を意味する名詞はどれですか。`,options:[`idle`,`idol`,`idled`,`idly`],correctAnswer:1,explanation:`偶像は idol です。`},{id:`q-idle-3`,question:`idle と idol の発音の関係はどれですか。`,options:[`母音が違う`,`同じ発音（同音異義語）`,`子音が違う`,`アクセントが違う`],correctAnswer:1,explanation:`どちらも /ˈaɪdl/ で同音異義語です。`},{id:`q-idle-4`,question:`「根も葉もないうわさ」に合う語句はどれですか。`,options:[`idol rumors`,`idle rumors`,`idly rumors`,`idols rumor`],correctAnswer:1,explanation:`idle には「根拠のない」という用法があり、idle rumors と言います。`},{id:`q-idle-5`,question:`車のエンジンが停車中に回っている状態を表すのはどちらの語からできた表現ですか。`,options:[`idol`,`idle`,`どちらも`,`どちらも違う`],correctAnswer:1,explanation:`アイドリング（idling）は動詞 idle から来ています。`}]},{id:`lessen-lesson`,title:`lessen と lesson`,chapter:4,description:`同音 /ˈlesn/。lessen は動詞「減らす・和らげる」、lesson は名詞「授業・教訓」。`,content:`## 音は同じ、動詞か名詞か
+
+**lessen と lesson は同じ発音 /ˈlesn/**の同音異義語です。品詞が違うので、文中の位置で見分けられます。
+
+- **lessen** … 動詞「**減らす・弱める／減る**」。less（より少ない）＋-en（〜にする）。
+- **lesson** … 名詞「**授業・けいこ**」「**教訓**」。
+
+| 語 | 品詞 | 中心の意味 | 自作の例文 |
+| --- | --- | --- | --- |
+| less**en** | 動詞 | 減らす・和らげる | The medicine **lessened** the pain.（薬が痛みを和らげた） |
+| less**on** | 名詞 | 授業・教訓 | I have a piano **lesson** on Fridays.（金曜はピアノのレッスンがある） |
+
+💡 learn a lesson は「教訓を得る」。teach someone a lesson は「思い知らせる」という意味でも使われます。
+
+🎯 覚え方：**-en がつけば動詞（less＋en＝少なくする）、-on なら名詞のレッスン**。`,keyPoints:[`lessen と lesson は同音 /ˈlesn/`,`lessen＝動詞「減らす・和らげる」（less＋-en）`,`lesson＝名詞「授業・教訓」`],quiz:[{id:`q-lessen-1`,question:`空所に入る適切な語はどれですか。「Exercise can ( ) the risk of illness.（運動は病気のリスクを減らしうる）」`,options:[`lesson`,`lessen`,`lessons`,`lessoned`],correctAnswer:1,explanation:`「減らす」は動詞 lessen です。`},{id:`q-lessen-2`,question:`空所に入る適切な語はどれですか。「She takes a violin ( ) every Saturday.（毎週土曜にバイオリンのレッスンを受ける）」`,options:[`lessen`,`lesson`,`lessens`,`lessened`],correctAnswer:1,explanation:`授業・けいこは名詞 lesson です。`},{id:`q-lessen-3`,question:`lessen の成り立ちとして正しいものはどれですか。`,options:[`less＋-on`,`less＋-en（〜にする）`,`lesson＋-en`,`lease＋-en`],correctAnswer:1,explanation:`形容詞 less に動詞をつくる -en がついた形です。`},{id:`q-lessen-4`,question:`「教訓を学ぶ」を表す表現はどれですか。`,options:[`learn a lessen`,`learn a lesson`,`lessen a learn`,`lesson to learn less`],correctAnswer:1,explanation:`learn a lesson で「教訓を得る」です。`},{id:`q-lessen-5`,question:`lessen と lesson の品詞の組み合わせとして正しいものはどれですか。`,options:[`lessen＝名詞／lesson＝動詞`,`lessen＝動詞／lesson＝名詞`,`どちらも動詞`,`どちらも名詞`],correctAnswer:1,explanation:`lessen が動詞、lesson が名詞です。`}]},{id:`seam-seem`,title:`seam と seem`,chapter:4,description:`同音 /siːm/。seam は名詞「縫い目・継ぎ目」、seem は動詞「〜のように思える」。`,content:`## 音は同じ、布の目か印象か
+
+**seam と seem は同じ発音 /siːm/**の同音異義語です。
+
+- **seam** … 名詞「**縫い目・継ぎ目**」。布・金属・地層（炭層）にも使う。
+- **seem** … 動詞「**〜のように思える・見える**」。seem to do / seem＋形容詞。
+
+| 語 | 品詞 | 中心の意味 | 自作の例文 |
+| --- | --- | --- | --- |
+| s**ea**m | 名詞 | 縫い目・継ぎ目 | The **seam** of my bag came apart.（かばんの縫い目がほどけた） |
+| s**ee**m | 動詞 | 〜のように思える | You **seem** tired today.（今日は疲れているみたいだね） |
+
+💡 seem は主観的な印象を述べる語で、断定を避けたいときに便利です（It seems that 〜／He seems to know her.）。
+
+🎯 覚え方：**sew（縫う）と同じ「ea」が seam、see（見える）と同じ「ee」が seem**。`,keyPoints:[`seam と seem は同音 /siːm/`,`seam＝名詞「縫い目・継ぎ目」`,`seem＝動詞「〜のように思える」（seem to do / It seems that 〜）`],quiz:[{id:`q-seam-1`,question:`空所に入る適切な語はどれですか。「The ( ) of these jeans is double-stitched.（このジーンズの縫い目は二重に縫ってある）」`,options:[`seem`,`seam`,`seems`,`seeming`],correctAnswer:1,explanation:`縫い目は seam です。`},{id:`q-seam-2`,question:`空所に入る適切な語はどれですか。「They ( ) to be enjoying the party.（彼らはパーティーを楽しんでいるようだ）」`,options:[`seam`,`seem`,`seams`,`seamed`],correctAnswer:1,explanation:`「〜のようだ」は seem to do です。`},{id:`q-seam-3`,question:`seam と seem の発音の関係はどれですか。`,options:[`母音が違う`,`同じ発音（同音異義語）`,`子音が違う`,`アクセントが違う`],correctAnswer:1,explanation:`どちらも /siːm/ で同音異義語です。`},{id:`q-seam-4`,question:`seem の使い方として正しい文はどれですか。`,options:[`It seams that he is busy.`,`It seems that he is busy.`,`He seams tired.`,`It seem that he is busy.`],correctAnswer:1,explanation:`It seems that 〜 が正しい形です。`},{id:`q-seam-5`,question:`seam の品詞と意味の組み合わせとして正しいものはどれですか。`,options:[`動詞「思える」`,`名詞「縫い目・継ぎ目」`,`形容詞「継ぎ目のない」`,`副詞「見たところ」`],correctAnswer:1,explanation:`seam は名詞で「縫い目・継ぎ目」です。`}]}],c={1:`スペルが似ている語`,2:`意味が近く使い分けが難しい語`,3:`品詞・派生でまぎらわしい語`,4:`発音が似ている語`},l={audience:`大学受験・TOEIC・英検の学習者、英語を学び直す社会人`,approach:`一対一の和訳暗記ではなく、意味の核と使い分けを比較表とミニ問題で身につける`};function u(e){let t=[],n=0,r,i=/\[([^\]]+)\]\(([^)]+)\)|\*\*([^*]+)\*\*|`([^`]+)`/g;for(;(r=i.exec(e))!==null;)r.index>n&&t.push({t:`text`,v:e.slice(n,r.index)}),r[1]!==void 0&&r[2]!==void 0?t.push({t:`link`,label:r[1],url:r[2]}):r[3]===void 0?r[4]!==void 0&&t.push({t:`code`,v:r[4]}):t.push({t:`bold`,children:u(r[3])}),n=r.index+r[0].length;return n<e.length&&t.push({t:`text`,v:e.slice(n)}),t}var d=i();function f({questions:e}){let[t,n]=(0,a.useState)(0),[r,i]=(0,a.useState)(null),[o,s]=(0,a.useState)(!1),[c,l]=(0,a.useState)(0),[u,f]=(0,a.useState)(!1),p=e[t],m=t===e.length-1,h=e=>{o||(i(e),s(!0),e===p.correctAnswer&&l(e=>e+1))},g=()=>{if(m){f(!0);return}n(e=>e+1),i(null),s(!1)},_=()=>{n(0),i(null),s(!1),l(0),f(!1)};if(u){let t=Math.round(c/e.length*100),n=t>=80?`よくできました。この区別はばっちりです。`:t>=50?`あと少し。間違えた問題の解説を読み返しましょう。`:`もう一度、上の比較表と例文を見てから挑戦しましょう。`;return(0,d.jsxs)(`div`,{className:`quiz quiz-result`,children:[(0,d.jsxs)(`p`,{className:`quiz-score`,children:[e.length,`問中 `,(0,d.jsx)(`strong`,{children:c}),`問正解（`,t,`%）`]}),(0,d.jsx)(`p`,{className:`quiz-msg`,children:n}),(0,d.jsx)(`button`,{className:`btn`,onClick:_,children:`もう一度`})]})}return(0,d.jsxs)(`div`,{className:`quiz`,children:[(0,d.jsx)(`div`,{className:`quiz-head`,children:(0,d.jsxs)(`span`,{className:`quiz-count`,children:[`第 `,t+1,` / `,e.length,` 問`]})}),(0,d.jsx)(`p`,{className:`quiz-q`,children:p.question}),(0,d.jsx)(`ul`,{className:`quiz-options`,children:p.options.map((e,t)=>{let n=`quiz-option`;return o&&(t===p.correctAnswer?n+=` is-correct`:t===r&&(n+=` is-wrong`)),(0,d.jsx)(`li`,{children:(0,d.jsxs)(`button`,{className:n,onClick:()=>h(t),disabled:o,children:[(0,d.jsx)(`span`,{className:`quiz-mark`,"aria-hidden":`true`,children:o&&t===p.correctAnswer?`○`:o&&t===r?`×`:``}),(0,d.jsx)(`span`,{children:e})]})},t)})}),o&&(0,d.jsxs)(`div`,{className:`quiz-explain`,children:[(0,d.jsx)(`p`,{className:r===p.correctAnswer?`quiz-verdict ok`:`quiz-verdict ng`,children:r===p.correctAnswer?`正解`:`不正解`}),(0,d.jsx)(`p`,{children:p.explanation}),(0,d.jsx)(`button`,{className:`btn`,onClick:g,children:m?`結果を見る`:`次の問題へ`})]})]})}var p=`/eng-confusables`;function m(e){let t=e;if(t.startsWith(p)&&(t=t.slice(16)),t=t.replace(/^\/+|\/+$/g,``),t===``)return{view:`home`};if(t===`about`)return{view:`about`};if(t===`privacy`)return{view:`privacy`};let n=s.find(e=>e.id===t);return n?{view:`pair`,id:n.id}:{view:`home`}}function h(e){switch(e.view){case`home`:return`${p}/`;case`pair`:return`${p}/${e.id}/`;default:return`${p}/${e.view}/`}}function g(e,t){return e.map((e,n)=>{let r=`${t}-${n}`;switch(e.t){case`text`:return(0,d.jsx)(`span`,{children:e.v},r);case`bold`:return(0,d.jsx)(`strong`,{children:g(e.children,r)},r);case`code`:return(0,d.jsx)(`code`,{children:e.v},r);case`link`:return/^https?:\/\//.test(e.url)?(0,d.jsx)(`a`,{href:e.url,target:`_blank`,rel:`noopener noreferrer`,children:e.label},r):(0,d.jsx)(`a`,{href:e.url,children:e.label},r)}})}var _=(e,t)=>g(u(e),t),v={"💡":{label:`コツ`,cls:`callout-tip`},"🎯":{label:`試験ポイント`,cls:`callout-exam`},"⚠️":{label:`注意`,cls:`callout-warn`},"📖":{label:`発展`,cls:`callout-read`}};function y(e){let t=e.split(`
 `),n=[],r=0,i=0;for(;r<t.length;){let e=t[r].trim();if(e===``){r++;continue}if(/^---+$/.test(e)){n.push((0,d.jsx)(`hr`,{},i++)),r++;continue}if(e.startsWith(`### `)){n.push((0,d.jsx)(`h3`,{children:_(e.slice(4),`h${i}`)},i++)),r++;continue}if(e.startsWith(`## `)){n.push((0,d.jsx)(`h2`,{children:_(e.slice(3),`h${i}`)},i++)),r++;continue}let a=Object.keys(v).find(t=>e.startsWith(t));if(a){let{label:t,cls:o}=v[a];n.push((0,d.jsxs)(`div`,{className:`callout ${o}`,children:[(0,d.jsx)(`span`,{className:`callout-label`,children:t}),(0,d.jsx)(`p`,{children:_(e.slice(a.length).trim(),`c${i}`)})]},i++)),r++;continue}if(e.startsWith(`|`)){let e=[];for(;r<t.length&&t[r].trim().startsWith(`|`);)e.push(t[r].trim()),r++;let a=e.map(e=>e.replace(/^\||\|$/g,``).split(`|`).map(e=>e.trim())).filter(e=>!e.every(e=>/^:?-+:?$/.test(e)||e===``));if(a.length){let[e,...t]=a;n.push((0,d.jsx)(`div`,{className:`table-wrap`,children:(0,d.jsxs)(`table`,{children:[(0,d.jsx)(`thead`,{children:(0,d.jsx)(`tr`,{children:e.map((e,t)=>(0,d.jsx)(`th`,{children:_(e,`th${i}-${t}`)},t))})}),(0,d.jsx)(`tbody`,{children:t.map((e,t)=>(0,d.jsx)(`tr`,{children:e.map((e,n)=>(0,d.jsx)(`td`,{children:_(e,`td${i}-${t}-${n}`)},n))},t))})]})},i++))}continue}if(/^\d+\.\s/.test(e)){let e=[];for(;r<t.length&&/^\d+\.\s/.test(t[r].trim());)e.push(t[r].trim().replace(/^\d+\.\s/,``)),r++;n.push((0,d.jsx)(`ol`,{children:e.map((e,t)=>(0,d.jsx)(`li`,{children:_(e,`ol${i}-${t}`)},t))},i++));continue}if(/^[-*]\s/.test(e)){let e=[];for(;r<t.length&&/^[-*]\s/.test(t[r].trim());)e.push(t[r].trim().replace(/^[-*]\s/,``)),r++;n.push((0,d.jsx)(`ul`,{children:e.map((e,t)=>(0,d.jsx)(`li`,{children:_(e,`ul${i}-${t}`)},t))},i++));continue}n.push((0,d.jsx)(`p`,{children:_(e,`p${i}`)},i++)),r++}return n}var b=e=>`${e.id} ${e.title} ${e.description}`.toLowerCase();function x(){let[e,t]=(0,a.useState)(()=>m(window.location.pathname)),[n,r]=(0,a.useState)(!1),i=(0,a.useCallback)(e=>{window.history.pushState({},``,h(e)),t(e),r(!1),window.scrollTo(0,0)},[]);return(0,a.useEffect)(()=>{let e=()=>t(m(window.location.pathname));return window.addEventListener(`popstate`,e),()=>window.removeEventListener(`popstate`,e)},[]),(0,d.jsxs)(`div`,{className:`app`,children:[(0,d.jsx)(S,{route:e,navigate:i,menuOpen:n,setMenuOpen:r}),(0,d.jsxs)(`main`,{className:`main`,children:[e.view===`home`&&(0,d.jsx)(C,{navigate:i}),e.view===`pair`&&(0,d.jsx)(w,{id:e.id,navigate:i}),e.view===`about`&&(0,d.jsx)(T,{}),e.view===`privacy`&&(0,d.jsx)(E,{})]}),(0,d.jsx)(D,{navigate:i})]})}function S({route:e,navigate:t,menuOpen:n,setMenuOpen:r}){return(0,d.jsx)(`header`,{className:`site-header`,children:(0,d.jsxs)(`div`,{className:`header-inner`,children:[(0,d.jsx)(`a`,{className:`brand`,href:`${p}/`,onClick:e=>{e.preventDefault(),t({view:`home`})},children:`まぎらわしい英単語ノート`}),(0,d.jsxs)(`button`,{className:`menu-toggle`,"aria-label":`メニュー`,"aria-expanded":n,onClick:()=>r(!n),children:[(0,d.jsx)(`span`,{}),(0,d.jsx)(`span`,{}),(0,d.jsx)(`span`,{})]}),(0,d.jsxs)(`nav`,{className:`site-nav ${n?`open`:``}`,children:[(0,d.jsx)(`a`,{href:`${p}/`,onClick:e=>{e.preventDefault(),t({view:`home`})},className:e.view===`home`?`active`:``,children:`さがす`}),(0,d.jsx)(`a`,{href:`${p}/about/`,onClick:e=>{e.preventDefault(),t({view:`about`})},className:e.view===`about`?`active`:``,children:`このサイトについて`})]})]})})}function C({navigate:t}){let[r,i]=(0,a.useState)(``),[o,u]=(0,a.useState)(0),f=(0,a.useMemo)(()=>{let e=r.trim().toLowerCase();return s.filter(t=>!(o!==0&&t.chapter!==o||e&&!b(t).includes(e)))},[r,o]);return(0,d.jsxs)(`div`,{className:`home`,children:[(0,d.jsxs)(`section`,{className:`hero`,children:[(0,d.jsx)(`h1`,{children:`まぎらわしい英単語を、引いて見分ける`}),(0,d.jsxs)(`p`,{className:`hero-lead`,children:[l.approach,`。`,s.length,`組の混同ペアを、比較表とミニ問題でまとめました。`]}),(0,d.jsxs)(`div`,{className:`search-box`,children:[(0,d.jsx)(e,{size:18,"aria-hidden":`true`}),(0,d.jsx)(`input`,{type:`search`,value:r,onChange:e=>i(e.target.value),placeholder:`単語で検索（例：affect, lie, breed）`,"aria-label":`単語を検索`,autoComplete:`off`}),r&&(0,d.jsx)(`button`,{className:`search-clear`,"aria-label":`クリア`,onClick:()=>i(``),children:(0,d.jsx)(n,{size:16})})]}),(0,d.jsxs)(`div`,{className:`cat-chips`,role:`tablist`,"aria-label":`カテゴリで絞り込み`,children:[(0,d.jsx)(`button`,{className:`chip ${o===0?`active`:``}`,onClick:()=>u(0),children:`すべて`}),[1,2,3,4].map(e=>(0,d.jsx)(`button`,{className:`chip ${o===e?`active`:``}`,onClick:()=>u(e),children:c[e]},e))]})]}),(0,d.jsxs)(`section`,{className:`results`,children:[(0,d.jsxs)(`p`,{className:`results-count`,children:[f.length,` 組`,r?`（「${r}」で検索）`:``]}),f.length===0?(0,d.jsx)(`p`,{className:`no-results`,children:`該当する単語が見つかりませんでした。スペルを変えて試してください。`}):(0,d.jsx)(`ol`,{className:`pair-list`,children:f.map(e=>(0,d.jsx)(`li`,{children:(0,d.jsxs)(`a`,{href:`${p}/${e.id}/`,onClick:n=>{n.preventDefault(),t({view:`pair`,id:e.id})},children:[(0,d.jsx)(`span`,{className:`pair-title`,children:e.title}),(0,d.jsx)(`span`,{className:`pair-cat`,children:c[e.chapter]}),(0,d.jsx)(`span`,{className:`pair-desc`,children:e.description})]})},e.id))})]})]})}function w({id:e,navigate:t}){let n=s[s.findIndex(t=>t.id===e)];if(!n)return(0,d.jsx)(`p`,{children:`ページが見つかりませんでした。`});let r=s.filter(e=>e.chapter===n.chapter),i=r.findIndex(t=>t.id===e),a=i>0?r[i-1]:null,o=i<r.length-1?r[i+1]:null;return(0,d.jsxs)(`article`,{className:`pair`,children:[(0,d.jsxs)(`nav`,{className:`breadcrumb`,children:[(0,d.jsx)(`a`,{href:`${p}/`,onClick:e=>{e.preventDefault(),t({view:`home`})},children:`さがす`}),(0,d.jsx)(`span`,{"aria-hidden":`true`,children:`/`}),(0,d.jsx)(`span`,{children:c[n.chapter]})]}),(0,d.jsxs)(`header`,{className:`pair-header`,children:[(0,d.jsx)(`p`,{className:`pair-cat-label`,children:c[n.chapter]}),(0,d.jsx)(`h1`,{children:n.title}),(0,d.jsx)(`p`,{className:`pair-lead`,children:n.description})]}),(0,d.jsx)(`div`,{className:`pair-body`,children:y(n.content)}),n.keyPoints&&n.keyPoints.length>0&&(0,d.jsxs)(`section`,{className:`keypoints`,children:[(0,d.jsx)(`h2`,{children:`まとめ`}),(0,d.jsx)(`ul`,{children:n.keyPoints.map((e,t)=>(0,d.jsx)(`li`,{children:e},t))})]}),(0,d.jsxs)(`section`,{className:`quiz-section`,children:[(0,d.jsx)(`h2`,{children:`理解度チェック（任意）`}),(0,d.jsx)(f,{questions:n.quiz})]}),(0,d.jsxs)(`nav`,{className:`pair-nav`,children:[a?(0,d.jsxs)(`button`,{className:`btn`,onClick:()=>t({view:`pair`,id:a.id}),children:[`← `,a.title]}):(0,d.jsx)(`span`,{}),o?(0,d.jsxs)(`button`,{className:`btn btn-primary`,onClick:()=>t({view:`pair`,id:o.id}),children:[o.title,` →`]}):(0,d.jsx)(`button`,{className:`btn`,onClick:()=>t({view:`home`}),children:`一覧へ戻る`})]})]})}function T(){return(0,d.jsxs)(`div`,{className:`about`,children:[(0,d.jsx)(`h1`,{children:`このサイトについて`}),(0,d.jsx)(`h2`,{children:`サイトの目的と対象`}),(0,d.jsxs)(`p`,{children:[`「まぎらわしい英単語ノート」は、スペル・意味・品詞・発音が似ていて混同しやすい英単語のペアを、引いてすぐに違いと使い分けが分かるようにまとめた逆引きの比較リファレンスです。`,l.audience,`を主な対象としています。`]}),(0,d.jsx)(`h2`,{children:`コンテンツ構成`}),(0,d.jsx)(`p`,{children:`混同しやすい語を「スペルが似ている語」「意味が近い語」「品詞・派生でまぎらわしい語」「発音が似ている語」の4カテゴリに分け、1ペア（または自然な語群）を1ページにまとめています。各ページに比較表・例文・覚え方・任意の確認問題を用意しています。`}),(0,d.jsx)(`h2`,{children:`編集・制作方針`}),(0,d.jsxs)(`p`,{children:[`各語の意味・品詞・自他・発音は辞書（Cambridge・Merriam-Webster・Wiktionary など）で事実を確認したうえで、解説は`,(0,d.jsx)(`strong`,{children:`すべて運営者が自分のことばで書き起こし`}),`、例文も自作しています。辞書の定義文や例文をそのまま転載することはしていません。確認できない語法は載せていません。誤りに気づいた場合は随時修正します。`]}),(0,d.jsx)(`h2`,{children:`運営者について`}),(0,d.jsx)(`p`,{children:`個人が運営しています。広告収入はサーバー・ドメインなどの維持費に充てています。`}),(0,d.jsx)(`h2`,{children:`お問い合わせ`}),(0,d.jsxs)(`p`,{children:[`内容の誤りのご指摘やご意見は、`,(0,d.jsx)(`a`,{href:`https://forms.gle/ccMv7oKwz6ysDHBe6`,target:`_blank`,rel:`noopener noreferrer`,children:`お問い合わせフォーム`}),`よりお寄せください。`]}),(0,d.jsx)(`h2`,{children:`免責事項`}),(0,d.jsx)(`p`,{children:`本サイトは内容の正確性に努めていますが、その完全性・正確性・有用性を保証するものではありません。学習の最終的な確認は辞書や公式教材で行ってください。本サイトの利用によって生じたいかなる損害についても責任を負いかねます。`})]})}function E(){return(0,d.jsxs)(`div`,{className:`privacy`,children:[(0,d.jsx)(`h1`,{children:`プライバシーポリシー`}),(0,d.jsx)(`h2`,{children:`アクセス解析（Google Analytics）`}),(0,d.jsx)(`p`,{children:`本サイトは利用状況の把握のためGoogle Analytics（GA4）を利用しています。Cookieを用いて匿名のトラフィックデータを収集するもので、個人を特定する情報は含みません。`}),(0,d.jsx)(`h2`,{children:`広告配信（Google AdSense）`}),(0,d.jsx)(`p`,{children:`本サイトは第三者配信の広告サービスGoogle AdSenseを利用しています。第三者配信事業者はCookieを使用して、ユーザーの興味に応じた広告を表示することがあります。`}),(0,d.jsx)(`h2`,{children:`Cookieの送信と無効化`}),(0,d.jsxs)(`p`,{children:[`これらのCookieによりGoogleや広告事業者にデータが送信されます。ユーザーは`,(0,d.jsx)(`a`,{href:`https://adssettings.google.com/`,target:`_blank`,rel:`noopener noreferrer`,children:`Googleの広告設定`}),`でパーソナライズ広告を無効にでき、ブラウザの設定でCookieを無効にすることもできます。`]}),(0,d.jsx)(`h2`,{children:`免責事項`}),(0,d.jsx)(`p`,{children:`本サイトの情報の利用により生じた損害について、運営者は責任を負いません。`}),(0,d.jsx)(`h2`,{children:`お問い合わせ`}),(0,d.jsxs)(`p`,{children:[`本ポリシーに関するお問い合わせは`,(0,d.jsx)(`a`,{href:`https://forms.gle/ccMv7oKwz6ysDHBe6`,target:`_blank`,rel:`noopener noreferrer`,children:`お問い合わせフォーム`}),`よりお願いします。`]}),(0,d.jsx)(`p`,{className:`notice`,children:`最終更新日：2026年6月15日`})]})}function D({navigate:e}){return(0,d.jsx)(`footer`,{className:`site-footer`,children:(0,d.jsxs)(`div`,{className:`footer-inner`,children:[(0,d.jsxs)(`nav`,{className:`footer-nav`,children:[(0,d.jsx)(`a`,{href:`${p}/`,onClick:t=>{t.preventDefault(),e({view:`home`})},children:`さがす`}),(0,d.jsx)(`a`,{href:`${p}/about/`,onClick:t=>{t.preventDefault(),e({view:`about`})},children:`このサイトについて`}),(0,d.jsx)(`a`,{href:`${p}/privacy/`,onClick:t=>{t.preventDefault(),e({view:`privacy`})},children:`プライバシーポリシー`}),(0,d.jsx)(`a`,{href:`https://study-apps.com/`,target:`_blank`,rel:`noopener noreferrer`,children:`study-apps.com`})]}),(0,d.jsx)(`p`,{className:`footer-note`,children:`個人運営の学習支援サイトです。最終的な確認は辞書や公式教材で行ってください。`})]})})}(0,o.createRoot)(document.getElementById(`root`)).render((0,d.jsx)(a.StrictMode,{children:(0,d.jsx)(x,{})}));
