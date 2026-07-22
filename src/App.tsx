@@ -341,6 +341,7 @@ function Footer({ navigate }: { navigate: (r: Route) => void }) {
           <a href={`${BASE}/`} onClick={(e) => { e.preventDefault(); navigate({ view: 'home' }); }}>さがす</a>
           <a href={`${BASE}/about/`} onClick={(e) => { e.preventDefault(); navigate({ view: 'about' }); }}>このサイトについて</a>
           <a href={`${BASE}/privacy/`} onClick={(e) => { e.preventDefault(); navigate({ view: 'privacy' }); }}>プライバシーポリシー</a>
+          <a href="https://study-apps.com/editorial-policy/" target="_blank" rel="noopener noreferrer">編集方針</a>
           <a href="https://study-apps.com/" target="_blank" rel="noopener noreferrer">study-apps.com</a>
         </nav>
         <p className="footer-note">個人運営の学習支援サイトです。最終的な確認は辞書や公式教材で行ってください。</p>
