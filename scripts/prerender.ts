@@ -20,7 +20,12 @@ function inlineHtml(s: string): string {
   return esc(s).replace(/\*\*([^*]+)\*\*/g, '<strong>$1</strong>').replace(/`([^`]+)`/g, '<code>$1</code>');
 }
 
-const CALL: Record<string, string> = { '💡': 'コツ', '🎯': '試験ポイント', '⚠️': '注意', '📖': '発展' };
+const CALL: Record<string, { label: string; color: string }> = {
+  '💡': { label: 'コツ', color: '#2f6d5b' },
+  '🎯': { label: '試験ポイント', color: '#8a5a12' },
+  '⚠️': { label: '注意', color: '#9a3a2f' },
+  '📖': { label: '発展', color: '#3a4a7a' },
+};
 
 // カスタムmd → 静的HTML（見出し/太字/リスト/比較表/コールアウト）
 function mdToHtml(content: string): string {
@@ -34,7 +39,7 @@ function mdToHtml(content: string): string {
     if (t.startsWith('### ')) { out.push(`<h3 style="font-size:1.05rem;margin:18px 0 6px">${inlineHtml(t.slice(4))}</h3>`); i++; continue; }
     if (t.startsWith('## ')) { out.push(`<h2 style="font-size:1.2rem;margin:22px 0 8px;border-left:4px solid #2f4b7c;padding-left:10px">${inlineHtml(t.slice(3))}</h2>`); i++; continue; }
     const ck = Object.keys(CALL).find((mk) => t.startsWith(mk));
-    if (ck) { out.push(`<div style="border-left:4px solid #99a;background:#eee;padding:8px 12px;margin:12px 0;border-radius:6px"><strong style="font-size:0.8rem">${CALL[ck]}</strong><br>${inlineHtml(t.slice(ck.length).trim())}</div>`); i++; continue; }
+    if (ck) { const c = CALL[ck]; out.push(`<div style="border-left:2px solid ${c.color};padding:1px 0 1px 14px;margin:18px 0"><span style="font-size:0.72rem;font-weight:700;letter-spacing:0.09em;color:${c.color};margin-right:8px">${c.label}</span>${inlineHtml(t.slice(ck.length).trim())}</div>`); i++; continue; }
     if (t.startsWith('|')) {
       const rows: string[] = [];
       while (i < lines.length && lines[i].trim().startsWith('|')) { rows.push(lines[i].trim()); i++; }
