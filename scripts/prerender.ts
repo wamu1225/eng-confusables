@@ -66,7 +66,7 @@ function mdToHtml(content: string): string {
 }
 
 const banner = `<div style="background:#e8edf5;border-bottom:1px solid #cdd8ea;padding:10px 16px;font-size:0.88rem;text-align:center;margin-bottom:16px;border-radius:6px;max-width:820px;margin-left:auto;margin-right:auto"><a href="https://study-apps.com/" style="color:#243b63;text-decoration:none;font-weight:600">← study-apps.com 学習サイト集トップへ</a></div>`;
-const disclaimer = `<p style="font-size:0.8rem;color:#868d99;margin-top:20px;border-top:1px solid #eee;padding-top:12px">※本サイトは個人による学習支援サイトです。最終的な確認は辞書や公式教材で行ってください。</p>`;
+const disclaimer = `<p style="font-size:0.8rem;color:#868d99;margin-top:20px;border-top:1px solid #eee;padding-top:12px">※本サイトは個人による学習支援サイトです。最終的な確認は辞書や公式教材で行ってください。<br><a href="https://study-apps.com/editorial-policy/" style="color:#2f4b7c">編集方針</a></p>`;
 const articleOpen = `<article id="static-fallback" style="font-family:sans-serif;line-height:1.8;max-width:820px;margin:0 auto;padding:24px 16px;color:#23272e">`;
 
 console.log('--- eng-confusables SSG prerender ---');
@@ -91,6 +91,7 @@ const homeFallback = `${banner}${articleOpen}
   <nav style="margin-top:28px;border-top:1px solid #e2dfd7;padding-top:16px;display:flex;gap:16px;flex-wrap:wrap">
     <a href="${BASE}/about/" style="color:#2f4b7c">このサイトについて</a>
     <a href="${BASE}/privacy/" style="color:#2f4b7c;font-size:0.85rem">プライバシーポリシー</a>
+    <a href="https://study-apps.com/editorial-policy/" style="color:#2f4b7c;font-size:0.85rem">編集方針</a>
   </nav>
   ${disclaimer}
 </article>`;
