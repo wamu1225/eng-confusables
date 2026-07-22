@@ -8,8 +8,8 @@ import{n as e,r as t,t as n}from"./icons-Co7Nt21q.js";import{n as r,t as i}from"
 | 語 | 主な品詞 | 中心の意味 | 自作の例文 |
 | --- | --- | --- | --- |
 | **a**ffect | 動詞 | 〜に影響を与える | Lack of sleep can **affect** your memory.（睡眠不足は記憶に影響しうる） |
-| **e**ffect | 名詞 | 影響・効果・結果 | The new rule had a positive **effect** on sales.（新ルールは売上に良い効果があった） |
 | **a**ffect | 動詞 | 〜に影響する | The flooding **affected** thousands of homes.（洪水は数千戸に影響した） |
+| **e**ffect | 名詞 | 影響・効果・結果 | The new rule had a positive **effect** on sales.（新ルールは売上に良い効果があった） |
 | **e**ffect | 名詞 | 効き目・作用 | The medicine had no **effect**.（その薬は効かなかった） |
 
 ### 使い分けの手がかり
