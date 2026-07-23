@@ -428,9 +428,9 @@ export const modules: Module[] = [
     title: 'altar と alter',
     chapter: 1,
     description: '-ar か -er か。altar は名詞「祭壇」、alter は動詞「変える」。alternative の仲間。',
-    content: `## どちらを使う？
+    content: `## 語尾 -ar / -er と品詞で分ける
 
-最後が **-ar** か **-er** か。**品詞がそもそも違います**。
+最後が **-ar** か **-er** か。発音はほぼ同じ /ˈɔːltər/ で、**品詞がそもそも違います**。
 
 - **altar** … 名詞「**祭壇**」（教会などにある台）。
 - **alter** … 動詞「**変える・変更する**」。
@@ -438,12 +438,29 @@ export const modules: Module[] = [
 | 語 | 品詞 | 中心の意味 | 自作の例文 |
 | --- | --- | --- | --- |
 | alt**ar** | 名詞 | 祭壇 | They married at the **altar**.（二人は祭壇の前で結婚した） |
+| alt**ar** | 名詞 | 祭壇 | Candles were placed on the **altar**.（祭壇にろうそくが置かれた） |
 | alt**er** | 動詞 | 変える・変更する | I had to **alter** the plan.（計画を変えなければならなかった） |
+| alt**er** | 動詞 | （衣服を）直す | A tailor can **alter** the sleeves.（仕立屋が袖を直せる） |
 
-💡 フック：alt**er** は alt**er**native（別の・代わりの）と同じ alter- で「別のものに**変える**」動詞。alt**ar** は「祭壇という“もの”（名詞）」。`,
+### 使い分けの手がかり
+
+**change で置き換えられるなら alter**（-er）です。動詞なので \`alter the design\`（デザインを変える）のように目的語をとります。衣服を「お直しする」意味でも頻出します。
+
+**the / an がついて「もの」を指すなら altar**（-ar）です。名詞で、教会や神殿の祭壇という具体物を指します。
+
+💡 フック：alt**er** は alt**er**native（別の・代わりの）と同じ alter- で「別のものに**変える**」動詞。alt**ar** は「祭壇という“もの”（名詞）」。
+
+### よくある誤用
+
+⚠️ \`They stood at the alter.\`（祭壇の前に立った）は誤りです。建物内の祭壇なので **altar**（-ar）。結婚式の定番表現 walk down the aisle to the **altar** も -ar です。
+
+⚠️ 「別の人格・分身」を表す成句 **alter ego** は動詞由来の alter（別の〜）で、-er。\`altar ego\` とは書きません。
+
+🎯 覚え方：**変える動作は alt-er（他の動詞と同じ -er）、拝む台は alt-ar**。`,
     keyPoints: [
-      'altar（名詞）＝祭壇',
-      'alter（動詞）＝変える・変更する',
+      'altar（名詞・-ar）＝祭壇（the/an をとる具体物）',
+      'alter（動詞・-er）＝変える・（衣服を）直す（change で置換可）',
+      '成句 alter ego（別の人格）は -er',
       'フック：alter は alternative の仲間（変える）',
     ],
     quiz: [
@@ -489,23 +506,40 @@ export const modules: Module[] = [
     title: 'precede と proceed',
     chapter: 1,
     description: '接頭辞で方向が逆。precede（pre＝前に）は「先行する」、proceed（pro＝前へ）は「進む」。',
-    content: `## どちらを使う？
+    content: `## 接頭辞で方向を分ける
 
 どちらも動詞ですが、**接頭辞**で方向が逆になります。
 
-- **precede** … **pre（前に）**＝「〜の前に来る・先行する」。
-- **proceed** … **pro（前へ）**＝「（先へ）進む・続ける」。
+- **precede** … /prɪˈsiːd/ **pre（前に）**＝「〜の前に来る・先行する」。
+- **proceed** … /prəˈsiːd/ **pro（前へ）**＝「（先へ）進む・続ける」。
 
 | 語 | 接頭辞 | 中心の意味 | 自作の例文 |
 | --- | --- | --- | --- |
 | **pre**cede | pre＝前に | 〜より前に来る・先行する | A short speech **preceded** the dinner.（短いスピーチが夕食に先立った） |
-| **pro**ceed | pro＝前方へ | 先へ進む・続ける | Please **proceed** to gate 5.（5番ゲートへお進みください） |
+| **pre**cede | pre＝前に | 順序が先 | The letter B is **preceded** by A.（B の前には A が来る） |
+| **pro**ceed | pro＝前へ | 先へ進む・続ける | Please **proceed** to gate 5.（5番ゲートへお進みください） |
+| **pro**ceed | pro＝前へ | （中断後）続ける | After the break, we **proceeded** with the meeting.（休憩後、会議を続けた） |
 
-🎯 precede は「前に**位置する**（順序が先）」、proceed は「前へ**動く**（先に進む）」。pre＝既に前にある、pro＝これから前方へ、と分けます。`,
+### 使い分けの手がかり
+
+**「〜より先に来る・先立つ」と言い換えられるなら precede**です。順序が前であることを表し、目的語をとります（A precedes B＝A は B の前に来る）。
+
+**「（その場から）前へ進む・続行する」と言い換えられるなら proceed**です。しばしば proceed to 〜（〜へ進む）、proceed with 〜（〜を続ける）の形で使います。
+
+💡 派生語も対応します。precede → **precedent**（先例）・**precedence**（優先）、proceed → **procedure**（手順）・**process**（過程）。名詞を思い出せば動詞の意味も引き出せます。
+
+### よくある誤用
+
+⚠️ 綴りの罠：**precede は -cede、proceed は -ceed** で終わります。英語で -ceed で終わる動詞は **proceed / exceed / succeed の3語だけ**。それ以外の「シード」は -cede（precede / recede / concede）と覚えると書き分けられます。
+
+⚠️ \`proceed\` は二重母音の -ee ですが、名詞形は **procedure**（-ce に戻る）。\`proceedure\` は誤りです。
+
+🎯 覚え方：**pre＝既に前にある（先行する）、pro＝これから前方へ動く（進む）**。`,
     keyPoints: [
-      'precede（pre＝前に）＝〜より前に来る・先行する',
-      'proceed（pro＝前へ）＝進む・続ける',
-      'pre＝既に前にある、pro＝これから前方へ',
+      'precede（pre＝前に・-cede）＝〜より前に来る・先行する',
+      'proceed（pro＝前へ・-ceed）＝進む・続ける（proceed to / with 〜）',
+      '-ceed で終わるのは proceed / exceed / succeed の3語だけ',
+      '派生：precedent・precedence／procedure・process',
     ],
     quiz: [
       {
@@ -550,23 +584,40 @@ export const modules: Module[] = [
     title: 'except と expect',
     chapter: 1,
     description: '品詞が違う。except は前置詞「〜を除いて」、expect は動詞「予期する」。役割で見分けます。',
-    content: `## どちらを使う？
+    content: `## 文中の役割（品詞）で分ける
 
 **品詞がそもそも違う**ので、文の中での役割で見分けます。
 
-- **except** … おもに**前置詞・接続詞**「〜を除いて」。
-- **expect** … **動詞**「〜を予期する・期待する」。
+- **except** … /ɪkˈsept/ おもに**前置詞・接続詞**「〜を除いて」。
+- **expect** … /ɪkˈspekt/ **動詞**「〜を予期する・期待する」。
 
 | 語 | 品詞 | 中心の意味 | 自作の例文 |
 | --- | --- | --- | --- |
 | ex**c**ept | 前置詞 | 〜を除いて | Everyone came **except** Tom.（トム以外みんな来た） |
+| ex**c**ept | 前置詞 | 〜以外は | The shop opens daily **except** Sundays.（日曜以外毎日開く） |
 | ex**p**ect | 動詞 | 〜を予期する | We **expect** rain tomorrow.（明日は雨だと思う） |
+| ex**p**ect | 動詞 | 〜を待つ・見込む | She is **expecting** a reply soon.（じきに返事が来ると見込んでいる） |
 
-💡 フック：ex**c**ept は ex**c**lude（除外する）と同じ c で「除く」。expect は主語のあとに置く「動作（〜する）」＝動詞。空所が「動詞の位置」なら expect です。`,
+### 使い分けの手がかり
+
+**「〜を除いて／〜以外」と訳せて名詞の前に置くなら except**です。前置詞なので後ろに名詞（句）が続きます（except me / except on weekends）。
+
+**主語のあとで「〜する」という動作が入るなら expect**です。動詞なので expect＋目的語、expect to do、expect that 〜 の形をとります。
+
+💡 フック：ex**c**ept は ex**c**lude（除外する）と同じ c で「除く」。空所が「主語＋（　）＋目的語」のように**動詞の位置**なら expect です。
+
+### よくある誤用
+
+⚠️ もう一つの定番は **accept と except** の混同です。accept /əkˈsept/ は動詞「受け入れる」、except は前置詞「除いて」。\`I except your offer.\`（申し出を除外する？）は不自然で、受け入れるなら **accept**。「受け入れる＝a で始まる accept」と切り分けます。
+
+⚠️ except にも動詞「除外する」の用法がまれにありますが（規則などで be excepted）、日常では前置詞が中心です。動作の「予期する」は必ず expect。
+
+🎯 覚え方：**exCept は exClude（除く）の c、exPect は「〜する」動詞**。さらに aCCept（受け入れる）は a 始まり、と3語で整理します。`,
     keyPoints: [
       'except は前置詞・接続詞「〜を除いて」（exclude の c）',
-      'expect は動詞「〜を予期する」',
-      '文中の役割（品詞）で見分ける',
+      'expect は動詞「〜を予期する」（expect to do / that 〜）',
+      'accept（受け入れる・a 始まり）とも区別する',
+      '空所が動詞の位置なら expect、名詞の前なら except',
     ],
     quiz: [
       {
@@ -674,22 +725,39 @@ export const modules: Module[] = [
     title: 'capital と capitol',
     chapter: 1,
     description: 'ほぼ同音。capital は「首都・資本・大文字」、capitol は「議事堂」。ドームの O。',
-    content: `## どちらを使う？
+    content: `## l の前が a か o か
 
-ほぼ同音。l の前が **a** か **o** かで変わります。
+ほぼ同音 /ˈkæpɪtl/。l の前が **a** か **o** かで変わります。**capital は意味が多く、capitol はほぼ「議事堂」の一択**です。
 
 - **capital** … 名詞「**首都**・資本（金）・大文字」、形容詞「主要な」。
 - **capitol** … 名詞「**議事堂**」（とくに米国の the Capitol）。
 
 | 語 | 中心の意味 | 自作の例文 |
 | --- | --- | --- |
-| capit**a**l | 首都・資本・大文字 | Tokyo is the **capital** of Japan.（東京は日本の首都だ） |
+| capit**a**l | 首都 | Tokyo is the **capital** of Japan.（東京は日本の首都だ） |
+| capit**a**l | 資本（金） | The firm raised **capital** for the project.（事業の資本を集めた） |
+| capit**a**l | 大文字 | Write your name in **capital** letters.（名前を大文字で書いて） |
 | capit**o**l | 議事堂（建物） | Lawmakers gathered at the **capitol**.（議員たちが議事堂に集まった） |
 
-🎯 フック：capit**o**l の **o** は、議事堂の丸い**ドーム（dome）の O**。建物の話なら capitol、それ以外（首都・資本など）はほぼ capital。`,
+### 使い分けの手がかり
+
+**「議事堂という建物」以外はほぼ capital**（a）です。首都・資本・大文字・「主要な」（capital city／capital punishment＝死刑）まで、意味が広いのは capital のほう。
+
+**特定の議事堂の建物を指すときだけ capitol**（o）です。米国では首都 Washington, D.C. の連邦議会議事堂を **the Capitol**（大文字）と呼びます。「首都」ではなく「建物」を指す点が要です。
+
+💡 フック：capit**o**l の **o** は、議事堂の丸い**ドーム（dome）の O**。建物の話なら capitol、それ以外はほぼ capital。
+
+### よくある誤用
+
+⚠️ \`Washington is the capitol of the United States.\` は誤りです。首都は **capital**（a）。capitol は首都の中にある議事堂の建物であって、首都そのものではありません。
+
+⚠️ 「大文字で書く」を \`capitol letters\` と書くのも誤り。文字の話は **capital** letters。o が入るのは議事堂だけ、と割り切ります。
+
+🎯 覚え方：**議事堂のドーム＝capit-o-l の o、それ以外は全部 capit-a-l**。`,
     keyPoints: [
-      'capital＝首都・資本・大文字・主要な',
-      'capitol＝議事堂（建物）',
+      'capital＝首都・資本・大文字・主要な（意味が広い）',
+      'capitol＝議事堂の建物のみ（米 the Capitol）',
+      '「首都」は capital（capitol ではない）',
       'フック：capitOl の O はドームの O',
     ],
     quiz: [
@@ -735,9 +803,9 @@ export const modules: Module[] = [
     title: 'discreet と discrete',
     chapter: 1,
     description: '同音。discreet は「慎重な・口が堅い」、discrete は「個別の・分離した」。e の位置で。',
-    content: `## どちらを使う？
+    content: `## e の位置で分ける
 
-同音ですが意味は別物。**e の位置**で覚えます。
+同音 /dɪˈskriːt/ ですが意味は別物。**e の位置**で覚えます。
 
 - **discreet** … 形容詞「**慎重な・口が堅い・控えめ**」。
 - **discrete** … 形容詞「**個別の・分離した・離散的な**」。
@@ -745,12 +813,29 @@ export const modules: Module[] = [
 | 語 | 中心の意味 | 自作の例文 |
 | --- | --- | --- |
 | discr**ee**t | 慎重な・口が堅い | He was **discreet** about the secret.（彼はその秘密に口が堅かった） |
+| discr**ee**t | 控えめ・目立たない | She wore a **discreet** silver ring.（控えめな銀の指輪をしていた） |
 | discr**e**t**e** | 個別の・分離した | The course has three **discrete** parts.（その講座は3つの独立した部分から成る） |
+| discr**e**t**e** | 離散的な | **discrete** data（離散データ・とびとびの値） |
 
-💡 フック：discr**e**t**e** は、2つの e が真ん中の **t で分けられている**＝「分離した」。discr**ee**t は **ee がくっついて**「ひそひそ＝慎重」。`,
+### 使い分けの手がかり
+
+**「口が堅い・目立たない・そっと」と訳せるなら discreet**です。人の振る舞いや態度に使い、\`Be discreet.\`（内密に・慎重に）のように言います。
+
+**「別々の・とびとびの」と訳せるなら discrete**です。数学・統計の「離散的（discrete＝連続 continuous の反対）」もこちら。ものや区分が互いに分かれていることを表します。
+
+💡 フック：discr**e**t**e** は、2つの e が真ん中の **t で分けられている**＝「分離した」。discr**ee**t は **ee がくっついて**「ひそひそ＝慎重」。名詞形も別で、discreet → **discretion**（分別・裁量）、discrete → **discreteness**（離散性）。
+
+### よくある誤用
+
+⚠️ \`We need three discreet categories.\`（3つの慎重なカテゴリ？）は誤り。区分が別々なら **discrete**。逆に \`Please be discrete about this.\` も誤りで、内密になら **discreet**。
+
+⚠️ 副詞も分かれます。**discreetly**＝そっと・控えめに、**discretely**＝別々に。文意に合う綴りを選びます。
+
+🎯 覚え方：**分けられた e（discrEtE）＝分離、くっつく ee（discrEEt）＝ひそひそ慎重**。`,
     keyPoints: [
-      'discreet＝慎重な・口が堅い（ee がくっつく）',
-      'discrete＝個別の・分離した（e が t で分かれる）',
+      'discreet＝慎重な・口が堅い・控えめ（ee がくっつく／名詞 discretion）',
+      'discrete＝個別の・分離した・離散的な（e が t で分かれる）',
+      '副詞も discreetly（そっと）／discretely（別々に）で別',
       'フック：分けられた e＝分離、くっつく ee＝ひそひそ',
     ],
     quiz: [
@@ -796,23 +881,40 @@ export const modules: Module[] = [
     title: 'eminent と imminent',
     chapter: 1,
     description: '頭が e か i か。eminent は「著名な」、imminent は「差し迫った」。Excellent/Immediate。',
-    content: `## どちらを使う？
+    content: `## 頭文字 e / i で分ける
 
 頭が **e** か **i** か。意味はまったく別です。
 
-- **eminent** … 形容詞「**著名な・卓越した**」。
-- **imminent** … 形容詞「**差し迫った・今にも起こりそう**」（多くは良くない事に使う）。
+- **eminent** … /ˈemɪnənt/ 形容詞「**著名な・卓越した**」。
+- **imminent** … /ˈɪmɪnənt/ 形容詞「**差し迫った・今にも起こりそう**」（多くは良くない事に使う）。
 
 | 語 | 中心の意味 | 自作の例文 |
 | --- | --- | --- |
 | **e**minent | 著名な・卓越した | She is an **eminent** scientist.（彼女は著名な科学者だ） |
+| **e**minent | 傑出した | an **eminent** authority on law（法律の第一人者） |
 | **i**mminent | 差し迫った | A storm is **imminent**.（嵐が差し迫っている） |
+| **i**mminent | 切迫した | They faced an **imminent** deadline.（差し迫った締め切りに直面した） |
 
-🎯 フック：**E**minent は **E**xcellent（卓越）の E、**I**mminent は **I**mmediate（即座・差し迫った）の I。頭文字で連想します。`,
+### 使い分けの手がかり
+
+**人や実績が「有名・卓越」なら eminent**です。distinguished（傑出した）に近く、\`an eminent professor\`（著名な教授）のように人を評価します。
+
+**出来事が「もうすぐ起こる」なら imminent**です。about to happen に近く、危険・脅威・締め切りなど、間近に迫った事態に使います。
+
+💡 フック：**E**minent は **E**xcellent（卓越）の E、**I**mminent は **I**mmediate（即座・差し迫った）の I。頭文字で連想します。
+
+### よくある誤用
+
+⚠️ \`an imminent scholar\`（差し迫った学者？）は誤り。人の評価なら **eminent**。逆に \`Danger is eminent.\` も誤りで、危険が迫るなら **imminent**。人か出来事かで切り分けます。
+
+⚠️ 第三の紛らわしい語 **immanent** /ˈɪmənənt/（内在する・本来備わっている）にも注意。哲学・神学で使う専門語で、日常の「差し迫った」は m がひとつ多い **imminent** です。
+
+🎯 覚え方：**人が Eminent（Excellent）、出来事が Imminent（Immediate）**。`,
     keyPoints: [
-      'eminent＝著名な・卓越した（Excellent の E）',
-      'imminent＝差し迫った（Immediate の I）',
-      'imminent は多く良くない事（危険など）に使う',
+      'eminent＝著名な・卓越した（人の評価・Excellent の E）',
+      'imminent＝差し迫った（出来事・Immediate の I）',
+      'imminent は多く良くない事（危険・締め切り）に使う',
+      '第三の語 immanent（内在する）は別の専門語',
     ],
     quiz: [
       {
