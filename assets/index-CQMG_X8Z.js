@@ -137,9 +137,9 @@ import{n as e,r as t,t as n}from"./icons-Co7Nt21q.js";import{n as r,t as i}from"
 
 ⚠️ \`a just dessert\` も誤りです。「当然の報い」を表す成句は **just deserts**（s が1つ・deserve と同語源で「値するもの」）。発音がデザートと同じため綴りを取り違えやすい表現です。
 
-🎯 覚え方：dessert は s が2つ＝「**S**weet **S**tuff（甘いもの）」。砂漠 desert は s が1つ。`,keyPoints:[`desert＝砂漠（名・前アクセント）/見捨てる（動・後ろアクセント）、s は1つ`,`dessert＝食後のデザート、s は2つ（Sweet Stuff）`,`動詞 desert と名詞 dessert は同音 /dɪˈzɜːrt/＝音で区別できるのは砂漠だけ`,`成句「当然の報い」は just deserts（s 1つ・deserve と同源）`],quiz:[{id:`q-des-1`,question:`空所に入る適切な語はどれですか。「We had ice cream for ( ) after dinner.（夕食後にアイスを食べた）」`,options:[`desert`,`deserts`,`dessert`,`deserted`],correctAnswer:2,explanation:`「食後の甘いもの」は dessert（s が2つ）。`},{id:`q-des-2`,question:`空所に入る適切な語はどれですか。「Camels can survive in the ( ) for days.（らくだは砂漠で何日も生き延びられる）」`,options:[`dessert`,`desserts`,`desert`,`deserve`],correctAnswer:2,explanation:`「砂漠」は desert（s が1つ、前にアクセント）。`},{id:`q-des-3`,question:`desert（動詞）の意味として正しいものはどれですか。`,options:[`デザートを食べる`,`見捨てる・放棄する`,`砂漠化する`,`乾燥させる`],correctAnswer:1,explanation:`desert は動詞で「見捨てる・放棄する」（後ろにアクセント）。名詞では「砂漠」。`},{id:`q-des-4`,question:`dessert を間違えないフックとして正しいものはどれですか。`,options:[`s が1つ`,`s が2つ＝Sweet Stuff`,`d が2つ`,`t が2つ`],correctAnswer:1,explanation:`dessert は s が2つ。「Sweet Stuff（甘いもの）」で覚えます。`},{id:`q-des-5`,question:`空所に入る適切な語はどれですか。「The soldiers refused to ( ) their post.（兵士たちは持ち場を放棄するのを拒んだ）」`,options:[`dessert`,`desserts`,`desert`,`desserted`],correctAnswer:2,explanation:`「放棄する・見捨てる」は動詞 desert。dessert は名詞「デザート」です。`}]},{id:`altar-alter`,title:`altar と alter`,chapter:1,description:`-ar か -er か。altar は名詞「祭壇」、alter は動詞「変える」。alternative の仲間。`,content:`## どちらを使う？
+🎯 覚え方：dessert は s が2つ＝「**S**weet **S**tuff（甘いもの）」。砂漠 desert は s が1つ。`,keyPoints:[`desert＝砂漠（名・前アクセント）/見捨てる（動・後ろアクセント）、s は1つ`,`dessert＝食後のデザート、s は2つ（Sweet Stuff）`,`動詞 desert と名詞 dessert は同音 /dɪˈzɜːrt/＝音で区別できるのは砂漠だけ`,`成句「当然の報い」は just deserts（s 1つ・deserve と同源）`],quiz:[{id:`q-des-1`,question:`空所に入る適切な語はどれですか。「We had ice cream for ( ) after dinner.（夕食後にアイスを食べた）」`,options:[`desert`,`deserts`,`dessert`,`deserted`],correctAnswer:2,explanation:`「食後の甘いもの」は dessert（s が2つ）。`},{id:`q-des-2`,question:`空所に入る適切な語はどれですか。「Camels can survive in the ( ) for days.（らくだは砂漠で何日も生き延びられる）」`,options:[`dessert`,`desserts`,`desert`,`deserve`],correctAnswer:2,explanation:`「砂漠」は desert（s が1つ、前にアクセント）。`},{id:`q-des-3`,question:`desert（動詞）の意味として正しいものはどれですか。`,options:[`デザートを食べる`,`見捨てる・放棄する`,`砂漠化する`,`乾燥させる`],correctAnswer:1,explanation:`desert は動詞で「見捨てる・放棄する」（後ろにアクセント）。名詞では「砂漠」。`},{id:`q-des-4`,question:`dessert を間違えないフックとして正しいものはどれですか。`,options:[`s が1つ`,`s が2つ＝Sweet Stuff`,`d が2つ`,`t が2つ`],correctAnswer:1,explanation:`dessert は s が2つ。「Sweet Stuff（甘いもの）」で覚えます。`},{id:`q-des-5`,question:`空所に入る適切な語はどれですか。「The soldiers refused to ( ) their post.（兵士たちは持ち場を放棄するのを拒んだ）」`,options:[`dessert`,`desserts`,`desert`,`desserted`],correctAnswer:2,explanation:`「放棄する・見捨てる」は動詞 desert。dessert は名詞「デザート」です。`}]},{id:`altar-alter`,title:`altar と alter`,chapter:1,description:`-ar か -er か。altar は名詞「祭壇」、alter は動詞「変える」。alternative の仲間。`,content:`## 語尾 -ar / -er と品詞で分ける
 
-最後が **-ar** か **-er** か。**品詞がそもそも違います**。
+最後が **-ar** か **-er** か。発音はほぼ同じ /ˈɔːltər/ で、**品詞がそもそも違います**。
 
 - **altar** … 名詞「**祭壇**」（教会などにある台）。
 - **alter** … 動詞「**変える・変更する**」。
@@ -147,33 +147,81 @@ import{n as e,r as t,t as n}from"./icons-Co7Nt21q.js";import{n as r,t as i}from"
 | 語 | 品詞 | 中心の意味 | 自作の例文 |
 | --- | --- | --- | --- |
 | alt**ar** | 名詞 | 祭壇 | They married at the **altar**.（二人は祭壇の前で結婚した） |
+| alt**ar** | 名詞 | 祭壇 | Candles were placed on the **altar**.（祭壇にろうそくが置かれた） |
 | alt**er** | 動詞 | 変える・変更する | I had to **alter** the plan.（計画を変えなければならなかった） |
+| alt**er** | 動詞 | （衣服を）直す | A tailor can **alter** the sleeves.（仕立屋が袖を直せる） |
 
-💡 フック：alt**er** は alt**er**native（別の・代わりの）と同じ alter- で「別のものに**変える**」動詞。alt**ar** は「祭壇という“もの”（名詞）」。`,keyPoints:[`altar（名詞）＝祭壇`,`alter（動詞）＝変える・変更する`,`フック：alter は alternative の仲間（変える）`],quiz:[{id:`q-alt-1`,question:`空所に入る適切な語はどれですか。「The couple exchanged vows at the ( ).（二人は祭壇の前で誓いを交わした）」`,options:[`alter`,`altar`,`alters`,`altered`],correctAnswer:1,explanation:`「祭壇」は名詞 altar（-ar）。`},{id:`q-alt-2`,question:`空所に入る適切な語はどれですか。「We may need to ( ) the schedule.（予定を変更する必要があるかも）」`,options:[`altar`,`alter`,`altars`,`altarage`],correctAnswer:1,explanation:`「変える・変更する」は動詞 alter（-er）。`},{id:`q-alt-3`,question:`altar と alter の品詞の組み合わせとして正しいものはどれですか。`,options:[`altar＝動詞、alter＝名詞`,`altar＝名詞（祭壇）、alter＝動詞（変える）`,`どちらも名詞`,`どちらも動詞`],correctAnswer:1,explanation:`altar は名詞「祭壇」、alter は動詞「変える」。語尾 -ar/-er と品詞をセットで覚えます。`},{id:`q-alt-4`,question:`alter を思い出すフックとして本ページが挙げたものはどれですか。`,options:[`alternative（別の）の仲間`,`altitude（高度）`,`always（いつも）`,`almost（ほとんど）`],correctAnswer:0,explanation:`alter は alternative（別の・代わりの）と同じ alter- で「別のものに変える」。`},{id:`q-alt-5`,question:`空所に入る適切な語はどれですか。「A tailor can ( ) the suit to fit you.（仕立屋がスーツをあなたに合うよう直せる）」`,options:[`altar`,`alter`,`altars`,`altared`],correctAnswer:1,explanation:`「（衣服を）直す・変える」は動詞 alter です。`}]},{id:`precede-proceed`,title:`precede と proceed`,chapter:1,description:`接頭辞で方向が逆。precede（pre＝前に）は「先行する」、proceed（pro＝前へ）は「進む」。`,content:`## どちらを使う？
+### 使い分けの手がかり
+
+**change で置き換えられるなら alter**（-er）です。動詞なので \`alter the design\`（デザインを変える）のように目的語をとります。衣服を「お直しする」意味でも頻出します。
+
+**the / an がついて「もの」を指すなら altar**（-ar）です。名詞で、教会や神殿の祭壇という具体物を指します。
+
+💡 フック：alt**er** は alt**er**native（別の・代わりの）と同じ alter- で「別のものに**変える**」動詞。alt**ar** は「祭壇という“もの”（名詞）」。
+
+### よくある誤用
+
+⚠️ \`They stood at the alter.\`（祭壇の前に立った）は誤りです。建物内の祭壇なので **altar**（-ar）。結婚式の定番表現 walk down the aisle to the **altar** も -ar です。
+
+⚠️ 「別の人格・分身」を表す成句 **alter ego** は動詞由来の alter（別の〜）で、-er。\`altar ego\` とは書きません。
+
+🎯 覚え方：**変える動作は alt-er（他の動詞と同じ -er）、拝む台は alt-ar**。`,keyPoints:[`altar（名詞・-ar）＝祭壇（the/an をとる具体物）`,`alter（動詞・-er）＝変える・（衣服を）直す（change で置換可）`,`成句 alter ego（別の人格）は -er`,`フック：alter は alternative の仲間（変える）`],quiz:[{id:`q-alt-1`,question:`空所に入る適切な語はどれですか。「The couple exchanged vows at the ( ).（二人は祭壇の前で誓いを交わした）」`,options:[`alter`,`altar`,`alters`,`altered`],correctAnswer:1,explanation:`「祭壇」は名詞 altar（-ar）。`},{id:`q-alt-2`,question:`空所に入る適切な語はどれですか。「We may need to ( ) the schedule.（予定を変更する必要があるかも）」`,options:[`altar`,`alter`,`altars`,`altarage`],correctAnswer:1,explanation:`「変える・変更する」は動詞 alter（-er）。`},{id:`q-alt-3`,question:`altar と alter の品詞の組み合わせとして正しいものはどれですか。`,options:[`altar＝動詞、alter＝名詞`,`altar＝名詞（祭壇）、alter＝動詞（変える）`,`どちらも名詞`,`どちらも動詞`],correctAnswer:1,explanation:`altar は名詞「祭壇」、alter は動詞「変える」。語尾 -ar/-er と品詞をセットで覚えます。`},{id:`q-alt-4`,question:`alter を思い出すフックとして本ページが挙げたものはどれですか。`,options:[`alternative（別の）の仲間`,`altitude（高度）`,`always（いつも）`,`almost（ほとんど）`],correctAnswer:0,explanation:`alter は alternative（別の・代わりの）と同じ alter- で「別のものに変える」。`},{id:`q-alt-5`,question:`空所に入る適切な語はどれですか。「A tailor can ( ) the suit to fit you.（仕立屋がスーツをあなたに合うよう直せる）」`,options:[`altar`,`alter`,`altars`,`altared`],correctAnswer:1,explanation:`「（衣服を）直す・変える」は動詞 alter です。`}]},{id:`precede-proceed`,title:`precede と proceed`,chapter:1,description:`接頭辞で方向が逆。precede（pre＝前に）は「先行する」、proceed（pro＝前へ）は「進む」。`,content:`## 接頭辞で方向を分ける
 
 どちらも動詞ですが、**接頭辞**で方向が逆になります。
 
-- **precede** … **pre（前に）**＝「〜の前に来る・先行する」。
-- **proceed** … **pro（前へ）**＝「（先へ）進む・続ける」。
+- **precede** … /prɪˈsiːd/ **pre（前に）**＝「〜の前に来る・先行する」。
+- **proceed** … /prəˈsiːd/ **pro（前へ）**＝「（先へ）進む・続ける」。
 
 | 語 | 接頭辞 | 中心の意味 | 自作の例文 |
 | --- | --- | --- | --- |
 | **pre**cede | pre＝前に | 〜より前に来る・先行する | A short speech **preceded** the dinner.（短いスピーチが夕食に先立った） |
-| **pro**ceed | pro＝前方へ | 先へ進む・続ける | Please **proceed** to gate 5.（5番ゲートへお進みください） |
+| **pre**cede | pre＝前に | 順序が先 | The letter B is **preceded** by A.（B の前には A が来る） |
+| **pro**ceed | pro＝前へ | 先へ進む・続ける | Please **proceed** to gate 5.（5番ゲートへお進みください） |
+| **pro**ceed | pro＝前へ | （中断後）続ける | After the break, we **proceeded** with the meeting.（休憩後、会議を続けた） |
 
-🎯 precede は「前に**位置する**（順序が先）」、proceed は「前へ**動く**（先に進む）」。pre＝既に前にある、pro＝これから前方へ、と分けます。`,keyPoints:[`precede（pre＝前に）＝〜より前に来る・先行する`,`proceed（pro＝前へ）＝進む・続ける`,`pre＝既に前にある、pro＝これから前方へ`],quiz:[{id:`q-pre-1`,question:`空所に入る適切な語はどれですか。「The ceremony was ( ) by a moment of silence.（式典は黙とうに先立たれた）」`,options:[`preceded`,`proceeded`,`precedes`,`proceeding`],correctAnswer:0,explanation:`「〜の前に来る・先行する」は precede。pre（前に）が手がかり。`},{id:`q-pre-2`,question:`空所に入る適切な語はどれですか。「After a short break, we will ( ) with the meeting.（休憩後、会議を続けます）」`,options:[`precede`,`precedes`,`preceded`,`proceed`],correctAnswer:3,explanation:`「先へ進む・続ける」は proceed（pro＝前方へ）。`},{id:`q-pre-3`,question:`precede と proceed の見分け方として正しいものはどれですか。`,options:[`precede は前へ進む、proceed は前に来る`,`precede は前に位置する（先行）、proceed は前へ動く（進む）`,`どちらも「保険をかける」`,`どちらも名詞`],correctAnswer:1,explanation:`pre＝既に前にある（先行する）、pro＝これから前方へ動く（進む）。接頭辞で区別します。`},{id:`q-pre-4`,question:`「The introduction ( ) the main chapters.（序論が本編の章に先立つ）」空所に入る語はどれですか。`,options:[`precedes`,`proceeds`,`proceed`,`preceding`],correctAnswer:0,explanation:`「〜より前に来る」は precede（三単現 precedes）。`},{id:`q-pre-5`,question:`接頭辞の意味の組み合わせとして正しいものはどれですか。`,options:[`pre＝前に、pro＝前方へ`,`pre＝前へ進む、pro＝前にある`,`pre＝後ろに、pro＝横に`,`どちらも「後ろ」`],correctAnswer:0,explanation:`pre＝前に（precede＝先行）、pro＝前方へ（proceed＝進む）。`}]},{id:`except-expect`,title:`except と expect`,chapter:1,description:`品詞が違う。except は前置詞「〜を除いて」、expect は動詞「予期する」。役割で見分けます。`,content:`## どちらを使う？
+### 使い分けの手がかり
+
+**「〜より先に来る・先立つ」と言い換えられるなら precede**です。順序が前であることを表し、目的語をとります（A precedes B＝A は B の前に来る）。
+
+**「（その場から）前へ進む・続行する」と言い換えられるなら proceed**です。しばしば proceed to 〜（〜へ進む）、proceed with 〜（〜を続ける）の形で使います。
+
+💡 派生語も対応します。precede → **precedent**（先例）・**precedence**（優先）、proceed → **procedure**（手順）・**process**（過程）。名詞を思い出せば動詞の意味も引き出せます。
+
+### よくある誤用
+
+⚠️ 綴りの罠：**precede は -cede、proceed は -ceed** で終わります。英語で -ceed で終わる動詞は **proceed / exceed / succeed の3語だけ**。それ以外の「シード」は -cede（precede / recede / concede）と覚えると書き分けられます。
+
+⚠️ \`proceed\` は二重母音の -ee ですが、名詞形は **procedure**（-ce に戻る）。\`proceedure\` は誤りです。
+
+🎯 覚え方：**pre＝既に前にある（先行する）、pro＝これから前方へ動く（進む）**。`,keyPoints:[`precede（pre＝前に・-cede）＝〜より前に来る・先行する`,`proceed（pro＝前へ・-ceed）＝進む・続ける（proceed to / with 〜）`,`-ceed で終わるのは proceed / exceed / succeed の3語だけ`,`派生：precedent・precedence／procedure・process`],quiz:[{id:`q-pre-1`,question:`空所に入る適切な語はどれですか。「The ceremony was ( ) by a moment of silence.（式典は黙とうに先立たれた）」`,options:[`preceded`,`proceeded`,`precedes`,`proceeding`],correctAnswer:0,explanation:`「〜の前に来る・先行する」は precede。pre（前に）が手がかり。`},{id:`q-pre-2`,question:`空所に入る適切な語はどれですか。「After a short break, we will ( ) with the meeting.（休憩後、会議を続けます）」`,options:[`precede`,`precedes`,`preceded`,`proceed`],correctAnswer:3,explanation:`「先へ進む・続ける」は proceed（pro＝前方へ）。`},{id:`q-pre-3`,question:`precede と proceed の見分け方として正しいものはどれですか。`,options:[`precede は前へ進む、proceed は前に来る`,`precede は前に位置する（先行）、proceed は前へ動く（進む）`,`どちらも「保険をかける」`,`どちらも名詞`],correctAnswer:1,explanation:`pre＝既に前にある（先行する）、pro＝これから前方へ動く（進む）。接頭辞で区別します。`},{id:`q-pre-4`,question:`「The introduction ( ) the main chapters.（序論が本編の章に先立つ）」空所に入る語はどれですか。`,options:[`precedes`,`proceeds`,`proceed`,`preceding`],correctAnswer:0,explanation:`「〜より前に来る」は precede（三単現 precedes）。`},{id:`q-pre-5`,question:`接頭辞の意味の組み合わせとして正しいものはどれですか。`,options:[`pre＝前に、pro＝前方へ`,`pre＝前へ進む、pro＝前にある`,`pre＝後ろに、pro＝横に`,`どちらも「後ろ」`],correctAnswer:0,explanation:`pre＝前に（precede＝先行）、pro＝前方へ（proceed＝進む）。`}]},{id:`except-expect`,title:`except と expect`,chapter:1,description:`品詞が違う。except は前置詞「〜を除いて」、expect は動詞「予期する」。役割で見分けます。`,content:`## 文中の役割（品詞）で分ける
 
 **品詞がそもそも違う**ので、文の中での役割で見分けます。
 
-- **except** … おもに**前置詞・接続詞**「〜を除いて」。
-- **expect** … **動詞**「〜を予期する・期待する」。
+- **except** … /ɪkˈsept/ おもに**前置詞・接続詞**「〜を除いて」。
+- **expect** … /ɪkˈspekt/ **動詞**「〜を予期する・期待する」。
 
 | 語 | 品詞 | 中心の意味 | 自作の例文 |
 | --- | --- | --- | --- |
 | ex**c**ept | 前置詞 | 〜を除いて | Everyone came **except** Tom.（トム以外みんな来た） |
+| ex**c**ept | 前置詞 | 〜以外は | The shop opens daily **except** Sundays.（日曜以外毎日開く） |
 | ex**p**ect | 動詞 | 〜を予期する | We **expect** rain tomorrow.（明日は雨だと思う） |
+| ex**p**ect | 動詞 | 〜を待つ・見込む | She is **expecting** a reply soon.（じきに返事が来ると見込んでいる） |
 
-💡 フック：ex**c**ept は ex**c**lude（除外する）と同じ c で「除く」。expect は主語のあとに置く「動作（〜する）」＝動詞。空所が「動詞の位置」なら expect です。`,keyPoints:[`except は前置詞・接続詞「〜を除いて」（exclude の c）`,`expect は動詞「〜を予期する」`,`文中の役割（品詞）で見分ける`],quiz:[{id:`q-exc-1`,question:`空所に入る適切な語はどれですか。「The shop is open every day ( ) Sunday.（日曜以外毎日開いている）」`,options:[`expect`,`expects`,`expected`,`except`],correctAnswer:3,explanation:`「〜を除いて」は前置詞 except（exclude の c）。`},{id:`q-exc-2`,question:`空所に入る適切な語はどれですか。「I didn't ( ) so many people to come.（こんなに来るとは思わなかった）」`,options:[`expect`,`except`,`excepts`,`excepting`],correctAnswer:0,explanation:`主語のあとの動作（動詞）「予期する」は expect。`},{id:`q-exc-3`,question:`except と expect の見分け方として正しいものはどれですか。`,options:[`except は前置詞「除いて」（exclude の c）、expect は動詞「予期する」`,`except は動詞、expect は前置詞`,`どちらも前置詞`,`どちらも動詞`],correctAnswer:0,explanation:`except は前置詞・接続詞、expect は動詞。文中の役割で見分けます。`},{id:`q-exc-4`,question:`空所に入る適切な語はどれですか。「All the answers are correct ( ) the last one.（最後の1つを除いて全部正しい）」`,options:[`expect`,`expecting`,`expected`,`except`],correctAnswer:3,explanation:`「〜を除いて」は前置詞 except です。`},{id:`q-exc-5`,question:`except を思い出すフックとして本ページが挙げたものはどれですか。`,options:[`expensive の p`,`expert の p`,`example の a`,`exclude の c（除く）`],correctAnswer:3,explanation:`exCept は exClude（除外する）と同じ c で「除く」と結びつけられます。`}]},{id:`ensure-assure-insure`,title:`ensure と assure と insure`,chapter:1,description:`「保証」の3兄弟。事を確実に（ensure）／人を安心（assure）／保険（insure）で使い分け。`,content:`## どれを使う？
+### 使い分けの手がかり
+
+**「〜を除いて／〜以外」と訳せて名詞の前に置くなら except**です。前置詞なので後ろに名詞（句）が続きます（except me / except on weekends）。
+
+**主語のあとで「〜する」という動作が入るなら expect**です。動詞なので expect＋目的語、expect to do、expect that 〜 の形をとります。
+
+💡 フック：ex**c**ept は ex**c**lude（除外する）と同じ c で「除く」。空所が「主語＋（　）＋目的語」のように**動詞の位置**なら expect です。
+
+### よくある誤用
+
+⚠️ もう一つの定番は **accept と except** の混同です。accept /əkˈsept/ は動詞「受け入れる」、except は前置詞「除いて」。\`I except your offer.\`（申し出を除外する？）は不自然で、受け入れるなら **accept**。「受け入れる＝a で始まる accept」と切り分けます。
+
+⚠️ except にも動詞「除外する」の用法がまれにありますが（規則などで be excepted）、日常では前置詞が中心です。動作の「予期する」は必ず expect。
+
+🎯 覚え方：**exCept は exClude（除く）の c、exPect は「〜する」動詞**。さらに aCCept（受け入れる）は a 始まり、と3語で整理します。`,keyPoints:[`except は前置詞・接続詞「〜を除いて」（exclude の c）`,`expect は動詞「〜を予期する」（expect to do / that 〜）`,`accept（受け入れる・a 始まり）とも区別する`,`空所が動詞の位置なら expect、名詞の前なら except`],quiz:[{id:`q-exc-1`,question:`空所に入る適切な語はどれですか。「The shop is open every day ( ) Sunday.（日曜以外毎日開いている）」`,options:[`expect`,`expects`,`expected`,`except`],correctAnswer:3,explanation:`「〜を除いて」は前置詞 except（exclude の c）。`},{id:`q-exc-2`,question:`空所に入る適切な語はどれですか。「I didn't ( ) so many people to come.（こんなに来るとは思わなかった）」`,options:[`expect`,`except`,`excepts`,`excepting`],correctAnswer:0,explanation:`主語のあとの動作（動詞）「予期する」は expect。`},{id:`q-exc-3`,question:`except と expect の見分け方として正しいものはどれですか。`,options:[`except は前置詞「除いて」（exclude の c）、expect は動詞「予期する」`,`except は動詞、expect は前置詞`,`どちらも前置詞`,`どちらも動詞`],correctAnswer:0,explanation:`except は前置詞・接続詞、expect は動詞。文中の役割で見分けます。`},{id:`q-exc-4`,question:`空所に入る適切な語はどれですか。「All the answers are correct ( ) the last one.（最後の1つを除いて全部正しい）」`,options:[`expect`,`expecting`,`expected`,`except`],correctAnswer:3,explanation:`「〜を除いて」は前置詞 except です。`},{id:`q-exc-5`,question:`except を思い出すフックとして本ページが挙げたものはどれですか。`,options:[`expensive の p`,`expert の p`,`example の a`,`exclude の c（除く）`],correctAnswer:3,explanation:`exCept は exClude（除外する）と同じ c で「除く」と結びつけられます。`}]},{id:`ensure-assure-insure`,title:`ensure と assure と insure`,chapter:1,description:`「保証」の3兄弟。事を確実に（ensure）／人を安心（assure）／保険（insure）で使い分け。`,content:`## どれを使う？
 
 発音が近く、すべて「確実・保証」に関わりますが、**何を／誰を**対象にするかで使い分けます。
 
@@ -187,21 +235,37 @@ import{n as e,r as t,t as n}from"./icons-Co7Nt21q.js";import{n as r,t as i}from"
 | **a**ssure | 人 | （人）を安心させる・保証する | I **assure** you it is safe.（安全だと保証します） |
 | **in**sure | 物・リスク | 〜に保険をかける | They **insured** the car against theft.（盗難に備え車に保険をかけた） |
 
-🎯 フック：**a**ssure の a は「**a** person（人）を安心」、**in**sure の in は「**in**surance（保険）」、**en**sure は「事を確実に」。目的語が人なら assure、保険の話なら insure、それ以外で「確実にする」なら ensure。`,keyPoints:[`ensure＝事を確実にする`,`assure＝人を安心させる（目的語は人）`,`insure＝保険をかける（insurance）`],quiz:[{id:`q-ens-1`,question:`空所に入る適切な語はどれですか。「Please ( ) that all windows are closed.（全部の窓が閉まっているのを確実に）」`,options:[`assure`,`insure`,`ensure`,`assured`],correctAnswer:2,explanation:`対象が「事柄」を確実にするので ensure。`},{id:`q-ens-2`,question:`空所に入る適切な語はどれですか。「I ( ) you that there is nothing to worry about.（心配いらないと保証します）」`,options:[`ensure`,`insure`,`ensured`,`assure`],correctAnswer:3,explanation:`目的語が「人（you）」を安心させる・保証するので assure。`},{id:`q-ens-3`,question:`空所に入る適切な語はどれですか。「You should ( ) your house against fire.（火災に備えて家に保険をかけるべき）」`,options:[`ensure`,`assure`,`assure`,`insure`],correctAnswer:3,explanation:`「保険をかける」は insure（insurance の in）。`},{id:`q-ens-4`,question:`ensure / assure / insure の使い分けとして正しいものはどれですか。`,options:[`ensure＝保険、assure＝事を確実に、insure＝人を安心`,`すべて同じで交換可能`,`ensure＝人を安心、assure＝保険、insure＝事を確実に`,`ensure＝事を確実に、assure＝人を安心、insure＝保険`],correctAnswer:3,explanation:`ensure＝事を確実に、assure＝人を安心、insure＝保険。対象で使い分けます。`},{id:`q-ens-5`,question:`目的語が「人」のとき選ぶべき語はどれですか。`,options:[`ensure`,`insure`,`どれでもよい`,`assure`],correctAnswer:3,explanation:`assure は人を安心させる動詞で、目的語に人をとります（assure + 人）。`}]},{id:`capital-capitol`,title:`capital と capitol`,chapter:1,description:`ほぼ同音。capital は「首都・資本・大文字」、capitol は「議事堂」。ドームの O。`,content:`## どちらを使う？
+🎯 フック：**a**ssure の a は「**a** person（人）を安心」、**in**sure の in は「**in**surance（保険）」、**en**sure は「事を確実に」。目的語が人なら assure、保険の話なら insure、それ以外で「確実にする」なら ensure。`,keyPoints:[`ensure＝事を確実にする`,`assure＝人を安心させる（目的語は人）`,`insure＝保険をかける（insurance）`],quiz:[{id:`q-ens-1`,question:`空所に入る適切な語はどれですか。「Please ( ) that all windows are closed.（全部の窓が閉まっているのを確実に）」`,options:[`assure`,`insure`,`ensure`,`assured`],correctAnswer:2,explanation:`対象が「事柄」を確実にするので ensure。`},{id:`q-ens-2`,question:`空所に入る適切な語はどれですか。「I ( ) you that there is nothing to worry about.（心配いらないと保証します）」`,options:[`ensure`,`insure`,`ensured`,`assure`],correctAnswer:3,explanation:`目的語が「人（you）」を安心させる・保証するので assure。`},{id:`q-ens-3`,question:`空所に入る適切な語はどれですか。「You should ( ) your house against fire.（火災に備えて家に保険をかけるべき）」`,options:[`ensure`,`assure`,`assure`,`insure`],correctAnswer:3,explanation:`「保険をかける」は insure（insurance の in）。`},{id:`q-ens-4`,question:`ensure / assure / insure の使い分けとして正しいものはどれですか。`,options:[`ensure＝保険、assure＝事を確実に、insure＝人を安心`,`すべて同じで交換可能`,`ensure＝人を安心、assure＝保険、insure＝事を確実に`,`ensure＝事を確実に、assure＝人を安心、insure＝保険`],correctAnswer:3,explanation:`ensure＝事を確実に、assure＝人を安心、insure＝保険。対象で使い分けます。`},{id:`q-ens-5`,question:`目的語が「人」のとき選ぶべき語はどれですか。`,options:[`ensure`,`insure`,`どれでもよい`,`assure`],correctAnswer:3,explanation:`assure は人を安心させる動詞で、目的語に人をとります（assure + 人）。`}]},{id:`capital-capitol`,title:`capital と capitol`,chapter:1,description:`ほぼ同音。capital は「首都・資本・大文字」、capitol は「議事堂」。ドームの O。`,content:`## l の前が a か o か
 
-ほぼ同音。l の前が **a** か **o** かで変わります。
+ほぼ同音 /ˈkæpɪtl/。l の前が **a** か **o** かで変わります。**capital は意味が多く、capitol はほぼ「議事堂」の一択**です。
 
 - **capital** … 名詞「**首都**・資本（金）・大文字」、形容詞「主要な」。
 - **capitol** … 名詞「**議事堂**」（とくに米国の the Capitol）。
 
 | 語 | 中心の意味 | 自作の例文 |
 | --- | --- | --- |
-| capit**a**l | 首都・資本・大文字 | Tokyo is the **capital** of Japan.（東京は日本の首都だ） |
+| capit**a**l | 首都 | Tokyo is the **capital** of Japan.（東京は日本の首都だ） |
+| capit**a**l | 資本（金） | The firm raised **capital** for the project.（事業の資本を集めた） |
+| capit**a**l | 大文字 | Write your name in **capital** letters.（名前を大文字で書いて） |
 | capit**o**l | 議事堂（建物） | Lawmakers gathered at the **capitol**.（議員たちが議事堂に集まった） |
 
-🎯 フック：capit**o**l の **o** は、議事堂の丸い**ドーム（dome）の O**。建物の話なら capitol、それ以外（首都・資本など）はほぼ capital。`,keyPoints:[`capital＝首都・資本・大文字・主要な`,`capitol＝議事堂（建物）`,`フック：capitOl の O はドームの O`],quiz:[{id:`q-cap-1`,question:`空所に入る適切な語はどれですか。「Paris is the ( ) of France.（パリはフランスの首都だ）」`,options:[`capitol`,`capital`,`capitals`,`capitalize`],correctAnswer:1,explanation:`「首都」は capital。capitol は「議事堂」です。`},{id:`q-cap-2`,question:`空所に入る適切な語はどれですか。「The protest took place outside the ( ) building.（議事堂の外で抗議が行われた）」`,options:[`capital`,`capitals`,`capitally`,`capitol`],correctAnswer:3,explanation:`「議事堂（建物）」は capitol。ドームの O で覚えます。`},{id:`q-cap-3`,question:`capital の意味として当てはまらないものはどれですか。`,options:[`首都`,`資本（金）`,`大文字`,`議事堂`],correctAnswer:3,explanation:`「議事堂」は capitol。capital は首都・資本・大文字・主要な、を表します。`},{id:`q-cap-4`,question:`空所に入る適切な語はどれですか。「The company needs more ( ) to expand.（拡大にはもっと資本が必要だ）」`,options:[`capitol`,`capital`,`capitols`,`capitally`],correctAnswer:1,explanation:`「資本（金）」は capital です。`},{id:`q-cap-5`,question:`capitol を間違えないフックとして正しいものはどれですか。`,options:[`a は apple の a`,`l が2つ`,`t が2つ`,`o はドーム（dome）の O`],correctAnswer:3,explanation:`capitOl の O を議事堂の丸いドームと結びつけると、建物の意味だと思い出せます。`}]},{id:`discreet-discrete`,title:`discreet と discrete`,chapter:1,description:`同音。discreet は「慎重な・口が堅い」、discrete は「個別の・分離した」。e の位置で。`,content:`## どちらを使う？
+### 使い分けの手がかり
 
-同音ですが意味は別物。**e の位置**で覚えます。
+**「議事堂という建物」以外はほぼ capital**（a）です。首都・資本・大文字・「主要な」（capital city／capital punishment＝死刑）まで、意味が広いのは capital のほう。
+
+**特定の議事堂の建物を指すときだけ capitol**（o）です。米国では首都 Washington, D.C. の連邦議会議事堂を **the Capitol**（大文字）と呼びます。「首都」ではなく「建物」を指す点が要です。
+
+💡 フック：capit**o**l の **o** は、議事堂の丸い**ドーム（dome）の O**。建物の話なら capitol、それ以外はほぼ capital。
+
+### よくある誤用
+
+⚠️ \`Washington is the capitol of the United States.\` は誤りです。首都は **capital**（a）。capitol は首都の中にある議事堂の建物であって、首都そのものではありません。
+
+⚠️ 「大文字で書く」を \`capitol letters\` と書くのも誤り。文字の話は **capital** letters。o が入るのは議事堂だけ、と割り切ります。
+
+🎯 覚え方：**議事堂のドーム＝capit-o-l の o、それ以外は全部 capit-a-l**。`,keyPoints:[`capital＝首都・資本・大文字・主要な（意味が広い）`,`capitol＝議事堂の建物のみ（米 the Capitol）`,`「首都」は capital（capitol ではない）`,`フック：capitOl の O はドームの O`],quiz:[{id:`q-cap-1`,question:`空所に入る適切な語はどれですか。「Paris is the ( ) of France.（パリはフランスの首都だ）」`,options:[`capitol`,`capital`,`capitals`,`capitalize`],correctAnswer:1,explanation:`「首都」は capital。capitol は「議事堂」です。`},{id:`q-cap-2`,question:`空所に入る適切な語はどれですか。「The protest took place outside the ( ) building.（議事堂の外で抗議が行われた）」`,options:[`capital`,`capitals`,`capitally`,`capitol`],correctAnswer:3,explanation:`「議事堂（建物）」は capitol。ドームの O で覚えます。`},{id:`q-cap-3`,question:`capital の意味として当てはまらないものはどれですか。`,options:[`首都`,`資本（金）`,`大文字`,`議事堂`],correctAnswer:3,explanation:`「議事堂」は capitol。capital は首都・資本・大文字・主要な、を表します。`},{id:`q-cap-4`,question:`空所に入る適切な語はどれですか。「The company needs more ( ) to expand.（拡大にはもっと資本が必要だ）」`,options:[`capitol`,`capital`,`capitols`,`capitally`],correctAnswer:1,explanation:`「資本（金）」は capital です。`},{id:`q-cap-5`,question:`capitol を間違えないフックとして正しいものはどれですか。`,options:[`a は apple の a`,`l が2つ`,`t が2つ`,`o はドーム（dome）の O`],correctAnswer:3,explanation:`capitOl の O を議事堂の丸いドームと結びつけると、建物の意味だと思い出せます。`}]},{id:`discreet-discrete`,title:`discreet と discrete`,chapter:1,description:`同音。discreet は「慎重な・口が堅い」、discrete は「個別の・分離した」。e の位置で。`,content:`## e の位置で分ける
+
+同音 /dɪˈskriːt/ ですが意味は別物。**e の位置**で覚えます。
 
 - **discreet** … 形容詞「**慎重な・口が堅い・控えめ**」。
 - **discrete** … 形容詞「**個別の・分離した・離散的な**」。
@@ -209,21 +273,53 @@ import{n as e,r as t,t as n}from"./icons-Co7Nt21q.js";import{n as r,t as i}from"
 | 語 | 中心の意味 | 自作の例文 |
 | --- | --- | --- |
 | discr**ee**t | 慎重な・口が堅い | He was **discreet** about the secret.（彼はその秘密に口が堅かった） |
+| discr**ee**t | 控えめ・目立たない | She wore a **discreet** silver ring.（控えめな銀の指輪をしていた） |
 | discr**e**t**e** | 個別の・分離した | The course has three **discrete** parts.（その講座は3つの独立した部分から成る） |
+| discr**e**t**e** | 離散的な | **discrete** data（離散データ・とびとびの値） |
 
-💡 フック：discr**e**t**e** は、2つの e が真ん中の **t で分けられている**＝「分離した」。discr**ee**t は **ee がくっついて**「ひそひそ＝慎重」。`,keyPoints:[`discreet＝慎重な・口が堅い（ee がくっつく）`,`discrete＝個別の・分離した（e が t で分かれる）`,`フック：分けられた e＝分離、くっつく ee＝ひそひそ`],quiz:[{id:`q-dis-1`,question:`空所に入る適切な語はどれですか。「Please be ( ) — don't tell anyone.（慎重に。誰にも言わないで）」`,options:[`discrete`,`discretes`,`discreet`,`discreetly`],correctAnswer:2,explanation:`「慎重な・口が堅い」は discreet（ee がくっつく）。`},{id:`q-dis-2`,question:`空所に入る適切な語はどれですか。「The data is divided into ( ) categories.（データは個別のカテゴリに分けられている）」`,options:[`discreet`,`discreets`,`discrete`,`discreetly`],correctAnswer:2,explanation:`「個別の・分離した」は discrete（e が t で分かれる）。`},{id:`q-dis-3`,question:`discreet と discrete の覚え方として正しいものはどれですか。`,options:[`discrete は慎重な、discreet は分離した`,`discrete は e が t で分かれる＝分離、discreet は ee がくっつく＝慎重`,`どちらも「個別の」`,`どちらも「慎重な」`],correctAnswer:1,explanation:`discrEtE は e が t で分けられて「分離」、discrEEt は ee がくっついて「慎重」。`},{id:`q-dis-4`,question:`discreet の意味として正しいものはどれですか。`,options:[`個別の`,`離散的な`,`慎重な・口が堅い`,`連続した`],correctAnswer:2,explanation:`discreet は「慎重な・口が堅い・控えめ」。`},{id:`q-dis-5`,question:`空所に入る適切な語はどれですか。「Each device has a ( ) function.（各装置は個別の機能を持つ）」`,options:[`discreet`,`discreets`,`discrete`,`discreetly`],correctAnswer:2,explanation:`「個別の・独立した」は discrete です。`}]},{id:`eminent-imminent`,title:`eminent と imminent`,chapter:1,description:`頭が e か i か。eminent は「著名な」、imminent は「差し迫った」。Excellent/Immediate。`,content:`## どちらを使う？
+### 使い分けの手がかり
+
+**「口が堅い・目立たない・そっと」と訳せるなら discreet**です。人の振る舞いや態度に使い、\`Be discreet.\`（内密に・慎重に）のように言います。
+
+**「別々の・とびとびの」と訳せるなら discrete**です。数学・統計の「離散的（discrete＝連続 continuous の反対）」もこちら。ものや区分が互いに分かれていることを表します。
+
+💡 フック：discr**e**t**e** は、2つの e が真ん中の **t で分けられている**＝「分離した」。discr**ee**t は **ee がくっついて**「ひそひそ＝慎重」。名詞形も別で、discreet → **discretion**（分別・裁量）、discrete → **discreteness**（離散性）。
+
+### よくある誤用
+
+⚠️ \`We need three discreet categories.\`（3つの慎重なカテゴリ？）は誤り。区分が別々なら **discrete**。逆に \`Please be discrete about this.\` も誤りで、内密になら **discreet**。
+
+⚠️ 副詞も分かれます。**discreetly**＝そっと・控えめに、**discretely**＝別々に。文意に合う綴りを選びます。
+
+🎯 覚え方：**分けられた e（discrEtE）＝分離、くっつく ee（discrEEt）＝ひそひそ慎重**。`,keyPoints:[`discreet＝慎重な・口が堅い・控えめ（ee がくっつく／名詞 discretion）`,`discrete＝個別の・分離した・離散的な（e が t で分かれる）`,`副詞も discreetly（そっと）／discretely（別々に）で別`,`フック：分けられた e＝分離、くっつく ee＝ひそひそ`],quiz:[{id:`q-dis-1`,question:`空所に入る適切な語はどれですか。「Please be ( ) — don't tell anyone.（慎重に。誰にも言わないで）」`,options:[`discrete`,`discretes`,`discreet`,`discreetly`],correctAnswer:2,explanation:`「慎重な・口が堅い」は discreet（ee がくっつく）。`},{id:`q-dis-2`,question:`空所に入る適切な語はどれですか。「The data is divided into ( ) categories.（データは個別のカテゴリに分けられている）」`,options:[`discreet`,`discreets`,`discrete`,`discreetly`],correctAnswer:2,explanation:`「個別の・分離した」は discrete（e が t で分かれる）。`},{id:`q-dis-3`,question:`discreet と discrete の覚え方として正しいものはどれですか。`,options:[`discrete は慎重な、discreet は分離した`,`discrete は e が t で分かれる＝分離、discreet は ee がくっつく＝慎重`,`どちらも「個別の」`,`どちらも「慎重な」`],correctAnswer:1,explanation:`discrEtE は e が t で分けられて「分離」、discrEEt は ee がくっついて「慎重」。`},{id:`q-dis-4`,question:`discreet の意味として正しいものはどれですか。`,options:[`個別の`,`離散的な`,`慎重な・口が堅い`,`連続した`],correctAnswer:2,explanation:`discreet は「慎重な・口が堅い・控えめ」。`},{id:`q-dis-5`,question:`空所に入る適切な語はどれですか。「Each device has a ( ) function.（各装置は個別の機能を持つ）」`,options:[`discreet`,`discreets`,`discrete`,`discreetly`],correctAnswer:2,explanation:`「個別の・独立した」は discrete です。`}]},{id:`eminent-imminent`,title:`eminent と imminent`,chapter:1,description:`頭が e か i か。eminent は「著名な」、imminent は「差し迫った」。Excellent/Immediate。`,content:`## 頭文字 e / i で分ける
 
 頭が **e** か **i** か。意味はまったく別です。
 
-- **eminent** … 形容詞「**著名な・卓越した**」。
-- **imminent** … 形容詞「**差し迫った・今にも起こりそう**」（多くは良くない事に使う）。
+- **eminent** … /ˈemɪnənt/ 形容詞「**著名な・卓越した**」。
+- **imminent** … /ˈɪmɪnənt/ 形容詞「**差し迫った・今にも起こりそう**」（多くは良くない事に使う）。
 
 | 語 | 中心の意味 | 自作の例文 |
 | --- | --- | --- |
 | **e**minent | 著名な・卓越した | She is an **eminent** scientist.（彼女は著名な科学者だ） |
+| **e**minent | 傑出した | an **eminent** authority on law（法律の第一人者） |
 | **i**mminent | 差し迫った | A storm is **imminent**.（嵐が差し迫っている） |
+| **i**mminent | 切迫した | They faced an **imminent** deadline.（差し迫った締め切りに直面した） |
 
-🎯 フック：**E**minent は **E**xcellent（卓越）の E、**I**mminent は **I**mmediate（即座・差し迫った）の I。頭文字で連想します。`,keyPoints:[`eminent＝著名な・卓越した（Excellent の E）`,`imminent＝差し迫った（Immediate の I）`,`imminent は多く良くない事（危険など）に使う`],quiz:[{id:`q-emi-1`,question:`空所に入る適切な語はどれですか。「He is an ( ) historian, known worldwide.（彼は世界的に有名な歴史家だ）」`,options:[`imminent`,`immanent`,`eminent`,`imminently`],correctAnswer:2,explanation:`「著名な・卓越した」は eminent（Excellent の E）。`},{id:`q-emi-2`,question:`空所に入る適切な語はどれですか。「The workers were warned of ( ) danger.（差し迫った危険を警告された）」`,options:[`eminent`,`eminently`,`eminence`,`imminent`],correctAnswer:3,explanation:`「差し迫った」は imminent（Immediate の I）。多くは危険など良くない事に使います。`},{id:`q-emi-3`,question:`eminent と imminent の見分け方として正しいものはどれですか。`,options:[`eminent＝著名な（Excellent）、imminent＝差し迫った（Immediate）`,`eminent＝差し迫った、imminent＝著名な`,`どちらも「著名な」`,`どちらも「差し迫った」`],correctAnswer:0,explanation:`頭文字で、Eminent＝Excellent（著名）、Imminent＝Immediate（差し迫った）。`},{id:`q-emi-4`,question:`imminent が多く使われる文脈はどれですか。`,options:[`楽しい予定`,`過去の出来事`,`人の性格`,`危険・脅威など良くない事の切迫`],correctAnswer:3,explanation:`imminent は危険・脅威など、多く良くない事が差し迫っている状況に使われます。`},{id:`q-emi-5`,question:`空所に入る適切な語はどれですか。「Her ( ) contribution earned worldwide respect.（彼女の卓越した貢献は世界的な尊敬を得た）」`,options:[`imminent`,`imminently`,`eminent`,`imminence`],correctAnswer:2,explanation:`「卓越した・著名な」は eminent です。`}]},{id:`lie-lay`,title:`lie と lay`,chapter:2,description:`自動詞 lie（横たわる）と他動詞 lay（〜を横たえる）。「目的語があるか」で見分け、活用の罠に注意。`,content:`## 目的語があるかで分ける
+### 使い分けの手がかり
+
+**人や実績が「有名・卓越」なら eminent**です。distinguished（傑出した）に近く、\`an eminent professor\`（著名な教授）のように人を評価します。
+
+**出来事が「もうすぐ起こる」なら imminent**です。about to happen に近く、危険・脅威・締め切りなど、間近に迫った事態に使います。
+
+💡 フック：**E**minent は **E**xcellent（卓越）の E、**I**mminent は **I**mmediate（即座・差し迫った）の I。頭文字で連想します。
+
+### よくある誤用
+
+⚠️ \`an imminent scholar\`（差し迫った学者？）は誤り。人の評価なら **eminent**。逆に \`Danger is eminent.\` も誤りで、危険が迫るなら **imminent**。人か出来事かで切り分けます。
+
+⚠️ 第三の紛らわしい語 **immanent** /ˈɪmənənt/（内在する・本来備わっている）にも注意。哲学・神学で使う専門語で、日常の「差し迫った」は m がひとつ多い **imminent** です。
+
+🎯 覚え方：**人が Eminent（Excellent）、出来事が Imminent（Immediate）**。`,keyPoints:[`eminent＝著名な・卓越した（人の評価・Excellent の E）`,`imminent＝差し迫った（出来事・Immediate の I）`,`imminent は多く良くない事（危険・締め切り）に使う`,`第三の語 immanent（内在する）は別の専門語`],quiz:[{id:`q-emi-1`,question:`空所に入る適切な語はどれですか。「He is an ( ) historian, known worldwide.（彼は世界的に有名な歴史家だ）」`,options:[`imminent`,`immanent`,`eminent`,`imminently`],correctAnswer:2,explanation:`「著名な・卓越した」は eminent（Excellent の E）。`},{id:`q-emi-2`,question:`空所に入る適切な語はどれですか。「The workers were warned of ( ) danger.（差し迫った危険を警告された）」`,options:[`eminent`,`eminently`,`eminence`,`imminent`],correctAnswer:3,explanation:`「差し迫った」は imminent（Immediate の I）。多くは危険など良くない事に使います。`},{id:`q-emi-3`,question:`eminent と imminent の見分け方として正しいものはどれですか。`,options:[`eminent＝著名な（Excellent）、imminent＝差し迫った（Immediate）`,`eminent＝差し迫った、imminent＝著名な`,`どちらも「著名な」`,`どちらも「差し迫った」`],correctAnswer:0,explanation:`頭文字で、Eminent＝Excellent（著名）、Imminent＝Immediate（差し迫った）。`},{id:`q-emi-4`,question:`imminent が多く使われる文脈はどれですか。`,options:[`楽しい予定`,`過去の出来事`,`人の性格`,`危険・脅威など良くない事の切迫`],correctAnswer:3,explanation:`imminent は危険・脅威など、多く良くない事が差し迫っている状況に使われます。`},{id:`q-emi-5`,question:`空所に入る適切な語はどれですか。「Her ( ) contribution earned worldwide respect.（彼女の卓越した貢献は世界的な尊敬を得た）」`,options:[`imminent`,`imminently`,`eminent`,`imminence`],correctAnswer:2,explanation:`「卓越した・著名な」は eminent です。`}]},{id:`lie-lay`,title:`lie と lay`,chapter:2,description:`自動詞 lie（横たわる）と他動詞 lay（〜を横たえる）。「目的語があるか」で見分け、活用の罠に注意。`,content:`## 目的語があるかで分ける
 
 意味が近いうえに**活用が交差する**、英語学習の最難関ペアです。決め手は**「直後に目的語（〜を）があるか」**。
 
