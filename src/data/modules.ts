@@ -9100,18 +9100,35 @@ belief/believe と同じく、**-f（relief）が名詞、-ve（relieve）が動
 どちらも「家」ですが、**物理的な建物か、暮らし・帰属の場か**で使い分けます。
 
 - **house** … 「**建物としての家・家屋**」。数えられる物理的な建造物。
-- **home** … 「**（自分が暮らす）家庭・我が家・故郷**」。感情・帰属を含む。at home（在宅で／くつろいで）。
+- **home** … 「**（自分が暮らす）家庭・我が家・故郷**」。感情・帰属を含む。
 
 | 語 | 中心の意味 | 自作の例文 |
 | --- | --- | --- |
 | house | 建物としての家 | They built a new **house**.（彼らは新しい家を建てた） |
 | home | 家庭・我が家 | There's no place like **home**.（我が家がいちばん） |
 
-🎯 覚え方：**「建てる・買う」対象の建物は house、「帰る・くつろぐ」暮らしの場は home**。go home（家に帰る）は前置詞なし。建物を指すなら house。`,
+### 使い分けの手がかり
+
+**「建てる・買う・借りる」対象の建物は house**、**「帰る・くつろぐ」暮らしの場は home** です。go **home**（家に帰る）は前置詞なし、at **home**（在宅で・くつろいで）も home。物件・建物として指すときは house。
+
+### 決まった言い方で覚える
+
+この2語は熟語・複合語で形が決まっているものが多く、**丸ごと覚えるのが近道**です。
+
+| home を使う | house を使う |
+| --- | --- |
+| **homework**（宿題）・**homesick**（ホームシック） | **housework**（家事）・**housewife**（主婦） |
+| **hometown**（故郷）・**homeland**（母国） | the White **House**（ホワイトハウス） |
+| feel **at home**（くつろぐ） | a full **house**（満員） |
+
+⚠️ とくに **homework（学校の宿題）と housework（家事）** は混同の定番です。学校の課題は home、掃除・洗濯などの家事は house。1文字で意味がまったく変わります。
+
+🎯 覚え方：**建物は house、気持ち・帰属は home**。迷ったら「建てられる？」＝house、「帰る場所？」＝home。`,
     keyPoints: [
       'house＝建物としての家・家屋（数えられる建造物）',
       'home＝家庭・我が家・故郷（帰属・感情を含む）',
       'go home（前置詞なし）／at home（在宅・くつろいで）',
+      'homework（宿題）と housework（家事）は別物',
     ],
     quiz: [
       {
@@ -9137,10 +9154,10 @@ belief/believe と同じく、**-f（relief）が名詞、-ve（relieve）が動
       },
       {
         id: 'q-home-4',
-        question: '「家庭・我が家（帰属・感情）」を表すのはどちらですか。',
-        options: ['home', 'house', 'どちらも', 'どちらも違う'],
-        correctAnswer: 0,
-        explanation: '暮らし・帰属の場は home。建物は house です。',
+        question: '空所に入る適切な語はどれですか。「The teacher gave us a lot of ( ) for the weekend.（先生は週末の宿題をたくさん出した）」',
+        options: ['housework', 'homework', 'houseworks', 'homeworks'],
+        correctAnswer: 1,
+        explanation: '学校の「宿題」は homework（home）。housework は「家事」で別物です。どちらも不可算で複数形にしません。',
       },
       {
         id: 'q-home-5',
@@ -12890,18 +12907,31 @@ belief/believe と同じく、**-f（relief）が名詞、-ve（relieve）が動
     description: '自動詞と他動詞。sit は「（自分が）座る」（自動詞）、set は「（物を）置く」（他動詞・set-set-set）。',
     content: `## 自分が座るか、物を置くかで見分ける
 
-- **sit** … **自動詞**「**（自分が）座る**」。目的語をとらない。sit-sat-sat。
-- **set** … **他動詞**「**（物を）置く・据える・（値などを）定める**」。目的語をとる。set-set-set。
+基本は **sit＝自分が座る（自動詞）／set＝物を置く（他動詞）**。lie/lay と同じ自動詞・他動詞の対です。
+
+- **sit** … **自動詞**「**（自分が）座る**」。目的語をとらない。活用 sit-sat-sat。
+- **set** … **他動詞**「**（物を）置く・据える・（値・日程などを）定める**」。目的語をとる。活用 set-set-set（変化しない）。
 
 | 語 | 型 | 中心の意味 | 自作の例文 |
 | --- | --- | --- | --- |
-| sit | 自動詞 | （自分が）座る | Please **sit** by the window.（窓ぎわに座って） |
-| set | 他動詞 | （物を）置く | She **set** the cup on the table.（カップをテーブルに置いた） |
+| sit | 自動詞 | （自分が）座る | Please **sit** by the window. / We **sat** in the front row.（窓ぎわに座って／前列に座った） |
+| set | 他動詞 | （物を）置く・定める | She **set** the cup on the table. / Let's **set** a date.（カップを置いた／日程を決めよう） |
 
-🎯 覚え方：**自分が「座る」は sit（目的語なし）、物を「置く」は set（目的語あり）**。lie/lay（横たわる／置く）と同じ自動詞・他動詞の対。set は活用が set-set-set で変化しない。`,
+### 使い分けの手がかり
+
+**主語が自分で「腰を下ろす」なら sit**、**何かを「置く・決める」なら set** です。set は put（置く）に近く、目的語をとります（set the table＝食卓を整える、set an alarm＝アラームをセットする、set a record＝記録を打ち立てる）。
+
+### 注意：例外の自動詞 set
+
+⚠️ set は他動詞が基本ですが、**目的語なしで自動詞になる決まった言い方**があります。**The sun sets in the west.**（太陽は西に沈む）、**The jelly has set.**（ゼリーが固まった）。この「沈む・固まる」の set は目的語をとりません。
+
+⚠️ 逆に sit にも他動詞用法があり、英国では **sit an exam**（試験を受ける）、**sit the baby down**（赤ちゃんを座らせる）と言います。基本の対（sit＝自／set＝他）を軸に、これらは例外として足します。
+
+🎯 覚え方：**自分が「座る」は sit（目的語なし）、物を「置く・定める」は set（目的語あり・put で置換可）**。沈む太陽と固まるゼリーだけ set が自動詞。`,
     keyPoints: [
-      'sit＝自動詞「（自分が）座る」（sit-sat-sat）',
-      'set＝他動詞「（物を）置く・定める」（set-set-set）',
+      'sit＝自動詞「（自分が）座る」（sit-sat-sat・目的語なし）',
+      'set＝他動詞「（物を）置く・定める」（set-set-set・put で置換可）',
+      '例外：the sun sets／the jelly sets は自動詞の set（沈む・固まる）',
       'lie/lay と同じ自動詞・他動詞の対',
     ],
     quiz: [
@@ -12921,10 +12951,10 @@ belief/believe と同じく、**-f（relief）が名詞、-ve（relieve）が動
       },
       {
         id: 'q-set-3',
-        question: '目的語をとる他動詞「（物を）置く」はどちらですか。',
-        options: ['set', 'sit', 'どちらも', 'どちらも違う'],
-        correctAnswer: 0,
-        explanation: '「物を置く」は他動詞 set。「自分が座る」は自動詞 sit です。',
+        question: '空所に入る適切な語はどれですか。「The sun ( ) in the west.（太陽は西に沈む）」',
+        options: ['sits', 'sets', 'sat', 'setting'],
+        correctAnswer: 1,
+        explanation: '「（太陽が）沈む」は目的語をとらない自動詞の set。set が自動詞になる数少ない例です。',
       },
       {
         id: 'q-set-4',
@@ -13010,19 +13040,39 @@ belief/believe と同じく、**-f（relief）が名詞、-ve（relieve）が動
     description: 'human「人間の・人間」、humane「人道的な・思いやりのある」。末尾 e とアクセントで意味が変わる。',
     content: `## 「人間の」か「思いやりある」かで見分ける
 
-- **human** … /ˈhjuːmən/ 「**人間の・人間**」（形容詞・名詞）。種としてのヒトに関する。
+末尾の **e** とアクセントの位置で、意味も発音も変わります。
+
+- **human** … /ˈhjuːmən/ 「**人間の・人間**」（形容詞・名詞）。種としてのヒトに関する。アクセントは前。
 - **humane** … /hjuːˈmeɪn/ 「**人道的な・思いやりのある・慈悲深い**」。末尾に e、アクセントは後ろ。
 
 | 語 | 発音 | 中心の意味 | 自作の例文 |
 | --- | --- | --- | --- |
-| human | /ˈhjuːmən/ | 人間の | It is a **human** right.（それは人間の権利だ） |
-| human**e** | /hjuːˈmeɪn/ | 人道的な | They called for **humane** treatment.（人道的な扱いを求めた） |
+| human | /ˈhjuːmən/ | 人間の・人間 | It is a **human** right. / Humans make mistakes.（人間の権利だ／人は間違える） |
+| human**e** | /hjuːˈmeɪn/ | 人道的な | They called for the **humane** treatment of prisoners.（捕虜の人道的な扱いを求めた） |
 
-🎯 覚え方：**e が付く humane は「人道的（思いやり）」でアクセント後ろ**。種としての「人間の」は human。扱いが「思いやりある」なら humane。`,
+### 使い分けの手がかり
+
+**種・生物としての「ヒトの」なら human**（human body＝人体、human nature＝人間の性）。**扱いや行いが「思いやりある・むごくない」なら humane**（humane treatment＝人道的な扱い、動物福祉の文脈で頻出）。
+
+### 語族で押さえる
+
+同じ語根から広がる語をまとめると、意味の輪郭がはっきりします。
+
+| 語 | 品詞・意味 |
+| --- | --- |
+| human**ity** | 名詞：人類／人間性・思いやり |
+| human**itarian** | 形容詞・名詞：人道（支援）の・人道主義者 |
+| human**ly** | 副詞：人間の力で（It's not **humanly** possible.＝人間業では無理） |
+| human**e**ly | 副詞：人道的に（The animals were treated **humanely**.） |
+
+⚠️ 副詞が2つあります。**humanly**（人間の力で）と **humanely**（人道的に）は e ひとつで意味が別。文意に合うほうを選びます。
+
+🎯 覚え方：**e が付く human-e は「人道的（思いやり）」でアクセント後ろ**。種としての「人間の」は human。`,
     keyPoints: [
-      'human /ˈhjuːmən/＝人間の・人間',
+      'human /ˈhjuːmən/＝人間の・人間（種・生物としてのヒト）',
       'humane /hjuːˈmeɪn/＝人道的な・思いやりのある（e あり・後ろアクセント）',
-      '扱い・行いが「思いやりある」なら humane',
+      '副詞は humanly（人間の力で）と humanely（人道的に）で別',
+      '語族：humanity・humanitarian も同根',
     ],
     quiz: [
       {
@@ -13048,10 +13098,10 @@ belief/believe と同じく、**-f（relief）が名詞、-ve（relieve）が動
       },
       {
         id: 'q-human-4',
-        question: '「思いやりのある・慈悲深い」を表すのはどちらですか。',
-        options: ['humane', 'human', 'どちらも', 'どちらも違う'],
-        correctAnswer: 0,
-        explanation: 'humane が「人道的・思いやりある」。human は「人間の」です。',
+        question: '空所に入る適切な語はどれですか。「It is not ( ) possible to finish this in a day.（これを1日で終えるのは人間業では無理だ）」',
+        options: ['humanely', 'humanly', 'humane', 'humanity'],
+        correctAnswer: 1,
+        explanation: '「人間の力で」は副詞 humanly（humanly possible）。humanely は「人道的に」で別の副詞です。',
       },
       {
         id: 'q-human-5',
