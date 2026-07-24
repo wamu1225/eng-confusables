@@ -9115,11 +9115,12 @@ belief/believe と同じく、**-f（relief）が名詞、-ve（relieve）が動
 
 この2語は熟語・複合語で形が決まっているものが多く、**丸ごと覚えるのが近道**です。
 
-| home を使う | house を使う |
+| home 系 | house 系 |
 | --- | --- |
-| **homework**（宿題）・**homesick**（ホームシック） | **housework**（家事）・**housewife**（主婦） |
-| **hometown**（故郷）・**homeland**（母国） | the White **House**（ホワイトハウス） |
-| feel **at home**（くつろぐ） | a full **house**（満員） |
+| homework 宿題 | housework 家事 |
+| homesick 郷愁 | housewife 主婦 |
+| hometown 故郷 | full house 満員 |
+| at home くつろぐ | White House |
 
 ⚠️ とくに **homework（学校の宿題）と housework（家事）** は混同の定番です。学校の課題は home、掃除・洗濯などの家事は house。1文字で意味がまったく変わります。
 
