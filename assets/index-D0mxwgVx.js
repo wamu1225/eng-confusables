@@ -1975,14 +1975,30 @@ belief/believe と同じく、**-f（relief）が名詞、-ve（relieve）が動
 どちらも「家」ですが、**物理的な建物か、暮らし・帰属の場か**で使い分けます。
 
 - **house** … 「**建物としての家・家屋**」。数えられる物理的な建造物。
-- **home** … 「**（自分が暮らす）家庭・我が家・故郷**」。感情・帰属を含む。at home（在宅で／くつろいで）。
+- **home** … 「**（自分が暮らす）家庭・我が家・故郷**」。感情・帰属を含む。
 
 | 語 | 中心の意味 | 自作の例文 |
 | --- | --- | --- |
 | house | 建物としての家 | They built a new **house**.（彼らは新しい家を建てた） |
 | home | 家庭・我が家 | There's no place like **home**.（我が家がいちばん） |
 
-🎯 覚え方：**「建てる・買う」対象の建物は house、「帰る・くつろぐ」暮らしの場は home**。go home（家に帰る）は前置詞なし。建物を指すなら house。`,keyPoints:[`house＝建物としての家・家屋（数えられる建造物）`,`home＝家庭・我が家・故郷（帰属・感情を含む）`,`go home（前置詞なし）／at home（在宅・くつろいで）`],quiz:[{id:`q-home-1`,question:`空所に入る適切な語はどれですか。「After work, I just want to go ( ).（仕事のあとは家に帰りたいだけ）」`,options:[`house`,`houses`,`home`,`homely`],correctAnswer:2,explanation:`「家に帰る」は go home（前置詞なし）。暮らしの場 home です。`},{id:`q-home-2`,question:`「建物としての家・家屋」を表す語はどれですか。`,options:[`house`,`home`,`homes`,`housing`],correctAnswer:0,explanation:`建物としての家は house です。`},{id:`q-home-3`,question:`空所に入る適切な語はどれですか。「The old ( ) has five bedrooms.（その古い家には寝室が5つある）」`,options:[`house`,`home`,`homely`,`homes`],correctAnswer:0,explanation:`部屋数を数える物理的な建物は house です。`},{id:`q-home-4`,question:`「家庭・我が家（帰属・感情）」を表すのはどちらですか。`,options:[`home`,`house`,`どちらも`,`どちらも違う`],correctAnswer:0,explanation:`暮らし・帰属の場は home。建物は house です。`},{id:`q-home-5`,question:`空所に入る適切な語はどれですか。「Is anyone ( )? I rang the bell.（誰か在宅ですか。ベルを鳴らしました）」`,options:[`house`,`houses`,`home`,`housed`],correctAnswer:2,explanation:`at home の意味で「在宅」は home（be home）です。`}]},{id:`receive-accept`,title:`receive と accept`,chapter:2,description:`receive は「（届いたものを）受け取る」（受動的）、accept は「（受け取ったものを）受け入れる・承諾する」（意志を伴う）。`,content:`## 受け取るだけか、承諾するかで見分ける
+### 使い分けの手がかり
+
+**「建てる・買う・借りる」対象の建物は house**、**「帰る・くつろぐ」暮らしの場は home** です。go **home**（家に帰る）は前置詞なし、at **home**（在宅で・くつろいで）も home。物件・建物として指すときは house。
+
+### 決まった言い方で覚える
+
+この2語は熟語・複合語で形が決まっているものが多く、**丸ごと覚えるのが近道**です。
+
+| home を使う | house を使う |
+| --- | --- |
+| **homework**（宿題）・**homesick**（ホームシック） | **housework**（家事）・**housewife**（主婦） |
+| **hometown**（故郷）・**homeland**（母国） | the White **House**（ホワイトハウス） |
+| feel **at home**（くつろぐ） | a full **house**（満員） |
+
+⚠️ とくに **homework（学校の宿題）と housework（家事）** は混同の定番です。学校の課題は home、掃除・洗濯などの家事は house。1文字で意味がまったく変わります。
+
+🎯 覚え方：**建物は house、気持ち・帰属は home**。迷ったら「建てられる？」＝house、「帰る場所？」＝home。`,keyPoints:[`house＝建物としての家・家屋（数えられる建造物）`,`home＝家庭・我が家・故郷（帰属・感情を含む）`,`go home（前置詞なし）／at home（在宅・くつろいで）`,`homework（宿題）と housework（家事）は別物`],quiz:[{id:`q-home-1`,question:`空所に入る適切な語はどれですか。「After work, I just want to go ( ).（仕事のあとは家に帰りたいだけ）」`,options:[`house`,`houses`,`home`,`homely`],correctAnswer:2,explanation:`「家に帰る」は go home（前置詞なし）。暮らしの場 home です。`},{id:`q-home-2`,question:`「建物としての家・家屋」を表す語はどれですか。`,options:[`house`,`home`,`homes`,`housing`],correctAnswer:0,explanation:`建物としての家は house です。`},{id:`q-home-3`,question:`空所に入る適切な語はどれですか。「The old ( ) has five bedrooms.（その古い家には寝室が5つある）」`,options:[`house`,`home`,`homely`,`homes`],correctAnswer:0,explanation:`部屋数を数える物理的な建物は house です。`},{id:`q-home-4`,question:`空所に入る適切な語はどれですか。「The teacher gave us a lot of ( ) for the weekend.（先生は週末の宿題をたくさん出した）」`,options:[`housework`,`homework`,`houseworks`,`homeworks`],correctAnswer:1,explanation:`学校の「宿題」は homework（home）。housework は「家事」で別物です。どちらも不可算で複数形にしません。`},{id:`q-home-5`,question:`空所に入る適切な語はどれですか。「Is anyone ( )? I rang the bell.（誰か在宅ですか。ベルを鳴らしました）」`,options:[`house`,`houses`,`home`,`housed`],correctAnswer:2,explanation:`at home の意味で「在宅」は home（be home）です。`}]},{id:`receive-accept`,title:`receive と accept`,chapter:2,description:`receive は「（届いたものを）受け取る」（受動的）、accept は「（受け取ったものを）受け入れる・承諾する」（意志を伴う）。`,content:`## 受け取るだけか、承諾するかで見分ける
 
 どちらも「受ける」ですが、**単に届くか、意志を持って受け入れるか**で使い分けます。
 
@@ -2727,15 +2743,27 @@ belief/believe と同じく、**-f（relief）が名詞、-ve（relieve）が動
 
 🎯 覚え方：**-annual（年）が付く biannual は「1年の中で2回」、-ennial（〜年の周期）の biennial は「2年ごと」**。混同を避けたいときは biannual の代わりに semiannual（半年ごと）を使うと明確。`,keyPoints:[`biannual＝年に2回・半年ごと（＝semiannual）`,`biennial＝2年に1回・2年ごと`,`紛らわしければ「半年ごと」は semiannual を使う`],quiz:[{id:`q-biannual-1`,question:`「2年に1回」を表す語はどれですか。`,options:[`biannual`,`annual`,`biweekly`,`biennial`],correctAnswer:3,explanation:`2年周期は biennial です。`},{id:`q-biannual-2`,question:`「年に2回（半年ごと）」を表す語はどれですか。`,options:[`biennial`,`annual`,`decennial`,`biannual`],correctAnswer:3,explanation:`年2回は biannual（＝semiannual）です。`},{id:`q-biannual-3`,question:`空所に入る適切な語はどれですか。「We have a ( ) checkup every six months.（半年ごとに定期健診がある）」`,options:[`biennial`,`annual`,`biweekly`,`biannual`],correctAnswer:3,explanation:`半年ごと（年2回）は biannual です。`},{id:`q-biannual-4`,question:`空所に入る適切な語はどれですか。「The ( ) conference is held once every two years.（その会議は2年に1度開かれる）」`,options:[`biannual`,`annual`,`semiannual`,`biennial`],correctAnswer:3,explanation:`2年に1回は biennial です。`},{id:`q-biannual-5`,question:`biannual と同じ「年2回」を明確に表す語はどれですか。`,options:[`biennial`,`annual`,`decennial`,`semiannual`],correctAnswer:3,explanation:`semiannual（半年ごと＝年2回）が biannual と同義で明確です。`}]},{id:`sit-set`,title:`sit と set`,chapter:2,description:`自動詞と他動詞。sit は「（自分が）座る」（自動詞）、set は「（物を）置く」（他動詞・set-set-set）。`,content:`## 自分が座るか、物を置くかで見分ける
 
-- **sit** … **自動詞**「**（自分が）座る**」。目的語をとらない。sit-sat-sat。
-- **set** … **他動詞**「**（物を）置く・据える・（値などを）定める**」。目的語をとる。set-set-set。
+基本は **sit＝自分が座る（自動詞）／set＝物を置く（他動詞）**。lie/lay と同じ自動詞・他動詞の対です。
+
+- **sit** … **自動詞**「**（自分が）座る**」。目的語をとらない。活用 sit-sat-sat。
+- **set** … **他動詞**「**（物を）置く・据える・（値・日程などを）定める**」。目的語をとる。活用 set-set-set（変化しない）。
 
 | 語 | 型 | 中心の意味 | 自作の例文 |
 | --- | --- | --- | --- |
-| sit | 自動詞 | （自分が）座る | Please **sit** by the window.（窓ぎわに座って） |
-| set | 他動詞 | （物を）置く | She **set** the cup on the table.（カップをテーブルに置いた） |
+| sit | 自動詞 | （自分が）座る | Please **sit** by the window. / We **sat** in the front row.（窓ぎわに座って／前列に座った） |
+| set | 他動詞 | （物を）置く・定める | She **set** the cup on the table. / Let's **set** a date.（カップを置いた／日程を決めよう） |
 
-🎯 覚え方：**自分が「座る」は sit（目的語なし）、物を「置く」は set（目的語あり）**。lie/lay（横たわる／置く）と同じ自動詞・他動詞の対。set は活用が set-set-set で変化しない。`,keyPoints:[`sit＝自動詞「（自分が）座る」（sit-sat-sat）`,`set＝他動詞「（物を）置く・定める」（set-set-set）`,`lie/lay と同じ自動詞・他動詞の対`],quiz:[{id:`q-set-1`,question:`空所に入る適切な語はどれですか。「He ( ) the box down carefully.（彼は箱を注意深く置いた）」`,options:[`sat`,`sits`,`set`,`sitting`],correctAnswer:2,explanation:`目的語（box）を「置く」は他動詞 set（過去も set）です。`},{id:`q-set-2`,question:`空所に入る適切な語はどれですか。「The children ( ) quietly on the floor.（子どもたちは床に静かに座った）」`,options:[`set`,`sets`,`sat`,`setting`],correctAnswer:2,explanation:`自分が「座る」は自動詞 sit（過去 sat）です。`},{id:`q-set-3`,question:`目的語をとる他動詞「（物を）置く」はどちらですか。`,options:[`set`,`sit`,`どちらも`,`どちらも違う`],correctAnswer:0,explanation:`「物を置く」は他動詞 set。「自分が座る」は自動詞 sit です。`},{id:`q-set-4`,question:`set の活用として正しいものはどれですか。`,options:[`set-setted-setted`,`set-sat-sat`,`set-set-set`,`set-set-setten`],correctAnswer:2,explanation:`set は set-set-set で変化しません。`},{id:`q-set-5`,question:`空所に入る適切な語はどれですか。「Let's ( ) a date for the meeting.（会議の日程を決めよう）」`,options:[`sit`,`sat`,`set`,`sitting`],correctAnswer:2,explanation:`「（日程を）定める」は他動詞 set です。`}]},{id:`continual-continuous`,title:`continual と continuous`,chapter:3,description:`continual は「繰り返し起こる・断続的な」、continuous は「途切れずに続く」。`,content:`## 途切れがあるかどうかで見分ける
+### 使い分けの手がかり
+
+**主語が自分で「腰を下ろす」なら sit**、**何かを「置く・決める」なら set** です。set は put（置く）に近く、目的語をとります（set the table＝食卓を整える、set an alarm＝アラームをセットする、set a record＝記録を打ち立てる）。
+
+### 注意：例外の自動詞 set
+
+⚠️ set は他動詞が基本ですが、**目的語なしで自動詞になる決まった言い方**があります。**The sun sets in the west.**（太陽は西に沈む）、**The jelly has set.**（ゼリーが固まった）。この「沈む・固まる」の set は目的語をとりません。
+
+⚠️ 逆に sit にも他動詞用法があり、英国では **sit an exam**（試験を受ける）、**sit the baby down**（赤ちゃんを座らせる）と言います。基本の対（sit＝自／set＝他）を軸に、これらは例外として足します。
+
+🎯 覚え方：**自分が「座る」は sit（目的語なし）、物を「置く・定める」は set（目的語あり・put で置換可）**。沈む太陽と固まるゼリーだけ set が自動詞。`,keyPoints:[`sit＝自動詞「（自分が）座る」（sit-sat-sat・目的語なし）`,`set＝他動詞「（物を）置く・定める」（set-set-set・put で置換可）`,`例外：the sun sets／the jelly sets は自動詞の set（沈む・固まる）`,`lie/lay と同じ自動詞・他動詞の対`],quiz:[{id:`q-set-1`,question:`空所に入る適切な語はどれですか。「He ( ) the box down carefully.（彼は箱を注意深く置いた）」`,options:[`sat`,`sits`,`set`,`sitting`],correctAnswer:2,explanation:`目的語（box）を「置く」は他動詞 set（過去も set）です。`},{id:`q-set-2`,question:`空所に入る適切な語はどれですか。「The children ( ) quietly on the floor.（子どもたちは床に静かに座った）」`,options:[`set`,`sets`,`sat`,`setting`],correctAnswer:2,explanation:`自分が「座る」は自動詞 sit（過去 sat）です。`},{id:`q-set-3`,question:`空所に入る適切な語はどれですか。「The sun ( ) in the west.（太陽は西に沈む）」`,options:[`sits`,`sets`,`sat`,`setting`],correctAnswer:1,explanation:`「（太陽が）沈む」は目的語をとらない自動詞の set。set が自動詞になる数少ない例です。`},{id:`q-set-4`,question:`set の活用として正しいものはどれですか。`,options:[`set-setted-setted`,`set-sat-sat`,`set-set-set`,`set-set-setten`],correctAnswer:2,explanation:`set は set-set-set で変化しません。`},{id:`q-set-5`,question:`空所に入る適切な語はどれですか。「Let's ( ) a date for the meeting.（会議の日程を決めよう）」`,options:[`sit`,`sat`,`set`,`sitting`],correctAnswer:2,explanation:`「（日程を）定める」は他動詞 set です。`}]},{id:`continual-continuous`,title:`continual と continuous`,chapter:3,description:`continual は「繰り返し起こる・断続的な」、continuous は「途切れずに続く」。`,content:`## 途切れがあるかどうかで見分ける
 
 どちらも continue から派生しますが、途切れの有無が違います。
 
@@ -2749,15 +2777,34 @@ belief/believe と同じく、**-f（relief）が名詞、-ve（relieve）が動
 
 🎯 覚え方：**-al の continual は「たびたび（何度も・合間あり）」、-ous の continuous は「切れ目なくずっと」**。何度も繰り返すなら continual、ノンストップなら continuous。`,keyPoints:[`continual＝繰り返し起こる・断続的（合間に途切れあり）`,`continuous＝途切れずに続く（連続・切れ目なし）`,`「たびたび」は continual、「ノンストップ」は continuous`],quiz:[{id:`q-continual-1`,question:`空所に入る適切な語はどれですか。「The machine made a ( ) noise for hours without stopping.（機械は何時間も止まらず連続した音を立てた）」`,options:[`continuous`,`continual`,`continue`,`continually`],correctAnswer:0,explanation:`途切れず続く「連続の」は continuous です。`},{id:`q-continual-2`,question:`「繰り返し起こる・たびたびの（断続的）」を表す語はどれですか。`,options:[`continuous`,`continual`,`continue`,`continuously`],correctAnswer:1,explanation:`断続的な「たびたびの」は continual です。`},{id:`q-continual-3`,question:`空所に入る適切な語はどれですか。「We suffered ( ) power cuts all week.（一週間、たびたびの停電に悩まされた）」`,options:[`continuous`,`continual`,`continue`,`continuum`],correctAnswer:1,explanation:`何度も繰り返す停電は continual です。`},{id:`q-continual-4`,question:`「途切れずにずっと続く」を表すのはどちらですか。`,options:[`continuous`,`continual`,`どちらも`,`どちらも違う`],correctAnswer:0,explanation:`continuous が「連続（切れ目なし）」。continual は「断続」です。`},{id:`q-continual-5`,question:`空所に入る適切な語はどれですか。「A ( ) line has no gaps.（連続した線には切れ目がない）」`,options:[`continuous`,`continual`,`continue`,`continually`],correctAnswer:0,explanation:`切れ目のない「連続した」は continuous です。`}]},{id:`human-humane`,title:`human と humane`,chapter:3,description:`human「人間の・人間」、humane「人道的な・思いやりのある」。末尾 e とアクセントで意味が変わる。`,content:`## 「人間の」か「思いやりある」かで見分ける
 
-- **human** … /ˈhjuːmən/ 「**人間の・人間**」（形容詞・名詞）。種としてのヒトに関する。
+末尾の **e** とアクセントの位置で、意味も発音も変わります。
+
+- **human** … /ˈhjuːmən/ 「**人間の・人間**」（形容詞・名詞）。種としてのヒトに関する。アクセントは前。
 - **humane** … /hjuːˈmeɪn/ 「**人道的な・思いやりのある・慈悲深い**」。末尾に e、アクセントは後ろ。
 
 | 語 | 発音 | 中心の意味 | 自作の例文 |
 | --- | --- | --- | --- |
-| human | /ˈhjuːmən/ | 人間の | It is a **human** right.（それは人間の権利だ） |
-| human**e** | /hjuːˈmeɪn/ | 人道的な | They called for **humane** treatment.（人道的な扱いを求めた） |
+| human | /ˈhjuːmən/ | 人間の・人間 | It is a **human** right. / Humans make mistakes.（人間の権利だ／人は間違える） |
+| human**e** | /hjuːˈmeɪn/ | 人道的な | They called for the **humane** treatment of prisoners.（捕虜の人道的な扱いを求めた） |
 
-🎯 覚え方：**e が付く humane は「人道的（思いやり）」でアクセント後ろ**。種としての「人間の」は human。扱いが「思いやりある」なら humane。`,keyPoints:[`human /ˈhjuːmən/＝人間の・人間`,`humane /hjuːˈmeɪn/＝人道的な・思いやりのある（e あり・後ろアクセント）`,`扱い・行いが「思いやりある」なら humane`],quiz:[{id:`q-human-1`,question:`空所に入る適切な語はどれですか。「Animals deserve ( ) treatment.（動物は人道的な扱いを受けるべきだ）」`,options:[`human`,`humanly`,`humane`,`humanity`],correctAnswer:2,explanation:`「人道的な（扱い）」は humane です。`},{id:`q-human-2`,question:`「人間の・人間」を表す語はどれですか。`,options:[`humane`,`human`,`humanely`,`humaneness`],correctAnswer:1,explanation:`種としての「人間の」は human です。`},{id:`q-human-3`,question:`空所に入る適切な語はどれですか。「The disease affects the ( ) body.（その病気は人体を冒す）」`,options:[`humane`,`human`,`humanely`,`humanity`],correctAnswer:1,explanation:`「人体＝人間の体」は human body です。`},{id:`q-human-4`,question:`「思いやりのある・慈悲深い」を表すのはどちらですか。`,options:[`humane`,`human`,`どちらも`,`どちらも違う`],correctAnswer:0,explanation:`humane が「人道的・思いやりある」。human は「人間の」です。`},{id:`q-human-5`,question:`空所に入る適切な語はどれですか。「She is known for her ( ) work helping refugees.（彼女は難民を助ける人道的な活動で知られる）」`,options:[`human`,`humanly`,`humane`,`humans`],correctAnswer:2,explanation:`「人道的な（活動）」は humane です。`}]},{id:`adverse-averse`,title:`adverse と averse`,chapter:1,description:`adverse「不利な・逆の」（物事）、averse「（〜を）嫌って・気が進まない」（人・averse to）。`,content:`## 物事が不利か、人が嫌かで見分ける
+### 使い分けの手がかり
+
+**種・生物としての「ヒトの」なら human**（human body＝人体、human nature＝人間の性）。**扱いや行いが「思いやりある・むごくない」なら humane**（humane treatment＝人道的な扱い、動物福祉の文脈で頻出）。
+
+### 語族で押さえる
+
+同じ語根から広がる語をまとめると、意味の輪郭がはっきりします。
+
+| 語 | 品詞・意味 |
+| --- | --- |
+| human**ity** | 名詞：人類／人間性・思いやり |
+| human**itarian** | 形容詞・名詞：人道（支援）の・人道主義者 |
+| human**ly** | 副詞：人間の力で（It's not **humanly** possible.＝人間業では無理） |
+| human**e**ly | 副詞：人道的に（The animals were treated **humanely**.） |
+
+⚠️ 副詞が2つあります。**humanly**（人間の力で）と **humanely**（人道的に）は e ひとつで意味が別。文意に合うほうを選びます。
+
+🎯 覚え方：**e が付く human-e は「人道的（思いやり）」でアクセント後ろ**。種としての「人間の」は human。`,keyPoints:[`human /ˈhjuːmən/＝人間の・人間（種・生物としてのヒト）`,`humane /hjuːˈmeɪn/＝人道的な・思いやりのある（e あり・後ろアクセント）`,`副詞は humanly（人間の力で）と humanely（人道的に）で別`,`語族：humanity・humanitarian も同根`],quiz:[{id:`q-human-1`,question:`空所に入る適切な語はどれですか。「Animals deserve ( ) treatment.（動物は人道的な扱いを受けるべきだ）」`,options:[`human`,`humanly`,`humane`,`humanity`],correctAnswer:2,explanation:`「人道的な（扱い）」は humane です。`},{id:`q-human-2`,question:`「人間の・人間」を表す語はどれですか。`,options:[`humane`,`human`,`humanely`,`humaneness`],correctAnswer:1,explanation:`種としての「人間の」は human です。`},{id:`q-human-3`,question:`空所に入る適切な語はどれですか。「The disease affects the ( ) body.（その病気は人体を冒す）」`,options:[`humane`,`human`,`humanely`,`humanity`],correctAnswer:1,explanation:`「人体＝人間の体」は human body です。`},{id:`q-human-4`,question:`空所に入る適切な語はどれですか。「It is not ( ) possible to finish this in a day.（これを1日で終えるのは人間業では無理だ）」`,options:[`humanely`,`humanly`,`humane`,`humanity`],correctAnswer:1,explanation:`「人間の力で」は副詞 humanly（humanly possible）。humanely は「人道的に」で別の副詞です。`},{id:`q-human-5`,question:`空所に入る適切な語はどれですか。「She is known for her ( ) work helping refugees.（彼女は難民を助ける人道的な活動で知られる）」`,options:[`human`,`humanly`,`humane`,`humans`],correctAnswer:2,explanation:`「人道的な（活動）」は humane です。`}]},{id:`adverse-averse`,title:`adverse と averse`,chapter:1,description:`adverse「不利な・逆の」（物事）、averse「（〜を）嫌って・気が進まない」（人・averse to）。`,content:`## 物事が不利か、人が嫌かで見分ける
 
 つづりは d の有無で近いですが、意味と使い方が違います。
 
