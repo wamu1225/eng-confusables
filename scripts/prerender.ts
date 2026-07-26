@@ -135,12 +135,25 @@ function writePage(subpath: string, fullTitle: string, description: string, body
 let count = 0;
 for (const mod of modules) {
   const title = `${mod.title} の違い・使い分け | ${SITE_NAME}`;
+  const quizSnippet = mod.quiz.slice(0, 3).map((q, qi) => {
+    const correct = q.options[q.correctAnswer];
+    return `<div style="margin-bottom:12px;padding:12px;background:#f4f6fa;border-radius:6px;border-left:3px solid #2f4b7c">
+    <p style="margin:0 0 6px;font-weight:600;color:#23272e">Q${qi + 1}. ${inlineHtml(q.question)}</p>
+    <p style="margin:0;color:#444;font-size:0.92rem">A. ${inlineHtml(correct)}</p>
+  </div>`;
+  }).join('\n');
+  const quizHtml = `<section style="margin-top:22px">
+  <h2 style="font-size:1.05rem;margin:0 0 10px">確認クイズ（抜粋）</h2>
+  ${quizSnippet}
+  <p style="margin-top:4px;font-size:0.88rem;color:#868d99">全${mod.quiz.length}問はサイトのインタラクティブ版でお試しください。</p>
+</section>`;
   const body = `${banner}${articleOpen}
   <nav style="margin-bottom:14px;font-size:0.85rem"><a href="${BASE}/" style="color:#2f4b7c;text-decoration:none">さがす</a> / ${esc(chapterNames[mod.chapter])}</nav>
   <h1 style="font-size:1.55rem;font-weight:700;border-bottom:2px solid #2f4b7c;padding-bottom:8px;margin-bottom:10px">${esc(mod.title)}</h1>
   <p style="color:#555b66;margin-bottom:16px;font-size:1.02rem">${esc(mod.description)}</p>
   ${mdToHtml(mod.content)}
   ${mod.keyPoints ? `<h2 style="font-size:1.05rem;margin:22px 0 8px">まとめ</h2><ul style="padding-left:20px">${mod.keyPoints.map((k) => `<li>${esc(k)}</li>`).join('')}</ul>` : ''}
+  ${quizHtml}
   <nav style="margin-top:26px;border-top:1px solid #e2dfd7;padding-top:14px"><a href="${BASE}/" style="color:#2f4b7c;text-decoration:none">← 一覧へ戻る</a></nav>
   ${disclaimer}
 </article>`;
