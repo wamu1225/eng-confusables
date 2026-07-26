@@ -373,14 +373,40 @@ lie/lay と同じ「自動詞 vs 他動詞」の関係です。決め手も同�
 - **borrow** … 「**借りる**」。自分が**受け取る**側。ふつう **borrow … from 〜**。
 - **lend** … 「**貸す**」。自分が**渡す**側。**lend 人 物** または **lend 物 to 人**。
 
-| 語 | 向き | 中心の意味 | よく使う形 | 自作の例文 |
-| --- | --- | --- | --- | --- |
-| borrow | 受け取る側 | （無償で一時的に）借りる | borrow … from 〜 | Can I **borrow** your pen?（ペンを借りていい？） |
-| lend | 渡す側 | （一時的に）貸す | lend 人 物 / lend 物 to 人 | I'll **lend** you my umbrella.（傘を貸すよ） |
+| 語 | 向き | 中心の意味（よく使う形） | 自作の例文 |
+| --- | --- | --- | --- |
+| borrow | 受け取る側 | （無償で一時的に）借りる／borrow … from 〜 | Can I **borrow** your pen?（ペンを借りていい？） |
+| borrow | 受け取る側 | 借りた（過去の事実） | I **borrowed** this book from the library.（この本は図書館で借りた） |
+| lend | 渡す側 | （一時的に）貸す／lend 人 物 | I'll **lend** you my umbrella.（傘を貸すよ） |
+| lend | 渡す側 | 〜に貸す／lend 物 to 人 | She **lent** her bike to her brother.（弟に自転車を貸した） |
 
-🎯 見分け方：主語が「**受け取る人**」なら borrow、「**渡す人**」なら lend。同じ場面でも視点が逆。「A borrows from B」＝「B lends to A」。
+### 使い分けの手がかり
 
-💡 フック：bo**rrow** は「（受け取って後で）返す（return）」イメージ、**l**end は **l**oan（貸付）の l。活用は lend-**lent**-lent（不規則）、borrow-borrowed-borrowed（規則）。`,keyPoints:[`borrow＝借りる（受け取る側）、borrow … from 〜`,`lend＝貸す（渡す側）、lend 人 物／lend 物 to 人`,`見分け：主語が受け取る人なら borrow、渡す人なら lend`,`活用：lend-lent-lent（不規則）、borrow は規則`],quiz:[{id:`q-borrow-1`,question:`空所に入る適切な語はどれですか。「Can I ( ) your dictionary for a minute?（少し辞書を借りていい？）」`,options:[`lend`,`borrow`,`lent`,`borrowed`],correctAnswer:1,explanation:`主語 I が受け取る側なので borrow（借りる）。`},{id:`q-borrow-2`,question:`空所に入る適切な語はどれですか。「Could you ( ) me some money until payday?（給料日までお金を貸してくれる？）」`,options:[`borrow`,`lend`,`borrowed`,`borrowing`],correctAnswer:1,explanation:`主語 you が渡す側で、lend 人 物（lend me some money）の形なので lend。`},{id:`q-borrow-3`,question:`borrow と lend の見分け方として正しいものはどれですか。`,options:[`金額が大きければ lend`,`主語が受け取る人なら borrow、渡す人なら lend`,`borrow はいつも過去形`,`どちらも「貸す」`],correctAnswer:1,explanation:`視点で決まります。受け取る側の動作が borrow、渡す側の動作が lend。`},{id:`q-borrow-4`,question:`lend の過去形はどれですか。`,options:[`lent`,`lended`,`lend`,`lont`],correctAnswer:0,explanation:`lend は不規則変化で lend-lent-lent。borrow は規則変化です。`},{id:`q-borrow-5`,question:`「A borrows a book from B.」と同じ出来事を表す文はどれですか。`,options:[`A lends a book to B.`,`B borrows a book from A.`,`A and B borrow a book.`,`B lends a book to A.`],correctAnswer:3,explanation:`A が B から借りる＝B が A に貸す。視点が逆になるだけで同じやり取りです。`}]},{id:`beside-besides`,title:`beside と besides`,chapter:2,description:`s が付くだけで意味が変わる。beside は「〜のそばに」（位置）、besides は「〜に加えて」（追加）。`,content:`## どちらを使う？
+**主語がだれかを見ます。** 受け取る人が主語なら borrow、渡す人が主語なら lend です。同じ出来事を逆から言っているだけなので、**A borrows … from B ＝ B lends … to A** が必ず成り立ちます。
+
+**頼み方でも形が変わります。** Can I borrow your pen?（借りていい？＝主語は自分）と Can you lend me your pen?（貸してくれる？＝主語は相手）は同じ場面で使えますが、主語が入れ替わるぶん動詞も入れ替わります。
+
+### お金を払って借りるとき・その場で使うとき
+
+borrow と lend は**無償で、持ち運べるものを一時的に**やり取りするときの語です。ここから外れると別の語になります。
+
+| 場面 | 使う語 | 自作の例文 |
+| --- | --- | --- |
+| お金を払って借りる（部屋・車など） | rent | We **rented** a car for the weekend.（週末に車を借りた） |
+| お金を取って貸す | rent out | They **rent out** the upstairs room.（2階の部屋を貸している） |
+| 動かせないものをその場で使う | use | Can I **use** your bathroom?（トイレを借りていい？） |
+
+⚠️ 日本語では「トイレを借りる」「電話を借りる」と言いますが、その場を離れずに使うものは英語では use です。Can I borrow your bathroom? は不自然に響きます。
+
+### よくある誤用
+
+⚠️ \`Please borrow me your pen.\` は誤りです。渡すのは相手なので **lend**（Please lend me your pen. / Can I borrow your pen?）。
+
+⚠️ \`I borrowed him my bike.\` も誤りです。自分が渡しているので **lent**（I lent him my bike.）。
+
+💡 活用は lend-**lent**-lent（不規則）、borrow-borrowed-borrowed（規則）。lend の l は loan（貸付）の l と結びつけると向きを取り違えにくくなります。
+
+🎯 見分け方：主語が「**受け取る人**」なら borrow、「**渡す人**」なら lend。有償なら rent、その場で使うだけなら use。`,keyPoints:[`borrow＝借りる（受け取る側）、borrow … from 〜`,`lend＝貸す（渡す側）、lend 人 物／lend 物 to 人`,`有償で借りるは rent、その場で使うだけなら use（トイレ・電話）`,`活用：lend-lent-lent（不規則）、borrow は規則`],quiz:[{id:`q-borrow-1`,question:`空所に入る適切な語はどれですか。「Can I ( ) your dictionary for a minute?（少し辞書を借りていい？）」`,options:[`lend`,`borrow`,`lent`,`borrowed`],correctAnswer:1,explanation:`主語 I が受け取る側なので borrow（借りる）。`},{id:`q-borrow-2`,question:`空所に入る適切な語はどれですか。「Could you ( ) me some money until payday?（給料日までお金を貸してくれる？）」`,options:[`borrow`,`lend`,`borrowed`,`borrowing`],correctAnswer:1,explanation:`主語 you が渡す側で、lend 人 物（lend me some money）の形なので lend。`},{id:`q-borrow-3`,question:`空所に入る適切な語はどれですか。「Can I ( ) your bathroom?（トイレを借りていい？）」`,options:[`borrow`,`lend`,`use`,`rent`],correctAnswer:2,explanation:`その場を離れずに使う設備は use。borrow は持ち運んで後で返すものに使います。`},{id:`q-borrow-4`,question:`lend の過去形はどれですか。`,options:[`lent`,`lended`,`lend`,`lont`],correctAnswer:0,explanation:`lend は不規則変化で lend-lent-lent。borrow は規則変化です。`},{id:`q-borrow-5`,question:`「A borrows a book from B.」と同じ出来事を表す文はどれですか。`,options:[`A lends a book to B.`,`B borrows a book from A.`,`A and B borrow a book.`,`B lends a book to A.`],correctAnswer:3,explanation:`A が B から借りる＝B が A に貸す。視点が逆になるだけで同じやり取りです。`}]},{id:`beside-besides`,title:`beside と besides`,chapter:2,description:`s が付くだけで意味が変わる。beside は「〜のそばに」（位置）、besides は「〜に加えて」（追加）。`,content:`## どちらを使う？
 
 末尾の **s の有無**で、**位置**を表すか**追加**を表すかが変わります。
 
@@ -890,9 +916,35 @@ lie/lay と同じ「自動詞 vs 他動詞」の関係です。決め手も同�
 | 語 | 付く名詞 | 中心の意味 | 自作の例文 |
 | --- | --- | --- | --- |
 | fewer | 可算・複数 | より少ない数 | **Fewer** students came today.（今日は生徒が少なかった） |
+| fewer | 可算・複数 | より少ない数（than と） | We had **fewer** problems than last year.（去年より問題が少なかった） |
 | less | 不可算 | より少ない量 | I drink **less** coffee now.（今はコーヒーを飲む量が減った） |
+| less | 不可算 | より少ない程度 | This job takes **less** effort.（この仕事のほうが手間がかからない） |
 
-🎯 覚え方：**数えられる → fewer（複数の s と相性）**、**量・かたまり → less**。迷ったら「複数形にできる名詞か」を確認。※口語では many の量にも less を使うことがありますが、試験では原則どおり fewer + 可算 を選びます。`,keyPoints:[`fewer＝可算名詞（複数）に「より少ない数」`,`less＝不可算名詞に「より少ない量」`,`判断の鍵：後ろの名詞が数えられるか`],quiz:[{id:`q-fewer-1`,question:`空所に入る適切な語はどれですか。「We need ( ) chairs for the meeting.（会議にはもっと少ない数の椅子でよい）」`,options:[`fewer`,`less`,`little`,`lesser`],correctAnswer:0,explanation:`chairs は可算・複数なので fewer を使います。`},{id:`q-fewer-2`,question:`空所に入る適切な語はどれですか。「Try to use ( ) salt in your cooking.（料理の塩を減らして）」`,options:[`less`,`fewer`,`few`,`fewest`],correctAnswer:0,explanation:`salt は不可算なので less を使います。`},{id:`q-fewer-3`,question:`数えられる名詞（可算・複数）に付くのはどちらですか。`,options:[`fewer`,`less`,`どちらも`,`どちらも違う`],correctAnswer:0,explanation:`可算・複数には fewer。不可算には less です。`},{id:`q-fewer-4`,question:`空所に入る適切な語はどれですか。「I have ( ) free time these days.（このごろ自由な時間が少ない）」`,options:[`less`,`fewer`,`few`,`fewest`],correctAnswer:0,explanation:`time は不可算なので less です。`},{id:`q-fewer-5`,question:`空所に入る適切な語はどれですか。「( ) people signed up this year.（今年は申し込んだ人が少なかった）」`,options:[`Less`,`Little`,`Fewer`,`Lesser`],correctAnswer:2,explanation:`people は可算・複数扱いなので Fewer です。`}]},{id:`among-between`,title:`among と between`,chapter:2,description:`「〜の間」の使い分け。between は2つ（または個々に見る複数）の間、among は3つ以上の不特定の集団の中。`,content:`## 個々か集団かで見分ける
+### 使い分けの手がかり
+
+**その名詞を複数形にできるかを確かめます。** book → books のように s を付けられるなら fewer、water や money のように付けられないなら less です。
+
+**原級とセットで覚える**とぶれません。few（少ない・可算）の比較級が fewer、little（少ない・不可算）の比較級が less です。few と fewer、little と less がそれぞれ同じ仲間になります。
+
+### 例外：量のかたまりには less
+
+数字が付いていても、**時間・距離・金額・重さのように「ひとまとまりの量」として測るもの**には less を使います。
+
+| 形 | 自作の例文 | なぜ less か |
+| --- | --- | --- |
+| less than + 時間 | It took **less than** ten minutes.（10分もかからなかった） | 10分をひとつの長さとして見る |
+| less than + 距離 | The station is **less than** two kilometers away.（駅まで2キロ足らず） | 距離という量 |
+| less than + 金額 | I paid **less than** 3,000 yen.（3,000円未満だった） | 金額という量 |
+
+📖 スーパーのレジには 10 items or fewer と 10 items or less の両方の掲示が見られます。話し言葉では less も広く使われますが、**試験や書き言葉では可算名詞に fewer** を選んでおくのが安全です。
+
+### よくある誤用
+
+⚠️ \`less people\` \`less students\` は規範的には誤りです。人や生徒は数えられるので **fewer people / fewer students**。
+
+⚠️ 逆に \`fewer money\` \`fewer information\` も誤りです。money や information は不可算なので **less**。
+
+🎯 迷ったら「複数形にできるか」。できれば fewer、できなければ less。ただし時間・距離・金額は数字が付いても less（less than five minutes）。`,keyPoints:[`fewer＝可算名詞（複数）に「より少ない数」、less＝不可算名詞に「より少ない量」`,`判断の鍵：その名詞を複数形にできるか（few→fewer／little→less）`,`例外：時間・距離・金額は数字が付いても less（less than five minutes）`,`規範では less people は誤り。試験・書き言葉では fewer people`],quiz:[{id:`q-fewer-1`,question:`空所に入る適切な語はどれですか。「We need ( ) chairs for the meeting.（会議にはもっと少ない数の椅子でよい）」`,options:[`fewer`,`less`,`little`,`lesser`],correctAnswer:0,explanation:`chairs は可算・複数なので fewer を使います。`},{id:`q-fewer-2`,question:`空所に入る適切な語はどれですか。「Try to use ( ) salt in your cooking.（料理の塩を減らして）」`,options:[`less`,`fewer`,`few`,`fewest`],correctAnswer:0,explanation:`salt は不可算なので less を使います。`},{id:`q-fewer-3`,question:`空所に入る適切な語はどれですか。「The whole trip took ( ) than three hours.（旅は3時間もかからなかった）」`,options:[`fewer`,`less`,`few`,`little`],correctAnswer:1,explanation:`時間は数字が付いても「ひとまとまりの量」として扱うので less than を使います。`},{id:`q-fewer-4`,question:`空所に入る適切な語はどれですか。「I have ( ) free time these days.（このごろ自由な時間が少ない）」`,options:[`less`,`fewer`,`few`,`fewest`],correctAnswer:0,explanation:`time は不可算なので less です。`},{id:`q-fewer-5`,question:`空所に入る適切な語はどれですか。「( ) people signed up this year.（今年は申し込んだ人が少なかった）」`,options:[`Less`,`Little`,`Fewer`,`Lesser`],correctAnswer:2,explanation:`people は可算・複数扱いなので Fewer です。`}]},{id:`among-between`,title:`among と between`,chapter:2,description:`「〜の間」の使い分け。between は2つ（または個々に見る複数）の間、among は3つ以上の不特定の集団の中。`,content:`## 個々か集団かで見分ける
 
 どちらも「**〜の間・〜の中で**」ですが、**対象を個別にとらえるか、集団としてとらえるか**で使い分けます。
 
@@ -901,10 +953,26 @@ lie/lay と同じ「自動詞 vs 他動詞」の関係です。決め手も同�
 
 | 語 | 対象 | 中心の意味 | 自作の例文 |
 | --- | --- | --- | --- |
-| between | 2つ／個別の複数 | 〜の間で | Choose **between** tea and coffee.（紅茶とコーヒーのどちらかを選んで） |
-| among | 3つ以上の集団 | 〜の中で | She is popular **among** her classmates.（彼女はクラスメートに人気だ） |
+| between | 2つ | 〜の間で | Choose **between** tea and coffee.（紅茶とコーヒーのどちらかを選んで） |
+| between | 個別に見る3つ以上 | 〜の相互の間で | a treaty **between** the four countries（4か国間の条約） |
+| among | 3つ以上の集団 | 〜の中で | She is popular **among** her classmates.（クラスメートに人気だ） |
+| among | 集団の一部 | 〜のうちの一つ | It is **among** the oldest temples here.（ここで最も古い寺のひとつだ） |
 
-🎯 覚え方：**はっきり区別できる相手（多くは2つ）→ between**、**ひとまとまりの集団の中 → among**。国どうしの個別の関係のように、3つ以上でも個々を区別するなら between も使えます。`,keyPoints:[`between＝2つ、または個々に区別できる複数の間`,`among＝3つ以上の不特定の集団の中`,`鍵：対象を個別に見るか、集団として見るか`],quiz:[{id:`q-among-1`,question:`空所に入る適切な語はどれですか。「There is a small gap ( ) the two houses.（2軒の家の間に小さなすき間がある）」`,options:[`among`,`between`,`inside`,`along`],correctAnswer:1,explanation:`2つの間なので between を使います。`},{id:`q-among-2`,question:`空所に入る適切な語はどれですか。「The news spread quickly ( ) the villagers.（そのうわさは村人の間に広まった）」`,options:[`among`,`between`,`inside`,`toward`],correctAnswer:0,explanation:`3つ以上の集団の中なので among です。`},{id:`q-among-3`,question:`「2つのものの間」に主に使うのはどちらですか。`,options:[`among`,`between`,`どちらも`,`どちらも違う`],correctAnswer:1,explanation:`2つ（や個別の複数）の間は between。集団の中は among です。`},{id:`q-among-4`,question:`空所に入る適切な語はどれですか。「This song is popular ( ) young people.（この曲は若者に人気だ）」`,options:[`among`,`between`,`beside`,`within`],correctAnswer:0,explanation:`「若者たち」という集団の中なので among です。`},{id:`q-among-5`,question:`空所に入る適切な語はどれですか。「The talks ( ) the two countries went well.（両国間の会談はうまくいった）」`,options:[`among`,`between`,`inside`,`along`],correctAnswer:1,explanation:`2国を個別にとらえるので between です。`}]},{id:`peace-piece`,title:`peace と piece`,chapter:4,description:`同音 /piːs/。peace「平和・平穏」、piece「一片・かけら」。意味とスペルで判断する同音異義語。`,content:`## 音は同じ、意味とスペルで見分ける
+### 使い分けの手がかり
+
+**数ではなく見方で決まります。** 3つ以上でも「A と B と C がそれぞれ結ぶ関係」を意識するなら between が使えます（上の条約の例）。相手をひとまとまりの集団として見るなら among です。
+
+**後ろの形も手がかりになります。** between は **and** で相手を並べる形（between you and me、between A and B）が多く、among は **複数名詞や集団を表す名詞**（among the students、among the crowd）を直接とります。among のあとに単数の可算名詞は置けません。
+
+### よくある誤用
+
+⚠️ \`between you and I\` は誤りです。between は前置詞なので、あとは目的格をとり **between you and me**。ていねいに言おうとして I を選ぶ人が多い形です。
+
+⚠️ \`among the two options\` も誤りです。2つなら **between the two options**。
+
+📖 amongst は among と同じ意味で、主にイギリス英語で使われるやや堅い形です。意味の差はないので、まず among を使えば足ります。
+
+🎯 覚え方：**個々を見分けるなら between、ひとまとまりの中でなら among**。数の多さではなく「区別しているか」で決めます。`,keyPoints:[`between＝2つ、または個々に区別できる複数の間（between A and B）`,`among＝3つ以上の集団の中（among + 複数名詞・集団を表す名詞）`,`3つ以上でも個々の関係を意識するなら between（between the four countries）`,`前置詞なので between you and me（× between you and I）`],quiz:[{id:`q-among-1`,question:`空所に入る適切な語はどれですか。「There is a small gap ( ) the two houses.（2軒の家の間に小さなすき間がある）」`,options:[`among`,`between`,`inside`,`along`],correctAnswer:1,explanation:`2つの間なので between を使います。`},{id:`q-among-2`,question:`空所に入る適切な語はどれですか。「The news spread quickly ( ) the villagers.（そのうわさは村人の間に広まった）」`,options:[`among`,`between`,`inside`,`toward`],correctAnswer:0,explanation:`3つ以上の集団の中なので among です。`},{id:`q-among-3`,question:`空所に入る適切な語句はどれですか。「This is a secret ( ).（これは私とあなただけの秘密です）」`,options:[`among you and I`,`between you and I`,`between you and me`,`among you and me`],correctAnswer:2,explanation:`2人の間なので between。前置詞のあとは目的格なので you and me です。`},{id:`q-among-4`,question:`空所に入る適切な語はどれですか。「This song is popular ( ) young people.（この曲は若者に人気だ）」`,options:[`among`,`between`,`beside`,`within`],correctAnswer:0,explanation:`「若者たち」という集団の中なので among です。`},{id:`q-among-5`,question:`空所に入る適切な語はどれですか。「The talks ( ) the two countries went well.（両国間の会談はうまくいった）」`,options:[`among`,`between`,`inside`,`along`],correctAnswer:1,explanation:`2国を個別にとらえるので between です。`}]},{id:`peace-piece`,title:`peace と piece`,chapter:4,description:`同音 /piːs/。peace「平和・平穏」、piece「一片・かけら」。意味とスペルで判断する同音異義語。`,content:`## 音は同じ、意味とスペルで見分ける
 
 **peace と piece はまったく同じ発音 /piːs/（同音異義語）**。耳では区別できないので、**意味とスペル**で決めます。
 
@@ -962,21 +1030,54 @@ lie/lay と同じ「自動詞 vs 他動詞」の関係です。決め手も同�
 | 語 | 向き | 中心の意味 | 自作の例文 |
 | --- | --- | --- | --- |
 | bring | こちらへ | 持ってくる | Please **bring** your umbrella here.（傘をここへ持ってきて） |
+| bring | 相手のいる所へ | 持っていく（相手が基準） | I'll **bring** a cake to your party.（あなたのパーティーにケーキを持っていくね） |
 | take | あちらへ | 持っていく | Don't forget to **take** your umbrella.（傘を持っていくのを忘れずに） |
+| take | 人を伴って | 連れていく・送る | I'll **take** you to the station.（駅まで送るよ） |
 
-🎯 覚え方：**come（来る）の仲間が bring、go（行く）の仲間が take**。聞き手のいる場所へなら bring も使えます。要は「どこを基準に近づく／離れるか」。`,keyPoints:[`bring＝基準点の方へ「持ってくる」（come の仲間・bring-brought-brought）`,`take＝基準点から離す方へ「持っていく」（go の仲間・take-took-taken）`,`判断の鍵：基準点に近づくか遠ざかるか`],quiz:[{id:`q-bring-1`,question:`空所に入る適切な語はどれですか。「Can you ( ) me a glass of water?（水を一杯持ってきてくれる？）」`,options:[`take`,`took`,`taken`,`bring`],correctAnswer:3,explanation:`話し手の方へ「持ってくる」は bring です。`},{id:`q-bring-2`,question:`空所に入る適切な語はどれですか。「Remember to ( ) this letter to the post office.（この手紙を郵便局へ持っていって）」`,options:[`bring`,`take`,`brought`,`brings`],correctAnswer:1,explanation:`ここから離れた場所へ「持っていく」は take です。`},{id:`q-bring-3`,question:`come（来る）と同じ向きの「持ってくる」はどちらですか。`,options:[`take`,`bring`,`どちらも`,`どちらも違う`],correctAnswer:1,explanation:`bring は come の仲間（こちらへ）。take は go の仲間（あちらへ）です。`},{id:`q-bring-4`,question:`take の活用として正しいものはどれですか。`,options:[`take-took-taken`,`take-taked-taked`,`take-take-took`,`take-taken-took`],correctAnswer:0,explanation:`take は不規則動詞で take-took-taken です。`},{id:`q-bring-5`,question:`空所に入る適切な語はどれですか。「I'll ( ) some snacks to your party tonight.（今夜のパーティーにお菓子を持っていくね）」`,options:[`take`,`took`,`brought`,`bring`],correctAnswer:3,explanation:`聞き手（相手）のいる場所へ向けては bring を使えます。`}]},{id:`remember-remind`,title:`remember と remind`,chapter:2,description:`思い出す主体が違う。remember は自分が「思い出す・覚えている」、remind は人に「思い出させる」。`,content:`## だれが思い出すかで見分ける
+### 使い分けの手がかり
+
+**基準点は話し手のいる場所とは限りません。** 話している相手のいる場所や、話題の中心になっている場所も基準になります。だから相手の家のパーティーに持っていくものは、相手を基準にして bring と言えます。
+
+**come と go に置き換えて確かめます。** その移動を come（来る）と言えるなら bring、go（行く）と言えるなら take です。I'm coming to your party. と言える場面なら I'm bringing a cake. も自然になります。
+
+### よくある誤用
+
+⚠️ 自分がここから駅まで送るのに \`I'll bring you to the station.\` とするのは不自然です。ここから離れる移動なので **take**。日本語の「連れていく」に引かれた誤りです。
+
+⚠️ \`Bring your passport when you go to the airport.\` も基準がずれています。空港へ向かうのは離れる移動なので **take**（話し手が空港にいて「持ってきて」と言う場面なら bring）。
+
+💡 「取りに行って戻ってくる」動作は get や fetch です。Can you **get** my bag from the car?（車から鞄を取ってきて）のように、往復を含む点が bring と違います。
+
+🎯 覚え方：**come の仲間が bring、go の仲間が take**。基準点に近づくか離れるかだけを見ます。`,keyPoints:[`bring＝基準点の方へ「持ってくる」（come の仲間・bring-brought-brought）`,`take＝基準点から離す方へ「持っていく」（go の仲間・take-took-taken）`,`基準点は話し手だけでなく聞き手のいる場所も（bring a cake to your party）`,`取りに行って戻る動作は get / fetch`],quiz:[{id:`q-bring-1`,question:`空所に入る適切な語はどれですか。「Can you ( ) me a glass of water?（水を一杯持ってきてくれる？）」`,options:[`take`,`took`,`taken`,`bring`],correctAnswer:3,explanation:`話し手の方へ「持ってくる」は bring です。`},{id:`q-bring-2`,question:`空所に入る適切な語はどれですか。「Remember to ( ) this letter to the post office.（この手紙を郵便局へ持っていって）」`,options:[`bring`,`take`,`brought`,`brings`],correctAnswer:1,explanation:`ここから離れた場所へ「持っていく」は take です。`},{id:`q-bring-3`,question:`空所に入る適切な語はどれですか。「I will ( ) you to the airport tomorrow morning.（明日の朝、空港まで送るよ）」`,options:[`bring`,`take`,`brought`,`bringing`],correctAnswer:1,explanation:`今いる場所から離れる移動なので take。日本語の「連れていく」から bring を選ぶ誤りが多い形です。`},{id:`q-bring-4`,question:`take の活用として正しいものはどれですか。`,options:[`take-took-taken`,`take-taked-taked`,`take-take-took`,`take-taken-took`],correctAnswer:0,explanation:`take は不規則動詞で take-took-taken です。`},{id:`q-bring-5`,question:`空所に入る適切な語はどれですか。「I'll ( ) some snacks to your party tonight.（今夜のパーティーにお菓子を持っていくね）」`,options:[`take`,`took`,`brought`,`bring`],correctAnswer:3,explanation:`聞き手（相手）のいる場所へ向けては bring を使えます。`}]},{id:`remember-remind`,title:`remember と remind`,chapter:2,description:`思い出す主体が違う。remember は自分が「思い出す・覚えている」、remind は人に「思い出させる」。`,content:`## だれが思い出すかで見分ける
 
 どちらも記憶に関わりますが、**思い出すのが自分か、人に思い出させるのか**で使い分けます。
 
-- **remember** … 自分が「**思い出す・覚えている**」。remember to do（これからすることを忘れない）／remember doing（したことを覚えている）。
-- **remind** … 人に「**思い出させる・気づかせる**」。remind 人 of ~／remind 人 to do。
+- **remember** … 自分が「**思い出す・覚えている**」。人を目的語にして「思い出させる」意味にはなりません。
+- **remind** … 人に「**思い出させる・気づかせる**」。「だれに」を必ず目的語にとります。
 
-| 語 | 主体 | 中心の意味 | 自作の例文 |
-| --- | --- | --- | --- |
-| remember | 自分 | 思い出す・覚えている | I **remember** meeting her last year.（去年彼女に会ったのを覚えている） |
-| remind | 人に | 思い出させる | Please **remind** me to call him.（彼に電話するよう私に言って） |
+| 語 | 中心の意味（よく使う形） | 自作の例文 |
+| --- | --- | --- |
+| remember | 覚えている（remember + 名詞・that 節） | I **remember** his name.（彼の名前を覚えている） |
+| remember | 忘れずに〜する（remember **to do**） | **Remember to** lock the door.（ドアの施錠を忘れないで） |
+| remember | 〜したのを覚えている（remember **doing**） | I **remember** locking the door.（施錠したのは覚えている） |
+| remind | 〜を思い出させる（remind 人 **of** 名詞） | This song **reminds** me **of** summer.（この曲は夏を思い出させる） |
+| remind | 〜するよう言う（remind 人 **to do**） | **Remind** me **to** call him.（彼に電話するよう言って） |
 
-🎯 覚え方：**remind は re-mind＝人の心（mind）に働きかけて「思い出させる」**。remember は自分の中の記憶。目的語に「人」をとり「思い出させる」なら remind。`,keyPoints:[`remember＝自分が「思い出す・覚えている」`,`remind＝人に「思い出させる」（remind 人 of / to do）`,`remind は re-mind（人の心に働きかける）`],quiz:[{id:`q-remember-1`,question:`空所に入る適切な語はどれですか。「This photo ( ) me of my childhood.（この写真は子ども時代を思い出させる）」`,options:[`remembers`,`remains`,`reminds`,`reminds me`],correctAnswer:2,explanation:`「（人・物が）〜を思い出させる」は remind 人 of ~ です。`},{id:`q-remember-2`,question:`空所に入る適切な語はどれですか。「Do you ( ) his phone number?（彼の電話番号を覚えている？）」`,options:[`remember`,`remind`,`remove`,`remain`],correctAnswer:0,explanation:`自分が「覚えている」は remember です。`},{id:`q-remember-3`,question:`「人に思い出させる」という意味の語はどれですか。`,options:[`remind`,`remember`,`どちらも`,`どちらも違う`],correctAnswer:0,explanation:`人に思い出させるのは remind。自分が思い出すのは remember です。`},{id:`q-remember-4`,question:`空所に入る適切な語はどれですか。「Please ( ) to lock the door.（ドアに鍵をかけるのを忘れないで）」`,options:[`remember`,`remind`,`reminds`,`reminded`],correctAnswer:0,explanation:`自分が「忘れずに〜する」は remember to do です。`},{id:`q-remember-5`,question:`空所に入る適切な語はどれですか。「Could you ( ) me to bring my passport?（パスポートを持ってくるよう言ってくれる？）」`,options:[`remember`,`remembers`,`remind`,`remained`],correctAnswer:2,explanation:`remind 人 to do で「人に〜するよう思い出させる」です。`}]},{id:`waist-waste`,title:`waist と waste`,chapter:4,description:`同音 /weɪst/。waist「腰・ウエスト」（名詞）、waste「無駄にする／廃棄物」（動詞・名詞）。`,content:`## 音は同じ、意味とスペルで見分ける
+### to do と doing で内容が逆になる
+
+remember to do はこれから**する**こと、remember doing はすでに**した**ことを指します。上の表の2つの例文は、前者が「これから鍵をかける」、後者が「もう鍵をかけた」と、内容が正反対です。forget も同じ組み合わせで、forget to do（するのを忘れる）と forget doing（したのを忘れる）が対になります。
+
+### remind me of の使い方
+
+remind 人 of 〜 は「〜を思い出させる」のほかに「**〜に似ている**」という含みでもよく使います。You **remind** me **of** your father.（お父さんに似ているね）は、人の面影や雰囲気について言うときの定番です。
+
+### よくある誤用
+
+⚠️ \`This picture remembers me of my trip.\` は誤りです。人に思い出させるのは **reminds**（This picture reminds me of my trip.）。
+
+⚠️ \`I remembered him to bring his ID.\` も誤りです。相手に言ったのなら **reminded**（I reminded him to bring his ID.）。
+
+🎯 覚え方：**remind は re-mind＝人の心（mind）に働きかける**ので、あとに必ず人が来ます。人が来ない文なら remember です。`,keyPoints:[`remember＝自分が「思い出す・覚えている」`,`remind＝人に「思い出させる」（remind 人 of 名詞／remind 人 to do）`,`remember to do＝これからすること、remember doing＝もうしたこと`,`remind のあとには必ず「人」が来る`],quiz:[{id:`q-remember-1`,question:`空所に入る適切な語はどれですか。「This photo ( ) me of my childhood.（この写真は子ども時代を思い出させる）」`,options:[`remembers`,`remains`,`reminds`,`reminds me`],correctAnswer:2,explanation:`「（人・物が）〜を思い出させる」は remind 人 of ~ です。`},{id:`q-remember-2`,question:`空所に入る適切な語はどれですか。「Do you ( ) his phone number?（彼の電話番号を覚えている？）」`,options:[`remember`,`remind`,`remove`,`remain`],correctAnswer:0,explanation:`自分が「覚えている」は remember です。`},{id:`q-remember-3`,question:`空所に入る適切な形はどれですか。「I clearly remember ( ) the door before we left.（出かける前にドアに鍵をかけたのははっきり覚えている）」`,options:[`lock`,`to lock`,`locking`,`locked`],correctAnswer:2,explanation:`すでにした行為は remember doing。remember to do はこれからすることを指します。`},{id:`q-remember-4`,question:`空所に入る適切な語はどれですか。「Please ( ) to lock the door.（ドアに鍵をかけるのを忘れないで）」`,options:[`remember`,`remind`,`reminds`,`reminded`],correctAnswer:0,explanation:`自分が「忘れずに〜する」は remember to do です。`},{id:`q-remember-5`,question:`空所に入る適切な語はどれですか。「Could you ( ) me to bring my passport?（パスポートを持ってくるよう言ってくれる？）」`,options:[`remember`,`remembers`,`remind`,`remained`],correctAnswer:2,explanation:`remind 人 to do で「人に〜するよう思い出させる」です。`}]},{id:`waist-waste`,title:`waist と waste`,chapter:4,description:`同音 /weɪst/。waist「腰・ウエスト」（名詞）、waste「無駄にする／廃棄物」（動詞・名詞）。`,content:`## 音は同じ、意味とスペルで見分ける
 
 **waist と waste は同じ発音 /weɪst/（同音異義語）**。意味とスペルで決めます。
 
@@ -1040,15 +1141,39 @@ lie/lay と同じ「自動詞 vs 他動詞」の関係です。決め手も同�
 
 どちらも耳に関わりますが、**意図せず聞こえるか、注意を向けて聞くか**で使い分けます。
 
-- **hear** … 音が自然に「**聞こえる・耳に入る**」。hear-heard-heard。
-- **listen** … 意識して「**耳を傾ける・聞く**」。あとに **to** をとる（listen to ~）。
+- **hear** … 音が自然に「**聞こえる・耳に入る**」。他動詞で、目的語が直接続く。
+- **listen** … 意識して「**耳を傾ける**」。自動詞なので、目的語の前に **to** が要る。
 
-| 語 | 意識 | 中心の意味 | 自作の例文 |
+| 語 | 意識 | 目的語の前 | 自作の例文 |
 | --- | --- | --- | --- |
-| hear | なし | 聞こえる | I **heard** a strange noise.（変な音が聞こえた） |
-| listen | あり | 耳を傾ける | I **listen to** music every day.（毎日音楽を聞く） |
+| hear | なし（自然に） | 不要 | I **heard** a strange noise.（変な音が聞こえた） |
+| hear | なし（情報が耳に） | 不要 | I **heard** that he moved to Osaka.（彼が大阪に引っ越したと聞いた） |
+| listen | あり（自分から） | **to** が必要 | I **listen to** music every day.（毎日音楽を聞く） |
+| listen | あり（注意を向ける） | 単独でも使う | **Listen!** Someone is at the door.（聞いて、だれか来てる） |
 
-🎯 覚え方：**hear は勝手に「聞こえる」、listen は自分から「聞きにいく」**。listen は目的語の前に to が必要（listen to the radio）。`,keyPoints:[`hear＝自然に「聞こえる」（hear-heard-heard）`,`listen＝意識して「聞く」（listen to ~）`,`listen は to が必要、hear は不要`],quiz:[{id:`q-hear-1`,question:`空所に入る適切な語はどれですか。「Please ( ) to the teacher carefully.（先生の話をよく聞いて）」`,options:[`hear`,`heard`,`hearing`,`listen`],correctAnswer:3,explanation:`意識して「耳を傾ける」は listen（to つき）です。`},{id:`q-hear-2`,question:`空所に入る適切な語はどれですか。「Can you ( ) me at the back?（後ろの私の声が聞こえますか）」`,options:[`listen`,`listen to`,`heard`,`hear`],correctAnswer:3,explanation:`「（自然に）聞こえる」は hear です。`},{id:`q-hear-3`,question:`あとに to をとって「〜を聞く」となるのはどちらですか。`,options:[`hear`,`listen`,`どちらも`,`どちらも違う`],correctAnswer:1,explanation:`listen to ~。hear は to をとりません。`},{id:`q-hear-4`,question:`hear の活用として正しいものはどれですか。`,options:[`hear-heared-heared`,`hear-hore-horn`,`hear-heard-hearing`,`hear-heard-heard`],correctAnswer:3,explanation:`hear は不規則動詞で hear-heard-heard です。`},{id:`q-hear-5`,question:`空所に入る適切な語はどれですか。「She was ( ) to the radio when I arrived.（私が着いたとき彼女はラジオを聞いていた）」`,options:[`listening`,`hearing`,`heard`,`hears`],correctAnswer:0,explanation:`「ラジオを聞く」は listen to。進行形で listening to です。`}]},{id:`win-beat`,title:`win と beat`,chapter:2,description:`目的語が違う。win は「試合・賞」に勝つ（win a game）、beat は「相手」を負かす（beat someone）。`,content:`## 何に勝つかで見分ける
+### 使い分けの手がかり
+
+**努力しているかどうか**で決まります。listen は「聞こうとする」行為、hear は「聞こえる」という結果です。だから listen しても hear できないことがあります。I listened carefully but couldn't hear anything.（注意して聞いたが何も聞こえなかった）が成り立つのは、この差があるからです。
+
+**進行形にするかどうか**も違います。hear は結果を表すので進行形にしにくく、「今聞こえている」は **can hear** で表します。I can hear you.（あなたの声が聞こえます）が自然な形です。
+
+### hear の後ろにつく前置詞
+
+hear は前置詞と組むと意味が変わります。混同しやすいので分けて覚えます。
+
+| 形 | 意味 | 自作の例文 |
+| --- | --- | --- |
+| hear from 人 | 手紙や電話で**連絡をもらう** | I **heard from** my sister yesterday.（昨日、姉から連絡があった） |
+| hear about 〜 | 〜について**詳しい話を聞く** | Did you **hear about** the accident?（あの事故のこと聞いた？） |
+| hear of 〜 | 〜の**存在を知っている** | I have never **heard of** that band.（そのバンドは聞いたことがない） |
+
+### よくある誤用
+
+⚠️ \`Listen the radio.\` は誤りです。listen は自動詞なので **listen to the radio**。
+
+⚠️ \`I am hearing music now.\` も不自然です。意識して聞いているなら **I am listening to music.**、耳に入っているだけなら **I can hear music.**。
+
+🎯 覚え方：**hear は入ってくる、listen は取りにいく**。listen には to が要り、hear には要りません。`,keyPoints:[`hear＝自然に「聞こえる」（他動詞・to は不要）`,`listen＝意識して「聞く」（自動詞・listen to 〜）`,`「今聞こえている」は進行形でなく can hear`,`hear from＝連絡をもらう／hear about＝話を聞く／hear of＝存在を知っている`],quiz:[{id:`q-hear-1`,question:`空所に入る適切な語はどれですか。「Please ( ) to the teacher carefully.（先生の話をよく聞いて）」`,options:[`hear`,`heard`,`hearing`,`listen`],correctAnswer:3,explanation:`意識して「耳を傾ける」は listen（to つき）です。`},{id:`q-hear-2`,question:`空所に入る適切な語はどれですか。「Can you ( ) me at the back?（後ろの私の声が聞こえますか）」`,options:[`listen`,`listen to`,`heard`,`hear`],correctAnswer:3,explanation:`「（自然に）聞こえる」は hear です。`},{id:`q-hear-3`,question:`空所に入る適切な語はどれですか。「I ( ) from my old friend last week.（先週、旧友から連絡があった）」`,options:[`listened`,`heard`,`listened to`,`hearing`],correctAnswer:1,explanation:`hear from 人 で「手紙や電話で連絡をもらう」。listen from という形はありません。`},{id:`q-hear-4`,question:`hear の活用として正しいものはどれですか。`,options:[`hear-heared-heared`,`hear-hore-horn`,`hear-heard-hearing`,`hear-heard-heard`],correctAnswer:3,explanation:`hear は不規則動詞で hear-heard-heard です。`},{id:`q-hear-5`,question:`空所に入る適切な語はどれですか。「She was ( ) to the radio when I arrived.（私が着いたとき彼女はラジオを聞いていた）」`,options:[`listening`,`hearing`,`heard`,`hears`],correctAnswer:0,explanation:`「ラジオを聞く」は listen to。進行形で listening to です。`}]},{id:`win-beat`,title:`win と beat`,chapter:2,description:`目的語が違う。win は「試合・賞」に勝つ（win a game）、beat は「相手」を負かす（beat someone）。`,content:`## 何に勝つかで見分ける
 
 どちらも「勝つ」ですが、**あとに来るのが「試合・賞など」か「対戦相手」か**で使い分けます。
 
@@ -1148,15 +1273,33 @@ lie/lay と同じ「自動詞 vs 他動詞」の関係です。決め手も同�
 
 知識が動く向きが逆です。**教える側か、学ぶ側か**で使い分けます。
 
-- **teach** … 「**（人に）教える**」。teach-taught-taught。teach 人 ~。
-- **learn** … 「**（自分が）学ぶ・習う・覚える**」。learn-learned/learnt。
+- **teach** … 「**（人に）教える**」。teach-taught-taught。
+- **learn** … 「**（自分が）学ぶ・習う・身につける**」。learn-learned（イギリス英語では learnt も）。
 
-| 語 | 主体 | 中心の意味 | 自作の例文 |
+| 語 | 主体 | 中心の意味（よく使う形） | 自作の例文 |
 | --- | --- | --- | --- |
-| teach | 教える側 | （人に）教える | She **teaches** English to children.（彼女は子どもに英語を教える） |
-| learn | 学ぶ側 | （自分が）学ぶ | I want to **learn** Spanish.（スペイン語を学びたい） |
+| teach | 教える側 | （人に）教える／teach 人 物 | She **teaches** us English.（彼女は私たちに英語を教える） |
+| teach | 教える側 | やり方を教える／teach 人 how to do | He **taught** me how to drive.（彼が運転を教えてくれた） |
+| learn | 学ぶ側 | （自分が）学ぶ・身につける | I want to **learn** Spanish.（スペイン語を学びたい） |
+| learn | 学ぶ側 | 人から教わる／learn **from** 人 | I **learned** a lot **from** her.（彼女から多くを学んだ） |
 
-🎯 覚え方：**teach は「与える（give）」側、learn は「受け取る（get）」側**。「〜に教える」は teach、「〜を学ぶ・身につける」は learn。日本語の「教わる」に learn を当てる誤りに注意。`,keyPoints:[`teach＝（人に）教える（teach-taught-taught）`,`learn＝（自分が）学ぶ・覚える（learn-learned/learnt）`,`向き：teach は与える側、learn は受け取る側`],quiz:[{id:`q-teach-1`,question:`空所に入る適切な語はどれですか。「Children ( ) very quickly.（子どもはとても速く学ぶ）」`,options:[`learn`,`teach`,`taught`,`teaches`],correctAnswer:0,explanation:`「（自分が）学ぶ」は learn です。`},{id:`q-teach-2`,question:`空所に入る適切な語はどれですか。「Mr. Tanaka ( ) us math.（田中先生は私たちに数学を教える）」`,options:[`learns`,`teaches`,`learned`,`learning`],correctAnswer:1,explanation:`「（人に）教える」は teach（三単現 teaches）です。`},{id:`q-teach-3`,question:`「（自分が）学ぶ・覚える」を表すのはどちらですか。`,options:[`learn`,`teach`,`どちらも`,`どちらも違う`],correctAnswer:0,explanation:`learn が学ぶ側。teach は教える側です。`},{id:`q-teach-4`,question:`teach の活用として正しいものはどれですか。`,options:[`teach-teached-teached`,`teach-tought-tought`,`teach-taught-teached`,`teach-taught-taught`],correctAnswer:3,explanation:`teach は不規則動詞で teach-taught-taught です。`},{id:`q-teach-5`,question:`空所に入る適切な語はどれですか。「I ( ) how to swim last summer.（去年の夏に泳ぎ方を覚えた）」`,options:[`taught`,`teach`,`learned`,`teaches`],correctAnswer:2,explanation:`「（自分が）覚えた」は learn の過去 learned です。`}]},{id:`price-cost`,title:`price と cost`,chapter:2,description:`視点が違う。price は売り手がつける「売値」、cost は手に入れる/作るのに「かかる費用」。cost は動詞にもなる。`,content:`## 売値か、かかる費用かで見分ける
+### 「教わる」をどう言うか
+
+日本語の「教わる」は learn です。teach の主語は必ず教える側なので、「私は先生に教わった」は **I learned it from my teacher.** か、受け身の **I was taught by my teacher.** になります。主語 I のまま teach を使うと「私が教えた」という逆の意味になってしまいます。
+
+### study との違い
+
+study は「勉強する」という**過程**、learn は「身につく」という**結果**を指します。だから I studied French for three years but didn't learn much.（3年フランス語を勉強したが、あまり身につかなかった）が矛盾なく成り立ちます。
+
+### よくある誤用
+
+⚠️ \`I learned English to my brother.\` は誤りです。自分が教えたのなら **taught**（I taught my brother English.）。
+
+⚠️ \`He teached us math.\` も誤りです。teach は不規則動詞なので **taught**。
+
+📖 learn の過去形・過去分詞は、アメリカ英語では learned、イギリス英語では learnt もよく使われます。どちらも正しい形です。
+
+🎯 覚え方：**teach は与える側、learn は受け取る側**。「教わる」は learn from か be taught by。`,keyPoints:[`teach＝（人に）教える（teach-taught-taught）`,`learn＝（自分が）学ぶ・身につける（learn from 人＝〜に教わる）`,`「教わる」は learn from か be taught by（teach は使えない）`,`study＝勉強する過程、learn＝身につく結果`],quiz:[{id:`q-teach-1`,question:`空所に入る適切な語はどれですか。「Children ( ) very quickly.（子どもはとても速く学ぶ）」`,options:[`learn`,`teach`,`taught`,`teaches`],correctAnswer:0,explanation:`「（自分が）学ぶ」は learn です。`},{id:`q-teach-2`,question:`空所に入る適切な語はどれですか。「Mr. Tanaka ( ) us math.（田中先生は私たちに数学を教える）」`,options:[`learns`,`teaches`,`learned`,`learning`],correctAnswer:1,explanation:`「（人に）教える」は teach（三単現 teaches）です。`},{id:`q-teach-3`,question:`空所に入る適切な語はどれですか。「I ( ) how to make bread from my grandmother.（祖母にパンの作り方を教わった）」`,options:[`taught`,`learned`,`was teaching`,`teach`],correctAnswer:1,explanation:`「教わる」は learn from 人。teach の主語は教える側なので、ここでは使えません。`},{id:`q-teach-4`,question:`teach の活用として正しいものはどれですか。`,options:[`teach-teached-teached`,`teach-tought-tought`,`teach-taught-teached`,`teach-taught-taught`],correctAnswer:3,explanation:`teach は不規則動詞で teach-taught-taught です。`},{id:`q-teach-5`,question:`空所に入る適切な語はどれですか。「I ( ) how to swim last summer.（去年の夏に泳ぎ方を覚えた）」`,options:[`taught`,`teach`,`learned`,`teaches`],correctAnswer:2,explanation:`「（自分が）覚えた」は learn の過去 learned です。`}]},{id:`price-cost`,title:`price と cost`,chapter:2,description:`視点が違う。price は売り手がつける「売値」、cost は手に入れる/作るのに「かかる費用」。cost は動詞にもなる。`,content:`## 売値か、かかる費用かで見分ける
 
 どちらもお金に関わりますが、**表示された売値か、実際にかかる費用か**で使い分けます。
 
@@ -2950,7 +3093,7 @@ wonder は **wonder if / wonder why** のように節を続ける形が多く、
 日本語ではどれも「見る」ですが、英語は**視線を向ける／目に入る／動きを追う**で語を変えます。
 
 - **look (at)** … 自分の意志で**視線を向ける**。方向の動作なので前置詞 at が要る。
-- **see** … 意志と関係なく**目に入る・見える**。知覚動詞で進行形にしにくい。
+- **see** … 意志と関係なく**目に入る・見える**。知覚を表すので進行形にしにくい。
 - **watch** … 動きや変化のあるものを**一定時間注視する**。
 
 | 語 | 焦点 | 目的語の前 | 自作の例文 |
@@ -2959,9 +3102,32 @@ wonder は **wonder if / wonder why** のように節を続ける形が多く、
 | see | 見える・目に入る | 直接続く | I can **see** the tower from here.（ここから塔が見える） |
 | watch | 動くものを追う | 直接続く | We **watched** the game to the end.（試合を最後まで見た） |
 
-映画館の作品は see a movie、テレビ番組は watch TV が普通です（テレビは動きを追い続けるため）。
+### 使い分けの手がかり
 
-🎯 覚え方：**look＝向ける、see＝入ってくる、watch＝追いかける**。静止画は look、風景は see、動画は watch。`,keyPoints:[`look (at)＝意識して視線を向ける（at が必要）`,`see＝目に入る・見える（意志と無関係）`,`watch＝動くものを一定時間注視する`],quiz:[{id:`q-look-1`,question:`空所に入る適切な語はどれですか。「( ) at the blackboard, please.（黒板を見てください）」`,options:[`See`,`Watch`,`Look`,`Seem`],correctAnswer:2,explanation:`視線を向ける動作は look at です。`},{id:`q-look-2`,question:`空所に入る適切な語はどれですか。「I can ( ) the sea from my window.（窓から海が見える）」`,options:[`look`,`see`,`watch`,`look at`],correctAnswer:1,explanation:`目に入って「見える」は see です。`},{id:`q-look-3`,question:`空所に入る適切な語はどれですか。「They ( ) the soccer match on TV last night.（昨夜テレビでサッカーの試合を見た）」`,options:[`watched`,`looked`,`saw at`,`looked`],correctAnswer:0,explanation:`動きを追い続ける観戦は watch です。`},{id:`q-look-4`,question:`look の後に目的語を置くとき、必要になる前置詞はどれですか。`,options:[`for のみ`,`at`,`to`,`不要`],correctAnswer:1,explanation:`「〜を見る」は look at 〜。look だけでは目的語を取れません。`},{id:`q-look-5`,question:`3語の使い分けとして正しい説明はどれですか。`,options:[`look＝見える／see＝注視する／watch＝視線を向ける`,`3語とも同じで交換できる`,`look＝視線を向ける／see＝目に入る／watch＝動くものを追う`,`watch は静止したものにだけ使う`],correctAnswer:2,explanation:`look は動作、see は知覚、watch は継続的な注視です。`}]},{id:`during-while`,title:`during と while`,chapter:2,description:`どちらも「〜の間」。during は前置詞で後ろに名詞、while は接続詞で後ろに「主語＋動詞」の節が来る。`,content:`## 後ろに名詞が来るか、文が来るか
+**動いているか、止まっているか**が目安になります。写真・絵・地図のように動かないものは look at、試合・番組・子どものように動きや変化を追うものは watch です。映画は、館内で作品を鑑賞するときは see a movie、家で画面を追うときは watch a movie が普通で、テレビ番組は watch TV です。
+
+**「見える」は see** です。努力せず目に入る場合で、can と組むのが自然です。I can see the sea from my room.（部屋から海が見える）のように、進行形ではなく can see を使います。
+
+### 句動詞で意味が変わる
+
+look は後ろの前置詞で意味が大きく変わります。ここを取り違えると文意が別物になります。
+
+| 形 | 意味 | 自作の例文 |
+| --- | --- | --- |
+| look at 〜 | 〜に視線を向ける | **Look at** the map.（地図を見て） |
+| look for 〜 | 〜を**探す** | I am **looking for** my keys.（鍵を探している） |
+| look after 〜 | 〜の**世話をする** | She **looks after** her little brother.（弟の面倒を見ている） |
+| look like 〜 | 〜に**似ている・〜のようだ** | It **looks like** rain.（雨になりそうだ） |
+
+📖 see には「会う・診てもらう」の意味もあり、この意味では進行形も使います。I am **seeing** a doctor tomorrow.（明日、医者に診てもらう）。同じ see でも「見える」の意味では進行形にしません。
+
+### よくある誤用
+
+⚠️ \`Look this picture.\` は誤りです。look は目的語を直接とれないので **look at this picture**。
+
+⚠️ \`I am seeing the mountain from here.\` も不自然です。「見える」は **I can see the mountain from here.**。
+
+🎯 覚え方：**look＝向ける、see＝入ってくる、watch＝追いかける**。止まっているものは look、目に入るものは see、動くものは watch。`,keyPoints:[`look (at)＝意識して視線を向ける（at が必要）`,`see＝目に入る・見える（can see。進行形にしない）`,`watch＝動くものを一定時間注視する（watch TV／watch a game）`,`look for＝探す、look after＝世話をする、look like＝似ている`],quiz:[{id:`q-look-1`,question:`空所に入る適切な語はどれですか。「( ) at the blackboard, please.（黒板を見てください）」`,options:[`See`,`Watch`,`Look`,`Seem`],correctAnswer:2,explanation:`視線を向ける動作は look at です。`},{id:`q-look-2`,question:`空所に入る適切な語はどれですか。「I can ( ) the sea from my window.（窓から海が見える）」`,options:[`look`,`see`,`watch`,`look at`],correctAnswer:1,explanation:`目に入って「見える」は see です。`},{id:`q-look-3`,question:`空所に入る適切な語はどれですか。「They ( ) the soccer match on TV last night.（昨夜テレビでサッカーの試合を見た）」`,options:[`watched`,`looked`,`saw at`,`looked`],correctAnswer:0,explanation:`動きを追い続ける観戦は watch です。`},{id:`q-look-4`,question:`look の後に目的語を置くとき、必要になる前置詞はどれですか。`,options:[`for のみ`,`at`,`to`,`不要`],correctAnswer:1,explanation:`「〜を見る」は look at 〜。look だけでは目的語を取れません。`},{id:`q-look-5`,question:`空所に入る適切な語句はどれですか。「I am ( ) my glasses. Have you seen them?（眼鏡を探しているの。見なかった？）」`,options:[`looking for`,`looking at`,`watching`,`seeing`],correctAnswer:0,explanation:`「探す」は look for。look at は視線を向ける、watch は動くものを追う意味です。`}]},{id:`during-while`,title:`during と while`,chapter:2,description:`どちらも「〜の間」。during は前置詞で後ろに名詞、while は接続詞で後ろに「主語＋動詞」の節が来る。`,content:`## 後ろに名詞が来るか、文が来るか
 
 意味はどちらも「**〜の間に**」ですが、**後ろに置ける形が違います**。
 
