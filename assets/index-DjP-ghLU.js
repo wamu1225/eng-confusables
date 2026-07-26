@@ -5,7 +5,7 @@ import{n as e,r as t,t as n}from"./icons-Co7Nt21q.js";import{n as r,t as i}from"
 - **affect** … /əˈfekt/ 基本は**動詞**で「**〜に影響を与える**」。
 - **effect** … /ɪˈfekt/ 基本は**名詞**で「**影響・効果・結果**」。
 
-| 語 | 主な品詞 | 中心の意味 | 自作の例文 |
+| 語 | 主な品詞 | 中心の意味 | 例文 |
 | --- | --- | --- | --- |
 | **a**ffect | 動詞 | 〜に影響を与える | Lack of sleep can **affect** your memory.（睡眠不足は記憶に影響しうる） |
 | **a**ffect | 動詞 | 〜に影響する | The flooding **affected** thousands of homes.（洪水は数千戸に影響した） |
@@ -35,7 +35,7 @@ import{n as e,r as t,t as n}from"./icons-Co7Nt21q.js";import{n as r,t as i}from"
 - **principal** … 形容詞「**主要な**」、名詞「**校長・（金融の）元金・本人**」。
 - **principle** … 名詞「**原理・原則・主義**」。形容詞用法はない。
 
-| 語 | 主な品詞 | 中心の意味 | 自作の例文 |
+| 語 | 主な品詞 | 中心の意味 | 例文 |
 | --- | --- | --- | --- |
 | princip**al** | 形容詞／名詞 | 主要な／校長・元金 | The **principal** reason is cost.（主な理由はコストだ） |
 | princip**al** | 名詞 | 校長・本人 | The **principal** met the new students.（校長が新入生を迎えた） |
@@ -61,7 +61,7 @@ import{n as e,r as t,t as n}from"./icons-Co7Nt21q.js";import{n as r,t as i}from"
 - **complement** … 「**補って完成させるもの**／〜を引き立てる」。complete（完成）の仲間。
 - **compliment** … 「**褒め言葉**／〜を褒める」。
 
-| 語 | 主な品詞 | 中心の意味 | 自作の例文 |
+| 語 | 主な品詞 | 中心の意味 | 例文 |
 | --- | --- | --- | --- |
 | compl**e**ment | 名詞／動詞 | 補完するもの／引き立てる | The wine **complements** the cheese.（ワインがチーズを引き立てる） |
 | compl**e**ment | 名詞 | 補うもの・全部そろい | a full **complement** of staff（必要な人員がすべてそろった状態） |
@@ -89,7 +89,7 @@ import{n as e,r as t,t as n}from"./icons-Co7Nt21q.js";import{n as r,t as i}from"
 - **stationary** … 形容詞「**動かない・静止した**」。
 - **stationery** … 名詞「**文房具・便箋類**」。
 
-| 語 | 品詞 | 中心の意味 | 自作の例文 |
+| 語 | 品詞 | 中心の意味 | 例文 |
 | --- | --- | --- | --- |
 | station**a**ry | 形容詞 | 動かない・静止した | The bus stayed **stationary** in the traffic.（バスは渋滞で止まったままだった） |
 | station**a**ry | 形容詞 | 変化しない | Prices remained **stationary** all year.（物価は一年間変わらなかった） |
@@ -117,7 +117,7 @@ import{n as e,r as t,t as n}from"./icons-Co7Nt21q.js";import{n as r,t as i}from"
 - **desert** … 名詞「**砂漠**」/ˈdezərt/（前にアクセント）／動詞「**見捨てる**」/dɪˈzɜːrt/（後ろにアクセント）。
 - **dessert** … 名詞「**（食後の）デザート**」/dɪˈzɜːrt/（後ろにアクセント）。
 
-| 語 | 品詞 | 発音 | 中心の意味 | 自作の例文 |
+| 語 | 品詞 | 発音 | 中心の意味 | 例文 |
 | --- | --- | --- | --- | --- |
 | desert（名） | 名詞 | /ˈdezərt/ | 砂漠 | Few plants grow in the **desert**.（砂漠では植物がほとんど育たない） |
 | desert（動） | 動詞 | /dɪˈzɜːrt/ | 見捨てる・放棄する | He would never **desert** his friends.（彼は決して友を見捨てない） |
@@ -144,7 +144,7 @@ import{n as e,r as t,t as n}from"./icons-Co7Nt21q.js";import{n as r,t as i}from"
 - **altar** … 名詞「**祭壇**」（教会などにある台）。
 - **alter** … 動詞「**変える・変更する**」。
 
-| 語 | 品詞 | 中心の意味 | 自作の例文 |
+| 語 | 品詞 | 中心の意味 | 例文 |
 | --- | --- | --- | --- |
 | alt**ar** | 名詞 | 祭壇 | They married at the **altar**.（二人は祭壇の前で結婚した） |
 | alt**ar** | 名詞 | 祭壇 | Candles were placed on the **altar**.（祭壇にろうそくが置かれた） |
@@ -172,7 +172,7 @@ import{n as e,r as t,t as n}from"./icons-Co7Nt21q.js";import{n as r,t as i}from"
 - **precede** … /prɪˈsiːd/ **pre（前に）**＝「〜の前に来る・先行する」。
 - **proceed** … /prəˈsiːd/ **pro（前へ）**＝「（先へ）進む・続ける」。
 
-| 語 | 接頭辞 | 中心の意味 | 自作の例文 |
+| 語 | 接頭辞 | 中心の意味 | 例文 |
 | --- | --- | --- | --- |
 | **pre**cede | pre＝前に | 〜より前に来る・先行する | A short speech **preceded** the dinner.（短いスピーチが夕食に先立った） |
 | **pre**cede | pre＝前に | 順序が先 | The letter B is **preceded** by A.（B の前には A が来る） |
@@ -200,7 +200,7 @@ import{n as e,r as t,t as n}from"./icons-Co7Nt21q.js";import{n as r,t as i}from"
 - **except** … /ɪkˈsept/ おもに**前置詞・接続詞**「〜を除いて」。
 - **expect** … /ɪkˈspekt/ **動詞**「〜を予期する・期待する」。
 
-| 語 | 品詞 | 中心の意味 | 自作の例文 |
+| 語 | 品詞 | 中心の意味 | 例文 |
 | --- | --- | --- | --- |
 | ex**c**ept | 前置詞 | 〜を除いて | Everyone came **except** Tom.（トム以外みんな来た） |
 | ex**c**ept | 前置詞 | 〜以外は | The shop opens daily **except** Sundays.（日曜以外毎日開く） |
@@ -229,7 +229,7 @@ import{n as e,r as t,t as n}from"./icons-Co7Nt21q.js";import{n as r,t as i}from"
 - **assure** … **人**を安心させる・保証する（目的語は人）。
 - **insure** … **保険**をかける。
 
-| 語 | 対象 | 中心の意味 | 自作の例文 |
+| 語 | 対象 | 中心の意味 | 例文 |
 | --- | --- | --- | --- |
 | **en**sure | 事 | 〜を確実にする | Please **ensure** the door is locked.（ドアの施錠を確実に） |
 | **a**ssure | 人 | （人）を安心させる・保証する | I **assure** you it is safe.（安全だと保証します） |
@@ -242,7 +242,7 @@ import{n as e,r as t,t as n}from"./icons-Co7Nt21q.js";import{n as r,t as i}from"
 - **capital** … 名詞「**首都**・資本（金）・大文字」、形容詞「主要な」。
 - **capitol** … 名詞「**議事堂**」（とくに米国の the Capitol）。
 
-| 語 | 中心の意味 | 自作の例文 |
+| 語 | 中心の意味 | 例文 |
 | --- | --- | --- |
 | capit**a**l | 首都 | Tokyo is the **capital** of Japan.（東京は日本の首都だ） |
 | capit**a**l | 資本（金） | The firm raised **capital** for the project.（事業の資本を集めた） |
@@ -270,7 +270,7 @@ import{n as e,r as t,t as n}from"./icons-Co7Nt21q.js";import{n as r,t as i}from"
 - **discreet** … 形容詞「**慎重な・口が堅い・控えめ**」。
 - **discrete** … 形容詞「**個別の・分離した・離散的な**」。
 
-| 語 | 中心の意味 | 自作の例文 |
+| 語 | 中心の意味 | 例文 |
 | --- | --- | --- |
 | discr**ee**t | 慎重な・口が堅い | He was **discreet** about the secret.（彼はその秘密に口が堅かった） |
 | discr**ee**t | 控えめ・目立たない | She wore a **discreet** silver ring.（控えめな銀の指輪をしていた） |
@@ -298,7 +298,7 @@ import{n as e,r as t,t as n}from"./icons-Co7Nt21q.js";import{n as r,t as i}from"
 - **eminent** … /ˈemɪnənt/ 形容詞「**著名な・卓越した**」。
 - **imminent** … /ˈɪmɪnənt/ 形容詞「**差し迫った・今にも起こりそう**」（多くは良くない事に使う）。
 
-| 語 | 中心の意味 | 自作の例文 |
+| 語 | 中心の意味 | 例文 |
 | --- | --- | --- |
 | **e**minent | 著名な・卓越した | She is an **eminent** scientist.（彼女は著名な科学者だ） |
 | **e**minent | 傑出した | an **eminent** authority on law（法律の第一人者） |
@@ -326,7 +326,7 @@ import{n as e,r as t,t as n}from"./icons-Co7Nt21q.js";import{n as r,t as i}from"
 - **lie** … **自動詞**「横たわる・ある」。目的語をとらない。
 - **lay** … **他動詞**「〜を横たえる・置く」。目的語が必要。
 
-| 語 | 自他 | 中心の意味 | 活用（原形-過去-過去分詞-ing） | 自作の例文 |
+| 語 | 自他 | 中心の意味 | 活用（原形-過去-過去分詞-ing） | 例文 |
 | --- | --- | --- | --- | --- |
 | lie | 自動詞 | 横たわる・ある | lie - **lay** - lain - lying | I **lie** on the sofa.（ソファに横になる） |
 | lay | 他動詞 | 〜を横たえる・置く | lay - laid - laid - laying | I **lay** the baby on the bed.（赤ちゃんをベッドに寝かせる） |
@@ -359,7 +359,7 @@ lie/lay と同じ「自動詞 vs 他動詞」の関係です。決め手も同�
 - **rise** … **自動詞**「上がる・のぼる」。目的語をとらない。
 - **raise** … **他動詞**「〜を上げる」。目的語が必要。
 
-| 語 | 自他 | 中心の意味 | 活用（原形-過去-過去分詞） | 自作の例文 |
+| 語 | 自他 | 中心の意味 | 活用（原形-過去-過去分詞） | 例文 |
 | --- | --- | --- | --- | --- |
 | rise | 自動詞 | 上がる・のぼる | rise - rose - risen | The sun **rises** in the east.（太陽は東からのぼる） |
 | raise | 他動詞 | 〜を上げる | raise - raised - raised | Please **raise** your hand.（手を上げてください） |
@@ -373,7 +373,7 @@ lie/lay と同じ「自動詞 vs 他動詞」の関係です。決め手も同�
 - **borrow** … 「**借りる**」。自分が**受け取る**側。ふつう **borrow … from 〜**。
 - **lend** … 「**貸す**」。自分が**渡す**側。**lend 人 物** または **lend 物 to 人**。
 
-| 語 | 向き | 中心の意味（よく使う形） | 自作の例文 |
+| 語 | 向き | 中心の意味（よく使う形） | 例文 |
 | --- | --- | --- | --- |
 | borrow | 受け取る側 | （無償で一時的に）借りる／borrow … from 〜 | Can I **borrow** your pen?（ペンを借りていい？） |
 | borrow | 受け取る側 | 借りた（過去の事実） | I **borrowed** this book from the library.（この本は図書館で借りた） |
@@ -390,7 +390,7 @@ lie/lay と同じ「自動詞 vs 他動詞」の関係です。決め手も同�
 
 borrow と lend は**無償で、持ち運べるものを一時的に**やり取りするときの語です。ここから外れると別の語になります。
 
-| 場面 | 使う語 | 自作の例文 |
+| 場面 | 使う語 | 例文 |
 | --- | --- | --- |
 | お金を払って借りる（部屋・車など） | rent | We **rented** a car for the weekend.（週末に車を借りた） |
 | お金を取って貸す | rent out | They **rent out** the upstairs room.（2階の部屋を貸している） |
@@ -413,7 +413,7 @@ borrow と lend は**無償で、持ち運べるものを一時的に**やり取
 - **beside** … 前置詞「**〜のそばに・横に**」（場所）。
 - **besides** … 前置詞「**〜に加えて・〜のほかに**」／副詞「**その上・さらに**」（追加）。
 
-| 語 | 品詞 | 中心の意味 | 自作の例文 |
+| 語 | 品詞 | 中心の意味 | 例文 |
 | --- | --- | --- | --- |
 | beside | 前置詞 | 〜のそばに | She sat **beside** me.（彼女は私のそばに座った） |
 | besides | 前置詞／副詞 | 〜に加えて／その上 | **Besides** English, he speaks French.（英語に加えてフランス語も話す） |
@@ -425,7 +425,7 @@ borrow と lend は**無償で、持ち運べるものを一時的に**やり取
 - **suitable** … **目的・用途・条件に合っている**（fit for purpose）。実用的な適合。
 - **appropriate** … **その場面・状況・社会的な礼儀にふさわしい**。文脈・場にかなう。
 
-| 語 | 重心 | 中心の意味 | 自作の例文 |
+| 語 | 重心 | 中心の意味 | 例文 |
 | --- | --- | --- | --- |
 | suitable | 目的・用途 | （目的に）合った・ふさわしい | These shoes are **suitable** for hiking.（この靴はハイキングに向いている） |
 | appropriate | 場面・礼儀 | （その場に）ふさわしい・妥当な | Jeans are not **appropriate** for a formal party.（ジーンズは正式なパーティーにふさわしくない） |
@@ -439,7 +439,7 @@ borrow と lend は**無償で、持ち運べるものを一時的に**やり取
 - **revenue** … 「**総収入・売上**」。入ってきたお金の合計（経費を引く**前**）。
 - **profit** … 「**利益・純利益**」。売上から経費を引いた**残り**（経費を引いた**後**）。
 
-| 語 | 位置 | 中心の意味 | 自作の例文 |
+| 語 | 位置 | 中心の意味 | 例文 |
 | --- | --- | --- | --- |
 | revenue | 引く前 | 総収入・売上 | The company's **revenue** rose to $10 million.（売上は1000万ドルに増えた） |
 | profit | 引いた後 | 純利益 | After costs, the **profit** was small.（経費を引くと利益はわずかだった） |
@@ -453,7 +453,7 @@ borrow と lend は**無償で、持ち運べるものを一時的に**やり取
 - **propose** … 改まって**はっきり提案する**（正式・直接的）。名詞は proposal。
 - **suggest** … **控えめに提案・示唆する**。名詞は suggestion。
 
-| 語 | 調子 | 中心の意味 | よく使う形 | 自作の例文 |
+| 語 | 調子 | 中心の意味 | よく使う形 | 例文 |
 | --- | --- | --- | --- | --- |
 | propose | 正式・直接 | （正式に）提案する | propose doing / propose that … | They **proposed** building a new bridge.（新しい橋の建設を提案した） |
 | suggest | 控えめ | 提案・示唆する | suggest doing / suggest that … | I **suggest** taking a short break.（少し休憩することを提案します） |
@@ -467,7 +467,7 @@ borrow と lend は**無償で、持ち運べるものを一時的に**やり取
 - **benefit** … 「**恩恵・利益**」。それ自体がもたらす良いこと（一般的な得）。
 - **advantage** … 「**優位・強み**」。**他と比べて**有利な点（比較の視点）。
 
-| 語 | 視点 | 中心の意味 | 自作の例文 |
+| 語 | 視点 | 中心の意味 | 例文 |
 | --- | --- | --- | --- |
 | benefit | 直接の得 | 恩恵・利益 | Exercise has many health **benefits**.（運動には多くの健康上の恩恵がある） |
 | advantage | 他との比較 | 優位・強み | Speaking two languages is a big **advantage** in business.（二か国語を話せるのはビジネスで大きな強みだ） |
@@ -481,7 +481,7 @@ borrow と lend は**無償で、持ち運べるものを一時的に**やり取
 - **talk** … **自動詞**。会話する。**talk to / with 人**、**talk about 〜**。
 - **speak** … （言語を）話す **speak English**／**speak to 人**（ややフォーマル・一方向的）。
 
-| 語 | よくとる形 | 焦点 | 自作の例文 |
+| 語 | よくとる形 | 焦点 | 例文 |
 | --- | --- | --- | --- |
 | say | say + ことば／say (that) … | 言った内容 | He **said** he was tired.（疲れたと言った） |
 | tell | tell 人 + 内容／tell 人 to do | 人に情報を伝える | She **told** me the news.（私にその知らせを伝えた） |
@@ -495,7 +495,7 @@ borrow と lend は**無償で、持ち運べるものを一時的に**やり取
 - **economic** … 「**経済の・経済学の**」。国や社会の経済活動に関する。
 - **economical** … 「**節約的・無駄がない・お得な**」。お金や資源を無駄にしない。
 
-| 語 | 中心の意味 | 自作の例文 |
+| 語 | 中心の意味 | 例文 |
 | --- | --- | --- |
 | economic | 経済の・経済学の | The country faces **economic** problems.（その国は経済問題に直面している） |
 | economical | 節約的・お得な | A small car is more **economical**.（小型車のほうが燃費が良い＝経済的だ） |
@@ -507,7 +507,7 @@ borrow と lend は**無償で、持ち運べるものを一時的に**やり取
 - **historic** … 「**歴史に残るほど重要な**」。後世が記憶するような出来事・場所。
 - **historical** … 「**歴史（上）の・過去の**」。過去に関するもの全般（重要かどうかは問わない）。
 
-| 語 | 中心の意味 | 自作の例文 |
+| 語 | 中心の意味 | 例文 |
 | --- | --- | --- |
 | historic | 歴史に残る重要な | The signing was a **historic** moment.（その調印は歴史的瞬間だった） |
 | historical | 歴史上の・過去の | She studies **historical** documents.（彼女は歴史資料を研究している） |
@@ -519,7 +519,7 @@ borrow と lend は**無償で、持ち運べるものを一時的に**やり取
 - **sensible** … 「**分別がある・賢明な・実用的な**」。センスを働かせて賢く判断する。
 - **sensitive** … 「**敏感な・感受性が強い・神経質な**」。刺激や感情に強く反応する。
 
-| 語 | 中心の意味 | 自作の例文 |
+| 語 | 中心の意味 | 例文 |
 | --- | --- | --- |
 | sensible | 分別がある・賢明な | It was **sensible** to bring an umbrella.（傘を持ってきたのは賢明だった） |
 | sensitive | 敏感な・神経質な | She is **sensitive** to criticism.（彼女は批判に敏感だ） |
@@ -532,7 +532,7 @@ borrow と lend は**無償で、持ち運べるものを一時的に**やり取
 - **respectful** … 「**敬意を払う・礼儀正しい**」（full of respect）。
 - **respective** … 「**それぞれの・各自の**」。
 
-| 語 | 接尾辞 | 中心の意味 | 自作の例文 |
+| 語 | 接尾辞 | 中心の意味 | 例文 |
 | --- | --- | --- | --- |
 | respect**able** | -able（価値ある） | 立派な・世間体の良い | He has a **respectable** job.（彼は立派な職に就いている） |
 | respect**ful** | -ful（満ちた） | 敬意を払う・礼儀正しい | Please be **respectful** to your elders.（年長者には敬意を払って） |
@@ -545,7 +545,7 @@ borrow と lend は**無償で、持ち運べるものを一時的に**やり取
 - **industrial** … 「**工業の・産業の**」。工場・製造・産業全体に関する。
 - **industrious** … 「**勤勉な・よく働く**」。人の性質。
 
-| 語 | 対象 | 中心の意味 | 自作の例文 |
+| 語 | 対象 | 中心の意味 | 例文 |
 | --- | --- | --- | --- |
 | industri**al** | もの・分野 | 工業の・産業の | This is an **industrial** area with many factories.（多くの工場がある工業地域だ） |
 | industri**ous** | 人 | 勤勉な | She is an **industrious** student.（彼女は勤勉な学生だ） |
@@ -557,7 +557,7 @@ borrow と lend は**無償で、持ち運べるものを一時的に**やり取
 - **considerable** … 「**かなりの・相当の**」（大きさ・量・程度が無視できない）。
 - **considerate** … 「**思いやりのある・配慮のある**」（人の態度）。
 
-| 語 | 対象 | 中心の意味 | 自作の例文 |
+| 語 | 対象 | 中心の意味 | 例文 |
 | --- | --- | --- | --- |
 | consider**able** | 量・程度 | かなりの・相当の | The project took a **considerable** amount of time.（その計画はかなりの時間を要した） |
 | consider**ate** | 人の態度 | 思いやりのある | It was **considerate** of you to call.（電話をくれて気が利くね） |
@@ -569,7 +569,7 @@ borrow と lend は**無償で、持ち運べるものを一時的に**やり取
 - **effective** … 「**効果的・有効な**」。望む**結果を出す**。
 - **efficient** … 「**効率的な**」。時間・資源を**無駄にしない**。
 
-| 語 | 見るところ | 中心の意味 | 自作の例文 |
+| 語 | 見るところ | 中心の意味 | 例文 |
 | --- | --- | --- | --- |
 | effective | 結果が出るか | 効果的・有効な | This is an **effective** way to lose weight.（これは効果的な減量法だ） |
 | efficient | 無駄がないか | 効率的な | The new system is more **efficient**; it saves time.（新システムは効率的で時間を節約する） |
@@ -581,7 +581,7 @@ borrow と lend は**無償で、持ち運べるものを一時的に**やり取
 - **personal** … 形容詞「**個人の・私的な**」。前にアクセント（**per**sonal）。
 - **personnel** … 名詞「**職員・人員・人事（部）**」（集合的）。**後ろ**にアクセント（person**nel**）。
 
-| 語 | 品詞 | 中心の意味 | 自作の例文 |
+| 語 | 品詞 | 中心の意味 | 例文 |
 | --- | --- | --- | --- |
 | **per**sonal | 形容詞 | 個人の・私的な | This is my **personal** opinion.（これは私個人の意見です） |
 | person**nel** | 名詞 | 職員・人員・人事 | The company hired new **personnel**.（会社は新しい人員を雇った） |
@@ -593,7 +593,7 @@ borrow と lend は**無償で、持ち運べるものを一時的に**やり取
 - **complain** … **動詞**「不平・苦情を言う」。complain about/to の形。
 - **complaint** … **名詞**「苦情・不平」。make a complaint の形。
 
-| 語 | 品詞 | 中心の意味 | 自作の例文 |
+| 語 | 品詞 | 中心の意味 | 例文 |
 | --- | --- | --- | --- |
 | complain | 動詞 | 苦情を言う | Customers **complain** about the noise.（客が騒音について苦情を言う） |
 | complain**t** | 名詞 | 苦情・不平 | We received many **complaints**.（多くの苦情を受け取った） |
@@ -606,7 +606,7 @@ borrow と lend は**無償で、持ち運べるものを一時的に**やり取
 - **imaginary** … 「**実在しない・架空の・想像上の**」。
 - **imaginable** … 「**想像できる限りの・考えうる**」。
 
-| 語 | 接尾辞 | 中心の意味 | 自作の例文 |
+| 語 | 接尾辞 | 中心の意味 | 例文 |
 | --- | --- | --- | --- |
 | imagin**ative** | -ative（能力） | 想像力豊かな | She wrote an **imaginative** story.（彼女は想像力豊かな物語を書いた） |
 | imagin**ary** | -ary（非実在） | 架空の・想像上の | The child has an **imaginary** friend.（その子には空想上の友達がいる） |
@@ -620,7 +620,7 @@ borrow と lend は**無償で、持ち運べるものを一時的に**やり取
 - **literary** … 「**文学の・文芸の**」。
 - **literate** … 「**読み書きができる・教養のある**」（人の能力）。
 
-| 語 | 中心の意味 | 自作の例文 |
+| 語 | 中心の意味 | 例文 |
 | --- | --- | --- |
 | literal | 文字どおりの | The **literal** meaning differs from the joke.（文字どおりの意味は冗談とは違う） |
 | literary | 文学の・文芸の | He won a **literary** prize.（彼は文学賞を取った） |
@@ -633,7 +633,7 @@ borrow と lend は**無償で、持ち運べるものを一時的に**やり取
 - **institution** … 「**機関・組織・制度**」（学校・銀行・社会の慣習など）。
 - **instruction** … 「**指示・説明・指導**」（やり方を教えること、説明書）。
 
-| 語 | 中心の意味 | 自作の例文 |
+| 語 | 中心の意味 | 例文 |
 | --- | --- | --- |
 | institution | 機関・組織・制度 | A university is an educational **institution**.（大学は教育機関だ） |
 | instruction | 指示・説明・指導 | Follow the **instructions** on the box.（箱の説明書に従って） |
@@ -645,7 +645,7 @@ borrow と lend は**無償で、持ち運べるものを一時的に**やり取
 - **permission** … 「**（行為をする）許可**」。〜してよいという許し。
 - **admission** … 「**入場・入学（を認めること）／入場料／（事実・罪を）認めること**」。
 
-| 語 | 中心の意味 | 自作の例文 |
+| 語 | 中心の意味 | 例文 |
 | --- | --- | --- |
 | permission | （行為の）許可 | You need **permission** to enter the lab.（実験室に入るには許可が必要だ） |
 | admission | 入場・入学／入場料／認め | **Admission** to the museum is free.（博物館の入場は無料だ） |
@@ -657,7 +657,7 @@ borrow と lend は**無償で、持ち運べるものを一時的に**やり取
 - **agent** … 「**代理人・取次人・行為者**」（人や主体）。
 - **agency** … 「**代理店・機関・取次業**」（組織・仕組み）。
 
-| 語 | 対象 | 中心の意味 | 自作の例文 |
+| 語 | 対象 | 中心の意味 | 例文 |
 | --- | --- | --- | --- |
 | agent | 人 | 代理人・行為者 | A travel **agent** booked our trip.（旅行代理人が旅行を手配した） |
 | agency | 組織 | 代理店・機関 | She works at a travel **agency**.（彼女は旅行代理店で働いている） |
@@ -669,7 +669,7 @@ borrow と lend は**無償で、持ち運べるものを一時的に**やり取
 - **related** … 「**関連した・つながった**」（単につながりがある）。
 - **relevant** … 「**（今の話題・状況に）関連があり、重要・適切な**」（文脈で意味を持つ）。
 
-| 語 | 含み | 中心の意味 | 自作の例文 |
+| 語 | 含み | 中心の意味 | 例文 |
 | --- | --- | --- | --- |
 | related | 単なる関連 | 関連した・つながった | These two problems are **related**.（この2つの問題はつながっている） |
 | relevant | 関連＋重要・適切 | （文脈に）適切で重要な | Please give only **relevant** information.（関連して重要な情報だけください） |
@@ -681,7 +681,7 @@ borrow と lend は**無償で、持ち運べるものを一時的に**やり取
 - **advice** … **名詞**「**助言・忠告**」（数えない名詞）。
 - **advise** … **動詞**「**助言する・勧める**」。
 
-| 語 | 品詞 | 中心の意味 | 自作の例文 |
+| 語 | 品詞 | 中心の意味 | 例文 |
 | --- | --- | --- | --- |
 | advi**c**e | 名詞 | 助言・忠告 | She gave me good **advice**.（良い助言をくれた） |
 | advi**s**e | 動詞 | 助言する・勧める | I **advise** you to rest.（休むことを勧めます） |
@@ -693,7 +693,7 @@ borrow と lend は**無償で、持ち運べるものを一時的に**やり取
 - **adapt** … 「**適応させる・合わせて変える・改造する**」（adjust）。
 - **adopt** … 「**採用する・取り入れる・養子にする**」（take as one's own）。
 
-| 語 | 中心の意味 | 自作の例文 |
+| 語 | 中心の意味 | 例文 |
 | --- | --- | --- |
 | ad**a**pt | 適応させる・改造する | Animals **adapt** to their environment.（動物は環境に適応する） |
 | ad**o**pt | 採用する・養子にする | The company **adopted** a new policy.（会社は新しい方針を採用した） |
@@ -705,7 +705,7 @@ borrow と lend は**無償で、持ち運べるものを一時的に**やり取
 - **breed** … /briːd/ 「**繁殖させる・育てる／品種**」。活用 breed-bred-bred。
 - **bleed** … /bliːd/ 「**出血する**」。活用 bleed-bled-bled。
 
-| 語 | 発音 | 中心の意味 | 自作の例文 |
+| 語 | 発音 | 中心の意味 | 例文 |
 | --- | --- | --- | --- |
 | b**r**eed | /briːd/ | 繁殖させる・品種 | They **breed** dogs on this farm.（この農場で犬を繁殖させている） |
 | b**l**eed | /bliːd/ | 出血する | The cut on my finger started to **bleed**.（指の切り傷から血が出始めた） |
@@ -717,7 +717,7 @@ borrow と lend は**無償で、持ち運べるものを一時的に**やり取
 - **grow** … /ɡroʊ/ 「**成長する・育つ・増える**」。活用 grow-grew-grown。
 - **glow** … /ɡloʊ/ 「**輝く・赤熱する／輝き**」。
 
-| 語 | 発音 | 中心の意味 | 自作の例文 |
+| 語 | 発音 | 中心の意味 | 例文 |
 | --- | --- | --- | --- |
 | g**r**ow | /ɡroʊ/ | 成長する・増える | Plants **grow** in spring.（植物は春に育つ） |
 | g**l**ow | /ɡloʊ/ | 輝く・赤熱する | The embers still **glow** in the dark.（残り火が暗闇でまだ赤く光る） |
@@ -729,7 +729,7 @@ borrow と lend は**無償で、持ち運べるものを一時的に**やり取
 - **flow** … /floʊ/ 「**流れる／流れ**」。
 - **flaw** … /flɔː/ 「**欠点・きず・不備**」。
 
-| 語 | 発音 | 中心の意味 | 自作の例文 |
+| 語 | 発音 | 中心の意味 | 例文 |
 | --- | --- | --- | --- |
 | fl**ow** | /floʊ/ | 流れる・流れ | The river **flows** to the sea.（川は海へ流れる） |
 | fl**aw** | /flɔː/ | 欠点・きず | The plan has a serious **flaw**.（その計画には重大な欠点がある） |
@@ -741,7 +741,7 @@ borrow と lend は**無償で、持ち運べるものを一時的に**やり取
 - **break** … 「**壊す・割れる／休憩**」。活用 break-broke-broken。
 - **brake** … 「**ブレーキ／制動する（速度を落とす）**」。
 
-| 語 | 発音 | 中心の意味 | 自作の例文 |
+| 語 | 発音 | 中心の意味 | 例文 |
 | --- | --- | --- | --- |
 | break | /breɪk/ | 壊す・割れる／休憩 | Be careful not to **break** the glass.（グラスを割らないように） |
 | brake | /breɪk/ | ブレーキ／制動する | He hit the **brake** to stop.（止まるためにブレーキを踏んだ） |
@@ -753,7 +753,7 @@ borrow と lend は**無償で、持ち運べるものを一時的に**やり取
 - **bear** … 名詞「**クマ**」／動詞「**耐える・我慢する／(重さを)支える・運ぶ／(子を)産む**」。活用 bear-bore-borne。
 - **bare** … 形容詞「**裸の・むき出しの・最低限の**」／動詞「**さらす・むき出しにする**」。
 
-| 語 | 発音 | 中心の意味 | 自作の例文 |
+| 語 | 発音 | 中心の意味 | 例文 |
 | --- | --- | --- | --- |
 | bear | /beə(r)/ | クマ／耐える・支える | I can't **bear** this heat.（この暑さには耐えられない） |
 | bare | /beə(r)/ | 裸の・むき出しの | He walked on the **bare** floor.（彼はむき出しの床を歩いた） |
@@ -763,7 +763,7 @@ borrow と lend は**無償で、持ち運べるものを一時的に**やり取
 - **ant** … /ænt/ 「**アリ（昆虫）**」。
 - **aunt** … 米 /ænt/（ant と同音）／英 /ɑːnt/（「アーント」と長め）「**おば**」。
 
-| 語 | 発音 | 中心の意味 | 自作の例文 |
+| 語 | 発音 | 中心の意味 | 例文 |
 | --- | --- | --- | --- |
 | ant | /ænt/ | アリ | An **ant** carried a crumb.（アリがパンくずを運んだ） |
 | aunt | 米 /ænt/・英 /ɑːnt/ | おば | My **aunt** lives in Osaka.（おばは大阪に住んでいる） |
@@ -775,7 +775,7 @@ borrow と lend は**無償で、持ち運べるものを一時的に**やり取
 - **brush** … /brʌʃ/ 「**ブラシ／（ブラシで）磨く・はく**」。
 - **blush** … /blʌʃ/ 「**赤面する・顔が赤くなる**」。
 
-| 語 | 発音 | 中心の意味 | 自作の例文 |
+| 語 | 発音 | 中心の意味 | 例文 |
 | --- | --- | --- | --- |
 | b**r**ush | /brʌʃ/ | ブラシ・磨く | **Brush** your teeth before bed.（寝る前に歯を磨いて） |
 | b**l**ush | /blʌʃ/ | 赤面する | She **blushed** when he praised her.（褒められて彼女は顔を赤らめた） |
@@ -787,7 +787,7 @@ borrow と lend は**無償で、持ち運べるものを一時的に**やり取
 - **room** … /ruːm/ 「**部屋／空間・余地**」。
 - **loom** … /luːm/ 名詞「**織機**」／動詞「**ぬっと現れる・（不安なものが）迫る**」。
 
-| 語 | 発音 | 中心の意味 | 自作の例文 |
+| 語 | 発音 | 中心の意味 | 例文 |
 | --- | --- | --- | --- |
 | **r**oom | /ruːm/ | 部屋・余地 | There is no **room** for error.（誤りの余地はない） |
 | **l**oom | /luːm/ | 織機／迫る | A deadline **looms** next week.（来週、締め切りが迫っている） |
@@ -800,7 +800,7 @@ borrow と lend は**無償で、持ち運べるものを一時的に**やり取
 - **crush** … /krʌʃ/ 「**押しつぶす**／（名詞）一時的な**夢中・片思い**」。
 - **clash** … /klæʃ/ 「**対立する・ぶつかる／（予定などが）かち合う**」。
 
-| 語 | 発音 | 中心の意味 | 自作の例文 |
+| 語 | 発音 | 中心の意味 | 例文 |
 | --- | --- | --- | --- |
 | c**r**a**sh** | /kræʃ/ | 激突・墜落 | The two cars **crashed** on the highway.（2台の車が高速で衝突した） |
 | c**r**u**sh** | /krʌʃ/ | 押しつぶす／夢中 | Don't **crush** the box.（箱をつぶさないで） |
@@ -813,7 +813,7 @@ borrow と lend は**無償で、持ち運べるものを一時的に**やり取
 - **low** … /loʊ/ 「**低い・少ない**」。
 - **law** … /lɔː/ 「**法・法律・法則**」。
 
-| 語 | 発音 | 中心の意味 | 自作の例文 |
+| 語 | 発音 | 中心の意味 | 例文 |
 | --- | --- | --- | --- |
 | l**ow** | /loʊ/ | 低い・少ない | Prices are very **low** this month.（今月は価格がとても低い） |
 | l**aw** | /lɔː/ | 法・法律 | Everyone must obey the **law**.（誰もが法に従わなければならない） |
@@ -825,7 +825,7 @@ borrow と lend は**無償で、持ち運べるものを一時的に**やり取
 - **raw** … /rɔː/ 「**生の・未加工の・未経験の**」。
 - **row** … /roʊ/ 「**（横の）列／（舟を）漕ぐ**」。
 
-| 語 | 発音 | 中心の意味 | 自作の例文 |
+| 語 | 発音 | 中心の意味 | 例文 |
 | --- | --- | --- | --- |
 | r**aw** | /rɔː/ | 生の・未加工の | You shouldn't eat **raw** chicken.（生の鶏肉は食べないほうがいい） |
 | r**ow** | /roʊ/ | 列／漕ぐ | We sat in the front **row**.（私たちは最前列に座った） |
@@ -837,7 +837,7 @@ borrow と lend は**無償で、持ち運べるものを一時的に**やり取
 - **cell** … 名詞「**細胞・独房・電池・（cell phone で）携帯電話**」。
 - **sell** … 動詞「**売る**」。活用 sell-sold-sold。
 
-| 語 | 発音 | 中心の意味 | 自作の例文 |
+| 語 | 発音 | 中心の意味 | 例文 |
 | --- | --- | --- | --- |
 | cell | /sel/ | 細胞・独房・携帯 | The human body has many **cells**.（人体には多くの細胞がある） |
 | sell | /sel/ | 売る | They **sell** fresh vegetables here.（ここでは新鮮な野菜を売っている） |
@@ -849,7 +849,7 @@ borrow と lend は**無償で、持ち運べるものを一時的に**やり取
 - **claw** … /klɔː/ 「**（動物の）かぎ爪・はさみ**」。
 - **crow** … /kroʊ/ 「**カラス**」。
 
-| 語 | 発音 | 中心の意味 | 自作の例文 |
+| 語 | 発音 | 中心の意味 | 例文 |
 | --- | --- | --- | --- |
 | c**l****aw** | /klɔː/ | （動物の）爪 | The cat sharpened its **claws**.（猫は爪を研いだ） |
 | c**r****ow** | /kroʊ/ | カラス | A **crow** landed on the fence.（カラスが柵に止まった） |
@@ -861,7 +861,7 @@ borrow と lend は**無償で、持ち運べるものを一時的に**やり取
 - **loose** … /luːs/ 語尾は濁らない **/s/**。形容詞で「**ゆるい・締まっていない**」。
 - **lose** … /luːz/ 語尾は濁る **/z/**。動詞で「**失う・負ける**」。活用 lose-lost-lost。
 
-| 語 | 発音 | 品詞・中心の意味 | 自作の例文 |
+| 語 | 発音 | 品詞・中心の意味 | 例文 |
 | --- | --- | --- | --- |
 | l**oo**se | /luːs/ | 形容詞：ゆるい | These jeans are too **loose**.（このジーンズはゆるすぎる） |
 | l**oo**se | /luːs/ | 形容詞：自由な・放たれた | The dog got **loose** in the park.（犬が公園で放たれた） |
@@ -889,7 +889,7 @@ borrow と lend は**無償で、持ち運べるものを一時的に**やり取
 - **quiet** … /ˈkwaɪət/ **2音節**（クワイエット）。形容詞「**静かな・穏やかな**」、名詞「静けさ」。
 - **quite** … /kwaɪt/ **1音節**（クワイト）。副詞「**かなり・まったく**」。
 
-| 語 | 発音 | 中心の意味 | 自作の例文 |
+| 語 | 発音 | 中心の意味 | 例文 |
 | --- | --- | --- | --- |
 | qui**et** | /ˈkwaɪət/ | 静かな（形容詞） | Please be **quiet** in the library.（図書館では静かに） |
 | qui**te** | /kwaɪt/ | かなり・まったく（副詞） | This coffee is **quite** strong.（このコーヒーはかなり濃い） |
@@ -901,7 +901,7 @@ borrow と lend は**無償で、持ち運べるものを一時的に**やり取
 - **than** … /ðæn/ 比較の文で「**〜より**」。more/-er などの比較級とセット。
 - **then** … /ðen/ 「**そのとき・それから・それなら**」。時間や順序、条件の帰結を表す。
 
-| 語 | 発音 | 中心の意味 | 自作の例文 |
+| 語 | 発音 | 中心の意味 | 例文 |
 | --- | --- | --- | --- |
 | th**a**n | /ðæn/ | 〜より（比較） | She is taller **than** her brother.（彼女は兄より背が高い） |
 | th**e**n | /ðen/ | そのとき・それから | We had lunch, and **then** we left.（昼食をとり、それから出発した） |
@@ -913,7 +913,7 @@ borrow と lend は**無償で、持ち運べるものを一時的に**やり取
 - **fewer** … **数えられる名詞（可算・複数形）** に。「より少ない**数**」。fewer books, fewer people。
 - **less** … **数えられない名詞（不可算）** に。「より少ない**量**」。less water, less money, less time。
 
-| 語 | 付く名詞 | 中心の意味 | 自作の例文 |
+| 語 | 付く名詞 | 中心の意味 | 例文 |
 | --- | --- | --- | --- |
 | fewer | 可算・複数 | より少ない数 | **Fewer** students came today.（今日は生徒が少なかった） |
 | fewer | 可算・複数 | より少ない数（than と） | We had **fewer** problems than last year.（去年より問題が少なかった） |
@@ -930,7 +930,7 @@ borrow と lend は**無償で、持ち運べるものを一時的に**やり取
 
 数字が付いていても、**時間・距離・金額・重さのように「ひとまとまりの量」として測るもの**には less を使います。
 
-| 形 | 自作の例文 | なぜ less か |
+| 形 | 例文 | なぜ less か |
 | --- | --- | --- |
 | less than + 時間 | It took **less than** ten minutes.（10分もかからなかった） | 10分をひとつの長さとして見る |
 | less than + 距離 | The station is **less than** two kilometers away.（駅まで2キロ足らず） | 距離という量 |
@@ -951,7 +951,7 @@ borrow と lend は**無償で、持ち運べるものを一時的に**やり取
 - **between** … **2つ**、または**一つひとつを区別できる複数**の間。between A and B。
 - **among** … **3つ以上の不特定の集団**の中で。「〜のうちの一つ」「〜に囲まれて」。
 
-| 語 | 対象 | 中心の意味 | 自作の例文 |
+| 語 | 対象 | 中心の意味 | 例文 |
 | --- | --- | --- | --- |
 | between | 2つ | 〜の間で | Choose **between** tea and coffee.（紅茶とコーヒーのどちらかを選んで） |
 | between | 個別に見る3つ以上 | 〜の相互の間で | a treaty **between** the four countries（4か国間の条約） |
@@ -979,7 +979,7 @@ borrow と lend は**無償で、持ち運べるものを一時的に**やり取
 - **peace** … 「**平和・平穏・安らぎ**」。反対は war。peaceful。
 - **piece** … 「**一片・かけら・部品／(作品の)一点**」。a piece of ...。
 
-| 語 | 発音 | 中心の意味 | 自作の例文 |
+| 語 | 発音 | 中心の意味 | 例文 |
 | --- | --- | --- | --- |
 | p**ea**ce | /piːs/ | 平和・平穏 | They worked for world **peace**.（彼らは世界平和のために働いた） |
 | p**ie**ce | /piːs/ | 一片・かけら | Can I have a **piece** of cake?（ケーキを一切れもらえる？） |
@@ -991,7 +991,7 @@ borrow と lend は**無償で、持ち運べるものを一時的に**やり取
 - **accept** … /əkˈsept/ 動詞「**受け入れる・受け取る・認める**」。
 - **except** … /ɪkˈsept/ 前置詞・接続詞「**〜を除いて・〜以外は**」。
 
-| 語 | 発音 | 品詞・中心の意味 | 自作の例文 |
+| 語 | 発音 | 品詞・中心の意味 | 例文 |
 | --- | --- | --- | --- |
 | **ac**cept | /əkˈsept/ | 動詞：受け入れる | She **accepted** the job offer.（彼女は内定を受けた） |
 | **ex**cept | /ɪkˈsept/ | 前置詞：〜を除いて | Everyone came **except** Tom.（トム以外はみんな来た） |
@@ -1003,7 +1003,7 @@ borrow と lend は**無償で、持ち運べるものを一時的に**やり取
 - **plain** … 「**明白な・わかりやすい／飾りのない・質素な**」（形容詞）、「**平原**」（名詞）。
 - **plane** … 「**飛行機（airplane）／平面**」（名詞）。
 
-| 語 | 発音 | 中心の意味 | 自作の例文 |
+| 語 | 発音 | 中心の意味 | 例文 |
 | --- | --- | --- | --- |
 | pl**ai**n | /pleɪn/ | 明白な・質素な／平原 | Her explanation was **plain** and clear.（彼女の説明は明快だった） |
 | pl**a**ne | /pleɪn/ | 飛行機／平面 | We caught an early **plane**.（早い便の飛行機に乗った） |
@@ -1015,7 +1015,7 @@ borrow と lend は**無償で、持ち運べるものを一時的に**やり取
 - **weak** … /wiːk/ 形容詞「**弱い・力がない・薄い**」。反対は strong。
 - **week** … /wiːk/ 名詞「**週・1週間**」。
 
-| 語 | 発音 | 品詞・中心の意味 | 自作の例文 |
+| 語 | 発音 | 品詞・中心の意味 | 例文 |
 | --- | --- | --- | --- |
 | we**a**k | /wiːk/ | 形容詞：弱い | He felt **weak** after the illness.（病気のあと体が弱っていた） |
 | we**e**k | /wiːk/ | 名詞：週 | I'll see you next **week**.（また来週会いましょう） |
@@ -1027,7 +1027,7 @@ borrow と lend は**無償で、持ち運べるものを一時的に**やり取
 - **bring** … 基準点の**方へ**「**持ってくる・連れてくる**」。bring-brought-brought。
 - **take** … 基準点から**離す方へ**「**持っていく・連れていく**」。take-took-taken。
 
-| 語 | 向き | 中心の意味 | 自作の例文 |
+| 語 | 向き | 中心の意味 | 例文 |
 | --- | --- | --- | --- |
 | bring | こちらへ | 持ってくる | Please **bring** your umbrella here.（傘をここへ持ってきて） |
 | bring | 相手のいる所へ | 持っていく（相手が基準） | I'll **bring** a cake to your party.（あなたのパーティーにケーキを持っていくね） |
@@ -1055,7 +1055,7 @@ borrow と lend は**無償で、持ち運べるものを一時的に**やり取
 - **remember** … 自分が「**思い出す・覚えている**」。人を目的語にして「思い出させる」意味にはなりません。
 - **remind** … 人に「**思い出させる・気づかせる**」。「だれに」を必ず目的語にとります。
 
-| 語 | 中心の意味（よく使う形） | 自作の例文 |
+| 語 | 中心の意味（よく使う形） | 例文 |
 | --- | --- | --- |
 | remember | 覚えている（remember + 名詞・that 節） | I **remember** his name.（彼の名前を覚えている） |
 | remember | 忘れずに〜する（remember **to do**） | **Remember to** lock the door.（ドアの施錠を忘れないで） |
@@ -1084,7 +1084,7 @@ remind 人 of 〜 は「〜を思い出させる」のほかに「**〜に似て
 - **waist** … /weɪst/ 名詞「**腰・胴のくびれ・ウエスト**」。
 - **waste** … /weɪst/ 動詞「**無駄にする**」、名詞「**無駄・廃棄物・ごみ**」。
 
-| 語 | 発音 | 品詞・中心の意味 | 自作の例文 |
+| 語 | 発音 | 品詞・中心の意味 | 例文 |
 | --- | --- | --- | --- |
 | wa**i**st | /weɪst/ | 名詞：腰・ウエスト | The skirt is tight around the **waist**.（そのスカートは腰まわりがきつい） |
 | wa**s**te | /weɪst/ | 動詞：無駄にする／名詞：廃棄物 | Don't **waste** your time.（時間を無駄にしないで） |
@@ -1096,7 +1096,7 @@ remind 人 of 〜 は「〜を思い出させる」のほかに「**〜に似て
 - **later** … /ˈleɪtər/ 「**後で・のちほど**」。時間的にあとを表す（late の比較級）。
 - **latter** … /ˈlætər/ 「**後者（の）**」。前に挙げた二つのうち後の方。the former（前者）と対。
 
-| 語 | 発音 | 中心の意味 | 自作の例文 |
+| 語 | 発音 | 中心の意味 | 例文 |
 | --- | --- | --- | --- |
 | la**t**er | /ˈleɪtər/ | 後で（時間） | I'll call you **later**.（あとで電話するね） |
 | la**tt**er | /ˈlætər/ | 後者 | Of tea and coffee, I prefer the **latter**.（紅茶とコーヒーなら後者が好き） |
@@ -1108,7 +1108,7 @@ remind 人 of 〜 は「〜を思い出させる」のほかに「**〜に似て
 - **angel** … /ˈeɪndʒəl/ 「**天使**」。g は柔らかい /dʒ/（ジ）。
 - **angle** … /ˈæŋɡəl/ 「**角度・角**」。g は硬い /ɡ/（グ）。
 
-| 語 | 発音 | 中心の意味 | 自作の例文 |
+| 語 | 発音 | 中心の意味 | 例文 |
 | --- | --- | --- | --- |
 | ang**el** | /ˈeɪndʒəl/ | 天使 | She sang like an **angel**.（彼女は天使のように歌った） |
 | ang**le** | /ˈæŋɡəl/ | 角度・角 | Measure the **angle** of the corner.（角の角度を測って） |
@@ -1120,7 +1120,7 @@ remind 人 of 〜 は「〜を思い出させる」のほかに「**〜に似て
 - **through** … /θruː/ 前置詞・副詞「**〜を通って・〜を通じて・終えて**」。
 - **thorough** … /ˈθʌrə/（英）/ˈθɜːroʊ/（米）形容詞「**徹底的な・完全な**」。
 
-| 語 | 発音 | 品詞・中心の意味 | 自作の例文 |
+| 語 | 発音 | 品詞・中心の意味 | 例文 |
 | --- | --- | --- | --- |
 | thr**ough** | /θruː/ | 前置詞：〜を通って | We walked **through** the park.（公園を通り抜けた） |
 | th**orough** | /ˈθʌrə/ | 形容詞：徹底的な | She did a **thorough** cleaning.（彼女は徹底的に掃除した） |
@@ -1132,7 +1132,7 @@ remind 人 of 〜 は「〜を思い出させる」のほかに「**〜に似て
 - **steal** … 「**（物）を盗む**」。steal + 物。steal-stole-stolen。
 - **rob** … 「**（人・場所）から奪う・襲う**」。rob + 人／場所（of 物）。rob-robbed-robbed。
 
-| 語 | 目的語 | 中心の意味 | 自作の例文 |
+| 語 | 目的語 | 中心の意味 | 例文 |
 | --- | --- | --- | --- |
 | steal | 物 | （物）を盗む | Someone **stole** my bike.（誰かが私の自転車を盗んだ） |
 | rob | 人・場所 | （人・場所）から奪う | Two men **robbed** the bank.（二人組が銀行を襲った） |
@@ -1144,7 +1144,7 @@ remind 人 of 〜 は「〜を思い出させる」のほかに「**〜に似て
 - **hear** … 音が自然に「**聞こえる・耳に入る**」。他動詞で、目的語が直接続く。
 - **listen** … 意識して「**耳を傾ける**」。自動詞なので、目的語の前に **to** が要る。
 
-| 語 | 意識 | 目的語の前 | 自作の例文 |
+| 語 | 意識 | 目的語の前 | 例文 |
 | --- | --- | --- | --- |
 | hear | なし（自然に） | 不要 | I **heard** a strange noise.（変な音が聞こえた） |
 | hear | なし（情報が耳に） | 不要 | I **heard** that he moved to Osaka.（彼が大阪に引っ越したと聞いた） |
@@ -1161,7 +1161,7 @@ remind 人 of 〜 は「〜を思い出させる」のほかに「**〜に似て
 
 hear は前置詞と組むと意味が変わります。混同しやすいので分けて覚えます。
 
-| 形 | 意味 | 自作の例文 |
+| 形 | 意味 | 例文 |
 | --- | --- | --- |
 | hear from 人 | 手紙や電話で**連絡をもらう** | I **heard from** my sister yesterday.（昨日、姉から連絡があった） |
 | hear about 〜 | 〜について**詳しい話を聞く** | Did you **hear about** the accident?（あの事故のこと聞いた？） |
@@ -1180,7 +1180,7 @@ hear は前置詞と組むと意味が変わります。混同しやすいので
 - **win** … 「**（試合・賞など）に勝つ・を得る**」。win a game / win a prize。win-won-won。
 - **beat** … 「**（相手）を負かす**」。beat + 人・チーム。beat-beat-beaten。
 
-| 語 | 目的語 | 中心の意味 | 自作の例文 |
+| 語 | 目的語 | 中心の意味 | 例文 |
 | --- | --- | --- | --- |
 | win | 試合・賞 | （試合など）に勝つ | Our team **won** the match.（私たちのチームは試合に勝った） |
 | beat | 相手 | （相手）を負かす | We **beat** the champions.（私たちは王者を破った） |
@@ -1192,7 +1192,7 @@ hear は前置詞と組むと意味が変わります。混同しやすいので
 - **classic** … 「**最高級の・典型的な・（時代を超えた）名作**」。a classic film, a classic mistake。
 - **classical** … 「**古典の・古典様式の**」。とくに **classical music（クラシック音楽）**、古代ギリシャ・ローマの。
 
-| 語 | 中心の意味 | 自作の例文 |
+| 語 | 中心の意味 | 例文 |
 | --- | --- | --- |
 | classic | 一流の・典型的な・名作 | This is a **classic** example of good design.（これは良いデザインの典型例だ） |
 | classical | 古典の・クラシックの | She studies **classical** music.（彼女はクラシック音楽を学んでいる） |
@@ -1204,7 +1204,7 @@ hear は前置詞と組むと意味が変わります。混同しやすいので
 - **childish** … 「**子どもっぽい・幼稚な**」。大人に対して否定的に使う。
 - **childlike** … 「**子どものように純真な・無邪気な**」。肯定的に使う。
 
-| 語 | 評価 | 中心の意味 | 自作の例文 |
+| 語 | 評価 | 中心の意味 | 例文 |
 | --- | --- | --- | --- |
 | child**ish** | 否定的 | 幼稚な | Stop being so **childish**.（そんなに子どもっぽくしないで） |
 | child**like** | 肯定的 | 純真な | She has a **childlike** sense of wonder.（彼女は子どものような好奇心を持つ） |
@@ -1216,7 +1216,7 @@ hear は前置詞と組むと意味が変わります。混同しやすいので
 - **weather** … 名詞「**天気・天候**」。
 - **whether** … 接続詞「**〜かどうか・〜であろうと**」。whether A or B。
 
-| 語 | 発音 | 品詞・中心の意味 | 自作の例文 |
+| 語 | 発音 | 品詞・中心の意味 | 例文 |
 | --- | --- | --- | --- |
 | w**ea**ther | /ˈweðər/ | 名詞：天気 | The **weather** is nice today.（今日は天気がいい） |
 | wh**e**ther | /ˈweðər/ | 接続詞：〜かどうか | I don't know **whether** he will come.（彼が来るかどうか分からない） |
@@ -1228,7 +1228,7 @@ hear は前置詞と組むと意味が変わります。混同しやすいので
 - **meat** … /miːt/ 名詞「**（食用の）肉**」。
 - **meet** … /miːt/ 動詞「**会う・出会う・満たす**」。meet-met-met。
 
-| 語 | 発音 | 品詞・中心の意味 | 自作の例文 |
+| 語 | 発音 | 品詞・中心の意味 | 例文 |
 | --- | --- | --- | --- |
 | m**ea**t | /miːt/ | 名詞：肉 | I don't eat **meat**.（私は肉を食べない） |
 | m**ee**t | /miːt/ | 動詞：会う | Let's **meet** at noon.（正午に会おう） |
@@ -1240,7 +1240,7 @@ hear は前置詞と組むと意味が変わります。混同しやすいので
 - **diary** … /ˈdaɪəri/（ダイアリー・3音節）「**日記・予定帳**」。
 - **dairy** … /ˈdɛəri/（デアリー・2音節）「**乳製品・酪農（の）**」。
 
-| 語 | 発音 | 中心の意味 | 自作の例文 |
+| 語 | 発音 | 中心の意味 | 例文 |
 | --- | --- | --- | --- |
 | d**ia**ry | /ˈdaɪəri/ | 日記 | She writes in her **diary** every night.（彼女は毎晩日記をつける） |
 | d**ai**ry | /ˈdɛəri/ | 乳製品・酪農 | Milk and cheese are **dairy** products.（牛乳とチーズは乳製品だ） |
@@ -1252,7 +1252,7 @@ hear は前置詞と組むと意味が変わります。混同しやすいので
 - **council** … 名詞「**評議会・議会・自治体の議会**」。集まった人の会。city council（市議会）。
 - **counsel** … 名詞「**助言・忠告／弁護人**」、動詞「**助言する**」。counselor（相談員）。
 
-| 語 | 発音 | 品詞・中心の意味 | 自作の例文 |
+| 語 | 発音 | 品詞・中心の意味 | 例文 |
 | --- | --- | --- | --- |
 | coun**cil** | /ˈkaʊnsəl/ | 名詞：評議会・議会 | The city **council** met yesterday.（市議会は昨日開かれた） |
 | coun**sel** | /ˈkaʊnsəl/ | 助言（する）・弁護人 | She gave me wise **counsel**.（彼女は賢明な助言をくれた） |
@@ -1264,7 +1264,7 @@ hear は前置詞と組むと意味が変わります。混同しやすいので
 - **coarse** … /kɔːrs/ 形容詞「**きめが粗い・ざらざらの・粗野な**」。反対は fine, smooth。
 - **course** … /kɔːrs/ 名詞「**course・進路・過程／(料理の)一品**」。of course（もちろん）。
 
-| 語 | 発音 | 品詞・中心の意味 | 自作の例文 |
+| 語 | 発音 | 品詞・中心の意味 | 例文 |
 | --- | --- | --- | --- |
 | c**oa**rse | /kɔːrs/ | 形容詞：粗い | The sand here is **coarse**.（ここの砂は粒が粗い） |
 | c**ou**rse | /kɔːrs/ | 名詞：course・進路 | I took an English **course**.（英語の講座を受けた） |
@@ -1276,7 +1276,7 @@ hear は前置詞と組むと意味が変わります。混同しやすいので
 - **teach** … 「**（人に）教える**」。teach-taught-taught。
 - **learn** … 「**（自分が）学ぶ・習う・身につける**」。learn-learned（イギリス英語では learnt も）。
 
-| 語 | 主体 | 中心の意味（よく使う形） | 自作の例文 |
+| 語 | 主体 | 中心の意味（よく使う形） | 例文 |
 | --- | --- | --- | --- |
 | teach | 教える側 | （人に）教える／teach 人 物 | She **teaches** us English.（彼女は私たちに英語を教える） |
 | teach | 教える側 | やり方を教える／teach 人 how to do | He **taught** me how to drive.（彼が運転を教えてくれた） |
@@ -1306,7 +1306,7 @@ study は「勉強する」という**過程**、learn は「身につく」と�
 - **price** … 名詞「**価格・売値（値札の値段）**」。
 - **cost** … 名詞「**費用・原価（かかるお金）**」、動詞「**（金額が）かかる**」。cost-cost-cost。
 
-| 語 | 品詞 | 中心の意味 | 自作の例文 |
+| 語 | 品詞 | 中心の意味 | 例文 |
 | --- | --- | --- | --- |
 | price | 名詞 | 売値・価格 | The **price** of this bag is 50 dollars.（このかばんの値段は50ドルだ） |
 | cost | 名詞・動詞 | 費用／（金額が）かかる | The trip **cost** us a lot.（その旅行はかなり費用がかかった） |
@@ -1319,7 +1319,7 @@ study は「勉強する」という**過程**、learn は「身につく」と�
 - **trip** … 可算名詞「**（ある目的の）旅行・往復の旅**」。多くは短め。a business trip。
 - **journey** … 可算名詞「**（長い・片道の）道のり・旅程**」。
 
-| 語 | 品詞・数 | 中心の意味 | 自作の例文 |
+| 語 | 品詞・数 | 中心の意味 | 例文 |
 | --- | --- | --- | --- |
 | travel | 動詞／不可算 | 旅行する・移動 | I love to **travel**.（旅行が大好きだ） |
 | trip | 可算 | 往復の旅行 | We took a **trip** to Kyoto.（京都へ旅行した） |
@@ -1332,7 +1332,7 @@ study は「勉強する」という**過程**、learn は「身につく」と�
 - **successful** … 「**成功した・うまくいった**」。success（成功）の形容詞。
 - **successive** … 「**連続する・引き続いての**」。succession（連続）の形容詞。
 
-| 語 | 中心の意味 | 自作の例文 |
+| 語 | 中心の意味 | 例文 |
 | --- | --- | --- |
 | success**ful** | 成功した | The event was very **successful**.（そのイベントは大成功だった） |
 | success**ive** | 連続する | It rained for three **successive** days.（3日連続で雨が降った） |
@@ -1344,7 +1344,7 @@ study は「勉強する」という**過程**、learn は「身につく」と�
 - **alternate** … 「**交互の・一つおきの**」（形容詞）、「**交互に起こる・代役を務める**」（動詞 /ˈɔːltərneɪt/）。alternate days（一日おき）。
 - **alternative** … 「**代わりの・別の**」（形容詞）、「**別の選択肢**」（名詞）。an alternative plan。
 
-| 語 | 中心の意味 | 自作の例文 |
+| 語 | 中心の意味 | 例文 |
 | --- | --- | --- |
 | alternate | 交互の・一つおきの | We meet on **alternate** Fridays.（隔週の金曜に集まる） |
 | alternative | 代わりの・別の選択肢 | Is there an **alternative** route?（別のルートはある？） |
@@ -1356,7 +1356,7 @@ study は「勉強する」という**過程**、learn は「身につく」と�
 - **flour** … /ˈflaʊər/ 名詞「**小麦粉・（穀物の）粉**」。
 - **flower** … /ˈflaʊər/ 名詞「**花**」。
 
-| 語 | 発音 | 中心の意味 | 自作の例文 |
+| 語 | 発音 | 中心の意味 | 例文 |
 | --- | --- | --- | --- |
 | fl**our** | /ˈflaʊər/ | 小麦粉 | Add two cups of **flour**.（小麦粉を2カップ加えて） |
 | fl**ower** | /ˈflaʊər/ | 花 | She picked a red **flower**.（彼女は赤い花を摘んだ） |
@@ -1369,7 +1369,7 @@ study は「勉強する」という**過程**、learn は「身につく」と�
 - **there** … 「**そこに・そこへ**」。場所。there is/are（〜がある）。
 - **they're** … 「**they are の短縮**」。they are ~（彼らは〜だ）。
 
-| 語 | 役割 | 中心の意味 | 自作の例文 |
+| 語 | 役割 | 中心の意味 | 例文 |
 | --- | --- | --- | --- |
 | the**ir** | 所有 | 彼らの | **Their** car is new.（彼らの車は新しい） |
 | th**ere** | 場所 | そこに | Put it over **there**.（それをあそこに置いて） |
@@ -1382,7 +1382,7 @@ study は「勉強する」という**過程**、learn は「身につく」と�
 - **soul** … /soʊl/ 名詞「**魂・精神・心**」。
 - **sole** … /soʊl/ 形容詞「**唯一の・単独の**」、名詞「**足の裏・靴底**」（魚の「舌平目」も）。
 
-| 語 | 発音 | 品詞・中心の意味 | 自作の例文 |
+| 語 | 発音 | 品詞・中心の意味 | 例文 |
 | --- | --- | --- | --- |
 | s**ou**l | /soʊl/ | 名詞：魂 | Music touches the **soul**.（音楽は魂を揺さぶる） |
 | s**o**le | /soʊl/ | 形容詞：唯一の／名詞：靴底 | He was the **sole** survivor.（彼は唯一の生存者だった） |
@@ -1394,7 +1394,7 @@ study は「勉強する」という**過程**、learn は「身につく」と�
 - **lightning** … /ˈlaɪtnɪŋ/ 名詞「**稲妻・雷光**」。天気の稲妻。
 - **lightening** … /ˈlaɪtənɪŋ/ 動詞 lighten（明るくする・軽くする）の -ing 形「**明るく／軽くすること**」。
 
-| 語 | 発音 | 中心の意味 | 自作の例文 |
+| 語 | 発音 | 中心の意味 | 例文 |
 | --- | --- | --- | --- |
 | light**ning** | /ˈlaɪtnɪŋ/ | 稲妻 | **Lightning** struck the tower.（稲妻が塔を打った） |
 | light**ening** | /ˈlaɪtənɪŋ/ | 明るく・軽くすること | **Lightening** the color made the room brighter.（色を明るくして部屋が明るくなった） |
@@ -1406,7 +1406,7 @@ study は「勉強する」という**過程**、learn は「身につく」と�
 - **forth** … /fɔːrθ/ 副詞「**前へ・外へ**」。back and forth（行ったり来たり）、and so forth（など）。
 - **fourth** … /fɔːrθ/ 序数「**4番目（の）**」。four（4）から。
 
-| 語 | 発音 | 中心の意味 | 自作の例文 |
+| 語 | 発音 | 中心の意味 | 例文 |
 | --- | --- | --- | --- |
 | f**or**th | /fɔːrθ/ | 前へ・外へ | They went back and **forth**.（彼らは行ったり来たりした） |
 | f**our**th | /fɔːrθ/ | 4番目 | April is the **fourth** month of the year.（4月は1年の4番目の月だ） |
@@ -1418,7 +1418,7 @@ study は「勉強する」という**過程**、learn は「身につく」と�
 - **device** … /dɪˈvaɪs/ **名詞**「**装置・機器・工夫**」。語尾は濁らない /s/。
 - **devise** … /dɪˈvaɪz/ **動詞**「**考案する・工夫する**」。語尾は濁る /z/。
 
-| 語 | 発音 | 品詞・中心の意味 | 自作の例文 |
+| 語 | 発音 | 品詞・中心の意味 | 例文 |
 | --- | --- | --- | --- |
 | devi**ce** | /dɪˈvaɪs/ | 名詞：装置 | This **device** measures heart rate.（この装置は心拍を測る） |
 | devi**se** | /dɪˈvaɪz/ | 動詞：考案する | They **devised** a new plan.（彼らは新しい計画を考え出した） |
@@ -1430,7 +1430,7 @@ study は「勉強する」という**過程**、learn は「身につく」と�
 - **breath** … /brɛθ/ **名詞**「**息・呼吸（1回分）**」。母音は短い「エ」、語尾は濁らない /θ/。
 - **breathe** … /briːð/ **動詞**「**呼吸する・息をする**」。母音は長い「イー」、語尾は濁る /ð/。
 
-| 語 | 発音 | 品詞・中心の意味 | 自作の例文 |
+| 語 | 発音 | 品詞・中心の意味 | 例文 |
 | --- | --- | --- | --- |
 | breath | /brɛθ/ | 名詞：息 | Take a deep **breath**.（深呼吸して） |
 | breathe | /briːð/ | 動詞：呼吸する | It's hard to **breathe** up here.（ここでは息がしにくい） |
@@ -1442,7 +1442,7 @@ study は「勉強する」という**過程**、learn は「身につく」と�
 - **job** … **可算名詞**「**（具体的な）職・仕事・務め**」。a good job, two jobs。
 - **work** … 主に**不可算名詞**「**仕事・労働・作業（一般）**」。a work とは言わない（作品の意味を除く）。
 
-| 語 | 数 | 中心の意味 | 自作の例文 |
+| 語 | 数 | 中心の意味 | 例文 |
 | --- | --- | --- | --- |
 | job | 可算 | 具体的な職・仕事 | She got a new **job**.（彼女は新しい仕事に就いた） |
 | work | 不可算 | 労働・仕事一般 | I have a lot of **work** today.（今日は仕事が多い） |
@@ -1454,7 +1454,7 @@ study は「勉強する」という**過程**、learn は「身につく」と�
 - **son** … /sʌn/ 名詞「**息子**」。反対は daughter（娘）。
 - **sun** … /sʌn/ 名詞「**太陽**」。
 
-| 語 | 発音 | 中心の意味 | 自作の例文 |
+| 語 | 発音 | 中心の意味 | 例文 |
 | --- | --- | --- | --- |
 | s**o**n | /sʌn/ | 息子 | Their **son** is ten years old.（彼らの息子は10歳だ） |
 | s**u**n | /sʌn/ | 太陽 | The **sun** rises in the east.（太陽は東から昇る） |
@@ -1466,7 +1466,7 @@ study は「勉強する」という**過程**、learn は「身につく」と�
 - **pair** … /pɛər/ 名詞「**一対・二つで一組**」。a pair of shoes（靴一足）。
 - **pear** … /pɛər/ 名詞「**洋なし（果物）**」。
 
-| 語 | 発音 | 中心の意味 | 自作の例文 |
+| 語 | 発音 | 中心の意味 | 例文 |
 | --- | --- | --- | --- |
 | p**ai**r | /pɛər/ | 一対・一組 | I bought a **pair** of gloves.（手袋を一組買った） |
 | p**ea**r | /pɛər/ | 洋なし | She ate a juicy **pear**.（彼女はみずみずしい洋なしを食べた） |
@@ -1478,7 +1478,7 @@ study は「勉強する」という**過程**、learn は「身につく」と�
 - **hole** … /hoʊl/ 名詞「**穴・くぼみ**」。
 - **whole** … /hoʊl/ 形容詞「**全体の・すべての・丸ごとの**」。名詞「全体」。
 
-| 語 | 発音 | 品詞・中心の意味 | 自作の例文 |
+| 語 | 発音 | 品詞・中心の意味 | 例文 |
 | --- | --- | --- | --- |
 | hole | /hoʊl/ | 名詞：穴 | There is a **hole** in my sock.（靴下に穴がある） |
 | **w**hole | /hoʊl/ | 形容詞：全体の | She ate the **whole** cake.（彼女はケーキを丸ごと食べた） |
@@ -1490,7 +1490,7 @@ study は「勉強する」という**過程**、learn は「身につく」と�
 - **heal** … /hiːl/ 動詞「**治す・（傷が）癒える**」。health（健康）と同語源。
 - **heel** … /hiːl/ 名詞「**かかと・靴のかかと**」。high heels（ハイヒール）。
 
-| 語 | 発音 | 品詞・中心の意味 | 自作の例文 |
+| 語 | 発音 | 品詞・中心の意味 | 例文 |
 | --- | --- | --- | --- |
 | h**ea**l | /hiːl/ | 動詞：治す・癒える | The wound will **heal** soon.（傷はすぐ治るだろう） |
 | h**ee**l | /hiːl/ | 名詞：かかと | My **heel** hurts in these shoes.（この靴だとかかとが痛い） |
@@ -1502,7 +1502,7 @@ study は「勉強する」という**過程**、learn は「身につく」と�
 - **right** … /raɪt/ 「**右・正しい・権利**」（形容詞・名詞・副詞）。反対は left / wrong。
 - **write** … /raɪt/ 動詞「**書く**」。write-wrote-written。
 
-| 語 | 発音 | 品詞・中心の意味 | 自作の例文 |
+| 語 | 発音 | 品詞・中心の意味 | 例文 |
 | --- | --- | --- | --- |
 | right | /raɪt/ | 右・正しい・権利 | Turn **right** at the corner.（角を右に曲がって） |
 | **w**rite | /raɪt/ | 動詞：書く | Please **write** your name here.（ここに名前を書いて） |
@@ -1514,7 +1514,7 @@ study は「勉強する」という**過程**、learn は「身につく」と�
 - **cloth** … /klɔːθ/ 名詞「**布・生地・ふきん**」。語尾は濁らない /θ/。※複数 clothes /kloʊðz/ は「衣服」。
 - **clothe** … /kloʊð/ 動詞「**（人に）服を着せる**」。語尾は濁る /ð/。
 
-| 語 | 発音 | 品詞・中心の意味 | 自作の例文 |
+| 語 | 発音 | 品詞・中心の意味 | 例文 |
 | --- | --- | --- | --- |
 | cloth | /klɔːθ/ | 名詞：布 | Wipe the table with a **cloth**.（布でテーブルを拭いて） |
 | clothe | /kloʊð/ | 動詞：服を着せる | They work to feed and **clothe** the poor.（貧しい人に食と衣を提供する） |
@@ -1526,7 +1526,7 @@ study は「勉強する」という**過程**、learn は「身につく」と�
 - **belief** … /bɪˈliːf/ **名詞**「**信念・信じること・考え**」。語尾は濁らない /f/。
 - **believe** … /bɪˈliːv/ **動詞**「**信じる・思う**」。語尾は濁る /v/。
 
-| 語 | 発音 | 品詞・中心の意味 | 自作の例文 |
+| 語 | 発音 | 品詞・中心の意味 | 例文 |
 | --- | --- | --- | --- |
 | belie**f** | /bɪˈliːf/ | 名詞：信念 | She has a strong **belief** in justice.（彼女は正義への強い信念を持つ） |
 | belie**ve** | /bɪˈliːv/ | 動詞：信じる | I **believe** you are right.（あなたは正しいと思う） |
@@ -1538,7 +1538,7 @@ belief/believe と同じく、**-f（relief）が名詞、-ve（relieve）が動
 - **relief** … /rɪˈliːf/ **名詞**「**安心・ほっとすること・（苦痛の）緩和・救援**」。語尾 /f/。
 - **relieve** … /rɪˈliːv/ **動詞**「**（苦痛・負担を）和らげる・軽減する**」。語尾 /v/。
 
-| 語 | 発音 | 品詞・中心の意味 | 自作の例文 |
+| 語 | 発音 | 品詞・中心の意味 | 例文 |
 | --- | --- | --- | --- |
 | relie**f** | /rɪˈliːf/ | 名詞：安心・緩和 | It was a huge **relief** to hear the news.（その知らせにとても安心した） |
 | relie**ve** | /rɪˈliːv/ | 動詞：和らげる | This medicine **relieves** pain.（この薬は痛みを和らげる） |
@@ -1562,7 +1562,7 @@ belief/believe と同じく、**-f（relief）が名詞、-ve（relieve）が動
 - **damage** … 「**（物・建物・評判など）に損害を与える**」。名詞「損害」でも使う。
 - **injure** … 「**（人・体・動物）を傷つける・負傷させる**」。injury（けが）。
 
-| 語 | 対象 | 中心の意味 | 自作の例文 |
+| 語 | 対象 | 中心の意味 | 例文 |
 | --- | --- | --- | --- |
 | damage | 物・もの | 損害を与える | The storm **damaged** the roof.（嵐が屋根に損害を与えた） |
 | injure | 人・体 | 負傷させる | He **injured** his knee playing soccer.（サッカーで膝を痛めた） |
@@ -1574,7 +1574,7 @@ belief/believe と同じく、**-f（relief）が名詞、-ve（relieve）が動
 - **steal** … /stiːl/ 動詞「**盗む**」。steal-stole-stolen。
 - **steel** … /stiːl/ 名詞「**鋼鉄・はがね**」。
 
-| 語 | 発音 | 品詞・中心の意味 | 自作の例文 |
+| 語 | 発音 | 品詞・中心の意味 | 例文 |
 | --- | --- | --- | --- |
 | st**ea**l | /stiːl/ | 動詞：盗む | Don't **steal** other people's ideas.（人のアイデアを盗まないで） |
 | st**ee**l | /stiːl/ | 名詞：鋼鉄 | The bridge is made of **steel**.（その橋は鋼鉄でできている） |
@@ -1586,7 +1586,7 @@ belief/believe と同じく、**-f（relief）が名詞、-ve（relieve）が動
 - **sea** … /siː/ 名詞「**海**」。
 - **see** … /siː/ 動詞「**見る・見える・分かる・会う**」。see-saw-seen。
 
-| 語 | 発音 | 品詞・中心の意味 | 自作の例文 |
+| 語 | 発音 | 品詞・中心の意味 | 例文 |
 | --- | --- | --- | --- |
 | s**ea** | /siː/ | 名詞：海 | We swam in the **sea**.（私たちは海で泳いだ） |
 | s**ee** | /siː/ | 動詞：見る・分かる | I can **see** the mountains from here.（ここから山が見える） |
@@ -1598,7 +1598,7 @@ belief/believe と同じく、**-f（relief）が名詞、-ve（relieve）が動
 - **know** … /noʊ/ 動詞「**知る・知っている・分かる**」。know-knew-known。
 - **no** … /noʊ/ 「**いいえ／一つも〜ない**」（返答・限定詞）。
 
-| 語 | 発音 | 品詞・中心の意味 | 自作の例文 |
+| 語 | 発音 | 品詞・中心の意味 | 例文 |
 | --- | --- | --- | --- |
 | **k**now | /noʊ/ | 動詞：知る | I **know** the answer.（答えを知っている） |
 | no | /noʊ/ | いいえ・〜がない | There is **no** water left.（水が一つも残っていない） |
@@ -1611,7 +1611,7 @@ belief/believe と同じく、**-f（relief）が名詞、-ve（relieve）が動
 - **by** … 前置詞「**〜のそばに・〜によって・〜までに**」。
 - **bye** … 間投詞「**さようなら（goodbye の略）**」。
 
-| 語 | 役割 | 中心の意味 | 自作の例文 |
+| 語 | 役割 | 中心の意味 | 例文 |
 | --- | --- | --- | --- |
 | b**uy** | 動詞 | 買う | I want to **buy** a new phone.（新しい電話を買いたい） |
 | b**y** | 前置詞 | 〜のそば・〜によって | The letter was written **by** hand.（手紙は手で書かれた） |
@@ -1625,7 +1625,7 @@ belief/believe と同じく、**-f（relief）が名詞、-ve（relieve）が動
 - **too** … 副詞「**〜も・その上／〜すぎる**」。
 - **two** … 数「**2**」。
 
-| 語 | 役割 | 中心の意味 | 自作の例文 |
+| 語 | 役割 | 中心の意味 | 例文 |
 | --- | --- | --- | --- |
 | t**o** | 前置詞・不定詞 | 〜へ・〜に | I go **to** school by bus.（バスで学校へ行く） |
 | t**oo** | 副詞 | 〜も・〜すぎる | This is **too** expensive.（これは高すぎる） |
@@ -1638,7 +1638,7 @@ belief/believe と同じく、**-f（relief）が名詞、-ve（relieve）が動
 - **envelope** … /ˈɛnvəloʊp/ **名詞**「**封筒**」。アクセントは前、末尾に e。
 - **envelop** … /ɪnˈvɛləp/ **動詞**「**包み込む・覆う**」。アクセントは後ろ、e なし。
 
-| 語 | 発音 | 品詞・中心の意味 | 自作の例文 |
+| 語 | 発音 | 品詞・中心の意味 | 例文 |
 | --- | --- | --- | --- |
 | envelop**e** | /ˈɛnvəloʊp/ | 名詞：封筒 | Put the letter in an **envelope**.（手紙を封筒に入れて） |
 | envelop | /ɪnˈvɛləp/ | 動詞：包み込む | Fog began to **envelop** the town.（霧が町を包み始めた） |
@@ -1650,7 +1650,7 @@ belief/believe と同じく、**-f（relief）が名詞、-ve（relieve）が動
 - **proof** … /pruːf/ **名詞**「**証拠・証明**」。語尾 /f/。
 - **prove** … /pruːv/ **動詞**「**証明する・（結果的に）〜だと分かる**」。prove-proved-proven/proved。
 
-| 語 | 発音 | 品詞・中心の意味 | 自作の例文 |
+| 語 | 発音 | 品詞・中心の意味 | 例文 |
 | --- | --- | --- | --- |
 | proo**f** | /pruːf/ | 名詞：証拠 | Do you have any **proof**?（何か証拠はある？） |
 | pro**ve** | /pruːv/ | 動詞：証明する | Can you **prove** it?（それを証明できる？） |
@@ -1662,7 +1662,7 @@ belief/believe と同じく、**-f（relief）が名詞、-ve（relieve）が動
 - **success** … /səkˈsɛs/ **名詞**「**成功**」。形容詞は successful。
 - **succeed** … /səkˈsiːd/ **動詞**「**成功する（succeed in ~）・後を継ぐ（succeed 人）**」。
 
-| 語 | 発音 | 品詞・中心の意味 | 自作の例文 |
+| 語 | 発音 | 品詞・中心の意味 | 例文 |
 | --- | --- | --- | --- |
 | succe**ss** | /səkˈsɛs/ | 名詞：成功 | The event was a great **success**.（そのイベントは大成功だった） |
 | succe**ed** | /səkˈsiːd/ | 動詞：成功する | She **succeeded** in passing the exam.（彼女は試験に合格した） |
@@ -1674,7 +1674,7 @@ belief/believe と同じく、**-f（relief）が名詞、-ve（relieve）が動
 - **farther** … 主に**物理的な距離**「**より遠くに**」。
 - **further** … **程度・追加**「**さらに・それ以上・追加の**」。距離にも使えるが、抽象的な意味では further。
 
-| 語 | 中心の使い方 | 自作の例文 |
+| 語 | 中心の使い方 | 例文 |
 | --- | --- | --- |
 | farther | 物理的な距離 | The station is **farther** than I thought.（駅は思ったより遠い） |
 | further | 程度・追加 | We need **further** information.（さらなる情報が必要だ） |
@@ -1686,7 +1686,7 @@ belief/believe と同じく、**-f（relief）が名詞、-ve（relieve）が動
 - **reach** … **他動詞**。**前置詞なし**で目的語（場所）をとる。reach the station。
 - **arrive** … **自動詞**。場所の前に **at（狭い場所）/ in（広い場所）** が要る。arrive at the airport / arrive in Tokyo。
 
-| 語 | 型 | 中心の意味 | 自作の例文 |
+| 語 | 型 | 中心の意味 | 例文 |
 | --- | --- | --- | --- |
 | reach | 他動詞 | （場所）に着く | We **reached** the summit at noon.（正午に頂上に着いた） |
 | arrive | 自動詞 | （at/in）到着する | They **arrived at** the hotel.（彼らはホテルに着いた） |
@@ -1698,7 +1698,7 @@ belief/believe と同じく、**-f（relief）が名詞、-ve（relieve）が動
 - **pray** … /preɪ/ 動詞「**祈る**」。prayer（祈り）。
 - **prey** … /preɪ/ 名詞「**獲物・えじき**」。捕食される側。
 
-| 語 | 発音 | 品詞・中心の意味 | 自作の例文 |
+| 語 | 発音 | 品詞・中心の意味 | 例文 |
 | --- | --- | --- | --- |
 | pr**ay** | /preɪ/ | 動詞：祈る | They **pray** for peace.（彼らは平和を祈る） |
 | pr**ey** | /preɪ/ | 名詞：獲物 | The lion caught its **prey**.（ライオンは獲物を捕らえた） |
@@ -1710,7 +1710,7 @@ belief/believe と同じく、**-f（relief）が名詞、-ve（relieve）が動
 - **here** … /hɪər/ 副詞「**ここに・ここへ**」。反対は there。
 - **hear** … /hɪər/ 動詞「**聞く・聞こえる**」。hear-heard-heard。
 
-| 語 | 発音 | 品詞・中心の意味 | 自作の例文 |
+| 語 | 発音 | 品詞・中心の意味 | 例文 |
 | --- | --- | --- | --- |
 | h**ere** | /hɪər/ | 副詞：ここに | Come **here**, please.（こっちへ来て） |
 | h**ear** | /hɪər/ | 動詞：聞く | I can't **hear** you well.（よく聞こえない） |
@@ -1722,7 +1722,7 @@ belief/believe と同じく、**-f（relief）が名詞、-ve（relieve）が動
 - **one** … /wʌn/ 数「**1・一つ**」、代名詞「（前に出た名詞の代わりの）もの」。
 - **won** … /wʌn/ 動詞 win の過去・過去分詞「**勝った・獲得した**」。win-won-won。
 
-| 語 | 発音 | 品詞・中心の意味 | 自作の例文 |
+| 語 | 発音 | 品詞・中心の意味 | 例文 |
 | --- | --- | --- | --- |
 | one | /wʌn/ | 数：1 | I have only **one** ticket.（チケットは1枚しかない） |
 | won | /wʌn/ | win の過去：勝った | Our team **won** the game.（私たちのチームは試合に勝った） |
@@ -1734,7 +1734,7 @@ belief/believe と同じく、**-f（relief）が名詞、-ve（relieve）が動
 - **wait** … /weɪt/ 動詞「**待つ**」。wait for ~（〜を待つ）。
 - **weight** … /weɪt/ 名詞「**重さ・重量・体重**」。動詞 weigh（重さを量る）から。
 
-| 語 | 発音 | 品詞・中心の意味 | 自作の例文 |
+| 語 | 発音 | 品詞・中心の意味 | 例文 |
 | --- | --- | --- | --- |
 | w**ai**t | /weɪt/ | 動詞：待つ | Please **wait** for me here.（ここで待っていて） |
 | w**eigh**t | /weɪt/ | 名詞：重さ | What is the **weight** of this box?（この箱の重さは？） |
@@ -1746,7 +1746,7 @@ belief/believe と同じく、**-f（relief）が名詞、-ve（relieve）が動
 - **sale** … /seɪl/ 名詞「**販売・売却・特売（セール）**」。for sale（売り物）、on sale（特売中）。
 - **sail** … /seɪl/ 名詞「**帆**」、動詞「**航行する・帆走する**」。
 
-| 語 | 発音 | 品詞・中心の意味 | 自作の例文 |
+| 語 | 発音 | 品詞・中心の意味 | 例文 |
 | --- | --- | --- | --- |
 | s**a**le | /seɪl/ | 名詞：販売・特売 | The store is having a **sale**.（その店はセール中だ） |
 | s**ai**l | /seɪl/ | 帆／航行する | The boat **sailed** across the bay.（船は湾を横切って進んだ） |
@@ -1758,7 +1758,7 @@ belief/believe と同じく、**-f（relief）が名詞、-ve（relieve）が動
 - **conscious** … /ˈkɒnʃəs/ 形容詞「**意識のある・気づいている**」。be conscious of ~（〜に気づいている）。
 - **conscience** … /ˈkɒnʃəns/ 名詞「**良心**」。善悪を判断する心。
 
-| 語 | 発音 | 品詞・中心の意味 | 自作の例文 |
+| 語 | 発音 | 品詞・中心の意味 | 例文 |
 | --- | --- | --- | --- |
 | consci**ous** | /ˈkɒnʃəs/ | 形容詞：意識のある | She is **conscious** of the risk.（彼女はその危険に気づいている） |
 | consci**ence** | /ˈkɒnʃəns/ | 名詞：良心 | His **conscience** troubled him.（良心の呵責に苦しんだ） |
@@ -1770,7 +1770,7 @@ belief/believe と同じく、**-f（relief）が名詞、-ve（relieve）が動
 - **moral** … /ˈmɒrəl/ 形容詞「**道徳的な**」、名詞「**教訓**」。アクセントは前。
 - **morale** … /məˈræl/ 名詞「**士気・やる気**」。アクセントは後ろ（e が付く）。
 
-| 語 | 発音 | 品詞・中心の意味 | 自作の例文 |
+| 語 | 発音 | 品詞・中心の意味 | 例文 |
 | --- | --- | --- | --- |
 | moral | /ˈmɒrəl/ | 道徳的な・教訓 | The story has a clear **moral**.（その話には明確な教訓がある） |
 | moral**e** | /məˈræl/ | 士気・やる気 | The team's **morale** was high.（チームの士気は高かった） |
@@ -1782,7 +1782,7 @@ belief/believe と同じく、**-f（relief）が名詞、-ve（relieve）が動
 - **avoid** … 「**（好ましくないもの）を避ける**」。avoid + 名詞／avoid **doing**（動名詞）。
 - **prevent** … 「**（事が起きるの）を防ぐ・（人が〜するのを）妨げる**」。prevent 人 **from doing**。
 
-| 語 | 語法 | 中心の意味 | 自作の例文 |
+| 語 | 語法 | 中心の意味 | 例文 |
 | --- | --- | --- | --- |
 | avoid | avoid doing | （自分が）避ける | I **avoid** eating too much sugar.（砂糖の取りすぎを避けている） |
 | prevent | prevent 人 from doing | 防ぐ・妨げる | The rain **prevented** us from going out.（雨で外出できなかった） |
@@ -1794,7 +1794,7 @@ belief/believe と同じく、**-f（relief）が名詞、-ve（relieve）が動
 - **big** … 「**大きい・重大な**」。口語的で、抽象的な「大きさ・重要さ」にも使う（a big decision, a big problem）。
 - **large** … 主に「**サイズ・量・数が大きい**」。ややフォーマル。抽象的な「重要さ」にはあまり使わない。
 
-| 語 | 得意な使い方 | 自作の例文 |
+| 語 | 得意な使い方 | 例文 |
 | --- | --- | --- |
 | big | 重要さ・程度も | It was a **big** decision.（それは大きな決断だった） |
 | large | サイズ・量・数 | They live in a **large** house.（彼らは大きな家に住んでいる） |
@@ -1806,7 +1806,7 @@ belief/believe と同じく、**-f（relief）が名詞、-ve（relieve）が動
 - **confident** … /ˈkɒnfɪdənt/ 形容詞「**自信のある・確信して**」。be confident of/that ~。
 - **confidant** … /ˈkɒnfɪdænt/ 名詞「**腹心の友・（秘密を打ち明ける）親友**」。末尾は「ダント／ダーント」。
 
-| 語 | 発音 | 品詞・中心の意味 | 自作の例文 |
+| 語 | 発音 | 品詞・中心の意味 | 例文 |
 | --- | --- | --- | --- |
 | confid**ent** | /ˈkɒnfɪdənt/ | 形容詞：自信のある | She felt **confident** before the test.（試験前、自信があった） |
 | confid**ant** | /ˈkɒnfɪdænt/ | 名詞：腹心の友 | He is my closest **confidant**.（彼は私の最も親しい相談相手だ） |
@@ -1818,7 +1818,7 @@ belief/believe と同じく、**-f（relief）が名詞、-ve（relieve）が動
 - **momentary** … /ˈmoʊməntɛri/ 「**一瞬の・つかの間の**」。時間が短いこと。
 - **momentous** … /moʊˈmɛntəs/ 「**重大な・重要な**」。重み・意義が大きいこと。
 
-| 語 | 中心の意味 | 自作の例文 |
+| 語 | 中心の意味 | 例文 |
 | --- | --- | --- |
 | moment**ary** | 一瞬の | There was a **momentary** silence.（つかの間の沈黙があった） |
 | moment**ous** | 重大な | It was a **momentous** decision.（それは重大な決断だった） |
@@ -1830,7 +1830,7 @@ belief/believe と同じく、**-f（relief）が名詞、-ve（relieve）が動
 - **die** … /daɪ/ 動詞「**死ぬ・枯れる**」。die-died-died。進行形は dying。
 - **dye** … /daɪ/ 動詞「**染める**」、名詞「**染料**」。進行形は dyeing（e を残す）。
 
-| 語 | 発音 | 品詞・中心の意味 | 自作の例文 |
+| 語 | 発音 | 品詞・中心の意味 | 例文 |
 | --- | --- | --- | --- |
 | die | /daɪ/ | 動詞：死ぬ | The plant will **die** without water.（水がないと枯れる） |
 | dye | /daɪ/ | 染める・染料 | She **dyed** her hair brown.（髪を茶色に染めた） |
@@ -1842,7 +1842,7 @@ belief/believe と同じく、**-f（relief）が名詞、-ve（relieve）が動
 - **board** … /bɔːrd/ 名詞「**板・掲示板・委員会**」、動詞「**（乗り物に）乗り込む**」。
 - **bored** … /bɔːrd/ 形容詞「**退屈した・うんざりした**」。動詞 bore（退屈させる）の過去分詞から。
 
-| 語 | 発音 | 品詞・中心の意味 | 自作の例文 |
+| 語 | 発音 | 品詞・中心の意味 | 例文 |
 | --- | --- | --- | --- |
 | board | /bɔːrd/ | 板・委員会／乗り込む | Passengers began to **board** the plane.（乗客が搭乗を始めた） |
 | bored | /bɔːrd/ | 形容詞：退屈した | I was **bored** during the long lecture.（長い講義で退屈した） |
@@ -1854,7 +1854,7 @@ belief/believe と同じく、**-f（relief）が名詞、-ve（relieve）が動
 - **sight** … /saɪt/ 名詞「**視界・光景・視力・名所**」。sightseeing（観光）。
 - **site** … /saɪt/ 名詞「**用地・敷地・（事件などの）現場・ウェブサイト**」。
 
-| 語 | 発音 | 中心の意味 | 自作の例文 |
+| 語 | 発音 | 中心の意味 | 例文 |
 | --- | --- | --- | --- |
 | s**igh**t | /saɪt/ | 視界・光景・視力 | The sunset was a beautiful **sight**.（夕日は美しい光景だった） |
 | s**i**te | /saɪt/ | 用地・場所・サイト | This is the **site** of the new school.（ここが新校舎の用地だ） |
@@ -1866,7 +1866,7 @@ belief/believe と同じく、**-f（relief）が名詞、-ve（relieve）が動
 - **male** … /meɪl/ 「**男性（の）・オスの**」（形容詞・名詞）。反対は female。
 - **mail** … /meɪl/ 名詞「**郵便（物）・メール**」、動詞「**（郵便で）送る**」。
 
-| 語 | 発音 | 中心の意味 | 自作の例文 |
+| 語 | 発音 | 中心の意味 | 例文 |
 | --- | --- | --- | --- |
 | m**a**le | /meɪl/ | 男性の・オスの | A **male** lion has a mane.（オスのライオンにはたてがみがある） |
 | m**ai**l | /meɪl/ | 郵便・送る | I got a lot of **mail** today.（今日は郵便がたくさん届いた） |
@@ -1878,7 +1878,7 @@ belief/believe と同じく、**-f（relief）が名詞、-ve（relieve）が動
 - **decent** … /ˈdiːsənt/ 形容詞「**きちんとした・まともな・見苦しくない**」。アクセントは前（ディー）。
 - **descent** … /dɪˈsɛnt/ 名詞「**下降・降下／家系・血統**」。アクセントは後ろ（セント）。反対は ascent（上昇）。
 
-| 語 | 発音 | 品詞・中心の意味 | 自作の例文 |
+| 語 | 発音 | 品詞・中心の意味 | 例文 |
 | --- | --- | --- | --- |
 | **de**cent | /ˈdiːsənt/ | 形容詞：まともな | He earns a **decent** salary.（彼はまともな給料を得ている） |
 | de**scent** | /dɪˈsɛnt/ | 名詞：下降・家系 | The plane began its **descent**.（飛行機は降下を始めた） |
@@ -1890,7 +1890,7 @@ belief/believe と同じく、**-f（relief）が名詞、-ve（relieve）が動
 - **salary** … 主に「**固定給（月給・年俸）**」。専門職・事務職などで、月や年ごとにまとまって支払われる。
 - **wage** … 主に「**時間給・出来高（時給・週給）**」。働いた時間や量に応じて支払われる。しばしば複数 wages。
 
-| 語 | 単位 | 中心の意味 | 自作の例文 |
+| 語 | 単位 | 中心の意味 | 例文 |
 | --- | --- | --- | --- |
 | salary | 月・年 | 固定給 | Her annual **salary** is high.（彼女の年俸は高い） |
 | wage | 時間・週 | 時間給 | Workers demanded higher **wages**.（労働者は賃上げを求めた） |
@@ -1902,7 +1902,7 @@ belief/believe と同じく、**-f（relief）が名詞、-ve（relieve）が動
 - **custom** … 「**（社会・地域・集団の）慣習・風習・しきたり**」。文化的なならわし。
 - **habit** … 「**（個人の）癖・習慣**」。無意識に繰り返す個人の行動。
 
-| 語 | 主体 | 中心の意味 | 自作の例文 |
+| 語 | 主体 | 中心の意味 | 例文 |
 | --- | --- | --- | --- |
 | custom | 社会・集団 | 慣習・風習 | It is a **custom** to bow in Japan.（日本ではお辞儀をする習慣がある） |
 | habit | 個人 | 癖・習慣 | Biting nails is a bad **habit**.（爪をかむのは悪い癖だ） |
@@ -1914,7 +1914,7 @@ belief/believe と同じく、**-f（relief）が名詞、-ve（relieve）が動
 - **shade** … 「**日陰・（光をさえぎった）暗がり／色合い**」。輪郭のない、光の当たらない領域。日よけ（shade）も。
 - **shadow** … 「**影**」。物や人が光をさえぎってできる、**輪郭のある**黒い形。
 
-| 語 | 中心の意味 | 自作の例文 |
+| 語 | 中心の意味 | 例文 |
 | --- | --- | --- |
 | shade | 日陰・色合い | Let's sit in the **shade** of that tree.（あの木の日陰に座ろう） |
 | shadow | 輪郭のある影 | The tree cast a long **shadow**.（木は長い影を落とした） |
@@ -1926,7 +1926,7 @@ belief/believe と同じく、**-f（relief）が名詞、-ve（relieve）が動
 - **luxury** … /ˈlʌkʃəri/ **名詞**「**ぜいたく・高級（品）**」。形容詞的に luxury car（高級車）とも。
 - **luxurious** … /lʌɡˈʒʊəriəs/ **形容詞**「**豪華な・ぜいたくな**」。
 
-| 語 | 発音 | 品詞・中心の意味 | 自作の例文 |
+| 語 | 発音 | 品詞・中心の意味 | 例文 |
 | --- | --- | --- | --- |
 | luxury | /ˈlʌkʃəri/ | 名詞：ぜいたく | Travel is a **luxury** for them.（旅行は彼らには贅沢だ） |
 | luxuri**ous** | /lʌɡˈʒʊəriəs/ | 形容詞：豪華な | They stayed in a **luxurious** hotel.（豪華なホテルに泊まった） |
@@ -1938,7 +1938,7 @@ belief/believe と同じく、**-f（relief）が名詞、-ve（relieve）が動
 - **healthy** … 「**健康な・健康的な**」。健康を持っている人・状態（a healthy child）。
 - **healthful** … 「**健康に良い・健康を促す**」。健康をもたらす食べ物・環境など（a healthful diet）。
 
-| 語 | 中心の意味 | 自作の例文 |
+| 語 | 中心の意味 | 例文 |
 | --- | --- | --- |
 | healthy | 健康な（状態） | She is a **healthy** young woman.（彼女は健康な若い女性だ） |
 | healthful | 健康に良い（促す） | A **healthful** diet includes vegetables.（健康的な食事には野菜が入る） |
@@ -1950,7 +1950,7 @@ belief/believe と同じく、**-f（relief）が名詞、-ve（relieve）が動
 - **night** … /naɪt/ 名詞「**夜**」。反対は day。
 - **knight** … /naɪt/ 名詞「**騎士・ナイト**」（チェスの駒でも）。
 
-| 語 | 発音 | 中心の意味 | 自作の例文 |
+| 語 | 発音 | 中心の意味 | 例文 |
 | --- | --- | --- | --- |
 | night | /naɪt/ | 夜 | We arrived late at **night**.（夜遅くに着いた） |
 | **k**night | /naɪt/ | 騎士 | The **knight** wore shining armor.（騎士は輝く鎧を着ていた） |
@@ -1962,7 +1962,7 @@ belief/believe と同じく、**-f（relief）が名詞、-ve（relieve）が動
 - **role** … /roʊl/ 名詞「**役割・役**」。play a role（役割を果たす）。
 - **roll** … /roʊl/ 動詞「**転がる・巻く**」、名詞「**ひと巻き・名簿・ロールパン**」。
 
-| 語 | 発音 | 品詞・中心の意味 | 自作の例文 |
+| 語 | 発音 | 品詞・中心の意味 | 例文 |
 | --- | --- | --- | --- |
 | role | /roʊl/ | 名詞：役割 | She played a key **role** in the project.（計画で重要な役割を果たした） |
 | roll | /roʊl/ | 転がる・巻く／名簿 | The ball **rolled** down the hill.（ボールが坂を転がった） |
@@ -1975,7 +1975,7 @@ belief/believe と同じく、**-f（relief）が名詞、-ve（relieve）が動
 - **scent** … /sɛnt/ 名詞「**香り・におい**」。s の後に c。
 - **sent** … /sɛnt/ 動詞 send の過去・過去分詞「**送った**」。
 
-| 語 | 発音 | 中心の意味 | 自作の例文 |
+| 語 | 発音 | 中心の意味 | 例文 |
 | --- | --- | --- | --- |
 | cent | /sɛnt/ | セント（通貨） | It costs fifty **cents**.（それは50セントだ） |
 | **s**cent | /sɛnt/ | 香り | The **scent** of roses filled the room.（バラの香りが部屋に満ちた） |
@@ -1988,7 +1988,7 @@ belief/believe と同じく、**-f（relief）が名詞、-ve（relieve）が動
 - **allowed** … /əˈlaʊd/ 動詞 allow（許す）の過去・過去分詞「**許された**」。be allowed to do（〜してよい）。
 - **aloud** … /əˈlaʊd/ 副詞「**声に出して・音読で**」。read aloud（音読する）。
 
-| 語 | 発音 | 品詞・中心の意味 | 自作の例文 |
+| 語 | 発音 | 品詞・中心の意味 | 例文 |
 | --- | --- | --- | --- |
 | allow**ed** | /əˈlaʊd/ | 許された | Smoking is not **allowed** here.（ここは禁煙だ） |
 | al**oud** | /əˈlaʊd/ | 声に出して | She read the poem **aloud**.（彼女は詩を音読した） |
@@ -2000,7 +2000,7 @@ belief/believe と同じく、**-f（relief）が名詞、-ve（relieve）が動
 - **imply** … （話し手・文章が）「**ほのめかす・暗に示す**」。はっきり言わずに含める側。
 - **infer** … （聞き手・読み手が）「**推測する・読み取る**」。示されたものから結論を出す側。
 
-| 語 | 主体 | 中心の意味 | 自作の例文 |
+| 語 | 主体 | 中心の意味 | 例文 |
 | --- | --- | --- | --- |
 | imply | 話し手 | ほのめかす | His silence **implied** disagreement.（彼の沈黙は反対を暗に示した） |
 | infer | 聞き手 | 推測する | From her tone, I **inferred** she was upset.（口調から動揺していると推測した） |
@@ -2012,7 +2012,7 @@ belief/believe と同じく、**-f（relief）が名詞、-ve（relieve）が動
 - **refuse** … 「**（申し出・依頼・許可）をきっぱり断る**」。refuse + 名詞／**refuse to do**（〜するのを拒む）。
 - **reject** … 「**（提案・応募・製品など）を拒絶・却下・不合格にする**」。基準に照らして退けるニュアンス。
 
-| 語 | 対象・語法 | 中心の意味 | 自作の例文 |
+| 語 | 対象・語法 | 中心の意味 | 例文 |
 | --- | --- | --- | --- |
 | refuse | 申し出／refuse to do | 断る | He **refused** to answer.（彼は答えるのを拒んだ） |
 | reject | 案・応募・品 | 却下・不合格 | The committee **rejected** the plan.（委員会は案を却下した） |
@@ -2024,7 +2024,7 @@ belief/believe と同じく、**-f（relief）が名詞、-ve（relieve）が動
 - **notice** … 「**（見て・聞いて）気づく・目に留める**」。五感で表面的に気づく。
 - **realize** … 「**（事実・重要さを）はっきり理解する・悟る**」。頭の中で分かる。※「実現する」の意味もある。
 
-| 語 | 気づき方 | 中心の意味 | 自作の例文 |
+| 語 | 気づき方 | 中心の意味 | 例文 |
 | --- | --- | --- | --- |
 | notice | 五感 | 目・耳で気づく | I **noticed** a new sign on the door.（ドアの新しい張り紙に気づいた） |
 | realize | 頭 | 理解する・悟る | I **realized** my mistake too late.（自分の誤りに気づくのが遅すぎた） |
@@ -2036,7 +2036,7 @@ belief/believe と同じく、**-f（relief）が名詞、-ve（relieve）が動
 - **comprehensible** … 「**理解できる・わかりやすい**」。相手が分かる（-ible＝〜できる）。
 - **comprehensive** … 「**包括的な・網羅的な・総合的な**」。広く全体をカバーする。
 
-| 語 | 中心の意味 | 自作の例文 |
+| 語 | 中心の意味 | 例文 |
 | --- | --- | --- |
 | comprehens**ible** | 理解できる | The instructions were clear and **comprehensible**.（説明は明快で理解しやすかった） |
 | comprehens**ive** | 包括的な | The report gives a **comprehensive** overview.（報告書は包括的な概観を示す） |
@@ -2048,7 +2048,7 @@ belief/believe と同じく、**-f（relief）が名詞、-ve（relieve）が動
 - **credible** … 「**信用できる・もっともらしい**」。情報・証人などが信じるに足る。
 - **credulous** … 「**（人が）すぐ信じる・だまされやすい・軽信的な**」。人の性質。
 
-| 語 | 対象 | 中心の意味 | 自作の例文 |
+| 語 | 対象 | 中心の意味 | 例文 |
 | --- | --- | --- | --- |
 | cred**ible** | 情報・人の信頼性 | 信用できる | The witness gave a **credible** account.（証人は信用できる証言をした） |
 | cred**ulous** | 人の性質 | だまされやすい | A **credulous** buyer fell for the scam.（軽信的な買い手が詐欺に引っかかった） |
@@ -2060,7 +2060,7 @@ belief/believe と同じく、**-f（relief）が名詞、-ve（relieve）が動
 - **threw** … /θruː/ 動詞 throw の過去「**投げた**」。throw-threw-thrown。
 - **through** … /θruː/ 前置詞・副詞「**〜を通って・〜を通じて・終えて**」。
 
-| 語 | 発音 | 品詞・中心の意味 | 自作の例文 |
+| 語 | 発音 | 品詞・中心の意味 | 例文 |
 | --- | --- | --- | --- |
 | thr**ew** | /θruː/ | throw の過去：投げた | She **threw** the ball to me.（彼女は私にボールを投げた） |
 | thr**ough** | /θruː/ | 前置詞：〜を通って | We drove **through** the tunnel.（トンネルを車で通った） |
@@ -2072,7 +2072,7 @@ belief/believe と同じく、**-f（relief）が名詞、-ve（relieve）が動
 - **passed** … /pæst/ 動詞 pass の過去・過去分詞「**通り過ぎた・合格した・手渡した**」。
 - **past** … /pæst/ 名詞「**過去**」、前置詞「**〜を過ぎて**」、形容詞「**過ぎ去った**」。
 
-| 語 | 品詞 | 中心の意味 | 自作の例文 |
+| 語 | 品詞 | 中心の意味 | 例文 |
 | --- | --- | --- | --- |
 | pass**ed** | 動詞（過去） | 通り過ぎた・合格した | She **passed** the exam.（彼女は試験に合格した） |
 | past | 名詞・前置詞 | 過去・〜を過ぎて | We walked **past** the shop.（店の前を通り過ぎた） |
@@ -2084,7 +2084,7 @@ belief/believe と同じく、**-f（relief）が名詞、-ve（relieve）が動
 - **fair** … /fɛər/ 形容詞「**公平な・妥当な／晴れの／（肌・髪が）色白の**」、名詞「**見本市・品評会**」。
 - **fare** … /fɛər/ 名詞「**（乗り物の）運賃・料金**」。
 
-| 語 | 発音 | 中心の意味 | 自作の例文 |
+| 語 | 発音 | 中心の意味 | 例文 |
 | --- | --- | --- | --- |
 | f**ai**r | /fɛər/ | 公平な・見本市 | That's not a **fair** decision.（それは公平な決定ではない） |
 | f**a**re | /fɛər/ | 運賃 | The train **fare** went up.（電車の運賃が上がった） |
@@ -2096,7 +2096,7 @@ belief/believe と同じく、**-f（relief）が名詞、-ve（relieve）が動
 - **hour** … /aʊər/ 名詞「**1時間・時刻**」。an hour（1時間）。
 - **our** … /aʊər/ 所有格「**私たちの**」。うしろに名詞（our house）。
 
-| 語 | 発音 | 品詞・中心の意味 | 自作の例文 |
+| 語 | 発音 | 品詞・中心の意味 | 例文 |
 | --- | --- | --- | --- |
 | **h**our | /aʊər/ | 名詞：1時間 | The meeting lasted an **hour**.（会議は1時間続いた） |
 | our | /aʊər/ | 所有格：私たちの | This is **our** classroom.（ここが私たちの教室だ） |
@@ -2108,7 +2108,7 @@ belief/believe と同じく、**-f（relief）が名詞、-ve（relieve）が動
 - **knew** … /njuː/ 動詞 know の過去「**知っていた・分かっていた**」。know-knew-known。
 - **new** … /njuː/ 形容詞「**新しい**」。反対は old。
 
-| 語 | 発音 | 品詞・中心の意味 | 自作の例文 |
+| 語 | 発音 | 品詞・中心の意味 | 例文 |
 | --- | --- | --- | --- |
 | **k**new | /njuː/ | know の過去：知っていた | I **knew** the answer.（答えを知っていた） |
 | new | /njuː/ | 形容詞：新しい | She bought a **new** bag.（彼女は新しいかばんを買った） |
@@ -2120,7 +2120,7 @@ belief/believe と同じく、**-f（relief）が名詞、-ve（relieve）が動
 - **house** … 「**建物としての家・家屋**」。数えられる物理的な建造物。
 - **home** … 「**（自分が暮らす）家庭・我が家・故郷**」。感情・帰属を含む。
 
-| 語 | 中心の意味 | 自作の例文 |
+| 語 | 中心の意味 | 例文 |
 | --- | --- | --- |
 | house | 建物としての家 | They built a new **house**.（彼らは新しい家を建てた） |
 | home | 家庭・我が家 | There's no place like **home**.（我が家がいちばん） |
@@ -2149,7 +2149,7 @@ belief/believe と同じく、**-f（relief）が名詞、-ve（relieve）が動
 - **receive** … 「**（送られたもの・届いたもの）を受け取る**」。受動的に手にする。
 - **accept** … 「**（申し出・贈り物・条件）を受け入れる・承諾する**」。意志を持って認める。
 
-| 語 | ニュアンス | 中心の意味 | 自作の例文 |
+| 語 | ニュアンス | 中心の意味 | 例文 |
 | --- | --- | --- | --- |
 | receive | 受動的に手にする | 受け取る | I **received** your letter yesterday.（昨日あなたの手紙を受け取った） |
 | accept | 承諾して受け入れる | 受け入れる | She **accepted** the invitation.（彼女は招待を受けた） |
@@ -2161,7 +2161,7 @@ belief/believe と同じく、**-f（relief）が名詞、-ve（relieve）が動
 - **practical** … 「**実用的な・現実的な・実践的な**」。役に立つ、地に足がついている（人にも使う）。
 - **practicable** … 「**実行可能な・実際にやれる**」。計画・方法が現実に実施できる（人には使わない）。
 
-| 語 | 中心の意味 | 自作の例文 |
+| 語 | 中心の意味 | 例文 |
 | --- | --- | --- |
 | practic**al** | 実用的な・現実的な | She gave **practical** advice.（彼女は実用的な助言をくれた） |
 | practic**able** | 実行可能な | The plan is not **practicable** in winter.（その計画は冬には実行できない） |
@@ -2173,7 +2173,7 @@ belief/believe と同じく、**-f（relief）が名詞、-ve（relieve）が動
 - **desirable** … 「**望ましい・好ましい・魅力的な**」。（人・物が）**望まれる**側。
 - **desirous** … 「**（〜を）望んでいる・欲している**」。（人が）**望む**側。ふつう **desirous of ~**。
 
-| 語 | 向き | 中心の意味 | 自作の例文 |
+| 語 | 向き | 中心の意味 | 例文 |
 | --- | --- | --- | --- |
 | desir**able** | 望まれる側 | 望ましい | A quiet location is **desirable**.（静かな立地は望ましい） |
 | desir**ous** | 望む側 | 望んでいる | She is **desirous of** success.（彼女は成功を望んでいる） |
@@ -2186,7 +2186,7 @@ belief/believe と同じく、**-f（relief）が名詞、-ve（relieve）が動
 - **reign** … /reɪn/ 名詞・動詞「**統治（する）・治世・君臨**」。王・女王の支配。
 - **rein** … /reɪn/ 名詞「**手綱（たづな）**」。馬を操るひも。
 
-| 語 | 発音 | 中心の意味 | 自作の例文 |
+| 語 | 発音 | 中心の意味 | 例文 |
 | --- | --- | --- | --- |
 | rain | /reɪn/ | 雨 | The **rain** stopped at noon.（正午に雨がやんだ） |
 | re**ig**n | /reɪn/ | 統治・治世 | The queen's **reign** lasted 50 years.（女王の治世は50年続いた） |
@@ -2199,7 +2199,7 @@ belief/believe と同じく、**-f（relief）が名詞、-ve（relieve）が動
 - **warn** … /wɔːrn/ 動詞「**警告する・注意する**」。warn 人 of/about ~。
 - **worn** … /wɔːrn/ 動詞 wear の過去分詞「**身につけた／着古した・すり減った**」。
 
-| 語 | 発音 | 品詞・中心の意味 | 自作の例文 |
+| 語 | 発音 | 品詞・中心の意味 | 例文 |
 | --- | --- | --- | --- |
 | w**ar**n | /wɔːrn/ | 動詞：警告する | They **warned** us about the storm.（嵐について警告してくれた） |
 | w**or**n | /wɔːrn/ | wear の過去分詞：着古した | These shoes are badly **worn**.（この靴はひどくすり減っている） |
@@ -2211,7 +2211,7 @@ belief/believe と同じく、**-f（relief）が名詞、-ve（relieve）が動
 - **wear** … /wɛər/ 動詞「**（衣服・眼鏡などを）身につけている・着る**」。wear-wore-worn。
 - **where** … /wɛər/ 「**どこに・どこで**」（疑問副詞・関係副詞）。
 
-| 語 | 発音 | 品詞・中心の意味 | 自作の例文 |
+| 語 | 発音 | 品詞・中心の意味 | 例文 |
 | --- | --- | --- | --- |
 | w**ea**r | /wɛər/ | 動詞：身につける | You should **wear** a coat today.（今日はコートを着たほうがいい） |
 | **wh**ere | /wɛər/ | どこに・どこで | **Where** did you buy it?（それをどこで買ったの？） |
@@ -2223,7 +2223,7 @@ belief/believe と同じく、**-f（relief）が名詞、-ve（relieve）が動
 - **would** … /wʊd/ 助動詞「**〜だろう・〜したものだ**」（will の過去、仮定・丁寧）。
 - **wood** … /wʊd/ 名詞「**木材・木／（しばしば woods で）森**」。
 
-| 語 | 発音 | 品詞・中心の意味 | 自作の例文 |
+| 語 | 発音 | 品詞・中心の意味 | 例文 |
 | --- | --- | --- | --- |
 | would | /wʊd/ | 助動詞：〜だろう | I **would** help if I could.（できれば手伝うのに） |
 | wood | /wʊd/ | 名詞：木材・森 | The table is made of **wood**.（そのテーブルは木でできている） |
@@ -2235,7 +2235,7 @@ belief/believe と同じく、**-f（relief）が名詞、-ve（relieve）が動
 - **scene** … /siːn/ 名詞「**場面・光景・（事件の）現場・舞台**」。sc で始まる。
 - **seen** … /siːn/ 動詞 see の過去分詞「**見た・見られた**」。have seen ~。
 
-| 語 | 発音 | 品詞・中心の意味 | 自作の例文 |
+| 語 | 発音 | 品詞・中心の意味 | 例文 |
 | --- | --- | --- | --- |
 | **sc**ene | /siːn/ | 名詞：場面・現場 | The final **scene** was moving.（最後の場面は感動的だった） |
 | seen | /siːn/ | see の過去分詞：見た | I have **seen** that movie.（その映画を見たことがある） |
@@ -2247,7 +2247,7 @@ belief/believe と同じく、**-f（relief）が名詞、-ve（relieve）が動
 - **profit** … /ˈprɒfɪt/ 名詞「**利益・もうけ**」、動詞「利益を得る」。反対は loss。
 - **prophet** … /ˈprɒfɪt/ 名詞「**預言者**」。神の言葉を伝える人。
 
-| 語 | 発音 | 中心の意味 | 自作の例文 |
+| 語 | 発音 | 中心の意味 | 例文 |
 | --- | --- | --- | --- |
 | pro**fit** | /ˈprɒfɪt/ | 利益・もうけ | The company made a large **profit**.（会社は大きな利益を上げた） |
 | pro**phet** | /ˈprɒfɪt/ | 預言者 | The **prophet** warned of hard times.（預言者は苦難を予告した） |
@@ -2260,7 +2260,7 @@ belief/believe と同じく、**-f（relief）が名詞、-ve（relieve）が動
 - **permit** … 「**許可する**」。**permit 人 to do**。allow よりやや**硬い・公式**。
 - **let** … 「**〜させてやる**」。**let 人 do（動詞の原形）**。to は付けない。
 
-| 語 | 続く形 | 中心の意味 | 自作の例文 |
+| 語 | 続く形 | 中心の意味 | 例文 |
 | --- | --- | --- | --- |
 | allow | 人 to do | 許す | They **allow** us to enter.（入場を許している） |
 | permit | 人 to do | 許可する（硬め） | Visitors are **permitted to** take photos.（訪問者は撮影を許可されている） |
@@ -2273,7 +2273,7 @@ belief/believe と同じく、**-f（relief）が名詞、-ve（relieve）が動
 - **earn** … 「**（労働・努力の対価として）稼ぐ・得る**」。earn money, earn respect。
 - **gain** … 「**（量・程度を）増やして得る・獲得する**」。gain weight, gain experience, gain speed。
 
-| 語 | ニュアンス | 中心の意味 | 自作の例文 |
+| 語 | ニュアンス | 中心の意味 | 例文 |
 | --- | --- | --- | --- |
 | earn | 努力の対価 | 稼ぐ・得る | He **earns** a good salary.（彼は良い給料を稼ぐ） |
 | gain | 増やして得る | 獲得する・増す | She **gained** confidence over time.（次第に自信をつけた） |
@@ -2285,7 +2285,7 @@ belief/believe と同じく、**-f（relief）が名詞、-ve（relieve）が動
 - **another** … **an + other**。「**もう一つの・別の（単数・可算）**」。うしろは単数名詞。
 - **other** … 「**他の**」。うしろは**複数名詞**（other books）か、**the other(s)**（特定の残り）。
 
-| 語 | 形 | 中心の意味 | 自作の例文 |
+| 語 | 形 | 中心の意味 | 例文 |
 | --- | --- | --- | --- |
 | another | 単数 | もう一つの | Would you like **another** cup?（もう一杯いかが？） |
 | other | 複数／the と | 他の | I have **other** ideas.（他の考えがある） |
@@ -2297,7 +2297,7 @@ belief/believe と同じく、**-f（relief）が名詞、-ve（relieve）が動
 - **ate** … /eɪt/ 動詞 eat の過去「**食べた**」。eat-ate-eaten。
 - **eight** … /eɪt/ 数「**8**」。
 
-| 語 | 発音 | 品詞・中心の意味 | 自作の例文 |
+| 語 | 発音 | 品詞・中心の意味 | 例文 |
 | --- | --- | --- | --- |
 | ate | /eɪt/ | eat の過去：食べた | We **ate** dinner at seven.（7時に夕食を食べた） |
 | **eigh**t | /eɪt/ | 数：8 | There are **eight** players.（選手が8人いる） |
@@ -2309,7 +2309,7 @@ belief/believe と同じく、**-f（relief）が名詞、-ve（relieve）が動
 - **higher** … /ˈhaɪər/ 形容詞「**より高い**」（high の比較級）。
 - **hire** … /ˈhaɪər/ 動詞「**雇う／（英）（有料で）借りる**」、名詞「賃借」。
 
-| 語 | 発音 | 品詞・中心の意味 | 自作の例文 |
+| 語 | 発音 | 品詞・中心の意味 | 例文 |
 | --- | --- | --- | --- |
 | hi**gh**er | /ˈhaɪər/ | 比較級：より高い | Prices are **higher** this year.（今年は物価が高い） |
 | hire | /ˈhaɪər/ | 動詞：雇う・借りる | The company will **hire** ten people.（会社は10人を雇う） |
@@ -2321,7 +2321,7 @@ belief/believe と同じく、**-f（relief）が名詞、-ve（relieve）が動
 - **guessed** … /ɡɛst/ 動詞 guess の過去・過去分詞「**推測した・言い当てた**」。
 - **guest** … /ɡɛst/ 名詞「**客・ゲスト・招待客**」。反対は host。
 
-| 語 | 発音 | 品詞・中心の意味 | 自作の例文 |
+| 語 | 発音 | 品詞・中心の意味 | 例文 |
 | --- | --- | --- | --- |
 | guess**ed** | /ɡɛst/ | guess の過去：推測した | I **guessed** the answer correctly.（答えを正しく言い当てた） |
 | guest | /ɡɛst/ | 名詞：客 | We have a **guest** for dinner.（夕食に客が来る） |
@@ -2333,7 +2333,7 @@ belief/believe と同じく、**-f（relief）が名詞、-ve（relieve）が動
 - **made** … /meɪd/ 動詞 make の過去・過去分詞「**作った・させた**」。be made of ~（〜でできている）。
 - **maid** … /meɪd/ 名詞「**メイド・お手伝い・女中**」。
 
-| 語 | 発音 | 品詞・中心の意味 | 自作の例文 |
+| 語 | 発音 | 品詞・中心の意味 | 例文 |
 | --- | --- | --- | --- |
 | ma**de** | /meɪd/ | make の過去：作った | This cake was **made** at home.（このケーキは家で作られた） |
 | ma**id** | /meɪd/ | 名詞：メイド | The **maid** cleaned the rooms.（メイドが部屋を掃除した） |
@@ -2345,7 +2345,7 @@ belief/believe と同じく、**-f（relief）が名詞、-ve（relieve）が動
 - **some** … /sʌm/ 「**いくつかの・いくらかの・ある〜**」（限定詞・代名詞）。
 - **sum** … /sʌm/ 名詞「**合計・総額・金額／計算**」。the sum of ~。
 
-| 語 | 発音 | 品詞・中心の意味 | 自作の例文 |
+| 語 | 発音 | 品詞・中心の意味 | 例文 |
 | --- | --- | --- | --- |
 | some | /sʌm/ | いくつかの | I bought **some** apples.（リンゴをいくつか買った） |
 | sum | /sʌm/ | 名詞：合計 | The **sum** of 3 and 4 is 7.（3と4の合計は7だ） |
@@ -2357,7 +2357,7 @@ belief/believe と同じく、**-f（relief）が名詞、-ve（relieve）が動
 - **great** … /ɡreɪt/ 形容詞「**偉大な・すばらしい・大きな**」。
 - **grate** … /ɡreɪt/ 動詞「**すりおろす・きしむ**」、名詞「**（暖炉などの）火格子・格子**」。
 
-| 語 | 発音 | 品詞・中心の意味 | 自作の例文 |
+| 語 | 発音 | 品詞・中心の意味 | 例文 |
 | --- | --- | --- | --- |
 | gr**ea**t | /ɡreɪt/ | 形容詞：偉大な | She is a **great** scientist.（彼女は偉大な科学者だ） |
 | gr**a**te | /ɡreɪt/ | すりおろす／格子 | **Grate** some cheese on top.（上にチーズをすりおろして） |
@@ -2369,7 +2369,7 @@ belief/believe と同じく、**-f（relief）が名詞、-ve（relieve）が動
 - **morning** … /ˈmɔːrnɪŋ/ 名詞「**朝・午前**」。反対は evening。
 - **mourning** … /ˈmɔːrnɪŋ/ 名詞「**喪・哀悼・悲しむこと**」。動詞 mourn（悼む）から。in mourning（喪に服して）。
 
-| 語 | 発音 | 中心の意味 | 自作の例文 |
+| 語 | 発音 | 中心の意味 | 例文 |
 | --- | --- | --- | --- |
 | m**or**ning | /ˈmɔːrnɪŋ/ | 朝・午前 | I jog every **morning**.（毎朝ジョギングする） |
 | m**our**ning | /ˈmɔːrnɪŋ/ | 喪・哀悼 | The nation was in **mourning**.（国じゅうが喪に服した） |
@@ -2381,7 +2381,7 @@ belief/believe と同じく、**-f（relief）が名詞、-ve（relieve）が動
 - **amount** … 「**（不可算の）量**」。an amount of + **不可算名詞**（water, money, time）。
 - **number** … 「**（可算の）数**」。a number of + **可算名詞（複数）**（people, books）。
 
-| 語 | 付く名詞 | 中心の意味 | 自作の例文 |
+| 語 | 付く名詞 | 中心の意味 | 例文 |
 | --- | --- | --- | --- |
 | amount | 不可算 | 量 | a large **amount** of water（大量の水） |
 | number | 可算・複数 | 数 | a large **number** of students（多数の生徒） |
@@ -2393,7 +2393,7 @@ belief/believe と同じく、**-f（relief）が名詞、-ve（relieve）が動
 - **much** … 「**（不可算名詞に）多くの・多量の**」。much water, much time。
 - **many** … 「**（可算名詞の複数に）多くの・多数の**」。many books, many people。
 
-| 語 | 付く名詞 | 中心の意味 | 自作の例文 |
+| 語 | 付く名詞 | 中心の意味 | 例文 |
 | --- | --- | --- | --- |
 | much | 不可算 | 多くの（量） | I don't have **much** time.（あまり時間がない） |
 | many | 可算・複数 | 多くの（数） | She has **many** friends.（彼女は友達が多い） |
@@ -2405,7 +2405,7 @@ belief/believe と同じく、**-f（relief）が名詞、-ve（relieve）が動
 - **little** … **不可算名詞**に。**little＝ほとんどない**（否定的）／**a little＝少しある**（肯定的）。
 - **few** … **可算名詞（複数）**に。**few＝ほとんどない**（否定的）／**a few＝少しある**（肯定的）。
 
-| 語 | 付く名詞 | 中心の意味 | 自作の例文 |
+| 語 | 付く名詞 | 中心の意味 | 例文 |
 | --- | --- | --- | --- |
 | little / a little | 不可算 | ほとんどない／少し | We have **little** time.（ほとんど時間がない） |
 | few / a few | 可算・複数 | ほとんどない／少し | **A few** students stayed.（数人の生徒が残った） |
@@ -2417,7 +2417,7 @@ belief/believe と同じく、**-f（relief）が名詞、-ve（relieve）が動
 - **regretful** … 「**（人が）後悔している・すまなく思う**」。人の気持ち。
 - **regrettable** … 「**（事・状況が）残念な・遺憾な**」。物事の性質（-able＝〜されるべき）。
 
-| 語 | 主語 | 中心の意味 | 自作の例文 |
+| 語 | 主語 | 中心の意味 | 例文 |
 | --- | --- | --- | --- |
 | regret**ful** | 人 | 後悔している | She felt **regretful** about her words.（自分の言葉を後悔した） |
 | regret**table** | 事 | 残念な・遺憾な | The delay is **regrettable**.（その遅れは遺憾だ） |
@@ -2429,7 +2429,7 @@ belief/believe と同じく、**-f（relief）が名詞、-ve（relieve）が動
 - **official** … 「**公式の・正式の・公認の**」（形容詞）、「**職員・役人**」（名詞）。
 - **officious** … 「**お節介な・でしゃばりな・（頼まれもせず）差し出がましい**」（否定的）。
 
-| 語 | 中心の意味 | 自作の例文 |
+| 語 | 中心の意味 | 例文 |
 | --- | --- | --- |
 | offici**al** | 公式の・職員 | We await the **official** results.（公式の結果を待っている） |
 | offici**ous** | お節介な | An **officious** clerk kept interrupting.（でしゃばりな係員が口を挟み続けた） |
@@ -2441,7 +2441,7 @@ belief/believe と同じく、**-f（relief）が名詞、-ve（relieve）が動
 - **toe** … /toʊ/ 名詞「**足の指・つま先**」。
 - **tow** … /toʊ/ 動詞「**（車・船を）牽引する・引く**」、名詞「牽引」。
 
-| 語 | 発音 | 品詞・中心の意味 | 自作の例文 |
+| 語 | 発音 | 品詞・中心の意味 | 例文 |
 | --- | --- | --- | --- |
 | t**oe** | /toʊ/ | 名詞：つま先 | I stubbed my **toe** on the door.（ドアでつま先をぶつけた） |
 | t**ow** | /toʊ/ | 動詞：牽引する | A truck **towed** the broken car.（トラックが故障車を牽引した） |
@@ -2453,7 +2453,7 @@ belief/believe と同じく、**-f（relief）が名詞、-ve（relieve）が動
 - **band** … /bænd/ 名詞「**楽団・バンド／帯・ひも／集団**」。
 - **banned** … /bænd/ 動詞 ban の過去・過去分詞「**禁止された**」。
 
-| 語 | 発音 | 品詞・中心の意味 | 自作の例文 |
+| 語 | 発音 | 品詞・中心の意味 | 例文 |
 | --- | --- | --- | --- |
 | band | /bænd/ | 名詞：楽団・帯 | The **band** played all night.（バンドは一晩中演奏した） |
 | ban**ned** | /bænd/ | ban の過去分詞：禁止された | Smoking is **banned** here.（ここは喫煙禁止だ） |
@@ -2465,7 +2465,7 @@ belief/believe と同じく、**-f（relief）が名詞、-ve（relieve）が動
 - **cereal** … /ˈsɪəriəl/ 名詞「**穀物／（朝食の）シリアル**」。c で始まる。
 - **serial** … /ˈsɪəriəl/ 形容詞「**連続的な・（一続きの）連載の・通し番号の**」、名詞「連続もの」。s で始まる。
 
-| 語 | 発音 | 中心の意味 | 自作の例文 |
+| 語 | 発音 | 中心の意味 | 例文 |
 | --- | --- | --- | --- |
 | **c**ereal | /ˈsɪəriəl/ | 穀物・シリアル | I eat **cereal** for breakfast.（朝食にシリアルを食べる） |
 | **s**erial | /ˈsɪəriəl/ | 連続的な・連載の | The **serial** number is on the back.（通し番号は裏にある） |
@@ -2477,7 +2477,7 @@ belief/believe と同じく、**-f（relief）が名詞、-ve（relieve）が動
 - **patience** … /ˈpeɪʃəns/ 名詞「**忍耐・辛抱**」（不可算）。形容詞は patient（我慢強い）。
 - **patients** … /ˈpeɪʃənts/ 名詞「**患者（patient）の複数形**」。
 
-| 語 | 発音 | 中心の意味 | 自作の例文 |
+| 語 | 発音 | 中心の意味 | 例文 |
 | --- | --- | --- | --- |
 | patien**ce** | /ˈpeɪʃəns/ | 忍耐 | Learning a language takes **patience**.（言語習得には忍耐がいる） |
 | patien**ts** | /ˈpeɪʃənts/ | 患者（複数） | The doctor sees many **patients** a day.（医者は1日に多くの患者を診る） |
@@ -2489,7 +2489,7 @@ belief/believe と同じく、**-f（relief）が名詞、-ve（relieve）が動
 - **bury** … /ˈbɛri/ 動詞「**埋める・葬る**」。bury-buried-buried。
 - **berry** … /ˈbɛri/ 名詞「**ベリー・液果（小さな果実）**」。strawberry など。
 
-| 語 | 発音 | 品詞・中心の意味 | 自作の例文 |
+| 語 | 発音 | 品詞・中心の意味 | 例文 |
 | --- | --- | --- | --- |
 | b**u**ry | /ˈbɛri/ | 動詞：埋める | Dogs like to **bury** bones.（犬は骨を埋めるのが好きだ） |
 | b**e**rry | /ˈbɛri/ | 名詞：ベリー | This **berry** is sweet and red.（このベリーは甘くて赤い） |
@@ -2502,7 +2502,7 @@ belief/believe と同じく、**-f（relief）が名詞、-ve（relieve）が動
 - **injure** … 「**（事故・スポーツなどで）負傷させる**」。ややかたい。injury（けが）。
 - **wound** … /wuːnd/ 「**（武器・刃物・銃で）傷を負わせる**」。戦争・攻撃の文脈。
 
-| 語 | 場面 | 中心の意味 | 自作の例文 |
+| 語 | 場面 | 中心の意味 | 例文 |
 | --- | --- | --- | --- |
 | hurt | 一般 | 痛める・傷つける | I **hurt** my back lifting boxes.（箱を持ち上げて腰を痛めた） |
 | injure | 事故・競技 | 負傷させる | He was **injured** in a car crash.（車の事故で負傷した） |
@@ -2515,7 +2515,7 @@ belief/believe と同じく、**-f（relief）が名詞、-ve（relieve）が動
 - **come** … 基準の**方へ「来る」**。聞き手のいる場所へ向かうときも come（相手基準）。come-came-come。
 - **go** … 基準から**離れて「行く」**。go-went-gone。
 
-| 語 | 向き | 中心の意味 | 自作の例文 |
+| 語 | 向き | 中心の意味 | 例文 |
 | --- | --- | --- | --- |
 | come | こちらへ | 来る | Can you **come** to my house?（うちに来られる？） |
 | go | あちらへ | 行く | I need to **go** to the bank.（銀行へ行かなくては） |
@@ -2528,7 +2528,7 @@ belief/believe と同じく、**-f（relief）が名詞、-ve（relieve）が動
 - **inflammable** … 「**燃えやすい・可燃性の**」（flammable と同義）。ここの in- は「否定」ではなく、ラテン語由来の**強め**。
 - **non-flammable** … 「**燃えない・不燃性の**」（これが反対）。
 
-| 語 | 意味 | 自作の例文 |
+| 語 | 意味 | 例文 |
 | --- | --- | --- |
 | flammable | 燃えやすい | Keep **flammable** liquids away from fire.（可燃性の液体を火から離す） |
 | inflammable | 燃えやすい（同義） | **Inflammable** gas leaked from the pipe.（可燃性ガスが管から漏れた） |
@@ -2540,7 +2540,7 @@ belief/believe と同じく、**-f（relief）が名詞、-ve（relieve）が動
 - **famous** … /ˈfeɪməs/ 「**有名な**」。ふつう良い意味、または中立。
 - **infamous** … /ˈɪnfəməs/ 「**悪名高い・（悪い行いで）知られた**」。アクセントは前（イン）。
 
-| 語 | 発音 | 評判 | 自作の例文 |
+| 語 | 発音 | 評判 | 例文 |
 | --- | --- | --- | --- |
 | famous | /ˈfeɪməs/ | 良い・中立 | She is a **famous** actress.（彼女は有名な女優だ） |
 | **in**famous | /ˈɪnfəməs/ | 悪い | He is **infamous** for cheating.（彼は不正で悪名高い） |
@@ -2552,7 +2552,7 @@ belief/believe と同じく、**-f（relief）が名詞、-ve（relieve）が動
 - **tail** … /teɪl/ 名詞「**しっぽ・尾／（物の）後部**」。
 - **tale** … /teɪl/ 名詞「**物語・話・作り話**」。fairy tale（おとぎ話）。
 
-| 語 | 発音 | 中心の意味 | 自作の例文 |
+| 語 | 発音 | 中心の意味 | 例文 |
 | --- | --- | --- | --- |
 | t**ai**l | /teɪl/ | しっぽ・後部 | The dog wagged its **tail**.（犬はしっぽを振った） |
 | t**a**le | /teɪl/ | 物語 | Grandma told us a **tale**.（祖母が物語を聞かせてくれた） |
@@ -2565,7 +2565,7 @@ belief/believe と同じく、**-f（relief）が名詞、-ve（relieve）が動
 - **vein** … /veɪn/ 名詞「**静脈・血管／（鉱脈・葉脈の）筋**」。
 - **vane** … /veɪn/ 名詞「**風見・（風車・羽根車の）羽根**」。weather vane（風見鶏）。
 
-| 語 | 発音 | 中心の意味 | 自作の例文 |
+| 語 | 発音 | 中心の意味 | 例文 |
 | --- | --- | --- | --- |
 | v**ai**n | /veɪn/ | うぬぼれた・むだな | All our efforts were in **vain**.（努力はすべてむだだった） |
 | v**ei**n | /veɪn/ | 静脈 | Blood returns to the heart through **veins**.（血は静脈を通って心臓へ戻る） |
@@ -2578,7 +2578,7 @@ belief/believe と同じく、**-f（relief）が名詞、-ve（relieve）が動
 - **way** … /weɪ/ 名詞「**道・方向・方法・やり方**」。
 - **weigh** … /weɪ/ 動詞「**重さを量る／（重さが）〜ある**」。名詞は weight（重さ）。
 
-| 語 | 発音 | 品詞・中心の意味 | 自作の例文 |
+| 語 | 発音 | 品詞・中心の意味 | 例文 |
 | --- | --- | --- | --- |
 | w**ay** | /weɪ/ | 名詞：道・方法 | Do you know the **way** to the station?（駅への道を知ってる？） |
 | w**eigh** | /weɪ/ | 動詞：重さを量る | Please **weigh** the package.（荷物の重さを量って） |
@@ -2590,7 +2590,7 @@ belief/believe と同じく、**-f（relief）が名詞、-ve（relieve）が動
 - **mist** … /mɪst/ 名詞「**霧・かすみ・水しぶき**」。fog より薄い。
 - **missed** … /mɪst/ 動詞 miss の過去・過去分詞「**逃した・乗り遅れた・（人を）恋しく思った**」。
 
-| 語 | 発音 | 品詞・中心の意味 | 自作の例文 |
+| 語 | 発音 | 品詞・中心の意味 | 例文 |
 | --- | --- | --- | --- |
 | mist | /mɪst/ | 名詞：霧 | Morning **mist** covered the hills.（朝霧が丘を覆った） |
 | miss**ed** | /mɪst/ | miss の過去：逃した | I **missed** the last train.（終電を逃した） |
@@ -2602,7 +2602,7 @@ belief/believe と同じく、**-f（relief）が名詞、-ve（relieve）が動
 - **aisle** … /aɪl/ 名詞「**（電車・店・教会の座席や棚の間の）通路**」。
 - **isle** … /aɪl/ 名詞「**島**」（island の詩的・地名的な語）。
 
-| 語 | 発音 | 中心の意味 | 自作の例文 |
+| 語 | 発音 | 中心の意味 | 例文 |
 | --- | --- | --- | --- |
 | **ai**sle | /aɪl/ | 通路 | I prefer an **aisle** seat.（通路側の席がいい） |
 | **i**sle | /aɪl/ | 島 | They sailed to a small **isle**.（小さな島へ船で渡った） |
@@ -2614,7 +2614,7 @@ belief/believe と同じく、**-f（relief）が名詞、-ve（relieve）が動
 - **currant** … /ˈkʌrənt/ 名詞「**干しブドウ／スグリ（の実）**」。お菓子に使う小さな果実。
 - **current** … /ˈkʌrənt/ 形容詞「**現在の・最新の**」、名詞「**流れ・電流・海流**」。
 
-| 語 | 発音 | 中心の意味 | 自作の例文 |
+| 語 | 発音 | 中心の意味 | 例文 |
 | --- | --- | --- | --- |
 | curr**ant** | /ˈkʌrənt/ | 干しブドウ・スグリ | Add **currants** to the cake batter.（生地に干しブドウを加えて） |
 | curr**ent** | /ˈkʌrənt/ | 現在の・流れ | What is the **current** situation?（現在の状況は？） |
@@ -2627,7 +2627,7 @@ belief/believe と同じく、**-f（relief）が名詞、-ve（relieve）が動
 - **wish** … 「**（実現しにくいことを）願う**」。しばしば**仮定法**（wish + 主語 + 過去/過去完了）。wish to do はかたい「〜したい」。
 - **expect** … 「**（起こると）予期する・期待する**」。根拠があって見込む。
 
-| 語 | ニュアンス | 中心の意味 | 自作の例文 |
+| 語 | ニュアンス | 中心の意味 | 例文 |
 | --- | --- | --- | --- |
 | hope | 実現可能を望む | 望む | I **hope** it doesn't rain tomorrow.（明日雨が降らないといいな） |
 | wish | 実現しにくい願い | 願う | I **wish** I could fly.（飛べたらいいのに） |
@@ -2640,7 +2640,7 @@ belief/believe と同じく、**-f（relief）が名詞、-ve（relieve）が動
 - **tall** … 「**（縦に細長いものの）背が高い**」。人・木・ビル・キリンなど、下から上まで長いもの。
 - **high** … 「**（位置・程度が）高い／地面から高い所にある**」。山・壁・棚・値段・温度など。
 
-| 語 | 対象 | 中心の意味 | 自作の例文 |
+| 語 | 対象 | 中心の意味 | 例文 |
 | --- | --- | --- | --- |
 | tall | 縦に長いもの | 背が高い | He is very **tall** for his age.（年のわりに背が高い） |
 | high | 位置・程度 | 高い | The shelf is too **high** to reach.（棚が高すぎて届かない） |
@@ -2652,7 +2652,7 @@ belief/believe と同じく、**-f（relief）が名詞、-ve（relieve）が動
 - **memorable** … /ˈmɛmərəbəl/ 形容詞「**記憶に残る・忘れられない・印象的な**」。
 - **memorial** … /məˈmɔːriəl/ 形容詞「**記念の・追悼の**」、名詞「**記念碑・記念物・追悼式**」。
 
-| 語 | 品詞・中心の意味 | 自作の例文 |
+| 語 | 品詞・中心の意味 | 例文 |
 | --- | --- | --- |
 | memor**able** | 形容詞：記憶に残る | It was a **memorable** trip.（忘れられない旅だった） |
 | memor**ial** | 記念の・追悼の／記念碑 | They built a war **memorial**.（戦争記念碑を建てた） |
@@ -2664,7 +2664,7 @@ belief/believe と同じく、**-f（relief）が名詞、-ve（relieve）が動
 - **forgetful** … 「**（人が）忘れっぽい・物覚えが悪い**」。人の性質。
 - **forgettable** … 「**（物・事が）忘れられやすい・印象に残らない**」（-able＝〜されやすい）。ふつう否定的。
 
-| 語 | 主語 | 中心の意味 | 自作の例文 |
+| 語 | 主語 | 中心の意味 | 例文 |
 | --- | --- | --- | --- |
 | forget**ful** | 人 | 忘れっぽい | My grandfather is getting **forgetful**.（祖父は物忘れが増えてきた） |
 | forget**table** | 物・事 | 忘れられやすい | The movie was dull and **forgettable**.（退屈で印象に残らない映画だった） |
@@ -2676,7 +2676,7 @@ belief/believe と同じく、**-f（relief）が名詞、-ve（relieve）が動
 - **born** … 「**生まれる**」の意味の受け身専用。**be born**（生まれる）。I was born in 2000.
 - **borne** … それ以外の bear（**運ぶ・支える・耐える・（実を）結ぶ**）の過去分詞。have borne, air-borne（空気で運ばれる）。
 
-| 語 | 用途 | 中心の意味 | 自作の例文 |
+| 語 | 用途 | 中心の意味 | 例文 |
 | --- | --- | --- | --- |
 | born | be born 専用 | 生まれる | She was **born** in Kyoto.（京都で生まれた） |
 | borne | 運ぶ・耐える等 | 担われた・耐えた | The cost was **borne** by the company.（費用は会社が負担した） |
@@ -2688,7 +2688,7 @@ belief/believe と同じく、**-f（relief）が名詞、-ve（relieve）が動
 - **stake** … /steɪk/ 名詞「**杭／賭け金／利害・出資分**」。at stake（危機にさらされて）。
 - **steak** … /steɪk/ 名詞「**ステーキ（厚切りの肉・魚）**」。
 
-| 語 | 発音 | 中心の意味 | 自作の例文 |
+| 語 | 発音 | 中心の意味 | 例文 |
 | --- | --- | --- | --- |
 | st**a**ke | /steɪk/ | 杭・賭け金・利害 | Their lives were at **stake**.（彼らの命が危険にさらされていた） |
 | st**ea**k | /steɪk/ | ステーキ | I ordered a beef **steak**.（ビーフステーキを注文した） |
@@ -2700,7 +2700,7 @@ belief/believe と同じく、**-f（relief）が名詞、-ve（relieve）が動
 - **which** … /wɪtʃ/ 「**どちら・どれ**」（疑問詞）、「〜するところの」（関係代名詞）。
 - **witch** … /wɪtʃ/ 名詞「**魔女**」。
 
-| 語 | 発音 | 品詞・中心の意味 | 自作の例文 |
+| 語 | 発音 | 品詞・中心の意味 | 例文 |
 | --- | --- | --- | --- |
 | **wh**ich | /wɪtʃ/ | どちら・どれ | **Which** color do you like?（どちらの色が好き？） |
 | **w**itch | /wɪtʃ/ | 名詞：魔女 | The **witch** cast a spell.（魔女は呪文を唱えた） |
@@ -2712,7 +2712,7 @@ belief/believe と同じく、**-f（relief）が名詞、-ve（relieve）が動
 - **medal** … /ˈmɛdəl/ 名詞「**メダル・勲章**」。gold medal（金メダル）。
 - **meddle** … /ˈmɛdəl/ 動詞「**（他人のことに）余計な干渉をする・おせっかいする**」。meddle in ~。
 
-| 語 | 発音 | 品詞・中心の意味 | 自作の例文 |
+| 語 | 発音 | 品詞・中心の意味 | 例文 |
 | --- | --- | --- | --- |
 | me**d**al | /ˈmɛdəl/ | 名詞：メダル | She won a gold **medal**.（金メダルを取った） |
 | me**dd**le | /ˈmɛdəl/ | 動詞：干渉する | Don't **meddle** in my affairs.（私のことに口出ししないで） |
@@ -2724,7 +2724,7 @@ belief/believe と同じく、**-f（relief）が名詞、-ve（relieve）が動
 - **tide** … /taɪd/ 名詞「**潮・潮の満ち引き・（時勢の）流れ**」。high tide（満潮）。
 - **tied** … /taɪd/ 動詞 tie の過去・過去分詞「**結んだ・縛った／（試合が）同点だった**」。
 
-| 語 | 発音 | 品詞・中心の意味 | 自作の例文 |
+| 語 | 発音 | 品詞・中心の意味 | 例文 |
 | --- | --- | --- | --- |
 | tide | /taɪd/ | 名詞：潮 | The **tide** is coming in.（潮が満ちてきている） |
 | tie**d** | /taɪd/ | tie の過去：結んだ | He **tied** his shoelaces.（彼は靴ひもを結んだ） |
@@ -2736,7 +2736,7 @@ belief/believe と同じく、**-f（relief）が名詞、-ve（relieve）が動
 - **whine** … /waɪn/ 動詞「**めそめそ泣く・泣き言を言う・（機械が）甲高い音を出す**」。
 - **wine** … /waɪn/ 名詞「**ワイン・ぶどう酒**」。
 
-| 語 | 発音 | 品詞・中心の意味 | 自作の例文 |
+| 語 | 発音 | 品詞・中心の意味 | 例文 |
 | --- | --- | --- | --- |
 | **wh**ine | /waɪn/ | 動詞：泣き言を言う | Stop **whining** and finish your work.（泣き言はやめて仕事を終えて） |
 | **w**ine | /waɪn/ | 名詞：ワイン | They shared a bottle of **wine**.（ワインを1本分け合った） |
@@ -2748,7 +2748,7 @@ belief/believe と同じく、**-f（relief）が名詞、-ve（relieve）が動
 - **rise** … 「**（物理的に・数値が）上がる・のぼる・立ち上がる**」。rise-rose-risen。太陽・値段・気温など。
 - **arise** … 「**（問題・状況・機会が）生じる・起こる**」。arise-arose-arisen。抽象的なことが発生する。
 
-| 語 | 対象 | 中心の意味 | 自作の例文 |
+| 語 | 対象 | 中心の意味 | 例文 |
 | --- | --- | --- | --- |
 | rise | 物・数値 | 上がる・のぼる | The sun **rises** in the east.（太陽は東からのぼる） |
 | arise | 問題・状況 | 生じる・起こる | Problems may **arise** during the trip.（旅行中に問題が生じるかも） |
@@ -2760,7 +2760,7 @@ belief/believe と同じく、**-f（relief）が名詞、-ve（relieve）が動
 - **sit** … **自動詞**「**（自分が）座る・座っている**」。sit-sat-sat。sit down。
 - **seat** … **他動詞**「**（人を）座らせる・（席が）〜人収容する**」。be seated（着席している）／seat oneself（座る・かたい）。
 
-| 語 | 型 | 中心の意味 | 自作の例文 |
+| 語 | 型 | 中心の意味 | 例文 |
 | --- | --- | --- | --- |
 | sit | 自動詞 | （自分が）座る | Please **sit** here.（ここに座って） |
 | seat | 他動詞 | （人を）座らせる | The host **seated** the guests.（主人は客を席に案内した） |
@@ -2772,7 +2772,7 @@ belief/believe と同じく、**-f（relief）が名詞、-ve（relieve）が動
 - **intelligent** … 「**頭がいい・知的な・聡明な**」。人・動物・システムなど。
 - **intelligible** … 「**（言葉・説明・音声が）理解できる・分かりやすい**」（-ible＝〜できる）。
 
-| 語 | 対象 | 中心の意味 | 自作の例文 |
+| 語 | 対象 | 中心の意味 | 例文 |
 | --- | --- | --- | --- |
 | intellig**ent** | 人・生物 | 頭がいい | She is an **intelligent** student.（彼女は聡明な生徒だ） |
 | intellig**ible** | 言葉・説明 | 理解できる | His speech was barely **intelligible**.（彼の話はほとんど聞き取れなかった） |
@@ -2784,7 +2784,7 @@ belief/believe と同じく、**-f（relief）が名詞、-ve（relieve）が動
 - **sociable** … 「**社交的な・人付き合いのよい・愛想のよい**」。人の性格を表す。
 - **social** … 「**社会の／社交の・親睦の**」。social problems（社会問題）、social event（親睦行事）など幅広い。
 
-| 語 | 中心の意味 | 自作の例文 |
+| 語 | 中心の意味 | 例文 |
 | --- | --- | --- |
 | soci**able** | 社交的な（性格） | He is friendly and **sociable**.（彼は親しみやすく社交的だ） |
 | soci**al** | 社会の・社交の | We discussed **social** issues.（社会問題について話し合った） |
@@ -2796,7 +2796,7 @@ belief/believe と同じく、**-f（relief）が名詞、-ve（relieve）が動
 - **canvas** … /ˈkænvəs/ 名詞「**帆布・画布（キャンバス）・テント地**」。
 - **canvass** … /ˈkænvəs/ 動詞「**（票・意見・注文を求めて）回る・勧誘する・世論調査する**」。
 
-| 語 | 品詞・中心の意味 | 自作の例文 |
+| 語 | 品詞・中心の意味 | 例文 |
 | --- | --- | --- |
 | canva**s** | 名詞：帆布・画布 | The artist painted on **canvas**.（画家はキャンバスに描いた） |
 | canva**ss** | 動詞：票を求めて回る | Volunteers **canvassed** the neighborhood.（ボランティアが近所を回って支持を求めた） |
@@ -2808,7 +2808,7 @@ belief/believe と同じく、**-f（relief）が名詞、-ve（relieve）が動
 - **straight** … /streɪt/ 「**まっすぐな・一直線の／率直な／連続した**」（形容詞・副詞）。gh は無音。
 - **strait** … /streɪt/ 名詞「**海峡／（しばしば straits で）苦境**」。
 
-| 語 | 発音 | 品詞・中心の意味 | 自作の例文 |
+| 語 | 発音 | 品詞・中心の意味 | 例文 |
 | --- | --- | --- | --- |
 | strai**ght** | /streɪt/ | まっすぐな | Draw a **straight** line.（まっすぐな線を引いて） |
 | strai**t** | /streɪt/ | 海峡・苦境 | Ships pass through the **strait**.（船が海峡を通る） |
@@ -2820,7 +2820,7 @@ belief/believe と同じく、**-f（relief）が名詞、-ve（relieve）が動
 - **pedal** … /ˈpɛdəl/ 名詞「**ペダル**」、動詞「**（自転車などを）こぐ**」。足（ped-）に関係。
 - **peddle** … /ˈpɛdəl/ 動詞「**（商品を）売り歩く・行商する**」。peddler（行商人）。
 
-| 語 | 発音 | 品詞・中心の意味 | 自作の例文 |
+| 語 | 発音 | 品詞・中心の意味 | 例文 |
 | --- | --- | --- | --- |
 | pe**d**al | /ˈpɛdəl/ | ペダル／こぐ | She **pedaled** up the hill.（彼女は坂をこいで上った） |
 | pe**dd**le | /ˈpɛdəl/ | 売り歩く | They **peddle** goods on the street.（彼らは路上で品物を売り歩く） |
@@ -2832,7 +2832,7 @@ belief/believe と同じく、**-f（relief）が名詞、-ve（relieve）が動
 - **plum** … /plʌm/ 名詞「**プラム・すもも（果実）**」。
 - **plumb** … /plʌm/ 形容詞・副詞「**鉛直の・垂直に／まったく**」、動詞「**（深さを）測る・（配管を）調べる**」。plumber（配管工）。
 
-| 語 | 発音 | 中心の意味 | 自作の例文 |
+| 語 | 発音 | 中心の意味 | 例文 |
 | --- | --- | --- | --- |
 | plum | /plʌm/ | すもも（果実） | This **plum** is sweet and ripe.（このすももは甘く熟している） |
 | plum**b** | /plʌm/ | 鉛直の・測る | Is the wall exactly **plumb**?（壁は正確に垂直？） |
@@ -2844,7 +2844,7 @@ belief/believe と同じく、**-f（relief）が名詞、-ve（relieve）が動
 - **in** … /ɪn/ 前置詞「**〜の中に・〜に**」、副詞「中へ」。
 - **inn** … /ɪn/ 名詞「**宿屋・旅籠・（田舎の）小さなホテル**」。n がふたつ。
 
-| 語 | 発音 | 品詞・中心の意味 | 自作の例文 |
+| 語 | 発音 | 品詞・中心の意味 | 例文 |
 | --- | --- | --- | --- |
 | in | /ɪn/ | 前置詞：〜の中に | The keys are **in** the drawer.（鍵は引き出しの中だ） |
 | in**n** | /ɪn/ | 名詞：宿屋 | We stayed at a cozy **inn**.（居心地のよい宿に泊まった） |
@@ -2856,7 +2856,7 @@ belief/believe と同じく、**-f（relief）が名詞、-ve（relieve）が動
 - **hangar** … /ˈhæŋər/ 名詞「**（飛行機の）格納庫**」。
 - **hanger** … /ˈhæŋər/ 名詞「**ハンガー・衣類掛け**」。hang（掛ける）＋-er。
 
-| 語 | 発音 | 中心の意味 | 自作の例文 |
+| 語 | 発音 | 中心の意味 | 例文 |
 | --- | --- | --- | --- |
 | hang**ar** | /ˈhæŋər/ | 格納庫 | The jet is kept in a **hangar**.（ジェット機は格納庫に置かれる） |
 | hang**er** | /ˈhæŋər/ | ハンガー | Hang your coat on a **hanger**.（コートをハンガーに掛けて） |
@@ -2868,7 +2868,7 @@ belief/believe と同じく、**-f（relief）が名詞、-ve（relieve）が動
 - **emigrate** … 「**（自国を出て他国へ）移住する・出ていく**」。**e**migrate＝**e**xit（出る）。emigrate **from** ~。
 - **immigrate** … 「**（他国から入って）移住してくる**」。**im**migrate＝**in**（入る）。immigrate **to** ~。
 
-| 語 | 向き | 中心の意味 | 自作の例文 |
+| 語 | 向き | 中心の意味 | 例文 |
 | --- | --- | --- | --- |
 | emigrate | 出ていく | 移住して出る | They **emigrated from** Ireland.（彼らはアイルランドを出て移住した） |
 | immigrate | 入ってくる | 移住して入る | Many **immigrated to** the US.（多くが米国へ移住してきた） |
@@ -2880,7 +2880,7 @@ belief/believe と同じく、**-f（relief）が名詞、-ve（relieve）が動
 - **biannual** … 「**年に2回・半年ごと**」（＝semiannual）。1年の中で2回。
 - **biennial** … 「**2年に1回・2年ごと**」。2年周期。
 
-| 語 | 周期 | 自作の例文 |
+| 語 | 周期 | 例文 |
 | --- | --- | --- |
 | bi**annual** | 年2回 | The club holds a **biannual** sale (spring and autumn).（クラブは年2回セールをする） |
 | bi**ennial** | 2年に1回 | The **biennial** festival returns every two years.（その祭りは2年ごとに開かれる） |
@@ -2892,7 +2892,7 @@ belief/believe と同じく、**-f（relief）が名詞、-ve（relieve）が動
 - **sit** … **自動詞**「**（自分が）座る**」。目的語をとらない。活用 sit-sat-sat。
 - **set** … **他動詞**「**（物を）置く・据える・（値・日程などを）定める**」。目的語をとる。活用 set-set-set（変化しない）。
 
-| 語 | 型 | 中心の意味 | 自作の例文 |
+| 語 | 型 | 中心の意味 | 例文 |
 | --- | --- | --- | --- |
 | sit | 自動詞 | （自分が）座る | Please **sit** by the window. / We **sat** in the front row.（窓ぎわに座って／前列に座った） |
 | set | 他動詞 | （物を）置く・定める | She **set** the cup on the table. / Let's **set** a date.（カップを置いた／日程を決めよう） |
@@ -2914,7 +2914,7 @@ belief/believe と同じく、**-f（relief）が名詞、-ve（relieve）が動
 - **continual** … 「**繰り返し起こる・たびたびの（断続的）**」。合間に途切れがある。
 - **continuous** … 「**途切れずにずっと続く（連続）**」。切れ目がない。
 
-| 語 | 途切れ | 中心の意味 | 自作の例文 |
+| 語 | 途切れ | 中心の意味 | 例文 |
 | --- | --- | --- | --- |
 | continu**al** | あり（断続） | たびたびの | His **continual** interruptions annoyed us.（たびたびの中断に苛立った） |
 | continu**ous** | なし（連続） | 途切れず続く | The **continuous** hum of the engine.（エンジンの途切れない低い音） |
@@ -2926,7 +2926,7 @@ belief/believe と同じく、**-f（relief）が名詞、-ve（relieve）が動
 - **human** … /ˈhjuːmən/ 「**人間の・人間**」（形容詞・名詞）。種としてのヒトに関する。アクセントは前。
 - **humane** … /hjuːˈmeɪn/ 「**人道的な・思いやりのある・慈悲深い**」。末尾に e、アクセントは後ろ。
 
-| 語 | 発音 | 中心の意味 | 自作の例文 |
+| 語 | 発音 | 中心の意味 | 例文 |
 | --- | --- | --- | --- |
 | human | /ˈhjuːmən/ | 人間の・人間 | It is a **human** right. / Humans make mistakes.（人間の権利だ／人は間違える） |
 | human**e** | /hjuːˈmeɪn/ | 人道的な | They called for the **humane** treatment of prisoners.（捕虜の人道的な扱いを求めた） |
@@ -2955,7 +2955,7 @@ belief/believe と同じく、**-f（relief）が名詞、-ve（relieve）が動
 - **adverse** … 「**不利な・好ましくない・逆の**」。物事・状況に使う。adverse effects（悪影響）。
 - **averse** … 「**（〜を）嫌って・気が進まない**」。人の気持ち。ふつう **averse to ~**。
 
-| 語 | 対象 | 中心の意味 | 自作の例文 |
+| 語 | 対象 | 中心の意味 | 例文 |
 | --- | --- | --- | --- |
 | a**d**verse | 物事・状況 | 不利な・逆の | The plan failed due to **adverse** conditions.（不利な状況で計画は失敗した） |
 | averse | 人の気持ち | 嫌って・気が進まない | She is **averse to** taking risks.（彼女はリスクを嫌う） |
@@ -2967,7 +2967,7 @@ belief/believe と同じく、**-f（relief）が名詞、-ve（relieve）が動
 - **allusion** … 「**それとない言及・ほのめかし**」。allude（それとなく言及する）の名詞。
 - **illusion** … 「**錯覚・幻想・思い違い**」。実際と違う見え方・思い込み。
 
-| 語 | 中心の意味 | 自作の例文 |
+| 語 | 中心の意味 | 例文 |
 | --- | --- | --- |
 | **al**lusion | それとない言及 | The poem makes an **allusion** to the Bible.（その詩は聖書をそれとなく引く） |
 | **il**lusion | 錯覚・幻想 | The mirror creates an **illusion** of space.（鏡は空間の錯覚を生む） |
@@ -2979,7 +2979,7 @@ belief/believe と同じく、**-f（relief）が名詞、-ve（relieve）が動
 - **eligible** … /ˈɛlɪdʒəbl/ 「**（〜する）資格がある・適格な**」。eligible for/to do。
 - **illegible** … /ɪˈlɛdʒəbl/ 「**判読できない・読めない**」（字などが）。反対は legible（読める）。
 
-| 語 | 発音 | 中心の意味 | 自作の例文 |
+| 語 | 発音 | 中心の意味 | 例文 |
 | --- | --- | --- | --- |
 | eligible | /ˈɛlɪdʒəbl/ | 資格がある | You are **eligible** for the discount.（あなたは割引の資格がある） |
 | illegible | /ɪˈlɛdʒəbl/ | 判読できない | His handwriting is **illegible**.（彼の字は判読できない） |
@@ -2991,7 +2991,7 @@ belief/believe と同じく、**-f（relief）が名詞、-ve（relieve）が動
 - **elicit** … 動詞「**（反応・情報・答えを）引き出す・誘い出す**」。
 - **illicit** … 形容詞「**不法の・違法の・不正な**」。il-（否定）＋licit（合法の）。
 
-| 語 | 品詞・中心の意味 | 自作の例文 |
+| 語 | 品詞・中心の意味 | 例文 |
 | --- | --- | --- |
 | e**l**icit | 動詞：引き出す | The question **elicited** no response.（その質問は反応を引き出さなかった） |
 | i**ll**icit | 形容詞：不法の | The police found **illicit** drugs.（警察は違法薬物を見つけた） |
@@ -3003,7 +3003,7 @@ belief/believe と同じく、**-f（relief）が名詞、-ve（relieve）が動
 - **berth** … /bɜːrθ/ 名詞「**（船の）停泊所・（列車・船の）寝台**」。give a wide berth（大きく避ける）。
 - **birth** … /bɜːrθ/ 名詞「**誕生・出産**」。give birth（出産する）。
 
-| 語 | 発音 | 中心の意味 | 自作の例文 |
+| 語 | 発音 | 中心の意味 | 例文 |
 | --- | --- | --- | --- |
 | b**er**th | /bɜːrθ/ | 停泊所・寝台 | The ship returned to its **berth**.（船は停泊所に戻った） |
 | b**ir**th | /bɜːrθ/ | 誕生・出産 | We celebrated the **birth** of our daughter.（娘の誕生を祝った） |
@@ -3015,7 +3015,7 @@ belief/believe と同じく、**-f（relief）が名詞、-ve（relieve）が動
 - **hoarse** … /hɔːrs/ 形容詞「**（声が）しゃがれた・かすれた**」。
 - **horse** … /hɔːrs/ 名詞「**馬**」。
 
-| 語 | 発音 | 品詞・中心の意味 | 自作の例文 |
+| 語 | 発音 | 品詞・中心の意味 | 例文 |
 | --- | --- | --- | --- |
 | h**oa**rse | /hɔːrs/ | 形容詞：しゃがれた | My voice is **hoarse** from shouting.（叫びすぎて声がかすれた） |
 | h**o**rse | /hɔːrs/ | 名詞：馬 | She rode a brown **horse**.（彼女は茶色の馬に乗った） |
@@ -3027,7 +3027,7 @@ belief/believe と同じく、**-f（relief）が名詞、-ve（relieve）が動
 - **muscle** … /ˈmʌsl/ 名詞「**筋肉**」。muscular（筋肉の）。
 - **mussel** … /ˈmʌsl/ 名詞「**ムール貝・イガイ**」（食用の二枚貝）。
 
-| 語 | 発音 | 中心の意味 | 自作の例文 |
+| 語 | 発音 | 中心の意味 | 例文 |
 | --- | --- | --- | --- |
 | mus**c**le | /ˈmʌsl/ | 筋肉 | Exercise builds **muscle**.（運動は筋肉をつくる） |
 | mus**s**el | /ˈmʌsl/ | ムール貝 | We ate **mussels** in white wine.（白ワイン蒸しのムール貝を食べた） |
@@ -3039,7 +3039,7 @@ belief/believe と同じく、**-f（relief）が名詞、-ve（relieve）が動
 - **wander** … /ˈwɑːndər/（英 /ˈwɒndə/）動詞「**あてもなく歩き回る・さまよう**」。話が「脱線する」意味でも使う。
 - **wonder** … /ˈwʌndər/ 動詞「**不思議に思う・〜だろうかと思う**」／名詞「**驚き・驚異**」。
 
-| 語 | 発音 | 中心の意味 | 自作の例文 |
+| 語 | 発音 | 中心の意味 | 例文 |
 | --- | --- | --- | --- |
 | w**a**nder | /ˈwɑːndər/ | 歩き回る・さまよう | We **wandered** through the old town.（旧市街をぶらぶら歩いた） |
 | w**o**nder | /ˈwʌndər/ | 〜かしらと思う・驚異 | I **wonder** why she left early.（なぜ早く帰ったのだろう） |
@@ -3053,7 +3053,7 @@ wonder は **wonder if / wonder why** のように節を続ける形が多く、
 - **expand** … /ɪkˈspænd/「**拡大する・膨張する**」（自動詞・他動詞）。名詞 **expansion**、形容詞 expansive。
 - **expend** … /ɪkˈspend/「**（お金・時間・労力を）費やす**」（他動詞・やや硬い語）。名詞 **expenditure**、関連語 expense / expensive。
 
-| 語 | 発音 | 中心の意味 | 自作の例文 |
+| 語 | 発音 | 中心の意味 | 例文 |
 | --- | --- | --- | --- |
 | exp**a**nd | /ɪkˈspænd/ | 拡大する・膨張する | The company plans to **expand** into Asia.（アジアへ事業を広げる計画だ） |
 | exp**e**nd | /ɪkˈspend/ | 費やす・消費する | They **expended** a lot of energy on the project.（多くの労力を注いだ） |
@@ -3067,7 +3067,7 @@ wonder は **wonder if / wonder why** のように節を続ける形が多く、
 - **perspective** … /pərˈspektɪv/ 名詞「**観点・見方**」「**遠近法**」。from a different perspective（別の観点から）。
 - **prospective** … /prəˈspektɪv/ 形容詞「**見込みのある・将来の**」。prospective buyer（購入見込み客）。名詞は prospect（見込み・展望）。
 
-| 語 | 品詞 | 中心の意味 | 自作の例文 |
+| 語 | 品詞 | 中心の意味 | 例文 |
 | --- | --- | --- | --- |
 | **per**spective | 名詞 | 観点・見方／遠近法 | Try to see it from her **perspective**.（彼女の視点で見てみて） |
 | **pro**spective | 形容詞 | 見込みの・将来の | We interviewed three **prospective** employees.（採用候補者3人と面接した） |
@@ -3081,7 +3081,7 @@ wonder は **wonder if / wonder why** のように節を続ける形が多く、
 - **martial** … /ˈmɑːrʃl/ 形容詞「**軍事の・戦いの**」。martial arts（武術）、martial law（戒厳令）。
 - **marital** … /ˈmærɪtl/ 形容詞「**結婚の・婚姻の**」。marital status（婚姻状況）。
 
-| 語 | 発音 | 中心の意味 | 自作の例文 |
+| 語 | 発音 | 中心の意味 | 例文 |
 | --- | --- | --- | --- |
 | mar**ti**al | /ˈmɑːrʃl/ | 軍事の・戦いの | He has studied **martial** arts for ten years.（10年間武術を学んでいる） |
 | mar**it**al | /ˈmærɪtl/ | 結婚の・婚姻の | The form asks for your **marital** status.（用紙は婚姻状況を尋ねている） |
@@ -3096,7 +3096,7 @@ wonder は **wonder if / wonder why** のように節を続ける形が多く、
 - **see** … 意志と関係なく**目に入る・見える**。知覚を表すので進行形にしにくい。
 - **watch** … 動きや変化のあるものを**一定時間注視する**。
 
-| 語 | 焦点 | 目的語の前 | 自作の例文 |
+| 語 | 焦点 | 目的語の前 | 例文 |
 | --- | --- | --- | --- |
 | look | 視線を向ける動作 | at が必要 | **Look at** this photo.（この写真を見て） |
 | see | 見える・目に入る | 直接続く | I can **see** the tower from here.（ここから塔が見える） |
@@ -3112,7 +3112,7 @@ wonder は **wonder if / wonder why** のように節を続ける形が多く、
 
 look は後ろの前置詞で意味が大きく変わります。ここを取り違えると文意が別物になります。
 
-| 形 | 意味 | 自作の例文 |
+| 形 | 意味 | 例文 |
 | --- | --- | --- |
 | look at 〜 | 〜に視線を向ける | **Look at** the map.（地図を見て） |
 | look for 〜 | 〜を**探す** | I am **looking for** my keys.（鍵を探している） |
@@ -3134,7 +3134,7 @@ look は後ろの前置詞で意味が大きく変わります。ここを取り
 - **during** … **前置詞**。後ろは**名詞（句）**。during the meeting / during summer。
 - **while** … **接続詞**。後ろは**主語＋動詞の節**。while I was cooking。
 
-| 語 | 品詞 | 後ろに来る形 | 自作の例文 |
+| 語 | 品詞 | 後ろに来る形 | 例文 |
 | --- | --- | --- | --- |
 | during | 前置詞 | 名詞（句） | He fell asleep **during the film**.（映画の間に眠ってしまった） |
 | while | 接続詞 | 主語＋動詞 | He fell asleep **while he was watching** the film.（映画を見ている間に眠った） |
@@ -3166,7 +3166,7 @@ look は後ろの前置詞で意味が大きく変わります。ここを取り
 - **customer** … 店や企業から**商品・サービスを買う客**。小売・飲食・オンライン販売など。
 - **client** … 弁護士・会計士・広告代理店・コンサルタントなど、**専門的な助言やサービスを依頼する人**。契約に基づく継続的な関係が前提になりやすい。
 
-| 語 | 典型的な相手 | 関係 | 自作の例文 |
+| 語 | 典型的な相手 | 関係 | 例文 |
 | --- | --- | --- | --- |
 | customer | 店・メーカー・ネット通販 | 単発の売買が中心 | The shop has many regular **customers**.（常連客が多い） |
 | client | 法律事務所・会計事務所・代理店 | 契約に基づく継続的な依頼 | Our agency lost its biggest **client**.（最大の取引先を失った） |
@@ -3180,7 +3180,7 @@ confuse（混乱させる）のような**感情動詞**は、分詞の形で意
 - **confusing** … 現在分詞から来た形容詞。**混乱させる側**（説明・状況・指示など）を修飾。
 - **confused** … 過去分詞から来た形容詞。**混乱させられた側**（人）を修飾。
 
-| 語 | 修飾する対象 | 自作の例文 |
+| 語 | 修飾する対象 | 例文 |
 | --- | --- | --- |
 | confus**ing** | 物・事（原因） | The instructions are **confusing**.（説明書が分かりにくい） |
 | confus**ed** | 人（受け手） | I am **confused** by the instructions.（説明書で混乱している） |
@@ -3203,7 +3203,7 @@ confuse（混乱させる）のような**感情動詞**は、分詞の形で意
 - **comparable** … 「**比較できるほど似ている・同等の**」。品質や規模が近いことを言う。
 - **comparative** … 「**比較による・相対的な**」。comparative study（比較研究）、comparative literature（比較文学）。文法では**比較級**（the comparative form）。
 
-| 語 | 中心の意味 | 自作の例文 |
+| 語 | 中心の意味 | 例文 |
 | --- | --- | --- |
 | compar**able** | 同等の・比較しうる | The two phones are **comparable** in price.（2機種は価格が同程度だ） |
 | compar**ative** | 比較の・相対的な | She wrote a **comparative** study of two cities.（2都市の比較研究を書いた） |
@@ -3219,7 +3219,7 @@ confuse（混乱させる）のような**感情動詞**は、分詞の形で意
 - **complementary** … /ˌkɑːmplɪˈmentəri/「**補い合う・補完的な**」。complementary colors（補色）。
 - **complimentary** … /ˌkɑːmplɪˈmentəri/「**賛辞の・ほめる**」／「**無料で提供される**」。complimentary breakfast（無料の朝食）。
 
-| 語 | 中心の意味 | 自作の例文 |
+| 語 | 中心の意味 | 例文 |
 | --- | --- | --- |
 | compl**e**mentary | 補い合う | Their skills are **complementary**.（2人の技能は補い合っている） |
 | compl**i**mentary | 賛辞の／無料の | The hotel offers a **complimentary** shuttle.（無料送迎がある） |
@@ -3233,7 +3233,7 @@ confuse（混乱させる）のような**感情動詞**は、分詞の形で意
 - **stair** … 名詞「**階段の1段**」。ふつう複数形 **stairs**（階段）で使う。staircase（階段一式）。
 - **stare** … 動詞「**じっと見つめる**」。stare at 〜 の形。名詞で「凝視」。
 
-| 語 | 品詞 | 中心の意味 | 自作の例文 |
+| 語 | 品詞 | 中心の意味 | 例文 |
 | --- | --- | --- | --- |
 | st**ai**r | 名詞 | 階段（の1段） | She ran up the **stairs**.（階段を駆け上がった） |
 | st**a**re | 動詞 | じっと見つめる | Don't **stare at** strangers.（知らない人をじろじろ見ないで） |
@@ -3247,7 +3247,7 @@ confuse（混乱させる）のような**感情動詞**は、分詞の形で意
 - **idle** … 形容詞「**何もしていない・稼働していない・怠惰な**」。動詞ではエンジンが「アイドリングする」。
 - **idol** … 名詞「**偶像・崇拝の対象**」。日本語の「アイドル（芸能人）」もこの語から。
 
-| 語 | 品詞 | 中心の意味 | 自作の例文 |
+| 語 | 品詞 | 中心の意味 | 例文 |
 | --- | --- | --- | --- |
 | id**le** | 形容詞・動詞 | 稼働していない・怠惰な | The machines stood **idle** all week.（機械は一週間止まっていた） |
 | id**ol** | 名詞 | 偶像・崇拝の対象 | The player was an **idol** to young fans.（その選手は若いファンの憧れだった） |
@@ -3261,7 +3261,7 @@ confuse（混乱させる）のような**感情動詞**は、分詞の形で意
 - **lessen** … 動詞「**減らす・弱める／減る**」。less（より少ない）＋-en（〜にする）。
 - **lesson** … 名詞「**授業・けいこ**」「**教訓**」。
 
-| 語 | 品詞 | 中心の意味 | 自作の例文 |
+| 語 | 品詞 | 中心の意味 | 例文 |
 | --- | --- | --- | --- |
 | less**en** | 動詞 | 減らす・和らげる | The medicine **lessened** the pain.（薬が痛みを和らげた） |
 | less**on** | 名詞 | 授業・教訓 | I have a piano **lesson** on Fridays.（金曜はピアノのレッスンがある） |
@@ -3275,7 +3275,7 @@ confuse（混乱させる）のような**感情動詞**は、分詞の形で意
 - **seam** … 名詞「**縫い目・継ぎ目**」。布・金属・地層（炭層）にも使う。
 - **seem** … 動詞「**〜のように思える・見える**」。seem to do / seem＋形容詞。
 
-| 語 | 品詞 | 中心の意味 | 自作の例文 |
+| 語 | 品詞 | 中心の意味 | 例文 |
 | --- | --- | --- | --- |
 | s**ea**m | 名詞 | 縫い目・継ぎ目 | The **seam** of my bag came apart.（かばんの縫い目がほどけた） |
 | s**ee**m | 動詞 | 〜のように思える | You **seem** tired today.（今日は疲れているみたいだね） |
@@ -3289,7 +3289,7 @@ confuse（混乱させる）のような**感情動詞**は、分詞の形で意
 - **access** … /ˈækses/ 名詞「**接近・入場・利用（の権利）**」／動詞「**アクセスする・利用する**」。前半にアクセント。
 - **excess** … /ɪkˈses/ 名詞「**超過・過剰**」／名詞の前に置いて「**超過の**」。後半にアクセント。
 
-| 語 | 発音 | 品詞・中心の意味 | 自作の例文 |
+| 語 | 発音 | 品詞・中心の意味 | 例文 |
 | --- | --- | --- | --- |
 | **ac**cess | /ˈækses/ | 名詞・動詞：利用（する） | Students have free **access** to the library.（学生は図書館を自由に利用できる） |
 | ex**cess** | /ɪkˈses/ | 名詞・形容詞：超過（の） | You must pay for **excess** baggage.（超過手荷物には料金がかかる） |
@@ -3314,7 +3314,7 @@ confuse（混乱させる）のような**感情動詞**は、分詞の形で意
 - **statute** … /ˈstætʃuːt/ 名詞「**制定法・法令**」。議会が定めた成文法を指す法律用語。
 - **stature** … /ˈstætʃər/ 名詞「**身長・背丈**」、転じて「**（人物の）力量・名声**」。
 
-| 語 | 分野 | 中心の意味 | 自作の例文 |
+| 語 | 分野 | 中心の意味 | 例文 |
 | --- | --- | --- | --- |
 | stat**ue** | 美術 | 彫像 | A bronze **statue** stands in the square.（広場に銅像が立っている） |
 | stat**ute** | 法律 | 制定法・法令 | The right is protected by **statute**.（その権利は制定法で守られている） |
@@ -3341,7 +3341,7 @@ confuse（混乱させる）のような**感情動詞**は、分詞の形で意
 - **ingenious** … /ɪnˈdʒiːniəs/ 形容詞「**独創的な・工夫に富んだ・巧妙な**」。人にも仕掛けにも使う。
 - **ingenuous** … /ɪnˈdʒenjuəs/ 形容詞「**純真な・気取らない・率直な**」。世慣れていない含みが出ることもある。
 
-| 語 | 発音 | 中心の意味 | 自作の例文 |
+| 語 | 発音 | 中心の意味 | 例文 |
 | --- | --- | --- | --- |
 | ingeni**ou**s | /ɪnˈdʒiːniəs/ | 独創的な・巧妙な | She found an **ingenious** way to save water.（節水の巧みな方法を見つけた） |
 | ingenu**ou**s | /ɪnˈdʒenjuəs/ | 純真な・率直な | His **ingenuous** smile won everyone over.（屈託のない笑顔でみなを味方につけた） |
@@ -3367,7 +3367,7 @@ confuse（混乱させる）のような**感情動詞**は、分詞の形で意
 - **weary** … /ˈwɪri/ 形容詞「**ひどく疲れた・疲れ果てた**」。be weary of 〜 で「〜にうんざりしている」。
 - **wary** … /ˈweri/ 形容詞「**用心深い・警戒している**」。be wary of 〜 で「〜を警戒している」。
 
-| 語 | 発音 | 中心の意味 | 自作の例文 |
+| 語 | 発音 | 中心の意味 | 例文 |
 | --- | --- | --- | --- |
 | w**ea**ry | /ˈwɪri/ | 疲れ果てた | The hikers looked **weary** after ten hours.（10時間歩いて登山者は疲れ切って見えた） |
 | w**a**ry | /ˈweri/ | 用心深い | Be **wary** of emails asking for your password.（パスワードを求めるメールには用心を） |
@@ -3391,7 +3391,7 @@ confuse（混乱させる）のような**感情動詞**は、分詞の形で意
 - **bazaar** … 名詞「**市場（特に中東・南アジアの商店街）**」「**慈善バザー**」。
 - **bizarre** … 形容詞「**奇妙な・風変わりな**」。strange より驚きの度合いが強い。
 
-| 語 | 品詞 | 中心の意味 | 自作の例文 |
+| 語 | 品詞 | 中心の意味 | 例文 |
 | --- | --- | --- | --- |
 | ba**zaar** | 名詞 | 市場・バザー | We bought spices at the **bazaar**.（市場で香辛料を買った） |
 | bi**zarre** | 形容詞 | 奇妙な | The film has a **bizarre** ending.（その映画は奇妙な結末だ） |
@@ -3417,7 +3417,7 @@ confuse（混乱させる）のような**感情動詞**は、分詞の形で意
 - **assume** … 「（証拠がなくても）**当然そうだと考える・仮定する**」。ほかに「（責任・役職を）**引き受ける**」の意味もある。
 - **presume** … 「（根拠があって）**推定する・おそらく〜だろうと考える**」。法律では「推定する」の専門語。
 
-| 語 | 根拠 | 中心の意味 | 自作の例文 |
+| 語 | 根拠 | 中心の意味 | 例文 |
 | --- | --- | --- | --- |
 | assume | なくてよい | 当然そうだと考える | I **assumed** you were coming, so I saved a seat.（来ると思って席を取っておいた） |
 | presume | ある程度ある | 推定する | The car is gone, so I **presume** she has left.（車がないので出かけたのだろう） |
@@ -3443,7 +3443,7 @@ confuse（混乱させる）のような**感情動詞**は、分詞の形で意
 - **especially** … 「**とりわけ・特に**」。ほかと比べて程度が高いことを示す。
 - **specially** … 「**特別に・そのために**」。ある目的のためにわざわざ、という意味。
 
-| 語 | 焦点 | 中心の意味 | 自作の例文 |
+| 語 | 焦点 | 中心の意味 | 例文 |
 | --- | --- | --- | --- |
 | **e**specially | 程度の際立ち | とりわけ | The exam was **especially** difficult this year.（今年の試験はとりわけ難しかった） |
 | specially | 目的 | 特別に・そのために | This cake was made **specially** for you.（このケーキはあなたのために特別に作られた） |
@@ -3503,7 +3503,7 @@ confuse（混乱させる）のような**感情動詞**は、分詞の形で意
 - **yet** … 否定文で「**まだ〜ない**」、疑問文で「**もう〜したか**」。文末に置くのが基本。
 - **already** … 「**もう・すでに**」。**完了**を表し、肯定文で使う。
 
-| 語 | 使う文 | 位置 | 自作の例文 |
+| 語 | 使う文 | 位置 | 例文 |
 | --- | --- | --- | --- |
 | still | 肯定・疑問・否定 | 動詞の前／be の後 | He is **still** waiting outside.（彼はまだ外で待っている） |
 | yet | 否定・疑問 | ふつう文末 | I haven't finished it **yet**.（まだ終わっていない） |
@@ -3530,7 +3530,7 @@ confuse（混乱させる）のような**感情動詞**は、分詞の形で意
 - **used to do** … 「**以前は〜した・かつては〜だった**」。**今はそうでない**という対比を含む。
 - **be used to doing** … 「**〜に慣れている**」。get used to doing なら「慣れる（過程）」。
 
-| 表現 | 後ろの形 | 中心の意味 | 自作の例文 |
+| 表現 | 後ろの形 | 中心の意味 | 例文 |
 | --- | --- | --- | --- |
 | used to **do** | 動詞の原形 | 以前は〜した（今は違う） | I **used to walk** to school.（昔は歩いて通学していた） |
 | be used to **doing** | 名詞・動名詞 | 〜に慣れている | I **am used to walking** long distances.（長い距離を歩くのには慣れている） |
@@ -3559,7 +3559,7 @@ confuse（混乱させる）のような**感情動詞**は、分詞の形で意
 - **hard** … 形容詞「かたい・難しい・厳しい」／**副詞「熱心に・激しく」**。
 - **hardly** … 副詞「**ほとんど〜ない**」。準否定語で、文全体を否定寄りにする。
 
-| 語 | 品詞 | 中心の意味 | 自作の例文 |
+| 語 | 品詞 | 中心の意味 | 例文 |
 | --- | --- | --- | --- |
 | hard | 形容詞・副詞 | 熱心に・激しく | They worked **hard** all night.（一晩中懸命に働いた） |
 | hard**ly** | 副詞（準否定） | ほとんど〜ない | I could **hardly** hear him.（彼の声はほとんど聞こえなかった） |
@@ -3587,7 +3587,7 @@ hard／hardly と同じ型で、**-ly をつけると意味が変わる**組み�
 - **late** … 形容詞「遅い・遅刻した」／副詞「**遅く**」。
 - **lately** … 副詞「**最近・このところ**」。recently とほぼ同義。
 
-| 語 | 品詞 | 中心の意味 | 自作の例文 |
+| 語 | 品詞 | 中心の意味 | 例文 |
 | --- | --- | --- | --- |
 | late | 形容詞・副詞 | 遅い・遅く | The train arrived **late**.（電車は遅れて着いた） |
 | late**ly** | 副詞 | 最近・このところ | I haven't seen him **lately**.（このところ彼に会っていない） |
@@ -3615,7 +3615,7 @@ hard／hardly と同じ型で、**-ly をつけると意味が変わる**組み�
 - **cook** … 動詞「**料理する**」／名詞「**料理人・コック**」。
 - **cooker** … 名詞「**調理器具**」。英国英語ではコンロつきオーブン（レンジ）を指すのが一般的。
 
-| 語 | 品詞 | 中心の意味 | 自作の例文 |
+| 語 | 品詞 | 中心の意味 | 例文 |
 | --- | --- | --- | --- |
 | cook | 動詞・名詞 | 料理する／料理人 | He is a good **cook**.（彼は料理がうまい） |
 | cook**er** | 名詞 | 調理器具 | The gas **cooker** needs cleaning.（ガスコンロの掃除が要る） |
@@ -3643,7 +3643,7 @@ hard／hardly と同じ型で、**-ly をつけると意味が変わる**組み�
 - **invaluable** … 形容詞「**きわめて貴重な・計り知れないほど有用な**」。
 - **valueless** … 形容詞「**価値のない**」。worthless とほぼ同義。
 
-| 語 | 価値 | 中心の意味 | 自作の例文 |
+| 語 | 価値 | 中心の意味 | 例文 |
 | --- | --- | --- | --- |
 | **in**valuable | きわめて高い | 計り知れないほど貴重な | Your advice was **invaluable**.（あなたの助言は本当に有益だった） |
 | value**less** | 無い | 無価値な | The old coins turned out to be **valueless**.（古い硬貨は無価値だと分かった） |
@@ -3671,7 +3671,7 @@ hard／hardly と同じ型で、**-ly をつけると意味が変わる**組み�
 - **suite** … /swiːt/ 名詞「**一続きの部屋（ホテルの上級客室）**」「**組曲**」「**ソフトウェア一式**」。
 - **sweet** … /swiːt/ 形容詞「**甘い・心地よい**」／名詞（英）「**菓子・デザート**」。
 
-| 語 | 品詞 | 中心の意味 | 自作の例文 |
+| 語 | 品詞 | 中心の意味 | 例文 |
 | --- | --- | --- | --- |
 | s**ui**te | 名詞 | 一続きの部屋・組曲・一式 | They stayed in a **suite** on the top floor.（最上階のスイートに泊まった） |
 | s**wee**t | 形容詞・名詞 | 甘い・心地よい | This tea is too **sweet** for me.（この紅茶は私には甘すぎる） |
@@ -3697,7 +3697,7 @@ hard／hardly と同じ型で、**-ly をつけると意味が変わる**組み�
 - **colonel** … /ˈkɜːrnl/ 名詞「**（陸軍・空軍の）大佐**」。
 - **kernel** … /ˈkɜːrnl/ 名詞「**（木の実の）仁・（穀物の）粒**」「**核心・要点**」。
 
-| 語 | 分野 | 中心の意味 | 自作の例文 |
+| 語 | 分野 | 中心の意味 | 例文 |
 | --- | --- | --- | --- |
 | co**l**onel | 軍隊 | 大佐 | The **colonel** addressed the troops.（大佐が部隊に訓示した） |
 | ke**r**nel | 食物・比喩 | 仁・核心 | There is a **kernel** of truth in the rumor.（そのうわさには一片の真実がある） |
@@ -3725,7 +3725,7 @@ hard／hardly と同じ型で、**-ly をつけると意味が変わる**組み�
 - **pole** … /poʊl/ 名詞「**棒・さお・柱**」「**（地球・磁石の）極**」。the North Pole（北極）。
 - **poll** … /poʊl/ 名詞「**投票・世論調査**」／動詞「**世論調査を行う**」。
 
-| 語 | 分野 | 中心の意味 | 自作の例文 |
+| 語 | 分野 | 中心の意味 | 例文 |
 | --- | --- | --- | --- |
 | po**le** | 物・地理 | 棒・極 | A flag hung from a tall **pole**.（高いポールに旗が掲げられていた） |
 | po**ll** | 政治・調査 | 投票・世論調査 | The latest **poll** shows a close race.（最新の世論調査では接戦だ） |
@@ -3753,7 +3753,7 @@ hard／hardly と同じ型で、**-ly をつけると意味が変わる**組み�
 - **thrown** … /θroʊn/ **throw（投げる）の過去分詞**。have thrown / be thrown の形で使う。
 - **throne** … /θroʊn/ 名詞「**王座・王位**」。the throne で王位そのものを指す。
 
-| 語 | 品詞 | 中心の意味 | 自作の例文 |
+| 語 | 品詞 | 中心の意味 | 例文 |
 | --- | --- | --- | --- |
 | throw**n** | 過去分詞 | 投げられた | The ball was **thrown** over the fence.（ボールは塀の向こうへ投げられた） |
 | thro**ne** | 名詞 | 王座・王位 | She came to the **throne** at the age of 25.（25歳で即位した） |
@@ -3779,7 +3779,7 @@ hard／hardly と同じ型で、**-ly をつけると意味が変わる**組み�
 - **faze** … /feɪz/ 動詞「**（人を）動揺させる・うろたえさせる**」。否定文で「動じない」と言うのが定番。
 - **phase** … /feɪz/ 名詞「**段階・局面・（月の）相**」／動詞「段階的に進める」。
 
-| 語 | 品詞 | 中心の意味 | 自作の例文 |
+| 語 | 品詞 | 中心の意味 | 例文 |
 | --- | --- | --- | --- |
 | **f**aze | 動詞 | 動揺させる | The criticism didn't **faze** her at all.（批判に彼女は少しも動じなかった） |
 | **ph**ase | 名詞・動詞 | 段階・局面 | The project entered its final **phase**.（計画は最終段階に入った） |
