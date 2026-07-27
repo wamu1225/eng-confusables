@@ -768,7 +768,21 @@ borrow と lend は**無償で、持ち運べるものを一時的に**やり取
 | ant | /ænt/ | アリ | An **ant** carried a crumb.（アリがパンくずを運んだ） |
 | aunt | 米 /ænt/・英 /ɑːnt/ | おば | My **aunt** lives in Osaka.（おばは大阪に住んでいる） |
 
-🎯 リスニングの要点：**アメリカ英語では ant と aunt がほぼ同音**なので、文脈で判断します（昆虫の話か家族の話か）。**イギリス英語では aunt は /ɑːnt/「アーント」と母音が長く**、区別できます。`,keyPoints:[`ant /ænt/＝アリ`,`aunt＝おば。米 /ænt/（ant と同音）／英 /ɑːnt/`,`米では同音→文脈判断、英では母音の長さで区別`],quiz:[{id:`q-ant-1`,question:`「おば」という意味の語はどれですか。`,options:[`aunt`,`ant`,`uncle`,`and`],correctAnswer:0,explanation:`aunt が「おば」。ant は「アリ」です。`},{id:`q-ant-2`,question:`アメリカ英語での ant と aunt の発音の関係として正しいものはどれですか。`,options:[`母音の長さで明確に区別される`,`子音が違う`,`アクセントが違う`,`ほぼ同音 /ænt/ で、文脈で判断する`],correctAnswer:3,explanation:`アメリカ英語では多くの地域で ant も aunt も /ænt/ とほぼ同音です。`},{id:`q-ant-3`,question:`イギリス英語で aunt はどう発音されますか。`,options:[`/ænt/（ant と同じ）`,`/ɑːnt/（アーントと長め）`,`/eɪnt/`,`/ʌnt/`],correctAnswer:1,explanation:`イギリス英語では aunt は /ɑːnt/ で、ant /ænt/ と母音が異なり区別できます。`},{id:`q-ant-4`,question:`空所に入る適切な語はどれですか。「An ( ) colony can have thousands of insects.（アリのコロニーには数千匹がいることがある）」`,options:[`aunt`,`ant`,`and`,`aren't`],correctAnswer:1,explanation:`昆虫の「アリ」は ant です。`},{id:`q-ant-5`,question:`米英で発音が分かれる理由として正しいものはどれですか。`,options:[`aunt の母音が米 /æ/・英 /ɑː/ と異なるため`,`ant のスペルが地域で違うため`,`どちらも常に同音だから`,`アクセント位置が違うため`],correctAnswer:0,explanation:`aunt の母音が米では /æ/、英では /ɑː/ となるため、英では ant と区別されます。`}]},{id:`brush-blush`,title:`brush と blush`,chapter:4,description:`/r/ と /l/ の違い。brush /brʌʃ/「ブラシ・磨く」、blush /blʌʃ/「赤面する」。`,content:`## 音のちがいで見分ける
+### aunt の家族語彙で広げる
+
+aunt は家族関係の語彙とセットで覚えると定着します。反対の男性形は **uncle**（おじ）、aunt と uncle の子どもは **cousin**（いとこ）です。日本語の「おば」は父方・母方や年上・年下を区別しませんが、英語の aunt もこの点は同じで区別しません。
+
+### ant の複合語で広げる
+
+ant は複合語で昆虫の種類を表すのに使われます。**anteater**（アリクイ）は ant + eater（食べる者）そのままの成り立ちで、意味から形が推測しやすい語です。ことわざには **"as busy as an ant"**（アリのように忙しい）という比喩表現もあります。
+
+### よくある誤用
+
+⚠️ \`My ant is a doctor.\` は誤りです。家族の「おば」は **aunt**（My aunt is a doctor.）。アメリカ発音ではこの2語が同音になるため、綴りの取り違えが起きやすい箇所です。
+
+🎯 リスニングの要点：**アメリカ英語では ant と aunt がほぼ同音**なので、文脈で判断します（昆虫の話か家族の話か）。**イギリス英語では aunt は /ɑːnt/「アーント」と母音が長く**、区別できます。
+
+📖 くだけた会話では aunt の代わりに **auntie / aunty**（おばちゃん）という愛称もよく使われます。イギリスの慣用句 **Aunt Sally** は、もとは縁日の的当てゲームの人形の名前から転じて「**格好の非難の的**」という意味で使われます。名前の前に付けて **Aunt Mary**（メアリーおばさん）のように呼びかけるときは、Aunt を大文字で始めるのが一般的です。`,keyPoints:[`ant /ænt/＝アリ。anteater（アリクイ）はant+eaterの成り立ち`,`aunt＝おば。米/ænt/（antと同音）／英/ɑːnt/。反対はuncle、子はcousin`,`米では同音→文脈判断、英では母音の長さで区別`,`日本語の「おば」と違い、aunt も父方/母方を区別しない`],quiz:[{id:`q-ant-1`,question:`「おば」という意味の語はどれですか。`,options:[`aunt`,`ant`,`uncle`,`and`],correctAnswer:0,explanation:`aunt が「おば」。ant は「アリ」です。`},{id:`q-ant-2`,question:`アメリカ英語での ant と aunt の発音の関係として正しいものはどれですか。`,options:[`母音の長さで明確に区別される`,`子音が違う`,`アクセントが違う`,`ほぼ同音 /ænt/ で、文脈で判断する`],correctAnswer:3,explanation:`アメリカ英語では多くの地域で ant も aunt も /ænt/ とほぼ同音です。`},{id:`q-ant-3`,question:`イギリス英語で aunt はどう発音されますか。`,options:[`/ænt/（ant と同じ）`,`/ɑːnt/（アーントと長め）`,`/eɪnt/`,`/ʌnt/`],correctAnswer:1,explanation:`イギリス英語では aunt は /ɑːnt/ で、ant /ænt/ と母音が異なり区別できます。`},{id:`q-ant-4`,question:`空所に入る適切な語はどれですか。「My uncle and ( ) came to visit us.（おじとおばが訪ねてきた）」`,options:[`ant`,`aunt`,`ants`,`aunts'`],correctAnswer:1,explanation:`uncle（おじ）と対になる「おば」はaunt。antは昆虫の「アリ」です。`},{id:`q-ant-5`,question:`米英で発音が分かれる理由として正しいものはどれですか。`,options:[`aunt の母音が米 /æ/・英 /ɑː/ と異なるため`,`ant のスペルが地域で違うため`,`どちらも常に同音だから`,`アクセント位置が違うため`],correctAnswer:0,explanation:`aunt の母音が米では /æ/、英では /ɑː/ となるため、英では ant と区別されます。`}]},{id:`brush-blush`,title:`brush と blush`,chapter:4,description:`/r/ と /l/ の違い。brush /brʌʃ/「ブラシ・磨く」、blush /blʌʃ/「赤面する」。`,content:`## 音のちがいで見分ける
 
 **/r/ と /l/** だけの違いです。
 
@@ -808,7 +822,7 @@ borrow と lend は**無償で、持ち運べるものを一時的に**やり取
 
 🎯 ポイント：**crash と clash は母音 /æ/「ア」**、**crush は母音 /ʌ/**。さらに crash/crush は **/r/**、clash は **/l/**。意味は「激突（crash）／押しつぶす・夢中（crush）／対立（clash）」と整理します。`,keyPoints:[`crash /kræʃ/＝激突・墜落・(システム)クラッシュ`,`crush /krʌʃ/＝押しつぶす／（名詞）夢中・片思い`,`clash /klæʃ/＝対立する・かち合う`],quiz:[{id:`q-crash-1`,question:`空所に入る適切な語はどれですか。「The plane ( ) into the mountain.（飛行機が山に激突した）」`,options:[`crashed`,`crushed`,`clashed`,`clasped`],correctAnswer:0,explanation:`「激突・墜落」は crash（/kræʃ/）。`},{id:`q-crash-2`,question:`空所に入る適切な語はどれですか。「Heavy boxes ( ) the fragile items.（重い箱が壊れやすい品物を押しつぶした）」`,options:[`crashed`,`crushed`,`clashed`,`clapped`],correctAnswer:1,explanation:`「押しつぶす」は crush（/krʌʃ/）。`},{id:`q-crash-3`,question:`空所に入る適切な語はどれですか。「My meeting ( ) with my dentist appointment.（会議が歯医者の予約とかち合った）」`,options:[`crashed`,`clashed`,`crushed`,`crushed`],correctAnswer:1,explanation:`「（予定などが）かち合う・対立する」は clash（/klæʃ/）。`},{id:`q-crash-4`,question:`crush だけが持つ母音はどれですか。`,options:[`/æ/（crash, clash と同じ）`,`/iː/`,`/ɔː/`,`/ʌ/`],correctAnswer:3,explanation:`crush は /ʌ/。crash と clash は /æ/ です。`},{id:`q-crash-5`,question:`名詞で「（一時的な）夢中・片思い」の意味があるのはどれですか。`,options:[`crush`,`crash`,`clash`,`clap`],correctAnswer:0,explanation:`crush には名詞で「（短期的な）夢中・片思い」の意味があります（have a crush on 〜）。`}]},{id:`low-law`,title:`low と law`,chapter:4,description:`母音 /oʊ/ と /ɔː/ の違い。low /loʊ/「低い」、law /lɔː/「法・法律」。`,content:`## 音のちがいで見分ける
 
-子音は同じ l-。違うのは**母音 /oʊ/ と /ɔː/** です。
+子音は同じ l- ですが、**同音異義語ではありません**。違うのは**母音 /oʊ/ と /ɔː/** です。
 
 - **low** … /loʊ/ 「**低い・少ない**」。
 - **law** … /lɔː/ 「**法・法律・法則**」。
@@ -818,7 +832,25 @@ borrow と lend は**無償で、持ち運べるものを一時的に**やり取
 | l**ow** | /loʊ/ | 低い・少ない | Prices are very **low** this month.（今月は価格がとても低い） |
 | l**aw** | /lɔː/ | 法・法律 | Everyone must obey the **law**.（誰もが法に従わなければならない） |
 
-🎯 リスニングの要点：**/oʊ/「オウ」（low）**と**/ɔː/「オー」（law）**の母音差。lawyer（弁護士）/lower（より低い）の聞き分けも同じ対立です。`,keyPoints:[`low /loʊ/＝低い・少ない`,`law /lɔː/＝法・法律・法則`,`/oʊ/（オウ）と /ɔː/（オー）の母音対立`],quiz:[{id:`q-low-1`,question:`「法・法律」という意味の語はどれですか。`,options:[`low`,`lawn`,`load`,`law`],correctAnswer:3,explanation:`law /lɔː/ が「法・法律」。low は「低い」です。`},{id:`q-low-2`,question:`空所に入る適切な語はどれですか。「The temperature is very ( ) today.（今日は気温がとても低い）」`,options:[`law`,`lawn`,`low`,`law`],correctAnswer:2,explanation:`「低い」は low（/loʊ/）。`},{id:`q-low-3`,question:`low と law を分けている音の違いはどれですか。`,options:[`子音 /l/ と /r/`,`母音 /oʊ/ と /ɔː/`,`語尾の子音`,`アクセント`],correctAnswer:1,explanation:`low は /oʊ/、law は /ɔː/ の母音対立です。`},{id:`q-low-4`,question:`空所に入る適切な語はどれですか。「She studies ( ) at university.（彼女は大学で法律を学んでいる）」`,options:[`low`,`lower`,`loan`,`law`],correctAnswer:3,explanation:`「法律」は law です。`},{id:`q-low-5`,question:`/ɔː/（口を開く「オー」）の母音を持つのはどちらですか。`,options:[`low`,`law`,`どちらも`,`どちらも違う`],correctAnswer:1,explanation:`law が /lɔː/。low は /loʊ/（二重母音）です。`}]},{id:`raw-row`,title:`raw と row`,chapter:4,description:`母音 /ɔː/ と /oʊ/ の違い。raw /rɔː/「生の・未加工の」、row /roʊ/「列／（舟を）漕ぐ」。`,content:`## 音のちがいで見分ける
+### なぜ混同するか：スペルパターンの family
+
+発音は違うのに混同しやすいのは、**綴りが似た短い単語のグループにそれぞれ属している**からです。-ow で終わる語（low, know, show, grow, slow）は /oʊ/、-aw で終わる語（law, raw, paw, saw, draw）は /ɔː/ とグループごとに読みが揃うので、慣れれば語尾を見るだけで発音を予測できます。
+
+### 複合語・慣用表現で広げる
+
+**law** は職業・分野の複合語が豊富です。**lawyer**（弁護士）・**law-abiding**（法を守る）・**outlaw**（無法者・法で禁じる）・**in-law**（義理の家族）のように使われます。
+
+**low** は比較変化と慣用句が定番です。比較級 **lower**（より低い）・最上級 **lowest**（最も低い）に加え、**lay low**（目立たないようにする）・**keep a low profile**（控えめにする）という慣用句もよく使われます。
+
+### よくある誤用
+
+⚠️ \`She studies low at university.\` は誤りです。学問の「法律」は **law**（She studies law at university.）。
+
+⚠️ \`The lawest price\` も誤りです。low の最上級は **lowest**（law に最上級形はありません）。
+
+🎯 リスニングの要点：**/oʊ/「オウ」（low）**と**/ɔː/「オー」（law）**の母音差。lawyer（弁護士）/lower（より低い）の聞き分けも同じ対立です。
+
+📖 慣用句 **the law of the land**（国の法律・慣習）は、その国で広く通用しているルールを指すときによく使われます。**low** の複合語 **lowland**（低地）も、地形の話でよく登場します。`,keyPoints:[`low /loʊ/＝低い・少ない、law /lɔː/＝法・法律（同音異義語ではない）`,`混同の理由：-owグループ(low/know/show)は/oʊ/、-awグループ(law/raw/paw)は/ɔː/と綴りで音が揃う`,`law系の複合語＝lawyer/law-abiding/outlaw/in-law`,`lowの慣用句＝lay low/keep a low profile`],quiz:[{id:`q-low-1`,question:`「法・法律」という意味の語はどれですか。`,options:[`low`,`lawn`,`load`,`law`],correctAnswer:3,explanation:`law /lɔː/ が「法・法律」。low は「低い」です。`},{id:`q-low-2`,question:`空所に入る適切な語はどれですか。「The temperature is very ( ) today.（今日は気温がとても低い）」`,options:[`law`,`lawn`,`low`,`law`],correctAnswer:2,explanation:`「低い」は low（/loʊ/）。`},{id:`q-low-3`,question:`low と law を分けている音の違いはどれですか。`,options:[`子音 /l/ と /r/`,`母音 /oʊ/ と /ɔː/`,`語尾の子音`,`アクセント`],correctAnswer:1,explanation:`low は /oʊ/、law は /ɔː/ の母音対立です。`},{id:`q-low-4`,question:`空所に入る適切な語はどれですか。「He decided to ( ) after the scandal.（彼はスキャンダルの後、目立たないようにすることにした）」`,options:[`law low`,`lay law`,`lay low`,`low law`],correctAnswer:2,explanation:`「目立たないようにする」はlay low という慣用句です。`},{id:`q-low-5`,question:`/ɔː/（口を開く「オー」）の母音を持つのはどちらですか。`,options:[`low`,`law`,`どちらも`,`どちらも違う`],correctAnswer:1,explanation:`law が /lɔː/。low は /loʊ/（二重母音）です。`}]},{id:`raw-row`,title:`raw と row`,chapter:4,description:`母音 /ɔː/ と /oʊ/ の違い。raw /rɔː/「生の・未加工の」、row /roʊ/「列／（舟を）漕ぐ」。`,content:`## 音のちがいで見分ける
 
 子音は同じ r-。違うのは**母音 /ɔː/ と /oʊ/** です。
 
@@ -1226,14 +1258,30 @@ hear は前置詞と組むと意味が変わります。混同しやすいので
 **meat と meet は同じ発音 /miːt/（同音異義語）**。意味とスペルで決めます。
 
 - **meat** … /miːt/ 名詞「**（食用の）肉**」。
-- **meet** … /miːt/ 動詞「**会う・出会う・満たす**」。meet-met-met。
+- **meet** … /miːt/ 動詞「**会う・出会う・満たす**」。meet-met-met。名詞では「（陸上・水泳の）競技会」の意味もあります。
 
 | 語 | 発音 | 品詞・中心の意味 | 例文 |
 | --- | --- | --- | --- |
 | m**ea**t | /miːt/ | 名詞：肉 | I don't eat **meat**.（私は肉を食べない） |
 | m**ee**t | /miːt/ | 動詞：会う | Let's **meet** at noon.（正午に会おう） |
 
-🎯 覚え方：**meet は ee（目と目）で「会う」**、食べる肉は meat（eat が入る）。「肉を食べる（eat meat）」の meat には eat が隠れています。`,keyPoints:[`meat と meet は同音 /miːt/`,`meat＝名詞「肉」（中に eat）`,`meet＝動詞「会う」（meet-met-met）`],quiz:[{id:`q-meat-1`,question:`空所に入る適切な語はどれですか。「Nice to ( ) you.（はじめまして）」`,options:[`meat`,`met`,`meet`,`meets`],correctAnswer:2,explanation:`「会う」は動詞 meet です。`},{id:`q-meat-2`,question:`「（食用の）肉」という意味の語はどれですか。`,options:[`meat`,`meet`,`met`,`meaty`],correctAnswer:0,explanation:`名詞「肉」は meat /miːt/ です。`},{id:`q-meat-3`,question:`meat と meet の発音の関係はどれですか。`,options:[`母音が違う`,`子音が違う`,`同じ発音（同音異義語）`,`アクセントが違う`],correctAnswer:2,explanation:`どちらも /miːt/ で同音異義語です。`},{id:`q-meat-4`,question:`空所に入る適切な語はどれですか。「We ( ) our old friends last night.（昨夜、旧友に会った）」`,options:[`meat`,`meats`,`meating`,`met`],correctAnswer:3,explanation:`meet の過去形 met「会った」です。`},{id:`q-meat-5`,question:`空所に入る適切な語はどれですか。「This dish is made without ( ).（この料理は肉を使わずに作られている）」`,options:[`meat`,`meet`,`met`,`meets`],correctAnswer:0,explanation:`食べ物の「肉」は meat です。`}]},{id:`diary-dairy`,title:`diary と dairy`,chapter:1,description:`ai と ir が入れ替わる。diary /ˈdaɪəri/「日記」、dairy /ˈdɛəri/「乳製品・酪農」。発音も別。`,content:`## 綴りの順番と発音で見分ける
+### meet の広い使い方
+
+meet は「会う」以外に「（条件・基準を）**満たす**」という意味でもよく使われます。**meet the deadline**（締め切りに間に合う）、**meet the requirements**（要件を満たす）、**meet halfway**（歩み寄る）が定番です。また名詞として **a track meet**（陸上競技会）のように「競技会」の意味でも使われます。
+
+### meat の慣用表現
+
+meat には比喩的な用法もあります。**the meat of the matter**（話の核心・要点）は「肉＝実質的な中身」から来た表現です。食の分類では **red meat**（牛肉・羊肉など）と **white meat**（鶏肉・魚肉など）の対比もよく使われます。
+
+### よくある誤用
+
+⚠️ \`Nice to meat you.\` は誤りです。「会う」は動詞の **meet**（Nice to meet you.）。
+
+⚠️ \`This dish is made without meet.\` も誤りです。食べ物の「肉」は **meat**。
+
+🎯 覚え方：**meet は ee（目と目）で「会う」**、食べる肉は meat（eat が入る）。「肉を食べる（eat meat）」の meat には eat が隠れています。
+
+📖 家計の話でよく出る慣用句 **make ends meet**（収支を合わせる・なんとかやりくりする）も、この meet を使った定型表現です。形容詞 **meaty**（肉厚な・食べ応えがある）は、比喩的に「**内容が濃い**」（a meaty report＝内容の濃い報告書）の意味でも使われます。`,keyPoints:[`meat と meet は同音 /miːt/`,`meat＝名詞「肉」（中にeat）。the meat of the matter（話の核心）`,`meet＝動詞「会う」（meet-met-met）。meet the deadline/meet halfwayなど「満たす」の意味も`,`meetは名詞でa track meet（競技会）の意味もある`],quiz:[{id:`q-meat-1`,question:`空所に入る適切な語はどれですか。「Nice to ( ) you.（はじめまして）」`,options:[`meat`,`met`,`meet`,`meets`],correctAnswer:2,explanation:`「会う」は動詞 meet です。`},{id:`q-meat-2`,question:`「（食用の）肉」という意味の語はどれですか。`,options:[`meat`,`meet`,`met`,`meaty`],correctAnswer:0,explanation:`名詞「肉」は meat /miːt/ です。`},{id:`q-meat-3`,question:`meat と meet の発音の関係はどれですか。`,options:[`母音が違う`,`子音が違う`,`同じ発音（同音異義語）`,`アクセントが違う`],correctAnswer:2,explanation:`どちらも /miːt/ で同音異義語です。`},{id:`q-meat-4`,question:`空所に入る適切な語はどれですか。「We need to ( ) the deadline for this project.（このプロジェクトの締め切りに間に合わせる必要がある）」`,options:[`meat`,`meet`,`met`,`meeting`],correctAnswer:1,explanation:`「締め切りに間に合う」はmeet the deadline。meetには「満たす」の意味もあります。`},{id:`q-meat-5`,question:`空所に入る適切な語はどれですか。「This dish is made without ( ).（この料理は肉を使わずに作られている）」`,options:[`meat`,`meet`,`met`,`meets`],correctAnswer:0,explanation:`食べ物の「肉」は meat です。`}]},{id:`diary-dairy`,title:`diary と dairy`,chapter:1,description:`ai と ir が入れ替わる。diary /ˈdaɪəri/「日記」、dairy /ˈdɛəri/「乳製品・酪農」。発音も別。`,content:`## 綴りの順番と発音で見分ける
 
 **中ほどの ai（diary）と ir（dairy）** が入れ替わり、打ち間違いが非常に多い語です。発音も違います。
 
@@ -1452,14 +1500,30 @@ study は「勉強する」という**過程**、learn は「身につく」と�
 **son と sun は同じ発音 /sʌn/（同音異義語）**。意味とスペルで決めます。
 
 - **son** … /sʌn/ 名詞「**息子**」。反対は daughter（娘）。
-- **sun** … /sʌn/ 名詞「**太陽**」。
+- **sun** … /sʌn/ 名詞「**太陽**」。天文の文脈では the Sun と大文字にすることもあります。
 
 | 語 | 発音 | 中心の意味 | 例文 |
 | --- | --- | --- | --- |
 | s**o**n | /sʌn/ | 息子 | Their **son** is ten years old.（彼らの息子は10歳だ） |
 | s**u**n | /sʌn/ | 太陽 | The **sun** rises in the east.（太陽は東から昇る） |
 
-🎯 覚え方：**sun は u で「太陽（空の光）」、son は o で「息子（家族）」**。家族の話なら son、空・天気の話なら sun。`,keyPoints:[`son と sun は同音 /sʌn/`,`son＝息子（反対は daughter）`,`sun＝太陽`],quiz:[{id:`q-son-1`,question:`空所に入る適切な語はどれですか。「The ( ) was too bright to look at.（太陽はまぶしすぎて見られなかった）」`,options:[`son`,`sons`,`sun`,`suns`],correctAnswer:2,explanation:`空の「太陽」は sun です。`},{id:`q-son-2`,question:`「息子」という意味の語はどれですか。`,options:[`son`,`sun`,`sen`,`sin`],correctAnswer:0,explanation:`「息子」は son /sʌn/ です。`},{id:`q-son-3`,question:`son と sun の発音の関係はどれですか。`,options:[`母音が違う`,`子音が違う`,`同じ発音（同音異義語）`,`アクセントが違う`],correctAnswer:2,explanation:`どちらも /sʌn/ で同音異義語です。`},{id:`q-son-4`,question:`空所に入る適切な語はどれですか。「They have two daughters and one ( ).（娘2人と息子1人がいる）」`,options:[`son`,`sun`,`suns`,`sen`],correctAnswer:0,explanation:`daughter（娘）と対の「息子」は son です。`},{id:`q-son-5`,question:`空所に入る適切な語はどれですか。「We sat in the ( ) at the beach.（浜辺で日なたに座った）」`,options:[`son`,`sons`,`sun`,`sen`],correctAnswer:2,explanation:`「太陽・日なた」は sun です。`}]},{id:`pair-pear`,title:`pair と pear`,chapter:4,description:`同音 /pɛər/。pair「一対・二つで一組」、pear「洋なし」。意味とスペルで判断する同音異義語。`,content:`## 音は同じ、意味とスペルで見分ける
+### 複合語・慣用表現で広げる
+
+**son** は家族関係の複合語をよく作ります。**son-in-law**（義理の息子・娘婿）、**grandson**（孫息子）、**stepson**（継子）のように、-in-law や step- と組み合わさる形が定番です。
+
+**sun** は自然現象の複合語が豊富です。**sunrise**（日の出）・**sunset**（日没）・**sunbathe**（日光浴する）・**sunburn**（日焼け＝赤くなる）・**suntan**（日焼け＝小麦色）と、動詞・名詞どちらの形でも使われます。慣用句では **make hay while the sun shines**（好機を逃さず行動する）、**everything under the sun**（ありとあらゆること）が定番です。
+
+📖 曜日の Sunday は「太陽の日」（sun + day）が語源です。sun とのつながりで覚えると忘れにくくなります。
+
+### よくある誤用
+
+⚠️ \`My sun works at a bank.\` は誤りです。家族の「息子」は **son**（My son works at a bank.）。
+
+⚠️ 発音上は区別できないため、聞き取りでは**文脈**が頼りです。家族・世代の話なら son、天気・時間帯の話なら sun と判断します。
+
+🎯 覚え方：**sun は u で「太陽（空の光）」、son は o で「息子（家族）」**。家族の話なら son、空・天気の話なら sun。
+
+📖 聖書に由来する **the prodigal son**（放蕩息子）は、家を出て放蕩の末に戻ってきた人を指す慣用的な表現として、ニュースや文学でも比喩的に使われます。似た音の語に **sun** の派生形容詞 **sunny**（日当たりのよい・陽気な）もあり、性格を形容する a sunny personality（明るい性格）という使い方もよく見られます。`,keyPoints:[`son と sun は同音 /sʌn/`,`son＝息子（反対はdaughter）。複合語はson-in-law/grandson/stepson`,`sun＝太陽。sunrise/sunset/sunbathe等の複合語・make hay while the sun shines`,`Sundayの語源はsun+day（太陽の日）`],quiz:[{id:`q-son-1`,question:`空所に入る適切な語はどれですか。「The ( ) was too bright to look at.（太陽はまぶしすぎて見られなかった）」`,options:[`son`,`sons`,`sun`,`suns`],correctAnswer:2,explanation:`空の「太陽」は sun です。`},{id:`q-son-2`,question:`「息子」という意味の語はどれですか。`,options:[`son`,`sun`,`sen`,`sin`],correctAnswer:0,explanation:`「息子」は son /sʌn/ です。`},{id:`q-son-3`,question:`son と sun の発音の関係はどれですか。`,options:[`母音が違う`,`子音が違う`,`同じ発音（同音異義語）`,`アクセントが違う`],correctAnswer:2,explanation:`どちらも /sʌn/ で同音異義語です。`},{id:`q-son-4`,question:`空所に入る適切な語はどれですか。「My grandmother's ( ) always visit her on Sundays.（祖母の孫息子たちは毎週日曜に訪ねてくる）」`,options:[`grandsons`,`grandsuns`,`sons-in-law`,`suns`],correctAnswer:0,explanation:`「孫息子」はgrandson。sonの複合語なのでgrandsonsとなり、grandsunsという綴りはありません。`},{id:`q-son-5`,question:`空所に入る適切な語はどれですか。「We sat in the ( ) at the beach.（浜辺で日なたに座った）」`,options:[`son`,`sons`,`sun`,`sen`],correctAnswer:2,explanation:`「太陽・日なた」は sun です。`}]},{id:`pair-pear`,title:`pair と pear`,chapter:4,description:`同音 /pɛər/。pair「一対・二つで一組」、pear「洋なし」。意味とスペルで判断する同音異義語。`,content:`## 音は同じ、意味とスペルで見分ける
 
 **pair と pear は同じ発音 /pɛər/（同音異義語）**。意味とスペルで決めます。
 
@@ -1591,7 +1655,23 @@ belief/believe と同じく、**-f（relief）が名詞、-ve（relieve）が動
 | s**ea** | /siː/ | 名詞：海 | We swam in the **sea**.（私たちは海で泳いだ） |
 | s**ee** | /siː/ | 動詞：見る・分かる | I can **see** the mountains from here.（ここから山が見える） |
 
-🎯 覚え方：**see は ee（二つの目）で「見る」**。海は sea（ea）。動作「見る・分かる」なら see、水の「海」なら sea。`,keyPoints:[`sea と see は同音 /siː/`,`sea＝名詞「海」`,`see＝動詞「見る・分かる・会う」（ee＝二つの目）`],quiz:[{id:`q-sea-1`,question:`空所に入る適切な語はどれですか。「Can you ( ) the ship on the horizon?（水平線に船が見える？）」`,options:[`sea`,`see`,`seas`,`sees`],correctAnswer:1,explanation:`動詞「見える」は see です。`},{id:`q-sea-2`,question:`「海」という意味の語はどれですか。`,options:[`see`,`sees`,`sea`,`seen`],correctAnswer:2,explanation:`名詞「海」は sea /siː/ です。`},{id:`q-sea-3`,question:`sea と see の発音の関係はどれですか。`,options:[`母音が違う`,`子音が違う`,`同じ発音（同音異義語）`,`アクセントが違う`],correctAnswer:2,explanation:`どちらも /siː/ で同音異義語です。`},{id:`q-sea-4`,question:`空所に入る適切な語はどれですか。「The house has a beautiful ( ) view.（その家は美しい海の眺めがある）」`,options:[`see`,`sees`,`sea`,`seen`],correctAnswer:2,explanation:`「海（の眺め）」は sea view です。`},{id:`q-sea-5`,question:`「見る・分かる・会う」を意味する動詞はどちらですか。`,options:[`sea`,`see`,`どちらも`,`どちらも違う`],correctAnswer:1,explanation:`動詞は see。sea は「海」です。`}]},{id:`know-no`,title:`know と no`,chapter:4,description:`同音 /noʊ/。know「知る・知っている」（動詞・k は無音）、no「いいえ・一つも〜ない」。意味とスペルで判断。`,content:`## 音は同じ、意味とスペルで見分ける
+### sea の慣用表現で広げる
+
+sea は比喩表現でもよく使われます。**at sea**（途方に暮れて・混乱して＝本来「海上で」から転じた意味）、**sea level**（海抜）、**the high seas**（公海）のように、地理的な意味と比喩的な意味の両方を持ちます。
+
+### see の句動詞で広げる
+
+see は句動詞のバリエーションが豊富です。**see through** ~（〜を見抜く）、**see off**（見送る）、**see to** ~（〜を取り計らう）のように前置詞・副詞と組み合わせて意味が広がります。また I see. は「見える」ではなく「**なるほど・分かりました**」という相づちとして日常会話で非常によく使われます。
+
+### よくある誤用
+
+⚠️ \`I can see fish swimming in the see.\` は誤りです。水の「海」は名詞の **sea**（I can see fish swimming in the sea.）。
+
+⚠️ \`Let's sea a movie tonight.\` も誤りです。「見る」は動詞の **see**（Let's see a movie tonight.）。
+
+🎯 覚え方：**see は ee（二つの目）で「見る」**。海は sea（ea）。動作「見る・分かる」なら see、水の「海」なら sea。
+
+📖 恋愛の慰めの言葉としてよく使われる **"There are plenty more fish in the sea."**（海には他にもたくさん魚がいる＝出会いは他にもある）も、sea を使った有名な慣用句です。複合語 **seasick**（船酔いした）も、sea と結びついてよく使われる語です。`,keyPoints:[`sea と see は同音 /siː/`,`sea＝名詞「海」。at sea（途方に暮れて）/ sea level / the high seas`,`see＝動詞「見る・分かる」。see through/see off/see toなど句動詞が豊富`,`I see.は「見える」でなく「なるほど・分かりました」の相づち`],quiz:[{id:`q-sea-1`,question:`空所に入る適切な語はどれですか。「Can you ( ) the ship on the horizon?（水平線に船が見える？）」`,options:[`sea`,`see`,`seas`,`sees`],correctAnswer:1,explanation:`動詞「見える」は see です。`},{id:`q-sea-2`,question:`「海」という意味の語はどれですか。`,options:[`see`,`sees`,`sea`,`seen`],correctAnswer:2,explanation:`名詞「海」は sea /siː/ です。`},{id:`q-sea-3`,question:`sea と see の発音の関係はどれですか。`,options:[`母音が違う`,`子音が違う`,`同じ発音（同音異義語）`,`アクセントが違う`],correctAnswer:2,explanation:`どちらも /siː/ で同音異義語です。`},{id:`q-sea-4`,question:`空所に入る適切な語句はどれですか。「After the sudden news, everyone was ( ).（突然の知らせに、みんな途方に暮れていた）」`,options:[`at sea`,`at see`,`in sea`,`on sea`],correctAnswer:0,explanation:`「途方に暮れて」はat seaという慣用表現です。`},{id:`q-sea-5`,question:`「見る・分かる・会う」を意味する動詞はどちらですか。`,options:[`sea`,`see`,`どちらも`,`どちらも違う`],correctAnswer:1,explanation:`動詞は see。sea は「海」です。`}]},{id:`know-no`,title:`know と no`,chapter:4,description:`同音 /noʊ/。know「知る・知っている」（動詞・k は無音）、no「いいえ・一つも〜ない」。意味とスペルで判断。`,content:`## 音は同じ、意味とスペルで見分ける
 
 **know と no は同じ発音 /noʊ/（同音異義語）**。know の **k は発音しません**。
 
@@ -1715,7 +1795,23 @@ belief/believe と同じく、**-f（relief）が名詞、-ve（relieve）が動
 | h**ere** | /hɪər/ | 副詞：ここに | Come **here**, please.（こっちへ来て） |
 | h**ear** | /hɪər/ | 動詞：聞く | I can't **hear** you well.（よく聞こえない） |
 
-🎯 覚え方：**hear には ear（耳）が入っていて「聞く」**。場所の「ここ」は here。耳で「聞く」なら hear。`,keyPoints:[`here と hear は同音 /hɪər/`,`here＝副詞「ここに」（反対は there）`,`hear＝動詞「聞く」（中に ear＝耳）`],quiz:[{id:`q-here-1`,question:`空所に入る適切な語はどれですか。「Did you ( ) that noise?（あの音が聞こえた？）」`,options:[`here`,`heard'`,`hears`,`hear`],correctAnswer:3,explanation:`動詞「聞く・聞こえる」は hear です。`},{id:`q-here-2`,question:`「ここに・ここへ」という意味の語はどれですか。`,options:[`hear`,`hair`,`here`,`heir`],correctAnswer:2,explanation:`場所の「ここに」は here /hɪər/ です。`},{id:`q-here-3`,question:`ear（耳）を含み「聞く」を意味するのはどちらですか。`,options:[`here`,`hear`,`どちらも`,`どちらも違う`],correctAnswer:1,explanation:`hear に ear が入っています。here は「ここに」です。`},{id:`q-here-4`,question:`空所に入る適切な語はどれですか。「Please sign ( ) on the form.（用紙のここに署名して）」`,options:[`hear`,`hair`,`here`,`heir`],correctAnswer:2,explanation:`場所「ここに」は here です。`},{id:`q-here-5`,question:`here と hear の発音の関係はどれですか。`,options:[`母音が違う`,`子音が違う`,`同じ発音（同音異義語）`,`アクセントが違う`],correctAnswer:2,explanation:`どちらも /hɪər/ で同音異義語です。`}]},{id:`one-won`,title:`one と won`,chapter:4,description:`同音 /wʌn/。one「1・一つ」、won「win の過去・過去分詞（勝った）」。意味とスペルで判断。`,content:`## 音は同じ、意味とスペルで見分ける
+### here の慣用表現
+
+here は決まり文句が豊富です。**here and there**（あちこちに）、**out of here**（ここから出て行く＝Let's get out of here.）、**neither here nor there**（本題と関係ない・重要でない）が定番です。
+
+### hear の慣用表現
+
+hear には「聞く」の他に、議論の場での掛け声として **"Hear, hear!"**（そのとおり！＝賛同を示す）という決まった使い方があります。また名詞 **hearsay**（伝聞・うわさ）は hear + say から生まれた語で、法律の文脈で「伝聞証拠」の意味でもよく使われます。
+
+### よくある誤用
+
+⚠️ \`Come hear, please.\` は誤りです。場所を表す副詞は **here**（Come here, please.）。
+
+⚠️ \`I can't here you well.\` も誤りです。「聞こえる」は動詞の **hear**。here には ear（耳）が入っていないので、hear と here を音の記憶で混同しないよう注意します。
+
+🎯 覚え方：**hear には ear（耳）が入っていて「聞く」**。場所の「ここ」は here。耳で「聞く」なら hear。
+
+📖 くだけた言い方 **hear something through the grapevine**（うわさ・小耳に挟んだ話で聞く）は、情報源をぼかして「人づてに聞いた」と言うときの定番の慣用句です。不満がたまったときの **"I'm up to here with this."**（もううんざりだ）という決まり文句の here も、この場所を表す here です。`,keyPoints:[`here と hear は同音 /hɪər/`,`here＝副詞「ここに」。here and there/neither here nor thereなど熟語`,`hear＝動詞「聞く」（中にear＝耳）。Hear, hear!（そのとおり！）／hearsay（伝聞）`,`here には ear が入っていない点に注意（hear と綴りで混同しない）`],quiz:[{id:`q-here-1`,question:`空所に入る適切な語はどれですか。「Did you ( ) that noise?（あの音が聞こえた？）」`,options:[`here`,`heard'`,`hears`,`hear`],correctAnswer:3,explanation:`動詞「聞く・聞こえる」は hear です。`},{id:`q-here-2`,question:`「ここに・ここへ」という意味の語はどれですか。`,options:[`hear`,`hair`,`here`,`heir`],correctAnswer:2,explanation:`場所の「ここに」は here /hɪər/ です。`},{id:`q-here-3`,question:`ear（耳）を含み「聞く」を意味するのはどちらですか。`,options:[`here`,`hear`,`どちらも`,`どちらも違う`],correctAnswer:1,explanation:`hear に ear が入っています。here は「ここに」です。`},{id:`q-here-4`,question:`空所に入る適切な語はどれですか。「"( ), hear! I completely agree," she said.（「そのとおり！全く同感です」と彼女は言った）」`,options:[`Here`,`Hear`,`Ear`,`Here's`],correctAnswer:1,explanation:`議論での賛同の掛け声は"Hear, hear!"です。`},{id:`q-here-5`,question:`here と hear の発音の関係はどれですか。`,options:[`母音が違う`,`子音が違う`,`同じ発音（同音異義語）`,`アクセントが違う`],correctAnswer:2,explanation:`どちらも /hɪər/ で同音異義語です。`}]},{id:`one-won`,title:`one と won`,chapter:4,description:`同音 /wʌn/。one「1・一つ」、won「win の過去・過去分詞（勝った）」。意味とスペルで判断。`,content:`## 音は同じ、意味とスペルで見分ける
 
 **one と won は同じ発音 /wʌn/（同音異義語）**。意味で決めます（one の発音は「ワン」で w の音）。
 
@@ -2302,7 +2398,23 @@ belief/believe と同じく、**-f（relief）が名詞、-ve（relieve）が動
 | ate | /eɪt/ | eat の過去：食べた | We **ate** dinner at seven.（7時に夕食を食べた） |
 | **eigh**t | /eɪt/ | 数：8 | There are **eight** players.（選手が8人いる） |
 
-🎯 覚え方：**数の「8」は eight（-eight の綴り）**、eat の過去「食べた」は ate。数なら eight、食べたなら ate。`,keyPoints:[`ate と eight は同音 /eɪt/`,`ate＝eat の過去「食べた」（eat-ate-eaten）`,`eight＝数「8」`],quiz:[{id:`q-ate-1`,question:`空所に入る適切な語はどれですか。「The train leaves at ( ) o'clock.（電車は8時に出る）」`,options:[`ate`,`ates`,`eighth`,`eight`],correctAnswer:3,explanation:`数の「8」は eight です。`},{id:`q-ate-2`,question:`eat の過去形「食べた」を表す語はどれですか。`,options:[`eight`,`eaten`,`ate`,`eights`],correctAnswer:2,explanation:`eat の過去は ate です。`},{id:`q-ate-3`,question:`ate と eight の発音の関係はどれですか。`,options:[`母音が違う`,`子音が違う`,`同じ発音（同音異義語）`,`アクセントが違う`],correctAnswer:2,explanation:`どちらも /eɪt/ で同音異義語です。`},{id:`q-ate-4`,question:`空所に入る適切な語はどれですか。「She ( ) an apple for breakfast.（彼女は朝食にリンゴを食べた）」`,options:[`eight`,`eaten`,`ate`,`eights`],correctAnswer:2,explanation:`「食べた」は eat の過去 ate です。`},{id:`q-ate-5`,question:`数字の「8」を意味するのはどちらですか。`,options:[`ate`,`eight`,`どちらも`,`どちらも違う`],correctAnswer:1,explanation:`「8」は eight。ate は「食べた」です。`}]},{id:`higher-hire`,title:`higher と hire`,chapter:4,description:`同音 /ˈhaɪər/。higher「より高い」（high の比較級）、hire「雇う・借りる」（動詞）。意味とスペルで判断。`,content:`## 音は同じ、意味とスペルで見分ける
+### eight の派生語で広げる
+
+eight から派生する数詞は綴りの変化に注意が必要です。序数は **eighth**（8番目）、10の位は **eighty**（80）、十代の数は **eighteen**（18）となり、いずれも eight の綴りをそのまま含みます。
+
+### 覚えやすい言葉遊び
+
+英語には ate と eight の同音を使った有名な言葉遊びがあります。**"Why was six afraid of seven? Because seven ate nine."**（なぜ6は7を怖がったの？7が9を「食べた（ate＝eight）」から）という定番のなぞなぞで、数字の eight と動詞 ate の同音を利用した駄洒落です。声に出して読むと発音の一致が体感できます。
+
+### よくある誤用
+
+⚠️ \`The train leaves at ate o'clock.\` は誤りです。数字の「8」は **eight**（The train leaves at eight o'clock.）。
+
+⚠️ \`She eight an apple for breakfast.\` も誤りです。「食べた」は eat の過去 **ate**。
+
+🎯 覚え方：**数の「8」は eight（-eight の綴り）**、eat の過去「食べた」は ate。数なら eight、食べたなら ate。
+
+📖 ビリヤードに由来する慣用句 **behind the eight ball**（苦しい立場に置かれて）も、数字の eight を使った定番の言い回しです。フィギュアスケートやスキーの技として知られる **a figure eight**（8の字）も、数字の eight から来た表現です。`,keyPoints:[`ate と eight は同音 /eɪt/`,`ate＝eatの過去「食べた」（eat-ate-eaten）`,`eight＝数「8」。派生語はeighth/eighty/eighteen`,`有名な言葉遊び：Why was six afraid of seven? Because seven ate nine.`],quiz:[{id:`q-ate-1`,question:`空所に入る適切な語はどれですか。「The train leaves at ( ) o'clock.（電車は8時に出る）」`,options:[`ate`,`ates`,`eighth`,`eight`],correctAnswer:3,explanation:`数の「8」は eight です。`},{id:`q-ate-2`,question:`eat の過去形「食べた」を表す語はどれですか。`,options:[`eight`,`eaten`,`ate`,`eights`],correctAnswer:2,explanation:`eat の過去は ate です。`},{id:`q-ate-3`,question:`ate と eight の発音の関係はどれですか。`,options:[`母音が違う`,`子音が違う`,`同じ発音（同音異義語）`,`アクセントが違う`],correctAnswer:2,explanation:`どちらも /eɪt/ で同音異義語です。`},{id:`q-ate-4`,question:`空所に入る適切な語はどれですか。「This is the ( ) time I've told you the same thing.（これで同じことを言うのは8回目だ）」`,options:[`ate`,`eight`,`eighth`,`eighty`],correctAnswer:2,explanation:`「8番目の」は序数のeighth。timeを修飾するので序数形が必要です。`},{id:`q-ate-5`,question:`数字の「8」を意味するのはどちらですか。`,options:[`ate`,`eight`,`どちらも`,`どちらも違う`],correctAnswer:1,explanation:`「8」は eight。ate は「食べた」です。`}]},{id:`higher-hire`,title:`higher と hire`,chapter:4,description:`同音 /ˈhaɪər/。higher「より高い」（high の比較級）、hire「雇う・借りる」（動詞）。意味とスペルで判断。`,content:`## 音は同じ、意味とスペルで見分ける
 
 **higher と hire はほぼ同じ発音 /ˈhaɪər/**。意味と品詞で決めます（higher の gh は無音）。
 
@@ -2849,7 +2961,23 @@ belief/believe と同じく、**-f（relief）が名詞、-ve（relieve）が動
 | in | /ɪn/ | 前置詞：〜の中に | The keys are **in** the drawer.（鍵は引き出しの中だ） |
 | in**n** | /ɪn/ | 名詞：宿屋 | We stayed at a cozy **inn**.（居心地のよい宿に泊まった） |
 
-🎯 覚え方：**位置の「中に」は in、泊まる「宿屋」は inn（n がふたつ）**。前置詞なら in、宿泊施設なら inn。`,keyPoints:[`in と inn は同音 /ɪn/`,`in＝前置詞「〜の中に・〜に」`,`inn＝名詞「宿屋・旅籠」（n がふたつ）`],quiz:[{id:`q-in-1`,question:`空所に入る適切な語はどれですか。「They spent the night at a country ( ).（彼らは田舎の宿で一泊した）」`,options:[`inn`,`in`,`ins`,`inns'`],correctAnswer:0,explanation:`宿泊施設の「宿屋」は inn（n ふたつ）です。`},{id:`q-in-2`,question:`「〜の中に・〜に」を表す前置詞はどれですか。`,options:[`inn`,`inns`,`in`,`inning`],correctAnswer:2,explanation:`前置詞「〜の中に」は in です。`},{id:`q-in-3`,question:`in と inn の発音の関係はどれですか。`,options:[`母音が違う`,`子音が違う`,`同じ発音（同音異義語）`,`アクセントが違う`],correctAnswer:2,explanation:`どちらも /ɪn/ で同音異義語です。`},{id:`q-in-4`,question:`空所に入る適切な語はどれですか。「There is milk ( ) the fridge.（冷蔵庫の中に牛乳がある）」`,options:[`inn`,`inns`,`in`,`inning`],correctAnswer:2,explanation:`位置「〜の中に」は前置詞 in です。`},{id:`q-in-5`,question:`n がふたつで「宿屋」を意味するのはどちらですか。`,options:[`inn`,`in`,`どちらも`,`どちらも違う`],correctAnswer:0,explanation:`inn（n ふたつ）＝宿屋。in は前置詞です。`}]},{id:`hangar-hanger`,title:`hangar と hanger`,chapter:4,description:`同音 /ˈhæŋər/。hangar「格納庫（飛行機の）」、hanger「ハンガー（衣類掛け）」。意味とスペルで判断。`,content:`## 音は同じ、意味とスペルで見分ける
+### in の慣用表現で広げる
+
+in は前置詞以外に、熟語の中でも幅広く使われます。**in time**（間に合って）、**in fact**（実は）、**in general**（一般に）、**the ins and outs**（詳しい事情・仕組み）のように、単独の意味を離れた定型表現が多い語です。形容詞的に「**the in thing**」（今流行っているもの）という口語表現もあります。
+
+### inn の実例で広げる
+
+inn は現代の大型ホテルではなく、**昔ながらの小さな宿・旅の宿**を指す語です。複合語では **innkeeper**（宿の主人）、**motor inn**（自動車旅行者向けの簡易宿）があります。イギリスの地名やパブの名前に "The King's Head Inn" のように **Inn** が付くのもよく見られ、歴史の古さを感じさせる語感を持っています。
+
+### よくある誤用
+
+⚠️ \`We stayed at a cozy in.\` は誤りです。宿泊施設は n がふたつの **inn**（We stayed at a cozy inn.）。
+
+⚠️ \`The keys are inn the drawer.\` も誤りです。位置を表す前置詞は n がひとつの **in**。
+
+🎯 覚え方：**位置の「中に」は in、泊まる「宿屋」は inn（n がふたつ）**。前置詞なら in、宿泊施設なら inn。
+
+📖 ロンドンには弁護士の養成・登録を担う伝統ある組織 **the Inns of Court**（法曹院）があり、Inn という語が正式な組織名にまで使われている例として知られています。ホテルへの到着・出発を表す **check in**（チェックインする）の in も、この前置詞・副詞の in と同じ語です。`,keyPoints:[`in と inn は同音 /ɪn/`,`in＝前置詞「〜の中に」。in time/in fact/in generalなど熟語が豊富`,`inn＝名詞「宿屋」（nがふたつ）。innkeeper/motor innなど昔ながらの宿を指す`,`地名やパブ名にInnが付くのは歴史ある宿の語感`],quiz:[{id:`q-in-1`,question:`空所に入る適切な語はどれですか。「They spent the night at a country ( ).（彼らは田舎の宿で一泊した）」`,options:[`inn`,`in`,`ins`,`inns'`],correctAnswer:0,explanation:`宿泊施設の「宿屋」は inn（n ふたつ）です。`},{id:`q-in-2`,question:`「〜の中に・〜に」を表す前置詞はどれですか。`,options:[`inn`,`inns`,`in`,`inning`],correctAnswer:2,explanation:`前置詞「〜の中に」は in です。`},{id:`q-in-3`,question:`in と inn の発音の関係はどれですか。`,options:[`母音が違う`,`子音が違う`,`同じ発音（同音異義語）`,`アクセントが違う`],correctAnswer:2,explanation:`どちらも /ɪn/ で同音異義語です。`},{id:`q-in-4`,question:`空所に入る適切な語はどれですか。「Let's talk about the ( ) and outs of the new policy.（新方針の詳しい事情を話し合おう）」`,options:[`inn`,`in`,`inns`,`inning`],correctAnswer:1,explanation:`「詳しい事情・仕組み」はthe ins and outsという熟語です。`},{id:`q-in-5`,question:`n がふたつで「宿屋」を意味するのはどちらですか。`,options:[`inn`,`in`,`どちらも`,`どちらも違う`],correctAnswer:0,explanation:`inn（n ふたつ）＝宿屋。in は前置詞です。`}]},{id:`hangar-hanger`,title:`hangar と hanger`,chapter:4,description:`同音 /ˈhæŋər/。hangar「格納庫（飛行機の）」、hanger「ハンガー（衣類掛け）」。意味とスペルで判断。`,content:`## 音は同じ、意味とスペルで見分ける
 
 **hangar と hanger は同じ発音 /ˈhæŋər/（同音異義語）**。末尾 **-ar と -er**、意味で決めます。
 
