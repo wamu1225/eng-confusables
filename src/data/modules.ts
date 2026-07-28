@@ -2762,11 +2762,28 @@ borrow と lend は**無償で、持ち運べるものを一時的に**やり取
 | fl**ow** | /floʊ/ | 流れる・流れ | The river **flows** to the sea.（川は海へ流れる） |
 | fl**aw** | /flɔː/ | 欠点・きず | The plan has a serious **flaw**.（その計画には重大な欠点がある） |
 
-🎯 リスニングの要点：**/oʊ/ は「オウ」と口をすぼめる二重母音（flow）**、**/ɔː/ は「オー」と口を開く長母音（flaw）**。品質管理の文章で flaw（欠陥）は頻出です。`,
+### flow の複合語・慣用表現
+
+flow はビジネス・IT の場でも頻出です。**cash flow**（資金繰り・キャッシュフロー）、**flow chart**（作業の流れを示す図）が定番です。慣用句 **go with the flow**（周りに合わせる・成り行きに任せる）も日常会話でよく使われます。
+
+### flaw の複合語・慣用表現
+
+flaw から派生する形容詞 **flawless**（完璧な・傷ひとつない）は、演技・宝石・肌など幅広く「欠点が無い」ことを褒める語として使われます。文学・物語論の用語 **fatal flaw**（致命的な欠点・悲劇的欠陥）は、主人公を破滅に導く性格上の欠点を指す専門用語としても使われます。
+
+### よくある誤用
+
+⚠️ \`The plan has a serious flow.\` は誤りです。「欠点」は **flaw**（The plan has a serious flaw.）。
+
+⚠️ \`Traffic flawed smoothly.\` も誤りです。「流れる」は動詞 **flow**（Traffic flowed smoothly.）。
+
+🎯 リスニングの要点：**/oʊ/ は「オウ」と口をすぼめる二重母音（flow）**、**/ɔː/ は「オー」と口を開く長母音（flaw）**。品質管理の文章で flaw（欠陥）は頻出です。
+
+📖 心理学の用語 **flow state**（フロー状態）は、作業に完全に没頭し集中しきっている心理状態を指し、心理学者チクセントミハイが提唱した概念として知られています。`,
     keyPoints: [
-      'flow /floʊ/＝流れる・流れ',
-      'flaw /flɔː/＝欠点・きず・不備',
-      '/oʊ/（オウ・二重母音）と /ɔː/（オー・長母音）の対立',
+      'flow /floʊ/＝流れる・流れ、flaw /flɔː/＝欠点・きず（同音異義語ではない）',
+      'flowの複合語＝cash flow/flow chart、慣用句go with the flow',
+      'flawの派生語＝flawless（完璧な）、文学用語fatal flaw（悲劇的欠陥）',
+      '/oʊ/（オウ）と/ɔː/（オー）の母音対立',
     ],
     quiz: [
       {
@@ -2792,10 +2809,10 @@ borrow と lend は**無償で、持ち運べるものを一時的に**やり取
       },
       {
         id: 'q-flow-4',
-        question: '空所に入る適切な語はどれですか。「Inspectors look for any ( ) in the product.（検査官は製品の欠陥を探す）」',
-        options: ['flow', 'flaw', 'flew', 'flour'],
-        correctAnswer: 1,
-        explanation: '製品の「欠陥」は flaw。品質管理の文脈で頻出です。',
+        question: '空所に入る適切な語はどれですか。「Her performance was absolutely ( ).（彼女の演技は完璧そのものだった）」',
+        options: ['flow', 'flowing', 'flaw', 'flawless'],
+        correctAnswer: 3,
+        explanation: '「完璧な・欠点のない」はflawの形容詞形flawlessです。',
       },
       {
         id: 'q-flow-5',
@@ -3019,11 +3036,28 @@ ant は複合語で昆虫の種類を表すのに使われます。**anteater**�
 | b**r**ush | /brʌʃ/ | ブラシ・磨く | **Brush** your teeth before bed.（寝る前に歯を磨いて） |
 | b**l**ush | /blʌʃ/ | 赤面する | She **blushed** when he praised her.（褒められて彼女は顔を赤らめた） |
 
-🎯 リスニングの要点：b の直後が **/r/（brush）か /l/（blush）**か。意味も「磨く」と「赤面する」で別なので、文脈でも判別できます。`,
+### brush の句動詞で広げる
+
+brush は句動詞のバリエーションが豊富です。**brush off**（軽くあしらう・取り合わない）、**brush up on** ~（〜を勉強し直す・磨き直す＝I need to brush up on my English.）が定番です。
+
+### blush の名詞用法で広げる
+
+blush は動詞だけでなく、化粧品の**チーク（頬紅）**を指す名詞としても使われます（アメリカ英語で blush、イギリス英語では blusher が一般的）。「赤面のような自然な血色を頬に足す」という発想から来た用法です。
+
+### よくある誤用
+
+⚠️ \`She brushed when he praised her.\` は誤りです。「赤面する」は **blush**（She blushed when he praised her.）。
+
+⚠️ \`I need to blush up on my English.\` も誤りです。「勉強し直す」は **brush up on**。
+
+🎯 リスニングの要点：b の直後が **/r/（brush）か /l/（blush）**か。意味も「磨く」と「赤面する」で別なので、文脈でも判別できます。
+
+📖 brush には「（危険・法などと）**一瞬関わること・かすること**」という意味の名詞用法もあり、**a brush with death**（九死に一生を得る経験）、**a brush with the law**（法との軽い接触＝ちょっとした違反）という言い方で使われます。日用品では **toothbrush**（歯ブラシ）・**hairbrush**（ヘアブラシ）・**paintbrush**（絵筆）のように、用途を表す語と組み合わさる複合語が豊富です。`,
     keyPoints: [
-      'brush /brʌʃ/＝ブラシ・磨く',
-      'blush /blʌʃ/＝赤面する',
+      'brush /brʌʃ/＝ブラシ・磨く、blush /blʌʃ/＝赤面する',
       'b の直後が /r/ か /l/ か',
+      'brushの句動詞＝brush off（軽くあしらう）/brush up on（勉強し直す）',
+      'blushは化粧品「チーク」の意味の名詞にもなる',
     ],
     quiz: [
       {
@@ -3049,10 +3083,10 @@ ant は複合語で昆虫の種類を表すのに使われます。**anteater**�
       },
       {
         id: 'q-brush-4',
-        question: '空所に入る適切な語はどれですか。「He felt his face ( ) with embarrassment.（彼は恥ずかしさで顔が赤くなるのを感じた）」',
-        options: ['brush', 'brash', 'blush', 'bash'],
-        correctAnswer: 2,
-        explanation: '「赤面する」は blush です。',
+        question: '空所に入る適切な語はどれですか。「I need to ( ) my Spanish before the trip.（旅行前にスペイン語を勉強し直す必要がある）」',
+        options: ['brush up on', 'blush up on', 'brush off', 'blush off'],
+        correctAnswer: 0,
+        explanation: '「勉強し直す・磨き直す」はbrush up on という句動詞です。',
       },
       {
         id: 'q-brush-5',
@@ -5580,11 +5614,28 @@ study は「勉強する」という**過程**、learn は「身につく」と�
 | s**ou**l | /soʊl/ | 名詞：魂 | Music touches the **soul**.（音楽は魂を揺さぶる） |
 | s**o**le | /soʊl/ | 形容詞：唯一の／名詞：靴底 | He was the **sole** survivor.（彼は唯一の生存者だった） |
 
-🎯 覚え方：**soul には “ou” があって「魂（spirit）」**。sole は「唯一の（only）」または「靴底・足の裏」。「たった一つの」は sole。`,
+### soul の複合語で広げる
+
+soul はアメリカ発の音楽ジャンル **soul music**（ソウルミュージック）としてもよく使われ、ゴスペルとリズム＆ブルースを起源とする音楽の呼び名です。慣用句 **soul mate**（心の通じ合った相手）、**bare one's soul**（心の内をさらけ出す）も定番です。
+
+### sole の複合語で広げる
+
+sole は靴の「靴底」だけでなく、食用魚の**舌平目（sole）**を指す語でもあります（フランス料理のメニューでもよく見かける名前です）。形容詞としては **sole purpose**（唯一の目的）、**sole responsibility**（単独の責任）のように使われます。
+
+### よくある誤用
+
+⚠️ \`She was the sole owner in body and soul.\` のように sole と soul を入れ替えると意味が崩れます。「唯一の」は形容詞 **sole**、「魂」は名詞 **soul**。
+
+⚠️ \`The soul of my shoe is worn out.\` は誤りです。靴の「靴底」は **sole**（The sole of my shoe is worn out.）。
+
+🎯 覚え方：**soul には “ou” があって「魂（spirit）」**。sole は「唯一の（only）」または「靴底・足の裏」。「たった一つの」は sole。
+
+📖 形容詞 **soulful**（心のこもった・感情豊かな）は、歌声や表情など「魂が感じられる」ものを表現するときに使われます。`,
     keyPoints: [
       'soul と sole は同音 /soʊl/',
-      'soul＝魂・精神・心',
-      'sole＝唯一の／足の裏・靴底',
+      'soul＝魂・精神・心。soul music/soul mate/bare one\'s soul',
+      'sole＝唯一の／足の裏・靴底。舌平目という魚の意味もある',
+      'sole purpose/sole responsibilityなど「唯一の」の複合語',
     ],
     quiz: [
       {
@@ -5610,10 +5661,10 @@ study は「勉強する」という**過程**、learn は「身につく」と�
       },
       {
         id: 'q-soul-4',
-        question: '空所に入る適切な語はどれですか。「The ( ) of my shoe is worn out.（靴底がすり減っている）」',
-        options: ['soul', 'soil', 'soul', 'sole'],
-        correctAnswer: 3,
-        explanation: '「靴底・足の裏」は sole です。',
+        question: '空所に入る適切な語はどれですか。「Grilled ( ) is a popular dish in French cuisine.（グリルした舌平目はフランス料理の人気の一品だ）」',
+        options: ['soul', 'souls', 'sole', 'soles\''],
+        correctAnswer: 2,
+        explanation: '魚の「舌平目」もsoleと言います。soulは「魂」です。',
       },
       {
         id: 'q-soul-5',
@@ -6024,11 +6075,28 @@ study は「勉強する」という**過程**、learn は「身につく」と�
 | p**ai**r | /pɛər/ | 一対・一組 | I bought a **pair** of gloves.（手袋を一組買った） |
 | p**ea**r | /pɛər/ | 洋なし | She ate a juicy **pear**.（彼女はみずみずしい洋なしを食べた） |
 
-🎯 覚え方：**pear には “ear（耳）ではなく果物”…“ea” があって食べもの＝洋なし**。二つで一組は pair（a pair of ~）。果物なら pear。`,
+### pair の使い方で広げる
+
+pair は名詞だけでなく動詞「**組にする・組み合わせる**」としても使われます。**pair up**（ペアを組む＝Let's pair up for this activity.）、ワインと料理の相性を言う **pair well with** ~（〜とよく合う）も定番です。
+
+### pear の慣用表現で広げる
+
+pear の形にちなんだイギリス英語の慣用句 **go pear-shaped**（（計画などが）うまくいかなくなる・おかしくなる）は、日常会話でよく使われる表現です。また体型の描写でも **pear-shaped**（下半身が丸みを帯びた洋なし型の体型）という言い方があります。
+
+### よくある誤用
+
+⚠️ \`I bought a pear of gloves.\` は誤りです。「一組」は **pair**（I bought a pair of gloves.）。
+
+⚠️ \`Apples and pairs are my favorite fruits.\` も誤りです。果物の「洋なし」は **pear**。
+
+🎯 覚え方：**pear には “ear（耳）ではなく果物”…“ea” があって食べもの＝洋なし**。二つで一組は pair（a pair of ~）。果物なら pear。
+
+📖 pear の仲間には **prickly pear**（ウチワサボテンの実）という植物名もあり、洋なしとは別の見た目のとげのある果実を指します。フィギュアスケートの種目 **pair skating**（ペアスケート）も、この pair（一対）から来た名称です。`,
     keyPoints: [
       'pair と pear は同音 /pɛər/',
-      'pair＝一対・二つで一組（a pair of ~）',
-      'pear＝洋なし（果物）',
+      'pair＝一対・二つで一組（a pair of ~）。動詞でpair up（ペアを組む）',
+      'pear＝洋なし（果物）。慣用句go pear-shaped（おかしくなる）',
+      'pear-shapedは体型の描写にも使われる',
     ],
     quiz: [
       {
@@ -6054,10 +6122,10 @@ study は「勉強する」という**過程**、learn は「身につく」と�
       },
       {
         id: 'q-pair-4',
-        question: '空所に入る適切な語はどれですか。「Apples and ( ) are my favorite fruits.（りんごと洋なしが好きな果物だ）」',
-        options: ['pairs', 'pairs\'', 'peers', 'pears'],
-        correctAnswer: 3,
-        explanation: '果物の「洋なし」は pear（複数 pears）です。',
+        question: '空所に入る適切な語句はどれですか。「Their vacation plans went completely ( ).（彼らの休暇の計画はすっかりおかしくなった）」',
+        options: ['pair-shaped', 'pear-shaped', 'paired', 'peared'],
+        correctAnswer: 1,
+        explanation: '「計画がおかしくなる」はgo pear-shapedという慣用句です。',
       },
       {
         id: 'q-pair-5',
@@ -6085,11 +6153,28 @@ study は「勉強する」という**過程**、learn は「身につく」と�
 | hole | /hoʊl/ | 名詞：穴 | There is a **hole** in my sock.（靴下に穴がある） |
 | **w**hole | /hoʊl/ | 形容詞：全体の | She ate the **whole** cake.（彼女はケーキを丸ごと食べた） |
 
-🎯 覚え方：**whole は先頭に w が付いて「全体（w-hole＝穴じゃなく丸ごと）」**。「穴」は hole。丸ごと・全部なら whole。`,
+### hole の複合語で広げる
+
+hole はスポーツ・科学の専門用語にも使われます。ゴルフの **hole in one**（ホールインワン）、天文学の **black hole**（ブラックホール）が代表例です。
+
+### whole の複合語で広げる
+
+whole は食品表示でもよく見かけます。**whole wheat / whole grain**（全粒粉・全粒穀物）は、精製していない穀物を指す表示です。慣用句 **as a whole**（全体として見ると）は、個々の部分でなく総体を論じるときの定番の言い回しです。
+
+### よくある誤用
+
+⚠️ \`Dig a whole to plant the tree.\` は誤りです。「穴」は **hole**（Dig a hole to plant the tree.）。
+
+⚠️ \`He spent the hole day reading.\` も誤りです。「まる一日」は **whole**（He spent the whole day reading.）。
+
+🎯 覚え方：**whole は先頭に w が付いて「全体（w-hole＝穴じゃなく丸ごと）」**。「穴」は hole。丸ごと・全部なら whole。
+
+📖 法律用語 **loophole**（抜け穴・法の抜け道）は hole を使った複合語です。形容詞 **wholesome**（健全な・健康的な）は whole から派生した語で、食べ物や娯楽が「体や心に良い」ことを表します。口語表現 **a hole-in-the-wall**（こぢんまりとした目立たない店）も、飲食店の紹介などでよく使われます。`,
     keyPoints: [
       'hole と whole は同音 /hoʊl/',
-      'hole＝名詞「穴」',
-      'whole＝形容詞「全体の・丸ごとの」（先頭に w）',
+      'hole＝名詞「穴」。hole in one（ゴルフ）/black hole（天文学）',
+      'whole＝形容詞「全体の・丸ごとの」（先頭にw）。whole wheat/as a whole',
+      '食品表示のwhole grainは精製していない穀物を指す',
     ],
     quiz: [
       {
@@ -6115,10 +6200,10 @@ study は「勉強する」という**過程**、learn は「身につく」と�
       },
       {
         id: 'q-hole-4',
-        question: '空所に入る適切な語はどれですか。「Dig a ( ) to plant the tree.（木を植えるため穴を掘って）」',
-        options: ['whole', 'hole', 'holy', 'hold'],
-        correctAnswer: 1,
-        explanation: '「穴」は hole です。',
+        question: '空所に入る適切な語はどれですか。「This bread is made with ( ) wheat flour.（このパンは全粒小麦粉で作られている）」',
+        options: ['hole', 'holes', 'whole', 'wholes'],
+        correctAnswer: 2,
+        explanation: '「全粒の」はwhole wheatという食品表示の定番表現です。',
       },
       {
         id: 'q-hole-5',
@@ -6712,11 +6797,28 @@ see は句動詞のバリエーションが豊富です。**see through** ~（�
 | **k**now | /noʊ/ | 動詞：知る | I **know** the answer.（答えを知っている） |
 | no | /noʊ/ | いいえ・〜がない | There is **no** water left.（水が一つも残っていない） |
 
-🎯 覚え方：**know は先頭の k を読まないが「知る（knowledge の仲間）」**。返事の「いいえ」や「〜がない」は no。動詞なら know。`,
+### know の複合語・慣用表現
+
+know から作られる名詞 **know-how**（ノウハウ・実践的な知識）は日本語にも定着している語です。慣用句 **in the know**（内情に通じている・事情通である）も定番です。
+
+### no の慣用表現
+
+no は返事以外に、驚きや強い否定を表す **No way!**（まさか！・とんでもない！）としてもよく使われます。また **no matter** ~（〜であろうと関係なく＝no matter what happens）は譲歩を表す定型表現です。
+
+### よくある誤用
+
+⚠️ \`Do you no her name?\` は誤りです。動詞「知る」は **know**（Do you know her name?）。
+
+⚠️ \`There are know tickets left.\` も誤りです。「一つも〜ない」は **no**。
+
+🎯 覚え方：**know は先頭の k を読まないが「知る（knowledge の仲間）」**。返事の「いいえ」や「〜がない」は no。動詞なら know。
+
+📖 やや否定的なニュアンスの名詞 **know-it-all**（知ったかぶりをする人）は、何でも知っているかのように振る舞う人を指します。反対に no を使った口語表現 **a no-brainer**（考えるまでもなく明らかなこと）は、判断に迷わない簡単な選択を表します。慣用句 **know something by heart**（〜を暗記している）も、記憶の深さを表す定番の言い回しです。`,
     keyPoints: [
-      'know と no は同音 /noʊ/（k は無音）',
-      'know＝動詞「知る・分かる」（know-knew-known）',
-      'no＝いいえ／一つも〜ない',
+      'know と no は同音 /noʊ/（kは無音）',
+      'know＝動詞「知る・分かる」（know-knew-known）。know-how/in the know',
+      'no＝いいえ／一つも〜ない。No way!/no matter ~',
+      'no matterは譲歩を表す定型表現',
     ],
     quiz: [
       {
@@ -6742,10 +6844,10 @@ see は句動詞のバリエーションが豊富です。**see through** ~（�
       },
       {
         id: 'q-know-4',
-        question: '空所に入る適切な語はどれですか。「There are ( ) tickets left.（チケットは一枚も残っていない）」',
-        options: ['know', 'known', 'knows', 'no'],
-        correctAnswer: 3,
-        explanation: '「一つも〜ない」は no です。',
+        question: '空所に入る適切な語句はどれですか。「( ) what happens, I will support you.（何が起ころうと、あなたを支えます）」',
+        options: ['No matter', 'Know matter', 'No known', 'Know how'],
+        correctAnswer: 0,
+        explanation: '「〜であろうと関係なく」はno matter ~という譲歩の定型表現です。',
       },
       {
         id: 'q-know-5',
@@ -7343,11 +7445,28 @@ hear には「聞く」の他に、議論の場での掛け声として **"Hear,
 | one | /wʌn/ | 数：1 | I have only **one** ticket.（チケットは1枚しかない） |
 | won | /wʌn/ | win の過去：勝った | Our team **won** the game.（私たちのチームは試合に勝った） |
 
-🎯 覚え方：**数の「1」は one、win の過去「勝った」は won**。過去の「勝った」なら won、数量の「一つ」なら one。`,
+### one の慣用表現で広げる
+
+one には数以外の使い方も豊富です。**one-off**（一度限りの・単発の＝a one-off event）はイギリス英語でよく使われる表現で、恋愛の文脈で運命の相手を指す **the one**（運命の人）という言い方もあります。
+
+### won の使い方で広げる
+
+won は句動詞 **win over**（〜を味方につける・説得する）の過去形としてもよく使われます。**She won over the audience.**（彼女は観客の心をつかんだ）のように、単なる勝敗を超えて「支持を得た」という意味でも使われます。
+
+### よくある誤用
+
+⚠️ \`She one the first prize.\` は誤りです。「勝った・獲得した」は動詞 **won**（She won the first prize.）。
+
+⚠️ \`Only won of them came.\` も誤りです。「一人・一つ」は **one**。
+
+🎯 覚え方：**数の「1」は one、win の過去「勝った」は won**。過去の「勝った」なら won、数量の「一つ」なら one。
+
+📖 恋愛や理想の相手を語るときの決まり文句 **one and only**（ただ一人の・かけがえのない人）も、この数の one を使った表現です。形容詞 **one-sided**（一方的な・偏った）は、議論や試合が均衡を欠いている状況を表すときによく使われます。`,
     keyPoints: [
       'one と won は同音 /wʌn/',
-      'one＝数「1・一つ」・代名詞',
-      'won＝win の過去・過去分詞「勝った」',
+      'one＝数「1・一つ」・代名詞。one-off（一度限りの）/the one（運命の人）',
+      'won＝win の過去・過去分詞「勝った」。win over（味方につける）の過去形won over',
+      'wonは単なる勝敗だけでなく「支持を得た」の意味でも使う',
     ],
     quiz: [
       {
@@ -7373,10 +7492,10 @@ hear には「聞く」の他に、議論の場での掛け声として **"Hear,
       },
       {
         id: 'q-one-4',
-        question: '空所に入る適切な語はどれですか。「Only ( ) of them came.（そのうち一人だけ来た）」',
-        options: ['won', 'wan', 'own', 'one'],
-        correctAnswer: 3,
-        explanation: '「一つ・一人」は one です。',
+        question: '空所に入る適切な語はどれですか。「Her honesty ( ) over the skeptical audience.（彼女の正直さが懐疑的な観客の心をつかんだ）」',
+        options: ['one', 'won', 'ones', 'wan'],
+        correctAnswer: 1,
+        explanation: '「〜の心をつかむ・味方につける」はwin overの過去形wonです。',
       },
       {
         id: 'q-one-5',
@@ -12210,11 +12329,28 @@ eight から派生する数詞は綴りの変化に注意が必要です。序�
 | **wh**ich | /wɪtʃ/ | どちら・どれ | **Which** color do you like?（どちらの色が好き？） |
 | **w**itch | /wɪtʃ/ | 名詞：魔女 | The **witch** cast a spell.（魔女は呪文を唱えた） |
 
-🎯 覚え方：**選択・関係の「どちら」は which（wh-）、物語の「魔女」は witch**。疑問・関係なら which、魔女なら witch。`,
+### which の慣用表現で広げる
+
+which を使った慣用句 **which is which**（どれがどれだか・区別がつかない＝I can't tell which is which.）は、似たもの同士を見分けられないときの定番表現です。
+
+### witch の慣用表現で広げる
+
+witch から派生した慣用句 **witch hunt**（魔女狩り＝転じて「不当な追及・つるし上げ」）は、政治やニュースの文脈で比喩的によく使われます。また民間伝承に由来する **the witching hour**（魔女の時刻＝真夜中ごろ、不吉なことが起きるとされる時間帯）という言い方もあります。
+
+### よくある誤用
+
+⚠️ \`The story is about a kind which.\` は誤りです。「魔女」は名詞の **witch**（The story is about a kind witch.）。
+
+⚠️ \`Witch way should we go?\` も誤りです。「どちらの」は疑問詞の **which**。
+
+🎯 覚え方：**選択・関係の「どちら」は which（wh-）、物語の「魔女」は witch**。疑問・関係なら which、魔女なら witch。
+
+📖 which から派生した **whichever**（どちらでも・どれでも）は「選択肢のどれであっても構わない」という意味の複合関係詞です。witch の派生語 **witchcraft**（魔術・呪術）も物語や民間伝承でよく登場します。`,
     keyPoints: [
       'which と witch は同音 /wɪtʃ/',
-      'which＝どちら・どれ（疑問詞・関係代名詞）',
-      'witch＝魔女（名詞）',
+      'which＝どちら・どれ（疑問詞・関係代名詞）。which is which（区別がつかない）',
+      'witch＝魔女（名詞）。witch hunt（不当な追及）/the witching hour（真夜中ごろ）',
+      'witch huntは政治・ニュースの文脈で比喩的によく使われる',
     ],
     quiz: [
       {
@@ -12240,10 +12376,10 @@ eight から派生する数詞は綴りの変化に注意が必要です。序�
       },
       {
         id: 'q-which-4',
-        question: '空所に入る適切な語はどれですか。「( ) way should we go?（どちらの道へ行くべき？）」',
-        options: ['Witch', 'Witches', 'Witchy', 'Which'],
-        correctAnswer: 3,
-        explanation: '「どちらの（道）」は疑問詞 Which です。',
+        question: '空所に入る適切な語句はどれですか。「The media campaign against him was widely criticized as a ( ).（彼への報道キャンペーンは不当な追及だと広く批判された）」',
+        options: ['which hunt', 'witch hunt', 'which is which', 'witching hour'],
+        correctAnswer: 1,
+        explanation: '「不当な追及・つるし上げ」はwitch huntという慣用句です。',
       },
       {
         id: 'q-which-5',
