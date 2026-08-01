@@ -2701,10 +2701,14 @@ borrow と lend は**無償で、持ち運べるものを一時的に**やり取
 | g**r**ow | /ɡroʊ/ | 成長する・増える | Plants **grow** in spring.（植物は春に育つ） |
 | g**l**ow | /ɡloʊ/ | 輝く・赤熱する | The embers still **glow** in the dark.（残り火が暗闇でまだ赤く光る） |
 
-🎯 リスニングの要点：g の直後が **/r/（grow）か /l/（glow）**か。意味は「育つ（grow）」と「光る（glow）」で全く別なので、文脈でも判別できます。`,
+🎯 リスニングの要点：g の直後が **/r/（grow）か /l/（glow）**か。意味は「育つ（grow）」と「光る（glow）」で全く別なので、文脈でも判別できます。
+
+### grow / glow の派生語で判別を強化
+
+**grow 系**：句動詞 **grow up**（成長する・大人になる）、名詞 **a grown-up**（大人）、複合語 **outgrow**（（服などが）着られなくなるほど大きくなる・〜より大きく育つ）、名詞 **growth**（成長・増加）。**glow 系**：形容詞 **aglow**（輝いて）は Her face was aglow with joy.（彼女の顔は喜びで輝いていた）のように使い、glow の「光る」という中心の意味そのものです。`,
     keyPoints: [
-      'grow /ɡroʊ/＝成長する・育つ・増える（grow-grew-grown）',
-      'glow /ɡloʊ/＝輝く・赤熱する',
+      'grow /ɡroʊ/＝成長する・育つ・増える（grow-grew-grown）。grow up/outgrow',
+      'glow /ɡloʊ/＝輝く・赤熱する。形容詞aglow',
       'g の直後が /r/ か /l/ か',
     ],
     quiz: [
@@ -5500,11 +5504,15 @@ study は「勉強する」という**過程**、learn は「身につく」と�
 | fl**our** | /ˈflaʊər/ | 小麦粉 | Add two cups of **flour**.（小麦粉を2カップ加えて） |
 | fl**ower** | /ˈflaʊər/ | 花 | She picked a red **flower**.（彼女は赤い花を摘んだ） |
 
-🎯 覚え方：**flower には “flow（er）” のように花が咲く＝「花」**。パン・お菓子の材料の「粉」は flour（中に “our” ではなく穀物の粉）。料理なら flour、植物なら flower。`,
+🎯 覚え方：**flower には “flow（er）” のように花が咲く＝「花」**。パン・お菓子の材料の「粉」は flour（中に “our” ではなく穀物の粉）。料理なら flour、植物なら flower。
+
+### flour / flower の実例で判別を強化
+
+**flour 系**：レシピでは **plain flour**（薄力粉に近い普通の小麦粉）と **self-raising flour**（ベーキングパウダー入りの小麦粉）を区別します。**flower 系**：形容詞 **flowery**（花模様の／（文章が）ごてごてと飾り立てた）は、実際の花の柄にも、比喩的な「大げさな言い回し」にも使います。植物が「花盛りである」ことは **in flower**（花が咲いている）と表現します。複合語 **wildflower**（野花・野生の花）も flower の中心の意味そのものから作られた語です。`,
     keyPoints: [
       'flour と flower は同音 /ˈflaʊər/',
-      'flour＝小麦粉・穀物の粉',
-      'flower＝花',
+      'flour＝小麦粉・穀物の粉。plain flour/self-raising flourの区別',
+      'flower＝花。形容詞flowery（花模様の／大げさな）、in flower（花盛り）',
     ],
     quiz: [
       {
@@ -6964,11 +6972,15 @@ no には見落としやすい文法上の特徴があります。**not a と違
 | t**oo** | 副詞 | 〜も・〜すぎる | This is **too** expensive.（これは高すぎる） |
 | t**wo** | 数 | 2 | I have **two** brothers.（兄弟が2人いる） |
 
-🎯 覚え方：**too は o がふたつで「〜も／〜すぎ（多い）」**、two は w が入って数の「2」、それ以外の「〜へ」は to。`,
+🎯 覚え方：**too は o がふたつで「〜も／〜すぎ（多い）」**、two は w が入って数の「2」、それ以外の「〜へ」は to。
+
+### too の文法：much と many の使い分けにも直結
+
+too は後ろに来る形容詞で数えられる/数えられないが分かれます。**too much**（多すぎる・不可算に）は too much water（水が多すぎる）、**too many**（多すぎる・可算に）は too many people（人が多すぎる）のように使い分けます。fewer/less の区別と同じ理屈です。また **two-faced**（二枚舌の・裏表がある）は数の two を使った定番の慣用句です。副詞 **twofold**（2倍に）は eightfold と同じ作り方の語で、数量が2倍になったことを表します。`,
     keyPoints: [
       'to＝前置詞「〜へ」・不定詞の to',
-      'too＝副詞「〜も・〜すぎる」（o がふたつ）',
-      'two＝数「2」（w 入り）',
+      'too＝副詞「〜も・〜すぎる」（o がふたつ）。too much（不可算）/too many（可算）',
+      'two＝数「2」（w 入り）。two-faced（裏表がある）',
     ],
     quiz: [
       {
@@ -7001,10 +7013,10 @@ no には見落としやすい文法上の特徴があります。**not a と違
       },
       {
         id: 'q-to-5',
-        question: 'o がふたつで「〜も・〜すぎる」を意味するのはどれですか。',
+        question: '空所に入る適切な語はどれですか。「There were ( ) many people in the room.（部屋には人が多すぎた）」',
         options: ['to', 'too', 'two', 'tow'],
         correctAnswer: 1,
-        explanation: 'too（o がふたつ）＝「〜も・〜すぎる」です。',
+        explanation: '可算名詞 people の前は too many（不可算なら too much）です。',
       },
     ],
   },
@@ -7330,11 +7342,15 @@ no には見落としやすい文法上の特徴があります。**not a と違
 | pr**ay** | /preɪ/ | 動詞：祈る | They **pray** for peace.（彼らは平和を祈る） |
 | pr**ey** | /preɪ/ | 名詞：獲物 | The lion caught its **prey**.（ライオンは獲物を捕らえた） |
 
-🎯 覚え方：**pray は「祈る（say a prayer）」**、prey は「獲物（捕食者 predator に食べられる側）」。動作の「祈る」なら pray、動物の「えじき」なら prey。`,
+🎯 覚え方：**pray は「祈る（say a prayer）」**、prey は「獲物（捕食者 predator に食べられる側）」。動作の「祈る」なら pray、動物の「えじき」なら prey。
+
+### pray / prey の派生語で判別を強化
+
+**pray 系**：名詞形は **prayer**（祈り・祈る人）で、say a prayer（祈りを捧げる）のように使います。動詞は pray、名詞は prayer と品詞で覚えると混同しにくくなります。**prey 系**：複合語 **birds of prey**（猛禽類）はよく使われる言い方です。慣用句 **fall prey to** ~（〜の犠牲になる・食い物にされる）も、獲物になるイメージから来た表現です。生態学の対概念 **predator and prey**（捕食者と被食者）も、prey の中心の意味そのものを表す組み合わせです。`,
     keyPoints: [
       'pray と prey は同音 /preɪ/',
-      'pray＝動詞「祈る」（prayer＝祈り）',
-      'prey＝名詞「獲物・えじき」',
+      'pray＝動詞「祈る」（名詞形はprayer＝祈り）',
+      'prey＝名詞「獲物・えじき」。birds of prey/fall prey to',
     ],
     quiz: [
       {
@@ -8649,11 +8665,15 @@ won は句動詞 **win over**（〜を味方につける・説得する）の過
 | night | /naɪt/ | 夜 | We arrived late at **night**.（夜遅くに着いた） |
 | **k**night | /naɪt/ | 騎士 | The **knight** wore shining armor.（騎士は輝く鎧を着ていた） |
 
-🎯 覚え方：**knight は先頭の k を読まないが「騎士（中世の戦士）」**。時間の「夜」は night。歴史・チェスの「騎士」なら knight。`,
+🎯 覚え方：**knight は先頭の k を読まないが「騎士（中世の戦士）」**。時間の「夜」は night。歴史・チェスの「騎士」なら knight。
+
+### night / knight の派生語で判別を強化
+
+**night 系**：複合語 **nightfall**（日暮れ）・**overnight**（一晩じゅう・一夜にして）・**nightmare**（悪夢）は、いずれも「夜」の意味そのものから広がった語です。**knight 系**：名詞 **knighthood**（騎士の身分・ナイト爵位）は、実際にイギリスで功績者に与えられる称号としても使われます。複合語 **midnight**（真夜中）も、night の中心の意味から広がった非常によく使う語です。`,
     keyPoints: [
       'night と knight は同音 /naɪt/（k は無音）',
-      'night＝夜（反対は day）',
-      'knight＝騎士（チェスの駒も）',
+      'night＝夜（反対は day）。nightfall/overnight/nightmare',
+      'knight＝騎士（チェスの駒も）。knighthood（騎士の身分）',
     ],
     quiz: [
       {
@@ -9383,11 +9403,15 @@ won は句動詞 **win over**（〜を味方につける・説得する）の過
 | **h**our | /aʊər/ | 名詞：1時間 | The meeting lasted an **hour**.（会議は1時間続いた） |
 | our | /aʊər/ | 所有格：私たちの | This is **our** classroom.（ここが私たちの教室だ） |
 
-🎯 覚え方：**hour は h を読まないが「1時間（時間）」**。所有の「私たちの」は our（うしろに名詞）。時間なら hour、所有なら our。`,
+🎯 覚え方：**hour は h を読まないが「1時間（時間）」**。所有の「私たちの」は our（うしろに名詞）。時間なら hour、所有なら our。
+
+### our の文法：ours との使い分け
+
+our は必ず**うしろに名詞**を伴う所有格（our house）ですが、名詞を伴わず単独で使う所有代名詞は **ours**（私たちのもの）です。**This house is ours.**（この家は私たちのものだ）のように、be動詞のあとや文末では our でなく ours を使います。時間の複合語では **rush hour**（通勤・通学ラッシュの時間帯）、形容詞 **hourly**（1時間ごとの）もよく使われます。**half an hour / a half-hour**（30分）のように、hour は数量表現でも頻出します。`,
     keyPoints: [
       'hour と our はほぼ同音 /aʊər/（hour の h は無音）',
-      'hour＝1時間・時刻（an hour）',
-      'our＝私たちの（所有格・うしろに名詞）',
+      'hour＝1時間・時刻（an hour）。rush hour/hourly',
+      'our＝私たちの（所有格・うしろに名詞）。名詞なしならours',
     ],
     quiz: [
       {
@@ -9420,10 +9444,10 @@ won は句動詞 **win over**（〜を味方につける・説得する）の過
       },
       {
         id: 'q-hour-5',
-        question: '時間の単位「1時間」を意味するのはどちらですか。',
-        options: ['our', 'hour', 'どちらも', 'どちらも違う'],
-        correctAnswer: 1,
-        explanation: '1時間は hour。our は「私たちの」です。',
+        question: '空所に入る適切な語はどれですか。「That car is ( ).（あの車は私たちのものだ）」',
+        options: ['our', 'hour', 'ours', 'hours'],
+        correctAnswer: 2,
+        explanation: '名詞を伴わず単独で使う所有代名詞は ours です。our は必ず名詞の前に置きます。',
       },
     ],
   },
@@ -10583,11 +10607,15 @@ eight から派生する数詞は綴りの変化に注意が必要です。序�
 | some | /sʌm/ | いくつかの | I bought **some** apples.（リンゴをいくつか買った） |
 | sum | /sʌm/ | 名詞：合計 | The **sum** of 3 and 4 is 7.（3と4の合計は7だ） |
 
-🎯 覚え方：**数量の「いくつかの」は some、計算の「合計・金額」は sum**。名詞で「合計」なら sum、「いくらかの〜」なら some。`,
+🎯 覚え方：**数量の「いくつかの」は some、計算の「合計・金額」は sum**。名詞で「合計」なら sum、「いくらかの〜」なら some。
+
+### some / sum の派生語で判別を強化
+
+**some 系**：複合語 **something**（何か）・**somehow**（どうにかして）・**somewhat**（いくぶん）は、いずれも some の「ある程度の・いくらかの」という中心の意味から広がった語です。**sum 系**：句動詞 **sum up**（要約する）、フォーマルな接続語 **in sum**（要するに）は、sum の「合計する＝まとめる」という意味から来た表現です。代名詞 **somebody**（誰か）も、something/somehow/somewhat と並ぶ some 系の複合語です。`,
     keyPoints: [
       'some と sum は同音 /sʌm/',
-      'some＝いくつかの・いくらかの（限定詞・代名詞）',
-      'sum＝名詞「合計・総額・金額」（the sum of ~）',
+      'some＝いくつかの・いくらかの（限定詞・代名詞）。something/somehow/somewhat',
+      'sum＝名詞「合計・総額・金額」（the sum of ~）。sum up（要約する）/in sum',
     ],
     quiz: [
       {
@@ -11071,11 +11099,15 @@ eight から派生する数詞は綴りの変化に注意が必要です。序�
 | t**oe** | /toʊ/ | 名詞：つま先 | I stubbed my **toe** on the door.（ドアでつま先をぶつけた） |
 | t**ow** | /toʊ/ | 動詞：牽引する | A truck **towed** the broken car.（トラックが故障車を牽引した） |
 
-🎯 覚え方：**足の「指・つま先」は toe（e で終わる）**、車を「引っぱる（tow truck＝レッカー車）」は tow。体なら toe、牽引なら tow。`,
+🎯 覚え方：**足の「指・つま先」は toe（e で終わる）**、車を「引っぱる（tow truck＝レッカー車）」は tow。体なら toe、牽引なら tow。
+
+### toe / tow の派生語で判別を強化
+
+**toe 系**：複合語 **tiptoe**（つま先立ちで歩く）は、音を立てずそっと歩く動作を表します。**tow 系**：慣用句 **in tow**（連れて・引き連れて）は、with her kids in tow（子どもたちを連れて）のように、何かを伴っている様子を表す表現です。**tow truck**（レッカー車）は本文既出のとおり、tow の「牽引する」がそのまま職業名になった複合語です。身体の部位を表す複合語 **toenail**（足の爪）も、toe の中心の意味そのものです。`,
     keyPoints: [
       'toe と tow は同音 /toʊ/',
-      'toe＝足の指・つま先（名詞）',
-      'tow＝牽引する・引く（tow truck＝レッカー車）',
+      'toe＝足の指・つま先（名詞）。tiptoe（つま先立ちで歩く）',
+      'tow＝牽引する・引く（tow truck＝レッカー車）。in tow（連れて）',
     ],
     quiz: [
       {
