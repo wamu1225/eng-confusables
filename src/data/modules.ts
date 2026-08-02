@@ -3124,10 +3124,14 @@ blush は動詞だけでなく、化粧品の**チーク（頬紅）**を指す�
 | **r**oom | /ruːm/ | 部屋・余地 | There is no **room** for error.（誤りの余地はない） |
 | **l**oom | /luːm/ | 織機／迫る | A deadline **looms** next week.（来週、締め切りが迫っている） |
 
-🎯 リスニングの要点：語頭が **/r/（room）か /l/（loom）**か。loom は「（試験・締め切り・危機などが）迫る」という比喩でよく使われます。`,
+🎯 リスニングの要点：語頭が **/r/（room）か /l/（loom）**か。loom は「（試験・締め切り・危機などが）迫る」という比喩でよく使われます。
+
+### room / loom の派生語で判別を強化
+
+**room 系**：慣用句 **room for improvement**（改善の余地）は、room の「空間・余地」という中心の意味そのものです。複合語 **roommate**（同居人・ルームメイト）も同じ意味から来ています。**loom 系**：慣用句 **loom large**（大きく立ちはだかる・重くのしかかる）は、The exam loomed large in her mind.（試験のことが頭の中で大きくのしかかっていた）のように、loom の「不安なものが迫る」という意味をそのまま使う表現です。`,
     keyPoints: [
-      'room /ruːm/＝部屋・空間・余地',
-      'loom /luːm/＝織機／ぬっと現れる・迫る',
+      'room /ruːm/＝部屋・空間・余地。room for improvement/roommate',
+      'loom /luːm/＝織機／ぬっと現れる・迫る。loom large（大きくのしかかる）',
       '語頭が /r/ か /l/ か',
     ],
     quiz: [
@@ -3330,10 +3334,14 @@ blush は動詞だけでなく、化粧品の**チーク（頬紅）**を指す�
 | r**aw** | /rɔː/ | 生の・未加工の | You shouldn't eat **raw** chicken.（生の鶏肉は食べないほうがいい） |
 | r**ow** | /roʊ/ | 列／漕ぐ | We sat in the front **row**.（私たちは最前列に座った） |
 
-🎯 リスニングの要点：**/ɔː/「オー」（raw）**と**/oʊ/「オウ」（row）**の母音差。raw data（生データ）、raw material（原料）は頻出です。📖 row には別発音 /raʊ/「ラウ」で「口論」の意味もあります。`,
+🎯 リスニングの要点：**/ɔː/「オー」（raw）**と**/oʊ/「オウ」（row）**の母音差。raw data（生データ）、raw material（原料）は頻出です。📖 row には別発音 /raʊ/「ラウ」で「口論」の意味もあります。
+
+### raw / row の派生語で判別を強化
+
+**raw 系**：慣用句 **a raw deal**（不当な扱い）、**raw talent**（磨かれていない天性の才能）は、どちらも raw の「生の・未加工の」という中心の意味から広がった比喩表現です。**row 系**：**in a row**（連続して・立て続けに＝three times in a row）は、横に並んだ row の「列」という意味から生まれた頻出表現です。`,
     keyPoints: [
-      'raw /rɔː/＝生の・未加工の・未経験の',
-      'row /roʊ/＝（横の）列／（舟を）漕ぐ',
+      'raw /rɔː/＝生の・未加工の・未経験の。a raw deal/raw talent',
+      'row /roʊ/＝（横の）列／（舟を）漕ぐ。in a row（連続して）',
       '/ɔː/（オー）と /oʊ/（オウ）の母音対立',
     ],
     quiz: [
@@ -3452,10 +3460,14 @@ blush は動詞だけでなく、化粧品の**チーク（頬紅）**を指す�
 | c**l****aw** | /klɔː/ | （動物の）爪 | The cat sharpened its **claws**.（猫は爪を研いだ） |
 | c**r****ow** | /kroʊ/ | カラス | A **crow** landed on the fence.（カラスが柵に止まった） |
 
-🎯 リスニングの要点：c の直後が **/l/（claw）か /r/（crow）**か、母音が **/ɔː/「オー」（claw）か /oʊ/「オウ」（crow）**か。生き物の描写問題（鳴き声・動作）でよく出ます。`,
+🎯 リスニングの要点：c の直後が **/l/（claw）か /r/（crow）**か、母音が **/ɔː/「オー」（claw）か /oʊ/「オウ」（crow）**か。生き物の描写問題（鳴き声・動作）でよく出ます。
+
+### claw / crow の派生語で判別を強化
+
+**claw 系**：句動詞 **claw back**（（苦労して）取り戻す）は、claw の「爪でひっかく」という動作イメージから来た表現です。**crow 系**：慣用句 **as the crow flies**（直線距離で）は、カラスが障害物を気にせずまっすぐ飛ぶことから生まれた、距離を表す定番表現です。`,
     keyPoints: [
-      'claw /klɔː/＝（動物の）かぎ爪・はさみ',
-      'crow /kroʊ/＝カラス',
+      'claw /klɔː/＝（動物の）かぎ爪・はさみ。claw back（取り戻す）',
+      'crow /kroʊ/＝カラス。as the crow flies（直線距離で）',
       'c の直後 /l/ vs /r/、母音 /ɔː/ vs /oʊ/',
     ],
     quiz: [
@@ -9342,11 +9354,15 @@ won は句動詞 **win over**（〜を味方につける・説得する）の過
 | f**ai**r | /fɛər/ | 公平な・見本市 | That's not a **fair** decision.（それは公平な決定ではない） |
 | f**a**re | /fɛər/ | 運賃 | The train **fare** went up.（電車の運賃が上がった） |
 
-🎯 覚え方：**乗り物の「運賃」は fare（bus fare / train fare）**。「公平な・見本市」は fair。料金なら fare、公平・イベントなら fair。`,
+🎯 覚え方：**乗り物の「運賃」は fare（bus fare / train fare）**。「公平な・見本市」は fair。料金なら fare、公平・イベントなら fair。
+
+### fair / fare の語源で判別を強化
+
+**fair 系**：慣用句 **fair play**（正々堂々のふるまい）、**fair share**（正当な取り分）は、fair の「公平な」という中心の意味そのものです。**fare の隠れた意味**：fare はもともと「旅する・やっていく」という意味の動詞で、その名残が **welfare**（幸福・福祉＝wel + fare「うまくやっていく」）や **farewell**（別れの言葉＝fare well「道中無事に」の意）に残っています。運賃の fare とは別の顔を持つ語だと知っておくと、fair と混同しにくくなります。`,
     keyPoints: [
       'fair と fare は同音 /fɛər/',
-      'fair＝公平な・見本市・晴れの・色白の',
-      'fare＝（乗り物の）運賃・料金',
+      'fair＝公平な・見本市・晴れの・色白の。fair play/fair share',
+      'fare＝（乗り物の）運賃・料金。元は「旅する」の意でwelfare/farewellに残る',
     ],
     quiz: [
       {
@@ -11655,11 +11671,15 @@ eight から派生する数詞は綴りの変化に注意が必要です。序�
 | t**ai**l | /teɪl/ | しっぽ・後部 | The dog wagged its **tail**.（犬はしっぽを振った） |
 | t**a**le | /teɪl/ | 物語 | Grandma told us a **tale**.（祖母が物語を聞かせてくれた） |
 
-🎯 覚え方：**動物の「しっぽ」は tail（ai）**、「物語・おとぎ話」は tale（fairy tale）。体の尾なら tail、お話なら tale。`,
+🎯 覚え方：**動物の「しっぽ」は tail（ai）**、「物語・おとぎ話」は tale（fairy tale）。体の尾なら tail、お話なら tale。
+
+### tail / tale の派生語で判別を強化
+
+**tail 系**：句動詞 **tail off**（次第に弱まる・先細りになる）、複合語 **ponytail**（ポニーテール）は、tail の「後部・尾」という中心の意味から広がった語です。**tale 系**：形容詞 **telltale**（（表情・兆候などが）本音を物語る・隠しごとを暴露する）は、a telltale sign（隠しきれない兆候）のように使い、tale の「話す・物語る」という意味そのものから来ています。`,
     keyPoints: [
       'tail と tale は同音 /teɪl/',
-      'tail＝しっぽ・尾／後部',
-      'tale＝物語・話（fairy tale＝おとぎ話）',
+      'tail＝しっぽ・尾／後部。tail off（先細りになる）/ponytail',
+      'tale＝物語・話（fairy tale＝おとぎ話）。telltale（本音を物語る）',
     ],
     quiz: [
       {
@@ -11779,11 +11799,15 @@ eight から派生する数詞は綴りの変化に注意が必要です。序�
 | w**ay** | /weɪ/ | 名詞：道・方法 | Do you know the **way** to the station?（駅への道を知ってる？） |
 | w**eigh** | /weɪ/ | 動詞：重さを量る | Please **weigh** the package.（荷物の重さを量って） |
 
-🎯 覚え方：**「道・方法」は way、「重さを量る」は weigh（weight＝重さ の動詞）**。道順・やり方なら way、はかりで量るなら weigh。`,
+🎯 覚え方：**「道・方法」は way、「重さを量る」は weigh（weight＝重さ の動詞）**。道順・やり方なら way、はかりで量るなら weigh。
+
+### way / weigh の派生語で判別を強化
+
+**way 系**：慣用句 **make way for** ~（〜のために道を空ける）、**by the way**（ところで）は、way の「道」という中心の意味から広がった表現です。**weigh 系**：句動詞 **weigh in**（（議論に）加わって意見を述べる／計量を受ける）、**weigh up**（比較検討する）は、weigh の「重さを量る＝比較して考える」という意味から生まれた表現です。`,
     keyPoints: [
       'way と weigh は同音 /weɪ/',
-      'way＝名詞「道・方向・方法」',
-      'weigh＝動詞「重さを量る・（重さが）ある」（名詞 weight）',
+      'way＝名詞「道・方向・方法」。make way for/by the way',
+      'weigh＝動詞「重さを量る・（重さが）ある」（名詞 weight）。weigh in/weigh up',
     ],
     quiz: [
       {
@@ -11901,11 +11925,15 @@ eight から派生する数詞は綴りの変化に注意が必要です。序�
 | **ai**sle | /aɪl/ | 通路 | I prefer an **aisle** seat.（通路側の席がいい） |
 | **i**sle | /aɪl/ | 島 | They sailed to a small **isle**.（小さな島へ船で渡った） |
 
-🎯 覚え方：**店・機内の「通路」は aisle、「島」は isle（island の仲間）**。座席の通路なら aisle、島なら isle。`,
+🎯 覚え方：**店・機内の「通路」は aisle、「島」は isle（island の仲間）**。座席の通路なら aisle、島なら isle。
+
+### aisle / isle の実例で判別を強化
+
+**aisle 系**：アメリカの政治報道でよく使う **cross the aisle**（党派を超えて協力する＝議場で通路を挟んで座る与野党の席から来た表現）は、aisle の「通路」という中心の意味そのものです。**isle 系**：**the British Isles**（ブリテン諸島）のように、正式な地名としてもよく使われます。`,
     keyPoints: [
       'aisle と isle は同音 /aɪl/（黙字を含む）',
-      'aisle＝（座席・棚の間の）通路',
-      'isle＝島（island の詩的・地名的な語）',
+      'aisle＝（座席・棚の間の）通路。cross the aisle（党派を超えて協力する）',
+      'isle＝島（island の詩的・地名的な語）。the British Isles',
     ],
     quiz: [
       {
@@ -13922,11 +13950,15 @@ inn は現代の大型ホテルではなく、**昔ながらの小さな宿・�
 | h**oa**rse | /hɔːrs/ | 形容詞：しゃがれた | My voice is **hoarse** from shouting.（叫びすぎて声がかすれた） |
 | h**o**rse | /hɔːrs/ | 名詞：馬 | She rode a brown **horse**.（彼女は茶色の馬に乗った） |
 
-🎯 覚え方：**声の「しゃがれ」は hoarse（oa）、動物の「馬」は horse**。のどの話なら hoarse、動物なら horse。`,
+🎯 覚え方：**声の「しゃがれ」は hoarse（oa）、動物の「馬」は horse**。のどの話なら hoarse、動物なら horse。
+
+### hoarse / horse の実例で判別を強化
+
+**hoarse 系**：**a hoarse whisper**（かすれたささやき声）は、hoarse が声質を形容する語であることをそのまま示す組み合わせです。**horse 系**：慣用句 **horse around**（ふざけ回る）、複合語 **horsepower**（馬力）は、どちらも horse の「馬」という中心の意味から広がった語です。`,
     keyPoints: [
       'hoarse と horse は同音 /hɔːrs/',
-      'hoarse＝形容詞「（声が）しゃがれた・かすれた」',
-      'horse＝名詞「馬」',
+      'hoarse＝形容詞「（声が）しゃがれた・かすれた」。a hoarse whisper',
+      'horse＝名詞「馬」。horse around（ふざけ回る）/horsepower',
     ],
     quiz: [
       {
