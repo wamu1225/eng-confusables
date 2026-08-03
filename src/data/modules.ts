@@ -3891,11 +3891,15 @@ blush は動詞だけでなく、化粧品の**チーク（頬紅）**を指す�
 | p**ea**ce | /piːs/ | 平和・平穏 | They worked for world **peace**.（彼らは世界平和のために働いた） |
 | p**ie**ce | /piːs/ | 一片・かけら | Can I have a **piece** of cake?（ケーキを一切れもらえる？） |
 
-🎯 覚え方：**piece には “pie（パイ）” が入っていて「一切れ」**。それ以外の「平和・平穏」は peace。数量表現 **a piece of ~**（一片の〜）はセットで覚えます。`,
+🎯 覚え方：**piece には “pie（パイ）” が入っていて「一切れ」**。それ以外の「平和・平穏」は peace。数量表現 **a piece of ~**（一片の〜）はセットで覚えます。
+
+### peace / piece の慣用句で判別を強化
+
+**peace 系**：慣用句 **make peace**（仲直りする・和解する）、**peace of mind**（心の平穏）は、peace の「平和・穏やかさ」という中心の意味そのものです。**piece 系**：句動詞 **piece together**（（断片から）全体像を組み立てる）、慣用句 **a piece of cake**（とても簡単なこと）は、piece の「かけら・部品」という意味から広がった表現です。`,
     keyPoints: [
       'peace と piece は同音 /piːs/',
-      'peace＝平和・平穏（反対は war）',
-      'piece＝一片・かけら（a piece of ~／中に pie が入る）',
+      'peace＝平和・平穏（反対は war）。make peace/peace of mind',
+      'piece＝一片・かけら（a piece of ~／中に pie が入る）。piece together/a piece of cake',
     ],
     quiz: [
       {
@@ -4013,11 +4017,15 @@ blush は動詞だけでなく、化粧品の**チーク（頬紅）**を指す�
 | pl**ai**n | /pleɪn/ | 明白な・質素な／平原 | Her explanation was **plain** and clear.（彼女の説明は明快だった） |
 | pl**a**ne | /pleɪn/ | 飛行機／平面 | We caught an early **plane**.（早い便の飛行機に乗った） |
 
-🎯 覚え方：**plane は airplAne の一部＝「飛行機」**。それ以外の「明白な・質素な・平原」は plain。数学の「平面」も plane です。`,
+🎯 覚え方：**plane は airplAne の一部＝「飛行機」**。それ以外の「明白な・質素な・平原」は plain。数学の「平面」も plane です。
+
+### plain / plane の慣用句で判別を強化
+
+**plain 系**：慣用句 **in plain sight**（隠れず見えるところに）、**plain sailing**（順調な進行）は、plain の「明白な・平らな」という中心の意味から広がった表現です。**plane 系**：**on a higher plane**（より高い次元・水準で）のように、plane は「平面・水準」という抽象的な意味でも使われ、飛行機の意味とは別の顔を持ちます。`,
     keyPoints: [
       'plain と plane は同音 /pleɪn/',
-      'plain＝明白な・質素な（形容詞）／平原（名詞）',
-      'plane＝飛行機／平面（airplane の plane）',
+      'plain＝明白な・質素な（形容詞）／平原（名詞）。in plain sight/plain sailing',
+      'plane＝飛行機／平面（airplane の plane）。on a higher plane',
     ],
     quiz: [
       {
@@ -6708,11 +6716,15 @@ belief/believe と同じく、**-f（relief）が名詞、-ve（relieve）が動
 | st**ea**l | /stiːl/ | 動詞：盗む | Don't **steal** other people's ideas.（人のアイデアを盗まないで） |
 | st**ee**l | /stiːl/ | 名詞：鋼鉄 | The bridge is made of **steel**.（その橋は鋼鉄でできている） |
 
-🎯 覚え方：**steel は ee で「鋼鉄（金属）」**。動詞「盗む」は steal（ea、a は動詞の合図と覚えても）。金属なら steel、盗む行為なら steal。`,
+🎯 覚え方：**steel は ee で「鋼鉄（金属）」**。動詞「盗む」は steal（ea、a は動詞の合図と覚えても）。金属なら steel、盗む行為なら steal。
+
+### steal / steel の慣用句で判別を強化
+
+**steal 系**：慣用句 **steal the show**（（脇役なのに）一番注目を集める）、**steal a glance**（こっそり一瞥する）は、steal の「気づかれずに奪う」という意味から広がった表現です。**steel 系**：動詞 **steel oneself**（（つらいことに備えて）覚悟を決める）は、鋼鉄のように心を固くするイメージから生まれた表現で、steel の硬さのイメージそのものです。`,
     keyPoints: [
       'steal と steel は同音 /stiːl/',
-      'steal＝動詞「盗む」（steal-stole-stolen）',
-      'steel＝名詞「鋼鉄・はがね」',
+      'steal＝動詞「盗む」（steal-stole-stolen）。steal the show/steal a glance',
+      'steel＝名詞「鋼鉄・はがね」。steel oneself（覚悟を決める）',
     ],
     quiz: [
       {
@@ -6933,10 +6945,14 @@ no には見落としやすい文法上の特徴があります。**not a と違
 | b**y** | 前置詞 | 〜のそば・〜によって | The letter was written **by** hand.（手紙は手で書かれた） |
 | b**ye** | 間投詞 | さようなら | **Bye**, see you tomorrow!（じゃあ、また明日！） |
 
-🎯 覚え方：**買う動作は buy、前置詞（そば・手段・期限）は by、別れのあいさつは bye**。文の役割で決めます。`,
+🎯 覚え方：**買う動作は buy、前置詞（そば・手段・期限）は by、別れのあいさつは bye**。文の役割で決めます。
+
+### buy / by の慣用句で判別を強化
+
+**buy 系**：句動詞 **buy into** ~（（考え・計画を）信じ込む・受け入れる）、名詞句 **a best buy**（お買い得品）は、buy の「買う・受け入れる」という意味から広がった表現です。**by 系**：**by far**（断然・はるかに）、**by heart**（暗記して）は、by の「〜によって」という前置詞の働きから来た定番表現です。`,
     keyPoints: [
-      'buy＝動詞「買う」（buy-bought-bought）',
-      'by＝前置詞「〜のそば・〜によって・〜までに」',
+      'buy＝動詞「買う」（buy-bought-bought）。buy into/a best buy',
+      'by＝前置詞「〜のそば・〜によって・〜までに」。by far/by heart',
       'bye＝間投詞「さようなら」',
     ],
     quiz: [
@@ -7591,11 +7607,15 @@ won は句動詞 **win over**（〜を味方につける・説得する）の過
 | w**ai**t | /weɪt/ | 動詞：待つ | Please **wait** for me here.（ここで待っていて） |
 | w**eigh**t | /weɪt/ | 名詞：重さ | What is the **weight** of this box?（この箱の重さは？） |
 
-🎯 覚え方：**weight には weigh（重さを量る）が入っていて「重さ」**。「待つ」動作は wait。時間を「待つ」なら wait、はかりの「重さ」なら weight。`,
+🎯 覚え方：**weight には weigh（重さを量る）が入っていて「重さ」**。「待つ」動作は wait。時間を「待つ」なら wait、はかりの「重さ」なら weight。
+
+### wait / weight の慣用句で判別を強化
+
+**wait 系**：句動詞 **wait on** ~（〜に給仕する）、慣用句 **can't wait**（待ちきれない・早くしたい）は、wait の「待つ」という意味から広がった表現です。**weight 系**：慣用句 **a weight off one's shoulders**（肩の荷が下りる）は、weight の「重さ・重荷」という意味から生まれた比喩表現です。`,
     keyPoints: [
       'wait と weight は同音 /weɪt/',
-      'wait＝動詞「待つ」（wait for ~）',
-      'weight＝名詞「重さ・重量」（weigh の名詞）',
+      'wait＝動詞「待つ」（wait for ~）。wait on/can\'t wait',
+      'weight＝名詞「重さ・重量」（weigh の名詞）。a weight off one\'s shoulders',
     ],
     quiz: [
       {
@@ -8762,11 +8782,15 @@ won は句動詞 **win over**（〜を味方につける・説得する）の過
 | role | /roʊl/ | 名詞：役割 | She played a key **role** in the project.（計画で重要な役割を果たした） |
 | roll | /roʊl/ | 転がる・巻く／名簿 | The ball **rolled** down the hill.（ボールが坂を転がった） |
 
-🎯 覚え方：**role は「役割（part）」、roll は l がふたつで「転がる・巻く（ぐるぐる）」**。演劇や仕事の「役割」は role、動作の「転がる・巻く」は roll。`,
+🎯 覚え方：**role は「役割（part）」、roll は l がふたつで「転がる・巻く（ぐるぐる）」**。演劇や仕事の「役割」は role、動作の「転がる・巻く」は roll。
+
+### role / roll の慣用句で判別を強化
+
+**role 系**：複合語 **role model**（お手本となる人）、**a leading role**（主役）は、role の「役割」という中心の意味そのものです。**roll 系**：句動詞 **roll out**（（新製品・政策を）展開する・発表する）、慣用句 **on a roll**（調子に乗って・好調で）は、roll の「転がる・進む」という意味から広がった表現です。`,
     keyPoints: [
       'role と roll は同音 /roʊl/',
-      'role＝役割・役（play a role）',
-      'roll＝転がる・巻く／名簿・ロールパン（l がふたつ）',
+      'role＝役割・役（play a role）。role model/leading role',
+      'roll＝転がる・巻く／名簿・ロールパン（l がふたつ）。roll out/on a roll',
     ],
     quiz: [
       {
@@ -10012,11 +10036,15 @@ our は必ず**うしろに名詞**を伴う所有格（our house）ですが、
 | would | /wʊd/ | 助動詞：〜だろう | I **would** help if I could.（できれば手伝うのに） |
 | wood | /wʊd/ | 名詞：木材・森 | The table is made of **wood**.（そのテーブルは木でできている） |
 
-🎯 覚え方：**would は助動詞（動詞の前）、wood は「木材（材料）」の名詞**。文で助動詞の位置なら would、材料・森なら wood。`,
+🎯 覚え方：**would は助動詞（動詞の前）、wood は「木材（材料）」の名詞**。文で助動詞の位置なら would、材料・森なら wood。
+
+### would / wood の慣用句で判別を強化
+
+**would 系**：**would rather** ~（むしろ〜したい）、**would have + 過去分詞**（〜しただろうに＝仮定法過去完了）は、would の「〜だろう」という中心の働きから広がった表現です。**wood 系**：慣用句 **out of the woods**（危機を脱して）、イギリスの縁起担ぎの言い回し **touch wood**（（不幸が起きないよう）幸運を祈って）は、wood の「木・森」という意味から生まれた表現です。`,
     keyPoints: [
       'would と wood は同音 /wʊd/',
-      'would＝助動詞「〜だろう・〜したものだ」（will の過去）',
-      'wood＝名詞「木材・木／森（woods）」',
+      'would＝助動詞「〜だろう・〜したものだ」（will の過去）。would rather',
+      'wood＝名詞「木材・木／森（woods）」。out of the woods/touch wood',
     ],
     quiz: [
       {
@@ -11888,11 +11916,15 @@ eight から派生する数詞は綴りの変化に注意が必要です。序�
 | mist | /mɪst/ | 名詞：霧 | Morning **mist** covered the hills.（朝霧が丘を覆った） |
 | miss**ed** | /mɪst/ | miss の過去：逃した | I **missed** the last train.（終電を逃した） |
 
-🎯 覚え方：**うすい「霧」は mist、miss（逃す・恋しく思う）の過去は missed**。天気の霧なら mist、逃した・恋しかったなら missed。`,
+🎯 覚え方：**うすい「霧」は mist、miss（逃す・恋しく思う）の過去は missed**。天気の霧なら mist、逃した・恋しかったなら missed。
+
+### mist / missed の派生語で判別を強化
+
+**mist 系**：形容詞 **misty**（霧のかかった）、句動詞 **mist over**（（窓・目が）曇る・涙で潤む）は、mist の中心の意味そのものから広がった語です。**missed 系**：句動詞 **miss out on** ~（（機会などを）逃す・逸する）は、miss の「逃す」という意味をそのまま使う頻出表現です。`,
     keyPoints: [
       'mist と missed は同音 /mɪst/',
-      'mist＝名詞「霧・かすみ」（fog より薄い）',
-      'missed＝miss の過去「逃した・恋しく思った」',
+      'mist＝名詞「霧・かすみ」（fog より薄い）。misty/mist over',
+      'missed＝miss の過去「逃した・恋しく思った」。miss out on',
     ],
     quiz: [
       {
