@@ -7672,11 +7672,15 @@ won は句動詞 **win over**（〜を味方につける・説得する）の過
 | s**a**le | /seɪl/ | 名詞：販売・特売 | The store is having a **sale**.（その店はセール中だ） |
 | s**ai**l | /seɪl/ | 帆／航行する | The boat **sailed** across the bay.（船は湾を横切って進んだ） |
 
-🎯 覚え方：**sale は「売る（sell）」の仲間で「販売・特売」**。sail は ai で「帆・航海」。買い物の「セール」は sale、船の「帆・航行」は sail。`,
+🎯 覚え方：**sale は「売る（sell）」の仲間で「販売・特売」**。sail は ai で「帆・航海」。買い物の「セール」は sale、船の「帆・航行」は sail。
+
+### sale / sail の慣用句で判別を強化
+
+**sale 系**：複合語 **clearance sale**（在庫一掃セール）、**a sales pitch**（売り込みの口上）は、sale の「販売」という中心の意味そのものです。**sail 系**：慣用句 **set sail**（船出する・出航する）、句動詞 **sail through** ~（（試験などを）楽々と通過する）は、sail の「進む・航行する」という意味から広がった表現です。`,
     keyPoints: [
       'sale と sail は同音 /seɪl/',
-      'sale＝名詞「販売・特売」（for sale／on sale）',
-      'sail＝名詞「帆」／動詞「航行する」',
+      'sale＝名詞「販売・特売」（for sale／on sale）。clearance sale/sales pitch',
+      'sail＝名詞「帆」／動詞「航行する」。set sail/sail through',
     ],
     quiz: [
       {
@@ -9528,11 +9532,15 @@ our は必ず**うしろに名詞**を伴う所有格（our house）ですが、
 | **k**new | /njuː/ | know の過去：知っていた | I **knew** the answer.（答えを知っていた） |
 | new | /njuː/ | 形容詞：新しい | She bought a **new** bag.（彼女は新しいかばんを買った） |
 
-🎯 覚え方：**knew は先頭の k を読まないが「know の過去（知っていた）」**。形容詞「新しい」は new。過去の「知っていた」なら knew、「新しい」なら new。`,
+🎯 覚え方：**knew は先頭の k を読まないが「know の過去（知っていた）」**。形容詞「新しい」は new。過去の「知っていた」なら knew、「新しい」なら new。
+
+### new の複合語で判別を強化
+
+**new 系**：慣用句 **brand new**（真新しい）、複合語 **newcomer**（新参者）は、new の「新しい」という中心の意味そのものです。**knew は know の過去形としてしか使われない**ため、これらのような複合語は作りません。過去の話（〜だった）なら knew、状態や物の新しさなら new と役割で分けます。`,
     keyPoints: [
       'knew と new は同音 /njuː/（knew の k は無音）',
-      'knew＝know の過去「知っていた」（know-knew-known）',
-      'new＝形容詞「新しい」（反対は old）',
+      'knew＝know の過去「知っていた」（know-knew-known）。複合語は作らない',
+      'new＝形容詞「新しい」（反対は old）。brand new/newcomer',
     ],
     quiz: [
       {
@@ -9975,11 +9983,15 @@ our は必ず**うしろに名詞**を伴う所有格（our house）ですが、
 | w**ea**r | /wɛər/ | 動詞：身につける | You should **wear** a coat today.（今日はコートを着たほうがいい） |
 | **wh**ere | /wɛər/ | どこに・どこで | **Where** did you buy it?（それをどこで買ったの？） |
 
-🎯 覚え方：**wear は「着る（服）」の動詞、where は wh- で始まる場所の疑問「どこ」**。着る動作なら wear、場所を尋ねるなら where。`,
+🎯 覚え方：**wear は「着る（服）」の動詞、where は wh- で始まる場所の疑問「どこ」**。着る動作なら wear、場所を尋ねるなら where。
+
+### wear / where の派生語で判別を強化
+
+**wear 系**：句動詞 **wear out**（使い古す・すり減らす）、**wear off**（（効果・痛みなどが）徐々に消える）は、wear の「身につける・すり減る」という意味から広がった表現です。**where 系**：名詞 **whereabouts**（居場所・行方）、複合語 **somewhere/anywhere/nowhere** はどれも where と同じ「場所」の要素を持つ仲間です。`,
     keyPoints: [
       'wear と where は同音 /wɛər/',
-      'wear＝動詞「身につけている・着る」（wear-wore-worn）',
-      'where＝どこに・どこで（wh- の疑問・関係副詞）',
+      'wear＝動詞「身につけている・着る」（wear-wore-worn）。wear out/wear off',
+      'where＝どこに・どこで（wh- の疑問・関係副詞）。whereabouts/somewhere',
     ],
     quiz: [
       {
@@ -10549,11 +10561,15 @@ eight から派生する数詞は綴りの変化に注意が必要です。序�
 | guess**ed** | /ɡɛst/ | guess の過去：推測した | I **guessed** the answer correctly.（答えを正しく言い当てた） |
 | guest | /ɡɛst/ | 名詞：客 | We have a **guest** for dinner.（夕食に客が来る） |
 
-🎯 覚え方：**動詞（推測した）は guessed、名詞（客）は guest**。推測なら guessed、招待客・宿泊客なら guest。`,
+🎯 覚え方：**動詞（推測した）は guessed、名詞（客）は guest**。推測なら guessed、招待客・宿泊客なら guest。
+
+### guessed / guest の派生語で判別を強化
+
+**guessed 系**：名詞 **guesswork**（当て推量）、**a best guess**（最善の推測）は、guess の中心の意味そのものです。**guest 系**：複合語 **a guest speaker**（招待講演者）、慣用句 **"Be my guest."**（どうぞご自由に）は、guest の「客・招かれた人」という意味から広がった表現です。`,
     keyPoints: [
       'guessed と guest は同音 /ɡɛst/',
-      'guessed＝guess の過去「推測した」（動詞）',
-      'guest＝名詞「客・ゲスト」（反対は host）',
+      'guessed＝guess の過去「推測した」（動詞）。guesswork/best guess',
+      'guest＝名詞「客・ゲスト」（反対は host）。guest speaker/Be my guest.',
     ],
     quiz: [
       {
@@ -10740,11 +10756,15 @@ eight から派生する数詞は綴りの変化に注意が必要です。序�
 | gr**ea**t | /ɡreɪt/ | 形容詞：偉大な | She is a **great** scientist.（彼女は偉大な科学者だ） |
 | gr**a**te | /ɡreɪt/ | すりおろす／格子 | **Grate** some cheese on top.（上にチーズをすりおろして） |
 
-🎯 覚え方：**「偉大な・すばらしい」は great（eat が入る）**、料理で「すりおろす」や「格子」は grate。ほめ言葉なら great、調理・格子なら grate。`,
+🎯 覚え方：**「偉大な・すばらしい」は great（eat が入る）**、料理で「すりおろす」や「格子」は grate。ほめ言葉なら great、調理・格子なら grate。
+
+### great / grate の派生語で判別を強化
+
+**great 系**：慣用句 **a great deal**（多量・かなりの量）、複合語 **great-grandfather**（曾祖父＝great を世代の接頭語として使う）は、great の中心の意味から広がった語です。**grate 系**：形容詞 **grating**（（声・音が）耳障りな・不快な）は、grate の「きしむ・こすれる」という意味が比喩的に広がった語です。`,
     keyPoints: [
       'great と grate は同音 /ɡreɪt/',
-      'great＝形容詞「偉大な・すばらしい」',
-      'grate＝すりおろす・きしむ／（火）格子',
+      'great＝形容詞「偉大な・すばらしい」。a great deal/great-grandfather',
+      'grate＝すりおろす・きしむ／（火）格子。形容詞grating（耳障りな）',
     ],
     quiz: [
       {
@@ -11232,11 +11252,15 @@ eight から派生する数詞は綴りの変化に注意が必要です。序�
 | band | /bænd/ | 名詞：楽団・帯 | The **band** played all night.（バンドは一晩中演奏した） |
 | ban**ned** | /bænd/ | ban の過去分詞：禁止された | Smoking is **banned** here.（ここは喫煙禁止だ） |
 
-🎯 覚え方：**音楽の「バンド」や「帯」は band、ban（禁止する）の過去分詞「禁止された」は banned（n がふたつ）**。楽団・帯なら band、禁止なら banned。`,
+🎯 覚え方：**音楽の「バンド」や「帯」は band、ban（禁止する）の過去分詞「禁止された」は banned（n がふたつ）**。楽団・帯なら band、禁止なら banned。
+
+### band / banned の複合語で判別を強化
+
+**band 系**：複合語 **a wedding band**（結婚指輪）、**a rubber band**（輪ゴム）は、band の「輪・帯」という中心の意味そのものです。**banned 系**：**an outright ban**（全面禁止）、**a ban on** ~（〜への禁止）のように、名詞 ban とセットで使われる形もよく見ます。`,
     keyPoints: [
       'band と banned は同音 /bænd/',
-      'band＝楽団・バンド／帯・ひも／集団（名詞）',
-      'banned＝ban の過去分詞「禁止された」（n がふたつ）',
+      'band＝楽団・バンド／帯・ひも／集団（名詞）。wedding band/rubber band',
+      'banned＝ban の過去分詞「禁止された」（n がふたつ）。an outright ban/a ban on ~',
     ],
     quiz: [
       {
@@ -12414,11 +12438,15 @@ eight から派生する数詞は綴りの変化に注意が必要です。序�
 | st**a**ke | /steɪk/ | 杭・賭け金・利害 | Their lives were at **stake**.（彼らの命が危険にさらされていた） |
 | st**ea**k | /steɪk/ | ステーキ | I ordered a beef **steak**.（ビーフステーキを注文した） |
 
-🎯 覚え方：**食べ物の「ステーキ」は steak（ea）**、「杭・賭け・利害」は stake。料理なら steak、賭け・利害なら stake（at stake）。`,
+🎯 覚え方：**食べ物の「ステーキ」は steak（ea）**、「杭・賭け・利害」は stake。料理なら steak、賭け・利害なら stake（at stake）。
+
+### stake / steak の派生語で判別を強化
+
+**stake 系**：ビジネス用語 **a stakeholder**（利害関係者）、慣用句 **raise the stakes**（賭け金・リスクを上げる）は、stake の「利害・賭け金」という中心の意味そのものです。**steak 系**：**a steak knife**（ステーキナイフ）のように、steak は食卓の道具名にもよく使われます。`,
     keyPoints: [
       'stake と steak は同音 /steɪk/',
-      'stake＝杭／賭け金／利害（at stake＝危機にさらされて）',
-      'steak＝ステーキ（厚切りの肉・魚）',
+      'stake＝杭／賭け金／利害（at stake＝危機にさらされて）。stakeholder/raise the stakes',
+      'steak＝ステーキ（厚切りの肉・魚）。steak knife',
     ],
     quiz: [
       {
@@ -13314,11 +13342,15 @@ inn は現代の大型ホテルではなく、**昔ながらの小さな宿・�
 | hang**ar** | /ˈhæŋər/ | 格納庫 | The jet is kept in a **hangar**.（ジェット機は格納庫に置かれる） |
 | hang**er** | /ˈhæŋər/ | ハンガー | Hang your coat on a **hanger**.（コートをハンガーに掛けて） |
 
-🎯 覚え方：**飛行機の「格納庫」は hangar（-ar）、服を掛ける「ハンガー」は hanger（hang+-er）**。航空機なら hangar、衣類なら hanger。`,
+🎯 覚え方：**飛行機の「格納庫」は hangar（-ar）、服を掛ける「ハンガー」は hanger（hang+-er）**。航空機なら hangar、衣類なら hanger。
+
+### hanger の比喩表現で判別を強化
+
+**hanger 系**：**a coat hanger**（コートハンガー）のような日用品の複合語に加え、軽蔑的な口語表現 **a hanger-on**（（利益目当てで）くっついて離れない人・取り巻き）という比喩的な使い方もあります。**hangar は航空機専用の語**で、この種の比喩表現は作りません。`,
     keyPoints: [
       'hangar と hanger は同音 /ˈhæŋər/',
-      'hangar＝（飛行機の）格納庫（-ar）',
-      'hanger＝ハンガー・衣類掛け（hang+-er）',
+      'hangar＝（飛行機の）格納庫（-ar）。比喩表現を作らない',
+      'hanger＝ハンガー・衣類掛け（hang+-er）。a hanger-on（取り巻き）',
     ],
     quiz: [
       {
