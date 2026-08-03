@@ -4074,11 +4074,15 @@ blush は動詞だけでなく、化粧品の**チーク（頬紅）**を指す�
 | we**a**k | /wiːk/ | 形容詞：弱い | He felt **weak** after the illness.（病気のあと体が弱っていた） |
 | we**e**k | /wiːk/ | 名詞：週 | I'll see you next **week**.（また来週会いましょう） |
 
-🎯 覚え方：**week には ee があって「7日（seven days）」の週**。それ以外の「弱い」は weak（反対は strong）。カレンダーの話なら week、力・強さの話なら weak。`,
+🎯 覚え方：**week には ee があって「7日（seven days）」の週**。それ以外の「弱い」は weak（反対は strong）。カレンダーの話なら week、力・強さの話なら weak。
+
+### weak / week の派生語で判別を強化
+
+**weak 系**：動詞 **weaken**（弱める・弱まる）、名詞 **weakness**（弱点・弱さ）は、weak の中心の意味そのものから作られた語です。**week 系**：複合語 **weekday**（平日）・**weekend**（週末）、形容詞 **weekly**（週1回の・週刊の＝a weekly magazine）は、week の「週」という意味から広がった語です。`,
     keyPoints: [
       'weak と week は同音 /wiːk/',
-      'weak＝形容詞「弱い」（反対は strong）',
-      'week＝名詞「週」（ee で7日を連想）',
+      'weak＝形容詞「弱い」（反対は strong）。weaken/weakness',
+      'week＝名詞「週」（ee で7日を連想）。weekday/weekend/weekly',
     ],
     quiz: [
       {
@@ -4292,11 +4296,15 @@ remind 人 of 〜 は「〜を思い出させる」のほかに「**〜に似て
 | wa**i**st | /weɪst/ | 名詞：腰・ウエスト | The skirt is tight around the **waist**.（そのスカートは腰まわりがきつい） |
 | wa**s**te | /weɪst/ | 動詞：無駄にする／名詞：廃棄物 | Don't **waste** your time.（時間を無駄にしないで） |
 
-🎯 覚え方：**waist は i が入って体の「くびれ」の線**。waste は「無駄・廃棄物」。体の部位なら waist、「むだ／ごみ」なら waste。`,
+🎯 覚え方：**waist は i が入って体の「くびれ」の線**。waste は「無駄・廃棄物」。体の部位なら waist、「むだ／ごみ」なら waste。
+
+### waist / waste の派生語で判別を強化
+
+**waist 系**：複合語 **waistline**（ウエストライン・胴回り）は、waist の中心の意味そのものです。**waste 系**：形容詞 **wasteful**（無駄の多い）、句動詞 **waste away**（（病気などで）やせ衰える）は、waste の「無駄にする・すり減る」という意味から広がった語です。`,
     keyPoints: [
       'waist と waste は同音 /weɪst/',
-      'waist＝名詞「腰・ウエスト」',
-      'waste＝動詞「無駄にする」／名詞「無駄・廃棄物」',
+      'waist＝名詞「腰・ウエスト」。waistline',
+      'waste＝動詞「無駄にする」／名詞「無駄・廃棄物」。wasteful/waste away',
     ],
     quiz: [
       {
@@ -6269,11 +6277,15 @@ whole は食品表示でもよく見かけます。**whole wheat / whole grain**
 | h**ea**l | /hiːl/ | 動詞：治す・癒える | The wound will **heal** soon.（傷はすぐ治るだろう） |
 | h**ee**l | /hiːl/ | 名詞：かかと | My **heel** hurts in these shoes.（この靴だとかかとが痛い） |
 
-🎯 覚え方：**heal は health（健康）の仲間で「治す」**。heel は ee（かかとの丸み）で足の「かかと」。傷・病気の話なら heal、足・靴なら heel。`,
+🎯 覚え方：**heal は health（健康）の仲間で「治す」**。heel は ee（かかとの丸み）で足の「かかと」。傷・病気の話なら heal、足・靴なら heel。
+
+### heal / heel の派生語で判別を強化
+
+**heal 系**：名詞 **healing**（治癒）、**a healer**（治療者）は、heal の中心の意味そのものです。**heel 系**：慣用句 **Achilles' heel**（唯一の弱点・急所）はギリシャ神話の英雄アキレスの故事に由来し、**head over heels**（（恋に）夢中で・まっさかさまに）も heel を使った定番の言い回しです。`,
     keyPoints: [
       'heal と heel は同音 /hiːl/',
-      'heal＝動詞「治す・癒える」（health の仲間）',
-      'heel＝名詞「かかと・靴のかかと」',
+      'heal＝動詞「治す・癒える」（health の仲間）。healing/healer',
+      'heel＝名詞「かかと・靴のかかと」。Achilles\' heel/head over heels',
     ],
     quiz: [
       {
@@ -8067,11 +8079,15 @@ won は句動詞 **win over**（〜を味方につける・説得する）の過
 | die | /daɪ/ | 動詞：死ぬ | The plant will **die** without water.（水がないと枯れる） |
 | dye | /daɪ/ | 染める・染料 | She **dyed** her hair brown.（髪を茶色に染めた） |
 
-🎯 覚え方：**dye には e があって「染める（色）」、進行形 dyeing も e を残す**。「死ぬ」は die（dying）。色を「染める」なら dye。`,
+🎯 覚え方：**dye には e があって「染める（色）」、進行形 dyeing も e を残す**。「死ぬ」は die（dying）。色を「染める」なら dye。
+
+### die / dye の派生語で判別を強化
+
+**die 系**：句動詞 **die out**（絶滅する・すたれる）、**die down**（（音・勢いが）静まる・弱まる）は、die の「消えてなくなる」という意味から広がった表現です。**dye 系**：複合語 **tie-dye**（絞り染め）、慣用句 **dyed-in-the-wool**（筋金入りの・生粋の＝a dyed-in-the-wool fan）は、糸を染めてから織る手法から来た表現で、dye の中心の意味そのものです。`,
     keyPoints: [
       'die と dye は同音 /daɪ/',
-      'die＝動詞「死ぬ・枯れる」（進行形 dying）',
-      'dye＝染める・染料（進行形 dyeing・e を残す）',
+      'die＝動詞「死ぬ・枯れる」（進行形 dying）。die out/die down',
+      'dye＝染める・染料（進行形 dyeing・e を残す）。tie-dye/dyed-in-the-wool',
     ],
     quiz: [
       {
@@ -8250,11 +8266,15 @@ won は句動詞 **win over**（〜を味方につける・説得する）の過
 | m**a**le | /meɪl/ | 男性の・オスの | A **male** lion has a mane.（オスのライオンにはたてがみがある） |
 | m**ai**l | /meɪl/ | 郵便・送る | I got a lot of **mail** today.（今日は郵便がたくさん届いた） |
 
-🎯 覚え方：**mail には ai があって「郵便（届くもの）」**。性別の「男性・オス」は male（female と対）。郵便なら mail、性別なら male。`,
+🎯 覚え方：**mail には ai があって「郵便（届くもの）」**。性別の「男性・オス」は male（female と対）。郵便なら mail、性別なら male。
+
+### mail の複合語で判別を強化
+
+**mail 系**：**e-mail**（電子メール）は今や mail 単独より使用頻度が高いほど定着した複合語です。**fan mail**（ファンレター）、**mailbox**（郵便受け）も、mail の「郵便・届くもの」という中心の意味から広がった語です。**male はこの種の複合語をあまり作らず、female との対比で使われる点が対照的**です。`,
     keyPoints: [
       'male と mail は同音 /meɪl/',
       'male＝男性の・オスの（反対は female）',
-      'mail＝郵便（物）・（郵便で）送る',
+      'mail＝郵便（物）・（郵便で）送る。e-mail/mailbox/fan mail',
     ],
     quiz: [
       {
@@ -10562,11 +10582,15 @@ eight から派生する数詞は綴りの変化に注意が必要です。序�
 | ma**de** | /meɪd/ | make の過去：作った | This cake was **made** at home.（このケーキは家で作られた） |
 | ma**id** | /meɪd/ | 名詞：メイド | The **maid** cleaned the rooms.（メイドが部屋を掃除した） |
 
-🎯 覚え方：**動詞（作った）は made、名詞（お手伝い）は maid**。作られたなら made、掃除・給仕をする人なら maid。`,
+🎯 覚え方：**動詞（作った）は made、名詞（お手伝い）は maid**。作られたなら made、掃除・給仕をする人なら maid。
+
+### made / maid の派生語で判別を強化
+
+**made 系**：複合語 **homemade**（自家製の）・**man-made**（人工の）は、made の「作られた」という中心の意味から広がった語です。**maid 系**：複合語 **bridesmaid**（花嫁の付添人）は、maid が「未婚の女性・お手伝い」という古い意味を残す語であることを示す複合語です。`,
     keyPoints: [
       'made と maid は同音 /meɪd/',
-      'made＝make の過去「作った」（be made of ~）',
-      'maid＝名詞「メイド・お手伝い」',
+      'made＝make の過去「作った」（be made of ~）。homemade/man-made',
+      'maid＝名詞「メイド・お手伝い」。bridesmaid',
     ],
     quiz: [
       {
@@ -12560,11 +12584,15 @@ witch から派生した慣用句 **witch hunt**（魔女狩り＝転じて「�
 | tide | /taɪd/ | 名詞：潮 | The **tide** is coming in.（潮が満ちてきている） |
 | tie**d** | /taɪd/ | tie の過去：結んだ | He **tied** his shoelaces.（彼は靴ひもを結んだ） |
 
-🎯 覚え方：**海の「潮」は tide、tie（結ぶ・同点になる）の過去は tied**。潮の話なら tide、結んだ・引き分けたなら tied。`,
+🎯 覚え方：**海の「潮」は tide、tie（結ぶ・同点になる）の過去は tied**。潮の話なら tide、結んだ・引き分けたなら tied。
+
+### tide / tied の慣用句で判別を強化
+
+**tide 系**：句動詞 **tide over**（（一時的に）〜を乗り切らせる＝This money will tide us over.）、慣用句 **turn the tide**（形勢を逆転させる）は、tide の「潮の流れ」という意味から生まれた比喩表現です。**tied 系**：形容詞的表現 **tied up**（（仕事などで）手が離せない・忙しい）は、tie の「縛る」という意味から広がった口語表現です。`,
     keyPoints: [
       'tide と tied は同音 /taɪd/',
-      'tide＝名詞「潮・潮の満ち引き」（high tide＝満潮）',
-      'tied＝tie の過去「結んだ・引き分けた」',
+      'tide＝名詞「潮・潮の満ち引き」（high tide＝満潮）。tide over/turn the tide',
+      'tied＝tie の過去「結んだ・引き分けた」。tied up（手が離せない）',
     ],
     quiz: [
       {
@@ -12621,11 +12649,15 @@ witch から派生した慣用句 **witch hunt**（魔女狩り＝転じて「�
 | **wh**ine | /waɪn/ | 動詞：泣き言を言う | Stop **whining** and finish your work.（泣き言はやめて仕事を終えて） |
 | **w**ine | /waɪn/ | 名詞：ワイン | They shared a bottle of **wine**.（ワインを1本分け合った） |
 
-🎯 覚え方：**飲み物の「ワイン」は wine（w-）、めそめそ「泣き言」は whine（wh-）**。お酒なら wine、不平・泣き言なら whine。`,
+🎯 覚え方：**飲み物の「ワイン」は wine（w-）、めそめそ「泣き言」は whine（wh-）**。お酒なら wine、不平・泣き言なら whine。
+
+### wine / whine の実例で判別を強化
+
+**wine 系**：慣用句 **wine and dine**（（客を）ご馳走してもてなす）、**vintage wine**（ヴィンテージワイン・年代物のワイン）は、wine の中心の意味そのものから広がった表現です。**whine 系**：whine は名詞としても使われ、a whine of complaint（泣き言・不満の声）のように「甲高い泣くような音・不満げな声」を指します。`,
     keyPoints: [
       'whine と wine は同音 /waɪn/',
-      'whine＝めそめそ泣く・泣き言を言う（動詞・wh-）',
-      'wine＝ワイン（名詞・w-）',
+      'whine＝めそめそ泣く・泣き言を言う（動詞・wh-、名詞にも）',
+      'wine＝ワイン（名詞・w-）。wine and dine/vintage wine',
     ],
     quiz: [
       {
