@@ -2392,10 +2392,14 @@ borrow と lend は**無償で、持ち運べるものを一時的に**やり取
 | agent | 人 | 代理人・行為者 | A travel **agent** booked our trip.（旅行代理人が旅行を手配した） |
 | agency | 組織 | 代理店・機関 | She works at a travel **agency**.（彼女は旅行代理店で働いている） |
 
-🎯 見分け方：**人（〜する人・代理人）**なら agent、**会社・機関（組織）**なら agency。「-cy が付くと組織・機関」と結びつけると整理できます（例：agen**cy**）。`,
+🎯 見分け方：**人（〜する人・代理人）**なら agent、**会社・機関（組織）**なら agency。「-cy が付くと組織・機関」と結びつけると整理できます（例：agen**cy**）。
+
+### agent / agency の実例で判別を強化
+
+**agent 系**：スポーツ用語 **a free agent**（無所属選手・移籍自由の選手）、**a secret agent**（スパイ・諜報員）は、どちらも「独立して動く人」という agent の中心の意味そのものです。**agency 系**：**an employment agency**（人材紹介会社）のように、業種を表す複合語をよく作ります。`,
     keyPoints: [
-      'agent＝代理人・取次人・行為者（人）',
-      'agency＝代理店・機関・取次業（組織）',
+      'agent＝代理人・取次人・行為者（人）。free agent/secret agent',
+      'agency＝代理店・機関・取次業（組織）。employment agency',
       '-cy が付くと組織・機関',
     ],
     quiz: [
@@ -4430,10 +4434,14 @@ remind 人 of 〜 は「〜を思い出させる」のほかに「**〜に似て
 | ang**el** | /ˈeɪndʒəl/ | 天使 | She sang like an **angel**.（彼女は天使のように歌った） |
 | ang**le** | /ˈæŋɡəl/ | 角度・角 | Measure the **angle** of the corner.（角の角度を測って） |
 
-🎯 覚え方：**angel は e が先で「天使（天のもの）」、g はジ**。angle は l が先で「角（数学の角度）」、g はグ。数学・図形の話なら angle。`,
+🎯 覚え方：**angel は e が先で「天使（天のもの）」、g はジ**。angle は l が先で「角（数学の角度）」、g はグ。数学・図形の話なら angle。
+
+### angel / angle の実例で判別を強化
+
+**angel 系**：慣用句 **a guardian angel**（守護天使）、ビジネス用語 **an angel investor**（エンジェル投資家＝起業初期に個人で出資する投資家）は、angel の中心の意味から広がった語です。**angle 系**：数学用語 **a right angle**（直角）、句動詞 **angle for** ~（遠回しに〜を得ようとする＝angle for a compliment）は、angle の「角度・方向」という意味から広がった表現です。`,
     keyPoints: [
-      'angel /ˈeɪndʒəl/＝天使（g は /dʒ/）',
-      'angle /ˈæŋɡəl/＝角度・角（g は /ɡ/）',
+      'angel /ˈeɪndʒəl/＝天使（g は /dʒ/）。guardian angel/angel investor',
+      'angle /ˈæŋɡəl/＝角度・角（g は /ɡ/）。right angle/angle for（遠回しに求める）',
       '末尾 -el（angel）と -le（angle）の並びが逆',
     ],
     quiz: [
@@ -8229,11 +8237,15 @@ won は句動詞 **win over**（〜を味方につける・説得する）の過
 | s**igh**t | /saɪt/ | 視界・光景・視力 | The sunset was a beautiful **sight**.（夕日は美しい光景だった） |
 | s**i**te | /saɪt/ | 用地・場所・サイト | This is the **site** of the new school.（ここが新校舎の用地だ） |
 
-🎯 覚え方：**sight は「見る（see）」の仲間で「光景・視力」**、site は「場所・敷地（location）」。建設用地やウェブサイトは site、目に映る「光景」は sight。`,
+🎯 覚え方：**sight は「見る（see）」の仲間で「光景・視力」**、site は「場所・敷地（location）」。建設用地やウェブサイトは site、目に映る「光景」は sight。
+
+### sight / site の慣用句で判別を強化
+
+**sight 系**：慣用句 **at first sight**（一目見て＝love at first sight）、**out of sight**（見えないところに）は、sight の「視界・見る」という中心の意味そのものです。**site 系**：形容詞 **on-site**（現地の・その場での）、複合語 **a construction site**（建設現場）は、site の「場所・敷地」という意味から広がった語です。`,
     keyPoints: [
       'sight と site は同音 /saɪt/',
-      'sight＝視界・光景・視力・名所（sightseeing）',
-      'site＝用地・敷地・現場・ウェブサイト',
+      'sight＝視界・光景・視力・名所（sightseeing）。at first sight/out of sight',
+      'site＝用地・敷地・現場・ウェブサイト。on-site/construction site',
     ],
     quiz: [
       {
@@ -8538,10 +8550,14 @@ won は句動詞 **win over**（〜を味方につける・説得する）の過
 | shade | 日陰・色合い | Let's sit in the **shade** of that tree.（あの木の日陰に座ろう） |
 | shadow | 輪郭のある影 | The tree cast a long **shadow**.（木は長い影を落とした） |
 
-🎯 覚え方：**「日陰（涼しい領域）」は shade、「（形のある）影」は shadow**。木陰でひと休みは shade、地面に伸びる木の「影」は shadow。色の「濃淡」も shade。`,
+🎯 覚え方：**「日陰（涼しい領域）」は shade、「（形のある）影」は shadow**。木陰でひと休みは shade、地面に伸びる木の「影」は shadow。色の「濃淡」も shade。
+
+### shade / shadow の慣用句で判別を強化
+
+**shade 系**：口語で **shades**（サングラス）を指すこともあり、慣用句 **put ~ in the shade**（〜を見劣りさせる・かすませる）は、shade の「暗がり・陰る」という意味から広がった表現です。**shadow 系**：慣用句 **beyond a shadow of a doubt**（疑いの余地なく）、動詞 **shadow** ~（〜に密着して観察する＝job shadowing）は、shadow の「輪郭のある影・つきまとうもの」という意味から生まれた表現です。`,
     keyPoints: [
-      'shade＝日陰・光の当たらない領域／色合い',
-      'shadow＝輪郭のある影（物・人がつくる形）',
+      'shade＝日陰・光の当たらない領域／色合い。put ~ in the shade（見劣りさせる）',
+      'shadow＝輪郭のある影（物・人がつくる形）。beyond a shadow of a doubt',
       '涼む「日陰」は shade、伸びる「影」は shadow',
     ],
     quiz: [
@@ -10113,11 +10129,15 @@ our は必ず**うしろに名詞**を伴う所有格（our house）ですが、
 | **sc**ene | /siːn/ | 名詞：場面・現場 | The final **scene** was moving.（最後の場面は感動的だった） |
 | seen | /siːn/ | see の過去分詞：見た | I have **seen** that movie.（その映画を見たことがある） |
 
-🎯 覚え方：**scene は sc で始まる名詞「場面・現場（scenery＝景色の仲間）」**、seen は see の過去分詞。名詞「場面」なら scene、have のあとの「見た」なら seen。`,
+🎯 覚え方：**scene は sc で始まる名詞「場面・現場（scenery＝景色の仲間）」**、seen は see の過去分詞。名詞「場面」なら scene、have のあとの「見た」なら seen。
+
+### scene の慣用句で判別を強化
+
+**scene 系**：慣用句 **behind the scenes**（舞台裏で・非公開で）、**make a scene**（人前で騒ぎを起こす）は、scene の「場面・舞台」という中心の意味から広がった表現です。**seen は see の過去分詞としてのみ使う語**で、この種の複合語や慣用句は作りません。has/have のあとに来ていれば seen、それ以外の名詞の位置なら scene と判断できます。`,
     keyPoints: [
       'scene と seen は同音 /siːn/',
-      'scene＝名詞「場面・光景・現場」（sc- 始まり）',
-      'seen＝see の過去分詞「見た」（have seen）',
+      'scene＝名詞「場面・光景・現場」（sc- 始まり）。behind the scenes/make a scene',
+      'seen＝see の過去分詞「見た」（have seen）。複合語は作らない',
     ],
     quiz: [
       {
@@ -10174,11 +10194,15 @@ our は必ず**うしろに名詞**を伴う所有格（our house）ですが、
 | pro**fit** | /ˈprɒfɪt/ | 利益・もうけ | The company made a large **profit**.（会社は大きな利益を上げた） |
 | pro**phet** | /ˈprɒfɪt/ | 預言者 | The **prophet** warned of hard times.（預言者は苦難を予告した） |
 
-🎯 覚え方：**お金の「利益」は profit（fit）、宗教の「預言者」は prophet（ph）**。ビジネスなら profit、聖書・宗教なら prophet。`,
+🎯 覚え方：**お金の「利益」は profit（fit）、宗教の「預言者」は prophet（ph）**。ビジネスなら profit、聖書・宗教なら prophet。
+
+### profit / prophet の派生語で判別を強化
+
+**profit 系**：複合語 **non-profit**（非営利の）、ビジネス用語 **profit margin**（利益率）は、profit の中心の意味そのものです。**prophet 系**：名詞 **prophecy**（預言・予言）は prophet が語る内容そのものを指し、「預言する人（prophet）」と「預言の内容（prophecy）」を品詞・意味で区別します。`,
     keyPoints: [
       'profit と prophet は同音 /ˈprɒfɪt/',
-      'profit＝利益・もうけ（反対は loss）',
-      'prophet＝預言者（ph で綴る）',
+      'profit＝利益・もうけ（反対は loss）。non-profit/profit margin',
+      'prophet＝預言者（ph で綴る）。prophecy（預言の内容）と区別',
     ],
     quiz: [
       {
@@ -10500,11 +10524,15 @@ eight から派生する数詞は綴りの変化に注意が必要です。序�
 | hi**gh**er | /ˈhaɪər/ | 比較級：より高い | Prices are **higher** this year.（今年は物価が高い） |
 | hire | /ˈhaɪər/ | 動詞：雇う・借りる | The company will **hire** ten people.（会社は10人を雇う） |
 
-🎯 覚え方：**higher は high の比較級「より高い」（gh は無音）**、hire は「雇う・借りる」。高さ・程度が上なら higher、人を雇う・物を借りるなら hire。`,
+🎯 覚え方：**higher は high の比較級「より高い」（gh は無音）**、hire は「雇う・借りる」。高さ・程度が上なら higher、人を雇う・物を借りるなら hire。
+
+### higher / hire の複合語で判別を強化
+
+**higher 系**：複合語 **higher education**（高等教育）、口語表現 **the higher-ups**（上層部・お偉方）は、higher の「より上の」という中心の意味そのものです。**hire 系**：慣用句 **for hire**（貸し出し用の・雇われ待ちの＝a taxi for hire）、名詞 **a new hire**（新規採用者）は、hire の「雇う・貸す」という意味から広がった表現です。`,
     keyPoints: [
       'higher と hire はほぼ同音 /ˈhaɪər/',
-      'higher＝より高い（high の比較級）',
-      'hire＝雇う／（英）有料で借りる',
+      'higher＝より高い（high の比較級）。higher education/the higher-ups',
+      'hire＝雇う／（英）有料で借りる。for hire/a new hire',
     ],
     quiz: [
       {
@@ -10943,10 +10971,14 @@ eight から派生する数詞は綴りの変化に注意が必要です。序�
 | much | 不可算 | 多くの（量） | I don't have **much** time.（あまり時間がない） |
 | many | 可算・複数 | 多くの（数） | She has **many** friends.（彼女は友達が多い） |
 
-🎯 覚え方：**不可算の「多量」は much、可算の「多数」は many**。肯定文で「たくさんの」は a lot of がどちらにも使える。water は much、friends は many。`,
+🎯 覚え方：**不可算の「多量」は much、可算の「多数」は many**。肯定文で「たくさんの」は a lot of がどちらにも使える。water は much、friends は many。
+
+### much / many の応用表現で判別を強化
+
+**much 系**：**much of a** ~（大した〜ではない＝not much of a singer）、比較表現 **as much as** ~（〜と同じくらい多く）は、much の「量」という中心の意味から広がった表現です。**many 系**：文語的な表現 **many a** + 単数名詞（幾たびもの〜＝many a time で「幾度となく」）は、意味は複数でも直後に単数形が来る珍しい形です。`,
     keyPoints: [
-      'much＝（不可算に）多くの（much water/time）',
-      'many＝（可算・複数に）多くの（many books/people）',
+      'much＝（不可算に）多くの（much water/time）。not much of a ~/as much as ~',
+      'many＝（可算・複数に）多くの（many books/people）。many a + 単数名詞（文語）',
       '肯定文の「たくさん」は a lot of がどちらにも可',
     ],
     quiz: [
