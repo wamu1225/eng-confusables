@@ -3403,11 +3403,15 @@ blush は動詞だけでなく、化粧品の**チーク（頬紅）**を指す�
 | cell | /sel/ | 細胞・独房・携帯 | The human body has many **cells**.（人体には多くの細胞がある） |
 | sell | /sel/ | 売る | They **sell** fresh vegetables here.（ここでは新鮮な野菜を売っている） |
 
-🎯 リスニングの要点：音は同じなので**品詞と意味**で判断。**「売る（動作・動詞）」なら sell**、**「細胞・独房・電池・携帯（もの・名詞）」なら cell**。`,
+🎯 リスニングの要点：音は同じなので**品詞と意味**で判断。**「売る（動作・動詞）」なら sell**、**「細胞・独房・電池・携帯（もの・名詞）」なら cell**。
+
+### cell / sell の派生語で判別を強化
+
+**cell 系**：形容詞 **cellular**（細胞の・携帯電話の）は cell phone の語源そのものです。**sell 系**：句動詞 **sell out**（売り切れる／（信念を）売り渡す）、慣用句 **sell** ~ **short**（〜を過小評価する）は、sell の「手放す」という意味から広がった表現です。`,
     keyPoints: [
       'cell と sell は同音 /sel/',
-      'cell＝名詞（細胞・独房・電池・携帯）',
-      'sell＝動詞「売る」（sell-sold-sold）',
+      'cell＝名詞（細胞・独房・電池・携帯）。cellular',
+      'sell＝動詞「売る」（sell-sold-sold）。sell out/sell ~ short',
     ],
     quiz: [
       {
@@ -6358,11 +6362,15 @@ whole は食品表示でもよく見かけます。**whole wheat / whole grain**
 | right | /raɪt/ | 右・正しい・権利 | Turn **right** at the corner.（角を右に曲がって） |
 | **w**rite | /raɪt/ | 動詞：書く | Please **write** your name here.（ここに名前を書いて） |
 
-🎯 覚え方：**write は先頭の w を読まないが「書く（動詞）」の合図**。「右・正しい・権利」はすべて right。文で「書く」動作なら write。`,
+🎯 覚え方：**write は先頭の w を読まないが「書く（動詞）」の合図**。「右・正しい・権利」はすべて right。文で「書く」動作なら write。
+
+### right / write の慣用句で判別を強化
+
+**right 系**：複合語 **human rights**（人権）、副詞句 **right away**（すぐに）は、right の「正しい・権利」という中心の意味から広がった表現です。**write 系**：句動詞 **write off**（（負債などを）帳消しにする・見限る）、複合語 **writer's block**（書けない状態・創作の行き詰まり）は、write の中心の意味から生まれた表現です。`,
     keyPoints: [
       'right と write は同音 /raɪt/（w は無音）',
-      'right＝右・正しい・権利（反対は left / wrong）',
-      'write＝動詞「書く」（write-wrote-written）',
+      'right＝右・正しい・権利（反対は left / wrong）。human rights/right away',
+      'write＝動詞「書く」（write-wrote-written）。write off/writer\'s block',
     ],
     quiz: [
       {
@@ -8428,10 +8436,14 @@ won は句動詞 **win over**（〜を味方につける・説得する）の過
 | salary | 月・年 | 固定給 | Her annual **salary** is high.（彼女の年俸は高い） |
 | wage | 時間・週 | 時間給 | Workers demanded higher **wages**.（労働者は賃上げを求めた） |
 
-🎯 覚え方：**まとまった「月給・年俸」は salary、時間で払う「時給・週給」は wage(s)**。会社員の固定給は salary、アルバイトの時給は wage。`,
+🎯 覚え方：**まとまった「月給・年俸」は salary、時間で払う「時給・週給」は wage(s)**。会社員の固定給は salary、アルバイトの時給は wage。
+
+### salary / wage の派生語・慣用句で判別を強化
+
+**salary 系**：形容詞 **salaried**（給与制の・月給の＝a salaried employee）は、salary の中心の意味そのものです。**wage 系**：複合語 **a living wage**（生活できる最低限の賃金）、慣用句 **wage war**（（戦争・キャンペーンを）遂行する）は、wage が動詞としても使われることを示す表現です。`,
     keyPoints: [
-      'salary＝固定給（月給・年俸）',
-      'wage＝時間給・週給（働いた時間・量で払う。複数 wages）',
+      'salary＝固定給（月給・年俸）。形容詞salaried',
+      'wage＝時間給・週給（働いた時間・量で払う。複数 wages）。a living wage/wage war',
       '固定給は salary、時給は wage',
     ],
     quiz: [
@@ -8489,10 +8501,14 @@ won は句動詞 **win over**（〜を味方につける・説得する）の過
 | custom | 社会・集団 | 慣習・風習 | It is a **custom** to bow in Japan.（日本ではお辞儀をする習慣がある） |
 | habit | 個人 | 癖・習慣 | Biting nails is a bad **habit**.（爪をかむのは悪い癖だ） |
 
-🎯 覚え方：**文化・地域の「ならわし」は custom、個人の「癖」は habit**。「〜する習慣がある（社会）」は custom、「〜する癖がある（個人）」は habit。`,
+🎯 覚え方：**文化・地域の「ならわし」は custom、個人の「癖」は habit**。「〜する習慣がある（社会）」は custom、「〜する癖がある（個人）」は habit。
+
+### custom / habit の複合語で判別を強化
+
+**custom 系**：複数形 **customs**（税関）は、空港などで見る **go through customs**（税関を通る）のように、custom とは別の顔を持つ語です（もとは「慣習的に納める税」の意）。**habit 系**：形容詞 **habitual**（習慣的な）、慣用句 **kick the habit**（悪習を断つ）は、habit の中心の意味から広がった表現です。`,
     keyPoints: [
-      'custom＝社会・集団の慣習・風習・しきたり',
-      'habit＝個人の癖・習慣（無意識に繰り返す）',
+      'custom＝社会・集団の慣習・風習・しきたり。複数customs（税関）は別語義',
+      'habit＝個人の癖・習慣（無意識に繰り返す）。habitual/kick the habit',
       '文化なら custom、個人の癖なら habit',
     ],
     quiz: [
@@ -11595,10 +11611,14 @@ eight から派生する数詞は綴りの変化に注意が必要です。序�
 | come | こちらへ | 来る | Can you **come** to my house?（うちに来られる？） |
 | go | あちらへ | 行く | I need to **go** to the bank.（銀行へ行かなくては） |
 
-🎯 覚え方：**話し手・聞き手のいる所へなら come、そこから離れるなら go**。「（あなたの所へ）今行くよ」は英語では I'm **coming**（相手基準）。bring/take と同じ発想。`,
+🎯 覚え方：**話し手・聞き手のいる所へなら come、そこから離れるなら go**。「（あなたの所へ）今行くよ」は英語では I'm **coming**（相手基準）。bring/take と同じ発想。
+
+### come / go の句動詞で判別を強化
+
+**come 系**：句動詞 **come across** ~（〜に偶然出会う）、**come up with** ~（（アイデアを）思いつく）は、come の「近づく・現れる」という意味から広がった表現です。**go 系**：句動詞 **go through** ~（（つらい経験を）くぐり抜ける）、慣用句 **go ahead**（どうぞ・進めてください）は、go の「進む」という意味から生まれた表現です。`,
     keyPoints: [
-      'come＝基準（話し手・聞き手）の方へ「来る」（come-came-come）',
-      'go＝基準から離れて「行く」（go-went-gone）',
+      'come＝基準（話し手・聞き手）の方へ「来る」（come-came-come）。come across/come up with',
+      'go＝基準から離れて「行く」（go-went-gone）。go through/go ahead',
       '相手の所へ向かうときも come（bring/take と同型）',
     ],
     quiz: [
@@ -13233,11 +13253,15 @@ witch から派生した慣用句 **witch hunt**（魔女狩り＝転じて「�
 | plum | /plʌm/ | すもも（果実） | This **plum** is sweet and ripe.（このすももは甘く熟している） |
 | plum**b** | /plʌm/ | 鉛直の・測る | Is the wall exactly **plumb**?（壁は正確に垂直？） |
 
-🎯 覚え方：**果物の「すもも」は plum、垂直・配管の plumb（b は黙字・plumber＝配管工）**。食べ物なら plum、垂直・水道なら plumb。`,
+🎯 覚え方：**果物の「すもも」は plum、垂直・配管の plumb（b は黙字・plumber＝配管工）**。食べ物なら plum、垂直・水道なら plumb。
+
+### plum / plumb の慣用句で判別を強化
+
+**plum 系**：形容詞的に使う **a plum job**（誰もが欲しがる好条件の仕事）は、果実のすももが「甘い・上等な」というイメージから転じた表現です。**plumb 系**：名詞 **plumbing**（配管設備）、慣用句 **plumb the depths of** ~（〜のどん底を経験する・徹底的に探る）は、plumb の「深さを測る」という意味から広がった表現です。`,
     keyPoints: [
       'plum と plumb は同音 /plʌm/（plumb の b は無音）',
-      'plum＝プラム・すもも（果実）',
-      'plumb＝鉛直の・（深さを）測る（plumber＝配管工）',
+      'plum＝プラム・すもも（果実）。a plum job（好条件の仕事）',
+      'plumb＝鉛直の・（深さを）測る（plumber＝配管工）。plumbing/plumb the depths',
     ],
     quiz: [
       {
@@ -14143,11 +14167,15 @@ inn は現代の大型ホテルではなく、**昔ながらの小さな宿・�
 | mus**c**le | /ˈmʌsl/ | 筋肉 | Exercise builds **muscle**.（運動は筋肉をつくる） |
 | mus**s**el | /ˈmʌsl/ | ムール貝 | We ate **mussels** in white wine.（白ワイン蒸しのムール貝を食べた） |
 
-🎯 覚え方：**体の「筋肉」は muscle（c が入る・muscular）、食べる貝は mussel（s がふたつ）**。体なら muscle、料理の貝なら mussel。`,
+🎯 覚え方：**体の「筋肉」は muscle（c が入る・muscular）、食べる貝は mussel（s がふたつ）**。体なら muscle、料理の貝なら mussel。
+
+### muscle の慣用句で判別を強化
+
+**muscle 系**：句動詞 **muscle in**（（強引に）割り込む・介入する）、慣用句 **flex one's muscles**（力を誇示する）は、muscle の「力・筋力」という意味から広がった表現です。**mussel は食用の二枚貝を指す語義だけ**で、比喩的な慣用句はほとんど作りません。`,
     keyPoints: [
       'muscle と mussel は同音 /ˈmʌsl/',
-      'muscle＝筋肉（c あり・muscular）',
-      'mussel＝ムール貝・イガイ（s がふたつ）',
+      'muscle＝筋肉（c あり・muscular）。muscle in/flex one\'s muscles',
+      'mussel＝ムール貝・イガイ（s がふたつ）。比喩表現を作らない',
     ],
     quiz: [
       {
@@ -15003,11 +15031,15 @@ confuse（混乱させる）のような**感情動詞**は、分詞の形で意
 
 💡 idle には「根拠のない」という用法もあります（idle rumors＝根も葉もないうわさ）。
 
-🎯 覚え方：**-le は動きが「止まっている」idle、-ol は人が「拝む」idol**。`,
+🎯 覚え方：**-le は動きが「止まっている」idle、-ol は人が「拝む」idol**。
+
+### idle / idol の派生語で判別を強化
+
+**idle 系**：句動詞 **idle away**（（時間を）だらだら過ごす＝idle away the afternoon）は、idle の「何もしない」という意味そのものです。**idol 系**：動詞 **idolize**（〜を偶像視する・熱狂的に崇拝する）は、idol の中心の意味から作られた語で、ファンが特定の人物を過度に崇拝する様子を表します。`,
     keyPoints: [
       'idle と idol は同音 /ˈaɪdl/',
-      'idle＝稼働していない・怠惰な（動詞ではアイドリング）',
-      'idol＝偶像・崇拝の対象',
+      'idle＝稼働していない・怠惰な（動詞ではアイドリング）。idle away',
+      'idol＝偶像・崇拝の対象。動詞idolize',
     ],
     quiz: [
       {
