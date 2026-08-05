@@ -157,12 +157,23 @@ for (const mod of modules) {
   <nav style="margin-top:26px;border-top:1px solid #e2dfd7;padding-top:14px"><a href="${BASE}/" style="color:#2f4b7c;text-decoration:none">← 一覧へ戻る</a></nav>
   ${disclaimer}
 </article>`;
-  writePage(mod.id, title, mod.description, body, {
-    '@context': 'https://schema.org', '@type': 'Article',
-    headline: `${mod.title} の違い・使い分け`, description: mod.description, url: `${BASE_URL}/${mod.id}/`,
-    inLanguage: 'ja', isAccessibleForFree: true,
-    publisher: { '@type': 'Organization', name: 'study-apps.com', url: 'https://study-apps.com' },
-  });
+  // O-2-10（2026-08-05）：下層ページにBreadcrumbListが欠落していた（Articleのみ）。
+  writePage(mod.id, title, mod.description, body, [
+    {
+      '@context': 'https://schema.org', '@type': 'BreadcrumbList',
+      itemListElement: [
+        { '@type': 'ListItem', position: 1, name: 'さがす', item: `${BASE_URL}/` },
+        { '@type': 'ListItem', position: 2, name: chapterNames[mod.chapter] ?? `カテゴリ${mod.chapter}`, item: `${BASE_URL}/` },
+        { '@type': 'ListItem', position: 3, name: mod.title, item: `${BASE_URL}/${mod.id}/` },
+      ],
+    },
+    {
+      '@context': 'https://schema.org', '@type': 'Article',
+      headline: `${mod.title} の違い・使い分け`, description: mod.description, url: `${BASE_URL}/${mod.id}/`,
+      inLanguage: 'ja', isAccessibleForFree: true,
+      publisher: { '@type': 'Organization', name: 'study-apps.com', url: 'https://study-apps.com' },
+    },
+  ]);
   count++;
 }
 
