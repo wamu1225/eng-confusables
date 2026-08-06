@@ -5300,9 +5300,13 @@ study は「勉強する」という**過程**、learn は「身につく」と�
 
 🎯 覚え方：**値札に書かれた「売値」は price、実際に「かかるお金」は cost**。「〜円かかる」と動詞で言うなら cost（It costs ...）。price は動詞では主に「値をつける」。
 
-### price / cost の慣用句で判別を強化
+### 同じ買い物を、売る側と買う側から見る
 
-**price 系**：慣用句 **at any price**（どんな犠牲を払っても）、複合語 **a price tag**（値札）は、price の中心の意味そのものです。**cost 系**：慣用句 **at the cost of** ~（〜を犠牲にして）、形容詞 **cost-effective**（費用対効果の高い）は、cost の「犠牲・負担」という意味から広がった表現です。`,
+一台の車に 300 万円という数字がついているとき、店から見ればそれは price です。値札に書かれ、交渉して上下する数字を指します。同じ車を買う側から見ると、300 万円は cost になります。自分の側から出ていくもの、という視点です。
+
+この「出ていくもの」はお金に限りません。cost は時間や健康や人間関係にも使えます。at the cost of one's health なら健康を引き換えにした、という意味で、ここに price は入りません。逆に at any price は「いくら払ってでも」から転じて、犠牲をいとわない決意を表します。**視点がどちら側にあるか**を見れば、慣用句もつながって覚えられます。
+
+動詞になると差はもっとはっきりします。This car costs 3 million yen とは言えますが、prices は「値をつける」という別の動作です。`,
     keyPoints: [
       'price＝名詞「価格・売値（値札の値段）」。at any price/a price tag',
       'cost＝名詞「費用」／動詞「（金額が）かかる」（cost-cost-cost）。at the cost of/cost-effective',
@@ -6006,9 +6010,13 @@ sole は靴の「靴底」だけでなく、食用魚の**舌平目（sole）**�
 
 🎯 覚え方：**数えられる「一つの職」は a job、数えられない「労働一般」は work（a work は×）**。「仕事を探す」は look for a job、「仕事に行く」は go to work。
 
-### job / work の複合語で判別を強化
+### 数えられるかどうかで、ほぼ決まる
 
-**job 系**：複合語 **job security**（雇用の安定）、慣用句 **odd jobs**（雑用・臨時の仕事）は、job の「具体的な仕事」という意味そのものです。**work 系**：句動詞 **work out**（運動する／うまくいく／解決する）は多義で頻出です。例外として「作品」の意味では **a work of art**（芸術作品）のように可算名詞になります。`,
+この二語で書き間違えるとき、原因はたいてい意味ではなく数え方です。job は数えられるので a job、two jobs、odd jobs と言えます。work は数えられないので **a work は原則として使えません**。I have a lot of work today は正しく、a work とすると崩れます。
+
+例外がひとつあり、「作品」を指すときの work は数えられます。a work of art、the complete works of Shakespeare がそれです。同じ綴りでも、労働を指すか作品を指すかで数え方が入れ替わります。
+
+複合語もこの線に沿います。雇用そのものを指す job security は job 側、動詞句の work out（運動する、うまくいく、解決する）は work 側で、後者は文脈ごとに訳が変わるため、出てきた場面ごとに意味を取る必要があります。`,
     keyPoints: [
       'job＝可算「具体的な職・仕事」（a job／two jobs）。job security/odd jobs',
       'work＝不可算「労働・仕事一般」（a work は不可）。work out。例外：a work of art（可算）',
