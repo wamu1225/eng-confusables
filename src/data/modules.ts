@@ -5298,10 +5298,14 @@ study は「勉強する」という**過程**、learn は「身につく」と�
 | price | 名詞 | 売値・価格 | The **price** of this bag is 50 dollars.（このかばんの値段は50ドルだ） |
 | cost | 名詞・動詞 | 費用／（金額が）かかる | The trip **cost** us a lot.（その旅行はかなり費用がかかった） |
 
-🎯 覚え方：**値札に書かれた「売値」は price、実際に「かかるお金」は cost**。「〜円かかる」と動詞で言うなら cost（It costs ...）。price は動詞では主に「値をつける」。`,
+🎯 覚え方：**値札に書かれた「売値」は price、実際に「かかるお金」は cost**。「〜円かかる」と動詞で言うなら cost（It costs ...）。price は動詞では主に「値をつける」。
+
+### price / cost の慣用句で判別を強化
+
+**price 系**：慣用句 **at any price**（どんな犠牲を払っても）、複合語 **a price tag**（値札）は、price の中心の意味そのものです。**cost 系**：慣用句 **at the cost of** ~（〜を犠牲にして）、形容詞 **cost-effective**（費用対効果の高い）は、cost の「犠牲・負担」という意味から広がった表現です。`,
     keyPoints: [
-      'price＝名詞「価格・売値（値札の値段）」',
-      'cost＝名詞「費用」／動詞「（金額が）かかる」（cost-cost-cost）',
+      'price＝名詞「価格・売値（値札の値段）」。at any price/a price tag',
+      'cost＝名詞「費用」／動詞「（金額が）かかる」（cost-cost-cost）。at the cost of/cost-effective',
       '「〜かかる」と動詞なら cost',
     ],
     quiz: [
@@ -5813,11 +5817,15 @@ sole は靴の「靴底」だけでなく、食用魚の**舌平目（sole）**�
 | f**or**th | /fɔːrθ/ | 前へ・外へ | They went back and **forth**.（彼らは行ったり来たりした） |
 | f**our**th | /fɔːrθ/ | 4番目 | April is the **fourth** month of the year.（4月は1年の4番目の月だ） |
 
-🎯 覚え方：**fourth には four（4）が入っていて「4番目」**。それ以外の「前へ・外へ」は forth。数の順番なら fourth。`,
+🎯 覚え方：**fourth には four（4）が入っていて「4番目」**。それ以外の「前へ・外へ」は forth。数の順番なら fourth。
+
+### forth / fourth の慣用句で判別を強化
+
+**forth 系**：句動詞 **put forth** ~（（考え・案を）提示する）、文語的な副詞 **henceforth**（これ以降）は、forth の「前へ・先へ」という意味から広がった表現です。**fourth 系**：**the Fourth of July**（独立記念日＝7月4日）、演劇用語 **break the fourth wall**（第四の壁を破る＝観客に語りかける演出）は、fourth を使った固有の言い回しです。`,
     keyPoints: [
       'forth と fourth は同音 /fɔːrθ/',
-      'forth＝前へ・外へ（back and forth／and so forth）',
-      'fourth＝4番目（中に four）',
+      'forth＝前へ・外へ（back and forth／and so forth）。put forth/henceforth',
+      'fourth＝4番目（中に four）。the Fourth of July/break the fourth wall',
     ],
     quiz: [
       {
@@ -5996,10 +6004,14 @@ sole は靴の「靴底」だけでなく、食用魚の**舌平目（sole）**�
 | job | 可算 | 具体的な職・仕事 | She got a new **job**.（彼女は新しい仕事に就いた） |
 | work | 不可算 | 労働・仕事一般 | I have a lot of **work** today.（今日は仕事が多い） |
 
-🎯 覚え方：**数えられる「一つの職」は a job、数えられない「労働一般」は work（a work は×）**。「仕事を探す」は look for a job、「仕事に行く」は go to work。`,
+🎯 覚え方：**数えられる「一つの職」は a job、数えられない「労働一般」は work（a work は×）**。「仕事を探す」は look for a job、「仕事に行く」は go to work。
+
+### job / work の複合語で判別を強化
+
+**job 系**：複合語 **job security**（雇用の安定）、慣用句 **odd jobs**（雑用・臨時の仕事）は、job の「具体的な仕事」という意味そのものです。**work 系**：句動詞 **work out**（運動する／うまくいく／解決する）は多義で頻出です。例外として「作品」の意味では **a work of art**（芸術作品）のように可算名詞になります。`,
     keyPoints: [
-      'job＝可算「具体的な職・仕事」（a job／two jobs）',
-      'work＝不可算「労働・仕事一般」（a work は不可）',
+      'job＝可算「具体的な職・仕事」（a job／two jobs）。job security/odd jobs',
+      'work＝不可算「労働・仕事一般」（a work は不可）。work out。例外：a work of art（可算）',
       '「go to work」「look for a job」で覚える',
     ],
     quiz: [
@@ -7814,10 +7826,14 @@ won は句動詞 **win over**（〜を味方につける・説得する）の過
 | moral | /ˈmɒrəl/ | 道徳的な・教訓 | The story has a clear **moral**.（その話には明確な教訓がある） |
 | moral**e** | /məˈræl/ | 士気・やる気 | The team's **morale** was high.（チームの士気は高かった） |
 
-🎯 覚え方：**e が付く morale は「士気（やる気）」でアクセントも後ろ（moraleの e が上がる）**。道徳・教訓は moral。集団の「やる気」なら morale。`,
+🎯 覚え方：**e が付く morale は「士気（やる気）」でアクセントも後ろ（moraleの e が上がる）**。道徳・教訓は moral。集団の「やる気」なら morale。
+
+### moral / morale の派生語で判別を強化
+
+**moral 系**：複合語 **moral support**（精神的な支え）、複数形 **morals**（道徳観・品行＝She has strong morals.）は、moral の中心の意味から広がった語です。**morale 系**：複合語 **a morale booster**（士気を高めるもの）のように、team morale（チームの士気）と組み合わせてよく使われます。`,
     keyPoints: [
-      'moral /ˈmɒrəl/＝道徳的な・教訓（前アクセント）',
-      'morale /məˈræl/＝士気・やる気（後ろアクセント・e あり）',
+      'moral /ˈmɒrəl/＝道徳的な・教訓（前アクセント）。moral support/複数形morals（道徳観）',
+      'morale /məˈræl/＝士気・やる気（後ろアクセント・e あり）。a morale booster',
       '集団のやる気は morale',
     ],
     quiz: [
@@ -9954,11 +9970,15 @@ our は必ず**うしろに名詞**を伴う所有格（our house）ですが、
 | w**ar**n | /wɔːrn/ | 動詞：警告する | They **warned** us about the storm.（嵐について警告してくれた） |
 | w**or**n | /wɔːrn/ | wear の過去分詞：着古した | These shoes are badly **worn**.（この靴はひどくすり減っている） |
 
-🎯 覚え方：**warn は「警告（alarm の仲間）」、worn は wear（着る）の過去分詞で「着古した・すり減った」**。注意を促すなら warn、使い古したなら worn。`,
+🎯 覚え方：**warn は「警告（alarm の仲間）」、worn は wear（着る）の過去分詞で「着古した・すり減った」**。注意を促すなら warn、使い古したなら worn。
+
+### warn / worn の慣用句で判別を強化
+
+**warn 系**：複合語 **a warning sign**（警告のサイン・兆候）、ことわざ **"Forewarned is forearmed."**（前もって知れば備えられる）は、warn の中心の意味から広がった表現です。**worn 系**：慣用句 **worn out**（すり減った・疲れ果てた＝人にも物にも使う）、形容詞 **well-worn**（使い古された・使い古しの＝a well-worn phrase）は、worn から広がった表現です。`,
     keyPoints: [
       'warn と worn は同音 /wɔːrn/',
-      'warn＝動詞「警告する」（warn 人 of/about ~）',
-      'worn＝wear の過去分詞「着古した・すり減った」',
+      'warn＝動詞「警告する」（warn 人 of/about ~）。a warning sign',
+      'worn＝wear の過去分詞「着古した・すり減った」。worn out/well-worn',
     ],
     quiz: [
       {
@@ -11487,11 +11507,15 @@ eight から派生する数詞は綴りの変化に注意が必要です。序�
 | b**u**ry | /ˈbɛri/ | 動詞：埋める | Dogs like to **bury** bones.（犬は骨を埋めるのが好きだ） |
 | b**e**rry | /ˈbɛri/ | 名詞：ベリー | This **berry** is sweet and red.（このベリーは甘くて赤い） |
 
-🎯 覚え方：**動詞「埋める」は bury（u だが「ベ」と読む）**、果実の「ベリー」は berry（r がふたつ）。埋める動作なら bury、果物なら berry。`,
+🎯 覚え方：**動詞「埋める」は bury（u だが「ベ」と読む）**、果実の「ベリー」は berry（r がふたつ）。埋める動作なら bury、果物なら berry。
+
+### bury / berry の慣用句で判別を強化
+
+**bury 系**：慣用句 **bury the hatchet**（仲直りする・和解する＝先住民が戦いをやめ手斧を埋めた慣習に由来）、**bury one's head in the sand**（現実から目をそむける）は、bury の「埋める・隠す」という意味から広がった表現です。**berry 系**：strawberry・blueberry のように、果実名の多くが -berry の複合語で作られます。`,
     keyPoints: [
       'bury と berry は同音 /ˈbɛri/（bury の u は「エ」）',
-      'bury＝動詞「埋める・葬る」（bury-buried-buried）',
-      'berry＝名詞「ベリー・小さな果実」（r がふたつ）',
+      'bury＝動詞「埋める・葬る」（bury-buried-buried）。bury the hatchet（和解する）',
+      'berry＝名詞「ベリー・小さな果実」（r がふたつ）。strawberry/blueberry',
     ],
     quiz: [
       {
@@ -12635,11 +12659,15 @@ witch から派生した慣用句 **witch hunt**（魔女狩り＝転じて「�
 | me**d**al | /ˈmɛdəl/ | 名詞：メダル | She won a gold **medal**.（金メダルを取った） |
 | me**dd**le | /ˈmɛdəl/ | 動詞：干渉する | Don't **meddle** in my affairs.（私のことに口出ししないで） |
 
-🎯 覚え方：**賞の「メダル」は medal、他人事への「おせっかい」は meddle（d がふたつ）**。表彰なら medal、口出し・干渉なら meddle。`,
+🎯 覚え方：**賞の「メダル」は medal、他人事への「おせっかい」は meddle（d がふたつ）**。表彰なら medal、口出し・干渉なら meddle。
+
+### medal / meddle の派生語で判別を強化
+
+**medal 系**：名詞 **a medalist**（メダリスト・受賞者）は、medal から直接作られる語です。**meddle 系**：形容詞 **meddlesome**（おせっかいな・干渉好きな）、**meddle with** ~（〜をいじる・干渉する）は、meddle の中心の意味から広がった表現です。`,
     keyPoints: [
       'medal と meddle は同音 /ˈmɛdəl/',
-      'medal＝メダル・勲章（名詞）',
-      'meddle＝（余計な）干渉をする・おせっかいする（d がふたつ）',
+      'medal＝メダル・勲章（名詞）。a medalist',
+      'meddle＝（余計な）干渉をする・おせっかいする（d がふたつ）。meddlesome/meddle with',
     ],
     quiz: [
       {
@@ -14041,11 +14069,15 @@ inn は現代の大型ホテルではなく、**昔ながらの小さな宿・�
 | b**er**th | /bɜːrθ/ | 停泊所・寝台 | The ship returned to its **berth**.（船は停泊所に戻った） |
 | b**ir**th | /bɜːrθ/ | 誕生・出産 | We celebrated the **birth** of our daughter.（娘の誕生を祝った） |
 
-🎯 覚え方：**船・列車の「停泊所・寝台」は berth、「誕生」は birth**。give birth（出産）と give a wide berth（大きく避ける）を混同しない。`,
+🎯 覚え方：**船・列車の「停泊所・寝台」は berth、「誕生」は birth**。give birth（出産）と give a wide berth（大きく避ける）を混同しない。
+
+### berth / birth の複合語で判別を強化
+
+**berth 系**：berth は動詞としても使い、**berth a ship**（船を停泊させる）のように使われます。**birth 系**：複合語 **birthplace**（出生地）、**the birth rate**（出生率）は、birth の中心の意味から広がった語です。`,
     keyPoints: [
       'berth と birth は同音 /bɜːrθ/',
-      'berth＝停泊所・寝台（give a wide berth＝大きく避ける）',
-      'birth＝誕生・出産（give birth）',
+      'berth＝停泊所・寝台（give a wide berth＝大きく避ける）。動詞にもなる',
+      'birth＝誕生・出産（give birth）。birthplace/birth rate',
     ],
     quiz: [
       {
