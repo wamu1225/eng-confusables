@@ -5823,9 +5823,13 @@ sole は靴の「靴底」だけでなく、食用魚の**舌平目（sole）**�
 
 🎯 覚え方：**fourth には four（4）が入っていて「4番目」**。それ以外の「前へ・外へ」は forth。数の順番なら fourth。
 
-### forth / fourth の慣用句で判別を強化
+### 見た目の "four" にだまされない
 
-**forth 系**：句動詞 **put forth** ~（（考え・案を）提示する）、文語的な副詞 **henceforth**（これ以降）は、forth の「前へ・先へ」という意味から広がった表現です。**fourth 系**：**the Fourth of July**（独立記念日＝7月4日）、演劇用語 **break the fourth wall**（第四の壁を破る＝観客に語りかける演出）は、fourth を使った固有の言い回しです。`,
+fourth を見ると four（4）が目に入るので、順番の話だとすぐ分かります。厄介なのは forth のほうで、綴りが似ているせいで数と関係があるように錯覚しますが、中身は方向の語です。back and forth（行ったり来たり）も and so forth（〜など）も、数えることとは無関係に「前へ・先へ」という動きを表しています。
+
+見分けるコツは綴りの中の four を探すことに尽きます。**four の4文字がそのまま入っているかどうか**を見れば、fourth はすぐ見つかりますが forth には無いと分かります。put forth an idea（案を出す）のように forth が動詞のあとに付くときは、何かを前に押し出すイメージで使われています。
+
+third・fourth・fifth と序数を並べたとき、そこに forth が並ぶことはありません。forth は数列に属さない、方向・程度だけを表す副詞だからです。`,
     keyPoints: [
       'forth と fourth は同音 /fɔːrθ/',
       'forth＝前へ・外へ（back and forth／and so forth）。put forth/henceforth',
@@ -7836,9 +7840,13 @@ won は句動詞 **win over**（〜を味方につける・説得する）の過
 
 🎯 覚え方：**e が付く morale は「士気（やる気）」でアクセントも後ろ（moraleの e が上がる）**。道徳・教訓は moral。集団の「やる気」なら morale。
 
-### moral / morale の派生語で判別を強化
+### たった一文字が、話の次元を変える
 
-**moral 系**：複合語 **moral support**（精神的な支え）、複数形 **morals**（道徳観・品行＝She has strong morals.）は、moral の中心の意味から広がった語です。**morale 系**：複合語 **a morale booster**（士気を高めるもの）のように、team morale（チームの士気）と組み合わせてよく使われます。`,
+moral に e を一つ足すだけで、単語は個人の倫理から集団の空気へと話題を移します。moral は「その行動は正しいか」を問う語で、a moral duty（道徳的な義務）のように一人ひとりの判断に関わります。e が付いた morale になると、対象は急にチームや軍隊のような集団になり、正しさでなく**やる気の高さ**を問う語に変わります。
+
+この切り替わりは発音にも表れています。moral は前寄りの MOR-al、morale は後ろに強勢が来る mo-RALE で、読み上げると別の単語だと体で分かります。日本語の「モラル」はこの2語のうち moral のほうを借りた言葉で、morale（士気）は別に「モラール」とカタカナで区別されることがあります。
+
+複数形にすると意味も動きます。moral は名詞では「教訓」、morals は「（個人の）道徳観・品行」を指し、She has strong morals. は士気ではなく倫理観の強さを述べています。`,
     keyPoints: [
       'moral /ˈmɒrəl/＝道徳的な・教訓（前アクセント）。moral support/複数形morals（道徳観）',
       'morale /məˈræl/＝士気・やる気（後ろアクセント・e あり）。a morale booster',
@@ -9980,9 +9988,13 @@ our は必ず**うしろに名詞**を伴う所有格（our house）ですが、
 
 🎯 覚え方：**warn は「警告（alarm の仲間）」、worn は wear（着る）の過去分詞で「着古した・すり減った」**。注意を促すなら warn、使い古したなら worn。
 
-### warn / worn の慣用句で判別を強化
+### 別の動詞の断片だと気づけるか
 
-**warn 系**：複合語 **a warning sign**（警告のサイン・兆候）、ことわざ **"Forewarned is forearmed."**（前もって知れば備えられる）は、warn の中心の意味から広がった表現です。**worn 系**：慣用句 **worn out**（すり減った・疲れ果てた＝人にも物にも使う）、形容詞 **well-worn**（使い古された・使い古しの＝a well-worn phrase）は、worn から広がった表現です。`,
+warn は見た目どおりの動詞で、warn-warned-warned と規則的に活用します。一方 worn は単独の動詞ではなく、**wear（着る）という別の動詞の過去分詞**です。wear-wore-worn という不規則活用の最後の形がたまたま warn と似た綴りになっているだけで、語源上のつながりはありません。
+
+見分けたいときは、その文を wear に置き換えられるか試すのが早道です。These shoes are badly worn. は These shoes are badly worn out（履き古された）と同じ流れなので worn、Signs warn drivers of danger. は「危険を伝える」という別の動作なので warn、というように判断できます。
+
+ことわざ Forewarned is forearmed.（前もって知れば備えられる）の forewarned も、この warn に fore-（前もって）が付いた形です。`,
     keyPoints: [
       'warn と worn は同音 /wɔːrn/',
       'warn＝動詞「警告する」（warn 人 of/about ~）。a warning sign',
@@ -11517,9 +11529,13 @@ eight から派生する数詞は綴りの変化に注意が必要です。序�
 
 🎯 覚え方：**動詞「埋める」は bury（u だが「ベ」と読む）**、果実の「ベリー」は berry（r がふたつ）。埋める動作なら bury、果物なら berry。
 
-### bury / berry の慣用句で判別を強化
+### u を「エ」と読む数少ない例外
 
-**bury 系**：慣用句 **bury the hatchet**（仲直りする・和解する＝先住民が戦いをやめ手斧を埋めた慣習に由来）、**bury one's head in the sand**（現実から目をそむける）は、bury の「埋める・隠す」という意味から広がった表現です。**berry 系**：strawberry・blueberry のように、果実名の多くが -berry の複合語で作られます。`,
+英語で u を「エ」の音で読む単語はほとんどなく、bury はその**数少ない例外**の一つです。love や cut のように u が「ア」に近い音になる単語は多くても、bury・buried・burial のように u が完全に e の音へ変わる単語はまれで、初見で戸惑うのは自然なことです。
+
+berry にはこうしたズレが一切なく、e-r-r-y は見たとおりに読めます。見たままの発音にならない方が bury、見たままの発音になる方が berry と考えれば、綴りを思い出す手がかりになります。
+
+bury the hatchet（仲直りする）のような慣用句を覚えるより先に、He buried his face in his hands.（両手に顔をうずめた）のような日常表現で bury の使われ方に触れておくほうが実用的です。一方 berry は raspberry や gooseberry のように、単独より複合語の一部として登場する場面のほうが多い語です。`,
     keyPoints: [
       'bury と berry は同音 /ˈbɛri/（bury の u は「エ」）',
       'bury＝動詞「埋める・葬る」（bury-buried-buried）。bury the hatchet（和解する）',
@@ -12669,9 +12685,13 @@ witch から派生した慣用句 **witch hunt**（魔女狩り＝転じて「�
 
 🎯 覚え方：**賞の「メダル」は medal、他人事への「おせっかい」は meddle（d がふたつ）**。表彰なら medal、口出し・干渉なら meddle。
 
-### medal / meddle の派生語で判別を強化
+### -al の仲間か、-dle の仲間か
 
-**medal 系**：名詞 **a medalist**（メダリスト・受賞者）は、medal から直接作られる語です。**meddle 系**：形容詞 **meddlesome**（おせっかいな・干渉好きな）、**meddle with** ~（〜をいじる・干渉する）は、meddle の中心の意味から広がった表現です。`,
+medal は語尾が -al で、metal（金属）・pedal（ペダル）・petal（花びら）と同じグループに属します。どれも子音字が一つだけで、発音も似ているので、**この4語をまとめて「-al 仲間」として覚える**と medal のスペルが定着しやすくなります。
+
+meddle は語尾が -dle で、peddle（行商する）・paddle（漕ぐ・パドル）・saddle（鞍）と同じグループです。こちらは子音字を二つ重ねてから -le を付けるパターンで、meddle の dd もこの型どおりです。
+
+つまり medal を思い出すときは metal や pedal を、meddle を思い出すときは peddle や paddle を連想すれば、それぞれ別の語群の一員として自然に綴りが決まります。`,
     keyPoints: [
       'medal と meddle は同音 /ˈmɛdəl/',
       'medal＝メダル・勲章（名詞）。a medalist',
@@ -14079,9 +14099,13 @@ inn は現代の大型ホテルではなく、**昔ながらの小さな宿・�
 
 🎯 覚え方：**船・列車の「停泊所・寝台」は berth、「誕生」は birth**。give birth（出産）と give a wide berth（大きく避ける）を混同しない。
 
-### berth / birth の複合語で判別を強化
+### give のあとに何を挟むか
 
-**berth 系**：berth は動詞としても使い、**berth a ship**（船を停泊させる）のように使われます。**birth 系**：複合語 **birthplace**（出生地）、**the birth rate**（出生率）は、birth の中心の意味から広がった語です。`,
+give birth と give a wide berth は、どちらも give のすぐあとに来るので混同されがちですが、**間に何を挟むか**が違います。give birth は give のあとに birth が直結し、give a wide berth は give と berth のあいだに a wide が入ります。この語順の違いを覚えておけば、とっさに出てくる形も変わってきます。
+
+berth は船・列車・空港など特定の場面でしか使わない語で、日常会話での出番は birth よりずっと少ないため、聞き慣れない分だけ birth に引きずられて誤記しやすくなります。
+
+berth には動詞の用法もあり、The ship berthed at pier three.（船は3番埠頭に停泊した）のように使えますが、birth を動詞として使うことはありません。birth はもっぱら名詞で、give birth to ~（〜を産む）や birth control（産児制限）のように名詞のまま複合語を作ります。`,
     keyPoints: [
       'berth と birth は同音 /bɜːrθ/',
       'berth＝停泊所・寝台（give a wide berth＝大きく避ける）。動詞にもなる',
