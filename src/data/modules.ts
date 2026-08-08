@@ -676,7 +676,15 @@ export const modules: Module[] = [
 | **a**ssure | 人 | （人）を安心させる・保証する | I **assure** you it is safe.（安全だと保証します） |
 | **in**sure | 物・リスク | 〜に保険をかける | They **insured** the car against theft.（盗難に備え車に保険をかけた） |
 
-🎯 フック：**a**ssure の a は「**a** person（人）を安心」、**in**sure の in は「**in**surance（保険）」、**en**sure は「事を確実に」。目的語が人なら assure、保険の話なら insure、それ以外で「確実にする」なら ensure。`,
+🎯 フック：**a**ssure の a は「**a** person（人）を安心」、**in**sure の in は「**in**surance（保険）」、**en**sure は「事を確実に」。目的語が人なら assure、保険の話なら insure、それ以外で「確実にする」なら ensure。
+
+### 保険業界だけに残る例外
+
+イギリス英語には、生命保険を insurance でなく **life assurance** と呼ぶ古い慣習が残っています。Prudential Assurance のような社名にその名残があり、「人の生死という不確実な出来事に保証を与える」という発想から assure 系の語が選ばれました。一般の火災保険・自動車保険は今も insurance と呼ぶので、assurance が使われるのは生命保険という一分野に限られます。
+
+rest assured that ~（〜だから安心してください）という決まり文句もよく使われ、ここでは assure の過去分詞 assured が形容詞として定着しています。You can rest assured that your data is safe. のように、動詞 assure と同じく人を安心させる文脈で登場します。
+
+アメリカ英語では insure が ensure の代わりに使われることがあり、Please insure the door is locked. のような表記も実際に見られます。ただしイギリス英語や試験問題では ensure と insure の区別は厳密に保たれるので、学習段階では対象で機械的に判断するほうが安全です。`,
     keyPoints: [
       'ensure＝事を確実にする',
       'assure＝人を安心させる（目的語は人）',
@@ -1060,7 +1068,15 @@ lie/lay と同じ「自動詞 vs 他動詞」の関係です。決め手も同�
 
 🎯 見分け方：直後に「**〜を**（目的語）」があれば **raise**、なければ **rise**。「Prices rise（物価が上がる）」は目的語なしで rise、「raise prices（物価を上げる）」は目的語ありで raise。
 
-💡 活用も対照的：rise は不規則（rise-rose-risen）、raise は規則（raise-raised-raised）。「自分で上がる rise」「何かを上げる raise」と方向で覚えると、lie/lay と同じパターンで整理できます。`,
+💡 活用も対照的：rise は不規則（rise-rose-risen）、raise は規則（raise-raised-raised）。「自分で上がる rise」「何かを上げる raise」と方向で覚えると、lie/lay と同じパターンで整理できます。
+
+### 昇給の呼び方が英米で割れる
+
+「昇給」を表す名詞は、イギリス英語では a pay rise、アメリカ英語では a raise が普通です。同じ pay increase を指すのに動詞の自他とは別の理由で語が分かれており、I got a raise. はアメリカ的な言い方、I got a pay rise. はイギリス的な言い方になります。
+
+raise には「上げる」以外の意味も多く、raise a family（子を育てる）・raise an issue（問題を提起する）・raise money（資金を集める）のように、**物理的に高くする動作を伴わない用法**が日常でよく出てきます。目的語があるかどうかで rise/raise を判断するルールは、こうした比喩的な raise にもそのまま使えます。
+
+見た目が似た arise（生じる・起こる）は rise の親戚ですが、上下運動でなく**問題や状況が発生すること**を表す独立した動詞です。A problem arose during the meeting.（会議中に問題が生じた）のように使い、rise/raise の対応関係には含まれません。`,
     keyPoints: [
       'rise＝自動詞「上がる」（目的語なし）、活用 rise-rose-risen',
       'raise＝他動詞「〜を上げる」（目的語あり）、活用 raise-raised-raised',
@@ -1212,7 +1228,15 @@ borrow と lend は**無償で、持ち運べるものを一時的に**やり取
 | beside | 前置詞 | 〜のそばに | She sat **beside** me.（彼女は私のそばに座った） |
 | besides | 前置詞／副詞 | 〜に加えて／その上 | **Besides** English, he speaks French.（英語に加えてフランス語も話す） |
 
-🎯 見分け方：**位置**（横に・そばに）なら beside、**追加**（〜のほかに・その上）なら besides。「s が付くと“さらに（プラス）”」と覚えると、追加の意味と結びつきます。`,
+🎯 見分け方：**位置**（横に・そばに）なら beside、**追加**（〜のほかに・その上）なら besides。「s が付くと“さらに（プラス）”」と覚えると、追加の意味と結びつきます。
+
+### 例外は熟語のほうに現れる
+
+beside oneself（我を忘れて）という熟語は、位置でも追加でもなく感情の高ぶりを表す慣用表現で、規則から外れて覚えるしかありません。She was beside herself with joy.（彼女は喜びのあまり我を忘れていた）のように、s の付かない beside がそのまま使われます。
+
+besides は文頭に置いて「そのうえ」と話を継ぎ足す働きもします。I don't want to go. Besides, it's raining.（行きたくない。それに雨も降っているし）のように、前の発言に理由を追加するときに使われ、この用法の besides は前置詞でなく副詞です。
+
+beside the point（的外れで）という言い方もよく使われ、こちらは「話の中心点からそれた場所にある」という位置のイメージが残っている分、beside oneself よりは元の意味とつながりやすい表現です。`,
     keyPoints: [
       'beside＝前置詞「〜のそばに」（位置）',
       'besides＝前置詞「〜に加えて」／副詞「その上」（追加）',
@@ -1275,7 +1299,15 @@ borrow と lend は**無償で、持ち運べるものを一時的に**やり取
 
 🎯 見分け方：「**目的にかなうか**（道具・条件）」なら suitable、「**その場・礼儀にかなうか**（服装・言動・状況）」なら appropriate。重なる場面も多いですが、社会的な“ふさわしさ”を問うなら appropriate が自然です。
 
-📖 appropriate は動詞で「（資金などを）充てる・私物化する」の意味もあります（発音も変わる）。3級〜2級では形容詞の使い分けをまず押さえれば十分です。`,
+📖 appropriate は動詞で「（資金などを）充てる・私物化する」の意味もあります（発音も変わる）。3級〜2級では形容詞の使い分けをまず押さえれば十分です。
+
+### 否定形になると重みが変わる
+
+inappropriate は unsuitable より強い否定を含み、社会的な規範を破ったというニュアンスを帯びます。inappropriate behavior（不適切な言動）は職場でのハラスメントや礼を欠く行為を指すのに対し、unsuitable candidate（不向きな候補者）は単に条件に合わないという事実を述べているだけで、道徳的な非難は含みません。
+
+suitable は動詞 suit（似合う・都合がよい）と語根を共有しており、Does this time suit you?（この時間で都合はいいですか）のように suit 単独でも「合う」を表せます。appropriate にはこうした無接尾辞の動詞形が無く、形容詞のまま使うのが基本です。
+
+前置詞は suitable for（〜に適した）、appropriate for／to（〜にふさわしい）のどちらも取りますが、appropriate to は「その状況に固有の」というつながりをやや強く示すときに好まれます。`,
     keyPoints: [
       'suitable＝目的・用途・条件に合う（fit for purpose）',
       'appropriate＝その場・状況・社会的礼儀にふさわしい',
@@ -1338,7 +1370,15 @@ borrow と lend は**無償で、持ち運べるものを一時的に**やり取
 
 🎯 関係：**profit ＝ revenue − 経費（cost）**。だから「売上は大きいのに利益は小さい」（high revenue, low profit）という文がよく出ます。
 
-💡 フック：reve**nue** は「（まず）入ってくる（come back）お金の総額」、**profit** は最後に手元に残る「儲け」。順番は revenue →（経費を引く）→ profit。`,
+💡 フック：reve**nue** は「（まず）入ってくる（come back）お金の総額」、**profit** は最後に手元に残る「儲け」。順番は revenue →（経費を引く）→ profit。
+
+### revenue は会社の売上だけを指す語ではない
+
+revenue は政府にも使われ、tax revenue（税収）は国や自治体が集めるお金の総額を指します。企業の売上に限らず「組織に入ってくるお金全体」を表す語だと考えると、revenue の使える範囲が広がります。
+
+profit margin（利益率）という言い方では、profit が revenue に対してどれだけの割合を占めるかを示します。Profit margin = profit ÷ revenue × 100 で計算され、同じ利益額でも売上が小さいほど margin は高くなるので、絶対額の profit と割合の profit margin は別の指標として使い分けられます。
+
+non-profit organization（非営利団体）という表現では、profit が「団体の活動目的として利益を追求すること」を意味しており、収入がゼロという意味ではありません。寄付や会費という revenue はあっても、それを分配せず活動に還元する団体を指します。`,
     keyPoints: [
       'revenue＝総収入・売上（経費を引く前）',
       'profit＝純利益（売上から経費を引いた後）',
@@ -1401,7 +1441,15 @@ borrow と lend は**無償で、持ち運べるものを一時的に**やり取
 
 ⚠️ 語法の罠：**「suggest 人 to do」「propose 人 to do」は不可**。「私はあなたに〜するよう提案する」は <code>suggest that you (should) do</code> または <code>suggest doing</code> の形にします。「I suggest you to go」は誤りで、<code>I suggest that you go</code> が正しい形です。
 
-🎯 試験では「suggest + 人 + to do」を選ばせる誤答が定番。**suggest / propose は to不定詞で人に指示する形をとらない**と覚えておきましょう。`,
+🎯 試験では「suggest + 人 + to do」を選ばせる誤答が定番。**suggest / propose は to不定詞で人に指示する形をとらない**と覚えておきましょう。
+
+### propose には結婚という専用の意味がある
+
+propose to someone は「（人に）結婚を申し込む」という決まった意味を持ち、He proposed to her on the beach.（彼は浜辺で彼女にプロポーズした）のように使われます。この用法の suggest への言い換えは成立せず、propose だけが持つ固有の使われ方です。
+
+suggest には「示す・暗示する」という、人が主語でない使い方もあります。The data suggests that sales will increase.（データは売上増加を示唆している）のように、証拠や兆候が何かを物語るときに使え、この意味では propose に置き換えられません。
+
+名詞形の proposal は結婚の申し込みそのものも指し、accept a proposal（プロポーズを受け入れる）のように使われます。suggestion にはこの特定の意味はなく、あくまで一般的な「提案・示唆」を表す名詞にとどまります。`,
     keyPoints: [
       'propose＝正式・直接的に提案、suggest＝控えめに提案・示唆',
       '語法：suggest doing / suggest that (should) V',
@@ -1462,7 +1510,15 @@ borrow と lend は**無償で、持ち運べるものを一時的に**やり取
 | benefit | 直接の得 | 恩恵・利益 | Exercise has many health **benefits**.（運動には多くの健康上の恩恵がある） |
 | advantage | 他との比較 | 優位・強み | Speaking two languages is a big **advantage** in business.（二か国語を話せるのはビジネスで大きな強みだ） |
 
-🎯 見分け方：「**そのものが与える良いこと**」なら benefit、「**他より有利**（競争・比較）」なら advantage。take advantage of 〜（〜を利用する）という熟語も頻出です。`,
+🎯 見分け方：「**そのものが与える良いこと**」なら benefit、「**他より有利**（競争・比較）」なら advantage。take advantage of 〜（〜を利用する）という熟語も頻出です。
+
+### advantage は人に対して使うと意味が反転する
+
+take advantage of a situation（状況を利用する）は前向きな意味ですが、take advantage of a person（人につけこむ）になると一転してずるい意味になります。同じ熟語でも目的語が人か物かで評価がプラスからマイナスへ変わる点は、benefit にはない advantage 特有の癖です。
+
+employee benefits（従業員向けの福利厚生）のように、benefits は複数形で「給与以外に会社が提供する諸手当」をまとめて指す名詞としてもよく使われます。健康保険・有給休暇・退職金制度などが該当し、この意味では advantage に置き換えられません。
+
+give someone the benefit of the doubt（疑わしきは罰せずで信じる）という熟語では、benefit が「判断を有利な方向へ振る」という抽象的な意味で使われており、ここでも advantage では代用できません。`,
     keyPoints: [
       'benefit＝恩恵・利益（それ自体が与える良いこと）',
       'advantage＝優位・強み（他と比べて有利）',
@@ -1527,7 +1583,15 @@ borrow と lend は**無償で、持ち運べるものを一時的に**やり取
 | talk | talk to/with 人, talk about 〜 | 会話・やりとり | We **talked** about the plan.（計画について話した） |
 | speak | speak 言語／speak to 人 | （主に）一方向に話す | Do you **speak** Japanese?（日本語を話せますか） |
 
-🎯 罠の定番：**tell は後ろに人を直接とる（tell me）**が、**say は人を直接とらない（say me は不可、say to me）**。「彼は私に〜と言った」は <code>He told me …</code> か <code>He said to me …</code>。`,
+🎯 罠の定番：**tell は後ろに人を直接とる（tell me）**が、**say は人を直接とらない（say me は不可、say to me）**。「彼は私に〜と言った」は <code>He told me …</code> か <code>He said to me …</code>。
+
+### tell には「言う」と無関係な意味がある
+
+tell A from B（AとBを見分ける）という用法では、tell は発言でなく識別を意味します。I can't tell the twins apart.（その双子を見分けられない）のように、say/talk/speak には無い「区別する」という中心義から外れた使い方です。
+
+talk は動詞だけでなく、a talk（講演・話し合い）という数えられる名詞としても使われます。give a talk on climate change（気候変動について講演する）のように、speech よりくだけた響きの講演を指す語として定着しています。
+
+so to speak（いわば）という決まり文句は、比喩的な言い方を断るときに文末や文中に添えられ、speak が持つ「言葉にする」という核から生まれた慣用表現です。say/tell/talk のどれにも置き換えられません。`,
     keyPoints: [
       'say＝内容に焦点（say to 人。say 人 は不可）',
       'tell＝人に伝える（tell 人 物／tell 人 to do）',
