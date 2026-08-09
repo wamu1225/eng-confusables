@@ -1657,7 +1657,15 @@ so to speak（いわば）という決まり文句は、比喩的な言い方を
 | economic | 経済の・経済学の | The country faces **economic** problems.（その国は経済問題に直面している） |
 | economical | 節約的・お得な | A small car is more **economical**.（小型車のほうが燃費が良い＝経済的だ） |
 
-🎯 見分け方：**国・社会の「経済」**の話なら economic、**お金や資源を「節約」**する話なら economical。「-al が付くと“家計にやさしい（節約）”」と結びつけると覚えやすいです。`,
+🎯 見分け方：**国・社会の「経済」**の話なら economic、**お金や資源を「節約」**する話なら economical。「-al が付くと“家計にやさしい（節約）”」と結びつけると覚えやすいです。
+
+### economic には「採算が取れる」という顔もある
+
+企業の文脈では、economic は「経済学の」でなく**採算・商業的な合理性**を指すことがあります。It is no longer economic to run the factory.（その工場を稼働させるのはもう採算が合わない）のように、社会全体の経済でなく一企業の損得を語る場面でも economic が使われます。
+
+economical の対義語は uneconomical で、This car is uneconomical to run.（この車は燃費が悪い）のように無駄の多さを表します。一方 economic の対義語は場面によって変わり、社会の話なら non-economic、採算の話なら uneconomic が使われます。
+
+名詞形も語根が分かれ、economy（経済・節約）は economical と、economics（経済学）は economic と結びついています。study economics（経済学を学ぶ）とは言っても study economy とは言いません。`,
     keyPoints: [
       'economic＝経済の・経済学の（国・社会の経済）',
       'economical＝節約的・無駄がない・お得な',
@@ -1718,7 +1726,15 @@ so to speak（いわば）という決まり文句は、比喩的な言い方を
 | historic | 歴史に残る重要な | The signing was a **historic** moment.（その調印は歴史的瞬間だった） |
 | historical | 歴史上の・過去の | She studies **historical** documents.（彼女は歴史資料を研究している） |
 
-🎯 見分け方：「**重要で記憶に残る**」なら historic、「**ただ過去に関する**」なら historical。a historic event＝重大な出来事、a historical event＝（重要かは別として）過去の出来事、と使い分けます。`,
+🎯 見分け方：「**重要で記憶に残る**」なら historic、「**ただ過去に関する**」なら historical。a historic event＝重大な出来事、a historical event＝（重要かは別として）過去の出来事、と使い分けます。
+
+### 冠詞にまで痕跡が残る語
+
+historic には an historic moment という古い言い方が今も残ります。h を発音しない話し方が主流だった時代の名残で、母音の前に付ける an が使われましたが、現在は h をはっきり発音するので a historic が標準です。historical にはこの古い慣習はほぼ見られません。
+
+作品のジャンルを表すときは historical のほうが定着しており、historical fiction（歴史小説）・historical drama（時代劇）のように「過去を舞台にした」という中立的な意味で使われます。historic fiction という言い方は一般的ではありません。
+
+アメリカには National Historic Landmark（国定歴史建造物）のような公式の指定制度があり、地名や施設名に historic がそのまま組み込まれます。この場合の historic は「政府が重要性を認めた」という制度的な重みを持っています。`,
     keyPoints: [
       'historic＝歴史に残るほど重要な（記憶される出来事）',
       'historical＝歴史上の・過去の（重要かは問わない）',
@@ -1779,7 +1795,15 @@ so to speak（いわば）という決まり文句は、比喩的な言い方を
 | sensible | 分別がある・賢明な | It was **sensible** to bring an umbrella.（傘を持ってきたのは賢明だった） |
 | sensitive | 敏感な・神経質な | She is **sensitive** to criticism.（彼女は批判に敏感だ） |
 
-🎯 見分け方：「**賢く判断する（良識）**」なら sensible、「**刺激・感情に過敏**」なら sensitive。sensitive skin（敏感肌）、sensitive issue（デリケートな問題）はすべて“過敏・繊細”の sensitive です。`,
+🎯 見分け方：「**賢く判断する（良識）**」なら sensible、「**刺激・感情に過敏**」なら sensitive。sensitive skin（敏感肌）、sensitive issue（デリケートな問題）はすべて“過敏・繊細”の sensitive です。
+
+### フランス語・スペイン語話者が引っかかる罠
+
+フランス語の sensible やスペイン語の sensible は、英語の sensitive に近い「敏感な」という意味です。英語の sensible は逆に「分別がある」なので、これらの言語を経由して学んだ人ほど sensible を sensitive の意味で使ってしまう典型的な false friend（似た綴りで意味が違う語）になっています。
+
+ビジネスやIT分野では sensitive information（機密情報）・sensitive data（要配慮個人情報）という言い方が定着しており、扱いを誤ると害が及ぶ情報という意味で使われます。この用法に sensible を代わりに使うことはできません。
+
+sensitive は感情に限らず、a sensitive instrument（精密な計測機器）のように**わずかな変化を検知する性能**を表すこともあります。人の感情の過敏さと、機械の検知能力の高さは、どちらも「小さな刺激に反応する」という同じ発想でつながっています。`,
     keyPoints: [
       'sensible＝分別がある・賢明な・実用的（良識）',
       'sensitive＝敏感な・感受性が強い・神経質',
@@ -1842,7 +1866,15 @@ so to speak（いわば）という決まり文句は、比喩的な言い方を
 | respect**ful** | -ful（満ちた） | 敬意を払う・礼儀正しい | Please be **respectful** to your elders.（年長者には敬意を払って） |
 | respect**ive** | -ive（各自の） | それぞれの | They went back to their **respective** rooms.（各自の部屋に戻った） |
 
-🎯 接尾辞で覚える：**-able＝価値がある（立派）**、**-ful＝（敬意で）満ちている（礼儀正しい）**、**-ive＝それぞれ**。副詞 **respectively** は「（順に）それぞれ」で、A and B は X and Y respectively（A は X、B は Y）のように対応させます。`,
+🎯 接尾辞で覚える：**-able＝価値がある（立派）**、**-ful＝（敬意で）満ちている（礼儀正しい）**、**-ive＝それぞれ**。副詞 **respectively** は「（順に）それぞれ」で、A and B は X and Y respectively（A は X、B は Y）のように対応させます。
+
+### irrespective of は仲間はずれ
+
+irrespective of ~（〜にかかわらず）という熟語は、見た目こそ respective の否定形ですが、意味は「それぞれの」から離れて regardless of と同じ働きをします。irrespective of age（年齢にかかわらず）のように使い、3語の中では respective の親戚というより独立した成句として覚えるほうが実用的です。
+
+respectable にはもう一つ、「立派」から広がった「かなりの・相当な」という数量の意味もあります。She finished in a respectable time.（彼女はまずまずの好記録でゴールした）のように、量や成績が十分に評価に値する水準であることを表します。
+
+respectful の反対は disrespectful（失礼な）で、be disrespectful of someone's opinion（人の意見を軽んじる）のように使われます。respectable・respective にはこの un-/dis- を付けた対義語は一般的ではありません。`,
     keyPoints: [
       'respectable＝立派な・世間体の良い（-able）',
       'respectful＝敬意を払う・礼儀正しい（-ful）',
@@ -1903,7 +1935,15 @@ so to speak（いわば）という決まり文句は、比喩的な言い方を
 | industri**al** | もの・分野 | 工業の・産業の | This is an **industrial** area with many factories.（多くの工場がある工業地域だ） |
 | industri**ous** | 人 | 勤勉な | She is an **industrious** student.（彼女は勤勉な学生だ） |
 
-🎯 見分け方：**工場・産業**の話なら industrial、**人がよく働く**なら industrious。「-ous は人の性質を表すことが多い（famous, generous…）」と結びつけると、industrious＝勤勉（人）と覚えられます。`,
+🎯 見分け方：**工場・産業**の話なら industrial、**人がよく働く**なら industrious。「-ous は人の性質を表すことが多い（famous, generous…）」と結びつけると、industrious＝勤勉（人）と覚えられます。
+
+### industry という名詞のほうが先に「勤勉」だった
+
+名詞 industry は元々「勤勉・精を出すこと」という意味で使われており、a man of industry（勤勉な人）のような言い方が古くからありました。「産業・製造業」という今よく使う意味は、工場が勤勉に稼働する様子から後に広がったもので、**industrious のほうが industry の古い意味に近い**という順序になっています。
+
+イギリス英語では industrial action（労働争議・ストライキ）という言い方がよく使われ、take industrial action（争議行為に出る）のように使われます。この industrial は「工業の」という直訳では意味が通らず、労使関係という特定の文脈で覚える必要がある熟語です。
+
+industrious の名詞形 industriousness はあまり使われず、「勤勉さ」を表すときは diligence や hard work が好まれます。一方 industrial の名詞形 industrialization（産業化）は経済や歴史の文章で頻出します。`,
     keyPoints: [
       'industrial＝工業の・産業の（もの・分野）',
       'industrious＝勤勉な・よく働く（人）',
@@ -1964,12 +2004,21 @@ so to speak（いわば）という決まり文句は、比喩的な言い方を
 | consider**able** | 量・程度 | かなりの・相当の | The project took a **considerable** amount of time.（その計画はかなりの時間を要した） |
 | consider**ate** | 人の態度 | 思いやりのある | It was **considerate** of you to call.（電話をくれて気が利くね） |
 
-🎯 見分け方：**量・程度が大きい**なら considerable、**人が思いやりがある**なら considerate。consider**able**（-able＝無視できないほど大きい）と consider**ate**（人の態度）で区別。副詞 considerably は「かなり」、considerately は「思いやりをもって」。`,
+🎯 見分け方：**量・程度が大きい**なら considerable、**人が思いやりがある**なら considerate。consider**able**（-able＝無視できないほど大きい）と consider**ate**（人の態度）で区別。副詞 considerably は「かなり」、considerately は「思いやりをもって」。
+
+### 3つ目の派生形が紛れ込むことがある
+
+動詞 consider には considering（〜を考慮すると）という前置詞・接続詞用法もあり、considerable・considerate とは別の枝です。Considering the weather, the trip went well.（天候を考えると、旅行はうまくいった）のように文頭で条件や背景を示し、量にも人の態度にも関係しません。
+
+considerate の対義語 inconsiderate（思いやりのない）はよく使われますが、considerable の否定は not inconsiderable（決して小さくない＝婉曲的にかなり大きい、という二重否定）という形で登場することがあり、単純な対義語のペアにはなっていません。
+
+It was considerate of you to do ~（〜してくれるとは思いやりがある）という形は、of の後ろに人を置く独特の構文です。considerable にはこの「of + 人」の構文はなく、amount of ~（〜の量）のように名詞を直接修飾する使い方が中心です。`,
     keyPoints: [
       'considerable＝かなりの・相当の（量・程度）',
       'considerate＝思いやりのある（人の態度）',
       'considerably＝かなり／considerately＝思いやりをもって',
     ],
+
     quiz: [
       {
         id: 'q-con-1',
@@ -2025,7 +2074,15 @@ so to speak（いわば）という決まり文句は、比喩的な言い方を
 | effective | 結果が出るか | 効果的・有効な | This is an **effective** way to lose weight.（これは効果的な減量法だ） |
 | efficient | 無駄がないか | 効率的な | The new system is more **efficient**; it saves time.（新システムは効率的で時間を節約する） |
 
-🎯 見分け方：**「ちゃんと結果が出る」なら effective**（effect＝結果）、**「無駄なく速い」なら efficient**（efficiency＝効率）。効果はあるが非効率（effective but not efficient）ということもあり得ます。`,
+🎯 見分け方：**「ちゃんと結果が出る」なら effective**（effect＝結果）、**「無駄なく速い」なら efficient**（efficiency＝効率）。効果はあるが非効率（effective but not efficient）ということもあり得ます。
+
+### 契約書・法令に出る「発効」の effective
+
+effective には「（規則・契約が）発効して」という意味もあり、effective from April 1（4月1日発効）・effective immediately（即時発効）のように使われます。この用法は結果の良し悪しでなく、**いつから有効になるか**という時期を示すもので、efficient には対応する使い方がありません。
+
+ビジネス用語では cost-effective（費用対効果が良い）が定着表現として広く使われますが、cost-efficient は日常的にはあまり使われません。費用の話をするときは、無駄のなさより「払った分に見合う結果が出るか」に焦点が置かれるため、effective 系の語のほうが好まれます。
+
+効率を表す名詞 efficiency は物理学でも使われ、機関の効率を熱効率（thermal efficiency）と呼ぶように、エネルギーの入力に対する出力の比率という工学的な意味も持ちます。effectiveness にはこうした数値化された技術用語としての用法はありません。`,
     keyPoints: [
       'effective＝効果的・有効（望む結果を出す）',
       'efficient＝効率的（時間・資源を無駄にしない）',
@@ -2086,12 +2143,21 @@ so to speak（いわば）という決まり文句は、比喩的な言い方を
 | **per**sonal | 形容詞 | 個人の・私的な | This is my **personal** opinion.（これは私個人の意見です） |
 | person**nel** | 名詞 | 職員・人員・人事 | The company hired new **personnel**.（会社は新しい人員を雇った） |
 
-🎯 見分け方：「**個人の・私的な**」という形容詞なら personal、「**従業員・人員（の集まり）**」という名詞なら personnel。personnel は語尾が **-nnel** で後ろにアクセント、と音とつづりをセットで覚えます。`,
+🎯 見分け方：「**個人の・私的な**」という形容詞なら personal、「**従業員・人員（の集まり）**」という名詞なら personnel。personnel は語尾が **-nnel** で後ろにアクセント、と音とつづりをセットで覚えます。
+
+### -nnel という綴りはフランス語から来ている
+
+personnel はフランス語をそのまま取り入れた借用語で、後ろにアクセントが来るのもフランス語式の発音が残っているためです。personal は古くから英語に定着した形容詞で英語式に前アクセントになっており、綴りが一文字違うだけの2語が、実は取り込まれた時代も経路も別だったことになります。
+
+personnel は不可算名詞として扱われ、personnels という複数形は存在しません。military personnel（軍関係者）・medical personnel（医療従事者）のように「〜に従事する人々全体」を指す集合名詞として使われます。
+
+かつては人事部を Personnel Department と呼びましたが、現在は Human Resources（HR）という呼び方が主流になっています。personnel file（人事記録）・personnel management（人事管理）のような複合語には今も personnel が残っていますが、部署名としては HR に置き換わりつつあります。`,
     keyPoints: [
       'personal＝形容詞「個人の・私的な」（前にアクセント）',
       'personnel＝名詞「職員・人員・人事」（後ろにアクセント）',
       'personnel は集合名詞、語尾 -nnel',
     ],
+
     quiz: [
       {
         id: 'q-pers-1',
