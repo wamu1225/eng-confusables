@@ -2213,7 +2213,15 @@ personnel は不可算名詞として扱われ、personnels という複数形�
 | complain | 動詞 | 苦情を言う | Customers **complain** about the noise.（客が騒音について苦情を言う） |
 | complain**t** | 名詞 | 苦情・不平 | We received many **complaints**.（多くの苦情を受け取った） |
 
-🎯 見分け方：**動作（〜する）**なら動詞 complain、**もの（〜という苦情）**なら名詞 complaint。語尾に **t が付くと名詞**（complaint）と覚えると、動詞・名詞の判定問題で迷いません。`,
+🎯 見分け方：**動作（〜する）**なら動詞 complain、**もの（〜という苦情）**なら名詞 complaint。語尾に **t が付くと名詞**（complaint）と覚えると、動詞・名詞の判定問題で迷いません。
+
+### complaint には病名という意味もある
+
+イギリス英語では a heart complaint（心臓の持病）のように、complaint が「病気・不調」を指すことがあります。苦情ではなく体の不具合を婉曲に言う古風な表現で、a stomach complaint（胃の不調）のように使われ、この意味では complain（動詞）に対応する言い方はありません。
+
+苦情を正式に申し立てるときは lodge a complaint（苦情を申し立てる）・file a complaint（苦情を提出する）という硬い言い方が使われ、単なる complain about ~ より公的な手続きのニュアンスが強くなります。
+
+complain には complain of ~（〜を訴える）という語法もあり、He complained of a headache.（頭痛を訴えた）のように症状を述べる場面で使われます。complain about とほぼ同じ意味ですが、of は体調不良を述べるときによく選ばれる前置詞です。`,
     keyPoints: [
       'complain＝動詞「苦情を言う」（complain about/to）',
       'complaint＝名詞「苦情・不平」（make a complaint）',
@@ -2276,7 +2284,15 @@ personnel は不可算名詞として扱われ、personnels という複数形�
 | imagin**ary** | -ary（非実在） | 架空の・想像上の | The child has an **imaginary** friend.（その子には空想上の友達がいる） |
 | imagin**able** | -able（可能） | 考えうる限りの | We tried every **imaginable** solution.（考えうる限りの解決策を試した） |
 
-🎯 接尾辞で覚える：**-ative＝（想像する）能力がある（豊か）**、**-ary＝実在しない（架空）**、**-able＝（想像）できる**。`,
+🎯 接尾辞で覚える：**-ative＝（想像する）能力がある（豊か）**、**-ary＝実在しない（架空）**、**-able＝（想像）できる**。
+
+### imaginable は名詞のあとに置かれることが多い
+
+imaginable は every imaginable excuse（考えうる限りのあらゆる言い訳）のように、修飾する名詞の後ろに置かれる語順が定番です。imaginative・imaginary が名詞の前に来る普通の形容詞なのに対し、imaginable は every・any・the best など**最上級や全称の語と組んで名詞の直後に付く**という独特の使われ方をします。
+
+数学の imaginary number（虚数）は、実際に存在しない値という意味から転用された専門用語で、architecture（建築）のimaginative designと同じ語根から出ながら、日常の「空想」とはかけ離れた分野で使われています。
+
+imaginative の対義語 unimaginative（発想が乏しい）は創作物や企画への評価によく使われ、an unimaginative solution（ありきたりな解決策）のように新しさの欠如を指摘する場面で登場します。`,
     keyPoints: [
       'imaginative＝想像力豊かな・創造的な（-ative）',
       'imaginary＝実在しない・架空の（-ary）',
@@ -2339,7 +2355,15 @@ personnel は不可算名詞として扱われ、personnels という複数形�
 | literary | 文学の・文芸の | He won a **literary** prize.（彼は文学賞を取った） |
 | literate | 読み書きできる | The program helps adults become **literate**.（その事業は大人が読み書きできるよう助ける） |
 
-🎯 見分け方：**言葉のとおり**なら literal、**文学**なら literary、**読み書きできる（人）**なら literate。literate は literacy（識字）と結びつけて「読み書き能力」と覚えます。`,
+🎯 見分け方：**言葉のとおり**なら literal、**文学**なら literary、**読み書きできる（人）**なら literate。literate は literacy（識字）と結びつけて「読み書き能力」と覚えます。
+
+### literally が「文字どおり」を裏切る口語用法
+
+会話では I literally died laughing.（笑い死ぬかと思った）のように、literally が誇張の強調語として使われることがあります。実際には死んでいないので本来の「文字どおり」とは矛盾しますが、この用法は広く定着しており、辞書にも口語的用法として記載されています。
+
+literate は identity のように -cy を付けて名詞化でき、literacy（識字・読み書き能力）に加え、computer-literate（パソコンに強い）・media-literate（メディアを読み解く力がある）のように**特定分野への精通**を表す複合語にも広がっています。この拡張用法は literal・literary には見られません。
+
+反対語はそれぞれ形が違い、literate の反対は illiterate（読み書きができない）、literal の反対は figurative（比喩的な）で、否定の接頭辞を付ける illiterate とは作り方が異なります。`,
     keyPoints: [
       'literal＝文字どおりの・逐語的な',
       'literary＝文学の・文芸の',
@@ -2400,7 +2424,15 @@ personnel は不可算名詞として扱われ、personnels という複数形�
 | institution | 機関・組織・制度 | A university is an educational **institution**.（大学は教育機関だ） |
 | instruction | 指示・説明・指導 | Follow the **instructions** on the box.（箱の説明書に従って） |
 
-🎯 見分け方：**組織・制度（established なもの）**なら institution、**やり方を教える・指示する**なら instruction。instruct（教える・指示する）の名詞が instruction、と動詞から結びつけると確実です。`,
+🎯 見分け方：**組織・制度（established なもの）**なら institution、**やり方を教える・指示する**なら instruction。instruct（教える・指示する）の名詞が instruction、と動詞から結びつけると確実です。
+
+### institution は建物のない「制度」も指す
+
+institution は組織そのものだけでなく、long-established custom（長年続く慣習）にも使われます。Afternoon tea is a British institution.（アフタヌーンティーはイギリスの伝統だ）のように、建物を持たない社会的慣習まで institution と呼べる点は、instruction には無い広がりです。
+
+instruction は単数だと「一つの指示・命令」、複数の instructions は「一連の説明書・手順」を指すことが多く、プログラミングでは a single instruction（1個の命令）のように、コンピュータが実行する最小単位を指す専門用語としても使われます。
+
+under instruction from ~（〜の指示のもとで）という言い回しは法律や報道でよく使われ、The lawyer acted under instruction from his client.（弁護士は依頼人の指示に従って行動した）のように、誰の指示に基づく行動かを明示する場面に登場します。`,
     keyPoints: [
       'institution＝機関・組織・制度',
       'instruction＝指示・説明・指導（instruct の名詞）',
@@ -2461,7 +2493,15 @@ personnel は不可算名詞として扱われ、personnels という複数形�
 | permission | （行為の）許可 | You need **permission** to enter the lab.（実験室に入るには許可が必要だ） |
 | admission | 入場・入学／入場料／認め | **Admission** to the museum is free.（博物館の入場は無料だ） |
 
-🎯 見分け方：**「〜してよい」という行為の許し**なら permission、**入場・入学そのものや入場料、罪の自白**なら admission。admission は admit（入れる・認める）の名詞、permission は permit（許可する）の名詞、と動詞から確認できます。`,
+🎯 見分け方：**「〜してよい」という行為の許し**なら permission、**入場・入学そのものや入場料、罪の自白**なら admission。admission は admit（入れる・認める）の名詞、permission は permit（許可する）の名詞、と動詞から確認できます。
+
+### admission に似た admittance は物理的な立ち入りだけを指す
+
+No Admittance（立入禁止）という掲示は、建物や部屋への**物理的な立ち入り**だけを問題にしており、入学・会員資格のような制度的な許可には admittance を使いません。admission はより広く、入場料や入学のような制度面まで含むため、college admission（大学入学）は admittance には言い換えられません。
+
+permit には名詞の用法もあり、a parking permit（駐車許可証）のように**許可を証明する実物の書類**を指します。permission は許可という抽象的な状態そのものを指すので、「許可証を見せて」は Show me your permit. であって Show me your permission. とは言いません。
+
+admission には「（過ちなどを）認める発言」という意味もあり、an admission of guilt（罪の認め）のように使われます。confession（告白）より軽い認めにも使えるやわらかい語で、「非を認める」程度の場面にも登場します。`,
     keyPoints: [
       'permission＝（行為をする）許可（permit の名詞）',
       'admission＝入場・入学／入場料／（罪・事実の）認め（admit の名詞）',
@@ -2587,7 +2627,15 @@ personnel は不可算名詞として扱われ、personnels という複数形�
 | related | 単なる関連 | 関連した・つながった | These two problems are **related**.（この2つの問題はつながっている） |
 | relevant | 関連＋重要・適切 | （文脈に）適切で重要な | Please give only **relevant** information.（関連して重要な情報だけください） |
 
-🎯 見分け方：**ただ「つながっている」**なら related、**「今の話に効いてくる・適切」**なら relevant。relevant は relevant **to** 〜（〜に関連して）の形が頻出です。`,
+🎯 見分け方：**ただ「つながっている」**なら related、**「今の話に効いてくる・適切」**なら relevant。relevant は relevant **to** 〜（〜に関連して）の形が頻出です。
+
+### related には血縁という専用の意味がある
+
+Are you related to him?（彼とは親戚ですか）のように、related は血縁関係を尋ねるときにもそのまま使われます。relevant にはこの意味はなく、人と人のつながりを聞きたいときは related 一択です。
+
+related は work-related（仕事に関連した）・stress-related（ストレス性の）のように、ハイフンでつないだ複合形容詞をたくさん作ります。a stress-related illness（ストレス性の病気）のような言い方は日常でよく見かけますが、relevant にはこうした複合語の作りやすさはありません。
+
+法廷では Objection, relevance!（異議あり、関連性がありません）のように、relevance（関連性）という名詞が「その発言が今の争点に効いているか」を問う専門用語として使われます。単なるつながりを示す related の名詞形 relation とは、使われる場面がはっきり分かれています。`,
     keyPoints: [
       'related＝関連した・つながった（単なる関連）',
       'relevant＝文脈に関連があり重要・適切',
@@ -2648,7 +2696,15 @@ personnel は不可算名詞として扱われ、personnels という複数形�
 | advi**c**e | 名詞 | 助言・忠告 | She gave me good **advice**.（良い助言をくれた） |
 | advi**s**e | 動詞 | 助言する・勧める | I **advise** you to rest.（休むことを勧めます） |
 
-🎯 見分け方：**「〜という助言（もの）」**なら名詞 advice（c）、**「助言する（動作）」**なら動詞 advise（s）。同じパターンに **practice（名詞）/ practise（動詞）**、**device（名詞）/ devise（動詞）** があり、**c が名詞・s が動詞**と覚えられます。`,
+🎯 見分け方：**「〜という助言（もの）」**なら名詞 advice（c）、**「助言する（動作）」**なら動詞 advise（s）。同じパターンに **practice（名詞）/ practise（動詞）**、**device（名詞）/ devise（動詞）** があり、**c が名詞・s が動詞**と覚えられます。
+
+### advice は数えられない分、量の表し方が特殊
+
+advice は不可算名詞なので an advice も advices も誤りで、「助言を一つ」は a piece of advice、「いくつかの助言」は some advice のように、量を表す語を別に添える必要があります。この点は同じ c/s ペアの device（可算名詞）とは違う振る舞いです。
+
+practice/practise はアメリカ英語では名詞・動詞とも practice に統一されており、c/s の区別自体が薄れています。advice/advise はアメリカ英語でも区別が保たれているため、**同じパターンに見える語でも米英差の出方が語ごとに違う**という点に注意が必要です。
+
+advise の形容詞形 advisory は advisory board（諮問委員会）・travel advisory（渡航情報・注意喚起）のように、助言や勧告を出す組織・通知を表す語として使われ、advice の側にはこうした派生形容詞はありません。`,
     keyPoints: [
       'advice＝名詞「助言」（c、数えない名詞）',
       'advise＝動詞「助言する」（s）',
@@ -2709,12 +2765,21 @@ personnel は不可算名詞として扱われ、personnels という複数形�
 | ad**a**pt | 適応させる・改造する | Animals **adapt** to their environment.（動物は環境に適応する） |
 | ad**o**pt | 採用する・養子にする | The company **adopted** a new policy.（会社は新しい方針を採用した） |
 
-🎯 フック：ad**a**pt は **A**djust（調整・合わせる）の a、ad**o**pt は take as one's **O**wn（自分のものにする＝採用・養子）の o。「合わせて変える」か「そのまま取り入れる」かで区別します。`,
+🎯 フック：ad**a**pt は **A**djust（調整・合わせる）の a、ad**o**pt は take as one's **O**wn（自分のものにする＝採用・養子）の o。「合わせて変える」か「そのまま取り入れる」かで区別します。
+
+### 映画化は adapt、養子は adopt という住み分け
+
+The novel was adapted into a film.（その小説は映画化された）のように、原作を別の形に作り変える「脚色・翻案」には adapt が使われます。adopt にはこの意味はなく、映画業界で adopt a novel と言うことはありません。
+
+adopt a child（子どもを養子にする）は法的な手続きを伴う特定の行為で、比喩的に adapt a child と言い換えることはできません。同じ語根から分かれた2語ですが、家族に関する場面では adopt だけが使われ、adapt は環境や仕組みの変化にしか使われません。
+
+身近な名詞では adapter（電源アダプター）が ad**a**pt から作られ、電圧やプラグの形を「合わせる」道具を指します。adopt から作られる adopter（採用者）という語もありますが、日常での使用頻度は adapter よりずっと低い語です。`,
     keyPoints: [
       'adapt＝適応させる・合わせて変える・改造する（Adjust の a）',
       'adopt＝採用する・取り入れる・養子にする（Own の o）',
       '変えて合わせる adapt／そのまま取り入れる adopt',
     ],
+
     quiz: [
       {
         id: 'q-adapt-1',
