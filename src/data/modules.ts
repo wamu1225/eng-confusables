@@ -2839,7 +2839,15 @@ adopt a child（子どもを養子にする）は法的な手続きを伴う特�
 | b**r**eed | /briːd/ | 繁殖させる・品種 | They **breed** dogs on this farm.（この農場で犬を繁殖させている） |
 | b**l**eed | /bliːd/ | 出血する | The cut on my finger started to **bleed**.（指の切り傷から血が出始めた） |
 
-🎯 リスニングの要点：**/r/ は舌を口の中で丸める音、/l/ は舌先を上の歯ぐきにつける音**。breed（r）／bleed（l）。さらに過去形 bred（/bred/）と bread（パン /bred/）は同音なので、文脈で判断します。`,
+🎯 リスニングの要点：**/r/ は舌を口の中で丸める音、/l/ は舌先を上の歯ぐきにつける音**。breed（r）／bleed（l）。さらに過去形 bred（/bred/）と bread（パン /bred/）は同音なので、文脈で判断します。
+
+### どちらも比喩で「増える・広がる」意味を持つ
+
+Familiarity breeds contempt.（慣れ親しむと軽蔑を生む）という諺のように、breed は動物の繁殖だけでなく「（好ましくない状況を）生み出す」という比喩でもよく使われます。Poverty breeds crime.（貧困は犯罪を生む）のように、原因が結果を次々に生む関係を表します。
+
+bleed にも money bleeds away（お金がじわじわ失われる）のような比喩用法があり、bleed a company dry（会社の資金を吸い尽くす）のように、血が流れ出るイメージから「資源が漏れ出ていく」ことを表します。
+
+bleeding edge（最先端）という言い方もあり、cutting edge（最先端）よりさらにリスクの高い、実験段階の技術を指すときに使われます。breed にはこうした「最先端」を意味する熟語はありません。`,
     keyPoints: [
       'breed /briːd/＝繁殖させる・品種（breed-bred-bred）',
       'bleed /bliːd/＝出血する（bleed-bled-bled）',
@@ -3045,7 +3053,15 @@ flaw から派生する形容詞 **flawless**（完璧な・傷ひとつない�
 | break | /breɪk/ | 壊す・割れる／休憩 | Be careful not to **break** the glass.（グラスを割らないように） |
 | brake | /breɪk/ | ブレーキ／制動する | He hit the **brake** to stop.（止まるためにブレーキを踏んだ） |
 
-🎯 リスニングの要点：音は同じなので**意味と場面**で決める。**車・自転車の「止める／減速」なら brake**、それ以外の「壊す・休む」は break。スペルも brAKE（車）と breAK（壊す・休憩）で覚えます。`,
+🎯 リスニングの要点：音は同じなので**意味と場面**で決める。**車・自転車の「止める／減速」なら brake**、それ以外の「壊す・休む」は break。スペルも brAKE（車）と breAK（壊す・休憩）で覚えます。
+
+### 車の話でも break を使う場面がある
+
+The car broke down on the highway.（車が高速道路で故障した）のように、車が故障するときは break down を使い、brake down という言い方はありません。ブレーキそのものの話でなければ、車が主語でも break が正解になることがあるので、「車＝brake」と単純化すると誤ります。
+
+ビジネスでは break even（収支がとんとんになる）という言い方が定着しており、The company broke even in its second year.（その会社は2年目に収支均衡した）のように使われます。brake にはこの財務用語としての用法はありません。
+
+日常会話では Give me a break!（いい加減にして・大目に見て）という決まり文句もよく使われ、相手に譲歩や信じがたさを表すときに使います。この break は「休憩」から転じた口語表現で、brake に置き換えることはできません。`,
     keyPoints: [
       'break と brake は同音 /breɪk/',
       'break＝壊す・割れる／休憩（break-broke-broken）',
@@ -3106,7 +3122,15 @@ flaw から派生する形容詞 **flawless**（完璧な・傷ひとつない�
 | bear | /beə(r)/ | クマ／耐える・支える | I can't **bear** this heat.（この暑さには耐えられない） |
 | bare | /beə(r)/ | 裸の・むき出しの | He walked on the **bare** floor.（彼はむき出しの床を歩いた） |
 
-🎯 リスニングの要点：音は同じなので意味で判断。**「耐える・クマ」なら bear**、**「むき出し・何もない」なら bare**。bare hands（素手）、bare feet（裸足）はすべて bare です。`,
+🎯 リスニングの要点：音は同じなので意味で判断。**「耐える・クマ」なら bear**、**「むき出し・何もない」なら bare**。bare hands（素手）、bare feet（裸足）はすべて bare です。
+
+### 株式市場にもクマの bear が出てくる
+
+a bear market（弱気相場）は、株価が下落し続ける市場を指す金融用語で、クマが前足を振り下ろす動作から下落のイメージが結びついたとされています。上昇相場は a bull market（強気相場）と呼ばれ、bear/bull の対比で相場の方向を表す言い方が定着しています。
+
+bear には bear responsibility（責任を負う）・bear in mind（心に留めておく）のような熟語も多く、「重さを支える」という中心義から「義務・記憶を抱える」という比喩へ広がっています。bare にはこうした抽象的な熟語は少なく、bare minimum（必要最低限）のように「削ぎ落として何も残っていない」状態を表す言い方が中心です。
+
+bare-bones（最低限の・骨組みだけの）という複合形容詞もよく使われ、a bare-bones budget（切り詰めた予算）のように、装飾や余裕を削ぎ落とした状態を表します。`,
     keyPoints: [
       'bear と bare は同音 /beə(r)/',
       'bear＝クマ／耐える・支える・運ぶ（bear-bore-borne）',
@@ -3390,7 +3414,15 @@ blush は動詞だけでなく、化粧品の**チーク（頬紅）**を指す�
 | c**r**u**sh** | /krʌʃ/ | 押しつぶす／夢中 | Don't **crush** the box.（箱をつぶさないで） |
 | c**l**a**sh** | /klæʃ/ | 対立・かち合う | Their opinions **clashed**.（彼らの意見は対立した） |
 
-🎯 ポイント：**crash と clash は母音 /æ/「ア」**、**crush は母音 /ʌ/**。さらに crash/crush は **/r/**、clash は **/l/**。意味は「激突（crash）／押しつぶす・夢中（crush）／対立（clash）」と整理します。`,
+🎯 ポイント：**crash と clash は母音 /æ/「ア」**、**crush は母音 /ʌ/**。さらに crash/crush は **/r/**、clash は **/l/**。意味は「激突（crash）／押しつぶす・夢中（crush）／対立（clash）」と整理します。
+
+### 3語それぞれに専用の決まり文句がある
+
+a crash course（速習コース）は、短期間に詰め込んで学ぶ集中講座を指し、墜落するような勢いの速さが比喩になっています。a crash diet（急激なダイエット）も同じ発想で、体に負担がかかるほど急な減量を表します。
+
+these colors clash（この色の組み合わせは合わない）のように、clash はファッションの世界で色や柄が調和しない状態にも使われます。意見の対立と同じく、「両立しないものがぶつかる」という核から生まれた用法です。
+
+crush には orange crush（オレンジスカッシュ＝果汁を搾った飲み物）のように、「搾る」という原義がそのまま残った食品名もあります。have a crush on someone（〜に片思いする）の crush とは別の枝から来ていますが、どちらも「押しつぶすほどの強い力」というイメージでつながっています。`,
     keyPoints: [
       'crash /kræʃ/＝激突・墜落・(システム)クラッシュ',
       'crush /krʌʃ/＝押しつぶす／（名詞）夢中・片思い',
@@ -3806,7 +3838,15 @@ blush は動詞だけでなく、化粧品の**チーク（頬紅）**を指す�
 | qui**et** | /ˈkwaɪət/ | 静かな（形容詞） | Please be **quiet** in the library.（図書館では静かに） |
 | qui**te** | /kwaɪt/ | かなり・まったく（副詞） | This coffee is **quite** strong.（このコーヒーはかなり濃い） |
 
-🎯 覚え方：**quiet は e があって「静か（rest）」、音も一つ多い2音節**。quite は t で締めて1音節。文法上、quiet は名詞を修飾し、quite は形容詞・副詞を強めます。`,
+🎯 覚え方：**quiet は e があって「静か（rest）」、音も一つ多い2音節**。quite は t で締めて1音節。文法上、quiet は名詞を修飾し、quite は形容詞・副詞を強めます。
+
+### quite は修飾する形容詞によって強さが変わる
+
+quite good（まあまあ良い）のように、程度に幅のある形容詞の前では quite は「そこそこ・まずまず」という控えめな意味になります。ところが quite amazing（実に素晴らしい）・quite impossible（まったく不可能）のように、程度に幅のない極端な形容詞の前では、quite は逆に「完全に・まったく」という強い意味に変わります。
+
+この違いは日本語の「かなり」だけでは訳しきれないので、修飾している形容詞が**段階的に変化しうる語か、それとも極端で二択の語か**を見て強さを判断する必要があります。
+
+quite a ~（なかなかの〜）という形もよく使われ、quite a surprise（かなりの驚き）・quite a task（なかなか大変な仕事）のように、a を挟んで名詞を強調します。quiet にはこうした「a + 名詞」を強める用法はありません。`,
     keyPoints: [
       'quiet /ˈkwaɪət/＝形容詞「静かな」（2音節）',
       'quite /kwaɪt/＝副詞「かなり・まったく」（1音節）',
@@ -3867,7 +3907,15 @@ blush は動詞だけでなく、化粧品の**チーク（頬紅）**を指す�
 | th**a**n | /ðæn/ | 〜より（比較） | She is taller **than** her brother.（彼女は兄より背が高い） |
 | th**e**n | /ðen/ | そのとき・それから | We had lunch, and **then** we left.（昼食をとり、それから出発した） |
 
-🎯 覚え方：**比較（compArison）の a → than**、**時（timE）の e → then**。「A より B」なら than、「そのとき／それから」なら then。`,
+🎯 覚え方：**比較（compArison）の a → than**、**時（timE）の e → then**。「A より B」なら than、「そのとき／それから」なら then。
+
+### than は比較級が無くても選択の対比に使える
+
+rather than ~（〜よりむしろ）は比較級を伴わずに than を使う定番の形で、I'd walk rather than wait for the bus.（バスを待つより歩きたい）のように、2つの選択肢を対比するときに使われます。比較級が見当たらなくても than が出てくることがあると知っておくと、文法問題での取りこぼしが減ります。
+
+no sooner ... than ~（〜するとすぐに）という倒置構文も than を使い、No sooner had she arrived than it started to rain.（彼女が着くとすぐ雨が降り出した）のように、二つの出来事がほぼ同時に起きたことを表します。
+
+then には the then president（当時の大統領）のように、名詞の前に置いて「その当時の」という形容詞的な使い方もあります。than にはこの用法はなく、then だけが持つ独自の振る舞いです。`,
     keyPoints: [
       'than /ðæn/＝比較「〜より」（比較級とセット）',
       'then /ðen/＝「そのとき・それから・それなら」（時・順序・帰結）',
@@ -4159,7 +4207,15 @@ blush は動詞だけでなく、化粧品の**チーク（頬紅）**を指す�
 | **ac**cept | /əkˈsept/ | 動詞：受け入れる | She **accepted** the job offer.（彼女は内定を受けた） |
 | **ex**cept | /ɪkˈsept/ | 前置詞：〜を除いて | Everyone came **except** Tom.（トム以外はみんな来た） |
 
-🎯 覚え方：**ex- は「外へ（out）」＝そこから外す「除いて」**。accept は ac-（〜へ）で「受け入れる」動詞。文で動詞が必要なら accept、「〜以外」なら except。`,
+🎯 覚え方：**ex- は「外へ（out）」＝そこから外す「除いて」**。accept は ac-（〜へ）で「受け入れる」動詞。文で動詞が必要なら accept、「〜以外」なら except。
+
+### except that ~ という接続詞用法もある
+
+except は except that ~（〜という点を除いて）という形で節を続けることもでき、The plan is good, except that it costs too much.（費用がかかりすぎる点を除けば、その計画はいい）のように使われます。except for ~（〜を別にすれば）も似た働きで、名詞の前に置いて例外を示します。
+
+名詞形は accept が acceptance（受諾）、except が exception（例外）とまったく違う形になり、語根の対応が見た目からは分かりにくくなっています。The exception proves the rule.（例外があるからこそ規則の存在が裏づけられる）という言い回しは、この exception を使った定番表現です。
+
+形容詞もそれぞれ acceptable（受け入れられる）・exceptional（並外れた・例外的に優れた）と別方向に発達しており、exceptional は多くの場合「例外的に悪い」でなく「例外的に素晴らしい」というプラスの意味で使われます。`,
     keyPoints: [
       'accept /əkˈsept/＝動詞「受け入れる・受け取る」',
       'except /ɪkˈsept/＝前置詞・接続詞「〜を除いて」',
@@ -4572,7 +4628,15 @@ remind 人 of 〜 は「〜を思い出させる」のほかに「**〜に似て
 | la**t**er | /ˈleɪtər/ | 後で（時間） | I'll call you **later**.（あとで電話するね） |
 | la**tt**er | /ˈlætər/ | 後者 | Of tea and coffee, I prefer the **latter**.（紅茶とコーヒーなら後者が好き） |
 
-🎯 覚え方：**later は late＋-r で「もっとあと（時間）」**、latter は t がふたつで「二つのうちの後」。former（前者）とセットで出てきたら latter。`,
+🎯 覚え方：**later は late＋-r で「もっとあと（時間）」**、latter は t がふたつで「二つのうちの後」。former（前者）とセットで出てきたら latter。
+
+### latter は二択でなく期間の後半も指す
+
+the latter half of the 20th century（20世紀後半）のように、latter は former との対比なしでも「（ある期間の）後半」という意味で単独で使われます。この用法では「二つのうちどちらか」という選択の意味は消え、単に時間軸の前半・後半を分ける言葉になっています。
+
+日常会話では Later!（じゃあね）という別れの挨拶があり、See you later. を短縮したくだけた言い方として使われます。latter にはこうした挨拶としての使い方はありません。
+
+sooner or later（遅かれ早かれ）という決まり文句も later の定番の使われ方で、いつかは必ず起こることを述べるときに使います。soon の比較級 sooner と later を対にした表現で、latter とは無関係です。`,
     keyPoints: [
       'later /ˈleɪtər/＝「後で」（時間・late の比較級）',
       'latter /ˈlætər/＝「後者」（former と対）',
