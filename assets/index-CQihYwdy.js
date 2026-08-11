@@ -906,7 +906,15 @@ adopt a child（子どもを養子にする）は法的な手続きを伴う特�
 | b**r**eed | /briːd/ | 繁殖させる・品種 | They **breed** dogs on this farm.（この農場で犬を繁殖させている） |
 | b**l**eed | /bliːd/ | 出血する | The cut on my finger started to **bleed**.（指の切り傷から血が出始めた） |
 
-🎯 リスニングの要点：**/r/ は舌を口の中で丸める音、/l/ は舌先を上の歯ぐきにつける音**。breed（r）／bleed（l）。さらに過去形 bred（/bred/）と bread（パン /bred/）は同音なので、文脈で判断します。`,keyPoints:[`breed /briːd/＝繁殖させる・品種（breed-bred-bred）`,`bleed /bliːd/＝出血する（bleed-bled-bled）`,`/r/ は舌を丸める音、/l/ は舌先を歯ぐきにつける音`],quiz:[{id:`q-breed-1`,question:`「出血する」という意味の語はどれですか。`,options:[`breed`,`bread`,`bleed`,`broad`],correctAnswer:2,explanation:`bleed /bliːd/ が「出血する」。breed は「繁殖させる・品種」です。`},{id:`q-breed-2`,question:`空所に入る適切な語はどれですか。「This farm ( ) award-winning horses.（この農場は受賞馬を育てている）」`,options:[`bleeds`,`breads`,`breeds`,`broods`],correctAnswer:2,explanation:`「繁殖させる・育てる」は breed（/r/）。`},{id:`q-breed-3`,question:`breed と bleed を分けている音の違いはどれですか。`,options:[`母音 /iː/ と /e/`,`語尾 /d/ と /t/`,`アクセントの位置`,`子音 /r/ と /l/`],correctAnswer:3,explanation:`breed は /r/、bleed は /l/。子音 /r/-/l/ の対立です。`},{id:`q-breed-4`,question:`bleed の過去形はどれですか。`,options:[`bleeded`,`bread`,`bled`,`bled`],correctAnswer:3,explanation:`bleed-bled-bled。なお bred（breed の過去）と bread（パン）は別語です。`},{id:`q-breed-5`,question:`「品種・種類」の意味で使えるのはどちらですか。`,options:[`breed`,`bleed`,`どちらも`,`どちらも不可`],correctAnswer:0,explanation:`breed には名詞「品種・種類」の意味があります（a breed of dog）。`}]},{id:`grow-glow`,title:`grow と glow`,chapter:4,description:`/r/ と /l/ の違い。grow /ɡroʊ/「成長する」、glow /ɡloʊ/「輝く・赤熱する」。`,content:`## 音のちがいで見分ける
+🎯 リスニングの要点：**/r/ は舌を口の中で丸める音、/l/ は舌先を上の歯ぐきにつける音**。breed（r）／bleed（l）。さらに過去形 bred（/bred/）と bread（パン /bred/）は同音なので、文脈で判断します。
+
+### どちらも比喩で「増える・広がる」意味を持つ
+
+Familiarity breeds contempt.（慣れ親しむと軽蔑を生む）という諺のように、breed は動物の繁殖だけでなく「（好ましくない状況を）生み出す」という比喩でもよく使われます。Poverty breeds crime.（貧困は犯罪を生む）のように、原因が結果を次々に生む関係を表します。
+
+bleed にも money bleeds away（お金がじわじわ失われる）のような比喩用法があり、bleed a company dry（会社の資金を吸い尽くす）のように、血が流れ出るイメージから「資源が漏れ出ていく」ことを表します。
+
+bleeding edge（最先端）という言い方もあり、cutting edge（最先端）よりさらにリスクの高い、実験段階の技術を指すときに使われます。breed にはこうした「最先端」を意味する熟語はありません。`,keyPoints:[`breed /briːd/＝繁殖させる・品種（breed-bred-bred）`,`bleed /bliːd/＝出血する（bleed-bled-bled）`,`/r/ は舌を丸める音、/l/ は舌先を歯ぐきにつける音`],quiz:[{id:`q-breed-1`,question:`「出血する」という意味の語はどれですか。`,options:[`breed`,`bread`,`bleed`,`broad`],correctAnswer:2,explanation:`bleed /bliːd/ が「出血する」。breed は「繁殖させる・品種」です。`},{id:`q-breed-2`,question:`空所に入る適切な語はどれですか。「This farm ( ) award-winning horses.（この農場は受賞馬を育てている）」`,options:[`bleeds`,`breads`,`breeds`,`broods`],correctAnswer:2,explanation:`「繁殖させる・育てる」は breed（/r/）。`},{id:`q-breed-3`,question:`breed と bleed を分けている音の違いはどれですか。`,options:[`母音 /iː/ と /e/`,`語尾 /d/ と /t/`,`アクセントの位置`,`子音 /r/ と /l/`],correctAnswer:3,explanation:`breed は /r/、bleed は /l/。子音 /r/-/l/ の対立です。`},{id:`q-breed-4`,question:`bleed の過去形はどれですか。`,options:[`bleeded`,`bread`,`bled`,`bled`],correctAnswer:3,explanation:`bleed-bled-bled。なお bred（breed の過去）と bread（パン）は別語です。`},{id:`q-breed-5`,question:`「品種・種類」の意味で使えるのはどちらですか。`,options:[`breed`,`bleed`,`どちらも`,`どちらも不可`],correctAnswer:0,explanation:`breed には名詞「品種・種類」の意味があります（a breed of dog）。`}]},{id:`grow-glow`,title:`grow と glow`,chapter:4,description:`/r/ と /l/ の違い。grow /ɡroʊ/「成長する」、glow /ɡloʊ/「輝く・赤熱する」。`,content:`## 音のちがいで見分ける
 
 **/r/ と /l/** だけの違いです。
 
@@ -964,7 +972,15 @@ flaw から派生する形容詞 **flawless**（完璧な・傷ひとつない�
 | break | /breɪk/ | 壊す・割れる／休憩 | Be careful not to **break** the glass.（グラスを割らないように） |
 | brake | /breɪk/ | ブレーキ／制動する | He hit the **brake** to stop.（止まるためにブレーキを踏んだ） |
 
-🎯 リスニングの要点：音は同じなので**意味と場面**で決める。**車・自転車の「止める／減速」なら brake**、それ以外の「壊す・休む」は break。スペルも brAKE（車）と breAK（壊す・休憩）で覚えます。`,keyPoints:[`break と brake は同音 /breɪk/`,`break＝壊す・割れる／休憩（break-broke-broken）`,`brake＝ブレーキ／制動する（車・自転車の減速）`],quiz:[{id:`q-break-1`,question:`空所に入る適切な語はどれですか。「Step on the ( ) to slow down.（減速するにはブレーキを踏んで）」`,options:[`brake`,`break`,`broke`,`broken`],correctAnswer:0,explanation:`車・自転車の「ブレーキ／制動」は brake。`},{id:`q-break-2`,question:`空所に入る適切な語はどれですか。「Let's take a short ( ) and have some coffee.（少し休憩してコーヒーを飲もう）」`,options:[`brake`,`braked`,`break`,`braking`],correctAnswer:2,explanation:`「休憩」は break。break には「壊す」のほか「休憩」の意味があります。`},{id:`q-break-3`,question:`break と brake の発音の関係として正しいものはどれですか。`,options:[`母音が違う`,`子音が /r/ と /l/ で違う`,`アクセントが違う`,`まったく同じ発音（同音異義語）`],correctAnswer:3,explanation:`どちらも /breɪk/ で同音。耳では区別できず、意味・文脈で判断します。`},{id:`q-break-4`,question:`break の過去形はどれですか。`,options:[`breaked`,`broken`,`braked`,`broke`],correctAnswer:3,explanation:`break-broke-broken。brake は規則変化（braked）です。`},{id:`q-break-5`,question:`空所に入る適切な語はどれですか。「The brakes failed and the car couldn't ( ).（ブレーキが効かず車は止まれなかった）」`,options:[`brake`,`break`,`broke`,`broken`],correctAnswer:0,explanation:`「制動する・止まる（ブレーキをかける）」は動詞 brake。`}]},{id:`bear-bare`,title:`bear と bare`,chapter:4,description:`同音 /beə(r)/。bear「クマ／耐える・運ぶ」、bare「裸の・むき出しの」。文脈で判断。`,content:`## 音は同じ、意味で見分ける
+🎯 リスニングの要点：音は同じなので**意味と場面**で決める。**車・自転車の「止める／減速」なら brake**、それ以外の「壊す・休む」は break。スペルも brAKE（車）と breAK（壊す・休憩）で覚えます。
+
+### 車の話でも break を使う場面がある
+
+The car broke down on the highway.（車が高速道路で故障した）のように、車が故障するときは break down を使い、brake down という言い方はありません。ブレーキそのものの話でなければ、車が主語でも break が正解になることがあるので、「車＝brake」と単純化すると誤ります。
+
+ビジネスでは break even（収支がとんとんになる）という言い方が定着しており、The company broke even in its second year.（その会社は2年目に収支均衡した）のように使われます。brake にはこの財務用語としての用法はありません。
+
+日常会話では Give me a break!（いい加減にして・大目に見て）という決まり文句もよく使われ、相手に譲歩や信じがたさを表すときに使います。この break は「休憩」から転じた口語表現で、brake に置き換えることはできません。`,keyPoints:[`break と brake は同音 /breɪk/`,`break＝壊す・割れる／休憩（break-broke-broken）`,`brake＝ブレーキ／制動する（車・自転車の減速）`],quiz:[{id:`q-break-1`,question:`空所に入る適切な語はどれですか。「Step on the ( ) to slow down.（減速するにはブレーキを踏んで）」`,options:[`brake`,`break`,`broke`,`broken`],correctAnswer:0,explanation:`車・自転車の「ブレーキ／制動」は brake。`},{id:`q-break-2`,question:`空所に入る適切な語はどれですか。「Let's take a short ( ) and have some coffee.（少し休憩してコーヒーを飲もう）」`,options:[`brake`,`braked`,`break`,`braking`],correctAnswer:2,explanation:`「休憩」は break。break には「壊す」のほか「休憩」の意味があります。`},{id:`q-break-3`,question:`break と brake の発音の関係として正しいものはどれですか。`,options:[`母音が違う`,`子音が /r/ と /l/ で違う`,`アクセントが違う`,`まったく同じ発音（同音異義語）`],correctAnswer:3,explanation:`どちらも /breɪk/ で同音。耳では区別できず、意味・文脈で判断します。`},{id:`q-break-4`,question:`break の過去形はどれですか。`,options:[`breaked`,`broken`,`braked`,`broke`],correctAnswer:3,explanation:`break-broke-broken。brake は規則変化（braked）です。`},{id:`q-break-5`,question:`空所に入る適切な語はどれですか。「The brakes failed and the car couldn't ( ).（ブレーキが効かず車は止まれなかった）」`,options:[`brake`,`break`,`broke`,`broken`],correctAnswer:0,explanation:`「制動する・止まる（ブレーキをかける）」は動詞 brake。`}]},{id:`bear-bare`,title:`bear と bare`,chapter:4,description:`同音 /beə(r)/。bear「クマ／耐える・運ぶ」、bare「裸の・むき出しの」。文脈で判断。`,content:`## 音は同じ、意味で見分ける
 
 **bear と bare は同じ発音 /beə(r)/（同音異義語）**。意味と品詞で見分けます。
 
@@ -976,7 +992,15 @@ flaw から派生する形容詞 **flawless**（完璧な・傷ひとつない�
 | bear | /beə(r)/ | クマ／耐える・支える | I can't **bear** this heat.（この暑さには耐えられない） |
 | bare | /beə(r)/ | 裸の・むき出しの | He walked on the **bare** floor.（彼はむき出しの床を歩いた） |
 
-🎯 リスニングの要点：音は同じなので意味で判断。**「耐える・クマ」なら bear**、**「むき出し・何もない」なら bare**。bare hands（素手）、bare feet（裸足）はすべて bare です。`,keyPoints:[`bear と bare は同音 /beə(r)/`,`bear＝クマ／耐える・支える・運ぶ（bear-bore-borne）`,`bare＝裸の・むき出しの／さらす（bare hands＝素手）`],quiz:[{id:`q-bear-1`,question:`空所に入る適切な語はどれですか。「She picked up the hot pan with her ( ) hands.（彼女は素手で熱い鍋を持った）」`,options:[`bare`,`bear`,`bore`,`born`],correctAnswer:0,explanation:`「素手」は bare hands。bare は「むき出しの」。`},{id:`q-bear-2`,question:`空所に入る適切な語はどれですか。「I can't ( ) to see him so sad.（彼がそんなに悲しむのを見るのは耐えられない）」`,options:[`bare`,`bared`,`bear`,`baring`],correctAnswer:2,explanation:`「耐える・我慢する」は bear。`},{id:`q-bear-3`,question:`bear と bare の発音の関係として正しいものはどれですか。`,options:[`子音が /b/ と /p/ で違う`,`母音 /iː/ と /e/ で違う`,`アクセントが違う`,`まったく同じ発音（同音異義語）`],correctAnswer:3,explanation:`どちらも /beə(r)/ で同音。意味・文脈で判断します。`},{id:`q-bear-4`,question:`bear の意味として当てはまらないものはどれですか。`,options:[`クマ`,`耐える`,`裸の`,`（重さを）支える`],correctAnswer:2,explanation:`「裸の・むき出しの」は bare の意味です。bear は名詞「クマ」、動詞「耐える・支える・産む」。`},{id:`q-bear-5`,question:`空所に入る適切な語はどれですか。「The trees were ( ) in winter.（冬、木々は葉を落として裸だった）」`,options:[`bare`,`bear`,`bore`,`borne`],correctAnswer:0,explanation:`「（葉などがなく）むき出しの・裸の」は bare です。`}]},{id:`ant-aunt`,title:`ant と aunt`,chapter:4,description:`ant「アリ」、aunt「おば」。米発音では同音 /ænt/、英発音では aunt /ɑːnt/ と異なる。`,content:`## 発音の地域差に注意
+🎯 リスニングの要点：音は同じなので意味で判断。**「耐える・クマ」なら bear**、**「むき出し・何もない」なら bare**。bare hands（素手）、bare feet（裸足）はすべて bare です。
+
+### 株式市場にもクマの bear が出てくる
+
+a bear market（弱気相場）は、株価が下落し続ける市場を指す金融用語で、クマが前足を振り下ろす動作から下落のイメージが結びついたとされています。上昇相場は a bull market（強気相場）と呼ばれ、bear/bull の対比で相場の方向を表す言い方が定着しています。
+
+bear には bear responsibility（責任を負う）・bear in mind（心に留めておく）のような熟語も多く、「重さを支える」という中心義から「義務・記憶を抱える」という比喩へ広がっています。bare にはこうした抽象的な熟語は少なく、bare minimum（必要最低限）のように「削ぎ落として何も残っていない」状態を表す言い方が中心です。
+
+bare-bones（最低限の・骨組みだけの）という複合形容詞もよく使われ、a bare-bones budget（切り詰めた予算）のように、装飾や余裕を削ぎ落とした状態を表します。`,keyPoints:[`bear と bare は同音 /beə(r)/`,`bear＝クマ／耐える・支える・運ぶ（bear-bore-borne）`,`bare＝裸の・むき出しの／さらす（bare hands＝素手）`],quiz:[{id:`q-bear-1`,question:`空所に入る適切な語はどれですか。「She picked up the hot pan with her ( ) hands.（彼女は素手で熱い鍋を持った）」`,options:[`bare`,`bear`,`bore`,`born`],correctAnswer:0,explanation:`「素手」は bare hands。bare は「むき出しの」。`},{id:`q-bear-2`,question:`空所に入る適切な語はどれですか。「I can't ( ) to see him so sad.（彼がそんなに悲しむのを見るのは耐えられない）」`,options:[`bare`,`bared`,`bear`,`baring`],correctAnswer:2,explanation:`「耐える・我慢する」は bear。`},{id:`q-bear-3`,question:`bear と bare の発音の関係として正しいものはどれですか。`,options:[`子音が /b/ と /p/ で違う`,`母音 /iː/ と /e/ で違う`,`アクセントが違う`,`まったく同じ発音（同音異義語）`],correctAnswer:3,explanation:`どちらも /beə(r)/ で同音。意味・文脈で判断します。`},{id:`q-bear-4`,question:`bear の意味として当てはまらないものはどれですか。`,options:[`クマ`,`耐える`,`裸の`,`（重さを）支える`],correctAnswer:2,explanation:`「裸の・むき出しの」は bare の意味です。bear は名詞「クマ」、動詞「耐える・支える・産む」。`},{id:`q-bear-5`,question:`空所に入る適切な語はどれですか。「The trees were ( ) in winter.（冬、木々は葉を落として裸だった）」`,options:[`bare`,`bear`,`bore`,`borne`],correctAnswer:0,explanation:`「（葉などがなく）むき出しの・裸の」は bare です。`}]},{id:`ant-aunt`,title:`ant と aunt`,chapter:4,description:`ant「アリ」、aunt「おば」。米発音では同音 /ænt/、英発音では aunt /ɑːnt/ と異なる。`,content:`## 発音の地域差に注意
 
 - **ant** … /ænt/ 「**アリ（昆虫）**」。
 - **aunt** … 米 /ænt/（ant と同音）／英 /ɑːnt/（「アーント」と長め）「**おば**」。
@@ -1062,7 +1086,15 @@ blush は動詞だけでなく、化粧品の**チーク（頬紅）**を指す�
 | c**r**u**sh** | /krʌʃ/ | 押しつぶす／夢中 | Don't **crush** the box.（箱をつぶさないで） |
 | c**l**a**sh** | /klæʃ/ | 対立・かち合う | Their opinions **clashed**.（彼らの意見は対立した） |
 
-🎯 ポイント：**crash と clash は母音 /æ/「ア」**、**crush は母音 /ʌ/**。さらに crash/crush は **/r/**、clash は **/l/**。意味は「激突（crash）／押しつぶす・夢中（crush）／対立（clash）」と整理します。`,keyPoints:[`crash /kræʃ/＝激突・墜落・(システム)クラッシュ`,`crush /krʌʃ/＝押しつぶす／（名詞）夢中・片思い`,`clash /klæʃ/＝対立する・かち合う`],quiz:[{id:`q-crash-1`,question:`空所に入る適切な語はどれですか。「The plane ( ) into the mountain.（飛行機が山に激突した）」`,options:[`crashed`,`crushed`,`clashed`,`clasped`],correctAnswer:0,explanation:`「激突・墜落」は crash（/kræʃ/）。`},{id:`q-crash-2`,question:`空所に入る適切な語はどれですか。「Heavy boxes ( ) the fragile items.（重い箱が壊れやすい品物を押しつぶした）」`,options:[`crashed`,`crushed`,`clashed`,`clapped`],correctAnswer:1,explanation:`「押しつぶす」は crush（/krʌʃ/）。`},{id:`q-crash-3`,question:`空所に入る適切な語はどれですか。「My meeting ( ) with my dentist appointment.（会議が歯医者の予約とかち合った）」`,options:[`crashed`,`clashed`,`crushed`,`crushed`],correctAnswer:1,explanation:`「（予定などが）かち合う・対立する」は clash（/klæʃ/）。`},{id:`q-crash-4`,question:`crush だけが持つ母音はどれですか。`,options:[`/æ/（crash, clash と同じ）`,`/iː/`,`/ɔː/`,`/ʌ/`],correctAnswer:3,explanation:`crush は /ʌ/。crash と clash は /æ/ です。`},{id:`q-crash-5`,question:`名詞で「（一時的な）夢中・片思い」の意味があるのはどれですか。`,options:[`crush`,`crash`,`clash`,`clap`],correctAnswer:0,explanation:`crush には名詞で「（短期的な）夢中・片思い」の意味があります（have a crush on 〜）。`}]},{id:`low-law`,title:`low と law`,chapter:4,description:`母音 /oʊ/ と /ɔː/ の違い。low /loʊ/「低い」、law /lɔː/「法・法律」。`,content:`## 音のちがいで見分ける
+🎯 ポイント：**crash と clash は母音 /æ/「ア」**、**crush は母音 /ʌ/**。さらに crash/crush は **/r/**、clash は **/l/**。意味は「激突（crash）／押しつぶす・夢中（crush）／対立（clash）」と整理します。
+
+### 3語それぞれに専用の決まり文句がある
+
+a crash course（速習コース）は、短期間に詰め込んで学ぶ集中講座を指し、墜落するような勢いの速さが比喩になっています。a crash diet（急激なダイエット）も同じ発想で、体に負担がかかるほど急な減量を表します。
+
+these colors clash（この色の組み合わせは合わない）のように、clash はファッションの世界で色や柄が調和しない状態にも使われます。意見の対立と同じく、「両立しないものがぶつかる」という核から生まれた用法です。
+
+crush には orange crush（オレンジスカッシュ＝果汁を搾った飲み物）のように、「搾る」という原義がそのまま残った食品名もあります。have a crush on someone（〜に片思いする）の crush とは別の枝から来ていますが、どちらも「押しつぶすほどの強い力」というイメージでつながっています。`,keyPoints:[`crash /kræʃ/＝激突・墜落・(システム)クラッシュ`,`crush /krʌʃ/＝押しつぶす／（名詞）夢中・片思い`,`clash /klæʃ/＝対立する・かち合う`],quiz:[{id:`q-crash-1`,question:`空所に入る適切な語はどれですか。「The plane ( ) into the mountain.（飛行機が山に激突した）」`,options:[`crashed`,`crushed`,`clashed`,`clasped`],correctAnswer:0,explanation:`「激突・墜落」は crash（/kræʃ/）。`},{id:`q-crash-2`,question:`空所に入る適切な語はどれですか。「Heavy boxes ( ) the fragile items.（重い箱が壊れやすい品物を押しつぶした）」`,options:[`crashed`,`crushed`,`clashed`,`clapped`],correctAnswer:1,explanation:`「押しつぶす」は crush（/krʌʃ/）。`},{id:`q-crash-3`,question:`空所に入る適切な語はどれですか。「My meeting ( ) with my dentist appointment.（会議が歯医者の予約とかち合った）」`,options:[`crashed`,`clashed`,`crushed`,`crushed`],correctAnswer:1,explanation:`「（予定などが）かち合う・対立する」は clash（/klæʃ/）。`},{id:`q-crash-4`,question:`crush だけが持つ母音はどれですか。`,options:[`/æ/（crash, clash と同じ）`,`/iː/`,`/ɔː/`,`/ʌ/`],correctAnswer:3,explanation:`crush は /ʌ/。crash と clash は /æ/ です。`},{id:`q-crash-5`,question:`名詞で「（一時的な）夢中・片思い」の意味があるのはどれですか。`,options:[`crush`,`crash`,`clash`,`clap`],correctAnswer:0,explanation:`crush には名詞で「（短期的な）夢中・片思い」の意味があります（have a crush on 〜）。`}]},{id:`low-law`,title:`low と law`,chapter:4,description:`母音 /oʊ/ と /ɔː/ の違い。low /loʊ/「低い」、law /lɔː/「法・法律」。`,content:`## 音のちがいで見分ける
 
 子音は同じ l- ですが、**同音異義語ではありません**。違うのは**母音 /oʊ/ と /ɔː/** です。
 
@@ -1182,7 +1214,15 @@ blush は動詞だけでなく、化粧品の**チーク（頬紅）**を指す�
 | qui**et** | /ˈkwaɪət/ | 静かな（形容詞） | Please be **quiet** in the library.（図書館では静かに） |
 | qui**te** | /kwaɪt/ | かなり・まったく（副詞） | This coffee is **quite** strong.（このコーヒーはかなり濃い） |
 
-🎯 覚え方：**quiet は e があって「静か（rest）」、音も一つ多い2音節**。quite は t で締めて1音節。文法上、quiet は名詞を修飾し、quite は形容詞・副詞を強めます。`,keyPoints:[`quiet /ˈkwaɪət/＝形容詞「静かな」（2音節）`,`quite /kwaɪt/＝副詞「かなり・まったく」（1音節）`,`末尾 -et と -te の並びが逆`],quiz:[{id:`q-quiet-1`,question:`「静かな」という意味の語はどれですか。`,options:[`quite`,`quit`,`quilt`,`quiet`],correctAnswer:3,explanation:`形容詞「静かな」は quiet /ˈkwaɪət/。quite は「かなり」です。`},{id:`q-quiet-2`,question:`空所に入る適切な語はどれですか。「The movie was ( ) interesting.（その映画はかなり面白かった）」`,options:[`quiet`,`quietly`,`quite`,`quit`],correctAnswer:2,explanation:`形容詞 interesting を強める副詞は quite「かなり」。`},{id:`q-quiet-3`,question:`空所に入る適切な語はどれですか。「Keep the children ( ) during the concert.（コンサート中は子どもを静かにさせて）」`,options:[`quite`,`quitely`,`quits`,`quiet`],correctAnswer:3,explanation:`「静かな（状態）」にするので形容詞 quiet。`},{id:`q-quiet-4`,question:`2音節（クワイエット）で発音するのはどちらですか。`,options:[`quite`,`quiet`,`どちらも`,`どちらも違う`],correctAnswer:1,explanation:`quiet /ˈkwaɪət/ が2音節。quite /kwaɪt/ は1音節です。`},{id:`q-quiet-5`,question:`空所に入る適切な語はどれですか。「It was a ( ) evening at home.（家での静かな夜だった）」`,options:[`quite`,`quitely`,`quiting`,`quiet`],correctAnswer:3,explanation:`名詞 evening を修飾する形容詞は quiet「静かな」。`}]},{id:`than-then`,title:`than と then`,chapter:1,description:`a と e の一字違い。than /ðæn/「〜より」（比較）、then /ðen/「そのとき・それから」（時・順序）。`,content:`## 役割で見分ける
+🎯 覚え方：**quiet は e があって「静か（rest）」、音も一つ多い2音節**。quite は t で締めて1音節。文法上、quiet は名詞を修飾し、quite は形容詞・副詞を強めます。
+
+### quite は修飾する形容詞によって強さが変わる
+
+quite good（まあまあ良い）のように、程度に幅のある形容詞の前では quite は「そこそこ・まずまず」という控えめな意味になります。ところが quite amazing（実に素晴らしい）・quite impossible（まったく不可能）のように、程度に幅のない極端な形容詞の前では、quite は逆に「完全に・まったく」という強い意味に変わります。
+
+この違いは日本語の「かなり」だけでは訳しきれないので、修飾している形容詞が**段階的に変化しうる語か、それとも極端で二択の語か**を見て強さを判断する必要があります。
+
+quite a ~（なかなかの〜）という形もよく使われ、quite a surprise（かなりの驚き）・quite a task（なかなか大変な仕事）のように、a を挟んで名詞を強調します。quiet にはこうした「a + 名詞」を強める用法はありません。`,keyPoints:[`quiet /ˈkwaɪət/＝形容詞「静かな」（2音節）`,`quite /kwaɪt/＝副詞「かなり・まったく」（1音節）`,`末尾 -et と -te の並びが逆`],quiz:[{id:`q-quiet-1`,question:`「静かな」という意味の語はどれですか。`,options:[`quite`,`quit`,`quilt`,`quiet`],correctAnswer:3,explanation:`形容詞「静かな」は quiet /ˈkwaɪət/。quite は「かなり」です。`},{id:`q-quiet-2`,question:`空所に入る適切な語はどれですか。「The movie was ( ) interesting.（その映画はかなり面白かった）」`,options:[`quiet`,`quietly`,`quite`,`quit`],correctAnswer:2,explanation:`形容詞 interesting を強める副詞は quite「かなり」。`},{id:`q-quiet-3`,question:`空所に入る適切な語はどれですか。「Keep the children ( ) during the concert.（コンサート中は子どもを静かにさせて）」`,options:[`quite`,`quitely`,`quits`,`quiet`],correctAnswer:3,explanation:`「静かな（状態）」にするので形容詞 quiet。`},{id:`q-quiet-4`,question:`2音節（クワイエット）で発音するのはどちらですか。`,options:[`quite`,`quiet`,`どちらも`,`どちらも違う`],correctAnswer:1,explanation:`quiet /ˈkwaɪət/ が2音節。quite /kwaɪt/ は1音節です。`},{id:`q-quiet-5`,question:`空所に入る適切な語はどれですか。「It was a ( ) evening at home.（家での静かな夜だった）」`,options:[`quite`,`quitely`,`quiting`,`quiet`],correctAnswer:3,explanation:`名詞 evening を修飾する形容詞は quiet「静かな」。`}]},{id:`than-then`,title:`than と then`,chapter:1,description:`a と e の一字違い。than /ðæn/「〜より」（比較）、then /ðen/「そのとき・それから」（時・順序）。`,content:`## 役割で見分ける
 
 母音が **a（than）と e（then）** の一字違いで、書き取り違いが非常に多い語です。文中での働きが全く違います。
 
@@ -1194,7 +1234,15 @@ blush は動詞だけでなく、化粧品の**チーク（頬紅）**を指す�
 | th**a**n | /ðæn/ | 〜より（比較） | She is taller **than** her brother.（彼女は兄より背が高い） |
 | th**e**n | /ðen/ | そのとき・それから | We had lunch, and **then** we left.（昼食をとり、それから出発した） |
 
-🎯 覚え方：**比較（compArison）の a → than**、**時（timE）の e → then**。「A より B」なら than、「そのとき／それから」なら then。`,keyPoints:[`than /ðæn/＝比較「〜より」（比較級とセット）`,`then /ðen/＝「そのとき・それから・それなら」（時・順序・帰結）`,`母音 a（than）と e（then）の一字違い`],quiz:[{id:`q-than-1`,question:`空所に入る適切な語はどれですか。「This book is more useful ( ) that one.（この本はあの本より役に立つ）」`,options:[`then`,`that`,`than`,`thin`],correctAnswer:2,explanation:`比較「〜より」は than。more とセットです。`},{id:`q-than-2`,question:`空所に入る適切な語はどれですか。「First mix the flour, ( ) add the eggs.（まず粉を混ぜ、それから卵を加える）」`,options:[`then`,`than`,`that`,`than`],correctAnswer:0,explanation:`順序「それから」は then です。`},{id:`q-than-3`,question:`比較級とともに使い「〜より」を表すのはどちらですか。`,options:[`than`,`then`,`どちらも`,`どちらも違う`],correctAnswer:0,explanation:`比較の「〜より」は than。then は時・順序を表します。`},{id:`q-than-4`,question:`空所に入る適切な語はどれですか。「If it rains, ( ) we will stay home.（雨なら、そのときは家にいる）」`,options:[`then`,`than`,`that`,`than`],correctAnswer:0,explanation:`条件の帰結「そのときは・それなら」は then です。`},{id:`q-than-5`,question:`空所に入る適切な語はどれですか。「He runs faster ( ) I do.（彼は私より速く走る）」`,options:[`then`,`that`,`than`,`thin`],correctAnswer:2,explanation:`faster（比較級）とともに「〜より」は than です。`}]},{id:`fewer-less`,title:`fewer と less`,chapter:2,description:`「より少ない」の使い分け。fewer は数えられる名詞（可算・複数）、less は数えられない名詞（不可算・量）に使う。`,content:`## 数えられるかどうかで見分ける
+🎯 覚え方：**比較（compArison）の a → than**、**時（timE）の e → then**。「A より B」なら than、「そのとき／それから」なら then。
+
+### than は比較級が無くても選択の対比に使える
+
+rather than ~（〜よりむしろ）は比較級を伴わずに than を使う定番の形で、I'd walk rather than wait for the bus.（バスを待つより歩きたい）のように、2つの選択肢を対比するときに使われます。比較級が見当たらなくても than が出てくることがあると知っておくと、文法問題での取りこぼしが減ります。
+
+no sooner ... than ~（〜するとすぐに）という倒置構文も than を使い、No sooner had she arrived than it started to rain.（彼女が着くとすぐ雨が降り出した）のように、二つの出来事がほぼ同時に起きたことを表します。
+
+then には the then president（当時の大統領）のように、名詞の前に置いて「その当時の」という形容詞的な使い方もあります。than にはこの用法はなく、then だけが持つ独自の振る舞いです。`,keyPoints:[`than /ðæn/＝比較「〜より」（比較級とセット）`,`then /ðen/＝「そのとき・それから・それなら」（時・順序・帰結）`,`母音 a（than）と e（then）の一字違い`],quiz:[{id:`q-than-1`,question:`空所に入る適切な語はどれですか。「This book is more useful ( ) that one.（この本はあの本より役に立つ）」`,options:[`then`,`that`,`than`,`thin`],correctAnswer:2,explanation:`比較「〜より」は than。more とセットです。`},{id:`q-than-2`,question:`空所に入る適切な語はどれですか。「First mix the flour, ( ) add the eggs.（まず粉を混ぜ、それから卵を加える）」`,options:[`then`,`than`,`that`,`than`],correctAnswer:0,explanation:`順序「それから」は then です。`},{id:`q-than-3`,question:`比較級とともに使い「〜より」を表すのはどちらですか。`,options:[`than`,`then`,`どちらも`,`どちらも違う`],correctAnswer:0,explanation:`比較の「〜より」は than。then は時・順序を表します。`},{id:`q-than-4`,question:`空所に入る適切な語はどれですか。「If it rains, ( ) we will stay home.（雨なら、そのときは家にいる）」`,options:[`then`,`than`,`that`,`than`],correctAnswer:0,explanation:`条件の帰結「そのときは・それなら」は then です。`},{id:`q-than-5`,question:`空所に入る適切な語はどれですか。「He runs faster ( ) I do.（彼は私より速く走る）」`,options:[`then`,`that`,`than`,`thin`],correctAnswer:2,explanation:`faster（比較級）とともに「〜より」は than です。`}]},{id:`fewer-less`,title:`fewer と less`,chapter:2,description:`「より少ない」の使い分け。fewer は数えられる名詞（可算・複数）、less は数えられない名詞（不可算・量）に使う。`,content:`## 数えられるかどうかで見分ける
 
 どちらも「**より少ない**」ですが、**後ろの名詞が可算か不可算か**で使い分けます。
 
@@ -1288,7 +1336,15 @@ blush は動詞だけでなく、化粧品の**チーク（頬紅）**を指す�
 | **ac**cept | /əkˈsept/ | 動詞：受け入れる | She **accepted** the job offer.（彼女は内定を受けた） |
 | **ex**cept | /ɪkˈsept/ | 前置詞：〜を除いて | Everyone came **except** Tom.（トム以外はみんな来た） |
 
-🎯 覚え方：**ex- は「外へ（out）」＝そこから外す「除いて」**。accept は ac-（〜へ）で「受け入れる」動詞。文で動詞が必要なら accept、「〜以外」なら except。`,keyPoints:[`accept /əkˈsept/＝動詞「受け入れる・受け取る」`,`except /ɪkˈsept/＝前置詞・接続詞「〜を除いて」`,`ex-（外へ）＝除く、ac-（〜へ）＝受け入れる`],quiz:[{id:`q-accept-1`,question:`空所に入る適切な語はどれですか。「The shop is open every day ( ) Sunday.（日曜以外は毎日開いている）」`,options:[`accept`,`expect`,`access`,`except`],correctAnswer:3,explanation:`「〜を除いて」は前置詞 except です。`},{id:`q-accept-2`,question:`「受け入れる」という意味の動詞はどれですか。`,options:[`except`,`expect`,`accept`,`access`],correctAnswer:2,explanation:`動詞「受け入れる」は accept /əkˈsept/。`},{id:`q-accept-3`,question:`空所に入る適切な語はどれですか。「Please ( ) my apology.（私の謝罪を受け入れてください）」`,options:[`except`,`expect`,`accept`,`access`],correctAnswer:2,explanation:`目的語をとる動詞なので accept「受け入れる」です。`},{id:`q-accept-4`,question:`前置詞・接続詞として「〜以外は」を表すのはどちらですか。`,options:[`accept`,`except`,`どちらも`,`どちらも違う`],correctAnswer:1,explanation:`「〜を除いて」は except。accept は動詞です。`},{id:`q-accept-5`,question:`空所に入る適切な語はどれですか。「All the students passed ( ) one.（一人を除いて全員合格した）」`,options:[`accept`,`expect`,`accepted`,`except`],correctAnswer:3,explanation:`「一人を除いて」は except です。`}]},{id:`plain-plane`,title:`plain と plane`,chapter:4,description:`同音 /pleɪn/。plain「明白な・質素な／平原」、plane「飛行機／平面」。意味とスペルで判断。`,content:`## 音は同じ、意味とスペルで見分ける
+🎯 覚え方：**ex- は「外へ（out）」＝そこから外す「除いて」**。accept は ac-（〜へ）で「受け入れる」動詞。文で動詞が必要なら accept、「〜以外」なら except。
+
+### except that ~ という接続詞用法もある
+
+except は except that ~（〜という点を除いて）という形で節を続けることもでき、The plan is good, except that it costs too much.（費用がかかりすぎる点を除けば、その計画はいい）のように使われます。except for ~（〜を別にすれば）も似た働きで、名詞の前に置いて例外を示します。
+
+名詞形は accept が acceptance（受諾）、except が exception（例外）とまったく違う形になり、語根の対応が見た目からは分かりにくくなっています。The exception proves the rule.（例外があるからこそ規則の存在が裏づけられる）という言い回しは、この exception を使った定番表現です。
+
+形容詞もそれぞれ acceptable（受け入れられる）・exceptional（並外れた・例外的に優れた）と別方向に発達しており、exceptional は多くの場合「例外的に悪い」でなく「例外的に素晴らしい」というプラスの意味で使われます。`,keyPoints:[`accept /əkˈsept/＝動詞「受け入れる・受け取る」`,`except /ɪkˈsept/＝前置詞・接続詞「〜を除いて」`,`ex-（外へ）＝除く、ac-（〜へ）＝受け入れる`],quiz:[{id:`q-accept-1`,question:`空所に入る適切な語はどれですか。「The shop is open every day ( ) Sunday.（日曜以外は毎日開いている）」`,options:[`accept`,`expect`,`access`,`except`],correctAnswer:3,explanation:`「〜を除いて」は前置詞 except です。`},{id:`q-accept-2`,question:`「受け入れる」という意味の動詞はどれですか。`,options:[`except`,`expect`,`accept`,`access`],correctAnswer:2,explanation:`動詞「受け入れる」は accept /əkˈsept/。`},{id:`q-accept-3`,question:`空所に入る適切な語はどれですか。「Please ( ) my apology.（私の謝罪を受け入れてください）」`,options:[`except`,`expect`,`accept`,`access`],correctAnswer:2,explanation:`目的語をとる動詞なので accept「受け入れる」です。`},{id:`q-accept-4`,question:`前置詞・接続詞として「〜以外は」を表すのはどちらですか。`,options:[`accept`,`except`,`どちらも`,`どちらも違う`],correctAnswer:1,explanation:`「〜を除いて」は except。accept は動詞です。`},{id:`q-accept-5`,question:`空所に入る適切な語はどれですか。「All the students passed ( ) one.（一人を除いて全員合格した）」`,options:[`accept`,`expect`,`accepted`,`except`],correctAnswer:3,explanation:`「一人を除いて」は except です。`}]},{id:`plain-plane`,title:`plain と plane`,chapter:4,description:`同音 /pleɪn/。plain「明白な・質素な／平原」、plane「飛行機／平面」。意味とスペルで判断。`,content:`## 音は同じ、意味とスペルで見分ける
 
 **plain と plane は同じ発音 /pleɪn/（同音異義語）**。意味とスペルで決めます。
 
@@ -1405,7 +1461,15 @@ remind 人 of 〜 は「〜を思い出させる」のほかに「**〜に似て
 | la**t**er | /ˈleɪtər/ | 後で（時間） | I'll call you **later**.（あとで電話するね） |
 | la**tt**er | /ˈlætər/ | 後者 | Of tea and coffee, I prefer the **latter**.（紅茶とコーヒーなら後者が好き） |
 
-🎯 覚え方：**later は late＋-r で「もっとあと（時間）」**、latter は t がふたつで「二つのうちの後」。former（前者）とセットで出てきたら latter。`,keyPoints:[`later /ˈleɪtər/＝「後で」（時間・late の比較級）`,`latter /ˈlætər/＝「後者」（former と対）`,`t の数：later はひとつ、latter はふたつ`],quiz:[{id:`q-later-1`,question:`空所に入る適切な語はどれですか。「Let's discuss this ( ).（これはあとで話し合おう）」`,options:[`latter`,`late`,`later`,`lately`],correctAnswer:2,explanation:`時間的に「あとで」は later です。`},{id:`q-later-2`,question:`空所に入る適切な語はどれですか。「We can go by bus or train; I prefer the ( ).（バスか電車か、後者がいい）」`,options:[`later`,`latter`,`late`,`latest`],correctAnswer:1,explanation:`「二つのうち後者」は latter です。`},{id:`q-later-3`,question:`former（前者）と対で「後者」を表すのはどちらですか。`,options:[`later`,`latter`,`どちらも`,`どちらも違う`],correctAnswer:1,explanation:`「後者」は latter。later は時間の「後で」です。`},{id:`q-later-4`,question:`空所に入る適切な語はどれですか。「The store opens ( ) on Sundays.（日曜は開店が遅い）」`,options:[`latter`,`latterly`,`later`,`latto`],correctAnswer:2,explanation:`「（時間が）遅く・あとで」は later です。`},{id:`q-later-5`,question:`t がふたつで「後者」を意味するのはどちらですか。`,options:[`later`,`latter`,`どちらも`,`どちらも違う`],correctAnswer:1,explanation:`latter（t がふたつ）＝後者。later（t ひとつ）＝後で。`}]},{id:`angel-angle`,title:`angel と angle`,chapter:1,description:`e と l の並びが逆。angel /ˈeɪndʒəl/「天使」、angle /ˈæŋɡəl/「角度・角」。発音も意味も別。`,content:`## 綴りの順番と発音で見分ける
+🎯 覚え方：**later は late＋-r で「もっとあと（時間）」**、latter は t がふたつで「二つのうちの後」。former（前者）とセットで出てきたら latter。
+
+### latter は二択でなく期間の後半も指す
+
+the latter half of the 20th century（20世紀後半）のように、latter は former との対比なしでも「（ある期間の）後半」という意味で単独で使われます。この用法では「二つのうちどちらか」という選択の意味は消え、単に時間軸の前半・後半を分ける言葉になっています。
+
+日常会話では Later!（じゃあね）という別れの挨拶があり、See you later. を短縮したくだけた言い方として使われます。latter にはこうした挨拶としての使い方はありません。
+
+sooner or later（遅かれ早かれ）という決まり文句も later の定番の使われ方で、いつかは必ず起こることを述べるときに使います。soon の比較級 sooner と later を対にした表現で、latter とは無関係です。`,keyPoints:[`later /ˈleɪtər/＝「後で」（時間・late の比較級）`,`latter /ˈlætər/＝「後者」（former と対）`,`t の数：later はひとつ、latter はふたつ`],quiz:[{id:`q-later-1`,question:`空所に入る適切な語はどれですか。「Let's discuss this ( ).（これはあとで話し合おう）」`,options:[`latter`,`late`,`later`,`lately`],correctAnswer:2,explanation:`時間的に「あとで」は later です。`},{id:`q-later-2`,question:`空所に入る適切な語はどれですか。「We can go by bus or train; I prefer the ( ).（バスか電車か、後者がいい）」`,options:[`later`,`latter`,`late`,`latest`],correctAnswer:1,explanation:`「二つのうち後者」は latter です。`},{id:`q-later-3`,question:`former（前者）と対で「後者」を表すのはどちらですか。`,options:[`later`,`latter`,`どちらも`,`どちらも違う`],correctAnswer:1,explanation:`「後者」は latter。later は時間の「後で」です。`},{id:`q-later-4`,question:`空所に入る適切な語はどれですか。「The store opens ( ) on Sundays.（日曜は開店が遅い）」`,options:[`latter`,`latterly`,`later`,`latto`],correctAnswer:2,explanation:`「（時間が）遅く・あとで」は later です。`},{id:`q-later-5`,question:`t がふたつで「後者」を意味するのはどちらですか。`,options:[`later`,`latter`,`どちらも`,`どちらも違う`],correctAnswer:1,explanation:`latter（t がふたつ）＝後者。later（t ひとつ）＝後で。`}]},{id:`angel-angle`,title:`angel と angle`,chapter:1,description:`e と l の並びが逆。angel /ˈeɪndʒəl/「天使」、angle /ˈæŋɡəl/「角度・角」。発音も意味も別。`,content:`## 綴りの順番と発音で見分ける
 
 末尾の **-el（angel）と -le（angle）** が入れ替わり、打ち間違いが多い語です。発音も意味も違います。
 
