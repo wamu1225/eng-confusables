@@ -4762,7 +4762,15 @@ sooner or later（遅かれ早かれ）という決まり文句も later の定�
 | thr**ough** | /θruː/ | 前置詞：〜を通って | We walked **through** the park.（公園を通り抜けた） |
 | th**orough** | /ˈθʌrə/ | 形容詞：徹底的な | She did a **thorough** cleaning.（彼女は徹底的に掃除した） |
 
-🎯 覚え方：**through は「スルー」＝通り抜ける前置詞**。thorough は tho-rough で o がふたつ、「（ろくろく＝徹底して）」と形容詞。名詞を修飾していれば thorough。`,
+🎯 覚え方：**through は「スルー」＝通り抜ける前置詞**。thorough は tho-rough で o がふたつ、「（ろくろく＝徹底して）」と形容詞。名詞を修飾していれば thorough。
+
+### through には形容詞の用法もある
+
+I'm through with this project.（このプロジェクトはもう終わった）のように、through は前置詞だけでなく be through with ~（〜を終える・〜と縁を切る）という形容詞的な使い方もします。単に「通り抜ける」だけでなく、「一通り終わって、もうそこにいない」という完了のニュアンスを持つ点で thorough に近づきます。
+
+thoroughfare（大通り・幹線道路）という単語は thorough と同じ語根から生まれており、「端から端まで通り抜けられる道」という意味です。through の「通り抜ける」という中心義が、thorough の側にもこうした形で痕跡を残しています。
+
+イギリス英語には a through train（直通列車）という言い方があり、乗り換えなしで通り抜けられる列車を指します。through がそのまま名詞の前に付く数少ない例で、thorough train という言い方は存在しません。`,
     keyPoints: [
       'through /θruː/＝前置詞「〜を通って・通じて」',
       'thorough /ˈθʌrə/＝形容詞「徹底的な・完全な」',
@@ -4823,7 +4831,15 @@ sooner or later（遅かれ早かれ）という決まり文句も later の定�
 | steal | 物 | （物）を盗む | Someone **stole** my bike.（誰かが私の自転車を盗んだ） |
 | rob | 人・場所 | （人・場所）から奪う | Two men **robbed** the bank.（二人組が銀行を襲った） |
 
-🎯 覚え方：**steal のあとは「盗まれた物」、rob のあとは「奪われた人・場所」**。「銀行を襲う」は rob the bank、「お金を盗む」は steal money。`,
+🎯 覚え方：**steal のあとは「盗まれた物」、rob のあとは「奪われた人・場所」**。「銀行を襲う」は rob the bank、「お金を盗む」は steal money。
+
+### steal は比喩でも大活躍する
+
+steal a glance at ~（〜をこっそり見る）・steal a kiss（不意にキスをする）のように、steal は「こっそり・素早く手に入れる」という比喩でも広く使われます。steal the show（（脇役が）注目をさらう）も同じ発想で、本来自分のものでない注目を持ち去るイメージです。
+
+rob にも比喩用法があり、rob someone of their dignity（人から尊厳を奪う）のように、rob A of B（AからBを奪う）という語法で物以外の抽象的なものを対象にできます。ここでも rob の目的語は常に「奪われる側（人）」で、steal のように奪われる「物」を直接目的語にすることはありません。
+
+住居に押し入って盗む行為には burglar（住居侵入窃盗犯）・burglary（住居侵入窃盗）という専用の語があり、steal や rob とは別の第三の語として法律用語や報道で使われます。`,
     keyPoints: [
       'steal＝（物）を盗む（steal something・steal-stole-stolen）',
       'rob＝（人・場所）から奪う（rob someone of something）',
@@ -4970,7 +4986,15 @@ hear は前置詞と組むと意味が変わります。混同しやすいので
 | win | 試合・賞 | （試合など）に勝つ | Our team **won** the match.（私たちのチームは試合に勝った） |
 | beat | 相手 | （相手）を負かす | We **beat** the champions.（私たちは王者を破った） |
 
-🎯 覚え方：**win のあとは「勝ち取ったもの（試合・賞）」、beat のあとは「負かした相手」**。「彼に勝った」は beat him、「試合に勝った」は win the game。`,
+🎯 覚え方：**win のあとは「勝ち取ったもの（試合・賞）」、beat のあとは「負かした相手」**。「彼に勝った」は beat him、「試合に勝った」は win the game。
+
+### beat には勝負と無関係な意味も多い
+
+beat は本来「連続してたたく」という意味の語で、beat an egg（卵を泡立てる）・beat a drum（太鼓をたたく）のように、勝負とはまったく関係のない場面でも使われます。音楽の a strong beat（力強いビート）という名詞も、この「たたく」動作が生んだリズムの単位です。
+
+ビジネスでは win-win（双方に利益がある）という複合形容詞がよく使われ、a win-win solution（双方が得をする解決策）のように、対戦して勝つ意味の win から離れて「良い結果」を表す語として定着しています。beat にはこうしたプラスの複合語はありません。
+
+beat around the bush（遠回しに言う・要点を避ける）という熟語もあり、獲物を茂みの周りでたたいて追い出す狩猟の様子が語源とされています。this-and-that の遠回しな話し方を批判するときによく使われる表現です。`,
     keyPoints: [
       'win＝（試合・賞）に勝つ・を得る（win-won-won）',
       'beat＝（相手）を負かす（beat-beat-beaten）',
@@ -5031,7 +5055,15 @@ hear は前置詞と組むと意味が変わります。混同しやすいので
 | classic | 一流の・典型的な・名作 | This is a **classic** example of good design.（これは良いデザインの典型例だ） |
 | classical | 古典の・クラシックの | She studies **classical** music.（彼女はクラシック音楽を学んでいる） |
 
-🎯 覚え方：**classical は -al で「（古典）様式」に寄る＝音楽・美術・古代の話**。それ以外の「一流・典型・名作」は classic。「クラシック音楽」は必ず classical music。`,
+🎯 覚え方：**classical は -al で「（古典）様式」に寄る＝音楽・美術・古代の話**。それ以外の「一流・典型・名作」は classic。「クラシック音楽」は必ず classical music。
+
+### Classics は大学の学科名として使われる
+
+英語圏の大学には Classics（西洋古典学）という学科があり、古代ギリシャ語・ラテン語やその文学を研究する分野を指します。study Classics at Oxford（オックスフォードで西洋古典学を学ぶ）のように、固有の学問領域名として使われる点は classic 単独には無い用法です。
+
+classic には名詞としての使い方もあり、a classic（不朽の名作）・a classic car（旧車・ヴィンテージカー）のように、時代を超えて評価され続けるものを指します。classical にはこの「名詞としての名作」という使い方はありません。
+
+学術分野では classical economics（古典派経済学）・classical physics（古典力学）のように、classical が「その分野の初期の確立された理論体系」を指す専門用語として使われます。この場合の classical は「音楽の古典」とは別の、学問史上の位置づけを示す語です。`,
     keyPoints: [
       'classic＝一流の・典型的な・名作（classic example）',
       'classical＝古典の・古典様式の（classical music）',
@@ -5092,7 +5124,15 @@ hear は前置詞と組むと意味が変わります。混同しやすいので
 | child**ish** | 否定的 | 幼稚な | Stop being so **childish**.（そんなに子どもっぽくしないで） |
 | child**like** | 肯定的 | 純真な | She has a **childlike** sense of wonder.（彼女は子どものような好奇心を持つ） |
 
-🎯 覚え方：**-like（〜のような）は「子どものように（良い面）」＝childlike で純真**。-ish は「〜っぽい（マイナス寄り）」で childish＝幼稚。ほめるなら childlike。`,
+🎯 覚え方：**-like（〜のような）は「子どものように（良い面）」＝childlike で純真**。-ish は「〜っぽい（マイナス寄り）」で childish＝幼稚。ほめるなら childlike。
+
+### -ish 自体はマイナスの接尾辞ではない
+
+fortyish（40歳くらい）・reddish（赤みがかった）のように、-ish は本来「およそ・〜がかった」という近似を表す中立的な接尾辞です。childish がマイナスの意味を持つのは、-ish が悪い接尾辞だからではなく、この語だけがそう定着した結果だと理解しておくと、他の -ish 語を見たときに誤解しません。
+
+同じ構図は womanly（女性らしい・上品な）／womanish（女々しい）、manly（男らしい）／mannish（男っぽい・無骨な）にも見られ、-ly が肯定、-ish が否定という組み合わせが child のペア以外にも存在します。
+
+くだけた会話では、大人が自分の趣味を Yeah, it's a bit childish, but I love it.（子どもっぽいけど好きなんだ）のように、childish を自嘲的に使って強い非難のニュアンスを和らげることもあります。`,
     keyPoints: [
       'childish＝子どもっぽい・幼稚な（否定的）',
       'childlike＝子どものように純真な（肯定的）',
@@ -5153,7 +5193,15 @@ hear は前置詞と組むと意味が変わります。混同しやすいので
 | w**ea**ther | /ˈweðər/ | 名詞：天気 | The **weather** is nice today.（今日は天気がいい） |
 | wh**e**ther | /ˈweðər/ | 接続詞：〜かどうか | I don't know **whether** he will come.（彼が来るかどうか分からない） |
 
-🎯 覚え方：**whether は wh- で始まる疑問の仲間＝「〜かどうか」**。天気の話（sunny, rainy）なら weather、「〜かどうか／〜であれ」なら whether。`,
+🎯 覚え方：**whether は wh- で始まる疑問の仲間＝「〜かどうか」**。天気の話（sunny, rainy）なら weather、「〜かどうか／〜であれ」なら whether。
+
+### weather は動詞にもなる
+
+weather the storm（嵐を乗り切る）のように、weather は動詞として「（困難を）乗り越える」という比喩でも使われます。The company weathered the recession.（その会社は不況を乗り切った）のように、天気の話でなくても使える表現です。
+
+whether は whether to go（行くべきかどうか）のように to不定詞を直接続けられますが、if にはこの使い方がなく、I don't know if to go とは言えません。whether だけができる語法として覚えておくと、if との使い分けにも役立ちます。
+
+whether or not ~ という形も頻出で、whether or not it rains（雨が降ろうと降るまいと）・whether it rains or not（同じ意味で語順違い）のように、or not の位置が前後どちらにも置ける柔軟さがあります。`,
     keyPoints: [
       'weather /ˈweðər/＝名詞「天気・天候」',
       'whether /ˈweðər/＝接続詞「〜かどうか」（whether A or B）',
@@ -5294,7 +5342,15 @@ meat には比喩的な用法もあります。**the meat of the matter**（話�
 | d**ia**ry | /ˈdaɪəri/ | 日記 | She writes in her **diary** every night.（彼女は毎晩日記をつける） |
 | d**ai**ry | /ˈdɛəri/ | 乳製品・酪農 | Milk and cheese are **dairy** products.（牛乳とチーズは乳製品だ） |
 
-🎯 覚え方：**diary は di-ary で「day（日）」の記録＝日記**。dairy は air が入って酪農・乳製品。牛乳・チーズの話なら dairy。`,
+🎯 覚え方：**diary は di-ary で「day（日）」の記録＝日記**。dairy は air が入って酪農・乳製品。牛乳・チーズの話なら dairy。
+
+### イギリス英語の diary は「予定帳」の意味が主役
+
+イギリス英語では diary は日々の感想を書く「日記」よりも、check my diary（予定を確認する）のようにスケジュール帳・手帳の意味で使われることが多くあります。アメリカ英語ではこの意味では calendar や planner が好まれ、diary は感情や出来事を綴る日記の意味に寄ります。
+
+食品表示では dairy-free（乳製品不使用）という複合語が定着しており、アレルギーや食事制限を示すラベルとしてパッケージによく印刷されています。diary-free という言い方は存在しません。
+
+dairy は形容詞として dairy farm（酪農場）・dairy cattle（乳牛）のように、乳製品そのものだけでなく生産する農場や家畜を指すときにも使われ、「乳製品」より広い酪農業全体をカバーする語です。`,
     keyPoints: [
       'diary /ˈdaɪəri/＝日記（day の記録）',
       'dairy /ˈdɛəri/＝乳製品・酪農',
@@ -5355,7 +5411,15 @@ meat には比喩的な用法もあります。**the meat of the matter**（話�
 | coun**cil** | /ˈkaʊnsəl/ | 名詞：評議会・議会 | The city **council** met yesterday.（市議会は昨日開かれた） |
 | coun**sel** | /ˈkaʊnsəl/ | 助言（する）・弁護人 | She gave me wise **counsel**.（彼女は賢明な助言をくれた） |
 
-🎯 覚え方：**council は集まり（会）＝人の集団**、counsel は助言（advise）。相談・助言なら counsel（counselor）、会議体なら council。`,
+🎯 覚え方：**council は集まり（会）＝人の集団**、counsel は助言（advise）。相談・助言なら counsel（counselor）、会議体なら council。
+
+### 法廷ではもう一つ紛らわしい語がある
+
+法廷では counsel for the defense（弁護側代理人）・counsel for the prosecution（検察側代理人）のように、counsel が弁護士団を集合的に指す硬い表現として使われます。councilにはこの法廷用語としての意味はありません。
+
+council のメンバーは councillor（議員・評議員）と綴り、counsel から相談を受ける counselor（カウンセラー・相談員）とは l の数（councillor は l がふたつ、counselor は l がひとつ）で見分けられます。
+
+さらに紛らわしい同音語として consul（領事）があり、外国に駐在してその国との外交・領事業務を行う公務員を指します。council（議会）・counsel（助言）・consul（領事）は発音がほぼ同じ三つ子で、文脈の話題（自治体か、助言か、外交か）でしか判別できません。`,
     keyPoints: [
       'council＝評議会・議会（集まった人の会・city council）',
       'counsel＝助言（する）・弁護人（counselor）',
