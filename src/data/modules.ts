@@ -5753,7 +5753,19 @@ study は「勉強する」という**過程**、learn は「身につく」と�
 | success**ful** | 成功した | The event was very **successful**.（そのイベントは大成功だった） |
 | success**ive** | 連続する | It rained for three **successive** days.（3日連続で雨が降った） |
 
-🎯 覚え方：**-ful は「（成功で）満ちた」＝成功した**。-ive の successive は succession（連続）＝「立て続けの」。「連続◯回」なら successive。`,
+🎯 覚え方：**-ful は「（成功で）満ちた」＝成功した**。-ive の successive は succession（連続）＝「立て続けの」。「連続◯回」なら successive。
+
+### 名詞の前に置けるかどうか
+
+successive は three successive wins（3連勝）や for the fifth successive year（5年連続で）のように、数量を表す語と組んで名詞の前に置く形がほとんどです。The days were successive. のように be 動詞のあとに置く言い方は普通しません。successful のほうは The event was successful. と補語に立てられるので、空所が be 動詞のあとなら successful を選んで外しません。
+
+### 動詞 succeed の二つの顔
+
+succeed には「成功する」と「後を継ぐ」という二つの意味があり、前者から successful と success、後者から successive と succession が生まれています。succeed in passing the exam（試験に合格する）は前者、succeed to the throne（王位を継承する）は後者で、とる前置詞も違います。successor（後継者）が「継ぐ」側の名詞だと知っていれば、successive の「次々と後に続く」という感覚もつかめます。
+
+### 取り違えが目立つ場面
+
+「3年連続で優勝した」を He won three successful times. と書くと、意味の取れない句になります。ここは three successive years か three years in a row です。逆に successive governments は「歴代の政権」を指すだけで、その政権が成功したかどうかは何も述べていません。`,
     keyPoints: [
       'successful＝成功した（success の形容詞）',
       'successive＝連続する・引き続いての（succession の形容詞）',
@@ -7018,7 +7030,19 @@ belief/believe と同じく、**-f（relief）が名詞、-ve（relieve）が動
 | damage | 物・もの | 損害を与える | The storm **damaged** the roof.（嵐が屋根に損害を与えた） |
 | injure | 人・体 | 負傷させる | He **injured** his knee playing soccer.（サッカーで膝を痛めた） |
 
-🎯 覚え方：**物・建物・評判が壊れるなら damage、人や体がけがをするなら injure（injury＝けが）**。「車が壊れた」は damage、「人がけがした」は injure。`,
+🎯 覚え方：**物・建物・評判が壊れるなら damage、人や体がけがをするなら injure（injury＝けが）**。「車が壊れた」は damage、「人がけがした」は injure。
+
+### 名詞になったときの形
+
+damage は名詞では数えられない「損害」で、The storm caused serious damage. のように無冠詞の単数で使います。複数形の damages になると意味が変わり、法律用語の「損害賠償金」を指します。sue for damages は「損害賠償を求めて訴える」です。injure の名詞は injury で、こちらは a knee injury、three injuries のように数えられます。
+
+### 人にも物にも使える語
+
+harm は人にも物にも使え、抽象的な「害」も表します。hurt は痛みを伴うけがや心の傷に向き、My back hurts. のように自動詞にもなります。人が負傷したことを伝える英文では受け身の Three people were injured in the crash. が普通で、新聞の見出しでは 3 injured と短く書かれます。
+
+### 成句に残る使い分け
+
+damage control は不祥事などのあとで被害の広がりを抑える「事態収拾」を指し、企業や政治の記事でよく出てきます。add insult to injury は、けがをさせたうえに侮辱まで重ねるという成句で、日本語の「踏んだり蹴ったり」に近い場面で使われます。壊れる側と傷つく側で、成句に選ばれる語もきれいに分かれています。`,
     keyPoints: [
       'damage＝（物・評判）に損害を与える（名詞「損害」も）',
       'injure＝（人・体）を傷つける・負傷させる（injury）',
@@ -7623,7 +7647,19 @@ too は後ろに来る形容詞で数えられる/数えられないが分かれ
 | farther | 物理的な距離 | The station is **farther** than I thought.（駅は思ったより遠い） |
 | further | 程度・追加 | We need **further** information.（さらなる情報が必要だ） |
 
-🎯 覚え方：**farther には far（距離）が入り「より遠く（物理）」**、further は「さらに・追加（程度）」。「これ以上・追加の」は further。距離でも further は使えますが、抽象なら必ず further。`,
+🎯 覚え方：**farther には far（距離）が入り「より遠く（物理）」**、further は「さらに・追加（程度）」。「これ以上・追加の」は further。距離でも further は使えますが、抽象なら必ず further。
+
+### further だけが持つ用法
+
+further には動詞の用法があり、further your career（キャリアを前進させる）のように「促進する」の意味で使えます。farther に動詞用法はありません。文をつなぐ furthermore（さらに言えば）、until further notice（追って通知があるまで）、without further delay（これ以上遅れることなく）も、いずれも further の側で固まった言い方です。
+
+### 英米で受け止め方に差がある
+
+イギリス英語では距離にも程度にも further を使うのが普通で、farther を見かける機会は多くありません。アメリカ英語では物理的な距離に farther を選ぶ傾向がありますが、そこでも further を使って誤りとされることはまずありません。判断に迷ったときに further を選んでおけば大きく外さないのは、この非対称のためです。
+
+### 最上級と、教育制度に残る further
+
+最上級は farthest と furthest で、使い分けの傾向は比較級と同じです。イギリスの教育制度でいう further education は義務教育のあとに続く継続教育を指し、学位課程を指す higher education と区別されます。ここでの further も距離ではなく、その先へ進むという程度の意味で使われています。`,
     keyPoints: [
       'farther＝主に物理的な距離「より遠くに」',
       'further＝程度・追加「さらに・追加の」（距離にも可）',
@@ -8291,7 +8327,19 @@ moral に e を一つ足すだけで、単語は個人の倫理から集団の�
 | big | 重要さ・程度も | It was a **big** decision.（それは大きな決断だった） |
 | large | サイズ・量・数 | They live in a **large** house.（彼らは大きな家に住んでいる） |
 
-🎯 覚え方：**「重大な（重要さ）」は big が自然、「サイズ・量・数」は large も自然**。a big mistake（○）／a large mistake（△）。数量は a large number of ~。`,
+🎯 覚え方：**「重大な（重要さ）」は big が自然、「サイズ・量・数」は large も自然**。a big mistake（○）／a large mistake（△）。数量は a large number of ~。
+
+### 定型句が判断を教えてくれる
+
+数量を述べる型は large の側に固まっています。a large amount of、a large number of、a large proportion of、on a large scale はどれも定型で、big に入れ替えると不自然になります。反対に a big deal（大ごと）、a big fan（大ファン）、a big decision（大きな決断）は big で定着した言い方で、large では通じません。空所の前後がこうした型に当てはまるなら、意味を考える前に語が決まります。
+
+### 家族と年齢を指す big
+
+my big brother は「兄」であって、体格の大きい兄弟という意味ではありません。big sister も同じく姉を指します。子どもに向けた You're a big boy now.（もうお兄ちゃんだね）も年齢の話で、large には置き換えられません。人の体格そのものを遠回しに言うときは、big より large が選ばれることがあります。
+
+### at large という成句
+
+large を使った成句に at large があり、The suspect is still at large.（容疑者はまだ捕まっていない）のように逃走中であることを表します。名詞のあとに置いて the public at large（一般大衆）と言えば「全体としての」という意味になります。どちらも大きさそのものからは離れた使い方です。`,
     keyPoints: [
       'big＝大きい・重大な（口語的・重要さにも）',
       'large＝サイズ・量・数が大きい（ややフォーマル）',
@@ -8413,7 +8461,19 @@ moral に e を一つ足すだけで、単語は個人の倫理から集団の�
 | moment**ary** | 一瞬の | There was a **momentary** silence.（つかの間の沈黙があった） |
 | moment**ous** | 重大な | It was a **momentous** decision.（それは重大な決断だった） |
 
-🎯 覚え方：**-ary の momentary は「（moment＝瞬間）一瞬の」**、-ous の momentous は「（重み）重大な」。時間が短いなら momentary、意義が大きいなら momentous。`,
+🎯 覚え方：**-ary の momentary は「（moment＝瞬間）一瞬の」**、-ous の momentous は「（重み）重大な」。時間が短いなら momentary、意義が大きいなら momentous。
+
+### 副詞 momentarily は英米で意味が割れる
+
+副詞の momentarily は、イギリス英語では「一瞬だけ」、アメリカ英語では「まもなく」の意味で使われます。機内放送の We will be landing momentarily. はアメリカ用法で「まもなく着陸します」ですが、イギリス流に読むと「一瞬だけ着陸する」という奇妙な文になります。書き手がどちらの英語かわからない場面では、in a moment や briefly に言い換えたほうが確実です。
+
+### moment がもともと持っていた「重み」
+
+moment はラテン語 momentum（動かす力、重み）に由来し、英語でも16世紀から「重要性」の意味を持っていました。a matter of great moment（きわめて重要な問題）という改まった言い方にその意味が残っており、momentous は17世紀にこちら側から作られています。時間の短さを指す語と意義の重さを指す語が同じ語源から分かれたのは、この二重の意味があったためです。
+
+### どちらの名詞が来ているかで決まる
+
+a momentary decision は「一瞬で下した決断」を指し、重大さについては何も言いません。重みを表したいなら a momentous decision です。momentary lapse（一瞬の失念）、momentary pause（つかの間の間）のように時間の長さに関わる名詞が来れば前者、momentous occasion（記念すべき機会）、momentous change（重大な変化）のように出来事の意義に関わる名詞なら後者を選びます。`,
     keyPoints: [
       'momentary /ˈmoʊməntɛri/＝一瞬の・つかの間の（時間）',
       'momentous /moʊˈmɛntəs/＝重大な・重要な（意義）',
@@ -10762,7 +10822,19 @@ warn は見た目どおりの動詞で、warn-warned-warned と規則的に活�
 | another | 単数 | もう一つの | Would you like **another** cup?（もう一杯いかが？） |
 | other | 複数／the と | 他の | I have **other** ideas.（他の考えがある） |
 
-🎯 覚え方：**another は an が付くので単数（もう一つ）**、other は複数名詞や the other(s)（残り）で使う。単数の「もう一つ」なら another、複数の「他の」なら other。`,
+🎯 覚え方：**another は an が付くので単数（もう一つ）**、other は複数名詞や the other(s)（残り）で使う。単数の「もう一つ」なら another、複数の「他の」なら other。
+
+### 数量のまとまりには another が付く
+
+another のあとは単数名詞が原則ですが、two weeks や ten kilometers のように数量をひとまとまりと見るときは another two weeks（もう2週間）、another ten kilometers（あと10キロ）と言えます。ここでの another は「もう一組の」という感覚で働いており、複数名詞そのものに付いているわけではありません。数詞をはさまずに another ideas と書くと誤りになります。
+
+### the が付くと残りが特定される
+
+I have two brothers. One lives in Osaka, and the other lives in Sendai. のように、2つのうちの残りの一方は the other です。3つ以上あって残り全部を指すなら the others、不特定の「他の人たち」なら others になります。冠詞が付くかどうかで、話し手が範囲を決めて話しているかどうかが読み取れます。
+
+### every other day の other
+
+every other day は「1日おきに」で、「毎日ほかの日」ではありません。この other は間にもう一つはさんで次に来るという意味で、every other week（隔週）、every other line（1行おき）も同じ作りです。one after another（次々と）、each other（互いに）とあわせて、成句のまま覚えておくと形で迷わなくなります。`,
     keyPoints: [
       'another＝an+other「もう一つの（単数・可算）」',
       'other＝他の（複数名詞／the other(s) で特定の残り）',
@@ -11289,7 +11361,19 @@ eight から派生する数詞は綴りの変化に注意が必要です。序�
 | amount | 不可算 | 量 | a large **amount** of water（大量の水） |
 | number | 可算・複数 | 数 | a large **number** of students（多数の生徒） |
 
-🎯 覚え方：**数えられない「量」は amount、数えられる「数」は number**。fewer/less と同じ判断（可算か不可算か）。water は amount、people は number。`,
+🎯 覚え方：**数えられない「量」は amount、数えられる「数」は number**。fewer/less と同じ判断（可算か不可算か）。water は amount、people は number。
+
+### a number of と the number of は動詞が違う
+
+a number of students は「多くの生徒」を指すので複数扱いになり、A number of students are absent today. と続きます。the number of students は「生徒の数」という一つの数字を指すため、The number of students is decreasing. と単数扱いです。冠詞が a か the かで主語の数が変わるので、空所が動詞のときはここを先に見ます。
+
+### amount of people が避けられる理由
+
+会話では an amount of people のような言い方を耳にすることもありますが、people は可算なので、書き言葉では a number of people に直します。同じ判断で「時間が足りない」は a small amount of time、「人数が少ない」は a small number of people になります。quantity は可算にも不可算にも使えるため、どちらか決めかねるときの逃げ道として使えます。
+
+### 動詞に転じたときの意味
+
+amount は動詞では amount to の形をとり、The bill amounted to 12,000 yen.（勘定は1万2千円になった）のように合計を表します。比喩的に His excuse amounts to a confession.（彼の弁解は自白に等しい）とも言えます。number も動詞になり、The crowd numbered about 5,000.（群衆は約5千人だった）のように総数を述べる形で使われます。`,
     keyPoints: [
       'amount＝（不可算の）量（an amount of water）',
       'number＝（可算の）数（a number of people）',
@@ -12109,7 +12193,19 @@ bury the hatchet（仲直りする）のような慣用句を覚えるより先�
 | famous | /ˈfeɪməs/ | 良い・中立 | She is a **famous** actress.（彼女は有名な女優だ） |
 | **in**famous | /ˈɪnfəməs/ | 悪い | He is **infamous** for cheating.（彼は不正で悪名高い） |
 
-🎯 覚え方：**infamous は「悪いことで有名（notorious と同義）」で、アクセントは前・発音は「インファマス」**。ほめる有名は famous、悪評で有名は infamous。`,
+🎯 覚え方：**infamous は「悪いことで有名（notorious と同義）」で、アクセントは前・発音は「インファマス」**。ほめる有名は famous、悪評で有名は infamous。
+
+### in- が打ち消しているもの
+
+infamous の in- は否定の接頭辞ですが、打ち消しているのは形容詞 famous ではなく、ラテン語 fama（評判）です。そのため「評判が良くない、不名誉な」という意味になり、「有名でない」という意味にはなりません。知られていないことを言いたいときは not famous や unknown を使います。発音も famous /ˈfeɪməs/ を引きずらず、第1音節に強勢が来て /ˈɪnfəməs/ になります。
+
+### 名詞形と、意味の近い語
+
+名詞形は infamy（悪名、不名誉）で、1941年12月8日のローズヴェルト大統領の議会演説にある a date which will live in infamy（汚名として記憶される日）という一節が知られています。同じく悪い評判を表す形容詞に notorious があり、その名詞は notoriety です。良し悪しの評価を含まずに「よく知られている」とだけ言いたいときは well-known が使えます。
+
+### for のあとを見れば評価がわかる
+
+be famous for も be infamous for も同じ形をとるため、判断の手がかりは後ろに来る語のほうにあります。famous for its beaches（ビーチで有名）と infamous for its traffic jams（渋滞で悪名高い）を並べると、前置詞ではなく目的語が評価を決めていることが見て取れます。悪い事柄に famous を皮肉として使う例もありますが、読み手に伝わりにくいので書き言葉では避けます。`,
     keyPoints: [
       'famous＝有名な（良い・中立）',
       'infamous＝悪名高い（悪い評判で有名・notorious）',
