@@ -2291,7 +2291,19 @@ too は後ろに来る形容詞で数えられる/数えられないが分かれ
 | proo**f** | /pruːf/ | 名詞：証拠 | Do you have any **proof**?（何か証拠はある？） |
 | pro**ve** | /pruːv/ | 動詞：証明する | Can you **prove** it?（それを証明できる？） |
 
-🎯 覚え方：**名詞は -f（proof）、動詞は -ve（prove）**。「証拠（モノ・事実）」は proof、「証明する（行為）」は prove。`,keyPoints:[`proof /pruːf/＝名詞「証拠・証明」（-f）`,`prove /pruːv/＝動詞「証明する」（-ve）`,`belief/believe と同じ -f 名詞／-ve 動詞`],quiz:[{id:`q-proof-1`,question:`空所に入る適切な語はどれですか。「The scientist tried to ( ) the theory.（科学者はその理論を証明しようとした）」`,options:[`prove`,`proof`,`proofs`,`proved'`],correctAnswer:0,explanation:`動詞「証明する」は prove です。`},{id:`q-proof-2`,question:`「証拠・証明」という意味の名詞はどれですか。`,options:[`proof`,`prove`,`proves`,`proving`],correctAnswer:0,explanation:`名詞「証拠」は proof /pruːf/ です。`},{id:`q-proof-3`,question:`空所に入る適切な語はどれですか。「There is no ( ) that he was there.（彼がそこにいた証拠はない）」`,options:[`proof`,`prove`,`proves`,`proved`],correctAnswer:0,explanation:`名詞「証拠」は proof です。`},{id:`q-proof-4`,question:`語尾が濁る /v/ で、動詞「証明する」なのはどちらですか。`,options:[`prove`,`proof`,`どちらも`,`どちらも違う`],correctAnswer:0,explanation:`prove /pruːv/（動詞）。proof /pruːf/（名詞）です。`},{id:`q-proof-5`,question:`空所に入る適切な語はどれですか。「Keep the receipt as ( ) of purchase.（購入の証拠としてレシートを取っておいて）」`,options:[`proof`,`prove`,`proves`,`proven`],correctAnswer:0,explanation:`名詞「証拠」は proof です。`}]},{id:`success-succeed`,title:`success と succeed`,chapter:3,description:`名詞と動詞。success /səkˈsɛs/「成功」（名詞）、succeed /səkˈsiːd/「成功する・後を継ぐ」（動詞）。`,content:`## 品詞で見分ける
+🎯 覚え方：**名詞は -f（proof）、動詞は -ve（prove）**。「証拠（モノ・事実）」は proof、「証明する（行為）」は prove。
+
+### 動詞 prove は自分自身も主語になれる
+
+prove には他動詞「〜を証明する」だけでなく、The plan proved successful.（その計画は結局うまくいった）のように「（あとになって）〜だと分かる」という自動詞的な使い方があります。主語自身が結果的にどうだったかを述べる文で、この用法では目的語を取りません。「証明する行為」と「結果的にそうだと判明する」は別の構文だと意識すると、prove を含む文の作りが読みやすくなります。
+
+### 法律用語としての proof
+
+裁判や議論の文脈では burden of proof（立証責任）という定型句があり、どちらの当事者が証拠を示す義務を負うかを表します。beyond a reasonable doubt（合理的な疑いを超えて）と並んで、proof が「確信させるだけの証拠」という重みを持つ語であることを示しています。
+
+### the proof is in the pudding の成り立ち
+
+「結果を見て初めて真価が分かる」という意味の言い回し the proof is in the pudding は、もとは the proof of the pudding is in the eating（プディングの良し悪しは食べてみないと分からない）という17世紀以来の諺の短縮形です。ここでの proof は「証拠」ではなく「試すこと・検証」という古い意味で使われており、prove の語源であるラテン語 probare（試す・検証する）に近い使い方が残っています。`,keyPoints:[`proof /pruːf/＝名詞「証拠・証明」（-f）`,`prove /pruːv/＝動詞「証明する」（-ve）`,`belief/believe と同じ -f 名詞／-ve 動詞`],quiz:[{id:`q-proof-1`,question:`空所に入る適切な語はどれですか。「The scientist tried to ( ) the theory.（科学者はその理論を証明しようとした）」`,options:[`prove`,`proof`,`proofs`,`proved'`],correctAnswer:0,explanation:`動詞「証明する」は prove です。`},{id:`q-proof-2`,question:`「証拠・証明」という意味の名詞はどれですか。`,options:[`proof`,`prove`,`proves`,`proving`],correctAnswer:0,explanation:`名詞「証拠」は proof /pruːf/ です。`},{id:`q-proof-3`,question:`空所に入る適切な語はどれですか。「There is no ( ) that he was there.（彼がそこにいた証拠はない）」`,options:[`proof`,`prove`,`proves`,`proved`],correctAnswer:0,explanation:`名詞「証拠」は proof です。`},{id:`q-proof-4`,question:`語尾が濁る /v/ で、動詞「証明する」なのはどちらですか。`,options:[`prove`,`proof`,`どちらも`,`どちらも違う`],correctAnswer:0,explanation:`prove /pruːv/（動詞）。proof /pruːf/（名詞）です。`},{id:`q-proof-5`,question:`空所に入る適切な語はどれですか。「Keep the receipt as ( ) of purchase.（購入の証拠としてレシートを取っておいて）」`,options:[`proof`,`prove`,`proves`,`proven`],correctAnswer:0,explanation:`名詞「証拠」は proof です。`}]},{id:`success-succeed`,title:`success と succeed`,chapter:3,description:`名詞と動詞。success /səkˈsɛs/「成功」（名詞）、succeed /səkˈsiːd/「成功する・後を継ぐ」（動詞）。`,content:`## 品詞で見分ける
 
 同語源ですが品詞が違い、語尾のつづり・音も異なります。
 
@@ -2683,7 +2695,19 @@ a momentary decision は「一瞬で下した決断」を指し、重大さに�
 | luxury | /ˈlʌkʃəri/ | 名詞：ぜいたく | Travel is a **luxury** for them.（旅行は彼らには贅沢だ） |
 | luxuri**ous** | /lʌɡˈʒʊəriəs/ | 形容詞：豪華な | They stayed in a **luxurious** hotel.（豪華なホテルに泊まった） |
 
-🎯 覚え方：**-ous の luxurious は「豪華な（形容詞）」**、luxury は「ぜいたく（名詞）」。名詞を修飾して「豪華な〜」なら luxurious。`,keyPoints:[`luxury /ˈlʌkʃəri/＝名詞「ぜいたく・高級品」`,`luxurious /lʌɡˈʒʊəriəs/＝形容詞「豪華な・ぜいたくな」`,`「豪華な〜」と名詞を修飾するなら luxurious`],quiz:[{id:`q-luxury-1`,question:`空所に入る適切な語はどれですか。「They enjoyed a ( ) meal at the resort.（リゾートで豪華な食事を楽しんだ）」`,options:[`luxurious`,`luxury`,`luxuries`,`luxuriously`],correctAnswer:0,explanation:`名詞 meal を修飾する形容詞「豪華な」は luxurious です。`},{id:`q-luxury-2`,question:`「ぜいたく・高級品」という意味の名詞はどれですか。`,options:[`luxury`,`luxurious`,`luxuriously`,`luxuriant`],correctAnswer:0,explanation:`名詞「ぜいたく」は luxury /ˈlʌkʃəri/ です。`},{id:`q-luxury-3`,question:`空所に入る適切な語はどれですか。「For me, free time is a real ( ).（私にとって自由時間は本当のぜいたくだ）」`,options:[`luxury`,`luxurious`,`luxuriously`,`luxuriant`],correctAnswer:0,explanation:`名詞「ぜいたく」は luxury です。`},{id:`q-luxury-4`,question:`名詞を修飾する形容詞「豪華な」を表すのはどちらですか。`,options:[`luxurious`,`luxury`,`どちらも`,`どちらも違う`],correctAnswer:0,explanation:`形容詞は luxurious。luxury は名詞です。`},{id:`q-luxury-5`,question:`空所に入る適切な語はどれですか。「The apartment has a ( ) marble bathroom.（その部屋は豪華な大理石の浴室がある）」`,options:[`luxurious`,`luxury`,`luxuries`,`luxuriate`],correctAnswer:0,explanation:`「豪華な（浴室）」は形容詞 luxurious です。`}]},{id:`healthy-healthful`,title:`healthy と healthful`,chapter:3,description:`healthy「健康な・健康的な」（人・状態）、healthful「健康に良い」（食べ物・環境など、健康を促すもの）。※現代英語では healthy が両方に使われる傾向。`,content:`## 「健康な」か「健康を促す」かで見分ける
+🎯 覚え方：**-ous の luxurious は「豪華な（形容詞）」**、luxury は「ぜいたく（名詞）」。名詞を修飾して「豪華な〜」なら luxurious。
+
+### luxury は数えられる名詞にもなる
+
+luxury は「ぜいたく」という不可算の概念だけでなく、a luxury（ぜいたく品・贅沢の一つ）として数えられる名詞にもなります。Owning a car is a luxury I can't afford.（車を持つのは自分には手の届かない贅沢だ）のように、具体的に「〜という贅沢」を指すときは a を付けます。複数形 luxuries は luxuries of modern life（現代生活の数々の贅沢）のように使います。
+
+### 名詞のまま形容詞的に使う luxury
+
+luxurious とは別に、luxury car（高級車）、luxury goods（高級品）、luxury brand（高級ブランド）のように、luxury 自体を名詞のまま名詞の前に置いて形容詞のように使う言い方が定着しています。この位置に luxurious を入れると a luxurious car のように「乗り心地が豪華な車」という描写的な意味になり、商品カテゴリを表す luxury car とはニュアンスが変わります。
+
+### the luxury of という成句
+
+the luxury of ~ing（〜するというぜいたく）という形もよく使われ、We had the luxury of taking our time.（じっくり時間をかけるという贅沢が許された）のように、金銭的な贅沢だけでなく「めったにない余裕」を指す比喩としても使われます。`,keyPoints:[`luxury /ˈlʌkʃəri/＝名詞「ぜいたく・高級品」`,`luxurious /lʌɡˈʒʊəriəs/＝形容詞「豪華な・ぜいたくな」`,`「豪華な〜」と名詞を修飾するなら luxurious`],quiz:[{id:`q-luxury-1`,question:`空所に入る適切な語はどれですか。「They enjoyed a ( ) meal at the resort.（リゾートで豪華な食事を楽しんだ）」`,options:[`luxurious`,`luxury`,`luxuries`,`luxuriously`],correctAnswer:0,explanation:`名詞 meal を修飾する形容詞「豪華な」は luxurious です。`},{id:`q-luxury-2`,question:`「ぜいたく・高級品」という意味の名詞はどれですか。`,options:[`luxury`,`luxurious`,`luxuriously`,`luxuriant`],correctAnswer:0,explanation:`名詞「ぜいたく」は luxury /ˈlʌkʃəri/ です。`},{id:`q-luxury-3`,question:`空所に入る適切な語はどれですか。「For me, free time is a real ( ).（私にとって自由時間は本当のぜいたくだ）」`,options:[`luxury`,`luxurious`,`luxuriously`,`luxuriant`],correctAnswer:0,explanation:`名詞「ぜいたく」は luxury です。`},{id:`q-luxury-4`,question:`名詞を修飾する形容詞「豪華な」を表すのはどちらですか。`,options:[`luxurious`,`luxury`,`どちらも`,`どちらも違う`],correctAnswer:0,explanation:`形容詞は luxurious。luxury は名詞です。`},{id:`q-luxury-5`,question:`空所に入る適切な語はどれですか。「The apartment has a ( ) marble bathroom.（その部屋は豪華な大理石の浴室がある）」`,options:[`luxurious`,`luxury`,`luxuries`,`luxuriate`],correctAnswer:0,explanation:`「豪華な（浴室）」は形容詞 luxurious です。`}]},{id:`healthy-healthful`,title:`healthy と healthful`,chapter:3,description:`healthy「健康な・健康的な」（人・状態）、healthful「健康に良い」（食べ物・環境など、健康を促すもの）。※現代英語では healthy が両方に使われる傾向。`,content:`## 「健康な」か「健康を促す」かで見分ける
 
 伝統的には使い分けがあります。
 
@@ -2765,7 +2789,19 @@ a momentary decision は「一瞬で下した決断」を指し、重大さに�
 | imply | 話し手 | ほのめかす | His silence **implied** disagreement.（彼の沈黙は反対を暗に示した） |
 | infer | 聞き手 | 推測する | From her tone, I **inferred** she was upset.（口調から動揺していると推測した） |
 
-🎯 覚え方：**imply は「中に込めて出す（in＋ply）＝ほのめかす」送り手**、infer は「中から引き出す（in＋fer）＝推測する」受け手。言う側は imply、読み取る側は infer。`,keyPoints:[`imply＝（話し手が）ほのめかす・暗に示す`,`infer＝（聞き手が）推測する・読み取る`,`送り手は imply、受け手は infer`],quiz:[{id:`q-imply-1`,question:`空所に入る適切な語はどれですか。「Readers can ( ) the theme from the story.（読者は物語からテーマを読み取れる）」`,options:[`imply`,`infer`,`implies`,`inferred'`],correctAnswer:1,explanation:`受け手が「推測する・読み取る」は infer です。`},{id:`q-imply-2`,question:`話し手が「ほのめかす・暗に示す」を表すのはどちらですか。`,options:[`imply`,`infer`,`どちらも`,`どちらも違う`],correctAnswer:0,explanation:`ほのめかす（送り手）は imply。推測する（受け手）は infer です。`},{id:`q-imply-3`,question:`空所に入る適切な語はどれですか。「Are you ( ) that I lied?（私が嘘をついたとほのめかしているの？）」`,options:[`inferring`,`inferred`,`infer`,`implying`],correctAnswer:3,explanation:`話し手が「ほのめかす」は imply（進行形 implying）です。`},{id:`q-imply-4`,question:`空所に入る適切な語はどれですか。「We ( ) from the data that sales rose.（データから売上が伸びたと推測した）」`,options:[`implied`,`imply`,`implies`,`inferred`],correctAnswer:3,explanation:`データから「推測する」は infer（過去 inferred）です。`},{id:`q-imply-5`,question:`聞き手・読み手が「結論を引き出す」のはどちらですか。`,options:[`imply`,`infer`,`どちらも`,`どちらも違う`],correctAnswer:1,explanation:`結論を引き出す（受け手）は infer です。`}]},{id:`refuse-reject`,title:`refuse と reject`,chapter:2,description:`refuse は「（申し出・依頼）を断る」（refuse to do も）、reject は「（案・応募・品）を拒絶・却下する」。`,content:`## 断り方の強さ・対象で見分ける
+🎯 覚え方：**imply は「中に込めて出す（in＋ply）＝ほのめかす」送り手**、infer は「中から引き出す（in＋fer）＝推測する」受け手。言う側は imply、読み取る側は infer。
+
+### 「投げる側」と「受け取る側」で覚える
+
+Theodore Bernstein という語法家は、the implier is the pitcher, the inferrer is the catcher（ほのめかす人が投手、推測する人が捕手）という比喩でこの区別を説明しています。ボールを投げる人が imply、それを受け取って読み解く人が infer で、同じやり取りの両端に立つ別の動作だと考えると混同しにくくなります。
+
+### 誤用が非常に多い組み合わせ
+
+Are you inferring that I'm lying?（私が嘘をついているとほのめかしているのか）という言い方は、文法的には Are you implying が正しい形です。話し手自身の行為を infer で表す誤用が英語話者の間でも多く、一部の辞書は「infer には imply の意味もある」と補足で認めるほど広まっています。とはいえ、書き言葉やフォーマルな場面では区別を守るのが安全です。
+
+### 名詞形も向きが対応する
+
+imply の名詞形は implication（含意・暗示）、infer の名詞形は inference（推論）です。The implications of the report are serious.（その報告書が示唆する事態は深刻だ）は書き手側の含みを、I drew the wrong inference.（私は誤った推論を導いた）は読み手側の結論を指しており、動詞と同じ向きの区別が名詞にも引き継がれます。`,keyPoints:[`imply＝（話し手が）ほのめかす・暗に示す`,`infer＝（聞き手が）推測する・読み取る`,`送り手は imply、受け手は infer`],quiz:[{id:`q-imply-1`,question:`空所に入る適切な語はどれですか。「Readers can ( ) the theme from the story.（読者は物語からテーマを読み取れる）」`,options:[`imply`,`infer`,`implies`,`inferred'`],correctAnswer:1,explanation:`受け手が「推測する・読み取る」は infer です。`},{id:`q-imply-2`,question:`話し手が「ほのめかす・暗に示す」を表すのはどちらですか。`,options:[`imply`,`infer`,`どちらも`,`どちらも違う`],correctAnswer:0,explanation:`ほのめかす（送り手）は imply。推測する（受け手）は infer です。`},{id:`q-imply-3`,question:`空所に入る適切な語はどれですか。「Are you ( ) that I lied?（私が嘘をついたとほのめかしているの？）」`,options:[`inferring`,`inferred`,`infer`,`implying`],correctAnswer:3,explanation:`話し手が「ほのめかす」は imply（進行形 implying）です。`},{id:`q-imply-4`,question:`空所に入る適切な語はどれですか。「We ( ) from the data that sales rose.（データから売上が伸びたと推測した）」`,options:[`implied`,`imply`,`implies`,`inferred`],correctAnswer:3,explanation:`データから「推測する」は infer（過去 inferred）です。`},{id:`q-imply-5`,question:`聞き手・読み手が「結論を引き出す」のはどちらですか。`,options:[`imply`,`infer`,`どちらも`,`どちらも違う`],correctAnswer:1,explanation:`結論を引き出す（受け手）は infer です。`}]},{id:`refuse-reject`,title:`refuse と reject`,chapter:2,description:`refuse は「（申し出・依頼）を断る」（refuse to do も）、reject は「（案・応募・品）を拒絶・却下する」。`,content:`## 断り方の強さ・対象で見分ける
 
 どちらも「断る・拒む」ですが、対象や語法に差があります。
 
@@ -2789,7 +2825,19 @@ a momentary decision は「一瞬で下した決断」を指し、重大さに�
 | notice | 五感 | 目・耳で気づく | I **noticed** a new sign on the door.（ドアの新しい張り紙に気づいた） |
 | realize | 頭 | 理解する・悟る | I **realized** my mistake too late.（自分の誤りに気づくのが遅すぎた） |
 
-🎯 覚え方：**目・耳で「気づく」は notice、頭で「はっと理解する・悟る」は realize**。表面的な気づきは notice、意味・重大さの理解は realize。`,keyPoints:[`notice＝五感で「気づく・目に留める」`,`realize＝頭で「はっきり理解する・悟る」（「実現する」も）`,`表面的な気づきは notice、意味の理解は realize`],quiz:[{id:`q-notice-1`,question:`空所に入る適切な語はどれですか。「Suddenly I ( ) how important she was to me.（突然、彼女が自分にどれほど大切か悟った）」`,options:[`noticed`,`realized`,`notice`,`notices`],correctAnswer:1,explanation:`重要さを頭で「悟る・理解する」は realize です。`},{id:`q-notice-2`,question:`空所に入る適切な語はどれですか。「Did you ( ) that he changed his hair?（彼が髪型を変えたのに気づいた？）」`,options:[`realize`,`realized`,`notice`,`realizes`],correctAnswer:2,explanation:`見て「気づく」は notice が自然です。`},{id:`q-notice-3`,question:`頭で「事実・重要さを理解する・悟る」を表すのはどちらですか。`,options:[`realize`,`notice`,`どちらも`,`どちらも違う`],correctAnswer:0,explanation:`理解・悟りは realize。表面的な気づきは notice です。`},{id:`q-notice-4`,question:`空所に入る適切な語はどれですか。「He didn't ( ) the small print at first.（最初、小さな文字に気づかなかった）」`,options:[`realize`,`realized`,`notice`,`realizes`],correctAnswer:2,explanation:`目で「気づく」は notice です。`},{id:`q-notice-5`,question:`五感で「目に留める・気づく」を表すのはどちらですか。`,options:[`notice`,`realize`,`どちらも`,`どちらも違う`],correctAnswer:0,explanation:`五感の気づきは notice。頭の理解は realize です。`}]},{id:`comprehensible-comprehensive`,title:`comprehensible と comprehensive`,chapter:3,description:`同じ comprehend 由来でも別語。comprehensible「理解できる・わかりやすい」、comprehensive「包括的な・網羅的な」。`,content:`## 意味の違いで見分ける
+🎯 覚え方：**目・耳で「気づく」は notice、頭で「はっと理解する・悟る」は realize**。表面的な気づきは notice、意味・重大さの理解は realize。
+
+### notice は名詞にもなる
+
+notice は動詞だけでなく「通知・掲示・予告」を表す名詞としてもよく使われます。give two weeks' notice（2週間前に予告する）は退職や契約解除の場面の定型句で、at short notice（急な知らせで・急に）は準備の時間がほとんどないまま何かが起こることを表します。掲示板に貼られる「お知らせ」も a notice on the board のように名詞の notice です。
+
+### realize にはもう一つの意味がある
+
+realize には「実現する」という意味もあり、He finally realized his dream of opening a restaurant.（彼はついにレストランを開くという夢を実現した）のように、理解する対象が「事実」ではなく「望み・計画」のときにこの意味になります。頭の中で「分かる」realize と、現実の形にする「実現する」realize は同じ語がになっている二つの顔です。
+
+### 綴りの英米差
+
+realize はアメリカ英語の綴りで、イギリス英語では realise とも書かれます（-ize/-ise はどちらの綴りもイギリスで許容されていますが、-ise がより一般的です）。notice にはこの種の綴り差はありません。`,keyPoints:[`notice＝五感で「気づく・目に留める」`,`realize＝頭で「はっきり理解する・悟る」（「実現する」も）`,`表面的な気づきは notice、意味の理解は realize`],quiz:[{id:`q-notice-1`,question:`空所に入る適切な語はどれですか。「Suddenly I ( ) how important she was to me.（突然、彼女が自分にどれほど大切か悟った）」`,options:[`noticed`,`realized`,`notice`,`notices`],correctAnswer:1,explanation:`重要さを頭で「悟る・理解する」は realize です。`},{id:`q-notice-2`,question:`空所に入る適切な語はどれですか。「Did you ( ) that he changed his hair?（彼が髪型を変えたのに気づいた？）」`,options:[`realize`,`realized`,`notice`,`realizes`],correctAnswer:2,explanation:`見て「気づく」は notice が自然です。`},{id:`q-notice-3`,question:`頭で「事実・重要さを理解する・悟る」を表すのはどちらですか。`,options:[`realize`,`notice`,`どちらも`,`どちらも違う`],correctAnswer:0,explanation:`理解・悟りは realize。表面的な気づきは notice です。`},{id:`q-notice-4`,question:`空所に入る適切な語はどれですか。「He didn't ( ) the small print at first.（最初、小さな文字に気づかなかった）」`,options:[`realize`,`realized`,`notice`,`realizes`],correctAnswer:2,explanation:`目で「気づく」は notice です。`},{id:`q-notice-5`,question:`五感で「目に留める・気づく」を表すのはどちらですか。`,options:[`notice`,`realize`,`どちらも`,`どちらも違う`],correctAnswer:0,explanation:`五感の気づきは notice。頭の理解は realize です。`}]},{id:`comprehensible-comprehensive`,title:`comprehensible と comprehensive`,chapter:3,description:`同じ comprehend 由来でも別語。comprehensible「理解できる・わかりやすい」、comprehensive「包括的な・網羅的な」。`,content:`## 意味の違いで見分ける
 
 どちらも comprehend（理解する）から派生しますが、意味は別です。
 
@@ -2837,7 +2885,19 @@ a momentary decision は「一瞬で下した決断」を指し、重大さに�
 | pass**ed** | 動詞（過去） | 通り過ぎた・合格した | She **passed** the exam.（彼女は試験に合格した） |
 | past | 名詞・前置詞 | 過去・〜を過ぎて | We walked **past** the shop.（店の前を通り過ぎた） |
 
-🎯 覚え方：**動詞（pass の過去）は passed、名詞・前置詞（過去・〜を過ぎて）は past**。動作「通り過ぎた・合格した」なら passed、「〜を過ぎて／過去」なら past。`,keyPoints:[`passed と past はほぼ同音 /pæst/`,`passed＝pass の過去「通り過ぎた・合格した」（動詞）`,`past＝過去・〜を過ぎて（名詞・前置詞・形容詞）`],quiz:[{id:`q-passed-1`,question:`空所に入る適切な語はどれですか。「The bus drove ( ) the station without stopping.（バスは止まらず駅を通り過ぎた）」`,options:[`passed`,`past`,`passes`,`passing`],correctAnswer:1,explanation:`前置詞「〜を過ぎて」は past です。`},{id:`q-passed-2`,question:`pass の過去形「通り過ぎた・合格した」を表す語はどれですか。`,options:[`past`,`passed`,`pasts`,`passing`],correctAnswer:1,explanation:`pass の過去は passed です。`},{id:`q-passed-3`,question:`空所に入る適切な語はどれですか。「In the ( ), people wrote letters by hand.（昔は人々は手紙を手で書いた）」`,options:[`passed`,`past`,`passes`,`passing`],correctAnswer:1,explanation:`名詞「過去・昔」は past です。`},{id:`q-passed-4`,question:`空所に入る適切な語はどれですか。「He ( ) the salt to me.（彼は私に塩を手渡した）」`,options:[`past`,`passed`,`pasts`,`passing`],correctAnswer:1,explanation:`「手渡した」は pass の過去 passed です。`},{id:`q-passed-5`,question:`名詞「過去」・前置詞「〜を過ぎて」を表すのはどちらですか。`,options:[`passed`,`past`,`どちらも`,`どちらも違う`],correctAnswer:1,explanation:`past が名詞・前置詞。passed は動詞（pass の過去）です。`}]},{id:`fair-fare`,title:`fair と fare`,chapter:4,description:`同音 /fɛər/。fair「公平な・見本市・晴れの」、fare「（乗り物の）運賃」。意味とスペルで判断。`,content:`## 音は同じ、意味とスペルで見分ける
+🎯 覚え方：**動詞（pass の過去）は passed、名詞・前置詞（過去・〜を過ぎて）は past**。動作「通り過ぎた・合格した」なら passed、「〜を過ぎて／過去」なら past。
+
+### 助動詞なしで動詞が要る文かどうかを見る
+
+文が動詞を必要としているなら passed、動詞がすでにあって名詞・前置詞・形容詞が必要なら past です。It's ten past three.（3時10分過ぎだ）や the past week（この1週間）のように past が形容詞・前置詞として機能している文には、動詞 pass の出番がありません。逆に The years quickly ( ).（年月はあっという間に過ぎた）のように文の述語が要る形なら passed です。
+
+### past participle という文法用語にも残る past
+
+過去分詞は英語で past participle と呼ばれ、study の studied、go の gone のような形を指します。ここでの past は「過去の」という形容詞用法で、動詞 pass とは直接関係がありません。文法用語を覚えるときに past と passed を混同しないための手がかりになります。
+
+### in the past という決まった言い方
+
+in the past（昔は・かつては）は past が名詞として使われる代表的な成句で、In the past, this area was farmland.（かつてこの一帯は農地だった）のように現在との対比を表します。同じ意味を動詞で言うなら used to（かつて〜した）が使えますが、passed に置き換えることはできません。`,keyPoints:[`passed と past はほぼ同音 /pæst/`,`passed＝pass の過去「通り過ぎた・合格した」（動詞）`,`past＝過去・〜を過ぎて（名詞・前置詞・形容詞）`],quiz:[{id:`q-passed-1`,question:`空所に入る適切な語はどれですか。「The bus drove ( ) the station without stopping.（バスは止まらず駅を通り過ぎた）」`,options:[`passed`,`past`,`passes`,`passing`],correctAnswer:1,explanation:`前置詞「〜を過ぎて」は past です。`},{id:`q-passed-2`,question:`pass の過去形「通り過ぎた・合格した」を表す語はどれですか。`,options:[`past`,`passed`,`pasts`,`passing`],correctAnswer:1,explanation:`pass の過去は passed です。`},{id:`q-passed-3`,question:`空所に入る適切な語はどれですか。「In the ( ), people wrote letters by hand.（昔は人々は手紙を手で書いた）」`,options:[`passed`,`past`,`passes`,`passing`],correctAnswer:1,explanation:`名詞「過去・昔」は past です。`},{id:`q-passed-4`,question:`空所に入る適切な語はどれですか。「He ( ) the salt to me.（彼は私に塩を手渡した）」`,options:[`past`,`passed`,`pasts`,`passing`],correctAnswer:1,explanation:`「手渡した」は pass の過去 passed です。`},{id:`q-passed-5`,question:`名詞「過去」・前置詞「〜を過ぎて」を表すのはどちらですか。`,options:[`passed`,`past`,`どちらも`,`どちらも違う`],correctAnswer:1,explanation:`past が名詞・前置詞。passed は動詞（pass の過去）です。`}]},{id:`fair-fare`,title:`fair と fare`,chapter:4,description:`同音 /fɛər/。fair「公平な・見本市・晴れの」、fare「（乗り物の）運賃」。意味とスペルで判断。`,content:`## 音は同じ、意味とスペルで見分ける
 
 **fair と fare は同じ発音 /fɛər/（同音異義語）**。意味とスペルで決めます。
 
@@ -3296,7 +3356,19 @@ amount は動詞では amount to の形をとり、The bill amounted to 12,000 y
 | offici**al** | 公式の・職員 | We await the **official** results.（公式の結果を待っている） |
 | offici**ous** | お節介な | An **officious** clerk kept interrupting.（でしゃばりな係員が口を挟み続けた） |
 
-🎯 覚え方：**-al の official は「公式・役人（まっとう）」**、-ous の officious は「お節介・でしゃばり（否定的）」。公認・正式なら official、頼まれもせず口を出すなら officious。`,keyPoints:[`official＝公式の・正式の／職員・役人`,`officious＝お節介な・でしゃばりな（否定的）`,`正式なら official、差し出がましいなら officious`],quiz:[{id:`q-official-1`,question:`空所に入る適切な語はどれですか。「The ( ) manager annoyed everyone with unwanted advice.（でしゃばりな上司が余計な助言でみなを苛立たせた）」`,options:[`officious`,`official`,`office`,`officially`],correctAnswer:0,explanation:`否定的な「お節介・でしゃばり」は officious です。`},{id:`q-official-2`,question:`「公式の・正式の」という意味の語はどれですか。`,options:[`officious`,`office`,`officiously`,`official`],correctAnswer:3,explanation:`「公式の・正式の」は official です。`},{id:`q-official-3`,question:`空所に入る適切な語はどれですか。「This is the ( ) website of the company.（これは会社の公式サイトだ）」`,options:[`officious`,`office`,`officiously`,`official`],correctAnswer:3,explanation:`「公式の（サイト）」は official です。`},{id:`q-official-4`,question:`「お節介な・差し出がましい（否定的）」を表すのはどちらですか。`,options:[`officious`,`official`,`どちらも`,`どちらも違う`],correctAnswer:0,explanation:`officious が「お節介な」。official は「公式の」です。`},{id:`q-official-5`,question:`空所に入る適切な語はどれですか。「An ( ) from the ministry gave a statement.（省庁の職員が声明を出した）」`,options:[`officious`,`office`,`officiously`,`official`],correctAnswer:3,explanation:`名詞「職員・役人」は official です。`}]},{id:`toe-tow`,title:`toe と tow`,chapter:4,description:`同音 /toʊ/。toe「つま先・足の指」（名詞）、tow「牽引する・引く」（動詞）。意味とスペルで判断。`,content:`## 音は同じ、意味とスペルで見分ける
+🎯 覚え方：**-al の official は「公式・役人（まっとう）」**、-ous の officious は「お節介・でしゃばり（否定的）」。公認・正式なら official、頼まれもせず口を出すなら officious。
+
+### officious は official の「豪華な言い換え」ではない
+
+見た目が似ているため、officious を official の格式ばった言い換えのように誤用してしまう例があります。しかし officious は「公式の」という意味を一切持たず、常に「頼まれてもいないのに口や手を出す」という否定的な評価の語です。日本語の「公式的な」という語感につられて officious を選ぶと、正反対に近い印象を与えてしまいます。
+
+### 法律用語に残る officious
+
+英米法には officious intermeddler（お節介な第三者）という表現があり、頼まれてもいないのに他人の事務に勝手に関与した人物を指します。この人物は原則として、あとから報酬や費用の弁済を求めることができないとされ、「頼まれない善意は法的に守られない」という考え方を officious という一語が体現しています。
+
+### 動詞 officiate は official の側から派生する
+
+儀式や試合を「公式に取り仕切る」という動詞 officiate（司会を務める、審判を務める）は official と同じ語根から生まれています。The referee officiated the match.（審判がその試合を裁いた）のように、公的な役割を果たすという official 側の意味を受け継いでおり、officious とは別の系統です。`,keyPoints:[`official＝公式の・正式の／職員・役人`,`officious＝お節介な・でしゃばりな（否定的）`,`正式なら official、差し出がましいなら officious`],quiz:[{id:`q-official-1`,question:`空所に入る適切な語はどれですか。「The ( ) manager annoyed everyone with unwanted advice.（でしゃばりな上司が余計な助言でみなを苛立たせた）」`,options:[`officious`,`official`,`office`,`officially`],correctAnswer:0,explanation:`否定的な「お節介・でしゃばり」は officious です。`},{id:`q-official-2`,question:`「公式の・正式の」という意味の語はどれですか。`,options:[`officious`,`office`,`officiously`,`official`],correctAnswer:3,explanation:`「公式の・正式の」は official です。`},{id:`q-official-3`,question:`空所に入る適切な語はどれですか。「This is the ( ) website of the company.（これは会社の公式サイトだ）」`,options:[`officious`,`office`,`officiously`,`official`],correctAnswer:3,explanation:`「公式の（サイト）」は official です。`},{id:`q-official-4`,question:`「お節介な・差し出がましい（否定的）」を表すのはどちらですか。`,options:[`officious`,`official`,`どちらも`,`どちらも違う`],correctAnswer:0,explanation:`officious が「お節介な」。official は「公式の」です。`},{id:`q-official-5`,question:`空所に入る適切な語はどれですか。「An ( ) from the ministry gave a statement.（省庁の職員が声明を出した）」`,options:[`officious`,`office`,`officiously`,`official`],correctAnswer:3,explanation:`名詞「職員・役人」は official です。`}]},{id:`toe-tow`,title:`toe と tow`,chapter:4,description:`同音 /toʊ/。toe「つま先・足の指」（名詞）、tow「牽引する・引く」（動詞）。意味とスペルで判断。`,content:`## 音は同じ、意味とスペルで見分ける
 
 **toe と tow は同じ発音 /toʊ/（同音異義語）**。意味とスペルで決めます。
 
@@ -3555,7 +3627,19 @@ be famous for も be infamous for も同じ形をとるため、判断の手が�
 | tall | 縦に長いもの | 背が高い | He is very **tall** for his age.（年のわりに背が高い） |
 | high | 位置・程度 | 高い | The shelf is too **high** to reach.（棚が高すぎて届かない） |
 
-🎯 覚え方：**人・木・ビルの「背の高さ」は tall、山・壁・値段・位置の「高さ」は high**。建物は a tall building、山は a high mountain。※ビルの「高さ」を数値で言うときは high も使う（100m high）。`,keyPoints:[`tall＝縦に細長いものの背が高い（人・木・ビル）`,`high＝位置・程度が高い／地面から高い所（山・棚・値段）`,`a tall building／a high mountain`],quiz:[{id:`q-tall-1`,question:`空所に入る適切な語はどれですか。「Mt. Fuji is a very ( ) mountain.（富士山はとても高い山だ）」`,options:[`tall`,`taller`,`high`,`highly`],correctAnswer:2,explanation:`山の高さは high（a high mountain）です。`},{id:`q-tall-2`,question:`空所に入る適切な語はどれですか。「Giraffes have very ( ) necks.（キリンはとても長い首を持つ）」`,options:[`high`,`tall`,`highly`,`height`],correctAnswer:1,explanation:`縦に長い「背の高い（首）」は tall が自然です。`},{id:`q-tall-3`,question:`人や木の「背の高さ」に使うのはどちらですか。`,options:[`high`,`tall`,`どちらも`,`どちらも違う`],correctAnswer:1,explanation:`人・木・ビルの背の高さは tall。位置・程度は high です。`},{id:`q-tall-4`,question:`空所に入る適切な語はどれですか。「Prices are very ( ) in this city.（この街は物価がとても高い）」`,options:[`tall`,`taller`,`high`,`tallly`],correctAnswer:2,explanation:`程度（値段）の「高い」は high です。`},{id:`q-tall-5`,question:`空所に入る適切な語はどれですか。「She is the ( ) girl in her class.（彼女はクラスで一番背が高い）」`,options:[`highest`,`higher`,`highly`,`tallest`],correctAnswer:3,explanation:`人の背の高さの最上級は tallest です。`}]},{id:`memorable-memorial`,title:`memorable と memorial`,chapter:3,description:`memorable「記憶に残る・忘れられない」（形容詞）、memorial「記念の・追悼の（形容詞）／記念碑（名詞）」。`,content:`## 「記憶に残る」か「記念・追悼」かで見分ける
+🎯 覚え方：**人・木・ビルの「背の高さ」は tall、山・壁・値段・位置の「高さ」は high**。建物は a tall building、山は a high mountain。※ビルの「高さ」を数値で言うときは high も使う（100m high）。
+
+### 数値を伴うときは high が定型
+
+具体的な高さの数値を述べるときは、対象が人であってもビルであっても high を使うのが定型です。The tower is 100 meters high.（その塔は高さ100メートルだ）のように、be動詞のあとに数値＋high を置く形が標準で、この位置に tall を使うことはできません。tall は輪郭としての「背の高さ」を表す語で、数値表現とは相性が異なります。
+
+### tall order と tall tale という成句
+
+tall には「背が高い」から離れて「並外れた・大げさな」という口語的な意味があり、a tall order（無理な注文・難しい要求）、a tall tale（ほら話）という成句に残っています。19世紀のアメリカ英語で tall が「誇張された」という意味のスラングとして使われたことに由来し、どちらも文字どおりの高さとは関係ありません。
+
+### high にしかない抽象的な用法
+
+high は程度・地位・音の高さなど、tall には広がらない抽象的な意味を数多く持ちます。high prices（高い値段）、high standards（高い水準）、a high note（高い音）、high season（繁忙期・最盛期）のように、縦の長さを持たない対象にも使えるのが high の守備範囲の広さです。`,keyPoints:[`tall＝縦に細長いものの背が高い（人・木・ビル）`,`high＝位置・程度が高い／地面から高い所（山・棚・値段）`,`a tall building／a high mountain`],quiz:[{id:`q-tall-1`,question:`空所に入る適切な語はどれですか。「Mt. Fuji is a very ( ) mountain.（富士山はとても高い山だ）」`,options:[`tall`,`taller`,`high`,`highly`],correctAnswer:2,explanation:`山の高さは high（a high mountain）です。`},{id:`q-tall-2`,question:`空所に入る適切な語はどれですか。「Giraffes have very ( ) necks.（キリンはとても長い首を持つ）」`,options:[`high`,`tall`,`highly`,`height`],correctAnswer:1,explanation:`縦に長い「背の高い（首）」は tall が自然です。`},{id:`q-tall-3`,question:`人や木の「背の高さ」に使うのはどちらですか。`,options:[`high`,`tall`,`どちらも`,`どちらも違う`],correctAnswer:1,explanation:`人・木・ビルの背の高さは tall。位置・程度は high です。`},{id:`q-tall-4`,question:`空所に入る適切な語はどれですか。「Prices are very ( ) in this city.（この街は物価がとても高い）」`,options:[`tall`,`taller`,`high`,`tallly`],correctAnswer:2,explanation:`程度（値段）の「高い」は high です。`},{id:`q-tall-5`,question:`空所に入る適切な語はどれですか。「She is the ( ) girl in her class.（彼女はクラスで一番背が高い）」`,options:[`highest`,`higher`,`highly`,`tallest`],correctAnswer:3,explanation:`人の背の高さの最上級は tallest です。`}]},{id:`memorable-memorial`,title:`memorable と memorial`,chapter:3,description:`memorable「記憶に残る・忘れられない」（形容詞）、memorial「記念の・追悼の（形容詞）／記念碑（名詞）」。`,content:`## 「記憶に残る」か「記念・追悼」かで見分ける
 
 同じ memory 由来ですが、意味が違います。
 
@@ -3737,7 +3821,19 @@ meddle は語尾が -dle で、peddle（行商する）・paddle（漕ぐ・パ�
 | soci**able** | 社交的な（性格） | He is friendly and **sociable**.（彼は親しみやすく社交的だ） |
 | soci**al** | 社会の・社交の | We discussed **social** issues.（社会問題について話し合った） |
 
-🎯 覚え方：**-able の sociable は「（人が）社交的（人付き合いできる）」**、social は「社会・社交（全般）」。人の性格をほめるなら sociable、社会・親睦の話題なら social。`,keyPoints:[`sociable＝社交的な・人付き合いのよい（人の性格）`,`social＝社会の／社交の・親睦の（社会・集まり全般）`,`性格なら sociable、社会・集まりなら social`],quiz:[{id:`q-sociable-1`,question:`空所に入る適切な語はどれですか。「The government tackled ( ) inequality.（政府は社会的不平等に取り組んだ）」`,options:[`sociable`,`social`,`society`,`sociably`],correctAnswer:1,explanation:`「社会の（不平等）」は social です。`},{id:`q-sociable-2`,question:`「社交的な・人付き合いのよい」という意味の語はどれですか。`,options:[`social`,`society`,`socially`,`sociable`],correctAnswer:3,explanation:`人の性格「社交的な」は sociable です。`},{id:`q-sociable-3`,question:`空所に入る適切な語はどれですか。「She is not very ( ) and prefers to be alone.（彼女はあまり社交的でなく一人を好む）」`,options:[`social`,`society`,`socially`,`sociable`],correctAnswer:3,explanation:`性格「社交的な」は sociable です。`},{id:`q-sociable-4`,question:`「社会の／社交の（全般）」を表すのはどちらですか。`,options:[`sociable`,`social`,`どちらも`,`どちらも違う`],correctAnswer:1,explanation:`social が「社会・社交（全般）」。sociable は人の性格です。`},{id:`q-sociable-5`,question:`空所に入る適切な語はどれですか。「The club holds a ( ) gathering every month.（クラブは毎月親睦会を開く）」`,options:[`sociable`,`social`,`society`,`sociably`],correctAnswer:1,explanation:`「親睦の（集まり）」は social（social gathering）です。`}]},{id:`canvas-canvass`,title:`canvas と canvass`,chapter:1,description:`s の数が違う。canvas「帆布・画布（キャンバス）」（名詞）、canvass「票や意見を求めて回る・世論調査する」（動詞）。`,content:`## s の数と品詞で見分ける
+🎯 覚え方：**-able の sociable は「（人が）社交的（人付き合いできる）」**、social は「社会・社交（全般）」。人の性格をほめるなら sociable、社会・親睦の話題なら social。
+
+### 否定形が3つに分かれる紛らわしさ
+
+sociable の反対語は unsociable（人付き合いを好まない・非社交的）ですが、似た形の asocial（社会的な関わりに関心がない）、antisocial（反社会的な・他人に害を及ぼす）とは意味の強さが違います。unsociable と asocial は「一人が好き」という消極的な性質を表すのに対し、antisocial は他人への迷惑や敵意を含む否定的な語で、antisocial behaviour（反社会的行動）のように使われます。単に「人付き合いが苦手」と言いたいときに antisocial を選ぶと、意図しない強い非難になります。
+
+### social はほぼすべての社会的な話題に付く
+
+social には sociable のような「性格」の意味がなく、social media（ソーシャルメディア）、social class（社会階級）、social skills（対人スキル）、a social gathering（親睦の集まり）のように、社会や人との関わり全般を指す語として幅広く名詞を修飾します。sociable は人の性格以外にはほとんど使われません。
+
+### 名詞形は society で共通する
+
+sociable も social も、名詞形をたどると society（社会）に行き着きます。socialize（社交する・社会化する）という動詞もこの語根から派生しており、He doesn't socialize much.（彼はあまり人付き合いをしない）のように、sociable の意味に近い場面で使われます。`,keyPoints:[`sociable＝社交的な・人付き合いのよい（人の性格）`,`social＝社会の／社交の・親睦の（社会・集まり全般）`,`性格なら sociable、社会・集まりなら social`],quiz:[{id:`q-sociable-1`,question:`空所に入る適切な語はどれですか。「The government tackled ( ) inequality.（政府は社会的不平等に取り組んだ）」`,options:[`sociable`,`social`,`society`,`sociably`],correctAnswer:1,explanation:`「社会の（不平等）」は social です。`},{id:`q-sociable-2`,question:`「社交的な・人付き合いのよい」という意味の語はどれですか。`,options:[`social`,`society`,`socially`,`sociable`],correctAnswer:3,explanation:`人の性格「社交的な」は sociable です。`},{id:`q-sociable-3`,question:`空所に入る適切な語はどれですか。「She is not very ( ) and prefers to be alone.（彼女はあまり社交的でなく一人を好む）」`,options:[`social`,`society`,`socially`,`sociable`],correctAnswer:3,explanation:`性格「社交的な」は sociable です。`},{id:`q-sociable-4`,question:`「社会の／社交の（全般）」を表すのはどちらですか。`,options:[`sociable`,`social`,`どちらも`,`どちらも違う`],correctAnswer:1,explanation:`social が「社会・社交（全般）」。sociable は人の性格です。`},{id:`q-sociable-5`,question:`空所に入る適切な語はどれですか。「The club holds a ( ) gathering every month.（クラブは毎月親睦会を開く）」`,options:[`sociable`,`social`,`society`,`sociably`],correctAnswer:1,explanation:`「親睦の（集まり）」は social（social gathering）です。`}]},{id:`canvas-canvass`,title:`canvas と canvass`,chapter:1,description:`s の数が違う。canvas「帆布・画布（キャンバス）」（名詞）、canvass「票や意見を求めて回る・世論調査する」（動詞）。`,content:`## s の数と品詞で見分ける
 
 **s がひとつ（canvas）かふたつ（canvass）**かで、意味も品詞も変わります。
 
