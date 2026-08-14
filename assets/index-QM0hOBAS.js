@@ -1939,7 +1939,19 @@ third・fourth・fifth と序数を並べたとき、そこに forth が並ぶ�
 | breath | /brɛθ/ | 名詞：息 | Take a deep **breath**.（深呼吸して） |
 | breathe | /briːð/ | 動詞：呼吸する | It's hard to **breathe** up here.（ここでは息がしにくい） |
 
-🎯 覚え方：**e が付くと動詞 breathe（イーと伸びて濁る）、e がないと名詞 breath（エと短く）**。「深呼吸（a deep breath）」は名詞、「息をする」は動詞 breathe。`,keyPoints:[`breath /brɛθ/＝名詞「息」（e なし・/θ/）`,`breathe /briːð/＝動詞「呼吸する」（e あり・/ð/）`,`e が付くと動詞、母音も伸びて濁る`],quiz:[{id:`q-breath-1`,question:`空所に入る適切な語はどれですか。「Try to ( ) slowly and relax.（ゆっくり呼吸してリラックスして）」`,options:[`breath`,`breaths`,`breathe`,`breathing`],correctAnswer:2,explanation:`動詞「呼吸する」は breathe です。`},{id:`q-breath-2`,question:`「息（1回分）」という意味の名詞はどれですか。`,options:[`breathe`,`breath`,`breathed`,`breathes`],correctAnswer:1,explanation:`名詞「息」は breath /brɛθ/ です。`},{id:`q-breath-3`,question:`空所に入る適切な語はどれですか。「He held his ( ) underwater.（彼は水中で息を止めた）」`,options:[`breathe`,`breath`,`breathed`,`breathing`],correctAnswer:1,explanation:`「息（を止める）」は名詞 breath です。`},{id:`q-breath-4`,question:`e が付いて動詞「呼吸する」になるのはどちらですか。`,options:[`breathe`,`breath`,`どちらも`,`どちらも違う`],correctAnswer:0,explanation:`breathe（e あり・動詞）。breath（e なし・名詞）です。`},{id:`q-breath-5`,question:`空所に入る適切な語はどれですか。「The fresh air was hard to ( ) at first.（新鮮な空気は最初、吸い込むのが大変だった）」`,options:[`breath`,`breaths`,`breathe`,`breathy`],correctAnswer:2,explanation:`動詞「息をする・吸い込む」は breathe です。`}]},{id:`job-work`,title:`job と work`,chapter:2,description:`数え方が違う。job は可算「（具体的な）仕事・職」、work は不可算「労働・仕事（一般）」。`,content:`## 数えられるかどうかで見分ける
+🎯 覚え方：**e が付くと動詞 breathe（イーと伸びて濁る）、e がないと名詞 breath（エと短く）**。「深呼吸（a deep breath）」は名詞、「息をする」は動詞 breathe。
+
+### breath を使った成句は名詞のまま定着している
+
+out of breath（息切れして）、hold your breath（息を止める・固唾をのむ）、a breath of fresh air（新鮮な空気・目先を変える存在）はどれも breath の名詞のまま固まった言い方で、breathe に置き換えることはできません。Take a breath.（一息つく）も、動作としては「呼吸する」に近い意味ですが、目的語として breath という名詞を取る形です。
+
+### 動詞 breathe が比喩的に使われる場面
+
+breathe には文字どおりの呼吸だけでなく、breathe life into ~（〜に活気を与える）、breathe a word（一言でも漏らす、通常は否定文で not breathe a word）のように、比喩的な「吹き込む・漏らす」という意味の使われ方があります。空気を体に取り込む動作から、何かを外に発する・満たすという方向へ意味が広がっている点は、breath の側にはない広がりです。
+
+### 同じ th の綴りで音が変わる仲間
+
+breath と breathe のように、語尾に e が付くと th の発音が無声音 /θ/ から有声音 /ð/ に変わる語は他にもあります。cloth（布・/θ/）と clothe（服を着せる・/ð/）、bath（風呂・/θ/）と bathe（入浴する・/ð/）が同じパターンで、名詞と動詞の区別に発音の濁りが連動している英語の綴りの規則性の一例です。`,keyPoints:[`breath /brɛθ/＝名詞「息」（e なし・/θ/）`,`breathe /briːð/＝動詞「呼吸する」（e あり・/ð/）`,`e が付くと動詞、母音も伸びて濁る`],quiz:[{id:`q-breath-1`,question:`空所に入る適切な語はどれですか。「Try to ( ) slowly and relax.（ゆっくり呼吸してリラックスして）」`,options:[`breath`,`breaths`,`breathe`,`breathing`],correctAnswer:2,explanation:`動詞「呼吸する」は breathe です。`},{id:`q-breath-2`,question:`「息（1回分）」という意味の名詞はどれですか。`,options:[`breathe`,`breath`,`breathed`,`breathes`],correctAnswer:1,explanation:`名詞「息」は breath /brɛθ/ です。`},{id:`q-breath-3`,question:`空所に入る適切な語はどれですか。「He held his ( ) underwater.（彼は水中で息を止めた）」`,options:[`breathe`,`breath`,`breathed`,`breathing`],correctAnswer:1,explanation:`「息（を止める）」は名詞 breath です。`},{id:`q-breath-4`,question:`e が付いて動詞「呼吸する」になるのはどちらですか。`,options:[`breathe`,`breath`,`どちらも`,`どちらも違う`],correctAnswer:0,explanation:`breathe（e あり・動詞）。breath（e なし・名詞）です。`},{id:`q-breath-5`,question:`空所に入る適切な語はどれですか。「The fresh air was hard to ( ) at first.（新鮮な空気は最初、吸い込むのが大変だった）」`,options:[`breath`,`breaths`,`breathe`,`breathy`],correctAnswer:2,explanation:`動詞「息をする・吸い込む」は breathe です。`}]},{id:`job-work`,title:`job と work`,chapter:2,description:`数え方が違う。job は可算「（具体的な）仕事・職」、work は不可算「労働・仕事（一般）」。`,content:`## 数えられるかどうかで見分ける
 
 どちらも「仕事」ですが、**具体的な一つの職・作業か、労働という概念か**で使い分けます。
 
@@ -2873,7 +2885,19 @@ realize はアメリカ英語の綴りで、イギリス英語では realise と
 | thr**ew** | /θruː/ | throw の過去：投げた | She **threw** the ball to me.（彼女は私にボールを投げた） |
 | thr**ough** | /θruː/ | 前置詞：〜を通って | We drove **through** the tunnel.（トンネルを車で通った） |
 
-🎯 覚え方：**動詞（投げた）は threw、前置詞（通って）は through**。過去の「投げた」なら threw、「〜を通って・通じて」なら through。`,keyPoints:[`threw と through は同音 /θruː/`,`threw＝throw の過去「投げた」（throw-threw-thrown）`,`through＝前置詞「〜を通って・通じて」`],quiz:[{id:`q-threw-1`,question:`空所に入る適切な語はどれですか。「The train went ( ) several tunnels.（列車はいくつものトンネルを通った）」`,options:[`threw`,`threws`,`through`,`thrown`],correctAnswer:2,explanation:`「〜を通って」は前置詞 through です。`},{id:`q-threw-2`,question:`throw の過去形「投げた」を表す語はどれですか。`,options:[`through`,`throughs`,`thrown`,`threw`],correctAnswer:3,explanation:`throw の過去は threw です。`},{id:`q-threw-3`,question:`threw と through の発音の関係はどれですか。`,options:[`母音が違う`,`子音が違う`,`同じ発音（同音異義語）`,`アクセントが違う`],correctAnswer:2,explanation:`どちらも /θruː/ で同音異義語です。`},{id:`q-threw-4`,question:`空所に入る適切な語はどれですか。「He ( ) the trash into the bin.（彼はゴミを箱に投げ入れた）」`,options:[`through`,`throughs`,`thrown`,`threw`],correctAnswer:3,explanation:`「投げた」は throw の過去 threw です。`},{id:`q-threw-5`,question:`前置詞「〜を通じて・終えて」を意味するのはどちらですか。`,options:[`through`,`threw`,`どちらも`,`どちらも違う`],correctAnswer:0,explanation:`前置詞は through。threw は「投げた」です。`}]},{id:`passed-past`,title:`passed と past`,chapter:4,description:`同音 /pæst/。passed「pass の過去（通り過ぎた・合格した）」、past「過去・〜を過ぎて」（名詞・前置詞）。`,content:`## 品詞で見分ける（ほぼ同音）
+🎯 覚え方：**動詞（投げた）は threw、前置詞（通って）は through**。過去の「投げた」なら threw、「〜を通って・通じて」なら through。
+
+### through には動詞 throw が持たない広い用法がある
+
+through は前置詞・副詞として、物理的に「通り抜ける」以外にも Monday through Friday（月曜から金曜まで、範囲）、halfway through the book（本を半分読み進めて、進行）、through hard work（努力によって、手段）のように、範囲・進行・手段まで幅広く表します。threw は throw の過去形にすぎないため、こうした用法には現れません。
+
+### 三単現・過去分詞まで見れば throw の活用が分かる
+
+throw は throw-threw-thrown と活用し、threw は過去形だけを担います。He has thrown the ball.（彼はボールを投げた／投げてしまった）のように、完了形では過去分詞 thrown が使われ threw ではありません。threw が使えるのは単純過去の文だけだと意識すると、have/has のあとに threw を置く誤りを避けられます。
+
+### 発音は同じでも綴りの由来は別
+
+threw と through はどちらも /θruː/ で同音ですが、threw は throw（投げる）という動詞の屈折形、through は古英語 þurh に由来する独立した前置詞で、語源上のつながりはありません。たまたま音が一致しただけの同音異義語で、意味の面でも共通点はありません。`,keyPoints:[`threw と through は同音 /θruː/`,`threw＝throw の過去「投げた」（throw-threw-thrown）`,`through＝前置詞「〜を通って・通じて」`],quiz:[{id:`q-threw-1`,question:`空所に入る適切な語はどれですか。「The train went ( ) several tunnels.（列車はいくつものトンネルを通った）」`,options:[`threw`,`threws`,`through`,`thrown`],correctAnswer:2,explanation:`「〜を通って」は前置詞 through です。`},{id:`q-threw-2`,question:`throw の過去形「投げた」を表す語はどれですか。`,options:[`through`,`throughs`,`thrown`,`threw`],correctAnswer:3,explanation:`throw の過去は threw です。`},{id:`q-threw-3`,question:`threw と through の発音の関係はどれですか。`,options:[`母音が違う`,`子音が違う`,`同じ発音（同音異義語）`,`アクセントが違う`],correctAnswer:2,explanation:`どちらも /θruː/ で同音異義語です。`},{id:`q-threw-4`,question:`空所に入る適切な語はどれですか。「He ( ) the trash into the bin.（彼はゴミを箱に投げ入れた）」`,options:[`through`,`throughs`,`thrown`,`threw`],correctAnswer:3,explanation:`「投げた」は throw の過去 threw です。`},{id:`q-threw-5`,question:`前置詞「〜を通じて・終えて」を意味するのはどちらですか。`,options:[`through`,`threw`,`どちらも`,`どちらも違う`],correctAnswer:0,explanation:`前置詞は through。threw は「投げた」です。`}]},{id:`passed-past`,title:`passed と past`,chapter:4,description:`同音 /pæst/。passed「pass の過去（通り過ぎた・合格した）」、past「過去・〜を過ぎて」（名詞・前置詞）。`,content:`## 品詞で見分ける（ほぼ同音）
 
 **passed と past はほぼ同じ発音 /pæst/**。品詞と意味で決めます。
 
@@ -2998,7 +3022,19 @@ our は必ず**うしろに名詞**を伴う所有格（our house）ですが、
 | practic**al** | 実用的な・現実的な | She gave **practical** advice.（彼女は実用的な助言をくれた） |
 | practic**able** | 実行可能な | The plan is not **practicable** in winter.（その計画は冬には実行できない） |
 
-🎯 覚え方：**-able の practicable は「実行できる（可能）」**、practical は「実用的・現実的（役立つ）」。計画が「実施できるか」は practicable、助言が「役立つ・現実的」は practical。`,keyPoints:[`practical＝実用的な・現実的な（役立つ・人にも使う）`,`practicable＝実行可能な（計画・方法が実施できる・人には使わない）`,`「実施できるか」は practicable、「役立つ」は practical`],quiz:[{id:`q-practical-1`,question:`空所に入る適切な語はどれですか。「Is this schedule ( ) with our budget?（この予定は予算内で実行可能？）」`,options:[`practical`,`practicable`,`practically`,`practice`],correctAnswer:1,explanation:`「実行可能な」は practicable です。`},{id:`q-practical-2`,question:`「実用的な・現実的な」という意味の語はどれですか。`,options:[`practicable`,`practical`,`practice`,`practically`],correctAnswer:1,explanation:`「実用的・現実的」は practical です。`},{id:`q-practical-3`,question:`空所に入る適切な語はどれですか。「He is a ( ) person who avoids risks.（彼はリスクを避ける現実的な人だ）」`,options:[`practicable`,`practical`,`practice`,`practicably`],correctAnswer:1,explanation:`人にも使える「現実的な」は practical です（practicable は人に使いません）。`},{id:`q-practical-4`,question:`計画・方法が「実際にやれる（実行可能）」を表すのはどちらですか。`,options:[`practical`,`practicable`,`どちらも`,`どちらも違う`],correctAnswer:1,explanation:`実行可能は practicable。実用的・現実的は practical です。`},{id:`q-practical-5`,question:`空所に入る適切な語はどれですか。「The course teaches ( ) skills for the job.（その講座は仕事に役立つ実践的技能を教える）」`,options:[`practicable`,`practical`,`practice`,`practicably`],correctAnswer:1,explanation:`「実践的・実用的な（技能）」は practical です。`}]},{id:`desirable-desirous`,title:`desirable と desirous`,chapter:3,description:`desirable「望ましい・好ましい」（〜される側）、desirous「（〜を）望んでいる」（望む側・desirous of）。`,content:`## 望まれる側か、望む側かで見分ける
+🎯 覚え方：**-able の practicable は「実行できる（可能）」**、practical は「実用的・現実的（役立つ）」。計画が「実施できるか」は practicable、助言が「役立つ・現実的」は practical。
+
+### practicable は人には使わない
+
+practical は a practical person（現実的な人）のように人の性質を表せますが、practicable は計画・手段・方法など「実行される対象」にしか使いません。a practicable person という言い方は成立せず、この違いは practicable が「実行できるかどうか」という一点だけを問う語であることの表れです。
+
+### 実行できても賢明とは限らない
+
+practicable であることと practical であることは独立した評価軸です。The idea is practicable but not very practical.（その案は実行はできるが、あまり賢明ではない）のように、技術的・物理的に可能（practicable）でも、コストや手間を考えると現実的でない（not practical）という場合があります。逆に理にかなっていて役立つ（practical）計画が、現状の制約で実施できない（not practicable）こともあります。
+
+### 法律・行政文書での使われ方
+
+practicable は as soon as practicable（実行可能になり次第）、so far as practicable（実行可能な範囲で）のように、契約書や行政文書で「コスト・技術・状況を考慮したうえで可能な限り」という含みを持たせるために好んで使われます。日常会話では practical のほうが圧倒的に多く使われ、practicable はこうした改まった文脈に偏って現れる語です。`,keyPoints:[`practical＝実用的な・現実的な（役立つ・人にも使う）`,`practicable＝実行可能な（計画・方法が実施できる・人には使わない）`,`「実施できるか」は practicable、「役立つ」は practical`],quiz:[{id:`q-practical-1`,question:`空所に入る適切な語はどれですか。「Is this schedule ( ) with our budget?（この予定は予算内で実行可能？）」`,options:[`practical`,`practicable`,`practically`,`practice`],correctAnswer:1,explanation:`「実行可能な」は practicable です。`},{id:`q-practical-2`,question:`「実用的な・現実的な」という意味の語はどれですか。`,options:[`practicable`,`practical`,`practice`,`practically`],correctAnswer:1,explanation:`「実用的・現実的」は practical です。`},{id:`q-practical-3`,question:`空所に入る適切な語はどれですか。「He is a ( ) person who avoids risks.（彼はリスクを避ける現実的な人だ）」`,options:[`practicable`,`practical`,`practice`,`practicably`],correctAnswer:1,explanation:`人にも使える「現実的な」は practical です（practicable は人に使いません）。`},{id:`q-practical-4`,question:`計画・方法が「実際にやれる（実行可能）」を表すのはどちらですか。`,options:[`practical`,`practicable`,`どちらも`,`どちらも違う`],correctAnswer:1,explanation:`実行可能は practicable。実用的・現実的は practical です。`},{id:`q-practical-5`,question:`空所に入る適切な語はどれですか。「The course teaches ( ) skills for the job.（その講座は仕事に役立つ実践的技能を教える）」`,options:[`practicable`,`practical`,`practice`,`practicably`],correctAnswer:1,explanation:`「実践的・実用的な（技能）」は practical です。`}]},{id:`desirable-desirous`,title:`desirable と desirous`,chapter:3,description:`desirable「望ましい・好ましい」（〜される側）、desirous「（〜を）望んでいる」（望む側・desirous of）。`,content:`## 望まれる側か、望む側かで見分ける
 
 同じ desire（望む）から派生しますが、向きが逆です。
 
@@ -3134,7 +3170,19 @@ warn は見た目どおりの動詞で、warn-warned-warned と規則的に活�
 | earn | 努力の対価 | 稼ぐ・得る | He **earns** a good salary.（彼は良い給料を稼ぐ） |
 | gain | 増やして得る | 獲得する・増す | She **gained** confidence over time.（次第に自信をつけた） |
 
-🎯 覚え方：**「働いて稼ぐ・値する」は earn、「（量・程度が）増える・獲得する」は gain**。お金・信頼を「稼ぐ・勝ち取る」は earn、体重・経験・速度が「増す」は gain。`,keyPoints:[`earn＝（労働・努力の対価で）稼ぐ・得る（earn money/respect）`,`gain＝（量・程度を）増やして得る（gain weight/experience/speed）`,`対価は earn、増加・獲得は gain`],quiz:[{id:`q-earn-1`,question:`空所に入る適切な語はどれですか。「You may ( ) weight if you eat too much.（食べ過ぎると体重が増えるかも）」`,options:[`earn`,`earned`,`gain`,`earns`],correctAnswer:2,explanation:`量が「増える」は gain（gain weight）です。`},{id:`q-earn-2`,question:`空所に入る適切な語はどれですか。「She works hard to ( ) a living.（彼女は生計を立てるため懸命に働く）」`,options:[`gain`,`gained`,`gains`,`earn`],correctAnswer:3,explanation:`労働の対価で「稼ぐ」は earn（earn a living）です。`},{id:`q-earn-3`,question:`「（量・程度を）増やして得る・獲得する」を表すのはどちらですか。`,options:[`gain`,`earn`,`どちらも`,`どちらも違う`],correctAnswer:0,explanation:`増やして得るのは gain。努力の対価は earn です。`},{id:`q-earn-4`,question:`空所に入る適切な語はどれですか。「Over the years he ( ) their trust.（長年かけて彼は信頼を勝ち取った）」`,options:[`gained`,`earn`,`gains`,`earned`],correctAnswer:3,explanation:`努力で「勝ち取る・値する」信頼は earn（earn trust）が中心です（gain も可）。`},{id:`q-earn-5`,question:`空所に入る適切な語はどれですか。「The plane began to ( ) altitude.（飛行機は高度を上げ始めた）」`,options:[`earn`,`earned`,`gain`,`earns`],correctAnswer:2,explanation:`程度が「増す（高度を上げる）」は gain altitude です。`}]},{id:`other-another`,title:`other と another`,chapter:2,description:`another＝an＋other で「もう一つの（単数・可算）」、other は「他の」（複数名詞や the とともに）。`,content:`## 単数か複数か・the が付くかで見分ける
+🎯 覚え方：**「働いて稼ぐ・値する」は earn、「（量・程度が）増える・獲得する」は gain**。お金・信頼を「稼ぐ・勝ち取る」は earn、体重・経験・速度が「増す」は gain。
+
+### 抽象的な対象では「値する」というニュアンスが決め手になる
+
+reputation（評判）のように earn にも gain にも付く名詞では、earn a reputation は努力によって評判を「勝ち取った・その評判に値する」という含みを強く持ち、gain a reputation はどのような経緯で評判を得たかに中立的です。同じ名詞を選べる場面でも、対価にふさわしいと言いたいときは earn、単に評判が「付いた」事実だけを述べたいときは gain が自然です。
+
+### gain だけが持つ「増加・接近」の用法
+
+gain には gain ground（形勢を盛り返す・優勢になる）、gain access（アクセス権を得る）、gain speed（速度を増す）のように、努力の対価という意味を経由せず、単に何かが増えたり近づいたりすることを表す用法があります。The train is gaining speed.（列車は加速している）を earn で言い換えることはできません。
+
+### earned run のような専門用語にも痕跡が残る
+
+野球の earned run（自責点）は、守備側のミスによらず打者が「働いて」得点を許した場合を指す統計用語で、earn の「対価としてもたらされた」という核の意味がそのまま専門用語に転用された例です。unearned run（守備側のミスによる失点）と対になっており、gain では表せない区別です。`,keyPoints:[`earn＝（労働・努力の対価で）稼ぐ・得る（earn money/respect）`,`gain＝（量・程度を）増やして得る（gain weight/experience/speed）`,`対価は earn、増加・獲得は gain`],quiz:[{id:`q-earn-1`,question:`空所に入る適切な語はどれですか。「You may ( ) weight if you eat too much.（食べ過ぎると体重が増えるかも）」`,options:[`earn`,`earned`,`gain`,`earns`],correctAnswer:2,explanation:`量が「増える」は gain（gain weight）です。`},{id:`q-earn-2`,question:`空所に入る適切な語はどれですか。「She works hard to ( ) a living.（彼女は生計を立てるため懸命に働く）」`,options:[`gain`,`gained`,`gains`,`earn`],correctAnswer:3,explanation:`労働の対価で「稼ぐ」は earn（earn a living）です。`},{id:`q-earn-3`,question:`「（量・程度を）増やして得る・獲得する」を表すのはどちらですか。`,options:[`gain`,`earn`,`どちらも`,`どちらも違う`],correctAnswer:0,explanation:`増やして得るのは gain。努力の対価は earn です。`},{id:`q-earn-4`,question:`空所に入る適切な語はどれですか。「Over the years he ( ) their trust.（長年かけて彼は信頼を勝ち取った）」`,options:[`gained`,`earn`,`gains`,`earned`],correctAnswer:3,explanation:`努力で「勝ち取る・値する」信頼は earn（earn trust）が中心です（gain も可）。`},{id:`q-earn-5`,question:`空所に入る適切な語はどれですか。「The plane began to ( ) altitude.（飛行機は高度を上げ始めた）」`,options:[`earn`,`earned`,`gain`,`earns`],correctAnswer:2,explanation:`程度が「増す（高度を上げる）」は gain altitude です。`}]},{id:`other-another`,title:`other と another`,chapter:2,description:`another＝an＋other で「もう一つの（単数・可算）」、other は「他の」（複数名詞や the とともに）。`,content:`## 単数か複数か・the が付くかで見分ける
 
 同じ「他の」ですが、形が違います。
 
@@ -3344,7 +3392,19 @@ amount は動詞では amount to の形をとり、The bill amounted to 12,000 y
 | regret**ful** | 人 | 後悔している | She felt **regretful** about her words.（自分の言葉を後悔した） |
 | regret**table** | 事 | 残念な・遺憾な | The delay is **regrettable**.（その遅れは遺憾だ） |
 
-🎯 覚え方：**-ful の regretful は「（人が）後悔でいっぱい」**、-able の regrettable は「（事が）残念がられるべき」。人の気持ちなら regretful、出来事の評価なら regrettable。`,keyPoints:[`regretful＝（人が）後悔している・すまなく思う`,`regrettable＝（事・状況が）残念な・遺憾な`,`主語が人なら regretful、事なら regrettable`],quiz:[{id:`q-regretful-1`,question:`空所に入る適切な語はどれですか。「It was a ( ) mistake that cost us the deal.（取引を失った残念な誤りだった）」`,options:[`regretful`,`regret`,`regretfully`,`regrettable`],correctAnswer:3,explanation:`事・状況が「残念な・遺憾な」は regrettable です。`},{id:`q-regretful-2`,question:`「（人が）後悔している」という意味の語はどれですか。`,options:[`regrettable`,`regret`,`regretful`,`regrettably`],correctAnswer:2,explanation:`人の気持ち「後悔している」は regretful です。`},{id:`q-regretful-3`,question:`空所に入る適切な語はどれですか。「He gave a ( ) sigh and apologized.（彼は後悔のため息をつき、謝った）」`,options:[`regrettable`,`regret`,`regretful`,`regrettably`],correctAnswer:2,explanation:`人の気持ちを表す「後悔の（ため息）」は regretful です。`},{id:`q-regretful-4`,question:`「（事・状況が）残念な・遺憾な」を表すのはどちらですか。`,options:[`regretful`,`regrettable`,`どちらも`,`どちらも違う`],correctAnswer:1,explanation:`事が「残念な」は regrettable。人が「後悔している」は regretful です。`},{id:`q-regretful-5`,question:`空所に入る適切な語はどれですか。「It is ( ) that so few attended.（出席者がとても少なかったのは残念だ）」`,options:[`regretful`,`regret`,`regretfully`,`regrettable`],correctAnswer:3,explanation:`状況が「残念だ」は regrettable（It is regrettable that ~）です。`}]},{id:`official-officious`,title:`official と officious`,chapter:3,description:`official「公式の・職員」、officious「お節介な・でしゃばりな」。同じ office 由来だが意味は大きく違う。`,content:`## 「公式」か「お節介」かで見分ける
+🎯 覚え方：**-ful の regretful は「（人が）後悔でいっぱい」**、-able の regrettable は「（事が）残念がられるべき」。人の気持ちなら regretful、出来事の評価なら regrettable。
+
+### 副詞形は形容詞以上に意味が離れている
+
+regretfully（後悔しながら・すまなそうに）は動作の様子を表す副詞で、I regretfully declined the offer.（後ろ髪を引かれる思いでその申し出を断った）のように、動作をする本人の気持ちを描写します。一方 regrettably（残念なことに）は文全体にかかる副詞で、Regrettably, the flight was cancelled.（残念ながら、その便は欠航した）のように、話し手が状況全体を評価するときに使い、動作の主体の心情とは関係がありません。
+
+### ビジネス文書で好まれる regrettably
+
+謝罪や通知のメールでは Regrettably, we are unable to proceed with your request.（残念ながら、ご要望にはお応えできません）のように regrettably が文頭でよく使われます。話し手個人の後悔よりも、状況そのものが望ましくないことを客観的に伝える語感が、フォーマルな断りの文脈に合っています。
+
+### 動詞 regret のあとに来る形にも規則性がある
+
+動詞 regret は regret + 動名詞（regret doing、すでにした行為を悔やむ）と regret + to不定詞（regret to say、これから言う内容を残念に思う）の両方を取りますが、意味が変わります。I regret telling him.（彼に話したことを後悔している）は過去の行為への後悔、I regret to tell him.（残念ながら彼に伝えねばならない）はこれから行う行為への遺憾です。regretful・regrettable の使い分けと同じく、時間の向きが意味を決めています。`,keyPoints:[`regretful＝（人が）後悔している・すまなく思う`,`regrettable＝（事・状況が）残念な・遺憾な`,`主語が人なら regretful、事なら regrettable`],quiz:[{id:`q-regretful-1`,question:`空所に入る適切な語はどれですか。「It was a ( ) mistake that cost us the deal.（取引を失った残念な誤りだった）」`,options:[`regretful`,`regret`,`regretfully`,`regrettable`],correctAnswer:3,explanation:`事・状況が「残念な・遺憾な」は regrettable です。`},{id:`q-regretful-2`,question:`「（人が）後悔している」という意味の語はどれですか。`,options:[`regrettable`,`regret`,`regretful`,`regrettably`],correctAnswer:2,explanation:`人の気持ち「後悔している」は regretful です。`},{id:`q-regretful-3`,question:`空所に入る適切な語はどれですか。「He gave a ( ) sigh and apologized.（彼は後悔のため息をつき、謝った）」`,options:[`regrettable`,`regret`,`regretful`,`regrettably`],correctAnswer:2,explanation:`人の気持ちを表す「後悔の（ため息）」は regretful です。`},{id:`q-regretful-4`,question:`「（事・状況が）残念な・遺憾な」を表すのはどちらですか。`,options:[`regretful`,`regrettable`,`どちらも`,`どちらも違う`],correctAnswer:1,explanation:`事が「残念な」は regrettable。人が「後悔している」は regretful です。`},{id:`q-regretful-5`,question:`空所に入る適切な語はどれですか。「It is ( ) that so few attended.（出席者がとても少なかったのは残念だ）」`,options:[`regretful`,`regret`,`regretfully`,`regrettable`],correctAnswer:3,explanation:`状況が「残念だ」は regrettable（It is regrettable that ~）です。`}]},{id:`official-officious`,title:`official と officious`,chapter:3,description:`official「公式の・職員」、officious「お節介な・でしゃばりな」。同じ office 由来だが意味は大きく違う。`,content:`## 「公式」か「お節介」かで見分ける
 
 つづりは近いですが、意味は正反対に近いほど違います。
 
@@ -3651,7 +3711,19 @@ high は程度・地位・音の高さなど、tall には広がらない抽象�
 | memor**able** | 形容詞：記憶に残る | It was a **memorable** trip.（忘れられない旅だった） |
 | memor**ial** | 記念の・追悼の／記念碑 | They built a war **memorial**.（戦争記念碑を建てた） |
 
-🎯 覚え方：**-able の memorable は「記憶に残る（印象的）」**、-ial の memorial は「記念・追悼（記念碑・式）」。楽しい思い出なら memorable、追悼・記念の建造物や式なら memorial。`,keyPoints:[`memorable＝記憶に残る・忘れられない（形容詞）`,`memorial＝記念の・追悼の／記念碑（名詞）`,`印象的なら memorable、記念・追悼なら memorial`],quiz:[{id:`q-memorable-1`,question:`空所に入る適切な語はどれですか。「A ( ) service was held for the victims.（犠牲者の追悼式が行われた）」`,options:[`memorable`,`memory`,`memorably`,`memorial`],correctAnswer:3,explanation:`「追悼の（式）」は memorial です。`},{id:`q-memorable-2`,question:`「記憶に残る・忘れられない」という意味の語はどれですか。`,options:[`memorable`,`memorial`,`memory`,`memorially`],correctAnswer:0,explanation:`「記憶に残る」は memorable です。`},{id:`q-memorable-3`,question:`空所に入る適切な語はどれですか。「The concert was truly ( ).（そのコンサートは本当に忘れられなかった）」`,options:[`memorable`,`memorial`,`memory`,`memorially`],correctAnswer:0,explanation:`「忘れられない・印象的」は memorable です。`},{id:`q-memorable-4`,question:`「記念碑・追悼式」を表す名詞はどちらですか。`,options:[`memorable`,`memorial`,`どちらも`,`どちらも違う`],correctAnswer:1,explanation:`memorial が「記念碑・追悼」。memorable は「記憶に残る」です。`},{id:`q-memorable-5`,question:`空所に入る適切な語はどれですか。「We visited the Lincoln ( ) in Washington.（ワシントンのリンカーン記念館を訪れた）」`,options:[`memorable`,`memory`,`memorably`,`memorial`],correctAnswer:3,explanation:`「記念館・記念碑」は memorial です。`}]},{id:`forgetful-forgettable`,title:`forgetful と forgettable`,chapter:3,description:`forgetful「（人が）忘れっぽい」、forgettable「（物・事が）忘れられやすい・印象に残らない」。`,content:`## 忘れる側か、忘れられる側かで見分ける
+🎯 覚え方：**-able の memorable は「記憶に残る（印象的）」**、-ial の memorial は「記念・追悼（記念碑・式）」。楽しい思い出なら memorable、追悼・記念の建造物や式なら memorial。
+
+### memorable は評価が中立で、良い意味にも悪い意味にも使える
+
+memorable は「忘れられないほど印象的」という強さだけを表す語で、a memorable performance（忘れがたい名演）のように称賛にも、a memorable disaster（記憶に焼き付く大惨事）のように否定的な出来事にも使えます。良い意味に限定されるわけではない点は、日本語の「記憶に残る」という訳語からも見て取りやすい特徴です。
+
+### memor- という語根を共有する仲間たち
+
+memorable と memorial はどちらもラテン語 memoria（記憶）に由来する memor-（記憶する）という語根を持ち、同じ語根から memo（メモ・覚え書き）、memoir（回想録）、memorandum（覚書）、commemorate（記念する）、immemorial（記憶にないほど古い、time immemorial）などが枝分かれしています。語根を知っておくと、初めて見る派生語でも「記憶」に関係する語だと見当がつきます。
+
+### Memorial Day に見る memorial の使われ方
+
+アメリカの Memorial Day（戦没将兵追悼記念日）は、memorial が「記念の・追悼の」という形容詞として国家的な行事名にまで使われる例です。同様に war memorial（戦争記念碑）、memorial service（追悼式）もこの用法で、いずれも「忘れないよう記念する」という memorial の中心義がそのまま行事名・建造物名になっています。`,keyPoints:[`memorable＝記憶に残る・忘れられない（形容詞）`,`memorial＝記念の・追悼の／記念碑（名詞）`,`印象的なら memorable、記念・追悼なら memorial`],quiz:[{id:`q-memorable-1`,question:`空所に入る適切な語はどれですか。「A ( ) service was held for the victims.（犠牲者の追悼式が行われた）」`,options:[`memorable`,`memory`,`memorably`,`memorial`],correctAnswer:3,explanation:`「追悼の（式）」は memorial です。`},{id:`q-memorable-2`,question:`「記憶に残る・忘れられない」という意味の語はどれですか。`,options:[`memorable`,`memorial`,`memory`,`memorially`],correctAnswer:0,explanation:`「記憶に残る」は memorable です。`},{id:`q-memorable-3`,question:`空所に入る適切な語はどれですか。「The concert was truly ( ).（そのコンサートは本当に忘れられなかった）」`,options:[`memorable`,`memorial`,`memory`,`memorially`],correctAnswer:0,explanation:`「忘れられない・印象的」は memorable です。`},{id:`q-memorable-4`,question:`「記念碑・追悼式」を表す名詞はどちらですか。`,options:[`memorable`,`memorial`,`どちらも`,`どちらも違う`],correctAnswer:1,explanation:`memorial が「記念碑・追悼」。memorable は「記憶に残る」です。`},{id:`q-memorable-5`,question:`空所に入る適切な語はどれですか。「We visited the Lincoln ( ) in Washington.（ワシントンのリンカーン記念館を訪れた）」`,options:[`memorable`,`memory`,`memorably`,`memorial`],correctAnswer:3,explanation:`「記念館・記念碑」は memorial です。`}]},{id:`forgetful-forgettable`,title:`forgetful と forgettable`,chapter:3,description:`forgetful「（人が）忘れっぽい」、forgettable「（物・事が）忘れられやすい・印象に残らない」。`,content:`## 忘れる側か、忘れられる側かで見分ける
 
 同じ forget 由来ですが、主語が違います。
 
@@ -4066,7 +4138,19 @@ inn は現代の大型ホテルではなく、**昔ながらの小さな宿・�
 | e**l**icit | 動詞：引き出す | The question **elicited** no response.（その質問は反応を引き出さなかった） |
 | i**ll**icit | 形容詞：不法の | The police found **illicit** drugs.（警察は違法薬物を見つけた） |
 
-🎯 覚え方：**動詞で「引き出す」は elicit、形容詞で「不法の」は illicit（il-＝not＋licit＝合法）**。答え・反応を「引き出す」なら elicit、法に反するなら illicit。`,keyPoints:[`elicit と illicit はほぼ同音 /ɪˈlɪsɪt/`,`elicit＝動詞「（反応・情報を）引き出す」`,`illicit＝形容詞「不法の・違法の」（il-＋licit）`],quiz:[{id:`q-elicit-1`,question:`空所に入る適切な語はどれですか。「They were arrested for ( ) trade.（彼らは違法取引で逮捕された）」`,options:[`elicit`,`elicited`,`illicit`,`elicits`],correctAnswer:2,explanation:`「不法の・違法の（取引）」は illicit です。`},{id:`q-elicit-2`,question:`「（反応・情報を）引き出す」という意味の動詞はどれですか。`,options:[`illicit`,`illicitly`,`illicits`,`elicit`],correctAnswer:3,explanation:`動詞「引き出す」は elicit です。`},{id:`q-elicit-3`,question:`空所に入る適切な語はどれですか。「The teacher tried to ( ) answers from the class.（先生はクラスから答えを引き出そうとした）」`,options:[`illicit`,`illicitly`,`illicit'`,`elicit`],correctAnswer:3,explanation:`「答えを引き出す」は動詞 elicit です。`},{id:`q-elicit-4`,question:`il-（not）＋licit（合法）で「不法の」を意味するのはどちらですか。`,options:[`illicit`,`elicit`,`どちらも`,`どちらも違う`],correctAnswer:0,explanation:`illicit が「不法の」。elicit は動詞「引き出す」です。`},{id:`q-elicit-5`,question:`空所に入る適切な語はどれですか。「Her comment ( ) laughter from the audience.（彼女の一言は観客の笑いを誘った）」`,options:[`elicited`,`illicit`,`illicitly`,`illicit`],correctAnswer:0,explanation:`「（笑いを）引き出した・誘った」は elicit の過去 elicited です。`}]},{id:`berth-birth`,title:`berth と birth`,chapter:4,description:`同音 /bɜːrθ/。berth「停泊所・（列車などの）寝台」、birth「誕生・出産」。意味とスペルで判断。`,content:`## 音は同じ、意味とスペルで見分ける
+🎯 覚え方：**動詞で「引き出す」は elicit、形容詞で「不法の」は illicit（il-＝not＋licit＝合法）**。答え・反応を「引き出す」なら elicit、法に反するなら illicit。
+
+### illicit は「無免許」の意味だと誤解されやすい
+
+illicit は license（免許）と綴りが似ているため「無免許の」という意味だと誤解されがちですが、実際の語源は「許可された」を意味するラテン語 licere に否定の il- が付いた語で、「許されていない・違法の・不道徳な」という意味です。illicit drugs（違法薬物）だけでなく an illicit affair（不倫関係）のように、法律違反に限らず社会通念に反する行為にも使われます。
+
+### elicit がとる前置詞と典型的な目的語
+
+elicit は elicit a response（反応を引き出す）、elicit information from ~（〜から情報を引き出す）のように、情報・感情・反応など「相手の内側にあるもの」を引き出す場面で使われます。obtain（入手する）が既に存在するものを得る動詞であるのに対し、elicit は「働きかけて出させる」というニュアンスを持ち、質問やインタビューの文脈でよく使われます。
+
+### elicit と illicit を分ける唯一の視覚的な手がかりは l の数
+
+発音がほぼ同じであるため、書くときの最大の手がかりは l の数です。elicit は l が1つ（e-licit）、illicit は l が2つ（il-licit）で、後者は否定の接頭辞 il-（in- が l の前で同化した形）が licit（合法の）に付いた構造だと分かれば、なぜ l が重なるのかも説明がつきます。`,keyPoints:[`elicit と illicit はほぼ同音 /ɪˈlɪsɪt/`,`elicit＝動詞「（反応・情報を）引き出す」`,`illicit＝形容詞「不法の・違法の」（il-＋licit）`],quiz:[{id:`q-elicit-1`,question:`空所に入る適切な語はどれですか。「They were arrested for ( ) trade.（彼らは違法取引で逮捕された）」`,options:[`elicit`,`elicited`,`illicit`,`elicits`],correctAnswer:2,explanation:`「不法の・違法の（取引）」は illicit です。`},{id:`q-elicit-2`,question:`「（反応・情報を）引き出す」という意味の動詞はどれですか。`,options:[`illicit`,`illicitly`,`illicits`,`elicit`],correctAnswer:3,explanation:`動詞「引き出す」は elicit です。`},{id:`q-elicit-3`,question:`空所に入る適切な語はどれですか。「The teacher tried to ( ) answers from the class.（先生はクラスから答えを引き出そうとした）」`,options:[`illicit`,`illicitly`,`illicit'`,`elicit`],correctAnswer:3,explanation:`「答えを引き出す」は動詞 elicit です。`},{id:`q-elicit-4`,question:`il-（not）＋licit（合法）で「不法の」を意味するのはどちらですか。`,options:[`illicit`,`elicit`,`どちらも`,`どちらも違う`],correctAnswer:0,explanation:`illicit が「不法の」。elicit は動詞「引き出す」です。`},{id:`q-elicit-5`,question:`空所に入る適切な語はどれですか。「Her comment ( ) laughter from the audience.（彼女の一言は観客の笑いを誘った）」`,options:[`elicited`,`illicit`,`illicitly`,`illicit`],correctAnswer:0,explanation:`「（笑いを）引き出した・誘った」は elicit の過去 elicited です。`}]},{id:`berth-birth`,title:`berth と birth`,chapter:4,description:`同音 /bɜːrθ/。berth「停泊所・（列車などの）寝台」、birth「誕生・出産」。意味とスペルで判断。`,content:`## 音は同じ、意味とスペルで見分ける
 
 **berth と birth は同じ発音 /bɜːrθ/（同音異義語）**。意味とスペルで決めます。
 
@@ -4372,7 +4456,19 @@ confuse（混乱させる）のような**感情動詞**は、分詞の形で意
 
 💡 seem は主観的な印象を述べる語で、断定を避けたいときに便利です（It seems that 〜／He seems to know her.）。
 
-🎯 覚え方：**sew（縫う）と同じ「ea」が seam、see（見える）と同じ「ee」が seem**。`,keyPoints:[`seam と seem は同音 /siːm/`,`seam＝名詞「縫い目・継ぎ目」`,`seem＝動詞「〜のように思える」（seem to do / It seems that 〜）`],quiz:[{id:`q-seam-1`,question:`空所に入る適切な語はどれですか。「The ( ) of these jeans is double-stitched.（このジーンズの縫い目は二重に縫ってある）」`,options:[`seam`,`seem`,`seems`,`seeming`],correctAnswer:0,explanation:`縫い目は seam です。`},{id:`q-seam-2`,question:`空所に入る適切な語はどれですか。「They ( ) to be enjoying the party.（彼らはパーティーを楽しんでいるようだ）」`,options:[`seam`,`seams`,`seamed`,`seem`],correctAnswer:3,explanation:`「〜のようだ」は seem to do です。`},{id:`q-seam-3`,question:`seam と seem の発音の関係はどれですか。`,options:[`母音が違う`,`子音が違う`,`同じ発音（同音異義語）`,`アクセントが違う`],correctAnswer:2,explanation:`どちらも /siːm/ で同音異義語です。`},{id:`q-seam-4`,question:`seem の使い方として正しい文はどれですか。`,options:[`It seams that he is busy.`,`He seams tired.`,`It seem that he is busy.`,`It seems that he is busy.`],correctAnswer:3,explanation:`It seems that 〜 が正しい形です。`},{id:`q-seam-5`,question:`seam の品詞と意味の組み合わせとして正しいものはどれですか。`,options:[`名詞「縫い目・継ぎ目」`,`動詞「思える」`,`形容詞「継ぎ目のない」`,`副詞「見たところ」`],correctAnswer:0,explanation:`seam は名詞で「縫い目・継ぎ目」です。`}]},{id:`access-excess`,title:`access と excess`,chapter:1,description:`access「接近・利用（する権利）」、excess「超過・過剰」。アクセントの位置も違い、access は前、excess は後ろに置く。`,content:`## 「入れること」と「多すぎること」
+🎯 覚え方：**sew（縫う）と同じ「ea」が seam、see（見える）と同じ「ee」が seem**。
+
+### seam は布以外にも使われる
+
+seam は衣服の縫い目だけでなく、a coal seam（石炭の炭層）のように地質学でも使われ、層と層の境目という共通のイメージでつながっています。burst at the seams（縫い目がはじけるほどいっぱいだ）は、人や物であふれかえっている様子を表す成句で、19世紀に定着したとされ、きつすぎる衣服の縫い目が今にもはじけそうな比喩から来ています。come apart at the seams（縫い目がほどけてバラバラになる＝物事が破綻する）も同じ縫い目の比喩の否定的な側面です。
+
+### seem は状態を表す動詞で進行形にしにくい
+
+seem は know や like と同じく状態動詞に分類され、He is seeming tired.（×）のように進行形にするのは基本的に不自然です。He seems tired.（彼は疲れているようだ）のように単純現在形で使うのが普通で、これは「〜のように思える」という判断が瞬間の動作ではなく、その時点での状態だからです。
+
+### It seems that の構文が持つ役割
+
+It seems that he was right.（彼が正しかったようだ）や He seems to have left already.（彼はもう帰ったようだ）という構文は、断定を避けて話し手の推測であることを示すために使われます。同じ内容を He was right.（彼は正しかった）と言い切るより柔らかい印象を与えるため、確信が持てない場面や丁寧に述べたい場面で好まれます。`,keyPoints:[`seam と seem は同音 /siːm/`,`seam＝名詞「縫い目・継ぎ目」`,`seem＝動詞「〜のように思える」（seem to do / It seems that 〜）`],quiz:[{id:`q-seam-1`,question:`空所に入る適切な語はどれですか。「The ( ) of these jeans is double-stitched.（このジーンズの縫い目は二重に縫ってある）」`,options:[`seam`,`seem`,`seems`,`seeming`],correctAnswer:0,explanation:`縫い目は seam です。`},{id:`q-seam-2`,question:`空所に入る適切な語はどれですか。「They ( ) to be enjoying the party.（彼らはパーティーを楽しんでいるようだ）」`,options:[`seam`,`seams`,`seamed`,`seem`],correctAnswer:3,explanation:`「〜のようだ」は seem to do です。`},{id:`q-seam-3`,question:`seam と seem の発音の関係はどれですか。`,options:[`母音が違う`,`子音が違う`,`同じ発音（同音異義語）`,`アクセントが違う`],correctAnswer:2,explanation:`どちらも /siːm/ で同音異義語です。`},{id:`q-seam-4`,question:`seem の使い方として正しい文はどれですか。`,options:[`It seams that he is busy.`,`He seams tired.`,`It seem that he is busy.`,`It seems that he is busy.`],correctAnswer:3,explanation:`It seems that 〜 が正しい形です。`},{id:`q-seam-5`,question:`seam の品詞と意味の組み合わせとして正しいものはどれですか。`,options:[`名詞「縫い目・継ぎ目」`,`動詞「思える」`,`形容詞「継ぎ目のない」`,`副詞「見たところ」`],correctAnswer:0,explanation:`seam は名詞で「縫い目・継ぎ目」です。`}]},{id:`access-excess`,title:`access と excess`,chapter:1,description:`access「接近・利用（する権利）」、excess「超過・過剰」。アクセントの位置も違い、access は前、excess は後ろに置く。`,content:`## 「入れること」と「多すぎること」
 
 つづりが4文字重なるうえ、どちらもカタカナで見かける語なので混ざりやすいペアです。**access は「中に入る・使える」、excess は「限度を超えている」**と、方向がまったく違います。
 
