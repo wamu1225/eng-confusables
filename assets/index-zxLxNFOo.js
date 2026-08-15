@@ -2105,7 +2105,19 @@ whole は食品表示でもよく見かけます。**whole wheat / whole grain**
 | cloth | /klɔːθ/ | 名詞：布 | Wipe the table with a **cloth**.（布でテーブルを拭いて） |
 | clothe | /kloʊð/ | 動詞：服を着せる | They work to feed and **clothe** the poor.（貧しい人に食と衣を提供する） |
 
-🎯 覚え方：**e が付くと動詞 clothe（着せる）、e がないと名詞 cloth（布）**。「衣服」は複数形 clothes。1枚の「布」は cloth。`,keyPoints:[`cloth /klɔːθ/＝名詞「布・生地」（e なし・/θ/）`,`clothe /kloʊð/＝動詞「服を着せる」（e あり・/ð/）`,`「衣服」は複数形 clothes /kloʊðz/`],quiz:[{id:`q-cloth-1`,question:`空所に入る適切な語はどれですか。「Use a clean ( ) to polish the glass.（きれいな布でガラスを磨いて）」`,options:[`clothe`,`clothes`,`cloth`,`clothing`],correctAnswer:2,explanation:`1枚の「布」は名詞 cloth です。`},{id:`q-cloth-2`,question:`「（人に）服を着せる」という意味の動詞はどれですか。`,options:[`cloth`,`clothes`,`clothed`,`clothe`],correctAnswer:3,explanation:`動詞「服を着せる」は clothe /kloʊð/ です。`},{id:`q-cloth-3`,question:`空所に入る適切な語はどれですか。「The tablecloth is made of thick ( ).（テーブルクロスは厚い生地でできている）」`,options:[`clothe`,`clothes`,`cloth`,`clothing`],correctAnswer:2,explanation:`「生地・布」は cloth です。`},{id:`q-cloth-4`,question:`e が付いて動詞「服を着せる」になるのはどちらですか。`,options:[`cloth`,`clothe`,`どちらも`,`どちらも違う`],correctAnswer:1,explanation:`clothe（e あり・動詞）。cloth（e なし・名詞）です。`},{id:`q-cloth-5`,question:`「衣服」を表す語として自然なのはどれですか。`,options:[`clothes`,`cloth`,`clothe`,`clothed`],correctAnswer:0,explanation:`「衣服」は複数形 clothes です。cloth は1枚の布です。`}]},{id:`belief-believe`,title:`belief と believe`,chapter:3,description:`名詞と動詞。belief /bɪˈliːf/「信念・信じること」（名詞）、believe /bɪˈliːv/「信じる」（動詞）。語尾 /f/ と /v/。`,content:`## 品詞と語尾の音で見分ける
+🎯 覚え方：**e が付くと動詞 clothe（着せる）、e がないと名詞 cloth（布）**。「衣服」は複数形 clothes。1枚の「布」は cloth。
+
+### clothe の過去分詞は clothed と clad の2通り
+
+clothe の過去分詞には規則変化の clothed のほかに、古い形が残った clad という語があります。clothed は He was clothed in a warm coat.（暖かいコートを着ていた）のように日常的な場面で使われますが、clad は knights clad in armor（甲冑をまとった騎士たち）のように、儀礼的・文学的な文脈で「何かをまとった様子」を強調するときに好んで使われます。日常会話では clothed、詩的・歴史的な描写では clad と考えると使い分けやすくくなります。
+
+### cloth は素材そのもの、clothes は身につける衣服
+
+cloth は裁断されていない布地・生地そのものを指す不可算名詞で、a piece of cloth（一枚の布）のように数えます。一方 clothes は身につける「衣服」を指し、常に複数形で使われ単数形はありません（1着だけでも clothes です）。tablecloth（テーブルクロス）や dishcloth（ふきん）のように、複合語では布の意味の cloth がそのまま使われます。
+
+### tablecloth に見る cloth の広がり
+
+cloth を使った複合語には、tablecloth（テーブルクロス）、washcloth（体を洗う布）、sackcloth（粗布、悔悟の象徴として聖書にも登場）などがあり、いずれも「用途に応じた布」を指しています。動詞 clothe にはこうした複合語での広がりはなく、「服を着せる」という一つの動作に意味が絞られています。`,keyPoints:[`cloth /klɔːθ/＝名詞「布・生地」（e なし・/θ/）`,`clothe /kloʊð/＝動詞「服を着せる」（e あり・/ð/）`,`「衣服」は複数形 clothes /kloʊðz/`],quiz:[{id:`q-cloth-1`,question:`空所に入る適切な語はどれですか。「Use a clean ( ) to polish the glass.（きれいな布でガラスを磨いて）」`,options:[`clothe`,`clothes`,`cloth`,`clothing`],correctAnswer:2,explanation:`1枚の「布」は名詞 cloth です。`},{id:`q-cloth-2`,question:`「（人に）服を着せる」という意味の動詞はどれですか。`,options:[`cloth`,`clothes`,`clothed`,`clothe`],correctAnswer:3,explanation:`動詞「服を着せる」は clothe /kloʊð/ です。`},{id:`q-cloth-3`,question:`空所に入る適切な語はどれですか。「The tablecloth is made of thick ( ).（テーブルクロスは厚い生地でできている）」`,options:[`clothe`,`clothes`,`cloth`,`clothing`],correctAnswer:2,explanation:`「生地・布」は cloth です。`},{id:`q-cloth-4`,question:`e が付いて動詞「服を着せる」になるのはどちらですか。`,options:[`cloth`,`clothe`,`どちらも`,`どちらも違う`],correctAnswer:1,explanation:`clothe（e あり・動詞）。cloth（e なし・名詞）です。`},{id:`q-cloth-5`,question:`「衣服」を表す語として自然なのはどれですか。`,options:[`clothes`,`cloth`,`clothe`,`clothed`],correctAnswer:0,explanation:`「衣服」は複数形 clothes です。cloth は1枚の布です。`}]},{id:`belief-believe`,title:`belief と believe`,chapter:3,description:`名詞と動詞。belief /bɪˈliːf/「信念・信じること」（名詞）、believe /bɪˈliːv/「信じる」（動詞）。語尾 /f/ と /v/。`,content:`## 品詞と語尾の音で見分ける
 
 つづりは **-f（belief）と -ve（believe）**、語尾の音 /f/ と /v/ で名詞・動詞が分かれます。
 
@@ -2291,7 +2303,19 @@ too は後ろに来る形容詞で数えられる/数えられないが分かれ
 | envelop**e** | /ˈɛnvəloʊp/ | 名詞：封筒 | Put the letter in an **envelope**.（手紙を封筒に入れて） |
 | envelop | /ɪnˈvɛləp/ | 動詞：包み込む | Fog began to **envelop** the town.（霧が町を包み始めた） |
 
-🎯 覚え方：**モノの「封筒」は e が付いて envelope（名詞）**、「包み込む」動作は e のない envelop（動詞、アクセント後ろ）。手紙を入れるなら envelope。`,keyPoints:[`envelope /ˈɛnvəloʊp/＝名詞「封筒」（末尾 e・前アクセント）`,`envelop /ɪnˈvɛləp/＝動詞「包み込む」（e なし・後ろアクセント）`,`モノなら envelope、動作なら envelop`],quiz:[{id:`q-envelope-1`,question:`空所に入る適切な語はどれですか。「Seal the ( ) before mailing it.（郵送前に封筒を閉じて）」`,options:[`envelop`,`envelopes'`,`enveloping`,`envelope`],correctAnswer:3,explanation:`モノの「封筒」は名詞 envelope です。`},{id:`q-envelope-2`,question:`「包み込む・覆う」という意味の動詞はどれですか。`,options:[`envelope`,`envelop`,`envelopes`,`enveloped'`],correctAnswer:1,explanation:`動詞「包み込む」は envelop /ɪnˈvɛləp/ です。`},{id:`q-envelope-3`,question:`空所に入る適切な語はどれですか。「Darkness seemed to ( ) the valley.（闇が谷を包み込むようだった）」`,options:[`envelope`,`envelop`,`envelopes`,`envelopment`],correctAnswer:1,explanation:`動詞「包み込む」は envelop です。`},{id:`q-envelope-4`,question:`末尾に e が付く名詞「封筒」はどちらですか。`,options:[`envelop`,`envelope`,`どちらも`,`どちらも違う`],correctAnswer:1,explanation:`envelope（e あり・名詞）。envelop（e なし・動詞）です。`},{id:`q-envelope-5`,question:`空所に入る適切な語はどれですか。「She opened the ( ) and read the card.（封筒を開けてカードを読んだ）」`,options:[`envelop`,`enveloping`,`enveloped`,`envelope`],correctAnswer:3,explanation:`モノの「封筒」は envelope です。`}]},{id:`proof-prove`,title:`proof と prove`,chapter:3,description:`名詞と動詞。proof /pruːf/「証拠・証明」（名詞）、prove /pruːv/「証明する」（動詞）。語尾 /f/ と /v/。`,content:`## 品詞と語尾の音で見分ける
+🎯 覚え方：**モノの「封筒」は e が付いて envelope（名詞）**、「包み込む」動作は e のない envelop（動詞、アクセント後ろ）。手紙を入れるなら envelope。
+
+### push the envelope という成句の envelope は「封筒」ではない
+
+push the envelope（限界に挑む）という成句の envelope は、航空工学でいう flight envelope（飛行機が安全に飛べる速度・高度・機動性の限界を示す性能包絡線）のことで、封筒とは別の専門用語としての envelope です。1979年のトム・ウルフの著書 The Right Stuff がテストパイロットの使う push the outside of the envelope という表現を紹介したことで広く知られるようになり、今では分野を問わず「既存の枠を押し広げる」という意味で使われます。
+
+### envelop は霧や暗闇のように包み込むものと相性がいい
+
+envelop は The mist enveloped the mountains.（霧が山々を包み込んだ）、Darkness enveloped the city.（闇が街を覆った）のように、輪郭のはっきりしないものが対象を隙間なく覆う場面で好んで使われます。名詞形は envelopment で、a sense of envelopment（包まれるような感覚）のように使われますが、日常会話ではやや硬い語です。
+
+### 発音のアクセント移動が品詞を教えてくれる
+
+envelope と envelop は綴りがほぼ同じですが、名詞 envelope は最初の音節にアクセントが来る一方、動詞 envelop は2番目の音節にアクセントが来ます。record（名詞レコード／動詞記録する）や present（名詞プレゼント／動詞贈る）と同じく、英語には名詞と動詞でアクセント位置が変わる語が多くあり、envelope・envelop もこの仲間に入ります。`,keyPoints:[`envelope /ˈɛnvəloʊp/＝名詞「封筒」（末尾 e・前アクセント）`,`envelop /ɪnˈvɛləp/＝動詞「包み込む」（e なし・後ろアクセント）`,`モノなら envelope、動作なら envelop`],quiz:[{id:`q-envelope-1`,question:`空所に入る適切な語はどれですか。「Seal the ( ) before mailing it.（郵送前に封筒を閉じて）」`,options:[`envelop`,`envelopes'`,`enveloping`,`envelope`],correctAnswer:3,explanation:`モノの「封筒」は名詞 envelope です。`},{id:`q-envelope-2`,question:`「包み込む・覆う」という意味の動詞はどれですか。`,options:[`envelope`,`envelop`,`envelopes`,`enveloped'`],correctAnswer:1,explanation:`動詞「包み込む」は envelop /ɪnˈvɛləp/ です。`},{id:`q-envelope-3`,question:`空所に入る適切な語はどれですか。「Darkness seemed to ( ) the valley.（闇が谷を包み込むようだった）」`,options:[`envelope`,`envelop`,`envelopes`,`envelopment`],correctAnswer:1,explanation:`動詞「包み込む」は envelop です。`},{id:`q-envelope-4`,question:`末尾に e が付く名詞「封筒」はどちらですか。`,options:[`envelop`,`envelope`,`どちらも`,`どちらも違う`],correctAnswer:1,explanation:`envelope（e あり・名詞）。envelop（e なし・動詞）です。`},{id:`q-envelope-5`,question:`空所に入る適切な語はどれですか。「She opened the ( ) and read the card.（封筒を開けてカードを読んだ）」`,options:[`envelop`,`enveloping`,`enveloped`,`envelope`],correctAnswer:3,explanation:`モノの「封筒」は envelope です。`}]},{id:`proof-prove`,title:`proof と prove`,chapter:3,description:`名詞と動詞。proof /pruːf/「証拠・証明」（名詞）、prove /pruːv/「証明する」（動詞）。語尾 /f/ と /v/。`,content:`## 品詞と語尾の音で見分ける
 
 **-f（proof）が名詞、-ve（prove）が動詞**。belief/believe と同じパターンです。
 
@@ -2603,7 +2627,19 @@ a momentary decision は「一瞬で下した決断」を指し、重大さに�
 | board | /bɔːrd/ | 板・委員会／乗り込む | Passengers began to **board** the plane.（乗客が搭乗を始めた） |
 | bored | /bɔːrd/ | 形容詞：退屈した | I was **bored** during the long lecture.（長い講義で退屈した） |
 
-🎯 覚え方：**bored は bore（退屈させる）の -ed で「退屈した（気持ち）」**。板・委員会・搭乗は board。退屈な気分なら bored。`,keyPoints:[`board と bored は同音 /bɔːrd/`,`board＝板・掲示板・委員会／乗り込む`,`bored＝形容詞「退屈した」（bore の過去分詞）`],quiz:[{id:`q-board-1`,question:`空所に入る適切な語はどれですか。「The children were ( ) with nothing to do.（子どもたちは何もすることがなく退屈していた）」`,options:[`board`,`bored`,`boards`,`boarded`],correctAnswer:1,explanation:`「退屈した」は形容詞 bored です。`},{id:`q-board-2`,question:`「板・掲示板・委員会」または「乗り込む」を表す語はどれですか。`,options:[`bored`,`boring`,`bores`,`board`],correctAnswer:3,explanation:`「板・委員会／乗り込む」は board です。`},{id:`q-board-3`,question:`board と bored の発音の関係はどれですか。`,options:[`母音が違う`,`子音が違う`,`同じ発音（同音異義語）`,`アクセントが違う`],correctAnswer:2,explanation:`どちらも /bɔːrd/ で同音異義語です。`},{id:`q-board-4`,question:`空所に入る適切な語はどれですか。「Please ( ) the train now.（今、電車に乗ってください）」`,options:[`bored`,`boring`,`bores`,`board`],correctAnswer:3,explanation:`「乗り込む」は動詞 board です。`},{id:`q-board-5`,question:`気持ちの「退屈した」を意味するのはどちらですか。`,options:[`board`,`bored`,`どちらも`,`どちらも違う`],correctAnswer:1,explanation:`「退屈した」は bored。board は板・委員会・乗り込むです。`}]},{id:`sight-site`,title:`sight と site`,chapter:4,description:`同音 /saɪt/。sight「視界・光景・視力」、site「用地・場所・（ウェブ）サイト」。意味とスペルで判断。`,content:`## 音は同じ、意味とスペルで見分ける
+🎯 覚え方：**bored は bore（退屈させる）の -ed で「退屈した（気持ち）」**。板・委員会・搭乗は board。退屈な気分なら bored。
+
+### board を使った成句は会議・組織のイメージから広がっている
+
+board of directors（取締役会）から派生して、across the board（全面的に・一律に）という成句が生まれました。これは競馬で1着・2着・3着のどれに入っても同額の配当を得られるよう同じ金額を賭ける賭け方に由来し、掲示板（board）にレース結果が貼り出されたことから「全体にわたって」の意味に転じたとされます。on board（乗船して、転じて「仲間に加わって・賛同して」）も、船や委員会への「参加」というイメージでつながっています。
+
+### bore にはもう一つの意味がある
+
+bore には「退屈させる」のほかに「穴をあける・くり抜く」という意味があり、a bore hole（ボーリング穴）のように使われます。bored はもっぱら「退屈させられた（結果、退屈している）」の意味で使われ、穴をあけられたという意味で bored が使われることは通常ありません。文脈さえ押さえれば混同の心配はない語です。
+
+### boring と bored の主客の向きに注意
+
+boring（退屈させる、退屈な）は原因側、bored（退屈させられた、退屈している）は結果側を表す点は、interesting/interested と同じ構造です。The lecture was boring, so I was bored.（講義が退屈だったので、私は退屈した）のように、主語がどちら側かで -ing と -ed を使い分けます。`,keyPoints:[`board と bored は同音 /bɔːrd/`,`board＝板・掲示板・委員会／乗り込む`,`bored＝形容詞「退屈した」（bore の過去分詞）`],quiz:[{id:`q-board-1`,question:`空所に入る適切な語はどれですか。「The children were ( ) with nothing to do.（子どもたちは何もすることがなく退屈していた）」`,options:[`board`,`bored`,`boards`,`boarded`],correctAnswer:1,explanation:`「退屈した」は形容詞 bored です。`},{id:`q-board-2`,question:`「板・掲示板・委員会」または「乗り込む」を表す語はどれですか。`,options:[`bored`,`boring`,`bores`,`board`],correctAnswer:3,explanation:`「板・委員会／乗り込む」は board です。`},{id:`q-board-3`,question:`board と bored の発音の関係はどれですか。`,options:[`母音が違う`,`子音が違う`,`同じ発音（同音異義語）`,`アクセントが違う`],correctAnswer:2,explanation:`どちらも /bɔːrd/ で同音異義語です。`},{id:`q-board-4`,question:`空所に入る適切な語はどれですか。「Please ( ) the train now.（今、電車に乗ってください）」`,options:[`bored`,`boring`,`bores`,`board`],correctAnswer:3,explanation:`「乗り込む」は動詞 board です。`},{id:`q-board-5`,question:`気持ちの「退屈した」を意味するのはどちらですか。`,options:[`board`,`bored`,`どちらも`,`どちらも違う`],correctAnswer:1,explanation:`「退屈した」は bored。board は板・委員会・乗り込むです。`}]},{id:`sight-site`,title:`sight と site`,chapter:4,description:`同音 /saɪt/。sight「視界・光景・視力」、site「用地・場所・（ウェブ）サイト」。意味とスペルで判断。`,content:`## 音は同じ、意味とスペルで見分ける
 
 **sight と site は同じ発音 /saɪt/（同音異義語）**。意味とスペルで決めます。
 
@@ -3010,7 +3046,19 @@ our は必ず**うしろに名詞**を伴う所有格（our house）ですが、
 | receive | 受動的に手にする | 受け取る | I **received** your letter yesterday.（昨日あなたの手紙を受け取った） |
 | accept | 承諾して受け入れる | 受け入れる | She **accepted** the invitation.（彼女は招待を受けた） |
 
-🎯 覚え方：**「届いた・手にした」は receive、「（承諾して）受け入れる」は accept**。贈り物を receive（受け取る）しても accept（受け入れる）しないこともある。承諾なら accept。`,keyPoints:[`receive＝（届いたもの）を受け取る（受動的）`,`accept＝（申し出・贈り物）を受け入れる・承諾する（意志的）`,`受け取っても承諾しないことがある＝receive ≠ accept`],quiz:[{id:`q-receive-1`,question:`空所に入る適切な語はどれですか。「He decided to ( ) the job offer.（彼は内定を受け入れることにした）」`,options:[`receive`,`received`,`accept`,`receives`],correctAnswer:2,explanation:`意志を持って「受け入れる・承諾する」は accept です。`},{id:`q-receive-2`,question:`空所に入る適切な語はどれですか。「Did you ( ) my email this morning?（今朝、私のメールを受け取った？）」`,options:[`accept`,`accepted`,`accepts`,`receive`],correctAnswer:3,explanation:`届いたものを「受け取る」は receive です。`},{id:`q-receive-3`,question:`意志を持って「承諾して受け入れる」を表すのはどちらですか。`,options:[`accept`,`receive`,`どちらも`,`どちらも違う`],correctAnswer:0,explanation:`承諾は accept。単に受け取るは receive です。`},{id:`q-receive-4`,question:`空所に入る適切な語はどれですか。「She ( ) many gifts but returned some.（多くの贈り物を受け取ったが、いくつか返した）」`,options:[`received`,`accepted`,`accepts`,`accepting`],correctAnswer:0,explanation:`「（届いて）手にした」は receive。承諾とは別です。`},{id:`q-receive-5`,question:`「（届いたものを）受動的に受け取る」を表すのはどちらですか。`,options:[`accept`,`receive`,`どちらも`,`どちらも違う`],correctAnswer:1,explanation:`受動的に受け取るのは receive。承諾は accept です。`}]},{id:`practical-practicable`,title:`practical と practicable`,chapter:3,description:`practical「実用的な・現実的な」（役に立つ・地に足のついた）、practicable「実行可能な」（実際にやれる）。`,content:`## 「役立つ」か「実行できる」かで見分ける
+🎯 覚え方：**「届いた・手にした」は receive、「（承諾して）受け入れる」は accept**。贈り物を receive（受け取る）しても accept（受け入れる）しないこともある。承諾なら accept。
+
+### 抽象的な対象では accept の「認める」という側面が際立つ
+
+accept は物のやり取りだけでなく、accept a fact（事実を受け入れる）、accept responsibility（責任を認める）、accept an apology（謝罪を受け入れる）のように、意見・事実・責任を「認める・容認する」場面でも幅広く使われます。receive にはこうした「認める」というニュアンスはなく、receive criticism（批判を受ける）と言っても、それに納得したかどうかは何も述べていません。
+
+### receive にしかない受動的な出来事
+
+receive は receive news（知らせを受け取る）、receive a phone call（電話を受ける）、receive treatment（治療を受ける）のように、自分の意志とは関係なく身に降りかかる出来事にも使われます。accept treatment と言い換えると「治療に同意する」という積極的な選択の意味に変わり、単に受診したことを述べる receive treatment とは違う場面になります。
+
+### 名詞形にも同じ向きの違いが残る
+
+receive の名詞は receipt（領収書、受領）、accept の名詞は acceptance（受諾、承認）です。a receipt for the payment（支払いの領収書）は取引が完了した証拠にすぎませんが、the acceptance of the offer（申し出の承諾）は当事者が意志を持って同意したことを示します。動詞のニュアンスの違いが、名詞になっても保たれています。`,keyPoints:[`receive＝（届いたもの）を受け取る（受動的）`,`accept＝（申し出・贈り物）を受け入れる・承諾する（意志的）`,`受け取っても承諾しないことがある＝receive ≠ accept`],quiz:[{id:`q-receive-1`,question:`空所に入る適切な語はどれですか。「He decided to ( ) the job offer.（彼は内定を受け入れることにした）」`,options:[`receive`,`received`,`accept`,`receives`],correctAnswer:2,explanation:`意志を持って「受け入れる・承諾する」は accept です。`},{id:`q-receive-2`,question:`空所に入る適切な語はどれですか。「Did you ( ) my email this morning?（今朝、私のメールを受け取った？）」`,options:[`accept`,`accepted`,`accepts`,`receive`],correctAnswer:3,explanation:`届いたものを「受け取る」は receive です。`},{id:`q-receive-3`,question:`意志を持って「承諾して受け入れる」を表すのはどちらですか。`,options:[`accept`,`receive`,`どちらも`,`どちらも違う`],correctAnswer:0,explanation:`承諾は accept。単に受け取るは receive です。`},{id:`q-receive-4`,question:`空所に入る適切な語はどれですか。「She ( ) many gifts but returned some.（多くの贈り物を受け取ったが、いくつか返した）」`,options:[`received`,`accepted`,`accepts`,`accepting`],correctAnswer:0,explanation:`「（届いて）手にした」は receive。承諾とは別です。`},{id:`q-receive-5`,question:`「（届いたものを）受動的に受け取る」を表すのはどちらですか。`,options:[`accept`,`receive`,`どちらも`,`どちらも違う`],correctAnswer:1,explanation:`受動的に受け取るのは receive。承諾は accept です。`}]},{id:`practical-practicable`,title:`practical と practicable`,chapter:3,description:`practical「実用的な・現実的な」（役に立つ・地に足のついた）、practicable「実行可能な」（実際にやれる）。`,content:`## 「役立つ」か「実行できる」かで見分ける
 
 似ていますが焦点が違います。
 
@@ -3869,7 +3917,19 @@ meddle は語尾が -dle で、peddle（行商する）・paddle（漕ぐ・パ�
 | sit | 自動詞 | （自分が）座る | Please **sit** here.（ここに座って） |
 | seat | 他動詞 | （人を）座らせる | The host **seated** the guests.（主人は客を席に案内した） |
 
-🎯 覚え方：**自分が「座る」は sit（sit down）、人を「座らせる」は seat（be seated）**。「お座りください（かたい）」は Please be **seated**、口語は Please **sit** down。`,keyPoints:[`sit＝自動詞「（自分が）座る」（sit down・sit-sat-sat）`,`seat＝他動詞「（人を）座らせる」（be seated／seat oneself）`,`「ご着席ください（かたい）」は Please be seated`],quiz:[{id:`q-sit-1`,question:`空所に入る適切な語はどれですか。「Ladies and gentlemen, please be ( ).（皆様、ご着席ください）」`,options:[`sit`,`sat`,`sitting`,`seated`],correctAnswer:3,explanation:`かたい「ご着席ください」は be seated（他動詞 seat の受け身）です。`},{id:`q-sit-2`,question:`空所に入る適切な語はどれですか。「The dog ( ) quietly by the door.（犬はドアのそばで静かに座っていた）」`,options:[`seated`,`seat`,`sat`,`seats`],correctAnswer:2,explanation:`自分が「座っていた」は自動詞 sit の過去 sat です。`},{id:`q-sit-3`,question:`他動詞「（人を）座らせる」を表すのはどちらですか。`,options:[`seat`,`sit`,`どちらも`,`どちらも違う`],correctAnswer:0,explanation:`人を座らせるのは他動詞 seat。自分が座るは sit です。`},{id:`q-sit-4`,question:`空所に入る適切な語はどれですか。「This hall can ( ) 500 people.（このホールは500人を収容できる）」`,options:[`seat`,`sit`,`sat`,`sitting`],correctAnswer:0,explanation:`「〜人を収容する（座らせる）」は他動詞 seat です。`},{id:`q-sit-5`,question:`空所に入る適切な語はどれですか。「Let's ( ) down and talk.（座って話そう）」`,options:[`seat`,`seated`,`seats`,`sit`],correctAnswer:3,explanation:`自分が「座る」は sit（sit down）です。`}]},{id:`intelligent-intelligible`,title:`intelligent と intelligible`,chapter:3,description:`intelligent「頭がいい・知的な」（人・生物）、intelligible「（言葉・説明が）理解できる・分かりやすい」（物事）。`,content:`## 「頭がいい」か「理解できる」かで見分ける
+🎯 覚え方：**自分が「座る」は sit（sit down）、人を「座らせる」は seat（be seated）**。「お座りください（かたい）」は Please be **seated**、口語は Please **sit** down。
+
+### seat は「席がある・収容する」という意味でも働く
+
+seat には人を座らせる以外に、This stadium seats 50,000 people.（このスタジアムは5万人収容できる）のように、建物や乗り物が主語になって「〜人分の席がある」ことを表す用法があります。この場合も seat は他動詞のままで、人を主語にした sit には言い換えられません。
+
+### 名詞 seat が指す範囲は椅子だけではない
+
+seat は名詞では「座席」だけでなく、a seat in parliament（議会の議席）、take a back seat（一歩引いた立場に回る）のように、地位や役割の比喩としても使われます。sit にも sit in parliament（議員を務める）という言い方がありますが、これは「議席に座る」という動作から転じた表現で、seat の名詞用法とは経路が異なります。
+
+### sit down と be seated の距離感
+
+Please sit down. はどんな場面でも使える中立的な言い方ですが、Please be seated. はフォーマルな式典や航空機のアナウンスで使われる硬い表現です。この距離感は、sit が自分の動作をそのまま述べるのに対し、be seated が「座らせられる」という受け身の形を借りて丁寧さを出しているために生まれます。`,keyPoints:[`sit＝自動詞「（自分が）座る」（sit down・sit-sat-sat）`,`seat＝他動詞「（人を）座らせる」（be seated／seat oneself）`,`「ご着席ください（かたい）」は Please be seated`],quiz:[{id:`q-sit-1`,question:`空所に入る適切な語はどれですか。「Ladies and gentlemen, please be ( ).（皆様、ご着席ください）」`,options:[`sit`,`sat`,`sitting`,`seated`],correctAnswer:3,explanation:`かたい「ご着席ください」は be seated（他動詞 seat の受け身）です。`},{id:`q-sit-2`,question:`空所に入る適切な語はどれですか。「The dog ( ) quietly by the door.（犬はドアのそばで静かに座っていた）」`,options:[`seated`,`seat`,`sat`,`seats`],correctAnswer:2,explanation:`自分が「座っていた」は自動詞 sit の過去 sat です。`},{id:`q-sit-3`,question:`他動詞「（人を）座らせる」を表すのはどちらですか。`,options:[`seat`,`sit`,`どちらも`,`どちらも違う`],correctAnswer:0,explanation:`人を座らせるのは他動詞 seat。自分が座るは sit です。`},{id:`q-sit-4`,question:`空所に入る適切な語はどれですか。「This hall can ( ) 500 people.（このホールは500人を収容できる）」`,options:[`seat`,`sit`,`sat`,`sitting`],correctAnswer:0,explanation:`「〜人を収容する（座らせる）」は他動詞 seat です。`},{id:`q-sit-5`,question:`空所に入る適切な語はどれですか。「Let's ( ) down and talk.（座って話そう）」`,options:[`seat`,`seated`,`seats`,`sit`],correctAnswer:3,explanation:`自分が「座る」は sit（sit down）です。`}]},{id:`intelligent-intelligible`,title:`intelligent と intelligible`,chapter:3,description:`intelligent「頭がいい・知的な」（人・生物）、intelligible「（言葉・説明が）理解できる・分かりやすい」（物事）。`,content:`## 「頭がいい」か「理解できる」かで見分ける
 
 同じ語源ですが、対象が違います。
 
@@ -3917,7 +3977,19 @@ sociable も social も、名詞形をたどると society（社会）に行き�
 | canva**s** | 名詞：帆布・画布 | The artist painted on **canvas**.（画家はキャンバスに描いた） |
 | canva**ss** | 動詞：票を求めて回る | Volunteers **canvassed** the neighborhood.（ボランティアが近所を回って支持を求めた） |
 
-🎯 覚え方：**s ひとつの canvas は「画布・帆布（もの）」、s ふたつの canvass は「（票などを求めて）回る（動作）」**。絵を描く布なら canvas、選挙運動・調査なら canvass。`,keyPoints:[`canvas＝名詞「帆布・画布（キャンバス）」（s ひとつ）`,`canvass＝動詞「票・意見を求めて回る・世論調査する」（s ふたつ）`,`ものなら canvas、動作なら canvass`],quiz:[{id:`q-canvas-1`,question:`空所に入る適切な語はどれですか。「Candidates ( ) voters before the election.（候補者は選挙前に有権者を回って支持を求める）」`,options:[`canvass`,`canvas`,`canvases`,`canvassed'`],correctAnswer:0,explanation:`「票を求めて回る」は動詞 canvass（s ふたつ）です。`},{id:`q-canvas-2`,question:`「帆布・画布（キャンバス）」という意味の名詞はどれですか。`,options:[`canvas`,`canvass`,`canvasses`,`canvassing`],correctAnswer:0,explanation:`「画布・帆布」は canvas（s ひとつ）です。`},{id:`q-canvas-3`,question:`空所に入る適切な語はどれですか。「The tent is made of strong ( ).（テントは丈夫な帆布でできている）」`,options:[`canvas`,`canvass`,`canvasses`,`canvassed`],correctAnswer:0,explanation:`生地の「帆布」は canvas です。`},{id:`q-canvas-4`,question:`s がふたつで「票・意見を求めて回る」動詞はどちらですか。`,options:[`canvass`,`canvas`,`どちらも`,`どちらも違う`],correctAnswer:0,explanation:`canvass（s ふたつ・動詞）。canvas（s ひとつ・名詞）です。`},{id:`q-canvas-5`,question:`空所に入る適切な語はどれですか。「They ( ) opinions on the new policy.（新政策への意見を広く集めた）」`,options:[`canvas`,`canvassed`,`canvases`,`canvasing`],correctAnswer:1,explanation:`「意見を集める・世論調査する」は canvass の過去 canvassed です。`}]},{id:`straight-strait`,title:`straight と strait`,chapter:4,description:`同音 /streɪt/。straight「まっすぐな・率直な」（形容詞・副詞）、strait「海峡／苦境」（名詞）。意味とスペルで判断。`,content:`## 音は同じ、意味とスペルで見分ける
+🎯 覚え方：**s ひとつの canvas は「画布・帆布（もの）」、s ふたつの canvass は「（票などを求めて）回る（動作）」**。絵を描く布なら canvas、選挙運動・調査なら canvass。
+
+### canvass の語源は「布でふるいにかける」
+
+canvass は canvas と同じ語源をたどり、古フランス語で「布を通してふるい分ける」という意味の語に由来します。布の目を通して選り分けるという具体的な動作が、やがて「一軒一軒訪ねて意見や票を選り分ける・調べて回る」という比喩的な意味に転じました。綴りに s が2つあるのは、この動詞用法を名詞の canvas と区別するために16世紀ごろ定着した書き分けです。
+
+### canvass は選挙運動以外の「聞いて回る」場面にも使う
+
+canvass は選挙の票集めだけでなく、canvass opinions（意見を聞いて回る）、canvass support for a proposal（提案への支持を募る）のように、組織や地域を一軒一軒回って反応を集める場面全般で使われます。市場調査やアンケート収集の文脈でも見られ、いずれも「戸別に、あるいは一人ひとりに直接あたる」という原義が生きています。
+
+### canvas は絵画以外の場面にも広がっている
+
+canvas は元来テントや帆に使われた丈夫な麻布を指し、canvas shoes（キャンバス地の靴）、canvas bag（帆布のバッグ）のように、絵画のキャンバスに限らず丈夫な布地全般を指す語として使われます。比喩的に on a broader canvas（もっと大きな枠組みで）という言い方もあり、「まだ何も描かれていない広がり」というイメージから発展した用法です。`,keyPoints:[`canvas＝名詞「帆布・画布（キャンバス）」（s ひとつ）`,`canvass＝動詞「票・意見を求めて回る・世論調査する」（s ふたつ）`,`ものなら canvas、動作なら canvass`],quiz:[{id:`q-canvas-1`,question:`空所に入る適切な語はどれですか。「Candidates ( ) voters before the election.（候補者は選挙前に有権者を回って支持を求める）」`,options:[`canvass`,`canvas`,`canvases`,`canvassed'`],correctAnswer:0,explanation:`「票を求めて回る」は動詞 canvass（s ふたつ）です。`},{id:`q-canvas-2`,question:`「帆布・画布（キャンバス）」という意味の名詞はどれですか。`,options:[`canvas`,`canvass`,`canvasses`,`canvassing`],correctAnswer:0,explanation:`「画布・帆布」は canvas（s ひとつ）です。`},{id:`q-canvas-3`,question:`空所に入る適切な語はどれですか。「The tent is made of strong ( ).（テントは丈夫な帆布でできている）」`,options:[`canvas`,`canvass`,`canvasses`,`canvassed`],correctAnswer:0,explanation:`生地の「帆布」は canvas です。`},{id:`q-canvas-4`,question:`s がふたつで「票・意見を求めて回る」動詞はどちらですか。`,options:[`canvass`,`canvas`,`どちらも`,`どちらも違う`],correctAnswer:0,explanation:`canvass（s ふたつ・動詞）。canvas（s ひとつ・名詞）です。`},{id:`q-canvas-5`,question:`空所に入る適切な語はどれですか。「They ( ) opinions on the new policy.（新政策への意見を広く集めた）」`,options:[`canvas`,`canvassed`,`canvases`,`canvasing`],correctAnswer:1,explanation:`「意見を集める・世論調査する」は canvass の過去 canvassed です。`}]},{id:`straight-strait`,title:`straight と strait`,chapter:4,description:`同音 /streɪt/。straight「まっすぐな・率直な」（形容詞・副詞）、strait「海峡／苦境」（名詞）。意味とスペルで判断。`,content:`## 音は同じ、意味とスペルで見分ける
 
 **straight と strait は同じ発音 /streɪt/（同音異義語）**。意味とスペルで決めます。
 
@@ -3929,7 +4001,19 @@ sociable も social も、名詞形をたどると society（社会）に行き�
 | strai**ght** | /streɪt/ | まっすぐな | Draw a **straight** line.（まっすぐな線を引いて） |
 | strai**t** | /streɪt/ | 海峡・苦境 | Ships pass through the **strait**.（船が海峡を通る） |
 
-🎯 覚え方：**「まっすぐ」は straight（-ght）、狭い水路の「海峡」は strait（-t）**。方向・率直さなら straight、海峡・苦境なら strait。`,keyPoints:[`straight と strait は同音 /streɪt/`,`straight＝まっすぐな・率直な・連続した（gh は無音）`,`strait＝海峡／苦境（in dire straits＝ひどい苦境で）`],quiz:[{id:`q-straight-1`,question:`空所に入る適切な語はどれですか。「The ferry crosses the ( ) in an hour.（フェリーは1時間で海峡を渡る）」`,options:[`strait`,`straight`,`straights`,`straits'`],correctAnswer:0,explanation:`狭い水路「海峡」は strait です。`},{id:`q-straight-2`,question:`「まっすぐな・率直な」という意味の語はどれですか。`,options:[`strait`,`straits`,`straiten`,`straight`],correctAnswer:3,explanation:`「まっすぐな」は straight /streɪt/ です。`},{id:`q-straight-3`,question:`straight と strait の発音の関係はどれですか。`,options:[`母音が違う`,`子音が違う`,`同じ発音（同音異義語）`,`アクセントが違う`],correctAnswer:2,explanation:`どちらも /streɪt/ で同音異義語です（gh は無音）。`},{id:`q-straight-4`,question:`空所に入る適切な語はどれですか。「Go ( ) ahead and turn left.（まっすぐ進んで左に曲がって）」`,options:[`strait`,`straits`,`straiten`,`straight`],correctAnswer:3,explanation:`「まっすぐ（進む）」は straight です。`},{id:`q-straight-5`,question:`「海峡／苦境」を意味するのはどちらですか。`,options:[`strait`,`straight`,`どちらも`,`どちらも違う`],correctAnswer:0,explanation:`海峡・苦境は strait。straight は「まっすぐな」です。`}]},{id:`pedal-peddle`,title:`pedal と peddle`,chapter:4,description:`同音 /ˈpɛdəl/。pedal「ペダル／（自転車を）こぐ」、peddle「（商品を）売り歩く・行商する」。意味とスペルで判断。`,content:`## 音は同じ、意味とスペルで見分ける
+🎯 覚え方：**「まっすぐ」は straight（-ght）、狭い水路の「海峡」は strait（-t）**。方向・率直さなら straight、海峡・苦境なら strait。
+
+### strait の中心義は「狭い・きつく締まった」
+
+strait はラテン語で「引き締める」を意味する語に由来し、海峡（左右の陸地に挟まれて狭くなった水路）だけでなく、strait-laced（堅苦しい・厳格すぎる）、straitjacket（拘束衣）という語にも同じ「狭く締め付ける」という中心義が残っています。straitjacket は精神科の患者を拘束するために袖を後ろで縛る衣服で、strait の原義そのままの命名です。
+
+### straightjacket という綴りは誤りだが広く見られる
+
+straitjacket は正しくは strait（狭い・きつい）の意味で綴られますが、straight（まっすぐな）と発音が同じため straightjacket という綴り間違いが辞書に代替表記として載るほど広まっています。同様に strait-laced も straight-laced と誤記されることが多く、strait の意味が忘れられ、straight の「まっすぐ・几帳面」という語感に引きずられた結果と考えられています。
+
+### in dire straits という決まり文句
+
+strait は現代英語では単独よりも複数形 straits で使われることが多く、in dire straits（切迫した苦境にある）という決まり文句が代表例です。dire（恐ろしい・切迫した）と組み合わさることで、「狭い水路に追い詰められて身動きが取れない」という原義がそのまま比喩として定着しています。`,keyPoints:[`straight と strait は同音 /streɪt/`,`straight＝まっすぐな・率直な・連続した（gh は無音）`,`strait＝海峡／苦境（in dire straits＝ひどい苦境で）`],quiz:[{id:`q-straight-1`,question:`空所に入る適切な語はどれですか。「The ferry crosses the ( ) in an hour.（フェリーは1時間で海峡を渡る）」`,options:[`strait`,`straight`,`straights`,`straits'`],correctAnswer:0,explanation:`狭い水路「海峡」は strait です。`},{id:`q-straight-2`,question:`「まっすぐな・率直な」という意味の語はどれですか。`,options:[`strait`,`straits`,`straiten`,`straight`],correctAnswer:3,explanation:`「まっすぐな」は straight /streɪt/ です。`},{id:`q-straight-3`,question:`straight と strait の発音の関係はどれですか。`,options:[`母音が違う`,`子音が違う`,`同じ発音（同音異義語）`,`アクセントが違う`],correctAnswer:2,explanation:`どちらも /streɪt/ で同音異義語です（gh は無音）。`},{id:`q-straight-4`,question:`空所に入る適切な語はどれですか。「Go ( ) ahead and turn left.（まっすぐ進んで左に曲がって）」`,options:[`strait`,`straits`,`straiten`,`straight`],correctAnswer:3,explanation:`「まっすぐ（進む）」は straight です。`},{id:`q-straight-5`,question:`「海峡／苦境」を意味するのはどちらですか。`,options:[`strait`,`straight`,`どちらも`,`どちらも違う`],correctAnswer:0,explanation:`海峡・苦境は strait。straight は「まっすぐな」です。`}]},{id:`pedal-peddle`,title:`pedal と peddle`,chapter:4,description:`同音 /ˈpɛdəl/。pedal「ペダル／（自転車を）こぐ」、peddle「（商品を）売り歩く・行商する」。意味とスペルで判断。`,content:`## 音は同じ、意味とスペルで見分ける
 
 **pedal と peddle は同じ発音 /ˈpɛdəl/（同音異義語）**。意味とスペルで決めます。
 
@@ -4114,7 +4198,19 @@ inn は現代の大型ホテルではなく、**昔ながらの小さな宿・�
 | **al**lusion | それとない言及 | The poem makes an **allusion** to the Bible.（その詩は聖書をそれとなく引く） |
 | **il**lusion | 錯覚・幻想 | The mirror creates an **illusion** of space.（鏡は空間の錯覚を生む） |
 
-🎯 覚え方：**al- の allusion は「（それとなく）言及」、il- の illusion は「錯覚・幻想（illusory）」**。ほのめかしなら allusion、目や心の錯覚なら illusion。`,keyPoints:[`allusion＝それとない言及・ほのめかし（allude の名詞）`,`illusion＝錯覚・幻想・思い違い`,`ほのめかしは allusion、錯覚は illusion`],quiz:[{id:`q-allusion-1`,question:`空所に入る適切な語はどれですか。「The magician created an optical ( ).（手品師は目の錯覚を作り出した）」`,options:[`allusion`,`illusion`,`allusions`,`illusory`],correctAnswer:1,explanation:`目の「錯覚」は optical illusion です。`},{id:`q-allusion-2`,question:`「それとない言及・ほのめかし」を表す語はどれですか。`,options:[`illusion`,`illusions`,`allusion`,`allude`],correctAnswer:2,explanation:`「それとない言及」は allusion です。`},{id:`q-allusion-3`,question:`空所に入る適切な語はどれですか。「Her speech contained an ( ) to Shakespeare.（彼女の演説はシェイクスピアをそれとなく引いた）」`,options:[`illusion`,`illusory`,`allusion`,`illusions`],correctAnswer:2,explanation:`「（〜への）それとない言及」は allusion です。`},{id:`q-allusion-4`,question:`「錯覚・幻想」を意味するのはどちらですか。`,options:[`allusion`,`illusion`,`どちらも`,`どちらも違う`],correctAnswer:1,explanation:`錯覚・幻想は illusion。ほのめかしは allusion です。`},{id:`q-allusion-5`,question:`空所に入る適切な語はどれですか。「He had no ( ) about his chances of winning.（勝つ見込みについて幻想は抱いていなかった）」`,options:[`allusions`,`allusion`,`allude`,`illusions`],correctAnswer:3,explanation:`「幻想・思い違い」は illusion（複数 illusions）です。`}]},{id:`eligible-illegible`,title:`eligible と illegible`,chapter:1,description:`eligible「（〜の）資格がある・適格な」、illegible「判読できない・読めない（字）」。まったく別の語。`,content:`## 「資格がある」か「読めない」かで見分ける
+🎯 覚え方：**al- の allusion は「（それとなく）言及」、il- の illusion は「錯覚・幻想（illusory）」**。ほのめかしなら allusion、目や心の錯覚なら illusion。
+
+### 三つ子の delusion も一緒に覚えると整理できる
+
+allusion・illusion と発音が近い語に delusion（妄想・思い込み）があります。illusion は錯視のように「事実と違って見える」現象を指すのに対し、delusion は本人が「事実と信じ込んでいる誤った考え」を指し、精神医学では a paranoid delusion（被害妄想）のように症状名としても使われます。allusion は音そのものが違う（言及）ので混同しにくいですが、illusion と delusion は意味も音も近く、三語まとめて「参照の allusion／見え方の illusion／思い込みの delusion」と整理すると区別しやすくなります。
+
+### allude という動詞から allusion の使われ方が見える
+
+allusion はもとの動詞 allude to（〜にそれとなく触れる）から作られた名詞です。The speech alluded to recent events without naming them.（そのスピーチは名指しせずに最近の出来事にそれとなく触れた）のように、allude/allusion は名指しを避けて間接的に指し示す行為を表し、直接引用する quote や、明示的に述べる mention とは違うニュアンスを持ちます。
+
+### illusion はエンタメから錯視科学まで使われる幅が広い
+
+illusion は magic trick（手品）のようなエンターテインメントの文脈にも、an optical illusion（目の錯覚）のような視覚科学の文脈にも使われる語です。an illusion of choice（選んでいるように見せかけた実は無い選択肢）のように、心理的な思い込みを指す比喩表現にも広がっており、allusion の「間接的な言及」という一点に絞られた用法とは対照的です。`,keyPoints:[`allusion＝それとない言及・ほのめかし（allude の名詞）`,`illusion＝錯覚・幻想・思い違い`,`ほのめかしは allusion、錯覚は illusion`],quiz:[{id:`q-allusion-1`,question:`空所に入る適切な語はどれですか。「The magician created an optical ( ).（手品師は目の錯覚を作り出した）」`,options:[`allusion`,`illusion`,`allusions`,`illusory`],correctAnswer:1,explanation:`目の「錯覚」は optical illusion です。`},{id:`q-allusion-2`,question:`「それとない言及・ほのめかし」を表す語はどれですか。`,options:[`illusion`,`illusions`,`allusion`,`allude`],correctAnswer:2,explanation:`「それとない言及」は allusion です。`},{id:`q-allusion-3`,question:`空所に入る適切な語はどれですか。「Her speech contained an ( ) to Shakespeare.（彼女の演説はシェイクスピアをそれとなく引いた）」`,options:[`illusion`,`illusory`,`allusion`,`illusions`],correctAnswer:2,explanation:`「（〜への）それとない言及」は allusion です。`},{id:`q-allusion-4`,question:`「錯覚・幻想」を意味するのはどちらですか。`,options:[`allusion`,`illusion`,`どちらも`,`どちらも違う`],correctAnswer:1,explanation:`錯覚・幻想は illusion。ほのめかしは allusion です。`},{id:`q-allusion-5`,question:`空所に入る適切な語はどれですか。「He had no ( ) about his chances of winning.（勝つ見込みについて幻想は抱いていなかった）」`,options:[`allusions`,`allusion`,`allude`,`illusions`],correctAnswer:3,explanation:`「幻想・思い違い」は illusion（複数 illusions）です。`}]},{id:`eligible-illegible`,title:`eligible と illegible`,chapter:1,description:`eligible「（〜の）資格がある・適格な」、illegible「判読できない・読めない（字）」。まったく別の語。`,content:`## 「資格がある」か「読めない」かで見分ける
 
 見た目が似ていますが、意味はまったく別です。
 
