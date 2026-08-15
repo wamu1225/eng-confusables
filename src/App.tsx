@@ -162,7 +162,7 @@ function Header({ route, navigate, menuOpen, setMenuOpen }: {
     <header className="site-header">
       <div className="header-inner">
         <a className="brand" href={`${BASE}/`} onClick={(e) => { e.preventDefault(); navigate({ view: 'home' }); }}>
-          まぎらわしい英単語ノート
+          まぎらわしい英単語・熟語ノート
         </a>
         <button className="menu-toggle" aria-label="メニュー" aria-expanded={menuOpen} onClick={() => setMenuOpen(!menuOpen)}>
           <span /><span /><span />
@@ -190,12 +190,12 @@ function Home({ navigate }: { navigate: (r: Route) => void }) {
     });
   }, [query, cat]);
 
-  const cats = [1, 2, 3, 4];
+  const cats = [1, 2, 3, 4, 5];
 
   return (
     <div className="home">
       <section className="hero">
-        <h1>まぎらわしい英単語を、引いて見分ける</h1>
+        <h1>まぎらわしい英単語・熟語を、引いて見分ける</h1>
         <p className="hero-lead">{SITE_META.approach}。{modules.length}組の混同ペアを、比較表とミニ問題でまとめました。</p>
         <div className="search-box">
           <Search size={18} aria-hidden="true" />
@@ -292,7 +292,7 @@ function AboutPage() {
       <h1>このサイトについて</h1>
 
       <h2>サイトの目的と対象</h2>
-      <p>「まぎらわしい英単語ノート」は、スペル・意味・品詞・発音が似ていて混同しやすい英単語のペアを、引いてすぐに違いと使い分けが分かるようにまとめた逆引きの比較リファレンスです。{SITE_META.audience}を主な対象としています。</p>
+      <p>「まぎらわしい英単語・熟語ノート」は、スペル・意味・品詞・発音が似ていて混同しやすい英単語のペア、および前置詞や副詞の違いで意味が変わる紛らわしい熟語・句動詞のペアを、引いてすぐに違いと使い分けが分かるようにまとめた逆引きの比較リファレンスです。{SITE_META.audience}を主な対象としています。</p>
 
       <h2>コンテンツ構成</h2>
       <p>混同しやすい語を「スペルが似ている語」「意味が近い語」「品詞・派生でまぎらわしい語」「発音が似ている語」の4カテゴリに分け、1ペア（または自然な語群）を1ページにまとめています。各ページに比較表・例文・覚え方・任意の確認問題を用意しています。</p>

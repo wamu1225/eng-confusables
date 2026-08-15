@@ -11,7 +11,7 @@ const DIST_DIR = path.resolve(process.cwd(), 'dist');
 const INDEX_HTML_PATH = path.join(DIST_DIR, 'index.html');
 const BASE = '/eng-confusables';
 const BASE_URL = 'https://study-apps.com/eng-confusables';
-const SITE_NAME = 'まぎらわしい英単語ノート';
+const SITE_NAME = 'まぎらわしい英単語・熟語ノート';
 
 const esc = (s: string) => s.replace(/&/g, '&amp;').replace(/</g, '&lt;').replace(/>/g, '&gt;').replace(/"/g, '&quot;');
 
@@ -88,10 +88,10 @@ const catListHtml = (() => {
   }).join('\n');
 })();
 
-const homeDesc = '似て混同しやすい英単語を、引いてすぐ違いと使い分けがわかる逆引きの比較リファレンス。';
+const homeDesc = '似て混同しやすい英単語・熟語を、引いてすぐ違いと使い分けがわかる逆引きの比較リファレンス。';
 const homeFallback = `${banner}${articleOpen}
   <h1 style="font-size:1.7rem;font-weight:700;border-bottom:2px solid #2f4b7c;padding-bottom:8px;margin-bottom:14px">${SITE_NAME}</h1>
-  <p style="color:#555b66;margin-bottom:18px">${homeDesc}スペル・意味・品詞・発音が似ている${modules.length}組の混同ペアを、比較表と例文でまとめています。</p>
+  <p style="color:#555b66;margin-bottom:18px">${homeDesc}スペル・意味・品詞・発音が似ている、または前置詞・副詞の使い方でまぎらわしい${modules.length}組の混同ペアを、比較表と例文でまとめています。</p>
   ${catListHtml}
   <nav style="margin-top:28px;border-top:1px solid #e2dfd7;padding-top:16px;display:flex;gap:16px;flex-wrap:wrap">
     <a href="${BASE}/about/" style="color:#2f4b7c">このサイトについて</a>
@@ -178,14 +178,14 @@ for (const mod of modules) {
 }
 
 // ── About / Privacy ──
-writePage('about', `このサイトについて | ${SITE_NAME}`, 'まぎらわしい英単語ノートの目的・コンテンツ構成・編集制作方針・運営者・お問い合わせ・免責事項について。',
+writePage('about', `このサイトについて | ${SITE_NAME}`, 'まぎらわしい英単語・熟語ノートの目的・コンテンツ構成・編集制作方針・運営者・お問い合わせ・免責事項について。',
   `${banner}${articleOpen}
   <nav style="margin-bottom:14px"><a href="${BASE}/" style="color:#2f4b7c;text-decoration:none">← さがす</a></nav>
   <h1 style="font-size:1.6rem;font-weight:700;border-bottom:2px solid #2f4b7c;padding-bottom:8px;margin-bottom:18px">このサイトについて</h1>
   <h2 style="font-size:1.12rem;margin:18px 0 6px">サイトの目的と対象</h2>
-  <p style="color:#555b66">「${SITE_NAME}」は、スペル・意味・品詞・発音が似て混同しやすい英単語のペアを、引いてすぐ違いと使い分けが分かるようにまとめた逆引きの比較リファレンスです。大学受験・TOEIC・英検の学習者や、英語を学び直す社会人を主な対象としています。</p>
+  <p style="color:#555b66">「${SITE_NAME}」は、スペル・意味・品詞・発音が似て混同しやすい英単語のペア、および前置詞や副詞の違いで意味が変わる紛らわしい熟語・句動詞のペアを、引いてすぐ違いと使い分けが分かるようにまとめた逆引きの比較リファレンスです。大学受験・TOEIC・英検の学習者や、英語を学び直す社会人を主な対象としています。</p>
   <h2 style="font-size:1.12rem;margin:18px 0 6px">コンテンツ構成</h2>
-  <p style="color:#555b66">混同しやすい語を「スペルが似ている語」「意味が近い語」「品詞・派生でまぎらわしい語」「発音が似ている語」の4カテゴリに分け、1ペア（または自然な語群）を1ページにまとめています。各ページに比較表・例文・覚え方・任意の確認問題を用意しています。</p>
+  <p style="color:#555b66">混同しやすい語を「スペルが似ている語」「意味が近い語」「品詞・派生でまぎらわしい語」「発音が似ている語」「熟語・句動詞でまぎらわしいもの」の5カテゴリに分け、1ペア（または自然な語群）を1ページにまとめています。各ページに比較表・例文・覚え方・任意の確認問題を用意しています。</p>
   <h2 style="font-size:1.12rem;margin:18px 0 6px">編集・制作方針</h2>
   <p style="color:#555b66">各語の意味・品詞・自他・発音は辞書（Cambridge・Merriam-Webster・Wiktionary など）で事実を確認したうえで、解説はすべて運営者が自分のことばで書き起こし、例文も自作しています。辞書の定義文や例文をそのまま転載することはしていません。確認できない語法は載せていません。誤りに気づいた場合は随時修正します。</p>
   <h2 style="font-size:1.12rem;margin:18px 0 6px">運営者について</h2>
@@ -197,7 +197,7 @@ writePage('about', `このサイトについて | ${SITE_NAME}`, 'まぎらわ�
 </article>`,
   { '@context': 'https://schema.org', '@type': 'AboutPage', name: 'このサイトについて', url: `${BASE_URL}/about/`, inLanguage: 'ja' });
 
-writePage('privacy', `プライバシーポリシー | ${SITE_NAME}`, 'まぎらわしい英単語ノートのプライバシーポリシー。Google Analytics・AdSense・Cookie の利用と無効化方法、免責、お問い合わせについて。',
+writePage('privacy', `プライバシーポリシー | ${SITE_NAME}`, 'まぎらわしい英単語・熟語ノートのプライバシーポリシー。Google Analytics・AdSense・Cookie の利用と無効化方法、免責、お問い合わせについて。',
   `${banner}${articleOpen}
   <nav style="margin-bottom:14px"><a href="${BASE}/" style="color:#2f4b7c;text-decoration:none">← さがす</a></nav>
   <h1 style="font-size:1.6rem;font-weight:700;border-bottom:2px solid #2f4b7c;padding-bottom:8px;margin-bottom:18px">プライバシーポリシー</h1>
