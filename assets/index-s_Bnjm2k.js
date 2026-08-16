@@ -1723,7 +1723,19 @@ council のメンバーは councillor（議員・評議員）と綴り、counsel
 | c**oa**rse | /kɔːrs/ | 形容詞：粗い | The sand here is **coarse**.（ここの砂は粒が粗い） |
 | c**ou**rse | /kɔːrs/ | 名詞：course・進路 | I took an English **course**.（英語の講座を受けた） |
 
-🎯 覚え方：**course には “our（私たちの）進む道” が入り「進路・course」**。ざらざら「粗い」は coarse。授業・進路・料理なら course。`,keyPoints:[`coarse と course は同音 /kɔːrs/`,`coarse＝形容詞「粗い・ざらざらの」（反対は fine）`,`course＝course・進路・料理の一品（of course）`],quiz:[{id:`q-coarse-1`,question:`空所に入る適切な語はどれですか。「I signed up for a cooking ( ).（料理のcourseに申し込んだ）」`,options:[`coarse`,`course`,`cause`,`curse`],correctAnswer:1,explanation:`「course・講座」は course です。`},{id:`q-coarse-2`,question:`「きめが粗い・ざらざらの」という意味の語はどれですか。`,options:[`course`,`cause`,`curse`,`coarse`],correctAnswer:3,explanation:`形容詞「粗い」は coarse /kɔːrs/ です。`},{id:`q-coarse-3`,question:`coarse と course の発音の関係はどれですか。`,options:[`母音が違う`,`子音が違う`,`同じ発音（同音異義語）`,`アクセントが違う`],correctAnswer:2,explanation:`どちらも /kɔːrs/ で同音異義語です。`},{id:`q-coarse-4`,question:`空所に入る適切な語はどれですか。「Use ( ) salt for this recipe.（このレシピには粗塩を使って）」`,options:[`course`,`cause`,`curse`,`coarse`],correctAnswer:3,explanation:`「粗い（塩）」は coarse です。`},{id:`q-coarse-5`,question:`空所に入る適切な語はどれですか。「Of ( ), you can join us.（もちろん参加していいよ）」`,options:[`coarse`,`course`,`cause`,`curse`],correctAnswer:1,explanation:`成句 of course「もちろん」の course です。`}]},{id:`teach-learn`,title:`teach と learn`,chapter:2,description:`向きが逆。teach は「（人に）教える」、learn は「（自分が）学ぶ・覚える」。`,content:`## だれからだれへかで見分ける
+🎯 覚え方：**course には “our（私たちの）進む道” が入り「進路・course」**。ざらざら「粗い」は coarse。授業・進路・料理なら course。
+
+### course はラテン語「流れ・進路」に由来する語
+
+course はラテン語 cursus（走ること・進路・水の流れ）に由来し、a river's course（川の流れ）、the course of history（歴史の流れ）のように、時間や空間を通って進んでいくイメージで幅広く使われます。in due course（しかるべき時が来れば）という成句は法律用語から広まったとされ、「物事には自然な進み方がある」という course の中心義がそのまま残っています。
+
+### of course はほぼ決まり文句として機能する
+
+course を使った最も頻度の高い言い方は of course（もちろん）で、この形では「進路」という意味の名残がほとんど意識されません。off course（進路を外れて）と発音・綴りが近く、飛行機や船が予定の航路を外れる場面で使われる off course との混同にも注意が必要です。
+
+### coarse には人の振る舞いを評する用法がある
+
+coarse は物の手触りだけでなく、coarse language（下品な言葉遣い）、coarse manners（粗野な振る舞い）のように、人の言動の品位の低さを評する形容詞としても使われます。布や砂の「粒が粗い」という物理的な感触から、「洗練されていない」という比喩的な意味へ広がっている点は、日本語の「粗野」という言葉が持つ二重の意味と似た構造です。`,keyPoints:[`coarse と course は同音 /kɔːrs/`,`coarse＝形容詞「粗い・ざらざらの」（反対は fine）`,`course＝course・進路・料理の一品（of course）`],quiz:[{id:`q-coarse-1`,question:`空所に入る適切な語はどれですか。「I signed up for a cooking ( ).（料理のcourseに申し込んだ）」`,options:[`coarse`,`course`,`cause`,`curse`],correctAnswer:1,explanation:`「course・講座」は course です。`},{id:`q-coarse-2`,question:`「きめが粗い・ざらざらの」という意味の語はどれですか。`,options:[`course`,`cause`,`curse`,`coarse`],correctAnswer:3,explanation:`形容詞「粗い」は coarse /kɔːrs/ です。`},{id:`q-coarse-3`,question:`coarse と course の発音の関係はどれですか。`,options:[`母音が違う`,`子音が違う`,`同じ発音（同音異義語）`,`アクセントが違う`],correctAnswer:2,explanation:`どちらも /kɔːrs/ で同音異義語です。`},{id:`q-coarse-4`,question:`空所に入る適切な語はどれですか。「Use ( ) salt for this recipe.（このレシピには粗塩を使って）」`,options:[`course`,`cause`,`curse`,`coarse`],correctAnswer:3,explanation:`「粗い（塩）」は coarse です。`},{id:`q-coarse-5`,question:`空所に入る適切な語はどれですか。「Of ( ), you can join us.（もちろん参加していいよ）」`,options:[`coarse`,`course`,`cause`,`curse`],correctAnswer:1,explanation:`成句 of course「もちろん」の course です。`}]},{id:`teach-learn`,title:`teach と learn`,chapter:2,description:`向きが逆。teach は「（人に）教える」、learn は「（自分が）学ぶ・覚える」。`,content:`## だれからだれへかで見分ける
 
 知識が動く向きが逆です。**教える側か、学ぶ側か**で使い分けます。
 
@@ -2153,7 +2165,19 @@ belief/believe と同じく、**-f（relief）が名詞、-ve（relieve）が動
 | make | 作り出す・生じさせる | make dinner / make a plan / make noise |
 | do | 行う・こなす | do homework / do the laundry / do business |
 
-🎯 覚え方：**結果として「モノ・状態が生まれる」なら make、「作業・行為をこなす」なら do**。多くは決まった組み合わせ（コロケーション）で覚えます。`,keyPoints:[`make＝（新しく）作り出す・生じさせる（make a plan/mistake）`,`do＝（行為・仕事）を行う・こなす（do homework/the dishes）`,`多くは決まった組み合わせで覚える`],quiz:[{id:`q-make-1`,question:`空所に入る適切な語はどれですか。「I have to ( ) my homework tonight.（今夜は宿題をしなければ）」`,options:[`make`,`do`,`made`,`makes`],correctAnswer:1,explanation:`homework は「do homework」。行為をこなす do です。`},{id:`q-make-2`,question:`空所に入る適切な語はどれですか。「Let's ( ) a plan for the trip.（旅行の計画を立てよう）」`,options:[`do`,`make`,`did`,`does`],correctAnswer:1,explanation:`「計画を立てる（作り出す）」は make a plan です。`},{id:`q-make-3`,question:`空所に入る適切な語はどれですか。「Please ( ) the dishes after dinner.（夕食後に皿洗いをして）」`,options:[`make`,`do`,`made`,`makes`],correctAnswer:1,explanation:`「皿洗いをする」は do the dishes です。`},{id:`q-make-4`,question:`「新しく作り出す・生じさせる」を表すのはどちらですか。`,options:[`do`,`make`,`どちらも`,`どちらも違う`],correctAnswer:1,explanation:`作り出すのは make、行為をこなすのは do です。`},{id:`q-make-5`,question:`空所に入る適切な語はどれですか。「Everyone ( ) mistakes sometimes.（誰でも時には間違える）」`,options:[`does`,`did`,`done`,`makes`],correctAnswer:3,explanation:`「間違える」は make a mistake。生じさせる make です。`}]},{id:`damage-injure`,title:`damage と injure`,chapter:2,description:`対象が違う。damage は「（物・もの）に損害を与える」、injure は「（人・体・動物）を傷つける・負傷させる」。`,content:`## 物か、人（体）かで見分ける
+🎯 覚え方：**結果として「モノ・状態が生まれる」なら make、「作業・行為をこなす」なら do**。多くは決まった組み合わせ（コロケーション）で覚えます。
+
+### make do with という成句の make do は特殊な形
+
+make do（工夫してやりくりする）は、ここまで見てきた「モノを作り出す」make とは別枠の成句で、make do with what you have（今あるもので済ませる）のように、不十分な材料や条件のまま何とか対処するという意味です。第二次世界大戦中のイギリスで物資不足を乗り切るために使われた make do and mend（あるもので済ませ、直して使う）という国のスローガンが、この言い方を広めたとされています。
+
+### do は一般動詞と助動詞の二重の顔を持つ
+
+do は do the dishes のような一般動詞のほかに、Do you like coffee?（疑問文）や I don't know.（否定文）を作る助動詞としても働きます。make にはこの助動詞の働きがありません。文の骨組みを作る道具としての do と、行為の内容を表す一般動詞としての do は、同じ綴りでも役割がまったく異なります。
+
+### 動作の主体が「作る側」か「担う側」かで見分ける
+
+make a decision（決定を下す）は「決定」という新しい状態をゼロから生み出す動作、do one's duty（義務を果たす）は既に存在する「義務」という枠組みを自分の行動でこなす動作です。迷ったときは、対象がその場で初めて生まれるものか、すでに決まっている務めや作業かを考えると、make と do のどちらを選ぶべきかの手がかりになります。`,keyPoints:[`make＝（新しく）作り出す・生じさせる（make a plan/mistake）`,`do＝（行為・仕事）を行う・こなす（do homework/the dishes）`,`多くは決まった組み合わせで覚える`],quiz:[{id:`q-make-1`,question:`空所に入る適切な語はどれですか。「I have to ( ) my homework tonight.（今夜は宿題をしなければ）」`,options:[`make`,`do`,`made`,`makes`],correctAnswer:1,explanation:`homework は「do homework」。行為をこなす do です。`},{id:`q-make-2`,question:`空所に入る適切な語はどれですか。「Let's ( ) a plan for the trip.（旅行の計画を立てよう）」`,options:[`do`,`make`,`did`,`does`],correctAnswer:1,explanation:`「計画を立てる（作り出す）」は make a plan です。`},{id:`q-make-3`,question:`空所に入る適切な語はどれですか。「Please ( ) the dishes after dinner.（夕食後に皿洗いをして）」`,options:[`make`,`do`,`made`,`makes`],correctAnswer:1,explanation:`「皿洗いをする」は do the dishes です。`},{id:`q-make-4`,question:`「新しく作り出す・生じさせる」を表すのはどちらですか。`,options:[`do`,`make`,`どちらも`,`どちらも違う`],correctAnswer:1,explanation:`作り出すのは make、行為をこなすのは do です。`},{id:`q-make-5`,question:`空所に入る適切な語はどれですか。「Everyone ( ) mistakes sometimes.（誰でも時には間違える）」`,options:[`does`,`did`,`done`,`makes`],correctAnswer:3,explanation:`「間違える」は make a mistake。生じさせる make です。`}]},{id:`damage-injure`,title:`damage と injure`,chapter:2,description:`対象が違う。damage は「（物・もの）に損害を与える」、injure は「（人・体・動物）を傷つける・負傷させる」。`,content:`## 物か、人（体）かで見分ける
 
 どちらも「傷つける・損なう」ですが、**対象が「物」か「人・体」か**で使い分けます。
 
@@ -2767,7 +2791,19 @@ the luxury of ~ing（〜するというぜいたく）という形もよく使�
 | healthy | 健康な（状態） | She is a **healthy** young woman.（彼女は健康な若い女性だ） |
 | healthful | 健康に良い（促す） | A **healthful** diet includes vegetables.（健康的な食事には野菜が入る） |
 
-🎯 覚え方：**「（人が）健康である」は healthy、「（食事などが）健康に良い」は healthful**。ただし現代英語では healthy が「健康に良い」の意味でも広く使われます（a healthy diet も一般的）。試験では区別を問われることがあります。`,keyPoints:[`healthy＝健康な・健康的な（人・状態）`,`healthful＝健康に良い・健康を促す（食べ物・環境）`,`現代英語では healthy が両方に使われる傾向（試験では区別）`],quiz:[{id:`q-healthy-1`,question:`伝統的な使い分けで「健康に良い（健康を促す）食べ物」に使われるのはどちらですか。`,options:[`healthy`,`どちらも不可`,`healthful`,`health`],correctAnswer:2,explanation:`伝統的には「健康を促す」は healthful です（現代では healthy も可）。`},{id:`q-healthy-2`,question:`空所に入る適切な語はどれですか。「Regular exercise keeps you ( ).（定期的な運動は健康を保つ）」`,options:[`healthful`,`health`,`healthfully`,`healthy`],correctAnswer:3,explanation:`「（人が）健康である」は healthy です。`},{id:`q-healthy-3`,question:`「（人・状態が）健康な」を表すのはどちらですか。`,options:[`healthful`,`healthy`,`どちらも`,`どちらも違う`],correctAnswer:1,explanation:`人・状態の「健康な」は healthy。「健康に良い」は healthful です。`},{id:`q-healthy-4`,question:`空所に入る適切な語はどれですか。「They grow ( ) crops without chemicals.（彼らは化学薬品なしで健康な作物を育てる）」`,options:[`healthful`,`health`,`healthfully`,`healthy`],correctAnswer:3,explanation:`「（作物が）健康な・元気な」は healthy です。`},{id:`q-healthy-5`,question:`接尾辞 -ful がつき「健康に良い（促す）」を表すのはどちらですか。`,options:[`healthful`,`healthy`,`どちらも`,`どちらも違う`],correctAnswer:0,explanation:`healthful（-ful＝健康を与える）が「健康に良い」です。`}]},{id:`night-knight`,title:`night と knight`,chapter:4,description:`同音 /naɪt/。night「夜」（名詞）、knight「騎士」（名詞・k は無音）。意味とスペルで判断。`,content:`## 音は同じ、意味とスペルで見分ける
+🎯 覚え方：**「（人が）健康である」は healthy、「（食事などが）健康に良い」は healthful**。ただし現代英語では healthy が「健康に良い」の意味でも広く使われます（a healthy diet も一般的）。試験では区別を問われることがあります。
+
+### -y と -ful の接尾辞が向きを分けている
+
+healthy は名詞 health に -y（〜の性質を持つ）が付いた形で、「健康という性質そのものを持っている」対象、つまり人や体の状態を直接指します。healthful は health に -ful（〜で満たす）が付いた形で、「健康を満たしてくれる」対象、つまり健康の原因となるものを指します。同じ組み立ては beauty→beautiful（美を持つ→美で満たす）にも見られ、-y は性質の保有、-ful は性質を与える働きという役割分担が英語の派生語に共通しています。
+
+### 現代英語で使い分けが薄れた理由
+
+伝統的な区別は辞書や文法書には残っていますが、実際の会話や記事では healthy diet、healthy food のように healthy が「健康に良い」の意味でも圧倒的に多く使われます。healthful はやや古風・形式的な響きを持つ語になっており、日常会話ではほとんど使われません。試験問題としては伝統的な区別が出題されることがあるため、healthful が「促す」側の語だと知っておく価値があります。
+
+### unhealthy が引き受ける範囲の広さ
+
+否定形の unhealthy は、healthy と healthful の両方の否定的な意味をまとめて引き受けています。an unhealthy person（不健康な人）にも、an unhealthy diet（不健康な食事）にも同じ unhealthy が使え、unhealthful という語はほとんど使われません。肯定形では分かれていた区別が、否定形では healthy 側に吸収されているのも、healthy の使用範囲の広さを示しています。`,keyPoints:[`healthy＝健康な・健康的な（人・状態）`,`healthful＝健康に良い・健康を促す（食べ物・環境）`,`現代英語では healthy が両方に使われる傾向（試験では区別）`],quiz:[{id:`q-healthy-1`,question:`伝統的な使い分けで「健康に良い（健康を促す）食べ物」に使われるのはどちらですか。`,options:[`healthy`,`どちらも不可`,`healthful`,`health`],correctAnswer:2,explanation:`伝統的には「健康を促す」は healthful です（現代では healthy も可）。`},{id:`q-healthy-2`,question:`空所に入る適切な語はどれですか。「Regular exercise keeps you ( ).（定期的な運動は健康を保つ）」`,options:[`healthful`,`health`,`healthfully`,`healthy`],correctAnswer:3,explanation:`「（人が）健康である」は healthy です。`},{id:`q-healthy-3`,question:`「（人・状態が）健康な」を表すのはどちらですか。`,options:[`healthful`,`healthy`,`どちらも`,`どちらも違う`],correctAnswer:1,explanation:`人・状態の「健康な」は healthy。「健康に良い」は healthful です。`},{id:`q-healthy-4`,question:`空所に入る適切な語はどれですか。「They grow ( ) crops without chemicals.（彼らは化学薬品なしで健康な作物を育てる）」`,options:[`healthful`,`health`,`healthfully`,`healthy`],correctAnswer:3,explanation:`「（作物が）健康な・元気な」は healthy です。`},{id:`q-healthy-5`,question:`接尾辞 -ful がつき「健康に良い（促す）」を表すのはどちらですか。`,options:[`healthful`,`healthy`,`どちらも`,`どちらも違う`],correctAnswer:0,explanation:`healthful（-ful＝健康を与える）が「健康に良い」です。`}]},{id:`night-knight`,title:`night と knight`,chapter:4,description:`同音 /naɪt/。night「夜」（名詞）、knight「騎士」（名詞・k は無音）。意味とスペルで判断。`,content:`## 音は同じ、意味とスペルで見分ける
 
 **night と knight は同じ発音 /naɪt/（同音異義語）**。knight の **k は発音しません**。
 
@@ -2861,7 +2897,19 @@ imply の名詞形は implication（含意・暗示）、infer の名詞形は i
 | refuse | 申し出／refuse to do | 断る | He **refused** to answer.（彼は答えるのを拒んだ） |
 | reject | 案・応募・品 | 却下・不合格 | The committee **rejected** the plan.（委員会は案を却下した） |
 
-🎯 覚え方：**refuse は「〜するのを断る（refuse to do）」に使える**、reject は「（審査して）退ける・不合格」。応募や提案を「却下」なら reject、依頼を「断る」なら refuse。`,keyPoints:[`refuse＝（申し出・依頼）を断る（refuse to do）`,`reject＝（案・応募・品）を拒絶・却下・不合格にする`,`「〜するのを断る」は refuse to do、審査で退けるは reject`],quiz:[{id:`q-refuse-1`,question:`空所に入る適切な語はどれですか。「The publisher ( ) his manuscript.（出版社は彼の原稿を却下した）」`,options:[`rejected`,`refused`,`refuses`,`refuse`],correctAnswer:0,explanation:`審査して「却下する」は reject です。`},{id:`q-refuse-2`,question:`空所に入る適切な語はどれですか。「She ( ) to sign the contract.（彼女は契約書への署名を拒んだ）」`,options:[`rejected`,`rejects`,`refused`,`reject`],correctAnswer:2,explanation:`refuse to do「〜するのを拒む」の refused です。`},{id:`q-refuse-3`,question:`「refuse to do（〜するのを断る）」の形をとるのはどちらですか。`,options:[`reject`,`refuse`,`どちらも`,`どちらも違う`],correctAnswer:1,explanation:`refuse to do。reject は reject to do とは言いません。`},{id:`q-refuse-4`,question:`空所に入る適切な語はどれですか。「Her application was ( ).（彼女の応募は不合格になった）」`,options:[`rejected`,`refused`,`refuse`,`refuses`],correctAnswer:0,explanation:`応募が「不合格・却下」は reject（受け身 rejected）です。`},{id:`q-refuse-5`,question:`依頼・申し出を「きっぱり断る」のはどちらですか。`,options:[`reject`,`refuse`,`どちらも`,`どちらも違う`],correctAnswer:1,explanation:`申し出・依頼を断るのは refuse が中心です。`}]},{id:`notice-realize`,title:`notice と realize`,chapter:2,description:`notice は五感で「気づく・目に留める」、realize は頭で「（重要さ・事実を）はっきり理解する・悟る」。`,content:`## 感覚か、理解かで見分ける
+🎯 覚え方：**refuse は「〜するのを断る（refuse to do）」に使える**、reject は「（審査して）退ける・不合格」。応募や提案を「却下」なら reject、依頼を「断る」なら refuse。
+
+### 語源から見た意志の向き
+
+refuse はラテン語 refundere（注ぎ戻す）に由来し、差し出されたものを「押し返す・受け取らない」という一方的な拒絶のイメージを持ちます。reject はラテン語 reicere（投げ返す）に由来し、いったん検討したうえで「投げ返す・退ける」という評価・選別のプロセスを経たニュアンスを持ちます。同じ「re-（戻す）」を含みながら、注ぐ動作と投げる動作という異なる原義が、受け取らない refuse と審査して落とす reject の違いに対応しています。
+
+### refuse は物にも人にも使える柔軟さがある
+
+refuse は refuse a gift（贈り物を受け取らない）、refuse an offer（申し出を断る）のように、抽象的な申し出だけでなく具体的な物にも使えます。reject もplant reject a graft（移植片を拒絶する）のように医学用語（拒絶反応＝rejection）としても使われ、この場合は身体が異物を「受け入れない」という判定のニュアンスが生きています。
+
+### 名詞形が示す結果の重さ
+
+refusal（拒否）は一回の断りを指す比較的軽い名詞ですが、rejection（拒絶・却下）は不合格通知や失恋など、人の心に残るような重い結果を指すことが多い語です。a rejection letter（不採用通知）という定型句があるように、reject 側は「選考の結果として退けられた」という制度的な重みを伴う場面でよく使われます。`,keyPoints:[`refuse＝（申し出・依頼）を断る（refuse to do）`,`reject＝（案・応募・品）を拒絶・却下・不合格にする`,`「〜するのを断る」は refuse to do、審査で退けるは reject`],quiz:[{id:`q-refuse-1`,question:`空所に入る適切な語はどれですか。「The publisher ( ) his manuscript.（出版社は彼の原稿を却下した）」`,options:[`rejected`,`refused`,`refuses`,`refuse`],correctAnswer:0,explanation:`審査して「却下する」は reject です。`},{id:`q-refuse-2`,question:`空所に入る適切な語はどれですか。「She ( ) to sign the contract.（彼女は契約書への署名を拒んだ）」`,options:[`rejected`,`rejects`,`refused`,`reject`],correctAnswer:2,explanation:`refuse to do「〜するのを拒む」の refused です。`},{id:`q-refuse-3`,question:`「refuse to do（〜するのを断る）」の形をとるのはどちらですか。`,options:[`reject`,`refuse`,`どちらも`,`どちらも違う`],correctAnswer:1,explanation:`refuse to do。reject は reject to do とは言いません。`},{id:`q-refuse-4`,question:`空所に入る適切な語はどれですか。「Her application was ( ).（彼女の応募は不合格になった）」`,options:[`rejected`,`refused`,`refuse`,`refuses`],correctAnswer:0,explanation:`応募が「不合格・却下」は reject（受け身 rejected）です。`},{id:`q-refuse-5`,question:`依頼・申し出を「きっぱり断る」のはどちらですか。`,options:[`reject`,`refuse`,`どちらも`,`どちらも違う`],correctAnswer:1,explanation:`申し出・依頼を断るのは refuse が中心です。`}]},{id:`notice-realize`,title:`notice と realize`,chapter:2,description:`notice は五感で「気づく・目に留める」、realize は頭で「（重要さ・事実を）はっきり理解する・悟る」。`,content:`## 感覚か、理解かで見分ける
 
 どちらも「気づく」ですが、**感覚でとらえるか、頭で理解するか**で使い分けます。
 
@@ -3941,7 +3989,19 @@ Please sit down. はどんな場面でも使える中立的な言い方ですが
 | intellig**ent** | 人・生物 | 頭がいい | She is an **intelligent** student.（彼女は聡明な生徒だ） |
 | intellig**ible** | 言葉・説明 | 理解できる | His speech was barely **intelligible**.（彼の話はほとんど聞き取れなかった） |
 
-🎯 覚え方：**-ent の intelligent は「（人が）頭がいい」**、-ible の intelligible は「（言葉が）理解できる」。人の賢さなら intelligent、説明の分かりやすさなら intelligible。`,keyPoints:[`intelligent＝頭がいい・知的な（人・生物）`,`intelligible＝（言葉・説明が）理解できる・分かりやすい`,`人の賢さは intelligent、言葉の明瞭さは intelligible`],quiz:[{id:`q-intelligent-1`,question:`空所に入る適切な語はどれですか。「The recording was not ( ) due to noise.（雑音で録音が聞き取れなかった）」`,options:[`intelligible`,`intelligent`,`intelligence`,`intelligently`],correctAnswer:0,explanation:`言葉・音声が「理解できる」は intelligible です。`},{id:`q-intelligent-2`,question:`「頭がいい・知的な」という意味の語はどれですか。`,options:[`intelligent`,`intelligible`,`intelligence`,`intelligibly`],correctAnswer:0,explanation:`人が「頭がいい」は intelligent です。`},{id:`q-intelligent-3`,question:`空所に入る適切な語はどれですか。「Dolphins are highly ( ) animals.（イルカは非常に知的な動物だ）」`,options:[`intelligent`,`intelligible`,`intelligence`,`intelligibly`],correctAnswer:0,explanation:`生物が「知的な」は intelligent です。`},{id:`q-intelligent-4`,question:`言葉・説明が「理解できる・分かりやすい」を表すのはどちらですか。`,options:[`intelligible`,`intelligent`,`どちらも`,`どちらも違う`],correctAnswer:0,explanation:`intelligible が「理解できる」。intelligent は「頭がいい」です。`},{id:`q-intelligent-5`,question:`空所に入る適切な語はどれですか。「Please write in clear, ( ) English.（明快で分かりやすい英語で書いて）」`,options:[`intelligible`,`intelligent`,`intelligence`,`intelligently`],correctAnswer:0,explanation:`文章が「理解できる・分かりやすい」は intelligible です。`}]},{id:`sociable-social`,title:`sociable と social`,chapter:3,description:`sociable「社交的な・人付き合いのよい」（人の性格）、social「社会の・社交（に関する）」（社会・集まり全般）。`,content:`## 性格か、社会・集まり全般かで見分ける
+🎯 覚え方：**-ent の intelligent は「（人が）頭がいい」**、-ible の intelligible は「（言葉が）理解できる」。人の賢さなら intelligent、説明の分かりやすさなら intelligible。
+
+### mutually intelligible という言語学の専門用語
+
+intelligible は言語学で mutually intelligible languages（相互に理解可能な言語）という専門用語として使われます。スペイン語とポルトガル語のように、系統が近い言語同士で、特別に学習しなくても互いにある程度理解できる関係を指す語で、intelligible の「（学ばなくても）理解できる」という核となる意味がそのまま専門用語に転用されています。
+
+### -ible/-able は「〜できる」を作る生産的な接尾辞
+
+intelligible の -ible は、readable（読める）、understandable（理解できる）と同じ「〜されることができる」という受け身の可能性を表す接尾辞です。intelligent の -ent は現在分詞に由来し、「（自ら）〜している」という能動的な性質を表します。この接尾辞の違いが、「自ら考える」intelligent と「（他者から見て）理解される」intelligible という主体の向きの違いに対応しています。
+
+### 反対語で確認すると意味の違いがはっきりする
+
+intelligent の反対語は stupid や unintelligent（愚かな）で、人の能力の評価です。intelligible の反対語は unintelligible や incomprehensible（理解不能な）で、伝わり方の評価です。His mumbling was unintelligible.（彼のつぶやきは聞き取れなかった）を He is unintelligent. と言い換えると、話し方の問題を人格の評価にすり替えてしまう誤りになります。`,keyPoints:[`intelligent＝頭がいい・知的な（人・生物）`,`intelligible＝（言葉・説明が）理解できる・分かりやすい`,`人の賢さは intelligent、言葉の明瞭さは intelligible`],quiz:[{id:`q-intelligent-1`,question:`空所に入る適切な語はどれですか。「The recording was not ( ) due to noise.（雑音で録音が聞き取れなかった）」`,options:[`intelligible`,`intelligent`,`intelligence`,`intelligently`],correctAnswer:0,explanation:`言葉・音声が「理解できる」は intelligible です。`},{id:`q-intelligent-2`,question:`「頭がいい・知的な」という意味の語はどれですか。`,options:[`intelligent`,`intelligible`,`intelligence`,`intelligibly`],correctAnswer:0,explanation:`人が「頭がいい」は intelligent です。`},{id:`q-intelligent-3`,question:`空所に入る適切な語はどれですか。「Dolphins are highly ( ) animals.（イルカは非常に知的な動物だ）」`,options:[`intelligent`,`intelligible`,`intelligence`,`intelligibly`],correctAnswer:0,explanation:`生物が「知的な」は intelligent です。`},{id:`q-intelligent-4`,question:`言葉・説明が「理解できる・分かりやすい」を表すのはどちらですか。`,options:[`intelligible`,`intelligent`,`どちらも`,`どちらも違う`],correctAnswer:0,explanation:`intelligible が「理解できる」。intelligent は「頭がいい」です。`},{id:`q-intelligent-5`,question:`空所に入る適切な語はどれですか。「Please write in clear, ( ) English.（明快で分かりやすい英語で書いて）」`,options:[`intelligible`,`intelligent`,`intelligence`,`intelligently`],correctAnswer:0,explanation:`文章が「理解できる・分かりやすい」は intelligible です。`}]},{id:`sociable-social`,title:`sociable と social`,chapter:3,description:`sociable「社交的な・人付き合いのよい」（人の性格）、social「社会の・社交（に関する）」（社会・集まり全般）。`,content:`## 性格か、社会・集まり全般かで見分ける
 
 同じ語源ですが、focus が違います。
 
@@ -4025,7 +4085,19 @@ strait は現代英語では単独よりも複数形 straits で使われるこ�
 | pe**d**al | /ˈpɛdəl/ | ペダル／こぐ | She **pedaled** up the hill.（彼女は坂をこいで上った） |
 | pe**dd**le | /ˈpɛdəl/ | 売り歩く | They **peddle** goods on the street.（彼らは路上で品物を売り歩く） |
 
-🎯 覚え方：**足でこぐ「ペダル」は pedal（ped-＝足）、売り歩く「行商」は peddle（d がふたつ）**。自転車なら pedal、行商なら peddle。`,keyPoints:[`pedal と peddle は同音 /ˈpɛdəl/`,`pedal＝ペダル／（自転車を）こぐ（ped-＝足）`,`peddle＝（商品を）売り歩く・行商する（d がふたつ・peddler）`],quiz:[{id:`q-pedal-1`,question:`空所に入る適切な語はどれですか。「Street vendors ( ) souvenirs to tourists.（露天商が観光客に土産を売り歩く）」`,options:[`pedal`,`pedals`,`peddled'`,`peddle`],correctAnswer:3,explanation:`「売り歩く・行商する」は peddle（d ふたつ）です。`},{id:`q-pedal-2`,question:`「ペダル／（自転車を）こぐ」という意味の語はどれですか。`,options:[`peddle`,`peddles`,`pedal`,`peddling`],correctAnswer:2,explanation:`「ペダル・こぐ」は pedal です。`},{id:`q-pedal-3`,question:`pedal と peddle の発音の関係はどれですか。`,options:[`母音が違う`,`子音が違う`,`同じ発音（同音異義語）`,`アクセントが違う`],correctAnswer:2,explanation:`どちらも /ˈpɛdəl/ で同音異義語です。`},{id:`q-pedal-4`,question:`空所に入る適切な語はどれですか。「Press the brake ( ) firmly.（ブレーキペダルをしっかり踏んで）」`,options:[`peddle`,`peddles`,`pedal`,`peddled`],correctAnswer:2,explanation:`足で操作する「ペダル」は pedal です。`},{id:`q-pedal-5`,question:`「（商品を）売り歩く・行商する」を意味するのはどちらですか。`,options:[`pedal`,`peddle`,`どちらも`,`どちらも違う`],correctAnswer:1,explanation:`行商は peddle。pedal はペダル・こぐです。`}]},{id:`plum-plumb`,title:`plum と plumb`,chapter:4,description:`同音 /plʌm/。plum「プラム・すもも（果実）」、plumb「鉛直の・（配管などを）調べる」（b は無音）。意味とスペルで判断。`,content:`## 音は同じ、意味とスペルで見分ける
+🎯 覚え方：**足でこぐ「ペダル」は pedal（ped-＝足）、売り歩く「行商」は peddle（d がふたつ）**。自転車なら pedal、行商なら peddle。
+
+### soft-pedal という成句は peddle と間違われやすい
+
+soft-pedal（控えめにする・トーンダウンさせる）はピアノの弱音ペダルを踏んで音を和らげる動作に由来する成句で、pedal 側の綴りが正しいものです。「和らげて売り込む」のようなイメージから peddle と誤記されることがありますが、語源はあくまで楽器の pedal（足で操作する装置）にあり、売買とは無関係です。
+
+### pedal の語根 ped- は足に関する語族を作る
+
+pedal はラテン語 pes/pedis（足）に由来し、pedestrian（歩行者）、pedicure（フットケア）、centipede（ムカデ、100本の足）などと同じ語根を共有します。ped- が出てきたら「足」に関係すると見当をつけられると、pedal を含む複合語や派生語を覚えやすくなります。
+
+### peddle から生まれる職業名・比喩表現
+
+peddle の行為者を表す名詞は peddler（行商人）で、door-to-door peddler（訪問販売の行商人）のように使われます。比喩的には peddle influence（影響力を売り歩く＝コネを利用して便宜を図る）、peddle rumors（噂を広める）のように、物ではなく情報や影響力を「あちこちに広める」という否定的なニュアンスで使われることもあります。`,keyPoints:[`pedal と peddle は同音 /ˈpɛdəl/`,`pedal＝ペダル／（自転車を）こぐ（ped-＝足）`,`peddle＝（商品を）売り歩く・行商する（d がふたつ・peddler）`],quiz:[{id:`q-pedal-1`,question:`空所に入る適切な語はどれですか。「Street vendors ( ) souvenirs to tourists.（露天商が観光客に土産を売り歩く）」`,options:[`pedal`,`pedals`,`peddled'`,`peddle`],correctAnswer:3,explanation:`「売り歩く・行商する」は peddle（d ふたつ）です。`},{id:`q-pedal-2`,question:`「ペダル／（自転車を）こぐ」という意味の語はどれですか。`,options:[`peddle`,`peddles`,`pedal`,`peddling`],correctAnswer:2,explanation:`「ペダル・こぐ」は pedal です。`},{id:`q-pedal-3`,question:`pedal と peddle の発音の関係はどれですか。`,options:[`母音が違う`,`子音が違う`,`同じ発音（同音異義語）`,`アクセントが違う`],correctAnswer:2,explanation:`どちらも /ˈpɛdəl/ で同音異義語です。`},{id:`q-pedal-4`,question:`空所に入る適切な語はどれですか。「Press the brake ( ) firmly.（ブレーキペダルをしっかり踏んで）」`,options:[`peddle`,`peddles`,`pedal`,`peddled`],correctAnswer:2,explanation:`足で操作する「ペダル」は pedal です。`},{id:`q-pedal-5`,question:`「（商品を）売り歩く・行商する」を意味するのはどちらですか。`,options:[`pedal`,`peddle`,`どちらも`,`どちらも違う`],correctAnswer:1,explanation:`行商は peddle。pedal はペダル・こぐです。`}]},{id:`plum-plumb`,title:`plum と plumb`,chapter:4,description:`同音 /plʌm/。plum「プラム・すもも（果実）」、plumb「鉛直の・（配管などを）調べる」（b は無音）。意味とスペルで判断。`,content:`## 音は同じ、意味とスペルで見分ける
 
 **plum と plumb は同じ発音 /plʌm/（同音異義語）**。plumb の **b は発音しません**。
 
@@ -4111,7 +4183,19 @@ inn は現代の大型ホテルではなく、**昔ながらの小さな宿・�
 | bi**annual** | 年2回 | The club holds a **biannual** sale (spring and autumn).（クラブは年2回セールをする） |
 | bi**ennial** | 2年に1回 | The **biennial** festival returns every two years.（その祭りは2年ごとに開かれる） |
 
-🎯 覚え方：**-annual（年）が付く biannual は「1年の中で2回」、-ennial（〜年の周期）の biennial は「2年ごと」**。混同を避けたいときは biannual の代わりに semiannual（半年ごと）を使うと明確。`,keyPoints:[`biannual＝年に2回・半年ごと（＝semiannual）`,`biennial＝2年に1回・2年ごと`,`紛らわしければ「半年ごと」は semiannual を使う`],quiz:[{id:`q-biannual-1`,question:`「2年に1回」を表す語はどれですか。`,options:[`biannual`,`annual`,`biweekly`,`biennial`],correctAnswer:3,explanation:`2年周期は biennial です。`},{id:`q-biannual-2`,question:`「年に2回（半年ごと）」を表す語はどれですか。`,options:[`biennial`,`annual`,`decennial`,`biannual`],correctAnswer:3,explanation:`年2回は biannual（＝semiannual）です。`},{id:`q-biannual-3`,question:`空所に入る適切な語はどれですか。「We have a ( ) checkup every six months.（半年ごとに定期健診がある）」`,options:[`biennial`,`annual`,`biweekly`,`biannual`],correctAnswer:3,explanation:`半年ごと（年2回）は biannual です。`},{id:`q-biannual-4`,question:`空所に入る適切な語はどれですか。「The ( ) conference is held once every two years.（その会議は2年に1度開かれる）」`,options:[`biannual`,`annual`,`semiannual`,`biennial`],correctAnswer:3,explanation:`2年に1回は biennial です。`},{id:`q-biannual-5`,question:`biannual と同じ「年2回」を明確に表す語はどれですか。`,options:[`biennial`,`annual`,`decennial`,`semiannual`],correctAnswer:3,explanation:`semiannual（半年ごと＝年2回）が biannual と同義で明確です。`}]},{id:`sit-set`,title:`sit と set`,chapter:2,description:`自動詞と他動詞。sit は「（自分が）座る」（自動詞）、set は「（物を）置く」（他動詞・set-set-set）。`,content:`## 自分が座るか、物を置くかで見分ける
+🎯 覚え方：**-annual（年）が付く biannual は「1年の中で2回」、-ennial（〜年の周期）の biennial は「2年ごと」**。混同を避けたいときは biannual の代わりに semiannual（半年ごと）を使うと明確。
+
+### annual・biennial・perennial は植物の生活環でも使われる専門用語
+
+園芸学では、種から発芽して1年以内に開花・結実して枯れる植物を annual（一年草）、発芽した年は葉や根だけを育て翌年に開花・結実する植物を biennial（二年草）、3年以上にわたって生き続ける植物を perennial（多年草）と呼びます。biennial のこの用法は「2年に1回のイベント」とは別で、植物が2年がかりで生活環を一周することを指しており、英熟語のbiennialが持つ「2年」という数字の感覚がそのまま生きています。
+
+### biannual は実は英語話者にとっても紛らわしい語
+
+biannual は「年2回」の意味で広く使われますが、辞書によっては「2年に1回」の意味も併記しており、ネイティブスピーカーの間でも解釈が割れることがある語です。誤解を避けたい書き手は、「年2回」を意味したいときに biannual を避けて semiannual や twice a year を使うことが推奨されます。試験や正確さが求められる文章では、この曖昧さを踏まえて biennial（2年に1回、こちらは曖昧さが少ない）との対比で覚えるのが安全です。
+
+### bi- を含む紛らわしい期間の語群
+
+bi- は「2」を表す接頭辞ですが、biweekly（隔週または週2回）、bimonthly（隔月または月2回）も biannual と同じ曖昧さを抱えています。文脈や a biweekly magazine（隔週刊行の雑誌）のような具体例で判断するのが実務的な対処法で、正確に伝えたい場面では every two weeks（2週間ごとに）のように数字を明示する言い方が好まれます。`,keyPoints:[`biannual＝年に2回・半年ごと（＝semiannual）`,`biennial＝2年に1回・2年ごと`,`紛らわしければ「半年ごと」は semiannual を使う`],quiz:[{id:`q-biannual-1`,question:`「2年に1回」を表す語はどれですか。`,options:[`biannual`,`annual`,`biweekly`,`biennial`],correctAnswer:3,explanation:`2年周期は biennial です。`},{id:`q-biannual-2`,question:`「年に2回（半年ごと）」を表す語はどれですか。`,options:[`biennial`,`annual`,`decennial`,`biannual`],correctAnswer:3,explanation:`年2回は biannual（＝semiannual）です。`},{id:`q-biannual-3`,question:`空所に入る適切な語はどれですか。「We have a ( ) checkup every six months.（半年ごとに定期健診がある）」`,options:[`biennial`,`annual`,`biweekly`,`biannual`],correctAnswer:3,explanation:`半年ごと（年2回）は biannual です。`},{id:`q-biannual-4`,question:`空所に入る適切な語はどれですか。「The ( ) conference is held once every two years.（その会議は2年に1度開かれる）」`,options:[`biannual`,`annual`,`semiannual`,`biennial`],correctAnswer:3,explanation:`2年に1回は biennial です。`},{id:`q-biannual-5`,question:`biannual と同じ「年2回」を明確に表す語はどれですか。`,options:[`biennial`,`annual`,`decennial`,`semiannual`],correctAnswer:3,explanation:`semiannual（半年ごと＝年2回）が biannual と同義で明確です。`}]},{id:`sit-set`,title:`sit と set`,chapter:2,description:`自動詞と他動詞。sit は「（自分が）座る」（自動詞）、set は「（物を）置く」（他動詞・set-set-set）。`,content:`## 自分が座るか、物を置くかで見分ける
 
 基本は **sit＝自分が座る（自動詞）／set＝物を置く（他動詞）**。lie/lay と同じ自動詞・他動詞の対です。
 
@@ -4506,7 +4590,19 @@ confuse（混乱させる）のような**感情動詞**は、分詞の形で意
 
 💡 stare は「不作法にじろじろ見る」含みが出やすい語です。単に視線を向けるなら look at を使います。
 
-🎯 覚え方：**air（空気）を上って行くのが stair、are（〜である）と目を合わせるのが stare**。`,keyPoints:[`stair と stare は同音 /ster/`,`stair＝階段（ふつう複数形 stairs）`,`stare＝じっと見つめる（stare at 〜）`],quiz:[{id:`q-stair-1`,question:`空所に入る適切な語はどれですか。「He waited at the bottom of the ( ).（彼は階段の下で待っていた）」`,options:[`stares`,`stare`,`staring`,`stairs`],correctAnswer:3,explanation:`階段は stairs です。`},{id:`q-stair-2`,question:`空所に入る適切な語はどれですか。「The boy ( ) at the huge cake.（少年は巨大なケーキをじっと見つめた）」`,options:[`stared`,`staired`,`stairs`,`stair`],correctAnswer:0,explanation:`「じっと見つめる」は stare（過去形 stared）です。`},{id:`q-stair-3`,question:`stair と stare の発音の関係はどれですか。`,options:[`母音が違う`,`子音が違う`,`同じ発音（同音異義語）`,`アクセントが違う`],correctAnswer:2,explanation:`どちらも /ster/（英 /steə/）で同音異義語です。`},{id:`q-stair-4`,question:`stare の後ろに置く前置詞として自然なものはどれですか。`,options:[`on`,`at`,`to`,`of`],correctAnswer:1,explanation:`stare at 〜 で「〜をじっと見つめる」です。`},{id:`q-stair-5`,question:`「階段一式」を表す語はどれですか。`,options:[`starecase`,`staircase`,`stairing`,`staringcase`],correctAnswer:1,explanation:`建物の階段は staircase と言います。`}]},{id:`idle-idol`,title:`idle と idol`,chapter:4,description:`同音 /ˈaɪdl/。idle は形容詞「働いていない・遊んでいる」、idol は名詞「偶像・崇拝の対象」。`,content:`## 音は同じ、状態か対象か
+🎯 覚え方：**air（空気）を上って行くのが stair、are（〜である）と目を合わせるのが stare**。
+
+### stare into space は視線の向きが人ではなく虚空
+
+stare は基本的に人や物に向けられますが、stare into space（ぼんやりと宙を見つめる）という成句では、視線の先に具体的な対象がありません。物思いにふけって焦点の合わない目つきを表すこの言い方は、じっと見つめる対象があるstare at ~ とは逆に、注意がどこにも向いていない状態を表す点が特徴です。
+
+### stare down という対決の場面での用法
+
+stare down（にらみ合いで相手をひるませる）は、2人が視線をそらさずに見つめ合い、先に目をそらしたほうが負けというにらめっこ的な対決を指します。stare at が一方的な視線の動作であるのに対し、stare down は相手を屈服させる意図を持った、より攻撃的な用法です。
+
+### stairs と steps の使い分け
+
+stair は建物内部の階段一式（複数形 stairs）を指すのに対し、屋外や一段だけの段差には steps（step の複数形）が好まれます。the front steps（玄関前の階段）、the stairs to the second floor（2階への階段）のように、屋内外や規模の大きさで stairs と steps の使用に傾向差があります。stair は建物に組み込まれた構造物、step は個々の踏み段そのものを指すというのが原義の違いです。`,keyPoints:[`stair と stare は同音 /ster/`,`stair＝階段（ふつう複数形 stairs）`,`stare＝じっと見つめる（stare at 〜）`],quiz:[{id:`q-stair-1`,question:`空所に入る適切な語はどれですか。「He waited at the bottom of the ( ).（彼は階段の下で待っていた）」`,options:[`stares`,`stare`,`staring`,`stairs`],correctAnswer:3,explanation:`階段は stairs です。`},{id:`q-stair-2`,question:`空所に入る適切な語はどれですか。「The boy ( ) at the huge cake.（少年は巨大なケーキをじっと見つめた）」`,options:[`stared`,`staired`,`stairs`,`stair`],correctAnswer:0,explanation:`「じっと見つめる」は stare（過去形 stared）です。`},{id:`q-stair-3`,question:`stair と stare の発音の関係はどれですか。`,options:[`母音が違う`,`子音が違う`,`同じ発音（同音異義語）`,`アクセントが違う`],correctAnswer:2,explanation:`どちらも /ster/（英 /steə/）で同音異義語です。`},{id:`q-stair-4`,question:`stare の後ろに置く前置詞として自然なものはどれですか。`,options:[`on`,`at`,`to`,`of`],correctAnswer:1,explanation:`stare at 〜 で「〜をじっと見つめる」です。`},{id:`q-stair-5`,question:`「階段一式」を表す語はどれですか。`,options:[`starecase`,`staircase`,`stairing`,`staringcase`],correctAnswer:1,explanation:`建物の階段は staircase と言います。`}]},{id:`idle-idol`,title:`idle と idol`,chapter:4,description:`同音 /ˈaɪdl/。idle は形容詞「働いていない・遊んでいる」、idol は名詞「偶像・崇拝の対象」。`,content:`## 音は同じ、状態か対象か
 
 **idle と idol は同じ発音 /ˈaɪdl/**の同音異義語です。
 
