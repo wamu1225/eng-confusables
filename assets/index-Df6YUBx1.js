@@ -2141,7 +2141,19 @@ cloth を使った複合語には、tablecloth（テーブルクロス）、wash
 | belie**f** | /bɪˈliːf/ | 名詞：信念 | She has a strong **belief** in justice.（彼女は正義への強い信念を持つ） |
 | belie**ve** | /bɪˈliːv/ | 動詞：信じる | I **believe** you are right.（あなたは正しいと思う） |
 
-🎯 覚え方：**名詞は -f（belief）、動詞は -ve（believe）**。proof/prove、relief/relieve と同じパターン（名詞 -f、動詞 -ve）。`,keyPoints:[`belief /bɪˈliːf/＝名詞「信念」（-f、/f/）`,`believe /bɪˈliːv/＝動詞「信じる」（-ve、/v/）`,`proof/prove・relief/relieve と同じ -f 名詞／-ve 動詞`],quiz:[{id:`q-belief-1`,question:`空所に入る適切な語はどれですか。「I ( ) that hard work pays off.（努力は報われると信じている）」`,options:[`belief`,`beliefs`,`believe`,`believed`],correctAnswer:2,explanation:`動詞「信じる」は believe です。`},{id:`q-belief-2`,question:`「信念・信じること」という意味の名詞はどれですか。`,options:[`believe`,`believes`,`believing`,`belief`],correctAnswer:3,explanation:`名詞「信念」は belief /bɪˈliːf/ です。`},{id:`q-belief-3`,question:`空所に入る適切な語はどれですか。「It is my ( ) that honesty matters.（誠実さが大切だというのが私の信念だ）」`,options:[`believe`,`believes`,`believed`,`belief`],correctAnswer:3,explanation:`名詞「信念」は belief です。`},{id:`q-belief-4`,question:`語尾が濁る /v/ で、動詞「信じる」なのはどちらですか。`,options:[`believe`,`belief`,`どちらも`,`どちらも違う`],correctAnswer:0,explanation:`believe /bɪˈliːv/（動詞）。belief /bɪˈliːf/（名詞）です。`},{id:`q-belief-5`,question:`空所に入る適切な語はどれですか。「Many people ( ) in second chances.（多くの人はやり直しの機会を信じている）」`,options:[`belief`,`beliefs`,`believe`,`believed`],correctAnswer:2,explanation:`動詞「信じる」は believe（believe in ~）です。`}]},{id:`relief-relieve`,title:`relief と relieve`,chapter:3,description:`名詞と動詞。relief /rɪˈliːf/「安心・緩和」（名詞）、relieve /rɪˈliːv/「（苦痛などを）和らげる」（動詞）。語尾 /f/ と /v/。`,content:`## 品詞と語尾の音で見分ける
+🎯 覚え方：**名詞は -f（belief）、動詞は -ve（believe）**。proof/prove、relief/relieve と同じパターン（名詞 -f、動詞 -ve）。
+
+### beggar belief という文語的な成句
+
+beggar belief（信じがたいほどである）は、動詞 beggar（乞食にする・使い果たさせる）が比喩的に「（信じる力を）使い果たさせる」という意味に転じてできた成句です。シェイクスピアの『アントニーとクレオパトラ』に beggared all description（言葉で言い表せないほど）という言い回しが登場し、そこから beggar description、beggar belief のような形が広まりました。日常的な beyond belief（信じられないほど）よりも文語的な響きを持ちます。
+
+### believe in と believe の意味の違い
+
+believe には believe him（彼の言うことを信じる＝真実だと思う）と believe in him（彼という人を信じる＝存在や能力・価値を信頼する）という二つの構文があり、対象への信頼の種類が異なります。believe in には I believe in ghosts.（幽霊の存在を信じている）のように、存在そのものを信じるという意味もあります。
+
+### belief は具体的な信条を数えられる形でも使う
+
+belief は不可算の「信じること」だけでなく、a belief（一つの信条・考え）、beliefs（複数の信条）のように数えられる名詞としても使われます。religious beliefs（宗教的信条）、firmly held beliefs（固く信じられている考え）のように、個々の具体的な考えを指すときは可算名詞として扱われます。`,keyPoints:[`belief /bɪˈliːf/＝名詞「信念」（-f、/f/）`,`believe /bɪˈliːv/＝動詞「信じる」（-ve、/v/）`,`proof/prove・relief/relieve と同じ -f 名詞／-ve 動詞`],quiz:[{id:`q-belief-1`,question:`空所に入る適切な語はどれですか。「I ( ) that hard work pays off.（努力は報われると信じている）」`,options:[`belief`,`beliefs`,`believe`,`believed`],correctAnswer:2,explanation:`動詞「信じる」は believe です。`},{id:`q-belief-2`,question:`「信念・信じること」という意味の名詞はどれですか。`,options:[`believe`,`believes`,`believing`,`belief`],correctAnswer:3,explanation:`名詞「信念」は belief /bɪˈliːf/ です。`},{id:`q-belief-3`,question:`空所に入る適切な語はどれですか。「It is my ( ) that honesty matters.（誠実さが大切だというのが私の信念だ）」`,options:[`believe`,`believes`,`believed`,`belief`],correctAnswer:3,explanation:`名詞「信念」は belief です。`},{id:`q-belief-4`,question:`語尾が濁る /v/ で、動詞「信じる」なのはどちらですか。`,options:[`believe`,`belief`,`どちらも`,`どちらも違う`],correctAnswer:0,explanation:`believe /bɪˈliːv/（動詞）。belief /bɪˈliːf/（名詞）です。`},{id:`q-belief-5`,question:`空所に入る適切な語はどれですか。「Many people ( ) in second chances.（多くの人はやり直しの機会を信じている）」`,options:[`belief`,`beliefs`,`believe`,`believed`],correctAnswer:2,explanation:`動詞「信じる」は believe（believe in ~）です。`}]},{id:`relief-relieve`,title:`relief と relieve`,chapter:3,description:`名詞と動詞。relief /rɪˈliːf/「安心・緩和」（名詞）、relieve /rɪˈliːv/「（苦痛などを）和らげる」（動詞）。語尾 /f/ と /v/。`,content:`## 品詞と語尾の音で見分ける
 
 belief/believe と同じく、**-f（relief）が名詞、-ve（relieve）が動詞**です。
 
@@ -2375,7 +2387,19 @@ prove には他動詞「〜を証明する」だけでなく、The plan proved s
 | succe**ss** | /səkˈsɛs/ | 名詞：成功 | The event was a great **success**.（そのイベントは大成功だった） |
 | succe**ed** | /səkˈsiːd/ | 動詞：成功する | She **succeeded** in passing the exam.（彼女は試験に合格した） |
 
-🎯 覚え方：**名詞は -ss（success）、動詞は -eed（succeed）**。「成功（結果・状態）」は名詞 success、「成功する（動作）」は動詞 succeed（succeed in doing）。`,keyPoints:[`success /səkˈsɛs/＝名詞「成功」（形容詞は successful）`,`succeed /səkˈsiːd/＝動詞「成功する・後を継ぐ」`,`succeed in doing で「〜に成功する」`],quiz:[{id:`q-success-1`,question:`空所に入る適切な語はどれですか。「If you keep trying, you will ( ).（努力を続ければ成功する）」`,options:[`success`,`successful`,`succeeds'`,`succeed`],correctAnswer:3,explanation:`動詞「成功する」は succeed です。`},{id:`q-success-2`,question:`「成功」という意味の名詞はどれですか。`,options:[`succeed`,`successful`,`succeeding`,`success`],correctAnswer:3,explanation:`名詞「成功」は success /səkˈsɛs/ です。`},{id:`q-success-3`,question:`空所に入る適切な語はどれですか。「Her business was a big ( ).（彼女の事業は大きな成功だった）」`,options:[`succeed`,`successful`,`succeeded`,`success`],correctAnswer:3,explanation:`名詞「成功」は success です。`},{id:`q-success-4`,question:`動詞「成功する・後を継ぐ」を表すのはどちらですか。`,options:[`success`,`succeed`,`どちらも`,`どちらも違う`],correctAnswer:1,explanation:`動詞は succeed。success は名詞です。`},{id:`q-success-5`,question:`空所に入る適切な語はどれですか。「They ( ) in reducing costs.（彼らはコスト削減に成功した）」`,options:[`success`,`successful`,`successes`,`succeeded`],correctAnswer:3,explanation:`succeed in doing「〜に成功する」の過去 succeeded です。`}]},{id:`farther-further`,title:`farther と further`,chapter:2,description:`farther は主に「（物理的な距離）より遠く」、further は「（程度・追加）さらに」＋距離にも使える。`,content:`## 距離か、程度・追加かで見分ける
+🎯 覚え方：**名詞は -ss（success）、動詞は -eed（succeed）**。「成功（結果・状態）」は名詞 success、「成功する（動作）」は動詞 succeed（succeed in doing）。
+
+### succeed の語源には「後に続く」という意味が先にあった
+
+succeed はラテン語 succedere（下から進む・後に続く）に由来し、もともとは「後を継ぐ・次に来る」という意味が先にありました。「成功する」という意味は、地位や試練を「乗り越えて次の段階に進む」というイメージから派生したものです。この語源のつながりは、王位や役職を「引き継ぐ」という意味の succeed to the throne（王位を継承する）という言い方に今も残っています。
+
+### 前置詞 in の有無で構文が変わる
+
+succeed は succeed in doing（〜することに成功する）のように前置詞 in を伴って動名詞を続けます。他動詞のように succeed doing と前置詞を省略する形は誤りで、succeed to（地位を継ぐ）や succeed 人（人の後を継ぐ）とも形が異なります。success の側には success in doing のような構文はなく、a success at ~（〜での成功）のように前置詞句で補うのが一般的です。
+
+### success という結果を修飾する形容詞は successful
+
+success 自体は名詞専用で、形容詞として「成功した」を表したいときは successful を使います。a success story（成功物語）のように success が名詞のまま名詞を修飾する言い方もありますが、これは複合語的な用法で、a successful story とは意味の焦点が異なります。`,keyPoints:[`success /səkˈsɛs/＝名詞「成功」（形容詞は successful）`,`succeed /səkˈsiːd/＝動詞「成功する・後を継ぐ」`,`succeed in doing で「〜に成功する」`],quiz:[{id:`q-success-1`,question:`空所に入る適切な語はどれですか。「If you keep trying, you will ( ).（努力を続ければ成功する）」`,options:[`success`,`successful`,`succeeds'`,`succeed`],correctAnswer:3,explanation:`動詞「成功する」は succeed です。`},{id:`q-success-2`,question:`「成功」という意味の名詞はどれですか。`,options:[`succeed`,`successful`,`succeeding`,`success`],correctAnswer:3,explanation:`名詞「成功」は success /səkˈsɛs/ です。`},{id:`q-success-3`,question:`空所に入る適切な語はどれですか。「Her business was a big ( ).（彼女の事業は大きな成功だった）」`,options:[`succeed`,`successful`,`succeeded`,`success`],correctAnswer:3,explanation:`名詞「成功」は success です。`},{id:`q-success-4`,question:`動詞「成功する・後を継ぐ」を表すのはどちらですか。`,options:[`success`,`succeed`,`どちらも`,`どちらも違う`],correctAnswer:1,explanation:`動詞は succeed。success は名詞です。`},{id:`q-success-5`,question:`空所に入る適切な語はどれですか。「They ( ) in reducing costs.（彼らはコスト削減に成功した）」`,options:[`success`,`successful`,`successes`,`succeeded`],correctAnswer:3,explanation:`succeed in doing「〜に成功する」の過去 succeeded です。`}]},{id:`farther-further`,title:`farther と further`,chapter:2,description:`farther は主に「（物理的な距離）より遠く」、further は「（程度・追加）さらに」＋距離にも使える。`,content:`## 距離か、程度・追加かで見分ける
 
 どちらも far の比較級ですが、使い分けの目安があります。
 
@@ -2707,7 +2731,19 @@ boring（退屈させる、退屈な）は原因側、bored（退屈させられ
 | **de**cent | /ˈdiːsənt/ | 形容詞：まともな | He earns a **decent** salary.（彼はまともな給料を得ている） |
 | de**scent** | /dɪˈsɛnt/ | 名詞：下降・家系 | The plane began its **descent**.（飛行機は降下を始めた） |
 
-🎯 覚え方：**decent は「まとも（形容詞）」でアクセント前**、descent は「下る・家系（名詞）」でアクセント後ろ（ascent＝上昇と対）。下降・血統なら descent。`,keyPoints:[`decent /ˈdiːsənt/＝形容詞「きちんとした・まともな」`,`descent /dɪˈsɛnt/＝名詞「下降・降下・家系」（反対 ascent）`,`アクセント：decent は前、descent は後ろ`],quiz:[{id:`q-decent-1`,question:`空所に入る適切な語はどれですか。「The steep ( ) took twenty minutes.（急な下りは20分かかった）」`,options:[`decent`,`decently`,`decency`,`descent`],correctAnswer:3,explanation:`名詞「下降・下り」は descent です。`},{id:`q-decent-2`,question:`「きちんとした・まともな」という意味の形容詞はどれですか。`,options:[`descent`,`descend`,`decent`,`descents`],correctAnswer:2,explanation:`形容詞「まともな」は decent /ˈdiːsənt/ です。`},{id:`q-decent-3`,question:`空所に入る適切な語はどれですか。「She is of Irish ( ).（彼女はアイルランド系の血筋だ）」`,options:[`decent`,`decency`,`decently`,`descent`],correctAnswer:3,explanation:`「家系・血統」は descent です。`},{id:`q-decent-4`,question:`アクセントが前にあり「まともな」を意味するのはどちらですか。`,options:[`decent`,`descent`,`どちらも`,`どちらも違う`],correctAnswer:0,explanation:`decent（前アクセント・形容詞）。descent（後ろアクセント・名詞）です。`},{id:`q-decent-5`,question:`空所に入る適切な語はどれですか。「We need a ( ) place to stay tonight.（今夜はまともな宿がいる）」`,options:[`descent`,`descend`,`decent`,`descents`],correctAnswer:2,explanation:`「まともな（宿）」は decent です。`}]},{id:`salary-wage`,title:`salary と wage`,chapter:2,description:`支払い方が違う。salary は主に「月給・年俸（固定給）」、wage は主に「時給・週給（働いた時間・量で払う賃金）」。`,content:`## 支払いの単位で見分ける
+🎯 覚え方：**decent は「まとも（形容詞）」でアクセント前**、descent は「下る・家系（名詞）」でアクセント後ろ（ascent＝上昇と対）。下降・血統なら descent。
+
+### a person of decent descent という語呂合わせが英語圏でも知られている
+
+decent と descent は発音が近いため、a person of decent descent（まともな家柄の人）という語呂合わせが英語の言葉遊びとして知られています。descent が「家系・血統」を意味するのは、動詞 descend（降りる・（先祖から）下って来る）から、世代を下って自分に至る系譜というイメージで名詞化されたためです。
+
+### descent は物理的な下降にも系譜にも使える二面性
+
+descent は飛行機の降下（The plane began its descent.）のような物理的な意味と、Americans of Irish descent（アイルランド系のアメリカ人）のような血統の意味の両方で使われます。どちらも「上から下へ、あるいは先祖から自分へと下って来る」という降りる・下るイメージでつながっており、一見無関係に見える二つの意味が同じ動詞 descend から自然に枝分かれしています。
+
+### decent は「まあまあ良い」という控えめな評価を表す
+
+decent は excellent（優秀な）ほど強くはなく、「十分にまとも・悪くない」という控えめな肯定の評価を表す語です。a decent meal（まずまずの食事）、a decent salary（まずまずの給料）のように、最高ではないが不満はないという中庸のニュアンスを持ち、この控えめさが decent という語の使いどころを特徴づけています。`,keyPoints:[`decent /ˈdiːsənt/＝形容詞「きちんとした・まともな」`,`descent /dɪˈsɛnt/＝名詞「下降・降下・家系」（反対 ascent）`,`アクセント：decent は前、descent は後ろ`],quiz:[{id:`q-decent-1`,question:`空所に入る適切な語はどれですか。「The steep ( ) took twenty minutes.（急な下りは20分かかった）」`,options:[`decent`,`decently`,`decency`,`descent`],correctAnswer:3,explanation:`名詞「下降・下り」は descent です。`},{id:`q-decent-2`,question:`「きちんとした・まともな」という意味の形容詞はどれですか。`,options:[`descent`,`descend`,`decent`,`descents`],correctAnswer:2,explanation:`形容詞「まともな」は decent /ˈdiːsənt/ です。`},{id:`q-decent-3`,question:`空所に入る適切な語はどれですか。「She is of Irish ( ).（彼女はアイルランド系の血筋だ）」`,options:[`decent`,`decency`,`decently`,`descent`],correctAnswer:3,explanation:`「家系・血統」は descent です。`},{id:`q-decent-4`,question:`アクセントが前にあり「まともな」を意味するのはどちらですか。`,options:[`decent`,`descent`,`どちらも`,`どちらも違う`],correctAnswer:0,explanation:`decent（前アクセント・形容詞）。descent（後ろアクセント・名詞）です。`},{id:`q-decent-5`,question:`空所に入る適切な語はどれですか。「We need a ( ) place to stay tonight.（今夜はまともな宿がいる）」`,options:[`descent`,`descend`,`decent`,`descents`],correctAnswer:2,explanation:`「まともな（宿）」は decent です。`}]},{id:`salary-wage`,title:`salary と wage`,chapter:2,description:`支払い方が違う。salary は主に「月給・年俸（固定給）」、wage は主に「時給・週給（働いた時間・量で払う賃金）」。`,content:`## 支払いの単位で見分ける
 
 どちらも「賃金」ですが、**払われ方**が違います。
 
@@ -2861,7 +2897,19 @@ healthy は名詞 health に -y（〜の性質を持つ）が付いた形で、�
 | allow**ed** | /əˈlaʊd/ | 許された | Smoking is not **allowed** here.（ここは禁煙だ） |
 | al**oud** | /əˈlaʊd/ | 声に出して | She read the poem **aloud**.（彼女は詩を音読した） |
 
-🎯 覚え方：**aloud は「声（loud＝大きな声）に出して」の副詞**。「許された」は allow の -ed で allowed。許可なら allowed、音読なら aloud。`,keyPoints:[`allowed と aloud は同音 /əˈlaʊd/`,`allowed＝許された（allow の過去分詞・be allowed to do）`,`aloud＝副詞「声に出して」（read aloud）`],quiz:[{id:`q-allowed-1`,question:`空所に入る適切な語はどれですか。「Please read the sentence ( ).（その文を声に出して読んで）」`,options:[`allowed`,`alouds`,`aloud`,`allow`],correctAnswer:2,explanation:`「声に出して」は副詞 aloud です。`},{id:`q-allowed-2`,question:`「許された」（allow の過去分詞）を表す語はどれですか。`,options:[`allowed`,`aloud`,`alouds`,`allow`],correctAnswer:0,explanation:`「許された」は allowed です。`},{id:`q-allowed-3`,question:`allowed と aloud の発音の関係はどれですか。`,options:[`母音が違う`,`子音が違う`,`同じ発音（同音異義語）`,`アクセントが違う`],correctAnswer:2,explanation:`どちらも /əˈlaʊd/ で同音異義語です。`},{id:`q-allowed-4`,question:`空所に入る適切な語はどれですか。「Are we ( ) to take photos here?（ここで写真を撮ってもいい？）」`,options:[`allowed`,`aloud`,`alouds`,`allowing`],correctAnswer:0,explanation:`be allowed to do「〜してよい」の allowed です。`},{id:`q-allowed-5`,question:`副詞「声に出して」を意味するのはどちらですか。`,options:[`aloud`,`allowed`,`どちらも`,`どちらも違う`],correctAnswer:0,explanation:`aloud が「声に出して」。allowed は「許された」です。`}]},{id:`imply-infer`,title:`imply と infer`,chapter:2,description:`向きが逆。imply は話し手が「ほのめかす・暗に示す」、infer は聞き手が「推測する・読み取る」。`,content:`## だれがするかで見分ける
+🎯 覚え方：**aloud は「声（loud＝大きな声）に出して」の副詞**。「許された」は allow の -ed で allowed。許可なら allowed、音読なら aloud。
+
+### aloud と out loud はほぼ同義だが硬さが違う
+
+aloud と out loud はどちらも「声に出して」を表しますが、aloud はやや文語的・改まった響きを持ち、read aloud（音読する）、think aloud（考えを声に出す）のような定型的な言い方に使われます。out loud は口語的で、laugh out loud（声を出して笑う、LOLの由来）、cry out loud（大声で泣く）のように、感情の高ぶりを伴う場面でよく使われます。現代英語ではほぼ置き換え可能ですが、フォーマルな文章では aloud が好まれます。
+
+### allowed は許可の強さによって様々な構文をとる
+
+allowed は be allowed to do（〜することが許されている）という受け身の形でよく使われ、許可の主体を明示したいときは be allowed by ~（〜によって許可される）とします。Smoking is not allowed here.（ここは禁煙です）のように、規則によって定められた許可・不許可を伝える場面で使われ、個人的な好み・意見に基づく可否には他の表現（It's okay to ~ など）が使われることもあります。
+
+### allowed for という熟語は許可とは別の意味を持つ
+
+動詞 allow には「見込む・計上する」という別の意味があり、allow for delays（遅れを見込んでおく）、time allowed for the test（試験に割り当てられた時間）のように、余裕や予算をあらかじめ考慮に入れるという意味で使われます。この allow for の allowed は「許可された」ではなく「考慮に入れられた」という意味で、aloud との混同とは別の注意点として押さえておく価値があります。`,keyPoints:[`allowed と aloud は同音 /əˈlaʊd/`,`allowed＝許された（allow の過去分詞・be allowed to do）`,`aloud＝副詞「声に出して」（read aloud）`],quiz:[{id:`q-allowed-1`,question:`空所に入る適切な語はどれですか。「Please read the sentence ( ).（その文を声に出して読んで）」`,options:[`allowed`,`alouds`,`aloud`,`allow`],correctAnswer:2,explanation:`「声に出して」は副詞 aloud です。`},{id:`q-allowed-2`,question:`「許された」（allow の過去分詞）を表す語はどれですか。`,options:[`allowed`,`aloud`,`alouds`,`allow`],correctAnswer:0,explanation:`「許された」は allowed です。`},{id:`q-allowed-3`,question:`allowed と aloud の発音の関係はどれですか。`,options:[`母音が違う`,`子音が違う`,`同じ発音（同音異義語）`,`アクセントが違う`],correctAnswer:2,explanation:`どちらも /əˈlaʊd/ で同音異義語です。`},{id:`q-allowed-4`,question:`空所に入る適切な語はどれですか。「Are we ( ) to take photos here?（ここで写真を撮ってもいい？）」`,options:[`allowed`,`aloud`,`alouds`,`allowing`],correctAnswer:0,explanation:`be allowed to do「〜してよい」の allowed です。`},{id:`q-allowed-5`,question:`副詞「声に出して」を意味するのはどちらですか。`,options:[`aloud`,`allowed`,`どちらも`,`どちらも違う`],correctAnswer:0,explanation:`aloud が「声に出して」。allowed は「許された」です。`}]},{id:`imply-infer`,title:`imply と infer`,chapter:2,description:`向きが逆。imply は話し手が「ほのめかす・暗に示す」、infer は聞き手が「推測する・読み取る」。`,content:`## だれがするかで見分ける
 
 情報の流れの向きが逆です。**送り手か、受け手か**で使い分けます。
 
@@ -3424,7 +3472,19 @@ eight から派生する数詞は綴りの変化に注意が必要です。序�
 | m**or**ning | /ˈmɔːrnɪŋ/ | 朝・午前 | I jog every **morning**.（毎朝ジョギングする） |
 | m**our**ning | /ˈmɔːrnɪŋ/ | 喪・哀悼 | The nation was in **mourning**.（国じゅうが喪に服した） |
 
-🎯 覚え方：**時間の「朝」は morning、悲しみの「喪・哀悼」は mourning（mourn＝悼む＋-ing）**。u が入るのは悲しむ mourning。朝なら morning。`,keyPoints:[`morning と mourning は同音 /ˈmɔːrnɪŋ/`,`morning＝朝・午前（反対は evening）`,`mourning＝喪・哀悼（mourn の -ing・u が入る）`],quiz:[{id:`q-morning-1`,question:`空所に入る適切な語はどれですか。「The family is still in ( ) for their loss.（家族はまだ喪に服している）」`,options:[`morning`,`mornings`,`mourning`,`mourn`],correctAnswer:2,explanation:`「喪・哀悼」は mourning です。`},{id:`q-morning-2`,question:`「朝・午前」という意味の語はどれですか。`,options:[`mourning`,`mournings`,`mourn`,`morning`],correctAnswer:3,explanation:`「朝」は morning /ˈmɔːrnɪŋ/ です。`},{id:`q-morning-3`,question:`morning と mourning の発音の関係はどれですか。`,options:[`母音が違う`,`子音が違う`,`同じ発音（同音異義語）`,`アクセントが違う`],correctAnswer:2,explanation:`どちらも /ˈmɔːrnɪŋ/ で同音異義語です。`},{id:`q-morning-4`,question:`空所に入る適切な語はどれですか。「See you tomorrow ( )!（また明日の朝ね！）」`,options:[`mourning`,`mournings`,`mourn`,`morning`],correctAnswer:3,explanation:`時間の「朝」は morning です。`},{id:`q-morning-5`,question:`u が入り「喪・哀悼」を意味するのはどちらですか。`,options:[`mourning`,`morning`,`どちらも`,`どちらも違う`],correctAnswer:0,explanation:`mourning（u あり）＝喪。morning＝朝です。`}]},{id:`amount-number`,title:`amount と number`,chapter:2,description:`数えられるかで使い分ける。amount は「（不可算の）量」、number は「（可算の）数」。amount of ~／number of ~。`,content:`## 量か、数かで見分ける
+🎯 覚え方：**時間の「朝」は morning、悲しみの「喪・哀悼」は mourning（mourn＝悼む＋-ing）**。u が入るのは悲しむ mourning。朝なら morning。
+
+### good morning は元々「良い朝をお祈りします」の短縮形
+
+good morning という挨拶は、中英語の I wish you a good morning（あなたに良い朝がありますように）のような、より長い祈りの文句が短縮されて定着したものです。同じ構造は good afternoon、good evening にも見られ、いずれも「相手に良い時間が訪れるように」という祈りの気持ちが挨拶の型として固定化しています。
+
+### mourning は服装・儀礼の文脈でも使われる語
+
+mourning は「悲しむ気持ち」だけでなく、in mourning（喪に服して）、mourning clothes（喪服）、a period of mourning（服喪期間）のように、故人を悼む社会的な慣習や期間を指す名詞としても使われます。black armband of mourning（喪章）のように、悲しみを外に示す具体的な物や行為にも mourning が使われます。
+
+### -ing 形が名詞になっている点で共通する構造
+
+morning はもともと morn（古い形の「朝」）に -ing に似た接尾辞が付いた古語由来の形ですが、現代英語の感覚では単なる名詞として扱われます。一方 mourning は動詞 mourn の現在分詞・動名詞形がそのまま名詞化したもので、doing や reading と同じ -ing 名詞の仲間です。綴りは似ていても、morning は語源的に独立した名詞、mourning は動詞由来の名詞という成り立ちの違いがあります。`,keyPoints:[`morning と mourning は同音 /ˈmɔːrnɪŋ/`,`morning＝朝・午前（反対は evening）`,`mourning＝喪・哀悼（mourn の -ing・u が入る）`],quiz:[{id:`q-morning-1`,question:`空所に入る適切な語はどれですか。「The family is still in ( ) for their loss.（家族はまだ喪に服している）」`,options:[`morning`,`mornings`,`mourning`,`mourn`],correctAnswer:2,explanation:`「喪・哀悼」は mourning です。`},{id:`q-morning-2`,question:`「朝・午前」という意味の語はどれですか。`,options:[`mourning`,`mournings`,`mourn`,`morning`],correctAnswer:3,explanation:`「朝」は morning /ˈmɔːrnɪŋ/ です。`},{id:`q-morning-3`,question:`morning と mourning の発音の関係はどれですか。`,options:[`母音が違う`,`子音が違う`,`同じ発音（同音異義語）`,`アクセントが違う`],correctAnswer:2,explanation:`どちらも /ˈmɔːrnɪŋ/ で同音異義語です。`},{id:`q-morning-4`,question:`空所に入る適切な語はどれですか。「See you tomorrow ( )!（また明日の朝ね！）」`,options:[`mourning`,`mournings`,`mourn`,`morning`],correctAnswer:3,explanation:`時間の「朝」は morning です。`},{id:`q-morning-5`,question:`u が入り「喪・哀悼」を意味するのはどちらですか。`,options:[`mourning`,`morning`,`どちらも`,`どちらも違う`],correctAnswer:0,explanation:`mourning（u あり）＝喪。morning＝朝です。`}]},{id:`amount-number`,title:`amount と number`,chapter:2,description:`数えられるかで使い分ける。amount は「（不可算の）量」、number は「（可算の）数」。amount of ~／number of ~。`,content:`## 量か、数かで見分ける
 
 どちらも「〜の多さ」ですが、**後ろの名詞が不可算か可算か**で使い分けます。
 
@@ -3953,7 +4013,19 @@ meddle は語尾が -dle で、peddle（行商する）・paddle（漕ぐ・パ�
 | rise | 物・数値 | 上がる・のぼる | The sun **rises** in the east.（太陽は東からのぼる） |
 | arise | 問題・状況 | 生じる・起こる | Problems may **arise** during the trip.（旅行中に問題が生じるかも） |
 
-🎯 覚え方：**物・数値が「上がる」は rise、問題・状況が「生じる」は arise**。太陽・物価は rise、問題・疑問・機会は arise。※どちらも自動詞（目的語なし）＝他動詞 raise（上げる）と混同しない。`,keyPoints:[`rise＝（物・数値が）上がる・のぼる（rise-rose-risen）`,`arise＝（問題・状況が）生じる・起こる（arise-arose-arisen）`,`どちらも自動詞（他動詞 raise と別）`],quiz:[{id:`q-arise-1`,question:`空所に入る適切な語はどれですか。「A dispute ( ) over the boundary.（境界をめぐって争いが生じた）」`,options:[`rose`,`raised`,`rises`,`arose`],correctAnswer:3,explanation:`問題・争いが「生じた」は arise の過去 arose です。`},{id:`q-arise-2`,question:`空所に入る適切な語はどれですか。「Prices continue to ( ) every year.（物価は毎年上がり続ける）」`,options:[`arise`,`rise`,`raise`,`arose`],correctAnswer:1,explanation:`数値が「上がる」は自動詞 rise です。`},{id:`q-arise-3`,question:`問題・状況が「生じる・起こる」を表すのはどちらですか。`,options:[`rise`,`arise`,`どちらも`,`どちらも違う`],correctAnswer:1,explanation:`抽象的なことが「生じる」は arise。物理的に上がるは rise です。`},{id:`q-arise-4`,question:`空所に入る適切な語はどれですか。「Steam ( ) from the hot spring.（温泉から湯気がのぼった）」`,options:[`rose`,`arose`,`raised`,`arises`],correctAnswer:0,explanation:`物理的に「のぼった」は rise の過去 rose です。`},{id:`q-arise-5`,question:`空所に入る適切な語はどれですか。「Should any questions ( ), please ask.（もし疑問が生じたら聞いて）」`,options:[`rise`,`arise`,`raise`,`rose`],correctAnswer:1,explanation:`疑問が「生じる」は arise です。`}]},{id:`sit-seat`,title:`sit と seat`,chapter:2,description:`sit は自動詞「（自分が）座る」、seat は他動詞「（人を）座らせる」（ふつう be seated／seat oneself）。`,content:`## 自分が座るか、人を座らせるかで見分ける
+🎯 覚え方：**物・数値が「上がる」は rise、問題・状況が「生じる」は arise**。太陽・物価は rise、問題・疑問・機会は arise。※どちらも自動詞（目的語なし）＝他動詞 raise（上げる）と混同しない。
+
+### rise to the occasion という成句の rise
+
+rise to the occasion（困難な状況で実力を発揮する）は、16世紀のイギリスで「occasion（重大な場面）」に応じて自分を「高める」という意味から生まれた成句とされます。物理的に「上がる」rise が、能力や気概を「奮い立たせる」という比喩に転じており、rise の中心義である「低い状態から高い状態へ動く」というイメージがそのまま生きています。
+
+### give rise to という言い方は arise と意味がつながる
+
+give rise to ~（〜を引き起こす）は、rise を使いながら arise（生じる）に近い意味を表す成句です。The policy gave rise to widespread criticism.（その政策は広範な批判を引き起こした）のように、「rise（生じること）を与える」という構造で、arise が自動詞専用であるのに対し、give rise to は他動詞的に「何かが何かを生じさせる」関係を表せます。
+
+### 名詞としての rise と、動詞 arise には無い用法
+
+rise は名詞としても頻繁に使われ、a rise in prices（物価の上昇）、get a rise（昇給を得る、英）、a pay rise（昇給、英）のように、上昇そのものを指す名詞になります。arise にはこうした名詞用法がなく、「問題や状況が生じること」自体を名詞で表したいときは an occurrence や the emergence of ~ のような別の語を使います。`,keyPoints:[`rise＝（物・数値が）上がる・のぼる（rise-rose-risen）`,`arise＝（問題・状況が）生じる・起こる（arise-arose-arisen）`,`どちらも自動詞（他動詞 raise と別）`],quiz:[{id:`q-arise-1`,question:`空所に入る適切な語はどれですか。「A dispute ( ) over the boundary.（境界をめぐって争いが生じた）」`,options:[`rose`,`raised`,`rises`,`arose`],correctAnswer:3,explanation:`問題・争いが「生じた」は arise の過去 arose です。`},{id:`q-arise-2`,question:`空所に入る適切な語はどれですか。「Prices continue to ( ) every year.（物価は毎年上がり続ける）」`,options:[`arise`,`rise`,`raise`,`arose`],correctAnswer:1,explanation:`数値が「上がる」は自動詞 rise です。`},{id:`q-arise-3`,question:`問題・状況が「生じる・起こる」を表すのはどちらですか。`,options:[`rise`,`arise`,`どちらも`,`どちらも違う`],correctAnswer:1,explanation:`抽象的なことが「生じる」は arise。物理的に上がるは rise です。`},{id:`q-arise-4`,question:`空所に入る適切な語はどれですか。「Steam ( ) from the hot spring.（温泉から湯気がのぼった）」`,options:[`rose`,`arose`,`raised`,`arises`],correctAnswer:0,explanation:`物理的に「のぼった」は rise の過去 rose です。`},{id:`q-arise-5`,question:`空所に入る適切な語はどれですか。「Should any questions ( ), please ask.（もし疑問が生じたら聞いて）」`,options:[`rise`,`arise`,`raise`,`rose`],correctAnswer:1,explanation:`疑問が「生じる」は arise です。`}]},{id:`sit-seat`,title:`sit と seat`,chapter:2,description:`sit は自動詞「（自分が）座る」、seat は他動詞「（人を）座らせる」（ふつう be seated／seat oneself）。`,content:`## 自分が座るか、人を座らせるかで見分ける
 
 どちらも「座る」に関わりますが、自動詞か他動詞かが違います。
 
@@ -4229,7 +4301,19 @@ bi- は「2」を表す接頭辞ですが、biweekly（隔週または週2回）
 | continu**al** | あり（断続） | たびたびの | His **continual** interruptions annoyed us.（たびたびの中断に苛立った） |
 | continu**ous** | なし（連続） | 途切れず続く | The **continuous** hum of the engine.（エンジンの途切れない低い音） |
 
-🎯 覚え方：**-al の continual は「たびたび（何度も・合間あり）」、-ous の continuous は「切れ目なくずっと」**。何度も繰り返すなら continual、ノンストップなら continuous。`,keyPoints:[`continual＝繰り返し起こる・断続的（合間に途切れあり）`,`continuous＝途切れずに続く（連続・切れ目なし）`,`「たびたび」は continual、「ノンストップ」は continuous`],quiz:[{id:`q-continual-1`,question:`空所に入る適切な語はどれですか。「The machine made a ( ) noise for hours without stopping.（機械は何時間も止まらず連続した音を立てた）」`,options:[`continuous`,`continual`,`continue`,`continually`],correctAnswer:0,explanation:`途切れず続く「連続の」は continuous です。`},{id:`q-continual-2`,question:`「繰り返し起こる・たびたびの（断続的）」を表す語はどれですか。`,options:[`continuous`,`continual`,`continue`,`continuously`],correctAnswer:1,explanation:`断続的な「たびたびの」は continual です。`},{id:`q-continual-3`,question:`空所に入る適切な語はどれですか。「We suffered ( ) power cuts all week.（一週間、たびたびの停電に悩まされた）」`,options:[`continuous`,`continual`,`continue`,`continuum`],correctAnswer:1,explanation:`何度も繰り返す停電は continual です。`},{id:`q-continual-4`,question:`「途切れずにずっと続く」を表すのはどちらですか。`,options:[`continuous`,`continual`,`どちらも`,`どちらも違う`],correctAnswer:0,explanation:`continuous が「連続（切れ目なし）」。continual は「断続」です。`},{id:`q-continual-5`,question:`空所に入る適切な語はどれですか。「A ( ) line has no gaps.（連続した線には切れ目がない）」`,options:[`continuous`,`continual`,`continue`,`continually`],correctAnswer:0,explanation:`切れ目のない「連続した」は continuous です。`}]},{id:`human-humane`,title:`human と humane`,chapter:3,description:`human「人間の・人間」、humane「人道的な・思いやりのある」。末尾 e とアクセントで意味が変わる。`,content:`## 「人間の」か「思いやりある」かで見分ける
+🎯 覚え方：**-al の continual は「たびたび（何度も・合間あり）」、-ous の continuous は「切れ目なくずっと」**。何度も繰り返すなら continual、ノンストップなら continuous。
+
+### 綴りの中の文字が意味のヒントになる
+
+continual は l（エル）が2つ連なっており、これを途切れ・区切りの印と結びつけて「間に挟まる（interrupted）」というイメージで覚える人もいます。一方 continuous は o と u が連続しており、切れ目なく音がつながる響きそのものが「途切れない（uninterrupted）」という意味と重なります。綴りの見た目から意味を連想する記憶法として広く使われています。
+
+### 実際の文章ではこの区別を守らない書き手も多い
+
+continual と continuous は歴史的にも厳密に使い分けられてきたわけではなく、現在でも両者を同じ意味で使う書き手が少なくありません。ただし試験や校閲が入る文章では伝統的な区別（断続＝continual、連続＝continuous）が期待されるため、正確さを求められる場面では区別を守るのが安全です。
+
+### 副詞形にも同じ区別が引き継がれる
+
+continually（断続的に・たびたび）と continuously（連続して・絶え間なく）も、形容詞と同じ区別を保ちます。He continually checks his phone.（彼はしょっちゅうスマホを確認する）は何度も繰り返す動作、The machine ran continuously for 24 hours.（機械は24時間ぶっ通しで稼働した）は一度も止まらない動作を表し、動詞を修飾する場面でも断続か連続かの判断基準は変わりません。`,keyPoints:[`continual＝繰り返し起こる・断続的（合間に途切れあり）`,`continuous＝途切れずに続く（連続・切れ目なし）`,`「たびたび」は continual、「ノンストップ」は continuous`],quiz:[{id:`q-continual-1`,question:`空所に入る適切な語はどれですか。「The machine made a ( ) noise for hours without stopping.（機械は何時間も止まらず連続した音を立てた）」`,options:[`continuous`,`continual`,`continue`,`continually`],correctAnswer:0,explanation:`途切れず続く「連続の」は continuous です。`},{id:`q-continual-2`,question:`「繰り返し起こる・たびたびの（断続的）」を表す語はどれですか。`,options:[`continuous`,`continual`,`continue`,`continuously`],correctAnswer:1,explanation:`断続的な「たびたびの」は continual です。`},{id:`q-continual-3`,question:`空所に入る適切な語はどれですか。「We suffered ( ) power cuts all week.（一週間、たびたびの停電に悩まされた）」`,options:[`continuous`,`continual`,`continue`,`continuum`],correctAnswer:1,explanation:`何度も繰り返す停電は continual です。`},{id:`q-continual-4`,question:`「途切れずにずっと続く」を表すのはどちらですか。`,options:[`continuous`,`continual`,`どちらも`,`どちらも違う`],correctAnswer:0,explanation:`continuous が「連続（切れ目なし）」。continual は「断続」です。`},{id:`q-continual-5`,question:`空所に入る適切な語はどれですか。「A ( ) line has no gaps.（連続した線には切れ目がない）」`,options:[`continuous`,`continual`,`continue`,`continually`],correctAnswer:0,explanation:`切れ目のない「連続した」は continuous です。`}]},{id:`human-humane`,title:`human と humane`,chapter:3,description:`human「人間の・人間」、humane「人道的な・思いやりのある」。末尾 e とアクセントで意味が変わる。`,content:`## 「人間の」か「思いやりある」かで見分ける
 
 末尾の **e** とアクセントの位置で、意味も発音も変わります。
 
@@ -4634,7 +4718,19 @@ stair は建物内部の階段一式（複数形 stairs）を指すのに対し�
 
 💡 learn a lesson は「教訓を得る」。teach someone a lesson は「思い知らせる」という意味でも使われます。
 
-🎯 覚え方：**-en がつけば動詞（less＋en＝少なくする）、-on なら名詞のレッスン**。`,keyPoints:[`lessen と lesson は同音 /ˈlesn/`,`lessen＝動詞「減らす・和らげる」（less＋-en）`,`lesson＝名詞「授業・教訓」`],quiz:[{id:`q-lessen-1`,question:`空所に入る適切な語はどれですか。「Exercise can ( ) the risk of illness.（運動は病気のリスクを減らしうる）」`,options:[`lesson`,`lessons`,`lessoned`,`lessen`],correctAnswer:3,explanation:`「減らす」は動詞 lessen です。`},{id:`q-lessen-2`,question:`空所に入る適切な語はどれですか。「She takes a violin ( ) every Saturday.（毎週土曜にバイオリンのレッスンを受ける）」`,options:[`lessen`,`lesson`,`lessens`,`lessened`],correctAnswer:1,explanation:`授業・けいこは名詞 lesson です。`},{id:`q-lessen-3`,question:`lessen の成り立ちとして正しいものはどれですか。`,options:[`less＋-on`,`lesson＋-en`,`less＋-en（〜にする）`,`lease＋-en`],correctAnswer:2,explanation:`形容詞 less に動詞をつくる -en がついた形です。`},{id:`q-lessen-4`,question:`「教訓を学ぶ」を表す表現はどれですか。`,options:[`learn a lessen`,`lessen a learn`,`lesson to learn less`,`learn a lesson`],correctAnswer:3,explanation:`learn a lesson で「教訓を得る」です。`},{id:`q-lessen-5`,question:`lessen と lesson の品詞の組み合わせとして正しいものはどれですか。`,options:[`lessen＝動詞／lesson＝名詞`,`lessen＝名詞／lesson＝動詞`,`どちらも動詞`,`どちらも名詞`],correctAnswer:0,explanation:`lessen が動詞、lesson が名詞です。`}]},{id:`seam-seem`,title:`seam と seem`,chapter:4,description:`同音 /siːm/。seam は名詞「縫い目・継ぎ目」、seem は動詞「〜のように思える」。`,content:`## 音は同じ、布の目か印象か
+🎯 覚え方：**-en がつけば動詞（less＋en＝少なくする）、-on なら名詞のレッスン**。
+
+### teach someone a lesson は文字どおりの授業ではない
+
+teach someone a lesson（〜に思い知らせる・懲らしめる）は、実際の授業ではなく、痛い経験を通じて相手に教訓を学ばせるという比喩的な成句です。That will teach you a lesson.（それでいい経験になったでしょう）のように、失敗や罰を通じた学びを指し、lesson の「教訓」という意味がそのまま生きています。
+
+### -en は形容詞・名詞を動詞に変える生産的な接尾辞
+
+lessen の -en は、less（少ない）という形容詞を「少なくする」という動詞に変える接尾辞で、同じパターンは widen（widen＝広げる、wide＋en）、strengthen（強める、strength＋en）、weaken（弱める、weak＋en）にも見られます。この -en の働きを知っていると、見慣れない -en 動詞に出会ったときも「〜の状態にする」という意味を推測しやすくなります。
+
+### lesson は不可算の「授業」と可算の「1コマ」の両方に使う
+
+lesson は a piano lesson（ピアノのレッスン1回）のように具体的な1コマを指す可算名詞として使われるのが基本ですが、take lessons in French（フランス語を習う）のように複数形でも自然に使われます。「教訓」の意味でも a hard lesson（厳しい教訓）、learn a lesson（教訓を得る）のように可算名詞として扱われ、lessen が常に動詞であるのとは対照的に、lesson は名詞専用でありながら柔軟な使われ方をします。`,keyPoints:[`lessen と lesson は同音 /ˈlesn/`,`lessen＝動詞「減らす・和らげる」（less＋-en）`,`lesson＝名詞「授業・教訓」`],quiz:[{id:`q-lessen-1`,question:`空所に入る適切な語はどれですか。「Exercise can ( ) the risk of illness.（運動は病気のリスクを減らしうる）」`,options:[`lesson`,`lessons`,`lessoned`,`lessen`],correctAnswer:3,explanation:`「減らす」は動詞 lessen です。`},{id:`q-lessen-2`,question:`空所に入る適切な語はどれですか。「She takes a violin ( ) every Saturday.（毎週土曜にバイオリンのレッスンを受ける）」`,options:[`lessen`,`lesson`,`lessens`,`lessened`],correctAnswer:1,explanation:`授業・けいこは名詞 lesson です。`},{id:`q-lessen-3`,question:`lessen の成り立ちとして正しいものはどれですか。`,options:[`less＋-on`,`lesson＋-en`,`less＋-en（〜にする）`,`lease＋-en`],correctAnswer:2,explanation:`形容詞 less に動詞をつくる -en がついた形です。`},{id:`q-lessen-4`,question:`「教訓を学ぶ」を表す表現はどれですか。`,options:[`learn a lessen`,`lessen a learn`,`lesson to learn less`,`learn a lesson`],correctAnswer:3,explanation:`learn a lesson で「教訓を得る」です。`},{id:`q-lessen-5`,question:`lessen と lesson の品詞の組み合わせとして正しいものはどれですか。`,options:[`lessen＝動詞／lesson＝名詞`,`lessen＝名詞／lesson＝動詞`,`どちらも動詞`,`どちらも名詞`],correctAnswer:0,explanation:`lessen が動詞、lesson が名詞です。`}]},{id:`seam-seem`,title:`seam と seem`,chapter:4,description:`同音 /siːm/。seam は名詞「縫い目・継ぎ目」、seem は動詞「〜のように思える」。`,content:`## 音は同じ、布の目か印象か
 
 **seam と seem は同じ発音 /siːm/**の同音異義語です。
 
