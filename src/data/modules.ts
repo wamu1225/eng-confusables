@@ -6956,7 +6956,19 @@ belief/believe と同じく、**-f（relief）が名詞、-ve（relieve）が動
 | relie**f** | /rɪˈliːf/ | 名詞：安心・緩和 | It was a huge **relief** to hear the news.（その知らせにとても安心した） |
 | relie**ve** | /rɪˈliːv/ | 動詞：和らげる | This medicine **relieves** pain.（この薬は痛みを和らげる） |
 
-🎯 覚え方：**名詞は -f（relief）、動詞は -ve（relieve）**。「ほっとした（安心）」は名詞 relief、「痛みを和らげる」は動詞 relieve。`,
+🎯 覚え方：**名詞は -f（relief）、動詞は -ve（relieve）**。「ほっとした（安心）」は名詞 relief、「痛みを和らげる」は動詞 relieve。
+
+### comic relief という演劇用語に残る relief
+
+comic relief（喜劇的な息抜き）は、シェイクスピアの悲劇に見られるように、緊迫した場面の合間にコミカルな要素を挟んで観客の緊張を和らげる演出技法を指す文学用語です。relief の語源であるラテン語 relevare（軽くする・持ち上げる）が持つ「重荷を軽くする」というイメージが、演劇における「感情の重さを一時的に和らげる」という比喩にそのまま転用されています。
+
+### relief map・tax relief に見る意味の広がり
+
+relief には「安心」以外にも、relief map（起伏を表す立体地図・地形図）のように「浮き彫り・立体的な起伏」という意味、tax relief（税の軽減措置）のように「負担の軽減」という意味があります。どちらも「押し下げられていたものを持ち上げる・和らげる」という relieve の中心イメージから枝分かれした用法です。
+
+### relieve of という構文が持つ独特の意味
+
+relieve には relieve someone of something（人から〜を取り除く・免除する）という構文があり、relieve him of his duties（彼を職務から解任する）のように、婉曲的に「役目や責任を取り上げる」という意味で使われます。この用法は「苦痛を和らげる」という基本義から、「負担そのものを取り除く」という方向に意味が広がったものです。`,
     keyPoints: [
       'relief /rɪˈliːf/＝名詞「安心・緩和・救援」（-f）',
       'relieve /rɪˈliːv/＝動詞「和らげる・軽減する」（-ve）',
@@ -9858,7 +9870,19 @@ realize はアメリカ英語の綴りで、イギリス英語では realise と
 | cred**ible** | 情報・人の信頼性 | 信用できる | The witness gave a **credible** account.（証人は信用できる証言をした） |
 | cred**ulous** | 人の性質 | だまされやすい | A **credulous** buyer fell for the scam.（軽信的な買い手が詐欺に引っかかった） |
 
-🎯 覚え方：**-ible の credible は「（対象が）信じられる」**、-ulous の credulous は「（人が）すぐ信じてしまう」。情報が信頼できるなら credible、人がだまされやすいなら credulous。`,
+🎯 覚え方：**-ible の credible は「（対象が）信じられる」**、-ulous の credulous は「（人が）すぐ信じてしまう」。情報が信頼できるなら credible、人がだまされやすいなら credulous。
+
+### incredible と incredulous も同じ向きの区別を引き継ぐ
+
+否定形の incredible（信じられないほどすごい・驚異的な）と incredulous（（人が）信じられないという顔をした・懐疑的な）も、credible/credulous と同じ向きの区別を保ちます。incredible は対象の質を評価する語で日常会話では「すごい」という賞賛の意味に薄まっていますが、incredulous は she looked incredulous（彼女は信じられないという表情をした）のように、常に人の反応・表情を表す語にとどまっています。
+
+### credible とよく似た creditable は意味が別
+
+credible と綴りが近い creditable（称賛に値する・立派な）は、crédit（信用・功績）から派生した別の語で、a creditable performance（立派な出来栄え）のように使われます。credible が「信じられるかどうか」を問うのに対し、creditable は「称賛に値するかどうか」を問うという、意味の軸自体が異なる語です。
+
+### credulity という名詞が持つ皮肉な響き
+
+credulous の名詞形 credulity（軽信・だまされやすさ）は、strain credulity（信じ難い・にわかには信じがたい）という成句でよく使われ、「読者や聞き手の信じる力を限界まで試す」という皮肉な文脈で登場します。sceptical（懐疑的な）が credulous の対義に近い性質を表す語として使われることもあります。`,
     keyPoints: [
       'credible＝信用できる・もっともらしい（情報・証人）',
       'credulous＝（人が）すぐ信じる・だまされやすい',
@@ -10485,7 +10509,19 @@ practicable は as soon as practicable（実行可能になり次第）、so far
 | desir**able** | 望まれる側 | 望ましい | A quiet location is **desirable**.（静かな立地は望ましい） |
 | desir**ous** | 望む側 | 望んでいる | She is **desirous of** success.（彼女は成功を望んでいる） |
 
-🎯 覚え方：**-able の desirable は「（〜される）望ましい」**、-ous の desirous は「（〜を）望んでいる（desirous of）」。物事が「望ましい」なら desirable、人が「望んでいる」なら desirous。`,
+🎯 覚え方：**-able の desirable は「（〜される）望ましい」**、-ous の desirous は「（〜を）望んでいる（desirous of）」。物事が「望ましい」なら desirable、人が「望んでいる」なら desirous。
+
+### desirous は日常会話ではほとんど使われない硬い語
+
+desirous は法律文書や改まった書き言葉で使われる硬い語で、日常会話では want や wish、eager のほうがはるかに一般的です。desirous of ~ という形自体、契約書や公式声明のような文脈で目にすることが多く、話し言葉で She is desirous of success. と言うと不自然に堅苦しく聞こえます。使用頻度の差を知っておくと、どちらが実務でよく出会う語かの見当がつきます。
+
+### desirable は不動産や求人広告で好まれる評価語
+
+desirable は a desirable neighborhood（住み心地の良い地域）、a highly desirable candidate（非常に望ましい候補者）のように、不動産広告や求人票で対象の魅力を伝える評価語として頻繁に使われます。「〜されたいと思わせる性質を持つ」という -able の受け身的な意味が、対象の魅力を客観的に述べる場面に合っています。
+
+### desire という動詞に立ち返ると両語の関係が見える
+
+形容詞2つの元になっている動詞 desire（強く望む）は want よりも改まった響きを持ち、I desire to know the truth.（真実を知ることを強く望む）のように使われます。desirable は「desire される対象」、desirous は「desire している主体」という構図で、同じ動詞から反対方向の形容詞が作られている点を意識すると、この2語の関係がすっきり整理できます。`,
     keyPoints: [
       'desirable＝望ましい・好ましい（望まれる側）',
       'desirous＝（〜を）望んでいる（望む側・desirous of ~）',
@@ -11763,7 +11799,19 @@ amount は動詞では amount to の形をとり、The bill amounted to 12,000 y
 | little / a little | 不可算 | ほとんどない／少し | We have **little** time.（ほとんど時間がない） |
 | few / a few | 可算・複数 | ほとんどない／少し | **A few** students stayed.（数人の生徒が残った） |
 
-🎯 覚え方：**不可算は little、可算は few**。さらに **a が付くと「少しある（肯定）」、付かないと「ほとんどない（否定）」**。water は little、books は few。`,
+🎯 覚え方：**不可算は little、可算は few**。さらに **a が付くと「少しある（肯定）」、付かないと「ほとんどない（否定）」**。water は little、books は few。
+
+### quite a few は「少し」ではなく「かなり多い」という逆説
+
+a few は基本的に「少しある」という意味ですが、quite a few（かなりの数の）という成句になると意味が反転し、「思ったより多い・相当数の」という意味になります。quite a few people attended（かなり多くの人が参加した）のように、few という語自体が持つ「少ない」という語感に反して多さを表すため、初学者が誤解しやすい成句の代表例です。
+
+### few and far between という空間的イメージの成句
+
+few and far between（まれにしか起こらない・数が少なく間隔も広い）は、17世紀にはすでに「点在する家がまばらである」という文字どおりの意味で使われていた表現です。「数が少ない（few）」と「間隔が広い（far between）」という2つの要素が組み合わさることで、時間的にも空間的にも「めったにない」という希少さを強調する成句として定着しました。
+
+### little のもう一つの顔＝形容詞としての「小さい」
+
+little には量の少なさを表す用法とは別に、a little dog（小さな犬）のように「小さい・幼い」という大きさや年齢を表す形容詞の用法があります。この場合は few との対比の話ではなく small に近い意味で、a little town（小さな町）のように親しみを込めた響きを伴うことが多い点も、量を表す little とは異なる特徴です。`,
     keyPoints: [
       'little＝（不可算に）ほとんどない／a little＝少しある',
       'few＝（可算・複数に）ほとんどない／a few＝少しある',
@@ -13147,7 +13195,19 @@ memorable と memorial はどちらもラテン語 memoria（記憶）に由来�
 | forget**ful** | 人 | 忘れっぽい | My grandfather is getting **forgetful**.（祖父は物忘れが増えてきた） |
 | forget**table** | 物・事 | 忘れられやすい | The movie was dull and **forgettable**.（退屈で印象に残らない映画だった） |
 
-🎯 覚え方：**-ful の forgetful は「（人が）忘れでいっぱい＝忘れっぽい」**、-able の forgettable は「（物が）忘れられやすい」。人なら forgetful、作品・出来事なら forgettable。`,
+🎯 覚え方：**-ful の forgetful は「（人が）忘れでいっぱい＝忘れっぽい」**、-able の forgettable は「（物が）忘れられやすい」。人なら forgetful、作品・出来事なら forgettable。
+
+### 反対語の作り方が2語で異なる
+
+forgetful の反対はふつう mindful（気を配る）や attentive（注意深い）のような別語で表しますが、forgettable の反対は接頭辞を付けた unforgettable（忘れられない）という形で作られます。unforgettable は memorable と似た意味で使われますが、unforgettable のほうが「感情的な強さゆえに忘れようがない」という強さを持ち、memorable は「記憶に値する」という穏やかな評価にとどまる点で語感が異なります。
+
+### forgetful は加齢や病気の文脈で使われやすい
+
+forgetful は日常会話で「うっかり屋」という軽い意味でも使われますが、becoming forgettable（もの忘れが増える）、forgetfulness（もの忘れ）という形で高齢者の認知機能の話題でも頻繁に使われます。My grandfather is getting forgetful. という例文のように、加齢に伴う変化を穏やかに表現する語として選ばれることが多い語です。
+
+### -ful と -able がそれぞれ持つ意味の型
+
+-ful は careful（気をつける）、helpful（助けになる）のように「その性質で満ちている」という能動的な性質を表し、-able は washable（洗える）、readable（読める）のように「〜されることができる」という受け身の可能性を表します。forgetful/forgettable のペアはこの2つの接尾辞の型の違いをそのまま体現しており、他の -ful/-able 語のペアを考えるときの手がかりにもなります。`,
     keyPoints: [
       'forgetful＝（人が）忘れっぽい・物覚えが悪い',
       'forgettable＝（物・事が）忘れられやすい・印象に残らない',
@@ -13208,7 +13268,19 @@ memorable と memorial はどちらもラテン語 memoria（記憶）に由来�
 | born | be born 専用 | 生まれる | She was **born** in Kyoto.（京都で生まれた） |
 | borne | 運ぶ・耐える等 | 担われた・耐えた | The cost was **borne** by the company.（費用は会社が負担した） |
 
-🎯 覚え方：**「生まれる（be born）」だけ born、それ以外の bear の完了・受け身は borne（e が付く）**。出生なら born、負担・運搬・耐えるなら borne。`,
+🎯 覚え方：**「生まれる（be born）」だけ born、それ以外の bear の完了・受け身は borne（e が付く）**。出生なら born、負担・運搬・耐えるなら borne。
+
+### 複合語では必ず borne が使われる
+
+airborne（空気で運ばれる・空中の）、waterborne（水を媒介とする）、foodborne（食物由来の）、tick-borne（マダニ媒介の）のような「〜によって運ばれる・媒介される」を表す複合形容詞は、すべて borne を使います。foodborne illness（食中毒）のように病気の伝播経路を表す専門用語にも使われ、born と書き間違えると意味が変わってしまう点に注意が必要です。
+
+### born and bred という定型句の使われ方
+
+born and bred（生まれも育ちも）は、a Bostonian, born and bred（生粋のボストンっ子）のように、出身地や特定の社会階層で生まれ育ったことを強調する定型句です。born だけでなく bred（breed の過去分詞、育てられた）と対で使われることで、「生まれた場所」と「育った環境」の両方がその土地・階層に根ざしていることを表します。
+
+### by が続くと「〜によって負担された」という受動の意味になる
+
+borne by ~（〜によって負担された）という形は、The cost was borne by the company.（費用は会社が負担した）のように、責任や費用の所在を示す改まった言い方でよく使われます。born にはこの受動構文がなく、be born の形以外で使われることはありません。動詞 bear の「支える・担う」という中心義が、borne 側にのみ引き継がれていることがこの構文差からも見て取れます。`,
     keyPoints: [
       'born＝「生まれる（be born）」の意味専用',
       'borne＝bear のそれ以外（運ぶ・耐える・負担する・実らせる）の過去分詞',
@@ -14692,7 +14764,19 @@ continually（断続的に・たびたび）と continuously（連続して・�
 | a**d**verse | 物事・状況 | 不利な・逆の | The plan failed due to **adverse** conditions.（不利な状況で計画は失敗した） |
 | averse | 人の気持ち | 嫌って・気が進まない | She is **averse to** taking risks.（彼女はリスクを嫌う） |
 
-🎯 覚え方：**d のある adverse は「（状況が）不利・逆」、d のない averse は「（人が）嫌がる（averse to）」**。悪影響・悪条件なら adverse、〜したがらないなら averse to。`,
+🎯 覚え方：**d のある adverse は「（状況が）不利・逆」、d のない averse は「（人が）嫌がる（averse to）」**。悪影響・悪条件なら adverse、〜したがらないなら averse to。
+
+### risk-averse という定型句で覚えると失敗しにくい
+
+averse は risk-averse（リスク回避的な・慎重な）という複合語で特によく使われ、投資や経営の話題で頻出します。risk-adverse という誤記もよく見かけますが、averse to risk（リスクを嫌う）という元の構文を思い出せば、d のない averse が正しいと判断できます。人の姿勢・気質を表す語なので、常に人（または組織）が主語になる点も手がかりです。
+
+### adverse は自然現象や医学用語との相性が良い
+
+adverse は adverse weather conditions（悪天候）、adverse effects（副作用・悪影響）のように、人の意志とは無関係に生じる不利な状況や結果を表す場面で使われます。医薬品の説明書に頻出する adverse reaction（有害反応）もこの用法で、averse に置き換えることはできません。対象が「人の感情」か「客観的な状況」かを見極めれば、機械的に判別できます。
+
+### 覚え方の鍵は d を取り除くと「向き合わない」姿勢が残ること
+
+adverse から d を取り除くと averse になるという綴りの近さは偶然ではなく、どちらもラテン語 vertere（向きを変える）に由来する語族です。ad-（〜へ）+ vertere で「（不利に）向いた」状況を表す adverse、ab-（〜から離れて）+ vertere で「（嫌って）背を向ける」averse という、正反対の前置詞的接頭辞の違いが元になっています。`,
     keyPoints: [
       'adverse＝不利な・好ましくない・逆の（物事・状況）',
       'averse＝（〜を）嫌って・気が進まない（人・averse to ~）',
@@ -14826,7 +14910,19 @@ illusion は magic trick（手品）のようなエンターテインメント�
 | eligible | /ˈɛlɪdʒəbl/ | 資格がある | You are **eligible** for the discount.（あなたは割引の資格がある） |
 | illegible | /ɪˈlɛdʒəbl/ | 判読できない | His handwriting is **illegible**.（彼の字は判読できない） |
 
-🎯 覚え方：**eligible は「選ばれる（elect）資格」、illegible は il-（否定）＋legible（読める）＝「読めない」**。資格なら eligible、字が読めないなら illegible。`,
+🎯 覚え方：**eligible は「選ばれる（elect）資格」、illegible は il-（否定）＋legible（読める）＝「読めない」**。資格なら eligible、字が読めないなら illegible。
+
+### eligible bachelor という定型句が示す語感の広がり
+
+eligible bachelor（結婚相手として申し分ない独身男性）という成句は、eligible が制度上の「資格」だけでなく、「選ばれるにふさわしい・望ましい」という一般的な魅力の評価にも使われることを示しています。eligible voter（有権者としての資格を持つ人）のような制度的な用法と、この社会的な用法の両方を押さえておくと語の守備範囲がつかめます。
+
+### legible という土台の語を知ると illegible が整理できる
+
+illegible は legible（読める・判読できる）に否定の il-（in- が l の前で同化した形）が付いた語です。legible 自体は This font is highly legible.（この書体は非常に読みやすい）のように肯定文でも使われる語で、legible ↔ illegible という対を意識すると、eligible との語形の違い（elect 由来か legere 由来か）も併せて整理できます。
+
+### 医師の悪筆というジョークが定番の連想材料になっている
+
+英語圏では「医師の処方箋の字が illegible で薬剤師が読めない」という定番のジョークがあり、illegible の実例として頻繁に引き合いに出されます。The doctor's handwriting was illegible.（医師の字は判読できなかった）のような文は、eligible（資格）と混同しやすい illegible（読めない）を、具体的な情景とセットで記憶に定着させるのに役立ちます。`,
     keyPoints: [
       'eligible＝（〜の）資格がある・適格な（eligible for/to do）',
       'illegible＝判読できない・読めない（il-＋legible、反対 legible）',
