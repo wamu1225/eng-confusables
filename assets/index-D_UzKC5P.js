@@ -2165,7 +2165,19 @@ belief/believe と同じく、**-f（relief）が名詞、-ve（relieve）が動
 | relie**f** | /rɪˈliːf/ | 名詞：安心・緩和 | It was a huge **relief** to hear the news.（その知らせにとても安心した） |
 | relie**ve** | /rɪˈliːv/ | 動詞：和らげる | This medicine **relieves** pain.（この薬は痛みを和らげる） |
 
-🎯 覚え方：**名詞は -f（relief）、動詞は -ve（relieve）**。「ほっとした（安心）」は名詞 relief、「痛みを和らげる」は動詞 relieve。`,keyPoints:[`relief /rɪˈliːf/＝名詞「安心・緩和・救援」（-f）`,`relieve /rɪˈliːv/＝動詞「和らげる・軽減する」（-ve）`,`belief/believe と同じ -f 名詞／-ve 動詞`],quiz:[{id:`q-relief-1`,question:`空所に入る適切な語はどれですか。「Aspirin can ( ) a headache.（アスピリンは頭痛を和らげる）」`,options:[`relief`,`reliefs`,`relieved`,`relieve`],correctAnswer:3,explanation:`動詞「和らげる」は relieve です。`},{id:`q-relief-2`,question:`「安心・ほっとすること」という意味の名詞はどれですか。`,options:[`relieve`,`relieves`,`relief`,`relieving`],correctAnswer:2,explanation:`名詞「安心・緩和」は relief /rɪˈliːf/ です。`},{id:`q-relief-3`,question:`空所に入る適切な語はどれですか。「To my ( ), the test was easy.（ほっとしたことに、テストは簡単だった）」`,options:[`relieve`,`relieves`,`relief`,`relieved`],correctAnswer:2,explanation:`成句 to my relief「ほっとしたことに」の名詞 relief です。`},{id:`q-relief-4`,question:`語尾が濁る /v/ で、動詞「和らげる」なのはどちらですか。`,options:[`relief`,`relieve`,`どちらも`,`どちらも違う`],correctAnswer:1,explanation:`relieve /rɪˈliːv/（動詞）。relief /rɪˈliːf/（名詞）です。`},{id:`q-relief-5`,question:`空所に入る適切な語はどれですか。「The charity brought ( ) to the flood victims.（慈善団体は水害の被災者に救援をもたらした）」`,options:[`relieve`,`relieves`,`relief`,`relieved`],correctAnswer:2,explanation:`名詞「救援・緩和」は relief です。`}]},{id:`make-do`,title:`make と do`,chapter:2,description:`作り出すか、行うか。make は「（新しく）作り出す・生じさせる」、do は「（行為・仕事を）する・行う」。`,content:`## 生み出すか、こなすかで見分ける
+🎯 覚え方：**名詞は -f（relief）、動詞は -ve（relieve）**。「ほっとした（安心）」は名詞 relief、「痛みを和らげる」は動詞 relieve。
+
+### comic relief という演劇用語に残る relief
+
+comic relief（喜劇的な息抜き）は、シェイクスピアの悲劇に見られるように、緊迫した場面の合間にコミカルな要素を挟んで観客の緊張を和らげる演出技法を指す文学用語です。relief の語源であるラテン語 relevare（軽くする・持ち上げる）が持つ「重荷を軽くする」というイメージが、演劇における「感情の重さを一時的に和らげる」という比喩にそのまま転用されています。
+
+### relief map・tax relief に見る意味の広がり
+
+relief には「安心」以外にも、relief map（起伏を表す立体地図・地形図）のように「浮き彫り・立体的な起伏」という意味、tax relief（税の軽減措置）のように「負担の軽減」という意味があります。どちらも「押し下げられていたものを持ち上げる・和らげる」という relieve の中心イメージから枝分かれした用法です。
+
+### relieve of という構文が持つ独特の意味
+
+relieve には relieve someone of something（人から〜を取り除く・免除する）という構文があり、relieve him of his duties（彼を職務から解任する）のように、婉曲的に「役目や責任を取り上げる」という意味で使われます。この用法は「苦痛を和らげる」という基本義から、「負担そのものを取り除く」という方向に意味が広がったものです。`,keyPoints:[`relief /rɪˈliːf/＝名詞「安心・緩和・救援」（-f）`,`relieve /rɪˈliːv/＝動詞「和らげる・軽減する」（-ve）`,`belief/believe と同じ -f 名詞／-ve 動詞`],quiz:[{id:`q-relief-1`,question:`空所に入る適切な語はどれですか。「Aspirin can ( ) a headache.（アスピリンは頭痛を和らげる）」`,options:[`relief`,`reliefs`,`relieved`,`relieve`],correctAnswer:3,explanation:`動詞「和らげる」は relieve です。`},{id:`q-relief-2`,question:`「安心・ほっとすること」という意味の名詞はどれですか。`,options:[`relieve`,`relieves`,`relief`,`relieving`],correctAnswer:2,explanation:`名詞「安心・緩和」は relief /rɪˈliːf/ です。`},{id:`q-relief-3`,question:`空所に入る適切な語はどれですか。「To my ( ), the test was easy.（ほっとしたことに、テストは簡単だった）」`,options:[`relieve`,`relieves`,`relief`,`relieved`],correctAnswer:2,explanation:`成句 to my relief「ほっとしたことに」の名詞 relief です。`},{id:`q-relief-4`,question:`語尾が濁る /v/ で、動詞「和らげる」なのはどちらですか。`,options:[`relief`,`relieve`,`どちらも`,`どちらも違う`],correctAnswer:1,explanation:`relieve /rɪˈliːv/（動詞）。relief /rɪˈliːf/（名詞）です。`},{id:`q-relief-5`,question:`空所に入る適切な語はどれですか。「The charity brought ( ) to the flood victims.（慈善団体は水害の被災者に救援をもたらした）」`,options:[`relieve`,`relieves`,`relief`,`relieved`],correctAnswer:2,explanation:`名詞「救援・緩和」は relief です。`}]},{id:`make-do`,title:`make と do`,chapter:2,description:`作り出すか、行うか。make は「（新しく）作り出す・生じさせる」、do は「（行為・仕事を）する・行う」。`,content:`## 生み出すか、こなすかで見分ける
 
 どちらも「する」と訳せますが、**新しく何かを作り出すか、行為・作業をこなすか**で使い分けます。
 
@@ -3005,7 +3017,19 @@ realize はアメリカ英語の綴りで、イギリス英語では realise と
 | cred**ible** | 情報・人の信頼性 | 信用できる | The witness gave a **credible** account.（証人は信用できる証言をした） |
 | cred**ulous** | 人の性質 | だまされやすい | A **credulous** buyer fell for the scam.（軽信的な買い手が詐欺に引っかかった） |
 
-🎯 覚え方：**-ible の credible は「（対象が）信じられる」**、-ulous の credulous は「（人が）すぐ信じてしまう」。情報が信頼できるなら credible、人がだまされやすいなら credulous。`,keyPoints:[`credible＝信用できる・もっともらしい（情報・証人）`,`credulous＝（人が）すぐ信じる・だまされやすい`,`対象が信頼できる=credible、人が軽信的=credulous`],quiz:[{id:`q-credible-1`,question:`空所に入る適切な語はどれですか。「Too ( ), he believed every rumor.（軽信的すぎて、彼はどんな噂も信じた）」`,options:[`credible`,`credibly`,`credulous`,`credit`],correctAnswer:2,explanation:`「（人が）だまされやすい・軽信的な」は credulous です。`},{id:`q-credible-2`,question:`「信用できる・もっともらしい」という意味の語はどれですか。`,options:[`credulous`,`credit`,`credible`,`credulity`],correctAnswer:2,explanation:`「信用できる」は credible（-ible）です。`},{id:`q-credible-3`,question:`空所に入る適切な語はどれですか。「Is there any ( ) evidence for this claim?（この主張に信用できる証拠はある？）」`,options:[`credulous`,`credit`,`credible`,`credulity`],correctAnswer:2,explanation:`証拠が「信用できる」は credible です。`},{id:`q-credible-4`,question:`「（人が）すぐ信じる・だまされやすい」を表すのはどちらですか。`,options:[`credulous`,`credible`,`どちらも`,`どちらも違う`],correctAnswer:0,explanation:`人の性質「だまされやすい」は credulous。情報の信頼性は credible です。`},{id:`q-credible-5`,question:`空所に入る適切な語はどれですか。「Her story sounded ( ) enough to trust.（彼女の話は信じるに足るほどもっともらしかった）」`,options:[`credulous`,`credit`,`credible`,`credulity`],correctAnswer:2,explanation:`「もっともらしい・信用できる」は credible です。`}]},{id:`threw-through`,title:`threw と through`,chapter:4,description:`同音 /θruː/。threw「throw の過去（投げた）」、through「〜を通って」（前置詞）。意味とスペルで判断。`,content:`## 音は同じ、意味とスペルで見分ける
+🎯 覚え方：**-ible の credible は「（対象が）信じられる」**、-ulous の credulous は「（人が）すぐ信じてしまう」。情報が信頼できるなら credible、人がだまされやすいなら credulous。
+
+### incredible と incredulous も同じ向きの区別を引き継ぐ
+
+否定形の incredible（信じられないほどすごい・驚異的な）と incredulous（（人が）信じられないという顔をした・懐疑的な）も、credible/credulous と同じ向きの区別を保ちます。incredible は対象の質を評価する語で日常会話では「すごい」という賞賛の意味に薄まっていますが、incredulous は she looked incredulous（彼女は信じられないという表情をした）のように、常に人の反応・表情を表す語にとどまっています。
+
+### credible とよく似た creditable は意味が別
+
+credible と綴りが近い creditable（称賛に値する・立派な）は、crédit（信用・功績）から派生した別の語で、a creditable performance（立派な出来栄え）のように使われます。credible が「信じられるかどうか」を問うのに対し、creditable は「称賛に値するかどうか」を問うという、意味の軸自体が異なる語です。
+
+### credulity という名詞が持つ皮肉な響き
+
+credulous の名詞形 credulity（軽信・だまされやすさ）は、strain credulity（信じ難い・にわかには信じがたい）という成句でよく使われ、「読者や聞き手の信じる力を限界まで試す」という皮肉な文脈で登場します。sceptical（懐疑的な）が credulous の対義に近い性質を表す語として使われることもあります。`,keyPoints:[`credible＝信用できる・もっともらしい（情報・証人）`,`credulous＝（人が）すぐ信じる・だまされやすい`,`対象が信頼できる=credible、人が軽信的=credulous`],quiz:[{id:`q-credible-1`,question:`空所に入る適切な語はどれですか。「Too ( ), he believed every rumor.（軽信的すぎて、彼はどんな噂も信じた）」`,options:[`credible`,`credibly`,`credulous`,`credit`],correctAnswer:2,explanation:`「（人が）だまされやすい・軽信的な」は credulous です。`},{id:`q-credible-2`,question:`「信用できる・もっともらしい」という意味の語はどれですか。`,options:[`credulous`,`credit`,`credible`,`credulity`],correctAnswer:2,explanation:`「信用できる」は credible（-ible）です。`},{id:`q-credible-3`,question:`空所に入る適切な語はどれですか。「Is there any ( ) evidence for this claim?（この主張に信用できる証拠はある？）」`,options:[`credulous`,`credit`,`credible`,`credulity`],correctAnswer:2,explanation:`証拠が「信用できる」は credible です。`},{id:`q-credible-4`,question:`「（人が）すぐ信じる・だまされやすい」を表すのはどちらですか。`,options:[`credulous`,`credible`,`どちらも`,`どちらも違う`],correctAnswer:0,explanation:`人の性質「だまされやすい」は credulous。情報の信頼性は credible です。`},{id:`q-credible-5`,question:`空所に入る適切な語はどれですか。「Her story sounded ( ) enough to trust.（彼女の話は信じるに足るほどもっともらしかった）」`,options:[`credulous`,`credit`,`credible`,`credulity`],correctAnswer:2,explanation:`「もっともらしい・信用できる」は credible です。`}]},{id:`threw-through`,title:`threw と through`,chapter:4,description:`同音 /θruː/。threw「throw の過去（投げた）」、through「〜を通って」（前置詞）。意味とスペルで判断。`,content:`## 音は同じ、意味とスペルで見分ける
 
 **threw と through は同じ発音 /θruː/（同音異義語）**。意味と品詞で決めます。
 
@@ -3190,7 +3214,19 @@ practicable は as soon as practicable（実行可能になり次第）、so far
 | desir**able** | 望まれる側 | 望ましい | A quiet location is **desirable**.（静かな立地は望ましい） |
 | desir**ous** | 望む側 | 望んでいる | She is **desirous of** success.（彼女は成功を望んでいる） |
 
-🎯 覚え方：**-able の desirable は「（〜される）望ましい」**、-ous の desirous は「（〜を）望んでいる（desirous of）」。物事が「望ましい」なら desirable、人が「望んでいる」なら desirous。`,keyPoints:[`desirable＝望ましい・好ましい（望まれる側）`,`desirous＝（〜を）望んでいる（望む側・desirous of ~）`,`望まれる=desirable、望む=desirous`],quiz:[{id:`q-desirable-1`,question:`空所に入る適切な語はどれですか。「Many are ( ) of a better future.（多くの人がより良い未来を望んでいる）」`,options:[`desirable`,`desirably`,`desire`,`desirous`],correctAnswer:3,explanation:`「（〜を）望んでいる」は desirous of ~ です。`},{id:`q-desirable-2`,question:`「望ましい・好ましい」という意味の語はどれですか。`,options:[`desirous`,`desire`,`desirably`,`desirable`],correctAnswer:3,explanation:`「望ましい」は desirable（-able）です。`},{id:`q-desirable-3`,question:`空所に入る適切な語はどれですか。「Experience is ( ) but not required.（経験は望ましいが必須ではない）」`,options:[`desirous`,`desire`,`desirously`,`desirable`],correctAnswer:3,explanation:`「望ましい（条件）」は desirable です。`},{id:`q-desirable-4`,question:`「（人が〜を）望んでいる」を表すのはどちらですか。`,options:[`desirable`,`desirous`,`どちらも`,`どちらも違う`],correctAnswer:1,explanation:`望む側は desirous（of ~）。望まれる側は desirable です。`},{id:`q-desirable-5`,question:`空所に入る適切な語はどれですか。「A sea view makes the house more ( ).（海の眺めは家をより魅力的にする）」`,options:[`desirous`,`desire`,`desirously`,`desirable`],correctAnswer:3,explanation:`「魅力的・望ましい」は desirable です。`}]},{id:`rain-reign-rein`,title:`rain と reign と rein`,chapter:4,description:`同音 /reɪn/。rain「雨」、reign「統治（する）・治世」、rein「手綱」。意味とスペルで判断する同音異義語。`,content:`## 役割で見分ける（3語の同音）
+🎯 覚え方：**-able の desirable は「（〜される）望ましい」**、-ous の desirous は「（〜を）望んでいる（desirous of）」。物事が「望ましい」なら desirable、人が「望んでいる」なら desirous。
+
+### desirous は日常会話ではほとんど使われない硬い語
+
+desirous は法律文書や改まった書き言葉で使われる硬い語で、日常会話では want や wish、eager のほうがはるかに一般的です。desirous of ~ という形自体、契約書や公式声明のような文脈で目にすることが多く、話し言葉で She is desirous of success. と言うと不自然に堅苦しく聞こえます。使用頻度の差を知っておくと、どちらが実務でよく出会う語かの見当がつきます。
+
+### desirable は不動産や求人広告で好まれる評価語
+
+desirable は a desirable neighborhood（住み心地の良い地域）、a highly desirable candidate（非常に望ましい候補者）のように、不動産広告や求人票で対象の魅力を伝える評価語として頻繁に使われます。「〜されたいと思わせる性質を持つ」という -able の受け身的な意味が、対象の魅力を客観的に述べる場面に合っています。
+
+### desire という動詞に立ち返ると両語の関係が見える
+
+形容詞2つの元になっている動詞 desire（強く望む）は want よりも改まった響きを持ち、I desire to know the truth.（真実を知ることを強く望む）のように使われます。desirable は「desire される対象」、desirous は「desire している主体」という構図で、同じ動詞から反対方向の形容詞が作られている点を意識すると、この2語の関係がすっきり整理できます。`,keyPoints:[`desirable＝望ましい・好ましい（望まれる側）`,`desirous＝（〜を）望んでいる（望む側・desirous of ~）`,`望まれる=desirable、望む=desirous`],quiz:[{id:`q-desirable-1`,question:`空所に入る適切な語はどれですか。「Many are ( ) of a better future.（多くの人がより良い未来を望んでいる）」`,options:[`desirable`,`desirably`,`desire`,`desirous`],correctAnswer:3,explanation:`「（〜を）望んでいる」は desirous of ~ です。`},{id:`q-desirable-2`,question:`「望ましい・好ましい」という意味の語はどれですか。`,options:[`desirous`,`desire`,`desirably`,`desirable`],correctAnswer:3,explanation:`「望ましい」は desirable（-able）です。`},{id:`q-desirable-3`,question:`空所に入る適切な語はどれですか。「Experience is ( ) but not required.（経験は望ましいが必須ではない）」`,options:[`desirous`,`desire`,`desirously`,`desirable`],correctAnswer:3,explanation:`「望ましい（条件）」は desirable です。`},{id:`q-desirable-4`,question:`「（人が〜を）望んでいる」を表すのはどちらですか。`,options:[`desirable`,`desirous`,`どちらも`,`どちらも違う`],correctAnswer:1,explanation:`望む側は desirous（of ~）。望まれる側は desirable です。`},{id:`q-desirable-5`,question:`空所に入る適切な語はどれですか。「A sea view makes the house more ( ).（海の眺めは家をより魅力的にする）」`,options:[`desirous`,`desire`,`desirously`,`desirable`],correctAnswer:3,explanation:`「魅力的・望ましい」は desirable です。`}]},{id:`rain-reign-rein`,title:`rain と reign と rein`,chapter:4,description:`同音 /reɪn/。rain「雨」、reign「統治（する）・治世」、rein「手綱」。意味とスペルで判断する同音異義語。`,content:`## 役割で見分ける（3語の同音）
 
 **rain・reign・rein はすべて同じ発音 /reɪn/**。意味とスペルで決めます。
 
@@ -3536,7 +3572,19 @@ amount は動詞では amount to の形をとり、The bill amounted to 12,000 y
 | little / a little | 不可算 | ほとんどない／少し | We have **little** time.（ほとんど時間がない） |
 | few / a few | 可算・複数 | ほとんどない／少し | **A few** students stayed.（数人の生徒が残った） |
 
-🎯 覚え方：**不可算は little、可算は few**。さらに **a が付くと「少しある（肯定）」、付かないと「ほとんどない（否定）」**。water は little、books は few。`,keyPoints:[`little＝（不可算に）ほとんどない／a little＝少しある`,`few＝（可算・複数に）ほとんどない／a few＝少しある`,`不可算=little、可算=few。a の有無で肯定/否定が変わる`],quiz:[{id:`q-little-1`,question:`空所に入る適切な語はどれですか。「( ) people know this secret.（この秘密を知る人はほとんどいない）」`,options:[`Few`,`Little`,`Littles`,`Fews`],correctAnswer:0,explanation:`people は可算・複数で「ほとんどない」は Few です。`},{id:`q-little-2`,question:`空所に入る適切な語はどれですか。「There is ( ) hope of success.（成功の望みはほとんどない）」`,options:[`few`,`fews`,`littles`,`little`],correctAnswer:3,explanation:`hope は不可算で「ほとんどない」は little です。`},{id:`q-little-3`,question:`可算名詞（複数）に付くのはどちらですか。`,options:[`few`,`little`,`どちらも`,`どちらも違う`],correctAnswer:0,explanation:`可算・複数には few。不可算には little です。`},{id:`q-little-4`,question:`空所に入る適切な語はどれですか。「Can I have ( ) water?（少し水をもらえる？）」`,options:[`a little`,`a few`,`few`,`little`],correctAnswer:0,explanation:`water は不可算で「少しある（肯定）」は a little です。`},{id:`q-little-5`,question:`「a ( ) friends came（数人の友達が来た）」の空所に入るのはどれですか。`,options:[`few`,`little`,`much`,`amount`],correctAnswer:0,explanation:`friends は可算・複数で「少し（数人）」は a few です。`}]},{id:`regretful-regrettable`,title:`regretful と regrettable`,chapter:3,description:`regretful「（人が）後悔している・残念に思う」、regrettable「（事が）残念な・遺憾な」。主語が人か事かで使い分ける。`,content:`## 人が感じるか、事が残念かで見分ける
+🎯 覚え方：**不可算は little、可算は few**。さらに **a が付くと「少しある（肯定）」、付かないと「ほとんどない（否定）」**。water は little、books は few。
+
+### quite a few は「少し」ではなく「かなり多い」という逆説
+
+a few は基本的に「少しある」という意味ですが、quite a few（かなりの数の）という成句になると意味が反転し、「思ったより多い・相当数の」という意味になります。quite a few people attended（かなり多くの人が参加した）のように、few という語自体が持つ「少ない」という語感に反して多さを表すため、初学者が誤解しやすい成句の代表例です。
+
+### few and far between という空間的イメージの成句
+
+few and far between（まれにしか起こらない・数が少なく間隔も広い）は、17世紀にはすでに「点在する家がまばらである」という文字どおりの意味で使われていた表現です。「数が少ない（few）」と「間隔が広い（far between）」という2つの要素が組み合わさることで、時間的にも空間的にも「めったにない」という希少さを強調する成句として定着しました。
+
+### little のもう一つの顔＝形容詞としての「小さい」
+
+little には量の少なさを表す用法とは別に、a little dog（小さな犬）のように「小さい・幼い」という大きさや年齢を表す形容詞の用法があります。この場合は few との対比の話ではなく small に近い意味で、a little town（小さな町）のように親しみを込めた響きを伴うことが多い点も、量を表す little とは異なる特徴です。`,keyPoints:[`little＝（不可算に）ほとんどない／a little＝少しある`,`few＝（可算・複数に）ほとんどない／a few＝少しある`,`不可算=little、可算=few。a の有無で肯定/否定が変わる`],quiz:[{id:`q-little-1`,question:`空所に入る適切な語はどれですか。「( ) people know this secret.（この秘密を知る人はほとんどいない）」`,options:[`Few`,`Little`,`Littles`,`Fews`],correctAnswer:0,explanation:`people は可算・複数で「ほとんどない」は Few です。`},{id:`q-little-2`,question:`空所に入る適切な語はどれですか。「There is ( ) hope of success.（成功の望みはほとんどない）」`,options:[`few`,`fews`,`littles`,`little`],correctAnswer:3,explanation:`hope は不可算で「ほとんどない」は little です。`},{id:`q-little-3`,question:`可算名詞（複数）に付くのはどちらですか。`,options:[`few`,`little`,`どちらも`,`どちらも違う`],correctAnswer:0,explanation:`可算・複数には few。不可算には little です。`},{id:`q-little-4`,question:`空所に入る適切な語はどれですか。「Can I have ( ) water?（少し水をもらえる？）」`,options:[`a little`,`a few`,`few`,`little`],correctAnswer:0,explanation:`water は不可算で「少しある（肯定）」は a little です。`},{id:`q-little-5`,question:`「a ( ) friends came（数人の友達が来た）」の空所に入るのはどれですか。`,options:[`few`,`little`,`much`,`amount`],correctAnswer:0,explanation:`friends は可算・複数で「少し（数人）」は a few です。`}]},{id:`regretful-regrettable`,title:`regretful と regrettable`,chapter:3,description:`regretful「（人が）後悔している・残念に思う」、regrettable「（事が）残念な・遺憾な」。主語が人か事かで使い分ける。`,content:`## 人が感じるか、事が残念かで見分ける
 
 同じ regret（後悔）から派生しますが、主語が違います。
 
@@ -3891,7 +3939,19 @@ memorable と memorial はどちらもラテン語 memoria（記憶）に由来�
 | forget**ful** | 人 | 忘れっぽい | My grandfather is getting **forgetful**.（祖父は物忘れが増えてきた） |
 | forget**table** | 物・事 | 忘れられやすい | The movie was dull and **forgettable**.（退屈で印象に残らない映画だった） |
 
-🎯 覚え方：**-ful の forgetful は「（人が）忘れでいっぱい＝忘れっぽい」**、-able の forgettable は「（物が）忘れられやすい」。人なら forgetful、作品・出来事なら forgettable。`,keyPoints:[`forgetful＝（人が）忘れっぽい・物覚えが悪い`,`forgettable＝（物・事が）忘れられやすい・印象に残らない`,`人なら forgetful、物・事なら forgettable`],quiz:[{id:`q-forgetful-1`,question:`空所に入る適切な語はどれですか。「The performance was ( ); no one remembers it.（その公演は印象に残らず、誰も覚えていない）」`,options:[`forgettable`,`forgetful`,`forget`,`forgetfully`],correctAnswer:0,explanation:`物・事が「忘れられやすい・印象に残らない」は forgettable です。`},{id:`q-forgetful-2`,question:`「（人が）忘れっぽい」という意味の語はどれですか。`,options:[`forgettable`,`forget`,`forgetfully`,`forgetful`],correctAnswer:3,explanation:`人の性質「忘れっぽい」は forgetful です。`},{id:`q-forgetful-3`,question:`空所に入る適切な語はどれですか。「Write it down if you are ( ).（忘れっぽいならメモして）」`,options:[`forgettable`,`forget`,`forgettably`,`forgetful`],correctAnswer:3,explanation:`人が「忘れっぽい」は forgetful です。`},{id:`q-forgetful-4`,question:`物・事が「忘れられやすい・印象に残らない」を表すのはどちらですか。`,options:[`forgettable`,`forgetful`,`どちらも`,`どちらも違う`],correctAnswer:0,explanation:`forgettable が「忘れられやすい」。forgetful は人が「忘れっぽい」です。`},{id:`q-forgetful-5`,question:`空所に入る適切な語はどれですか。「She was so ( ) that she lost her keys daily.（彼女はとても忘れっぽく、毎日鍵をなくした）」`,options:[`forgettable`,`forget`,`forgettably`,`forgetful`],correctAnswer:3,explanation:`人が「忘れっぽい」は forgetful です。`}]},{id:`born-borne`,title:`born と borne`,chapter:1,description:`同じ bear の過去分詞。born は「生まれる（be born）」の意味専用、borne はそれ以外（運ぶ・耐える・実らせる）の過去分詞。`,content:`## 「生まれる」かそれ以外かで見分ける
+🎯 覚え方：**-ful の forgetful は「（人が）忘れでいっぱい＝忘れっぽい」**、-able の forgettable は「（物が）忘れられやすい」。人なら forgetful、作品・出来事なら forgettable。
+
+### 反対語の作り方が2語で異なる
+
+forgetful の反対はふつう mindful（気を配る）や attentive（注意深い）のような別語で表しますが、forgettable の反対は接頭辞を付けた unforgettable（忘れられない）という形で作られます。unforgettable は memorable と似た意味で使われますが、unforgettable のほうが「感情的な強さゆえに忘れようがない」という強さを持ち、memorable は「記憶に値する」という穏やかな評価にとどまる点で語感が異なります。
+
+### forgetful は加齢や病気の文脈で使われやすい
+
+forgetful は日常会話で「うっかり屋」という軽い意味でも使われますが、becoming forgettable（もの忘れが増える）、forgetfulness（もの忘れ）という形で高齢者の認知機能の話題でも頻繁に使われます。My grandfather is getting forgetful. という例文のように、加齢に伴う変化を穏やかに表現する語として選ばれることが多い語です。
+
+### -ful と -able がそれぞれ持つ意味の型
+
+-ful は careful（気をつける）、helpful（助けになる）のように「その性質で満ちている」という能動的な性質を表し、-able は washable（洗える）、readable（読める）のように「〜されることができる」という受け身の可能性を表します。forgetful/forgettable のペアはこの2つの接尾辞の型の違いをそのまま体現しており、他の -ful/-able 語のペアを考えるときの手がかりにもなります。`,keyPoints:[`forgetful＝（人が）忘れっぽい・物覚えが悪い`,`forgettable＝（物・事が）忘れられやすい・印象に残らない`,`人なら forgetful、物・事なら forgettable`],quiz:[{id:`q-forgetful-1`,question:`空所に入る適切な語はどれですか。「The performance was ( ); no one remembers it.（その公演は印象に残らず、誰も覚えていない）」`,options:[`forgettable`,`forgetful`,`forget`,`forgetfully`],correctAnswer:0,explanation:`物・事が「忘れられやすい・印象に残らない」は forgettable です。`},{id:`q-forgetful-2`,question:`「（人が）忘れっぽい」という意味の語はどれですか。`,options:[`forgettable`,`forget`,`forgetfully`,`forgetful`],correctAnswer:3,explanation:`人の性質「忘れっぽい」は forgetful です。`},{id:`q-forgetful-3`,question:`空所に入る適切な語はどれですか。「Write it down if you are ( ).（忘れっぽいならメモして）」`,options:[`forgettable`,`forget`,`forgettably`,`forgetful`],correctAnswer:3,explanation:`人が「忘れっぽい」は forgetful です。`},{id:`q-forgetful-4`,question:`物・事が「忘れられやすい・印象に残らない」を表すのはどちらですか。`,options:[`forgettable`,`forgetful`,`どちらも`,`どちらも違う`],correctAnswer:0,explanation:`forgettable が「忘れられやすい」。forgetful は人が「忘れっぽい」です。`},{id:`q-forgetful-5`,question:`空所に入る適切な語はどれですか。「She was so ( ) that she lost her keys daily.（彼女はとても忘れっぽく、毎日鍵をなくした）」`,options:[`forgettable`,`forget`,`forgettably`,`forgetful`],correctAnswer:3,explanation:`人が「忘れっぽい」は forgetful です。`}]},{id:`born-borne`,title:`born と borne`,chapter:1,description:`同じ bear の過去分詞。born は「生まれる（be born）」の意味専用、borne はそれ以外（運ぶ・耐える・実らせる）の過去分詞。`,content:`## 「生まれる」かそれ以外かで見分ける
 
 どちらも動詞 bear の過去分詞ですが、意味で使い分けます（発音はどちらも /bɔːrn/）。
 
@@ -3903,7 +3963,19 @@ memorable と memorial はどちらもラテン語 memoria（記憶）に由来�
 | born | be born 専用 | 生まれる | She was **born** in Kyoto.（京都で生まれた） |
 | borne | 運ぶ・耐える等 | 担われた・耐えた | The cost was **borne** by the company.（費用は会社が負担した） |
 
-🎯 覚え方：**「生まれる（be born）」だけ born、それ以外の bear の完了・受け身は borne（e が付く）**。出生なら born、負担・運搬・耐えるなら borne。`,keyPoints:[`born＝「生まれる（be born）」の意味専用`,`borne＝bear のそれ以外（運ぶ・耐える・負担する・実らせる）の過去分詞`,`発音は同じ /bɔːrn/、意味で使い分ける`],quiz:[{id:`q-born-1`,question:`空所に入る適切な語はどれですか。「He was ( ) in a small village.（彼は小さな村で生まれた）」`,options:[`borne`,`born`,`bore`,`bearing`],correctAnswer:1,explanation:`「生まれる」は be born（born 専用）です。`},{id:`q-born-2`,question:`空所に入る適切な語はどれですか。「The expenses have been ( ) by the city.（費用は市が負担してきた）」`,options:[`born`,`bore`,`bearing`,`borne`],correctAnswer:3,explanation:`「負担された・担われた」は bear の過去分詞 borne です。`},{id:`q-born-3`,question:`「生まれる（be born）」の意味だけに使うのはどちらですか。`,options:[`borne`,`born`,`どちらも`,`どちらも違う`],correctAnswer:1,explanation:`「生まれる」は born。それ以外は borne です。`},{id:`q-born-4`,question:`空所に入る適切な語はどれですか。「Diseases can be air-( ).（病気は空気で運ばれることがある）」`,options:[`born`,`bore`,`bearing`,`borne`],correctAnswer:3,explanation:`「運ばれる」は borne（air-borne＝空気で運ばれる）です。`},{id:`q-born-5`,question:`「運ぶ・耐える・負担する」の過去分詞はどちらですか。`,options:[`born`,`borne`,`どちらも`,`どちらも違う`],correctAnswer:1,explanation:`それらは borne。born は「生まれる」専用です。`}]},{id:`stake-steak`,title:`stake と steak`,chapter:4,description:`同音 /steɪk/。stake「杭・賭け金・利害」（名詞）、steak「ステーキ（肉）」（名詞）。意味とスペルで判断。`,content:`## 音は同じ、意味とスペルで見分ける
+🎯 覚え方：**「生まれる（be born）」だけ born、それ以外の bear の完了・受け身は borne（e が付く）**。出生なら born、負担・運搬・耐えるなら borne。
+
+### 複合語では必ず borne が使われる
+
+airborne（空気で運ばれる・空中の）、waterborne（水を媒介とする）、foodborne（食物由来の）、tick-borne（マダニ媒介の）のような「〜によって運ばれる・媒介される」を表す複合形容詞は、すべて borne を使います。foodborne illness（食中毒）のように病気の伝播経路を表す専門用語にも使われ、born と書き間違えると意味が変わってしまう点に注意が必要です。
+
+### born and bred という定型句の使われ方
+
+born and bred（生まれも育ちも）は、a Bostonian, born and bred（生粋のボストンっ子）のように、出身地や特定の社会階層で生まれ育ったことを強調する定型句です。born だけでなく bred（breed の過去分詞、育てられた）と対で使われることで、「生まれた場所」と「育った環境」の両方がその土地・階層に根ざしていることを表します。
+
+### by が続くと「〜によって負担された」という受動の意味になる
+
+borne by ~（〜によって負担された）という形は、The cost was borne by the company.（費用は会社が負担した）のように、責任や費用の所在を示す改まった言い方でよく使われます。born にはこの受動構文がなく、be born の形以外で使われることはありません。動詞 bear の「支える・担う」という中心義が、borne 側にのみ引き継がれていることがこの構文差からも見て取れます。`,keyPoints:[`born＝「生まれる（be born）」の意味専用`,`borne＝bear のそれ以外（運ぶ・耐える・負担する・実らせる）の過去分詞`,`発音は同じ /bɔːrn/、意味で使い分ける`],quiz:[{id:`q-born-1`,question:`空所に入る適切な語はどれですか。「He was ( ) in a small village.（彼は小さな村で生まれた）」`,options:[`borne`,`born`,`bore`,`bearing`],correctAnswer:1,explanation:`「生まれる」は be born（born 専用）です。`},{id:`q-born-2`,question:`空所に入る適切な語はどれですか。「The expenses have been ( ) by the city.（費用は市が負担してきた）」`,options:[`born`,`bore`,`bearing`,`borne`],correctAnswer:3,explanation:`「負担された・担われた」は bear の過去分詞 borne です。`},{id:`q-born-3`,question:`「生まれる（be born）」の意味だけに使うのはどちらですか。`,options:[`borne`,`born`,`どちらも`,`どちらも違う`],correctAnswer:1,explanation:`「生まれる」は born。それ以外は borne です。`},{id:`q-born-4`,question:`空所に入る適切な語はどれですか。「Diseases can be air-( ).（病気は空気で運ばれることがある）」`,options:[`born`,`bore`,`bearing`,`borne`],correctAnswer:3,explanation:`「運ばれる」は borne（air-borne＝空気で運ばれる）です。`},{id:`q-born-5`,question:`「運ぶ・耐える・負担する」の過去分詞はどちらですか。`,options:[`born`,`borne`,`どちらも`,`どちらも違う`],correctAnswer:1,explanation:`それらは borne。born は「生まれる」専用です。`}]},{id:`stake-steak`,title:`stake と steak`,chapter:4,description:`同音 /steɪk/。stake「杭・賭け金・利害」（名詞）、steak「ステーキ（肉）」（名詞）。意味とスペルで判断。`,content:`## 音は同じ、意味とスペルで見分ける
 
 **stake と steak は同じ発音 /steɪk/（同音異義語）**。意味とスペルで決めます。
 
@@ -4354,7 +4426,19 @@ continually（断続的に・たびたび）と continuously（連続して・�
 | a**d**verse | 物事・状況 | 不利な・逆の | The plan failed due to **adverse** conditions.（不利な状況で計画は失敗した） |
 | averse | 人の気持ち | 嫌って・気が進まない | She is **averse to** taking risks.（彼女はリスクを嫌う） |
 
-🎯 覚え方：**d のある adverse は「（状況が）不利・逆」、d のない averse は「（人が）嫌がる（averse to）」**。悪影響・悪条件なら adverse、〜したがらないなら averse to。`,keyPoints:[`adverse＝不利な・好ましくない・逆の（物事・状況）`,`averse＝（〜を）嫌って・気が進まない（人・averse to ~）`,`状況なら adverse、人の忌避なら averse to`],quiz:[{id:`q-adverse-1`,question:`空所に入る適切な語はどれですか。「The medicine may have ( ) effects.（その薬には悪影響があるかもしれない）」`,options:[`averse`,`adverse`,`aversion`,`adversely`],correctAnswer:1,explanation:`「悪影響・不利な影響」は adverse effects です。`},{id:`q-adverse-2`,question:`空所に入る適切な語はどれですか。「He is ( ) to change.（彼は変化を嫌う）」`,options:[`averse`,`adverse`,`adversity`,`adversely`],correctAnswer:0,explanation:`人が「〜を嫌う」は averse to ~ です。`},{id:`q-adverse-3`,question:`物事・状況が「不利な・好ましくない」を表すのはどちらですか。`,options:[`averse`,`adverse`,`どちらも`,`どちらも違う`],correctAnswer:1,explanation:`状況が「不利な」は adverse。人が「嫌って」は averse です。`},{id:`q-adverse-4`,question:`空所に入る適切な語はどれですか。「Farmers worried about the ( ) weather.（農家は悪天候を心配した）」`,options:[`averse`,`adverse`,`aversion`,`aversely`],correctAnswer:1,explanation:`「悪い・不利な（天候）」は adverse です。`},{id:`q-adverse-5`,question:`「averse ( ) risk（リスクを嫌う）」の空所に入るのはどれですか。`,options:[`to`,`of`,`from`,`with`],correctAnswer:0,explanation:`averse は averse to ~ の形をとります。`}]},{id:`allusion-illusion`,title:`allusion と illusion`,chapter:1,description:`allusion「それとない言及・ほのめかし」、illusion「錯覚・幻想」。語頭 a-/i- が違う。`,content:`## 「言及」か「錯覚」かで見分ける
+🎯 覚え方：**d のある adverse は「（状況が）不利・逆」、d のない averse は「（人が）嫌がる（averse to）」**。悪影響・悪条件なら adverse、〜したがらないなら averse to。
+
+### risk-averse という定型句で覚えると失敗しにくい
+
+averse は risk-averse（リスク回避的な・慎重な）という複合語で特によく使われ、投資や経営の話題で頻出します。risk-adverse という誤記もよく見かけますが、averse to risk（リスクを嫌う）という元の構文を思い出せば、d のない averse が正しいと判断できます。人の姿勢・気質を表す語なので、常に人（または組織）が主語になる点も手がかりです。
+
+### adverse は自然現象や医学用語との相性が良い
+
+adverse は adverse weather conditions（悪天候）、adverse effects（副作用・悪影響）のように、人の意志とは無関係に生じる不利な状況や結果を表す場面で使われます。医薬品の説明書に頻出する adverse reaction（有害反応）もこの用法で、averse に置き換えることはできません。対象が「人の感情」か「客観的な状況」かを見極めれば、機械的に判別できます。
+
+### 覚え方の鍵は d を取り除くと「向き合わない」姿勢が残ること
+
+adverse から d を取り除くと averse になるという綴りの近さは偶然ではなく、どちらもラテン語 vertere（向きを変える）に由来する語族です。ad-（〜へ）+ vertere で「（不利に）向いた」状況を表す adverse、ab-（〜から離れて）+ vertere で「（嫌って）背を向ける」averse という、正反対の前置詞的接頭辞の違いが元になっています。`,keyPoints:[`adverse＝不利な・好ましくない・逆の（物事・状況）`,`averse＝（〜を）嫌って・気が進まない（人・averse to ~）`,`状況なら adverse、人の忌避なら averse to`],quiz:[{id:`q-adverse-1`,question:`空所に入る適切な語はどれですか。「The medicine may have ( ) effects.（その薬には悪影響があるかもしれない）」`,options:[`averse`,`adverse`,`aversion`,`adversely`],correctAnswer:1,explanation:`「悪影響・不利な影響」は adverse effects です。`},{id:`q-adverse-2`,question:`空所に入る適切な語はどれですか。「He is ( ) to change.（彼は変化を嫌う）」`,options:[`averse`,`adverse`,`adversity`,`adversely`],correctAnswer:0,explanation:`人が「〜を嫌う」は averse to ~ です。`},{id:`q-adverse-3`,question:`物事・状況が「不利な・好ましくない」を表すのはどちらですか。`,options:[`averse`,`adverse`,`どちらも`,`どちらも違う`],correctAnswer:1,explanation:`状況が「不利な」は adverse。人が「嫌って」は averse です。`},{id:`q-adverse-4`,question:`空所に入る適切な語はどれですか。「Farmers worried about the ( ) weather.（農家は悪天候を心配した）」`,options:[`averse`,`adverse`,`aversion`,`aversely`],correctAnswer:1,explanation:`「悪い・不利な（天候）」は adverse です。`},{id:`q-adverse-5`,question:`「averse ( ) risk（リスクを嫌う）」の空所に入るのはどれですか。`,options:[`to`,`of`,`from`,`with`],correctAnswer:0,explanation:`averse は averse to ~ の形をとります。`}]},{id:`allusion-illusion`,title:`allusion と illusion`,chapter:1,description:`allusion「それとない言及・ほのめかし」、illusion「錯覚・幻想」。語頭 a-/i- が違う。`,content:`## 「言及」か「錯覚」かで見分ける
 
 語頭が **al-（allusion）と il-（illusion）** で、意味も別です。
 
@@ -4390,7 +4474,19 @@ illusion は magic trick（手品）のようなエンターテインメント�
 | eligible | /ˈɛlɪdʒəbl/ | 資格がある | You are **eligible** for the discount.（あなたは割引の資格がある） |
 | illegible | /ɪˈlɛdʒəbl/ | 判読できない | His handwriting is **illegible**.（彼の字は判読できない） |
 
-🎯 覚え方：**eligible は「選ばれる（elect）資格」、illegible は il-（否定）＋legible（読める）＝「読めない」**。資格なら eligible、字が読めないなら illegible。`,keyPoints:[`eligible＝（〜の）資格がある・適格な（eligible for/to do）`,`illegible＝判読できない・読めない（il-＋legible、反対 legible）`,`資格は eligible、字が読めないは illegible`],quiz:[{id:`q-eligible-1`,question:`空所に入る適切な語はどれですか。「The form was ( ); no one could read it.（用紙は判読不能で、誰も読めなかった）」`,options:[`eligible`,`legible`,`eligibly`,`illegible`],correctAnswer:3,explanation:`「判読できない」は illegible です。`},{id:`q-eligible-2`,question:`「（〜の）資格がある・適格な」を表す語はどれですか。`,options:[`illegible`,`eligible`,`legible`,`illegibly`],correctAnswer:1,explanation:`「資格がある」は eligible です。`},{id:`q-eligible-3`,question:`空所に入る適切な語はどれですか。「Only members are ( ) to vote.（会員だけが投票する資格がある）」`,options:[`illegible`,`eligible`,`legible`,`eligibility`],correctAnswer:1,explanation:`「投票する資格がある」は eligible to vote です。`},{id:`q-eligible-4`,question:`il-（否定）＋legible（読める）で「読めない」を意味するのはどちらですか。`,options:[`eligible`,`illegible`,`どちらも`,`どちらも違う`],correctAnswer:1,explanation:`illegible が「読めない」。eligible は「資格がある」です。`},{id:`q-eligible-5`,question:`空所に入る適切な語はどれですか。「Are you ( ) for a refund?（あなたは返金の資格がありますか）」`,options:[`illegible`,`eligible`,`legible`,`illegibly`],correctAnswer:1,explanation:`eligible for ~「〜の資格がある」です。`}]},{id:`elicit-illicit`,title:`elicit と illicit`,chapter:4,description:`ほぼ同音 /ɪˈlɪsɪt/。elicit「（反応・情報を）引き出す」（動詞）、illicit「不法の・違法の」（形容詞）。`,content:`## 音は近い、品詞と意味で見分ける
+🎯 覚え方：**eligible は「選ばれる（elect）資格」、illegible は il-（否定）＋legible（読める）＝「読めない」**。資格なら eligible、字が読めないなら illegible。
+
+### eligible bachelor という定型句が示す語感の広がり
+
+eligible bachelor（結婚相手として申し分ない独身男性）という成句は、eligible が制度上の「資格」だけでなく、「選ばれるにふさわしい・望ましい」という一般的な魅力の評価にも使われることを示しています。eligible voter（有権者としての資格を持つ人）のような制度的な用法と、この社会的な用法の両方を押さえておくと語の守備範囲がつかめます。
+
+### legible という土台の語を知ると illegible が整理できる
+
+illegible は legible（読める・判読できる）に否定の il-（in- が l の前で同化した形）が付いた語です。legible 自体は This font is highly legible.（この書体は非常に読みやすい）のように肯定文でも使われる語で、legible ↔ illegible という対を意識すると、eligible との語形の違い（elect 由来か legere 由来か）も併せて整理できます。
+
+### 医師の悪筆というジョークが定番の連想材料になっている
+
+英語圏では「医師の処方箋の字が illegible で薬剤師が読めない」という定番のジョークがあり、illegible の実例として頻繁に引き合いに出されます。The doctor's handwriting was illegible.（医師の字は判読できなかった）のような文は、eligible（資格）と混同しやすい illegible（読めない）を、具体的な情景とセットで記憶に定着させるのに役立ちます。`,keyPoints:[`eligible＝（〜の）資格がある・適格な（eligible for/to do）`,`illegible＝判読できない・読めない（il-＋legible、反対 legible）`,`資格は eligible、字が読めないは illegible`],quiz:[{id:`q-eligible-1`,question:`空所に入る適切な語はどれですか。「The form was ( ); no one could read it.（用紙は判読不能で、誰も読めなかった）」`,options:[`eligible`,`legible`,`eligibly`,`illegible`],correctAnswer:3,explanation:`「判読できない」は illegible です。`},{id:`q-eligible-2`,question:`「（〜の）資格がある・適格な」を表す語はどれですか。`,options:[`illegible`,`eligible`,`legible`,`illegibly`],correctAnswer:1,explanation:`「資格がある」は eligible です。`},{id:`q-eligible-3`,question:`空所に入る適切な語はどれですか。「Only members are ( ) to vote.（会員だけが投票する資格がある）」`,options:[`illegible`,`eligible`,`legible`,`eligibility`],correctAnswer:1,explanation:`「投票する資格がある」は eligible to vote です。`},{id:`q-eligible-4`,question:`il-（否定）＋legible（読める）で「読めない」を意味するのはどちらですか。`,options:[`eligible`,`illegible`,`どちらも`,`どちらも違う`],correctAnswer:1,explanation:`illegible が「読めない」。eligible は「資格がある」です。`},{id:`q-eligible-5`,question:`空所に入る適切な語はどれですか。「Are you ( ) for a refund?（あなたは返金の資格がありますか）」`,options:[`illegible`,`eligible`,`legible`,`illegibly`],correctAnswer:1,explanation:`eligible for ~「〜の資格がある」です。`}]},{id:`elicit-illicit`,title:`elicit と illicit`,chapter:4,description:`ほぼ同音 /ɪˈlɪsɪt/。elicit「（反応・情報を）引き出す」（動詞）、illicit「不法の・違法の」（形容詞）。`,content:`## 音は近い、品詞と意味で見分ける
 
 **elicit と illicit はほぼ同じ発音 /ɪˈlɪsɪt/**。品詞と意味で決めます。
 
