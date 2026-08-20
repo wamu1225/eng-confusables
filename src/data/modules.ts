@@ -5838,7 +5838,19 @@ succeed には「成功する」と「後を継ぐ」という二つの意味が
 | alternate | 交互の・一つおきの | We meet on **alternate** Fridays.（隔週の金曜に集まる） |
 | alternative | 代わりの・別の選択肢 | Is there an **alternative** route?（別のルートはある？） |
 
-🎯 覚え方：**alternate は「交互・一つおき」（AとBが入れ替わる）**、alternative は「代替・もう一つの選択肢」。「代案」なら alternative。※米口語では alternate を「代替の」の意味でも使いますが、試験では区別します。`,
+🎯 覚え方：**alternate は「交互・一つおき」（AとBが入れ替わる）**、alternative は「代替・もう一つの選択肢」。「代案」なら alternative。※米口語では alternate を「代替の」の意味でも使いますが、試験では区別します。
+
+### alternate juror に見るアメリカ英語特有の名詞用法
+
+アメリカ英語では alternate が名詞として「代役・補欠」を表し、alternate juror（補充裁判員）のように、本来のメンバーが務められなくなった場合に代わりを務める人を指す。この名詞用法はイギリス英語にはほとんどなく、「代役」を意味する名詞なら substitute に置き換えられるのが alternate、「選択肢」を意味し choice に置き換えられるのが alternative、という判別法が使われる。
+
+### 米英差：alternate universe が示す境界の曖昧さ
+
+SF作品で頻出する「並行世界」は、アメリカ英語では alternate universe、イギリス英語では alternative universe と表記が割れる。アメリカ英語では alternate が alternative の意味領域に踏み込んで使われる場面が多く、両語の境界がイギリス英語ほど厳密でないことを示す一例である。
+
+### 語源：alter「二つのうちの他方」から分かれた歴史
+
+どちらの語もラテン語 alter（二つのうちの他方）に由来する。alternate は「交互に行う」を意味する alternare から中英語期に借用され、「一つおきに起こる」という周期的な意味を保持した。一方 alternative は16世紀に「二つの選択肢の間で選ぶ」という意味を表すために新しく作られた語で、alternate よりも遅れて英語に定着した。`,
     keyPoints: [
       'alternate＝交互の・一つおきの（alternate days＝一日おき）',
       'alternative＝代わりの・別の選択肢（an alternative plan）',
@@ -6237,7 +6249,19 @@ third・fourth・fifth と序数を並べたとき、そこに forth が並ぶ�
 | devi**ce** | /dɪˈvaɪs/ | 名詞：装置 | This **device** measures heart rate.（この装置は心拍を測る） |
 | devi**se** | /dɪˈvaɪz/ | 動詞：考案する | They **devised** a new plan.（彼らは新しい計画を考え出した） |
 
-🎯 覚え方：**名詞は -ce（/s/）、動詞は -se（/z/）**。advice/advise と同じパターン（-ce 名詞・-se 動詞）。「機器・装置」は device、「考案する」は devise。`,
+🎯 覚え方：**名詞は -ce（/s/）、動詞は -se（/z/）**。advice/advise と同じパターン（-ce 名詞・-se 動詞）。「機器・装置」は device、「考案する」は devise。
+
+### 遺言の devise に残る法律用語としての意味
+
+英米法の遺言書では、devise は「不動産（土地・建物）を遺贈する」という専門的な意味で使われる。人に対する動産（現金・株式・宝石等）の遺贈は bequeath と呼び分けられ、両者を並べた give, devise and bequeath という定型句が伝統的な遺言書の文言に今も残っている。日常語の「考案する」とは別に、この法律分野に特化した意味が生きている。
+
+### left to my own devices という成句の devices
+
+成句 left to (one's) own devices（放っておかれて自分の思うままにする）は、device の複数形 devices が「装置」ではなく「自分の考え・工夫・思うところ」という古い意味で使われた名残である。現代語の「装置」の意味に引きずられて誤解されやすいが、この成句の devices は機械とは無関係。
+
+### カタカナ「デバイス」が指す範囲の狭さ
+
+日本語のカタカナ語「デバイス」はスマートフォンやセンサーなど電子機器を指す場合がほとんどだが、英語の device はもっと範囲が広く、safety device（安全装置）、explosive device（爆発物）、さらに文学用語の literary device（表現技法）・plot device（物語を動かすための仕掛け）のように、抽象的な「仕組み・仕掛け」全般を指す。電子機器に限定して覚えると英語本来の広さを見落とす。`,
     keyPoints: [
       'device /dɪˈvaɪs/＝名詞「装置・機器」（-ce、/s/）',
       'devise /dɪˈvaɪz/＝動詞「考案する」（-se、/z/）',
@@ -9809,7 +9833,19 @@ realize はアメリカ英語の綴りで、イギリス英語では realise と
 | comprehens**ible** | 理解できる | The instructions were clear and **comprehensible**.（説明は明快で理解しやすかった） |
 | comprehens**ive** | 包括的な | The report gives a **comprehensive** overview.（報告書は包括的な概観を示す） |
 
-🎯 覚え方：**-ible の comprehensible は「理解できる」**、-ive の comprehensive は「包括的（広くカバー）」。「わかりやすい」は comprehensible、「網羅的・総合」は comprehensive。`,
+🎯 覚え方：**-ible の comprehensible は「理解できる」**、-ive の comprehensive は「包括的（広くカバー）」。「わかりやすい」は comprehensible、「網羅的・総合」は comprehensive。
+
+### 第二言語習得論の comprehensible input
+
+言語学者スティーヴン・クラッシェンが提唱したインプット仮説は、学習者が現在の理解できるレベルよりわずかに難しいレベルの入力（comprehensible input、通称 i+1）に触れ続けることが習得を進める、という考え方である。comprehensible の「理解できる」という語義が、外国語学習理論の中核概念として専門用語化した例である。
+
+### comprehensive school に見るイギリスの教育制度
+
+イギリスでは1965年以降、学力で選抜しない公立中等学校を comprehensive school と呼ぶ制度が広がった。特定の学力層に絞らず地域のあらゆる生徒を受け入れる「包括的な」学校という意味で comprehensive が使われており、制度名としてそのまま定着している。
+
+### comprehensive insurance という保険用語
+
+自動車保険の comprehensive insurance（車両保険）は、事故だけでなく火災・盗難・自然災害など幅広い損害を補償する契約を指す。事故の相手への賠償に限定した third-party insurance と対比され、「幅広くカバーする」という comprehensive の中心義がそのまま保険商品名になっている。`,
     keyPoints: [
       'comprehensible＝理解できる・わかりやすい（-ible）',
       'comprehensive＝包括的な・網羅的な（-ive）',
@@ -12148,7 +12184,19 @@ regretfully（後悔しながら・すまなそうに）は動作の様子を表
 | **c**ereal | /ˈsɪəriəl/ | 穀物・シリアル | I eat **cereal** for breakfast.（朝食にシリアルを食べる） |
 | **s**erial | /ˈsɪəriəl/ | 連続的な・連載の | The **serial** number is on the back.（通し番号は裏にある） |
 
-🎯 覚え方：**食べ物の「シリアル・穀物」は cereal（c）**、「連続・連載・通し番号」は serial（s＝series の仲間）。朝食なら cereal、通し番号・連続なら serial。`,
+🎯 覚え方：**食べ物の「シリアル・穀物」は cereal（c）**、「連続・連載・通し番号」は serial（s＝series の仲間）。朝食なら cereal、通し番号・連続なら serial。
+
+### cereal の語源はローマの農業の女神ケレース
+
+cereal はラテン語 Cerealis（ケレースの、の意）に由来し、ローマ神話で穀物や収穫を司る女神ケレース（Ceres）から名付けられた。ギリシャ神話のデメテルに相当するこの女神の名が、そのまま「穀物」を表す英単語として定着した。
+
+### serial comma という文法用語
+
+3つ以上の項目を並べるとき最後の and の前に置くコンマを serial comma（別名 Oxford comma）と呼ぶ。“red, white, and blue” のように and の前にコンマを入れるかどうかは英語圏でも意見が分かれる有名な文法論争で、serial の「連続する項目」という意味がそのまま文法用語名になっている。
+
+### serial が作る複合語の広がり
+
+serial は serial killer（連続殺人犯）、serial number（通し番号）のほかに、イギリス英語では連続ドラマを serial（各話が連続する物語）と呼び、アメリカ英語で好まれる series と使い分けられることがある。「連続している」という一つの中心義が、犯罪から製品管理、放送用語まで広い分野に枝分かれしている。`,
     keyPoints: [
       'cereal と serial は同音 /ˈsɪəriəl/',
       'cereal＝穀物・シリアル（食品・c 始まり）',
@@ -12209,7 +12257,19 @@ regretfully（後悔しながら・すまなそうに）は動作の様子を表
 | patien**ce** | /ˈpeɪʃəns/ | 忍耐 | Learning a language takes **patience**.（言語習得には忍耐がいる） |
 | patien**ts** | /ˈpeɪʃənts/ | 患者（複数） | The doctor sees many **patients** a day.（医者は1日に多くの患者を診る） |
 
-🎯 覚え方：**「忍耐」は patience（-ce）**、「患者たち」は patients（-ts＝複数）。我慢の話なら patience、病院の人なら patients。`,
+🎯 覚え方：**「忍耐」は patience（-ce）**、「患者たち」は patients（-ts＝複数）。我慢の話なら patience、病院の人なら patients。
+
+### patience はイギリス英語のトランプ用語
+
+一人で行うトランプゲームを、イギリス英語では patience、アメリカ英語では solitaire と呼ぶ。カードを順序よく並べていく忍耐力を要する遊びであることが、このゲーム自体の名前に patience（忍耐）という語をそのまま与えた由来になっている。
+
+### patient zero という疫学用語
+
+感染症の集団発生を調べる疫学では、最初に感染が確認された患者を patient zero（または index case）と呼ぶ。patient の複数形 patients は単に「大勢の患者」を指すが、patient zero は「最初の1人」を特定する専門用語として使われる。
+
+### patience と patients を結ぶ共通の祖先
+
+一見無関係に見える patience と patients だが、どちらも「耐え忍ぶ」を意味するラテン語 pati の現在分詞 patiens に由来する。形容詞 patient（我慢強い／病を耐え忍ぶ人）から、抽象的な性質を表す patience と、具体的な人を表す patient の複数形 patients が、別々の方向へ枝分かれした。`,
     keyPoints: [
       'patience と patients はほぼ同音 /ˈpeɪʃ(ə)ns/',
       'patience＝忍耐・辛抱（不可算名詞・-ce）',
@@ -12925,7 +12985,19 @@ be famous for も be infamous for も同じ形をとるため、判断の手が�
 | curr**ant** | /ˈkʌrənt/ | 干しブドウ・スグリ | Add **currants** to the cake batter.（生地に干しブドウを加えて） |
 | curr**ent** | /ˈkʌrənt/ | 現在の・流れ | What is the **current** situation?（現在の状況は？） |
 
-🎯 覚え方：**食べ物（果実）は currant（-ant）**、「現在の・流れ・電流」は current（-ent）。お菓子の実なら currant、今の状況・流れなら current。`,
+🎯 覚え方：**食べ物（果実）は currant（-ant）**、「現在の・流れ・電流」は current（-ent）。お菓子の実なら currant、今の状況・流れなら current。
+
+### イギリス英語の銀行用語 current account
+
+イギリス英語で日常使う銀行口座は current account（当座預金口座）と呼ばれ、アメリカ英語の checking account に当たる。「現在・日常の」取引に使う口座、という current の中心義がそのまま銀行商品名になっている。
+
+### alternating current と direct current の略語 AC/DC
+
+電流を表す current は、向きが周期的に変わる alternating current（交流・AC）と、向きが一定の direct current（直流・DC）に分かれる。ロックバンド名としても有名な AC/DC は、この電気工学用語の略称がそのまま使われている。
+
+### currant の語源はギリシャの都市コリントス
+
+currant はもともと、ギリシャの都市コリントスから輸出された小粒の種なしぶどうを指す古フランス語 raisins de Corauntz（コリントスの干しぶどう）に由来する。今日「カラント」と呼ばれる赤スグリ・黒スグリ（Ribes属）の果実は、この乾しぶどうと見た目が似ていたために後から同じ名前で呼ばれるようになったもので、植物としては別の種である。`,
     keyPoints: [
       'currant と current は同音 /ˈkʌrənt/',
       'currant＝干しブドウ・スグリ（果実・-ant）',
@@ -14406,7 +14478,19 @@ inn は現代の大型ホテルではなく、**昔ながらの小さな宿・�
 | emigrate | 出ていく | 移住して出る | They **emigrated from** Ireland.（彼らはアイルランドを出て移住した） |
 | immigrate | 入ってくる | 移住して入る | Many **immigrated to** the US.（多くが米国へ移住してきた） |
 
-🎯 覚え方：**e-（exit）で出る emigrate、im-（in）で入る immigrate**。出発国を言うなら emigrate from、到着国を言うなら immigrate to。名詞は emigrant／immigrant。`,
+🎯 覚え方：**e-（exit）で出る emigrate、im-（in）で入る immigrate**。出発国を言うなら emigrate from、到着国を言うなら immigrate to。名詞は emigrant／immigrant。
+
+### émigré というフランス語からの借用語
+
+フランス革命期に祖国を追われた亡命者を指す émigré（エミグレ）は、フランス語からそのまま英語に定着した借用語である。emigrate の名詞形 emigrant とほぼ同義だが、émigré は特に政治的な理由で母国を離れた人を指すニュアンスで使われることが多い。
+
+### 方向を問わない中立語 migrate
+
+emigrate（出る）・immigrate（入る）はどちらも、方向を問わない中立的な語 migrate（移動する）から接頭辞によって枝分かれした語である。動物の渡りを表す bird migration のように、出発点も到着点も特に強調しない場面では migrate がそのまま使われる。
+
+### migrant worker が示す第三の語 migrant
+
+immigrant（入ってくる移住者）・emigrant（出ていく移住者）に加えて、migrant という語は季節労働などで一時的に移動する人を指す場合に使われ、必ずしも定住を含意しない。migrant worker（出稼ぎ労働者）のように、定住を前提とする immigrant とは異なるニュアンスで使われる。`,
     keyPoints: [
       'emigrate＝（自国から）出ていく（e-＝exit・emigrate from）',
       'immigrate＝（他国へ）入ってくる（im-＝in・immigrate to）',
@@ -15728,7 +15812,19 @@ look は後ろの前置詞で意味が大きく変わります。ここを取り
 
 💡 病院なら patient、ホテルや招待客なら guest、公共交通なら passenger と、業種ごとの語もあります。
 
-🎯 覚え方：**レジで払うなら customer、契約して任せるなら client**。`,
+🎯 覚え方：**レジで払うなら customer、契約して任せるなら client**。
+
+### コンピュータ用語 client-server に引き継がれた原義
+
+コンピュータの世界で使われる client-server（クライアントサーバー）方式は、サービスを要求する側を client、提供する側を server と呼ぶ。「サービスを依頼する側」という日常語の client の意味がそのままIT用語に転用された例で、店で商品を買う customer との違いがここでも保たれている。
+
+### 語源が語る client と patron の主従関係
+
+client はラテン語 cliens（庇護を受ける者）に由来し、古代ローマで有力者（patronus、patron の語源）の保護下にあった平民を指した。この patron と client の非対称な関係の名残が、現代の「専門家に継続的に仕事を依頼する」という client の語感につながっている。
+
+### customer と customs が共有する語源
+
+customer は「習慣・関税」を意味するラテン語 custuma に由来する語で、customs（税関・輸入関税）と同じ語根を共有する。店に習慣的に通う人という意味が中世に生まれ、それが今日の「顧客」の意味に定着した。似た綴りの customs との関係は偶然ではない。`,
     keyPoints: [
       'customer＝商品・サービスを買う客（小売や飲食）',
       'client＝専門的サービスを依頼する人（法律・会計・広告など）',
