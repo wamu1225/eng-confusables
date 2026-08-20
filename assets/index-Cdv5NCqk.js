@@ -1835,7 +1835,19 @@ succeed には「成功する」と「後を継ぐ」という二つの意味が
 | alternate | 交互の・一つおきの | We meet on **alternate** Fridays.（隔週の金曜に集まる） |
 | alternative | 代わりの・別の選択肢 | Is there an **alternative** route?（別のルートはある？） |
 
-🎯 覚え方：**alternate は「交互・一つおき」（AとBが入れ替わる）**、alternative は「代替・もう一つの選択肢」。「代案」なら alternative。※米口語では alternate を「代替の」の意味でも使いますが、試験では区別します。`,keyPoints:[`alternate＝交互の・一つおきの（alternate days＝一日おき）`,`alternative＝代わりの・別の選択肢（an alternative plan）`,`交互なら alternate、代替なら alternative`],quiz:[{id:`q-alternate-1`,question:`空所に入る適切な語はどれですか。「If the flight is full, we need an ( ).（便が満席なら代替案が必要だ）」`,options:[`alternate`,`alter`,`altered`,`alternative`],correctAnswer:3,explanation:`名詞「別の選択肢・代替案」は alternative です。`},{id:`q-alternate-2`,question:`空所に入る適切な語はどれですか。「The nurses work on ( ) days.（看護師は一日おきに働く）」`,options:[`alternative`,`alternate`,`alter`,`altering`],correctAnswer:1,explanation:`「一つおきの・交互の」は alternate です。`},{id:`q-alternate-3`,question:`「代わりの・別の選択肢の」を表すのはどちらですか。`,options:[`alternate`,`alternative`,`どちらも`,`どちらも違う`],correctAnswer:1,explanation:`「代替の」は alternative。「交互の」は alternate です。`},{id:`q-alternate-4`,question:`空所に入る適切な語はどれですか。「Black and white squares ( ) on the board.（盤上で黒と白のマスが交互に並ぶ）」`,options:[`alternative`,`alternate`,`alter`,`altered`],correctAnswer:1,explanation:`動詞「交互に起こる・並ぶ」は alternate です。`},{id:`q-alternate-5`,question:`空所に入る適切な語はどれですか。「Solar power is a clean ( ) to coal.（太陽光は石炭に代わるクリーンな選択肢だ）」`,options:[`alternate`,`alter`,`altering`,`alternative`],correctAnswer:3,explanation:`「〜に代わる選択肢」は alternative to ~ です。`}]},{id:`flour-flower`,title:`flour と flower`,chapter:4,description:`同音 /ˈflaʊər/。flour「小麦粉」、flower「花」。意味とスペルで判断する同音異義語。`,content:`## 音は同じ、意味とスペルで見分ける
+🎯 覚え方：**alternate は「交互・一つおき」（AとBが入れ替わる）**、alternative は「代替・もう一つの選択肢」。「代案」なら alternative。※米口語では alternate を「代替の」の意味でも使いますが、試験では区別します。
+
+### alternate juror に見るアメリカ英語特有の名詞用法
+
+アメリカ英語では alternate が名詞として「代役・補欠」を表し、alternate juror（補充裁判員）のように、本来のメンバーが務められなくなった場合に代わりを務める人を指す。この名詞用法はイギリス英語にはほとんどなく、「代役」を意味する名詞なら substitute に置き換えられるのが alternate、「選択肢」を意味し choice に置き換えられるのが alternative、という判別法が使われる。
+
+### 米英差：alternate universe が示す境界の曖昧さ
+
+SF作品で頻出する「並行世界」は、アメリカ英語では alternate universe、イギリス英語では alternative universe と表記が割れる。アメリカ英語では alternate が alternative の意味領域に踏み込んで使われる場面が多く、両語の境界がイギリス英語ほど厳密でないことを示す一例である。
+
+### 語源：alter「二つのうちの他方」から分かれた歴史
+
+どちらの語もラテン語 alter（二つのうちの他方）に由来する。alternate は「交互に行う」を意味する alternare から中英語期に借用され、「一つおきに起こる」という周期的な意味を保持した。一方 alternative は16世紀に「二つの選択肢の間で選ぶ」という意味を表すために新しく作られた語で、alternate よりも遅れて英語に定着した。`,keyPoints:[`alternate＝交互の・一つおきの（alternate days＝一日おき）`,`alternative＝代わりの・別の選択肢（an alternative plan）`,`交互なら alternate、代替なら alternative`],quiz:[{id:`q-alternate-1`,question:`空所に入る適切な語はどれですか。「If the flight is full, we need an ( ).（便が満席なら代替案が必要だ）」`,options:[`alternate`,`alter`,`altered`,`alternative`],correctAnswer:3,explanation:`名詞「別の選択肢・代替案」は alternative です。`},{id:`q-alternate-2`,question:`空所に入る適切な語はどれですか。「The nurses work on ( ) days.（看護師は一日おきに働く）」`,options:[`alternative`,`alternate`,`alter`,`altering`],correctAnswer:1,explanation:`「一つおきの・交互の」は alternate です。`},{id:`q-alternate-3`,question:`「代わりの・別の選択肢の」を表すのはどちらですか。`,options:[`alternate`,`alternative`,`どちらも`,`どちらも違う`],correctAnswer:1,explanation:`「代替の」は alternative。「交互の」は alternate です。`},{id:`q-alternate-4`,question:`空所に入る適切な語はどれですか。「Black and white squares ( ) on the board.（盤上で黒と白のマスが交互に並ぶ）」`,options:[`alternative`,`alternate`,`alter`,`altered`],correctAnswer:1,explanation:`動詞「交互に起こる・並ぶ」は alternate です。`},{id:`q-alternate-5`,question:`空所に入る適切な語はどれですか。「Solar power is a clean ( ) to coal.（太陽光は石炭に代わるクリーンな選択肢だ）」`,options:[`alternate`,`alter`,`altering`,`alternative`],correctAnswer:3,explanation:`「〜に代わる選択肢」は alternative to ~ です。`}]},{id:`flour-flower`,title:`flour と flower`,chapter:4,description:`同音 /ˈflaʊər/。flour「小麦粉」、flower「花」。意味とスペルで判断する同音異義語。`,content:`## 音は同じ、意味とスペルで見分ける
 
 **flour と flower は同じ発音 /ˈflaʊər/（同音異義語）**。意味とスペルで決めます。
 
@@ -1939,7 +1951,19 @@ third・fourth・fifth と序数を並べたとき、そこに forth が並ぶ�
 | devi**ce** | /dɪˈvaɪs/ | 名詞：装置 | This **device** measures heart rate.（この装置は心拍を測る） |
 | devi**se** | /dɪˈvaɪz/ | 動詞：考案する | They **devised** a new plan.（彼らは新しい計画を考え出した） |
 
-🎯 覚え方：**名詞は -ce（/s/）、動詞は -se（/z/）**。advice/advise と同じパターン（-ce 名詞・-se 動詞）。「機器・装置」は device、「考案する」は devise。`,keyPoints:[`device /dɪˈvaɪs/＝名詞「装置・機器」（-ce、/s/）`,`devise /dɪˈvaɪz/＝動詞「考案する」（-se、/z/）`,`advice/advise と同じ -ce 名詞／-se 動詞`],quiz:[{id:`q-device-1`,question:`空所に入る適切な語はどれですか。「Engineers ( ) a way to save energy.（技術者は省エネの方法を考案した）」`,options:[`device`,`deviced`,`devices`,`devise`],correctAnswer:3,explanation:`動詞「考案する」は devise です。`},{id:`q-device-2`,question:`「装置・機器」という意味の名詞はどれですか。`,options:[`devise`,`devices'`,`device`,`devising`],correctAnswer:2,explanation:`名詞「装置」は device /dɪˈvaɪs/ です。`},{id:`q-device-3`,question:`空所に入る適切な語はどれですか。「A smartphone is a useful ( ).（スマホは便利な機器だ）」`,options:[`devise`,`devised`,`device`,`devising`],correctAnswer:2,explanation:`名詞「機器・装置」は device です。`},{id:`q-device-4`,question:`語尾が濁る音 /z/ で、動詞「考案する」なのはどちらですか。`,options:[`device`,`devise`,`どちらも`,`どちらも違う`],correctAnswer:1,explanation:`devise /dɪˈvaɪz/（動詞）。device /dɪˈvaɪs/（名詞）です。`},{id:`q-device-5`,question:`空所に入る適切な語はどれですか。「She ( ) a clever system for sorting mail.（彼女は郵便を仕分ける巧みな仕組みを考え出した）」`,options:[`device`,`devices`,`devicing`,`devised`],correctAnswer:3,explanation:`動詞 devise の過去 devised「考案した」です。`}]},{id:`breath-breathe`,title:`breath と breathe`,chapter:3,description:`名詞と動詞。breath /brɛθ/「息」（名詞）、breathe /briːð/「呼吸する」（動詞）。母音と語尾の音が違う。`,content:`## 品詞と発音で見分ける
+🎯 覚え方：**名詞は -ce（/s/）、動詞は -se（/z/）**。advice/advise と同じパターン（-ce 名詞・-se 動詞）。「機器・装置」は device、「考案する」は devise。
+
+### 遺言の devise に残る法律用語としての意味
+
+英米法の遺言書では、devise は「不動産（土地・建物）を遺贈する」という専門的な意味で使われる。人に対する動産（現金・株式・宝石等）の遺贈は bequeath と呼び分けられ、両者を並べた give, devise and bequeath という定型句が伝統的な遺言書の文言に今も残っている。日常語の「考案する」とは別に、この法律分野に特化した意味が生きている。
+
+### left to my own devices という成句の devices
+
+成句 left to (one's) own devices（放っておかれて自分の思うままにする）は、device の複数形 devices が「装置」ではなく「自分の考え・工夫・思うところ」という古い意味で使われた名残である。現代語の「装置」の意味に引きずられて誤解されやすいが、この成句の devices は機械とは無関係。
+
+### カタカナ「デバイス」が指す範囲の狭さ
+
+日本語のカタカナ語「デバイス」はスマートフォンやセンサーなど電子機器を指す場合がほとんどだが、英語の device はもっと範囲が広く、safety device（安全装置）、explosive device（爆発物）、さらに文学用語の literary device（表現技法）・plot device（物語を動かすための仕掛け）のように、抽象的な「仕組み・仕掛け」全般を指す。電子機器に限定して覚えると英語本来の広さを見落とす。`,keyPoints:[`device /dɪˈvaɪs/＝名詞「装置・機器」（-ce、/s/）`,`devise /dɪˈvaɪz/＝動詞「考案する」（-se、/z/）`,`advice/advise と同じ -ce 名詞／-se 動詞`],quiz:[{id:`q-device-1`,question:`空所に入る適切な語はどれですか。「Engineers ( ) a way to save energy.（技術者は省エネの方法を考案した）」`,options:[`device`,`deviced`,`devices`,`devise`],correctAnswer:3,explanation:`動詞「考案する」は devise です。`},{id:`q-device-2`,question:`「装置・機器」という意味の名詞はどれですか。`,options:[`devise`,`devices'`,`device`,`devising`],correctAnswer:2,explanation:`名詞「装置」は device /dɪˈvaɪs/ です。`},{id:`q-device-3`,question:`空所に入る適切な語はどれですか。「A smartphone is a useful ( ).（スマホは便利な機器だ）」`,options:[`devise`,`devised`,`device`,`devising`],correctAnswer:2,explanation:`名詞「機器・装置」は device です。`},{id:`q-device-4`,question:`語尾が濁る音 /z/ で、動詞「考案する」なのはどちらですか。`,options:[`device`,`devise`,`どちらも`,`どちらも違う`],correctAnswer:1,explanation:`devise /dɪˈvaɪz/（動詞）。device /dɪˈvaɪs/（名詞）です。`},{id:`q-device-5`,question:`空所に入る適切な語はどれですか。「She ( ) a clever system for sorting mail.（彼女は郵便を仕分ける巧みな仕組みを考え出した）」`,options:[`device`,`devices`,`devicing`,`devised`],correctAnswer:3,explanation:`動詞 devise の過去 devised「考案した」です。`}]},{id:`breath-breathe`,title:`breath と breathe`,chapter:3,description:`名詞と動詞。breath /brɛθ/「息」（名詞）、breathe /briːð/「呼吸する」（動詞）。母音と語尾の音が違う。`,content:`## 品詞と発音で見分ける
 
 **e のあるなし（breath / breathe）** で名詞・動詞が分かれ、発音も変わります。
 
@@ -3005,7 +3029,19 @@ realize はアメリカ英語の綴りで、イギリス英語では realise と
 | comprehens**ible** | 理解できる | The instructions were clear and **comprehensible**.（説明は明快で理解しやすかった） |
 | comprehens**ive** | 包括的な | The report gives a **comprehensive** overview.（報告書は包括的な概観を示す） |
 
-🎯 覚え方：**-ible の comprehensible は「理解できる」**、-ive の comprehensive は「包括的（広くカバー）」。「わかりやすい」は comprehensible、「網羅的・総合」は comprehensive。`,keyPoints:[`comprehensible＝理解できる・わかりやすい（-ible）`,`comprehensive＝包括的な・網羅的な（-ive）`,`「わかりやすい」は comprehensible、「網羅的」は comprehensive`],quiz:[{id:`q-comprehensible-1`,question:`空所に入る適切な語はどれですか。「The textbook offers ( ) coverage of the topic.（その教科書は主題を網羅的に扱う）」`,options:[`comprehensive`,`comprehensible`,`comprehend`,`comprehension`],correctAnswer:0,explanation:`「網羅的・包括的」は comprehensive です。`},{id:`q-comprehensible-2`,question:`「理解できる・わかりやすい」という意味の語はどれですか。`,options:[`comprehensive`,`comprehend`,`comprehensible`,`comprehensively`],correctAnswer:2,explanation:`「理解できる」は comprehensible（-ible）です。`},{id:`q-comprehensible-3`,question:`空所に入る適切な語はどれですか。「Please make your explanation ( ) to beginners.（初心者にも理解できる説明にして）」`,options:[`comprehensive`,`comprehend`,`comprehensible`,`comprehension`],correctAnswer:2,explanation:`「理解できる」は comprehensible です。`},{id:`q-comprehensible-4`,question:`「包括的な・総合的な」を表すのはどちらですか。`,options:[`comprehensive`,`comprehensible`,`どちらも`,`どちらも違う`],correctAnswer:0,explanation:`comprehensive が「包括的」。comprehensible は「理解できる」です。`},{id:`q-comprehensible-5`,question:`空所に入る適切な語はどれですか。「They bought ( ) insurance covering everything.（彼らはすべてをカバーする総合保険に入った）」`,options:[`comprehensive`,`comprehensible`,`comprehend`,`comprehension`],correctAnswer:0,explanation:`「総合的な（保険）」は comprehensive です。`}]},{id:`credible-credulous`,title:`credible と credulous`,chapter:3,description:`同じ cred（信じる）由来でも別語。credible「信用できる・信じるに足る」、credulous「（人が）すぐ信じる・だまされやすい」。`,content:`## 何が信用に関わるかで見分ける
+🎯 覚え方：**-ible の comprehensible は「理解できる」**、-ive の comprehensive は「包括的（広くカバー）」。「わかりやすい」は comprehensible、「網羅的・総合」は comprehensive。
+
+### 第二言語習得論の comprehensible input
+
+言語学者スティーヴン・クラッシェンが提唱したインプット仮説は、学習者が現在の理解できるレベルよりわずかに難しいレベルの入力（comprehensible input、通称 i+1）に触れ続けることが習得を進める、という考え方である。comprehensible の「理解できる」という語義が、外国語学習理論の中核概念として専門用語化した例である。
+
+### comprehensive school に見るイギリスの教育制度
+
+イギリスでは1965年以降、学力で選抜しない公立中等学校を comprehensive school と呼ぶ制度が広がった。特定の学力層に絞らず地域のあらゆる生徒を受け入れる「包括的な」学校という意味で comprehensive が使われており、制度名としてそのまま定着している。
+
+### comprehensive insurance という保険用語
+
+自動車保険の comprehensive insurance（車両保険）は、事故だけでなく火災・盗難・自然災害など幅広い損害を補償する契約を指す。事故の相手への賠償に限定した third-party insurance と対比され、「幅広くカバーする」という comprehensive の中心義がそのまま保険商品名になっている。`,keyPoints:[`comprehensible＝理解できる・わかりやすい（-ible）`,`comprehensive＝包括的な・網羅的な（-ive）`,`「わかりやすい」は comprehensible、「網羅的」は comprehensive`],quiz:[{id:`q-comprehensible-1`,question:`空所に入る適切な語はどれですか。「The textbook offers ( ) coverage of the topic.（その教科書は主題を網羅的に扱う）」`,options:[`comprehensive`,`comprehensible`,`comprehend`,`comprehension`],correctAnswer:0,explanation:`「網羅的・包括的」は comprehensive です。`},{id:`q-comprehensible-2`,question:`「理解できる・わかりやすい」という意味の語はどれですか。`,options:[`comprehensive`,`comprehend`,`comprehensible`,`comprehensively`],correctAnswer:2,explanation:`「理解できる」は comprehensible（-ible）です。`},{id:`q-comprehensible-3`,question:`空所に入る適切な語はどれですか。「Please make your explanation ( ) to beginners.（初心者にも理解できる説明にして）」`,options:[`comprehensive`,`comprehend`,`comprehensible`,`comprehension`],correctAnswer:2,explanation:`「理解できる」は comprehensible です。`},{id:`q-comprehensible-4`,question:`「包括的な・総合的な」を表すのはどちらですか。`,options:[`comprehensive`,`comprehensible`,`どちらも`,`どちらも違う`],correctAnswer:0,explanation:`comprehensive が「包括的」。comprehensible は「理解できる」です。`},{id:`q-comprehensible-5`,question:`空所に入る適切な語はどれですか。「They bought ( ) insurance covering everything.（彼らはすべてをカバーする総合保険に入った）」`,options:[`comprehensive`,`comprehensible`,`comprehend`,`comprehension`],correctAnswer:0,explanation:`「総合的な（保険）」は comprehensive です。`}]},{id:`credible-credulous`,title:`credible と credulous`,chapter:3,description:`同じ cred（信じる）由来でも別語。credible「信用できる・信じるに足る」、credulous「（人が）すぐ信じる・だまされやすい」。`,content:`## 何が信用に関わるかで見分ける
 
 どちらも cred-（信じる）から来ますが、意味の向きが違います。
 
@@ -3676,7 +3712,19 @@ regretfully（後悔しながら・すまなそうに）は動作の様子を表
 | **c**ereal | /ˈsɪəriəl/ | 穀物・シリアル | I eat **cereal** for breakfast.（朝食にシリアルを食べる） |
 | **s**erial | /ˈsɪəriəl/ | 連続的な・連載の | The **serial** number is on the back.（通し番号は裏にある） |
 
-🎯 覚え方：**食べ物の「シリアル・穀物」は cereal（c）**、「連続・連載・通し番号」は serial（s＝series の仲間）。朝食なら cereal、通し番号・連続なら serial。`,keyPoints:[`cereal と serial は同音 /ˈsɪəriəl/`,`cereal＝穀物・シリアル（食品・c 始まり）`,`serial＝連続的な・連載の・通し番号の（s＝series の仲間）`],quiz:[{id:`q-cereal-1`,question:`空所に入る適切な語はどれですか。「Enter the ( ) number to register.（登録には通し番号を入力して）」`,options:[`cereal`,`cereals`,`serial`,`serially`],correctAnswer:2,explanation:`「通し番号」は serial number です。`},{id:`q-cereal-2`,question:`「（朝食の）シリアル・穀物」という意味の語はどれですか。`,options:[`serial`,`serials`,`cereal`,`cereally`],correctAnswer:2,explanation:`食品の「シリアル・穀物」は cereal /ˈsɪəriəl/ です。`},{id:`q-cereal-3`,question:`cereal と serial の発音の関係はどれですか。`,options:[`母音が違う`,`子音が違う`,`同じ発音（同音異義語）`,`アクセントが違う`],correctAnswer:2,explanation:`どちらも /ˈsɪəriəl/ で同音異義語です。`},{id:`q-cereal-4`,question:`空所に入る適切な語はどれですか。「The story was published as a ( ) in the magazine.（その物語は雑誌に連載された）」`,options:[`cereal`,`cereals`,`serial`,`cereally`],correctAnswer:2,explanation:`「連載・連続もの」は serial です。`},{id:`q-cereal-5`,question:`「連続的な・連載の・通し番号の」を意味するのはどちらですか。`,options:[`serial`,`cereal`,`どちらも`,`どちらも違う`],correctAnswer:0,explanation:`serial が「連続・連載」。cereal は「穀物・シリアル」です。`}]},{id:`patience-patients`,title:`patience と patients`,chapter:4,description:`ほぼ同音 /ˈpeɪʃ(ə)ns/。patience「忍耐・辛抱」（不可算名詞）、patients「patient（患者）の複数」。意味で判断。`,content:`## 音はほぼ同じ、意味とスペルで見分ける
+🎯 覚え方：**食べ物の「シリアル・穀物」は cereal（c）**、「連続・連載・通し番号」は serial（s＝series の仲間）。朝食なら cereal、通し番号・連続なら serial。
+
+### cereal の語源はローマの農業の女神ケレース
+
+cereal はラテン語 Cerealis（ケレースの、の意）に由来し、ローマ神話で穀物や収穫を司る女神ケレース（Ceres）から名付けられた。ギリシャ神話のデメテルに相当するこの女神の名が、そのまま「穀物」を表す英単語として定着した。
+
+### serial comma という文法用語
+
+3つ以上の項目を並べるとき最後の and の前に置くコンマを serial comma（別名 Oxford comma）と呼ぶ。“red, white, and blue” のように and の前にコンマを入れるかどうかは英語圏でも意見が分かれる有名な文法論争で、serial の「連続する項目」という意味がそのまま文法用語名になっている。
+
+### serial が作る複合語の広がり
+
+serial は serial killer（連続殺人犯）、serial number（通し番号）のほかに、イギリス英語では連続ドラマを serial（各話が連続する物語）と呼び、アメリカ英語で好まれる series と使い分けられることがある。「連続している」という一つの中心義が、犯罪から製品管理、放送用語まで広い分野に枝分かれしている。`,keyPoints:[`cereal と serial は同音 /ˈsɪəriəl/`,`cereal＝穀物・シリアル（食品・c 始まり）`,`serial＝連続的な・連載の・通し番号の（s＝series の仲間）`],quiz:[{id:`q-cereal-1`,question:`空所に入る適切な語はどれですか。「Enter the ( ) number to register.（登録には通し番号を入力して）」`,options:[`cereal`,`cereals`,`serial`,`serially`],correctAnswer:2,explanation:`「通し番号」は serial number です。`},{id:`q-cereal-2`,question:`「（朝食の）シリアル・穀物」という意味の語はどれですか。`,options:[`serial`,`serials`,`cereal`,`cereally`],correctAnswer:2,explanation:`食品の「シリアル・穀物」は cereal /ˈsɪəriəl/ です。`},{id:`q-cereal-3`,question:`cereal と serial の発音の関係はどれですか。`,options:[`母音が違う`,`子音が違う`,`同じ発音（同音異義語）`,`アクセントが違う`],correctAnswer:2,explanation:`どちらも /ˈsɪəriəl/ で同音異義語です。`},{id:`q-cereal-4`,question:`空所に入る適切な語はどれですか。「The story was published as a ( ) in the magazine.（その物語は雑誌に連載された）」`,options:[`cereal`,`cereals`,`serial`,`cereally`],correctAnswer:2,explanation:`「連載・連続もの」は serial です。`},{id:`q-cereal-5`,question:`「連続的な・連載の・通し番号の」を意味するのはどちらですか。`,options:[`serial`,`cereal`,`どちらも`,`どちらも違う`],correctAnswer:0,explanation:`serial が「連続・連載」。cereal は「穀物・シリアル」です。`}]},{id:`patience-patients`,title:`patience と patients`,chapter:4,description:`ほぼ同音 /ˈpeɪʃ(ə)ns/。patience「忍耐・辛抱」（不可算名詞）、patients「patient（患者）の複数」。意味で判断。`,content:`## 音はほぼ同じ、意味とスペルで見分ける
 
 **patience と patients はほぼ同じ発音 /ˈpeɪʃ(ə)ns/**。意味とスペルで決めます。
 
@@ -3688,7 +3736,19 @@ regretfully（後悔しながら・すまなそうに）は動作の様子を表
 | patien**ce** | /ˈpeɪʃəns/ | 忍耐 | Learning a language takes **patience**.（言語習得には忍耐がいる） |
 | patien**ts** | /ˈpeɪʃənts/ | 患者（複数） | The doctor sees many **patients** a day.（医者は1日に多くの患者を診る） |
 
-🎯 覚え方：**「忍耐」は patience（-ce）**、「患者たち」は patients（-ts＝複数）。我慢の話なら patience、病院の人なら patients。`,keyPoints:[`patience と patients はほぼ同音 /ˈpeɪʃ(ə)ns/`,`patience＝忍耐・辛抱（不可算名詞・-ce）`,`patients＝患者 patient の複数形（-ts）`],quiz:[{id:`q-patience-1`,question:`空所に入る適切な語はどれですか。「The nurse cared for six ( ) that night.（看護師はその夜6人の患者を看た）」`,options:[`patience`,`patients`,`patiences`,`patient`],correctAnswer:1,explanation:`「患者（複数）」は patients です。`},{id:`q-patience-2`,question:`「忍耐・辛抱」という意味の名詞はどれですか。`,options:[`patients`,`patience`,`patient`,`patiently`],correctAnswer:1,explanation:`「忍耐」は patience /ˈpeɪʃəns/ です。`},{id:`q-patience-3`,question:`空所に入る適切な語はどれですか。「Please have ( ); the line is long.（辛抱して。列は長い）」`,options:[`patients`,`patience`,`patient`,`patiently`],correctAnswer:1,explanation:`「忍耐（を持つ）」は patience（have patience）です。`},{id:`q-patience-4`,question:`「患者たち（複数）」を表すのはどちらですか。`,options:[`patience`,`patients`,`どちらも`,`どちらも違う`],correctAnswer:1,explanation:`患者の複数は patients。patience は「忍耐」です。`},{id:`q-patience-5`,question:`空所に入る適切な語はどれですか。「He lost his ( ) and shouted.（彼は我慢できず怒鳴った）」`,options:[`patients`,`patience`,`patient`,`patiently`],correctAnswer:1,explanation:`「我慢・忍耐（を失う）」は patience（lose one's patience）です。`}]},{id:`bury-berry`,title:`bury と berry`,chapter:4,description:`同音 /ˈbɛri/。bury「埋める・葬る」（動詞）、berry「ベリー（果実）」（名詞）。意味とスペルで判断。`,content:`## 音は同じ、意味とスペルで見分ける
+🎯 覚え方：**「忍耐」は patience（-ce）**、「患者たち」は patients（-ts＝複数）。我慢の話なら patience、病院の人なら patients。
+
+### patience はイギリス英語のトランプ用語
+
+一人で行うトランプゲームを、イギリス英語では patience、アメリカ英語では solitaire と呼ぶ。カードを順序よく並べていく忍耐力を要する遊びであることが、このゲーム自体の名前に patience（忍耐）という語をそのまま与えた由来になっている。
+
+### patient zero という疫学用語
+
+感染症の集団発生を調べる疫学では、最初に感染が確認された患者を patient zero（または index case）と呼ぶ。patient の複数形 patients は単に「大勢の患者」を指すが、patient zero は「最初の1人」を特定する専門用語として使われる。
+
+### patience と patients を結ぶ共通の祖先
+
+一見無関係に見える patience と patients だが、どちらも「耐え忍ぶ」を意味するラテン語 pati の現在分詞 patiens に由来する。形容詞 patient（我慢強い／病を耐え忍ぶ人）から、抽象的な性質を表す patience と、具体的な人を表す patient の複数形 patients が、別々の方向へ枝分かれした。`,keyPoints:[`patience と patients はほぼ同音 /ˈpeɪʃ(ə)ns/`,`patience＝忍耐・辛抱（不可算名詞・-ce）`,`patients＝患者 patient の複数形（-ts）`],quiz:[{id:`q-patience-1`,question:`空所に入る適切な語はどれですか。「The nurse cared for six ( ) that night.（看護師はその夜6人の患者を看た）」`,options:[`patience`,`patients`,`patiences`,`patient`],correctAnswer:1,explanation:`「患者（複数）」は patients です。`},{id:`q-patience-2`,question:`「忍耐・辛抱」という意味の名詞はどれですか。`,options:[`patients`,`patience`,`patient`,`patiently`],correctAnswer:1,explanation:`「忍耐」は patience /ˈpeɪʃəns/ です。`},{id:`q-patience-3`,question:`空所に入る適切な語はどれですか。「Please have ( ); the line is long.（辛抱して。列は長い）」`,options:[`patients`,`patience`,`patient`,`patiently`],correctAnswer:1,explanation:`「忍耐（を持つ）」は patience（have patience）です。`},{id:`q-patience-4`,question:`「患者たち（複数）」を表すのはどちらですか。`,options:[`patience`,`patients`,`どちらも`,`どちらも違う`],correctAnswer:1,explanation:`患者の複数は patients。patience は「忍耐」です。`},{id:`q-patience-5`,question:`空所に入る適切な語はどれですか。「He lost his ( ) and shouted.（彼は我慢できず怒鳴った）」`,options:[`patients`,`patience`,`patient`,`patiently`],correctAnswer:1,explanation:`「我慢・忍耐（を失う）」は patience（lose one's patience）です。`}]},{id:`bury-berry`,title:`bury と berry`,chapter:4,description:`同音 /ˈbɛri/。bury「埋める・葬る」（動詞）、berry「ベリー（果実）」（名詞）。意味とスペルで判断。`,content:`## 音は同じ、意味とスペルで見分ける
 
 **bury と berry は同じ発音 /ˈbɛri/（同音異義語）**。bury の u は「エ」の音です。
 
@@ -3865,7 +3925,19 @@ be famous for も be infamous for も同じ形をとるため、判断の手が�
 | curr**ant** | /ˈkʌrənt/ | 干しブドウ・スグリ | Add **currants** to the cake batter.（生地に干しブドウを加えて） |
 | curr**ent** | /ˈkʌrənt/ | 現在の・流れ | What is the **current** situation?（現在の状況は？） |
 
-🎯 覚え方：**食べ物（果実）は currant（-ant）**、「現在の・流れ・電流」は current（-ent）。お菓子の実なら currant、今の状況・流れなら current。`,keyPoints:[`currant と current は同音 /ˈkʌrənt/`,`currant＝干しブドウ・スグリ（果実・-ant）`,`current＝現在の・最新の／流れ・電流（-ent）`],quiz:[{id:`q-currant-1`,question:`空所に入る適切な語はどれですか。「Please check the ( ) exchange rate.（現在の為替レートを確認して）」`,options:[`current`,`currant`,`currants`,`currently`],correctAnswer:0,explanation:`「現在の・最新の」は current です。`},{id:`q-currant-2`,question:`「干しブドウ・スグリ（果実）」という意味の語はどれですか。`,options:[`current`,`currant`,`currents`,`currently`],correctAnswer:1,explanation:`果実の「干しブドウ・スグリ」は currant です。`},{id:`q-currant-3`,question:`currant と current の発音の関係はどれですか。`,options:[`母音が違う`,`子音が違う`,`同じ発音（同音異義語）`,`アクセントが違う`],correctAnswer:2,explanation:`どちらも /ˈkʌrənt/ で同音異義語です。`},{id:`q-currant-4`,question:`空所に入る適切な語はどれですか。「A strong ( ) pulled the swimmer out to sea.（強い流れが泳ぐ人を沖へ引いた）」`,options:[`current`,`currant`,`currants`,`currantly`],correctAnswer:0,explanation:`水の「流れ・海流」は current です。`},{id:`q-currant-5`,question:`「現在の・電流・流れ」を意味するのはどちらですか。`,options:[`current`,`currant`,`どちらも`,`どちらも違う`],correctAnswer:0,explanation:`current が「現在の・流れ」。currant は果実です。`}]},{id:`hope-wish-expect`,title:`hope と wish と expect`,chapter:2,description:`「望む・思う」の3語。hope は実現可能なことを望む、wish は実現しにくい願い（仮定法）、expect は起こると予期する。`,content:`## 実現の可能性・語法で見分ける
+🎯 覚え方：**食べ物（果実）は currant（-ant）**、「現在の・流れ・電流」は current（-ent）。お菓子の実なら currant、今の状況・流れなら current。
+
+### イギリス英語の銀行用語 current account
+
+イギリス英語で日常使う銀行口座は current account（当座預金口座）と呼ばれ、アメリカ英語の checking account に当たる。「現在・日常の」取引に使う口座、という current の中心義がそのまま銀行商品名になっている。
+
+### alternating current と direct current の略語 AC/DC
+
+電流を表す current は、向きが周期的に変わる alternating current（交流・AC）と、向きが一定の direct current（直流・DC）に分かれる。ロックバンド名としても有名な AC/DC は、この電気工学用語の略称がそのまま使われている。
+
+### currant の語源はギリシャの都市コリントス
+
+currant はもともと、ギリシャの都市コリントスから輸出された小粒の種なしぶどうを指す古フランス語 raisins de Corauntz（コリントスの干しぶどう）に由来する。今日「カラント」と呼ばれる赤スグリ・黒スグリ（Ribes属）の果実は、この乾しぶどうと見た目が似ていたために後から同じ名前で呼ばれるようになったもので、植物としては別の種である。`,keyPoints:[`currant と current は同音 /ˈkʌrənt/`,`currant＝干しブドウ・スグリ（果実・-ant）`,`current＝現在の・最新の／流れ・電流（-ent）`],quiz:[{id:`q-currant-1`,question:`空所に入る適切な語はどれですか。「Please check the ( ) exchange rate.（現在の為替レートを確認して）」`,options:[`current`,`currant`,`currants`,`currently`],correctAnswer:0,explanation:`「現在の・最新の」は current です。`},{id:`q-currant-2`,question:`「干しブドウ・スグリ（果実）」という意味の語はどれですか。`,options:[`current`,`currant`,`currents`,`currently`],correctAnswer:1,explanation:`果実の「干しブドウ・スグリ」は currant です。`},{id:`q-currant-3`,question:`currant と current の発音の関係はどれですか。`,options:[`母音が違う`,`子音が違う`,`同じ発音（同音異義語）`,`アクセントが違う`],correctAnswer:2,explanation:`どちらも /ˈkʌrənt/ で同音異義語です。`},{id:`q-currant-4`,question:`空所に入る適切な語はどれですか。「A strong ( ) pulled the swimmer out to sea.（強い流れが泳ぐ人を沖へ引いた）」`,options:[`current`,`currant`,`currants`,`currantly`],correctAnswer:0,explanation:`水の「流れ・海流」は current です。`},{id:`q-currant-5`,question:`「現在の・電流・流れ」を意味するのはどちらですか。`,options:[`current`,`currant`,`どちらも`,`どちらも違う`],correctAnswer:0,explanation:`current が「現在の・流れ」。currant は果実です。`}]},{id:`hope-wish-expect`,title:`hope と wish と expect`,chapter:2,description:`「望む・思う」の3語。hope は実現可能なことを望む、wish は実現しにくい願い（仮定法）、expect は起こると予期する。`,content:`## 実現の可能性・語法で見分ける
 
 いずれも心の動きですが、可能性と語法が違います。
 
@@ -4315,7 +4387,19 @@ inn は現代の大型ホテルではなく、**昔ながらの小さな宿・�
 | emigrate | 出ていく | 移住して出る | They **emigrated from** Ireland.（彼らはアイルランドを出て移住した） |
 | immigrate | 入ってくる | 移住して入る | Many **immigrated to** the US.（多くが米国へ移住してきた） |
 
-🎯 覚え方：**e-（exit）で出る emigrate、im-（in）で入る immigrate**。出発国を言うなら emigrate from、到着国を言うなら immigrate to。名詞は emigrant／immigrant。`,keyPoints:[`emigrate＝（自国から）出ていく（e-＝exit・emigrate from）`,`immigrate＝（他国へ）入ってくる（im-＝in・immigrate to）`,`出発国なら emigrate、到着国なら immigrate`],quiz:[{id:`q-emigrate-1`,question:`空所に入る適切な語はどれですか。「Her family ( ) to Canada in 1990.（一家は1990年にカナダへ移住してきた）」`,options:[`emigrated`,`emigrate`,`immigrated`,`emigrates`],correctAnswer:2,explanation:`到着国（to Canada）へ入るので immigrate です。`},{id:`q-emigrate-2`,question:`空所に入る適切な語はどれですか。「Many people ( ) from Europe during the war.（戦時中、多くが欧州を出て移住した）」`,options:[`immigrated`,`immigrate`,`emigrated`,`immigrates`],correctAnswer:2,explanation:`出発国（from Europe）を出るので emigrate です。`},{id:`q-emigrate-3`,question:`「（自国を出て）移住する」を表すのはどちらですか。`,options:[`emigrate`,`immigrate`,`どちらも`,`どちらも違う`],correctAnswer:0,explanation:`出るのは emigrate（e-＝exit）。入るのは immigrate です。`},{id:`q-emigrate-4`,question:`空所に入る適切な語はどれですか。「The country welcomed ( ) from many nations.（その国は多くの国からの移民を歓迎した）」`,options:[`emigrants`,`emigrate`,`immigrants`,`emigrated`],correctAnswer:2,explanation:`入ってくる移民は immigrant です。`},{id:`q-emigrate-5`,question:`im-（in＝入る）で「移住してくる」のはどちらですか。`,options:[`immigrate`,`emigrate`,`どちらも`,`どちらも違う`],correctAnswer:0,explanation:`immigrate（im-＝in）が入る側。emigrate（e-＝exit）は出る側です。`}]},{id:`biannual-biennial`,title:`biannual と biennial`,chapter:2,description:`頻度が違う。biannual は「年に2回（半年ごと）」、biennial は「2年に1回」。`,content:`## 「年2回」か「2年に1回」かで見分ける
+🎯 覚え方：**e-（exit）で出る emigrate、im-（in）で入る immigrate**。出発国を言うなら emigrate from、到着国を言うなら immigrate to。名詞は emigrant／immigrant。
+
+### émigré というフランス語からの借用語
+
+フランス革命期に祖国を追われた亡命者を指す émigré（エミグレ）は、フランス語からそのまま英語に定着した借用語である。emigrate の名詞形 emigrant とほぼ同義だが、émigré は特に政治的な理由で母国を離れた人を指すニュアンスで使われることが多い。
+
+### 方向を問わない中立語 migrate
+
+emigrate（出る）・immigrate（入る）はどちらも、方向を問わない中立的な語 migrate（移動する）から接頭辞によって枝分かれした語である。動物の渡りを表す bird migration のように、出発点も到着点も特に強調しない場面では migrate がそのまま使われる。
+
+### migrant worker が示す第三の語 migrant
+
+immigrant（入ってくる移住者）・emigrant（出ていく移住者）に加えて、migrant という語は季節労働などで一時的に移動する人を指す場合に使われ、必ずしも定住を含意しない。migrant worker（出稼ぎ労働者）のように、定住を前提とする immigrant とは異なるニュアンスで使われる。`,keyPoints:[`emigrate＝（自国から）出ていく（e-＝exit・emigrate from）`,`immigrate＝（他国へ）入ってくる（im-＝in・immigrate to）`,`出発国なら emigrate、到着国なら immigrate`],quiz:[{id:`q-emigrate-1`,question:`空所に入る適切な語はどれですか。「Her family ( ) to Canada in 1990.（一家は1990年にカナダへ移住してきた）」`,options:[`emigrated`,`emigrate`,`immigrated`,`emigrates`],correctAnswer:2,explanation:`到着国（to Canada）へ入るので immigrate です。`},{id:`q-emigrate-2`,question:`空所に入る適切な語はどれですか。「Many people ( ) from Europe during the war.（戦時中、多くが欧州を出て移住した）」`,options:[`immigrated`,`immigrate`,`emigrated`,`immigrates`],correctAnswer:2,explanation:`出発国（from Europe）を出るので emigrate です。`},{id:`q-emigrate-3`,question:`「（自国を出て）移住する」を表すのはどちらですか。`,options:[`emigrate`,`immigrate`,`どちらも`,`どちらも違う`],correctAnswer:0,explanation:`出るのは emigrate（e-＝exit）。入るのは immigrate です。`},{id:`q-emigrate-4`,question:`空所に入る適切な語はどれですか。「The country welcomed ( ) from many nations.（その国は多くの国からの移民を歓迎した）」`,options:[`emigrants`,`emigrate`,`immigrants`,`emigrated`],correctAnswer:2,explanation:`入ってくる移民は immigrant です。`},{id:`q-emigrate-5`,question:`im-（in＝入る）で「移住してくる」のはどちらですか。`,options:[`immigrate`,`emigrate`,`どちらも`,`どちらも違う`],correctAnswer:0,explanation:`immigrate（im-＝in）が入る側。emigrate（e-＝exit）は出る側です。`}]},{id:`biannual-biennial`,title:`biannual と biennial`,chapter:2,description:`頻度が違う。biannual は「年に2回（半年ごと）」、biennial は「2年に1回」。`,content:`## 「年2回」か「2年に1回」かで見分ける
 
 どちらも bi-（2）が付きますが、周期が正反対に近いほど違います。
 
@@ -4703,7 +4787,19 @@ look は後ろの前置詞で意味が大きく変わります。ここを取り
 
 💡 病院なら patient、ホテルや招待客なら guest、公共交通なら passenger と、業種ごとの語もあります。
 
-🎯 覚え方：**レジで払うなら customer、契約して任せるなら client**。`,keyPoints:[`customer＝商品・サービスを買う客（小売や飲食）`,`client＝専門的サービスを依頼する人（法律・会計・広告など）`,`病院は patient、ホテルは guest など業種別の語もある`],quiz:[{id:`q-client-1`,question:`空所に入る適切な語はどれですか。「The café has many regular ( ).（そのカフェには常連客が多い）」`,options:[`clients`,`patients`,`guests`,`customers`],correctAnswer:3,explanation:`店で買う客は customer です。`},{id:`q-client-2`,question:`空所に入る適切な語はどれですか。「The lawyer met her ( ) before the trial.（弁護士は裁判前に依頼人と会った）」`,options:[`client`,`customer`,`buyer`,`shopper`],correctAnswer:0,explanation:`弁護士に依頼する人は client です。`},{id:`q-client-3`,question:`広告代理店が取引する企業を指すのに適した語はどれですか。`,options:[`client`,`customer`,`passenger`,`guest`],correctAnswer:0,explanation:`専門サービスの契約相手は client です。`},{id:`q-client-4`,question:`病院で治療を受ける人を指す語はどれですか。`,options:[`client`,`customer`,`guest`,`patient`],correctAnswer:3,explanation:`医療機関では patient を使います。`},{id:`q-client-5`,question:`customer と client の違いの説明として適切なものはどれですか。`,options:[`customer は専門サービスの依頼人、client は買い物客`,`customer は商品を買う客、client は専門サービスを依頼する人`,`両者は完全に同義`,`client は無料の利用者だけを指す`],correctAnswer:1,explanation:`買う人が customer、専門的な依頼をする人が client です。`}]},{id:`confusing-confused`,title:`confusing と confused`,chapter:3,description:`感情動詞の -ing 形と -ed 形。confusing は「（物事が）混乱させる」、confused は「（人が）混乱している」。`,content:`## -ing は原因、-ed は受け手の状態
+🎯 覚え方：**レジで払うなら customer、契約して任せるなら client**。
+
+### コンピュータ用語 client-server に引き継がれた原義
+
+コンピュータの世界で使われる client-server（クライアントサーバー）方式は、サービスを要求する側を client、提供する側を server と呼ぶ。「サービスを依頼する側」という日常語の client の意味がそのままIT用語に転用された例で、店で商品を買う customer との違いがここでも保たれている。
+
+### 語源が語る client と patron の主従関係
+
+client はラテン語 cliens（庇護を受ける者）に由来し、古代ローマで有力者（patronus、patron の語源）の保護下にあった平民を指した。この patron と client の非対称な関係の名残が、現代の「専門家に継続的に仕事を依頼する」という client の語感につながっている。
+
+### customer と customs が共有する語源
+
+customer は「習慣・関税」を意味するラテン語 custuma に由来する語で、customs（税関・輸入関税）と同じ語根を共有する。店に習慣的に通う人という意味が中世に生まれ、それが今日の「顧客」の意味に定着した。似た綴りの customs との関係は偶然ではない。`,keyPoints:[`customer＝商品・サービスを買う客（小売や飲食）`,`client＝専門的サービスを依頼する人（法律・会計・広告など）`,`病院は patient、ホテルは guest など業種別の語もある`],quiz:[{id:`q-client-1`,question:`空所に入る適切な語はどれですか。「The café has many regular ( ).（そのカフェには常連客が多い）」`,options:[`clients`,`patients`,`guests`,`customers`],correctAnswer:3,explanation:`店で買う客は customer です。`},{id:`q-client-2`,question:`空所に入る適切な語はどれですか。「The lawyer met her ( ) before the trial.（弁護士は裁判前に依頼人と会った）」`,options:[`client`,`customer`,`buyer`,`shopper`],correctAnswer:0,explanation:`弁護士に依頼する人は client です。`},{id:`q-client-3`,question:`広告代理店が取引する企業を指すのに適した語はどれですか。`,options:[`client`,`customer`,`passenger`,`guest`],correctAnswer:0,explanation:`専門サービスの契約相手は client です。`},{id:`q-client-4`,question:`病院で治療を受ける人を指す語はどれですか。`,options:[`client`,`customer`,`guest`,`patient`],correctAnswer:3,explanation:`医療機関では patient を使います。`},{id:`q-client-5`,question:`customer と client の違いの説明として適切なものはどれですか。`,options:[`customer は専門サービスの依頼人、client は買い物客`,`customer は商品を買う客、client は専門サービスを依頼する人`,`両者は完全に同義`,`client は無料の利用者だけを指す`],correctAnswer:1,explanation:`買う人が customer、専門的な依頼をする人が client です。`}]},{id:`confusing-confused`,title:`confusing と confused`,chapter:3,description:`感情動詞の -ing 形と -ed 形。confusing は「（物事が）混乱させる」、confused は「（人が）混乱している」。`,content:`## -ing は原因、-ed は受け手の状態
 
 confuse（混乱させる）のような**感情動詞**は、分詞の形で意味が変わります。
 
