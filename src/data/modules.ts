@@ -5704,7 +5704,19 @@ study は「勉強する」という**過程**、learn は「身につく」と�
 | trip | 可算 | 往復の旅行 | We took a **trip** to Kyoto.（京都へ旅行した） |
 | journey | 可算 | 長い道のり | The **journey** took ten hours.（その旅程は10時間かかった） |
 
-🎯 覚え方：**「旅行する」という動詞は travel、「一回の旅行」は a trip、「長い道のり」は a journey**。a travel（×）とは言わないので注意。`,
+🎯 覚え方：**「旅行する」という動詞は travel、「一回の旅行」は a trip、「長い道のり」は a journey**。a travel（×）とは言わないので注意。
+
+### travel の語源は拷問器具 tripalium に遡る
+
+travel は元をたどると古フランス語 travail（労苦・苦しい努力）に由来し、さらにラテン語 tripalium（三本の杭からなる拷問具）にまで遡る。中世の移動が命がけの苦難を伴ったことが、この語の成立に影を落としている。日常語の travel からは想像しにくいが、travail（産みの苦しみ・激しい労苦）は今も英語に残る同根語である。
+
+### journey はフランス語で「一日分の道のり」
+
+journey は古フランス語 journée（一日・一日分の仕事や移動）に由来し、中英語では「馬や徒歩で一日に進める距離」を意味した。現代では所要日数に関係なく使われるが、語源には「一日で行ける範囲」という具体的な尺度が刻まれている。
+
+### a business trip と journey of a lifetime の語感差
+
+trip は business trip・day trip のように「目的があって戻ってくる」短い往復を指すことが多く、journey は journey of a lifetime（一生に一度の旅）のように、道のりそのものの重みや変化に焦点が当たる。同じ「旅」でも、trip が用件寄り、journey が体験・過程寄りという語感の違いがここに表れる。`,
     keyPoints: [
       'travel＝動詞「旅行する」／不可算名詞（a travel は不可）',
       'trip＝可算「往復の（短い）旅行」（a business trip）',
@@ -5978,7 +5990,19 @@ SF作品で頻出する「並行世界」は、アメリカ英語では alternat
 | th**ere** | 場所 | そこに | Put it over **there**.（それをあそこに置いて） |
 | the**y're** | 短縮 | 彼らは〜だ | **They're** my friends.（彼らは私の友達だ） |
 
-🎯 覚え方：**their はうしろに名詞（所有）**、**there には here（ここ）が入って「場所」**、**they're は they are（アポストロフィ＝短縮）**。`,
+🎯 覚え方：**their はうしろに名詞（所有）**、**there には here（ここ）が入って「場所」**、**they're は they are（アポストロフィ＝短縮）**。
+
+### their は古ノルド語からの借用語
+
+their はもともとの古英語 heora ではなく、古ノルド語 þeirra から借用された形が定着したものである。古英語の he/him/her 系の代名詞は母音の摩滅で he と hie、him と heom が発音上ほぼ区別できなくなっており、ヴァイキングの言語から入った þeir 系の形（they/their/them）に置き換わることで、単数形との混同を避けられるようになった。
+
+### there の語根は here と同じ指示の仕組み
+
+there は here（ここ）・where（どこ）と同じ古英語の指示語の系列に属し、語尾の -ere が「場所」を表す共通のパターンになっている。here＝「ここ」、there＝「そこ」、where＝「どこ」と、この -ere 型の語だけで場所を尋ねる・示す一群を成している。
+
+### they're のアポストロフィが示す省略の位置
+
+they're のアポストロフィは、they are の a が省略された位置を示す記号であり、can't（cannot）や don't（do not）と同じ「文字が消えた場所に打つ」という一貫したルールに従っている。their や there にアポストロフィが付かないのは、そもそも2語の短縮ではなく単独の語だからである。`,
     keyPoints: [
       'their＝彼らの（所有・うしろに名詞）',
       'there＝そこに（場所・there is/are）',
@@ -6119,7 +6143,19 @@ sole は靴の「靴底」だけでなく、食用魚の**舌平目（sole）**�
 | light**ning** | /ˈlaɪtnɪŋ/ | 稲妻 | **Lightning** struck the tower.（稲妻が塔を打った） |
 | light**ening** | /ˈlaɪtənɪŋ/ | 明るく・軽くすること | **Lightening** the color made the room brighter.（色を明るくして部屋が明るくなった） |
 
-🎯 覚え方：**天気の「稲妻」は e のない lightning（短い＝速い）**。lighten（明るく／軽くする）の -ing は e が残って lightening。雷の話ならほぼ lightning。`,
+🎯 覚え方：**天気の「稲妻」は e のない lightning（短い＝速い）**。lighten（明るく／軽くする）の -ing は e が残って lightening。雷の話ならほぼ lightning。
+
+### lightning rod を実用化したベンジャミン・フランクリン
+
+避雷針（lightning rod）は1749年にベンジャミン・フランクリンが考案し、1752年の凧の実験で雷が電気であることを実証したことで知られる。稲妻という自然現象を指す lightning は、この科学史上の発明の名にもそのまま使われている。
+
+### lightning-fast という比喩表現
+
+lightning は名詞だけでなく lightning-fast（電光石火の）・at lightning speed（電光石火の速さで）のように、比喩的に「極めて速い」ことを表す形容詞的な要素としても使われる。稲妻が光ってから雷鳴が届くまでのわずかな時間差が、この「速さ」のイメージの源になっている。
+
+### lighten が持つ「明るくする」と「軽くする」の二つの意味
+
+lightening のもとになる動詞 lighten は、light（光）から「明るくする」という意味と、light（軽い）から「軽くする」という意味の両方を持つ。lightening the mood（雰囲気を明るくする）と lightening the load（荷を軽くする）はどちらも同じ lighten の -ing 形で、文脈によって意味が分かれる。`,
     keyPoints: [
       'lightning＝稲妻・雷光（e なし）',
       'lightening＝明るく／軽くすること（lighten + -ing）',
@@ -7852,7 +7888,19 @@ further には動詞の用法があり、further your career（キャリアを�
 | reach | 他動詞 | （場所）に着く | We **reached** the summit at noon.（正午に頂上に着いた） |
 | arrive | 自動詞 | （at/in）到着する | They **arrived at** the hotel.（彼らはホテルに着いた） |
 
-🎯 覚え方：**reach はそのまま場所（reach ~）、arrive は at/in が必要**。get to ~ も arrive at と同じく前置詞つき。「駅に着く」は reach the station / arrive at the station。`,
+🎯 覚え方：**reach はそのまま場所（reach ~）、arrive は at/in が必要**。get to ~ も arrive at と同じく前置詞つき。「駅に着く」は reach the station / arrive at the station。
+
+### arrive は「岸に着く」を意味するラテン語が語源
+
+arrive はラテン語 ad ripam（岸へ）に由来し、もとは「長い航海の末に岸に上陸する」という意味だった。船旅の到着を表していた語が、やがて陸路や空路も含むあらゆる「到着」に意味を広げ、さらに arrive at a conclusion（結論に達する）のように抽象的な到達にも使われるようになった。
+
+### reach out という句動詞に広がる「手を伸ばす」の比喩
+
+reach は元来「手を伸ばして届く」という物理的な動作を表し、そこから reach out（連絡を取る・支援の手を差し伸べる）、reach an agreement（合意に達する）のように、物理的な到達から人間関係や交渉の到達へと意味が広がっている。
+
+### get to という口語的な代替表現
+
+日常会話では reach や arrive at の代わりに get to ~（〜に着く）が好んで使われる。get to も arrive と同じく前置詞 to を伴う点は共通するが、reach のように前置詞なしで直接目的語を取ることはできない。`,
     keyPoints: [
       'reach＝他動詞（reach + 場所・前置詞なし）',
       'arrive＝自動詞（arrive at 狭い場所 / in 広い場所）',
@@ -8268,7 +8316,19 @@ won は句動詞 **win over**（〜を味方につける・説得する）の過
 | consci**ous** | /ˈkɒnʃəs/ | 形容詞：意識のある | She is **conscious** of the risk.（彼女はその危険に気づいている） |
 | consci**ence** | /ˈkɒnʃəns/ | 名詞：良心 | His **conscience** troubled him.（良心の呵責に苦しんだ） |
 
-🎯 覚え方：**-ous の conscious は「気づいている（状態）」の形容詞**、-ence の conscience は「良心」という名詞（science＝知る心）。善悪の心なら conscience。`,
+🎯 覚え方：**-ous の conscious は「気づいている（状態）」の形容詞**、-ence の conscience は「良心」という名詞（science＝知る心）。善悪の心なら conscience。
+
+### conscious と conscience は同じラテン語 conscire から分かれた
+
+conscious と conscience はどちらもラテン語 conscire（ともに知る）に由来し、com-（共に）と scire（知る）が組み合わさった語である。「自分の内側で（善悪や事実を）知っている」という中心イメージから、状態を表す形容詞 conscious と、善悪を判断する心を表す名詞 conscience に分かれた。
+
+### self-conscious が表す「気にしすぎる」意味
+
+conscious は self-conscious（自意識過剰な・人目を気にする）という複合語でよく使われ、単に「意識がある」という中立的な意味から、「他人の視線を過剰に意識している」という否定的なニュアンスに転じる。文脈によって意味の重みが変わる点に注意が要る。
+
+### guilty conscience という定型句
+
+conscience は a guilty conscience（やましい良心）・a clear conscience（やましいところのない良心）という形でよく使われ、in all conscience（良心に照らして・誠実に言えば）という副詞的な定型句もある。良心の状態を形容詞で挟む言い方が定着している。`,
     keyPoints: [
       'conscious /ˈkɒnʃəs/＝形容詞「意識のある・気づいている」',
       'conscience /ˈkɒnʃəns/＝名詞「良心」',
@@ -8398,7 +8458,19 @@ moral に e を一つ足すだけで、単語は個人の倫理から集団の�
 | avoid | avoid doing | （自分が）避ける | I **avoid** eating too much sugar.（砂糖の取りすぎを避けている） |
 | prevent | prevent 人 from doing | 防ぐ・妨げる | The rain **prevented** us from going out.（雨で外出できなかった） |
 
-🎯 覚え方：**avoid のあとは doing（避ける対象）、prevent のあとは「人 from doing（〜が…するのを妨げる）」**。「〜するのを避ける」は avoid doing、「〜が…するのを防ぐ」は prevent ~ from doing。`,
+🎯 覚え方：**avoid のあとは doing（避ける対象）、prevent のあとは「人 from doing（〜が…するのを妨げる）」**。「〜するのを避ける」は avoid doing、「〜が…するのを防ぐ」は prevent ~ from doing。
+
+### void と同じ語根から生まれた avoid
+
+avoid はラテン語 vacuus（空の）に由来する void（無効にする・空にする）と同じ語根を持ち、もとは「（場所を）空にする・立ち去る」という意味だった。そこから「（好ましくないものが起きる場所を）自分から空ける＝避ける」という現代の意味に発展した。voidable（無効にしうる）という法律用語にも同じ語根が残っている。
+
+### prevent はラテン語で「先に来る」を意味した
+
+prevent はラテン語 praevenire（pre-「前に」+ venire「来る」）に由来し、もとは「先に到着する・先手を打つ」という意味だった。「事が起きる前に対処して防ぐ」という現代の語義は、この「先回りする」という原義がそのまま生きている。
+
+### preventable disease という医療用語
+
+prevent の形容詞形 preventable は preventable disease（予防可能な病気）のように公衆衛生の分野で頻出する。avoid にも avoidable という同型の形容詞はあるが、医療・疫学の専門文脈では prevent 系の語がほぼ一貫して使われる。`,
     keyPoints: [
       'avoid＝（自分が）避ける（avoid doing）',
       'prevent＝防ぐ・妨げる（prevent 人 from doing）',
@@ -8532,7 +8604,19 @@ large を使った成句に at large があり、The suspect is still at large.�
 | confid**ent** | /ˈkɒnfɪdənt/ | 形容詞：自信のある | She felt **confident** before the test.（試験前、自信があった） |
 | confid**ant** | /ˈkɒnfɪdænt/ | 名詞：腹心の友 | He is my closest **confidant**.（彼は私の最も親しい相談相手だ） |
 
-🎯 覚え方：**-ent の confident は「自信のある（形容詞）」**、-ant の confidant は「秘密を打ち明ける友（名詞・人）」。人を指すなら confidant。`,
+🎯 覚え方：**-ent の confident は「自信のある（形容詞）」**、-ant の confidant は「秘密を打ち明ける友（名詞・人）」。人を指すなら confidant。
+
+### confidant の女性形 confidante に見るフランス語由来の名残
+
+confidant はフランス語から18世紀の英語作家が作った語で、女性を指す場合は confidante という綴りも使われてきた。フランス語の文法性（男性形/女性形）の名残だが、現代英語では authoress（女性作家）などと同様、性別で語形を分ける習慣自体が廃れつつあり、confidant がどちらの性別にも使われる傾向が強まっている。
+
+### confide in という動詞の語法
+
+confidant・confident の元になる動詞 confide は、confide in someone（人を信頼して秘密を打ち明ける）という形で使われる。confide in の目的語になれる人物こそが confidant であり、名詞 confidant は動詞 confide の「打ち明ける相手」という意味をそのまま人物化した語だと理解すると覚えやすい。
+
+### confidential という派生語との違い
+
+confident と語根を共有する confidential（機密の・内密の）は、情報の性質を表す形容詞であり、人の性格を表す confident（自信のある）とは意味の向きが異なる。同じ confid-（信頼する）という語根から、「自信」「機密」「打ち明け相手」という3つの異なる語義が枝分かれしている。`,
     keyPoints: [
       'confident /ˈkɒnfɪdənt/＝形容詞「自信のある」（-ent）',
       'confidant /ˈkɒnfɪdænt/＝名詞「腹心の友」（-ant）',
@@ -15749,7 +15833,19 @@ look は後ろの前置詞で意味が大きく変わります。ここを取り
 
 💡 most of the students のように of を使うときは the などの限定語が必要です（most of students は不可）。
 
-🎯 覚え方：**almost の後ろには all / every / always を置く**。名詞だけなら most。`,
+🎯 覚え方：**almost の後ろには all / every / always を置く**。名詞だけなら most。
+
+### almost は all + most が縮まった語
+
+almost は古英語 eallmæst（all + most の複合語）に由来し、「ほとんどすべて」という意味が「もう少しで・ほとんど」という副詞の意味に絞られていった。現代の almost が most と語源的なつながりを持ちながら品詞も用法も別物になっているのは、この成立過程の名残である。
+
+### mostly という紛らわしい副詞との違い
+
+almost と似た副詞に mostly（大部分は・たいてい）があるが、mostly は「大部分の場合に当てはまる」ことを表し、almost のように「もう少しで達する・僅かに届かない」という意味は持たない。I mostly agree（おおむね賛成だ）と I almost agree（もう少しで賛成しかけた＝実際は賛成していない）では意味が逆転する点に注意が要る。
+
+### almost never という頻度表現
+
+almost は almost never（めったに〜ない）・almost always（ほとんどいつも）のように頻度を表す副詞と組み合わさり、100%に近い極端な頻度をわずかに緩める働きをする。most には無いこの「あと少しで到達する・しない」という近似のニュアンスが、almost の中心的な機能である。`,
     keyPoints: [
       'almost＝副詞。名詞を直接修飾しない',
       '「ほとんどの〜」は most 〜 または almost all 〜',
