@@ -9564,7 +9564,19 @@ healthy は名詞 health に -y（〜の性質を持つ）が付いた形で、�
 | **s**cent | /sɛnt/ | 香り | The **scent** of roses filled the room.（バラの香りが部屋に満ちた） |
 | sent | /sɛnt/ | send の過去：送った | I **sent** her an email.（彼女にメールを送った） |
 
-🎯 覚え方：**通貨は cent、香り（smell）は scent（s 付き）、send の過去は sent**。お金なら cent、におい なら scent、送ったなら sent。`,
+🎯 覚え方：**通貨は cent、香り（smell）は scent（s 付き）、send の過去は sent**。お金なら cent、におい なら scent、送ったなら sent。
+
+### cent の語源はラテン語で「100」を意味する centum
+
+cent はラテン語 centum（100）に由来し、centipede（百足）・century（世紀・100年）・percent（100分の1＝パーセント）と語根を共有する。1ドルの100分の1という定義が、そのまま語源に刻まれている。
+
+### scent の c は発音されない「後付けの綴り」
+
+scent はもともと中英語で sent と綴られ、古フランス語 sentir（感じる・匂う）、ラテン語 sentire（感じる）に由来する。この sentire は sense・sentiment と同じ語根で、scent に本来 c は含まれていなかった。17世紀ごろ、ascend・descend のような c を含む語との類推、あるいは学者的な整理欲から c が付け加えられ、発音されない綴り字として定着した。
+
+### put someone off the scent という成句
+
+scent は狩猟や捜査の場面での比喩表現にも使われ、put someone off the scent（人の追跡をかく乱する）、on the scent of ~（〜の手がかりをつかんで）のように、犬が匂いをたどるイメージがそのまま「手がかり」の比喩に転用されている。`,
     keyPoints: [
       'cent・scent・sent は同音 /sɛnt/',
       'cent＝通貨のセント／scent＝香り（s 付き）／sent＝send の過去',
@@ -10704,7 +10716,19 @@ desirable は a desirable neighborhood（住み心地の良い地域）、a high
 | re**ig**n | /reɪn/ | 統治・治世 | The queen's **reign** lasted 50 years.（女王の治世は50年続いた） |
 | re**i**n | /reɪn/ | 手綱 | She pulled the **reins** to stop the horse.（手綱を引いて馬を止めた） |
 
-🎯 覚え方：**天気は rain、王の「統治」は reign（g が入る＝王家 sovereign の仲間）、馬の「手綱」は rein**。雨は rain、治世は reign、手綱は rein。`,
+🎯 覚え方：**天気は rain、王の「統治」は reign（g が入る＝王家 sovereign の仲間）、馬の「手綱」は rein**。雨は rain、治世は reign、手綱は rein。
+
+### reign は royal・regal と同じ語根
+
+reign はラテン語 regnum（王国・統治）、さらに rex（王）に由来し、royal・regal と同じ語根を持つ。王による統治という reign の中心義は、この語根に直接由来している。
+
+### rein は retain・restrain と同じ語根
+
+rein はラテン語 retinere（引き留める・抑える）に由来し、retain（保持する）・restrain（抑制する）と同じ語根を共有する。手綱で馬の動きを「引き留める」という物理的な動作が、抽象的な「保持・抑制」の語群と根でつながっている。
+
+### the reins of power と reign supreme は語源が別
+
+「権力の手綱」を意味する the reins of power と「君臨する」を意味する reign supreme はどちらも支配のイメージを喚起するため混同されやすいが、rein と reign は綴りも語源も無関係である。馬具の比喩（rein）と王権の語（reign）が偶然同じ発音になったために生じる混同で、書き分けには注意が要る。`,
     keyPoints: [
       'rain・reign・rein は同音 /reɪn/',
       'rain＝雨／reign＝統治・治世（g 入り）／rein＝手綱',
@@ -11096,7 +11120,19 @@ warn は見た目どおりの動詞で、warn-warned-warned と規則的に活�
 | permit | 人 to do | 許可する（硬め） | Visitors are **permitted to** take photos.（訪問者は撮影を許可されている） |
 | let | 人 do | 〜させてやる | Please **let** me go.（行かせてください） |
 
-🎯 覚え方：**allow / permit のあとは to do、let のあとは to なしの原形（let me go）**。硬い場面は permit、口語は let。`,
+🎯 覚え方：**allow / permit のあとは to do、let のあとは to なしの原形（let me go）**。硬い場面は permit、口語は let。
+
+### allow は2つの別のラテン語動詞が合流してできた語
+
+allow は古フランス語 alouer の段階で、ラテン語 allaudare（称賛する）と allocare（割り当てる）という**別々の2つの動詞**が混同・合流してできた語である。「称賛する→承認して割り当てる→許可する」という意味の連鎖が、現代の「許す」と「（allowance のように）割り当てる・与える」という2つの意味の両方に痕跡を残している。
+
+### let はかつて「妨げる」という正反対の意味も持っていた
+
+let は9世紀から「妨げる・邪魔する」という、現在とは正反対の意味でも使われてきた語で、without let or hindrance（何の妨げもなく）という法律文書の定型句にその名残がある。1つの語が正反対の2つの意味を持つ「自己対義語（contronym）」の代表例で、テニスの「レット」（ネットに触れて無効になること）にも同じ語源が残っている。
+
+### permit は mission・transmit と同じ語根
+
+permit はラテン語 permittere（per-「通して」+ mittere「送る」）に由来し、mission・transmit・emit と同じ語根 mittere（送る）を共有する。「相手に通す・送り届ける」という原義が、「許可する」という現代の意味につながっている。`,
     keyPoints: [
       'allow 人 to do／permit 人 to do（permit は硬め）',
       'let 人 do（動詞の原形・to なし）',
@@ -12485,7 +12521,19 @@ bury the hatchet（仲直りする）のような慣用句を覚えるより先�
 | injure | 事故・競技 | 負傷させる | He was **injured** in a car crash.（車の事故で負傷した） |
 | wound | 武器・攻撃 | 傷を負わせる | The soldier was **wounded** in battle.（兵士は戦闘で負傷した） |
 
-🎯 覚え方：**日常の「痛める」は hurt、事故の「負傷」は injure、武器による「負傷」は wound**。心を「傷つける」は hurt が自然。`,
+🎯 覚え方：**日常の「痛める」は hurt、事故の「負傷」は injure、武器による「負傷」は wound**。心を「傷つける」は hurt が自然。
+
+### wound（傷）と wound（wind の過去形）は無関係の同綴語
+
+「傷」を意味する wound は /wuːnd/ と発音されるのに対し、wind（巻く）の過去形・過去分詞である wound は /waʊnd/ と発音され、綴りは同じでも発音も語源も無関係な別の単語である。文脈がなければ区別できない、英語の同形異音語（heteronym）の代表例。
+
+### injure は injustice と同じ語根
+
+injure はラテン語 in-（否定）+ jus（正しいこと・法）に由来し、「正しくないこと」が原義。injustice（不正義）と同じ語根を持ち、もとは身体的な負傷に限らず「不当な扱い・権利の侵害」を広く指す語だった。
+
+### hurt は「衝突する」を意味する古フランス語が語源
+
+hurt は古フランス語 hurter（ぶつかる・突き当たる、現代フランス語では heurter）に由来し、さらに遡るとフランク語で「雄羊」を意味する語につながる。頭突きするように「ぶつかる」という物理的な衝撃のイメージが、「（心身を）傷つける」という現代の意味の土台にある。`,
     keyPoints: [
       'hurt＝一般的に痛める・傷つける（体も心も・hurt-hurt-hurt）',
       'injure＝事故・競技で負傷させる（injury）',
@@ -12612,7 +12660,19 @@ bury the hatchet（仲直りする）のような慣用句を覚えるより先�
 | flammable | 燃えやすい | Keep **flammable** liquids away from fire.（可燃性の液体を火から離す） |
 | inflammable | 燃えやすい（同義） | **Inflammable** gas leaked from the pipe.（可燃性ガスが管から漏れた） |
 
-🎯 覚え方：**in- を「否定」と早合点しない。inflammable＝flammable＝「燃えやすい」**。誤解を避けるため、現代では flammable と non-flammable を使うのが推奨。`,
+🎯 覚え方：**in- を「否定」と早合点しない。inflammable＝flammable＝「燃えやすい」**。誤解を避けるため、現代では flammable と non-flammable を使うのが推奨。
+
+### 現代でも起きる in- の誤解：invaluable の場合
+
+in- が否定でなく強調として働く語は inflammable だけではない。invaluable も「価値がない」ではなく「値がつけられないほど価値がある」という意味で、in- が「〜できない（測定できない）」という不可能の意味を保ちながら、結果として強い肯定に転じている。仕組みは inflammable と異なるが、in- を単純な否定と決めつけると誤読する語が英語には複数ある。
+
+### flammable の語根 flamma は炎そのもの
+
+flammable はラテン語 flamma（炎）に由来し、flame（炎）・flamboyant（華やかな、もとは「燃え立つような」の意）・inflame（火をつける・激化させる）と同じ語根を共有する。「燃える」という物理的な現象を表す語根が、比喩的な「燃え立つ・激しい」という意味にも広がっている。
+
+### combustible との違いは発火のしやすさを示す専門用語
+
+flammable と似た語に combustible（可燃性の）があるが、消防関連の専門規格（NFPA）では両者を引火点（flash point）の温度で区別する＝引火点が華氏100度未満なら flammable、100度以上なら combustible と分類される。日常語ではほぼ同じ「燃える」という意味で使われるが、危険物の取り扱いでは発火のしやすさの度合いを示す専門用語として使い分けられている。`,
     keyPoints: [
       'flammable と inflammable は同義＝「燃えやすい」',
       'inflammable の in- は否定でなく強め（誤解注意）',
@@ -13144,7 +13204,19 @@ currant はもともと、ギリシャの都市コリントスから輸出され
 | wish | 実現しにくい願い | 願う | I **wish** I could fly.（飛べたらいいのに） |
 | expect | 起こると見込む | 予期する | We **expect** him to arrive by noon.（正午までに着くと見込む） |
 
-🎯 覚え方：**実現しそうなら hope、実現しにくい（仮定）なら wish、起こると見込むなら expect**。wish のあとの節はよく過去形（仮定法）になる。`,
+🎯 覚え方：**実現しそうなら hope、実現しにくい（仮定）なら wish、起こると見込むなら expect**。wish のあとの節はよく過去形（仮定法）になる。
+
+### hope と wish はゲルマン語源、expect だけラテン語源
+
+hope・wish はどちらも古英語に遡るゲルマン語源の語だが、expect はラテン語 exspectare（ex-「外へ」+ spectare「見る」）に由来し、spectator（観客）・inspect（点検する）と同じ語根を共有する。「見て待ち構える」という原義が、「予期する」という現代の意味の土台になっている。
+
+### hope springs eternal という有名な引用句
+
+hope は詩人アレクサンダー・ポープの一節 hope springs eternal（希望は永遠に湧き出る）で広く知られる語で、根拠の有無にかかわらず人が希望を持ち続ける性質を表す成句として定着している。
+
+### expecting は「妊娠している」を婉曲的に表す
+
+expect は be expecting（妊娠している）という婉曲表現でも使われ、単に「予期する」という一般的な意味から、出産を待つという特定の状況を指す慣用的な用法に特化している。`,
     keyPoints: [
       'hope＝実現可能なことを望む（hope to do／hope that ~）',
       'wish＝実現しにくい願い（wish + 過去＝仮定法）',
@@ -15614,7 +15686,19 @@ wonder は **wonder if / wonder why** のように節を続ける形が多く、
 
 ⚠️ 申請書の項目を martial status と書くと「軍事状況」になってしまいます。
 
-🎯 覚え方：**marital には marry（結婚）が隠れている**。結婚なら marital、武術・戒厳令なら martial。`,
+🎯 覚え方：**marital には marry（結婚）が隠れている**。結婚なら marital、武術・戒厳令なら martial。
+
+### martial は軍神マルスに由来し3月 March と同じ語根
+
+martial はラテン語 Martius（軍神マルス Mars の、の意）に由来し、3月を意味する March（Martius）と同じ語根を持つ。ローマでは3月が軍事行動を再開する時期だったことが、月の名前と「軍事の」という形容詞の両方に反映されている。
+
+### marital は marry と同じ語根 maritus
+
+marital はラテン語 maritus（夫）に由来し、動詞 marry（結婚する）と同じ語根を持つ。もとは「夫に関する」という意味だったが、現代では夫婦・婚姻関係全般を指す形容詞として使われている。
+
+### martial law が発動された歴史的な例
+
+martial law（戒厳令）は、通常の司法手続きを停止し軍が治安維持を担う非常事態の措置で、大規模な災害や暴動の際に発動されてきた歴史がある。marital status（婚姻状況）との一字違いは、書類の記入ミスとしてしばしば話題になる。`,
     keyPoints: [
       'martial＝軍事の・戦いの（martial arts / martial law）',
       'marital＝結婚の・婚姻の（marital status）',
@@ -15768,7 +15852,19 @@ look は後ろの前置詞で意味が大きく変わります。ここを取り
 
 💡 while には「一方で（対比）」の意味もあります（While she likes tea, he prefers coffee.）。
 
-🎯 覚え方：**during のあとは「物・時期」、while のあとは「文」**。`,
+🎯 覚え方：**during のあとは「物・時期」、while のあとは「文」**。
+
+### during は動詞 dure の現在分詞が前置詞に転用された語
+
+during はもともと「続く・持続する」を意味する動詞 dure（現在は廃語）の現在分詞で、durable（耐久性のある）・endure（耐え忍ぶ）と同じ語根を持つ。「〜が続いている間」という動詞的な意味が、そのまま前置詞として文法化した珍しい成り立ちを持つ。
+
+### while は名詞としても使われる
+
+while は接続詞だけでなく、for a while（しばらくの間）・worth your while（あなたの時間をかける価値がある）のように「（ある長さの）時間」を意味する名詞としても使われる。during の後ろに置ける「期間」を表す名詞そのものが while という単語で表せる、という二重の役割を持っている。
+
+### meanwhile という複合語
+
+while は meanwhile（その間に・一方で）という複合語にも使われており、while の「〜の間」という時間の幅を表す中心義が、複合語の中でもそのまま生きている。`,
     keyPoints: [
       'during＝前置詞。後ろは名詞（during the trip）',
       'while＝接続詞。後ろは主語＋動詞（while I was traveling）',
