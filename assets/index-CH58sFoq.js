@@ -834,7 +834,15 @@ admission には「（過ちなどを）認める発言」という意味もあ�
 
 ### agent / agency の実例で判別を強化
 
-**agent 系**：スポーツ用語 **a free agent**（無所属選手・移籍自由の選手）、**a secret agent**（スパイ・諜報員）は、どちらも「独立して動く人」という agent の中心の意味そのものです。**agency 系**：**an employment agency**（人材紹介会社）のように、業種を表す複合語をよく作ります。`,keyPoints:[`agent＝代理人・取次人・行為者（人）。free agent/secret agent`,`agency＝代理店・機関・取次業（組織）。employment agency`,`-cy が付くと組織・機関`],quiz:[{id:`q-agen-1`,question:`空所に入る適切な語はどれですか。「Our real estate ( ) found us a house.（不動産業者が家を見つけてくれた＝人）」`,options:[`agency`,`agent`,`agencies`,`agential`],correctAnswer:1,explanation:`「代理人・取次人（人）」は agent。`},{id:`q-agen-2`,question:`空所に入る適切な語はどれですか。「He runs an advertising ( ).（彼は広告代理店を経営している＝組織）」`,options:[`agent`,`agents`,`agential`,`agency`],correctAnswer:3,explanation:`「代理店・機関（組織）」は agency。`},{id:`q-agen-3`,question:`agent と agency の見分け方として正しいものはどれですか。`,options:[`agent＝組織、agency＝人`,`agent＝人（代理人）、agency＝組織（代理店・機関）`,`どちらも「人」`,`どちらも「組織」`],correctAnswer:1,explanation:`agent は人（代理人・行為者）、agency は組織（代理店・機関）です。`},{id:`q-agen-4`,question:`空所に入る適切な語はどれですか。「The government ( ) regulates food safety.（その政府機関は食品安全を規制している）」`,options:[`agent`,`agents`,`agential`,`agency`],correctAnswer:3,explanation:`「政府機関（組織）」は agency。-cy が組織・機関の手がかりです。`},{id:`q-agen-5`,question:`「組織・機関」を表す手がかりとして正しいものはどれですか。`,options:[`語尾 -ent（人）`,`語尾 -cy（組織・機関）`,`語尾 -ing`,`語尾 -ed`],correctAnswer:1,explanation:`agen-cy のように -cy が付くと組織・機関を表すと覚えられます。`}]},{id:`related-relevant`,title:`related と relevant`,chapter:3,description:`related は「（単に）関連した」、relevant は「（その話題に）関連があり重要・適切な」。`,content:`## どちらを使う？
+**agent 系**：スポーツ用語 **a free agent**（無所属選手・移籍自由の選手）、**a secret agent**（スパイ・諜報員）は、どちらも「独立して動く人」という agent の中心の意味そのものです。**agency 系**：**an employment agency**（人材紹介会社）のように、業種を表す複合語をよく作ります。
+
+### 語源はラテン語 agere「動かす・行う」
+
+agent はラテン語 agere（動かす・行う）の現在分詞形に由来し、act（行為）・action（行動）・react（反応する）と同じ語根を共有する。「自ら動く・作用する主体」という agent の中心義は、この語根にそのまま表れている。
+
+### agent は人以外の「作用するもの」も指す
+
+agent は人だけでなく、化学・生物学の分野では a cleaning agent（洗浄剤）・a bleaching agent（漂白剤）のように、何かに作用を及ぼす物質を指す語としても使われる。近年では AI 分野で「自律的に判断し行動する AI システム」を agentic（エージェント的）と呼ぶ用法も広がっており、「独立して動作する主体」という語の核が現代でも生き続けている。`,keyPoints:[`agent＝代理人・取次人・行為者（人）。free agent/secret agent`,`agency＝代理店・機関・取次業（組織）。employment agency`,`-cy が付くと組織・機関`],quiz:[{id:`q-agen-1`,question:`空所に入る適切な語はどれですか。「Our real estate ( ) found us a house.（不動産業者が家を見つけてくれた＝人）」`,options:[`agency`,`agent`,`agencies`,`agential`],correctAnswer:1,explanation:`「代理人・取次人（人）」は agent。`},{id:`q-agen-2`,question:`空所に入る適切な語はどれですか。「He runs an advertising ( ).（彼は広告代理店を経営している＝組織）」`,options:[`agent`,`agents`,`agential`,`agency`],correctAnswer:3,explanation:`「代理店・機関（組織）」は agency。`},{id:`q-agen-3`,question:`agent と agency の見分け方として正しいものはどれですか。`,options:[`agent＝組織、agency＝人`,`agent＝人（代理人）、agency＝組織（代理店・機関）`,`どちらも「人」`,`どちらも「組織」`],correctAnswer:1,explanation:`agent は人（代理人・行為者）、agency は組織（代理店・機関）です。`},{id:`q-agen-4`,question:`空所に入る適切な語はどれですか。「The government ( ) regulates food safety.（その政府機関は食品安全を規制している）」`,options:[`agent`,`agents`,`agential`,`agency`],correctAnswer:3,explanation:`「政府機関（組織）」は agency。-cy が組織・機関の手がかりです。`},{id:`q-agen-5`,question:`「組織・機関」を表す手がかりとして正しいものはどれですか。`,options:[`語尾 -ent（人）`,`語尾 -cy（組織・機関）`,`語尾 -ing`,`語尾 -ed`],correctAnswer:1,explanation:`agen-cy のように -cy が付くと組織・機関を表すと覚えられます。`}]},{id:`related-relevant`,title:`related と relevant`,chapter:3,description:`related は「（単に）関連した」、relevant は「（その話題に）関連があり重要・適切な」。`,content:`## どちらを使う？
 
 訳は「関連した」で近いですが、**重要性・適切さを含むか**で分かれます。
 
@@ -1174,7 +1182,15 @@ crush には orange crush（オレンジスカッシュ＝果汁を搾った飲�
 
 ### claw / crow の派生語で判別を強化
 
-**claw 系**：句動詞 **claw back**（（苦労して）取り戻す）は、claw の「爪でひっかく」という動作イメージから来た表現です。**crow 系**：慣用句 **as the crow flies**（直線距離で）は、カラスが障害物を気にせずまっすぐ飛ぶことから生まれた、距離を表す定番表現です。`,keyPoints:[`claw /klɔː/＝（動物の）かぎ爪・はさみ。claw back（取り戻す）`,`crow /kroʊ/＝カラス。as the crow flies（直線距離で）`,`c の直後 /l/ vs /r/、母音 /ɔː/ vs /oʊ/`],quiz:[{id:`q-claw-1`,question:`「カラス」という意味の語はどれですか。`,options:[`claw`,`clow`,`crow`,`craw`],correctAnswer:2,explanation:`crow /kroʊ/ が「カラス」。claw は「（動物の）爪」です。`},{id:`q-claw-2`,question:`空所に入る適切な語はどれですか。「The eagle gripped the fish with its ( ).（ワシは爪で魚をつかんだ）」`,options:[`crows`,`crow`,`claws`,`craw`],correctAnswer:2,explanation:`「（動物の）かぎ爪」は claw（/l/, /ɔː/）。`},{id:`q-claw-3`,question:`claw と crow を分けている音の違いはどれですか。`,options:[`子音 /l/-/r/ と母音 /ɔː/-/oʊ/ の両方`,`アクセントだけ`,`語尾の子音だけ`,`違いはない`],correctAnswer:0,explanation:`claw（/klɔː/）と crow（/kroʊ/）は子音 /l/-/r/ と母音 /ɔː/-/oʊ/ の両方が違います。`},{id:`q-claw-4`,question:`/r/ を含むのはどちらですか。`,options:[`crow`,`claw`,`どちらも`,`どちらも違う`],correctAnswer:0,explanation:`crow が /kroʊ/ で /r/ を含みます。claw は /l/ です。`},{id:`q-claw-5`,question:`空所に入る適切な語はどれですか。「The crab waved its big ( ).（カニは大きなはさみを振った）」`,options:[`crow`,`crew`,`claw`,`craw`],correctAnswer:2,explanation:`（カニの）はさみ・かぎ爪は claw です。`}]},{id:`loose-lose`,title:`loose と lose`,chapter:1,description:`o の数と発音が違う。loose /luːs/「ゆるい」（形容詞）、lose /luːz/「失う・負ける」（動詞）。`,content:`## 綴りと品詞で見分ける
+**claw 系**：句動詞 **claw back**（（苦労して）取り戻す）は、claw の「爪でひっかく」という動作イメージから来た表現です。**crow 系**：慣用句 **as the crow flies**（直線距離で）は、カラスが障害物を気にせずまっすぐ飛ぶことから生まれた、距離を表す定番表現です。
+
+### crow が「自慢する」動詞になった由来
+
+crow は名詞の「カラス」だけでなく、勝ち誇って自慢する・得意げに言うという動詞としても使われる（crow about one's victory）。雄鶏が高らかに鳴く様子（crow は「鶏が鳴く」という動詞でもある）が、人の自慢げな態度の比喩に転用された。
+
+### eat crow という成句と crow's feet という表現
+
+eat crow（自分の非を認めて屈辱を味わう）は、カラスが不味い鳥とされてきたことに由来するアメリカ英語の成句。目尻の小じわを指す crow's feet（カラスの足跡）は、カラスの3本指の足跡の形に小じわが似ていることに由来し、14世紀から使われている古い表現。`,keyPoints:[`claw /klɔː/＝（動物の）かぎ爪・はさみ。claw back（取り戻す）`,`crow /kroʊ/＝カラス。as the crow flies（直線距離で）`,`c の直後 /l/ vs /r/、母音 /ɔː/ vs /oʊ/`],quiz:[{id:`q-claw-1`,question:`「カラス」という意味の語はどれですか。`,options:[`claw`,`clow`,`crow`,`craw`],correctAnswer:2,explanation:`crow /kroʊ/ が「カラス」。claw は「（動物の）爪」です。`},{id:`q-claw-2`,question:`空所に入る適切な語はどれですか。「The eagle gripped the fish with its ( ).（ワシは爪で魚をつかんだ）」`,options:[`crows`,`crow`,`claws`,`craw`],correctAnswer:2,explanation:`「（動物の）かぎ爪」は claw（/l/, /ɔː/）。`},{id:`q-claw-3`,question:`claw と crow を分けている音の違いはどれですか。`,options:[`子音 /l/-/r/ と母音 /ɔː/-/oʊ/ の両方`,`アクセントだけ`,`語尾の子音だけ`,`違いはない`],correctAnswer:0,explanation:`claw（/klɔː/）と crow（/kroʊ/）は子音 /l/-/r/ と母音 /ɔː/-/oʊ/ の両方が違います。`},{id:`q-claw-4`,question:`/r/ を含むのはどちらですか。`,options:[`crow`,`claw`,`どちらも`,`どちらも違う`],correctAnswer:0,explanation:`crow が /kroʊ/ で /r/ を含みます。claw は /l/ です。`},{id:`q-claw-5`,question:`空所に入る適切な語はどれですか。「The crab waved its big ( ).（カニは大きなはさみを振った）」`,options:[`crow`,`crew`,`claw`,`craw`],correctAnswer:2,explanation:`（カニの）はさみ・かぎ爪は claw です。`}]},{id:`loose-lose`,title:`loose と lose`,chapter:1,description:`o の数と発音が違う。loose /luːs/「ゆるい」（形容詞）、lose /luːz/「失う・負ける」（動詞）。`,content:`## 綴りと品詞で見分ける
 
 見た目が近く、**o がひとつ（lose）かふたつ（loose）か**で取り違えやすい語です。品詞も発音も違います。
 
@@ -4009,7 +4025,19 @@ be famous for も be infamous for も同じ形をとるため、判断の手が�
 | v**ei**n | /veɪn/ | 静脈 | Blood returns to the heart through **veins**.（血は静脈を通って心臓へ戻る） |
 | v**a**ne | /veɪn/ | 風見・羽根 | The weather **vane** turned in the wind.（風見鶏が風で回った） |
 
-🎯 覚え方：**うぬぼれ・むだは vain、血管の「静脈」は vein、風見・羽根は vane**。in vain（むだに）、vein（血管）、weather vane（風見鶏）。`,keyPoints:[`vain・vein・vane は同音 /veɪn/`,`vain＝うぬぼれた・むだな（in vain＝むだに）`,`vein＝静脈・血管／vane＝風見・羽根（weather vane）`],quiz:[{id:`q-vain-1`,question:`空所に入る適切な語はどれですか。「The nurse found a ( ) to draw blood.（看護師は採血のため血管を探した）」`,options:[`vain`,`vein`,`vane`,`vains`],correctAnswer:1,explanation:`血管の「静脈」は vein です。`},{id:`q-vain-2`,question:`「うぬぼれた／むだな」を表す形容詞はどれですか。`,options:[`vein`,`vane`,`veins`,`vain`],correctAnswer:3,explanation:`「うぬぼれた・むだな」は vain です（in vain）。`},{id:`q-vain-3`,question:`屋根の上で風向きを示す「風見」を表す語はどれですか。`,options:[`vain`,`vein`,`vains`,`vane`],correctAnswer:3,explanation:`「風見・羽根」は vane（weather vane）です。`},{id:`q-vain-4`,question:`3語 vain・vein・vane の発音の関係はどれですか。`,options:[`すべて違う`,`すべて同じ（同音異義語）`,`2つだけ同じ`,`アクセントが違う`],correctAnswer:1,explanation:`すべて /veɪn/ で同音異義語です。`},{id:`q-vain-5`,question:`空所に入る適切な語はどれですか。「They searched all night, but in ( ).（一晩中探したが、むだだった）」`,options:[`vein`,`vane`,`veins`,`vain`],correctAnswer:3,explanation:`成句 in vain「むだに」の vain です。`}]},{id:`way-weigh`,title:`way と weigh`,chapter:4,description:`同音 /weɪ/。way「道・方法」（名詞）、weigh「重さを量る・重さがある」（動詞）。意味と品詞で判断。`,content:`## 音は同じ、意味と品詞で見分ける
+🎯 覚え方：**うぬぼれ・むだは vain、血管の「静脈」は vein、風見・羽根は vane**。in vain（むだに）、vein（血管）、weather vane（風見鶏）。
+
+### vain の語源 vanus は「空っぽ」を意味する
+
+vain はラテン語 vanus（空っぽの・むなしい）に由来し、vanity（虚栄心）・vanish（消える）と同じ語根を共有する。「中身が空っぽ」という原義が、「実質を伴わないむなしさ」（in vain）と「見かけだけを気にするうぬぼれ」（vain＝自惚れた）という2つの意味に枝分かれした。
+
+### vein は血管以外に鉱脈・葉脈も指す
+
+vein は血管だけでなく、a vein of gold（金の鉱脈）のように地中に走る鉱物の筋、a leaf vein（葉脈）のように植物の葉に走る筋も指す。「体や物の中を筋状に走るもの」という共通のイメージが、解剖学から地質学、植物学まで幅広く使われる理由になっている。
+
+### vane は weathervane 以外に機械部品も指す
+
+vane は風見鶏（weather vane）だけでなく、風力や水力を受けて回転する羽根板全般を指し、風車のブレードやタービンの羽根も vane と呼ばれる。「風や流れを受けて向きや回転を生む板状の部品」という工学的な意味が、日常語の風見鶏の用法の背後にある。`,keyPoints:[`vain・vein・vane は同音 /veɪn/`,`vain＝うぬぼれた・むだな（in vain＝むだに）`,`vein＝静脈・血管／vane＝風見・羽根（weather vane）`],quiz:[{id:`q-vain-1`,question:`空所に入る適切な語はどれですか。「The nurse found a ( ) to draw blood.（看護師は採血のため血管を探した）」`,options:[`vain`,`vein`,`vane`,`vains`],correctAnswer:1,explanation:`血管の「静脈」は vein です。`},{id:`q-vain-2`,question:`「うぬぼれた／むだな」を表す形容詞はどれですか。`,options:[`vein`,`vane`,`veins`,`vain`],correctAnswer:3,explanation:`「うぬぼれた・むだな」は vain です（in vain）。`},{id:`q-vain-3`,question:`屋根の上で風向きを示す「風見」を表す語はどれですか。`,options:[`vain`,`vein`,`vains`,`vane`],correctAnswer:3,explanation:`「風見・羽根」は vane（weather vane）です。`},{id:`q-vain-4`,question:`3語 vain・vein・vane の発音の関係はどれですか。`,options:[`すべて違う`,`すべて同じ（同音異義語）`,`2つだけ同じ`,`アクセントが違う`],correctAnswer:1,explanation:`すべて /veɪn/ で同音異義語です。`},{id:`q-vain-5`,question:`空所に入る適切な語はどれですか。「They searched all night, but in ( ).（一晩中探したが、むだだった）」`,options:[`vein`,`vane`,`veins`,`vain`],correctAnswer:3,explanation:`成句 in vain「むだに」の vain です。`}]},{id:`way-weigh`,title:`way と weigh`,chapter:4,description:`同音 /weɪ/。way「道・方法」（名詞）、weigh「重さを量る・重さがある」（動詞）。意味と品詞で判断。`,content:`## 音は同じ、意味と品詞で見分ける
 
 **way と weigh は同じ発音 /weɪ/（同音異義語）**（weigh の gh は無音）。意味と品詞で決めます。
 
@@ -4816,7 +4844,15 @@ berth には動詞の用法もあり、The ship berthed at pier three.（船は3
 
 wonder は **wonder if / wonder why** のように節を続ける形が多く、\`I wonder if you could help me.\` は丁寧な依頼にもなります。
 
-🎯 覚え方：**a は歩く（wAnder＝walk）、o は思う（wOnder）**。足なら wander、頭なら wonder。`,keyPoints:[`wander＝あてもなく歩き回る・さまよう /ˈwɑːndər/`,`wonder＝不思議に思う・〜かしらと思う /ˈwʌndər/（名詞は驚異）`,`wonder if / wonder why のように節を続ける形が多い`],quiz:[{id:`q-wander-1`,question:`空所に入る適切な語はどれですか。「The child ( ) away from his parents in the store.（子どもは店で親から離れてさまよった）」`,options:[`wondered`,`wandered`,`wonders`,`wonder`],correctAnswer:1,explanation:`「さまよう・歩き回る」は wander です。`},{id:`q-wander-2`,question:`空所に入る適切な語はどれですか。「I ( ) if it will rain tomorrow.（明日は雨が降るだろうか）」`,options:[`wander`,`wandered`,`wonder`,`wandering`],correctAnswer:2,explanation:`「〜だろうかと思う」は wonder。wonder if の形です。`},{id:`q-wander-3`,question:`wander の発音として適切なものはどれですか。`,options:[`/ˈwʌndər/`,`/ˈweɪndər/`,`/ˈwaʊndər/`,`/ˈwɑːndər/`],correctAnswer:3,explanation:`wander は /ˈwɑːndər/（英 /ˈwɒndə/）。/ˈwʌndər/ は wonder です。`},{id:`q-wander-4`,question:`「世界の七不思議」のように「驚異」を表す名詞はどれですか。`,options:[`wander`,`wandering`,`wonder`,`wanderer`],correctAnswer:2,explanation:`the Seven Wonders of the World のように wonder が「驚異」です。`},{id:`q-wander-5`,question:`「話が脱線する」の意味でも使われるのはどちらですか。`,options:[`wonder`,`wander`,`どちらも`,`どちらも違う`],correctAnswer:1,explanation:`My mind wandered. のように wander が「（考え・話が）それる」を表します。`}]},{id:`expand-expend`,title:`expand と expend`,chapter:1,description:`expand「大きくする・拡大する」、expend「（金・時間・労力を）費やす」。名詞形は expansion と expenditure。`,content:`## a は「広がる」、e は「使い切る」
+🎯 覚え方：**a は歩く（wAnder＝walk）、o は思う（wOnder）**。足なら wander、頭なら wonder。
+
+### wander は「向きを変える」を意味するゲルマン語源
+
+wander は古英語 wandrian に由来し、「向きを変える・巡る」を意味するゲルマン語根から来ている。ドイツ語の wandern（ハイキングする）も同じ語根で、英語に借用された wanderlust（放浪への強い衝動）は、この wandern と「欲求」を意味する Lust が組み合わさったドイツ語からの借用語である。
+
+### no wonder という成句と The Seven Wonders という固有名詞
+
+wonder は no wonder（〜も不思議ではない・当然だ）という成句でよく使われるほか、the Seven Wonders of the World（世界の七不思議）のように名詞として「驚異的な建造物・現象」を指す固有名詞的な用法もある。`,keyPoints:[`wander＝あてもなく歩き回る・さまよう /ˈwɑːndər/`,`wonder＝不思議に思う・〜かしらと思う /ˈwʌndər/（名詞は驚異）`,`wonder if / wonder why のように節を続ける形が多い`],quiz:[{id:`q-wander-1`,question:`空所に入る適切な語はどれですか。「The child ( ) away from his parents in the store.（子どもは店で親から離れてさまよった）」`,options:[`wondered`,`wandered`,`wonders`,`wonder`],correctAnswer:1,explanation:`「さまよう・歩き回る」は wander です。`},{id:`q-wander-2`,question:`空所に入る適切な語はどれですか。「I ( ) if it will rain tomorrow.（明日は雨が降るだろうか）」`,options:[`wander`,`wandered`,`wonder`,`wandering`],correctAnswer:2,explanation:`「〜だろうかと思う」は wonder。wonder if の形です。`},{id:`q-wander-3`,question:`wander の発音として適切なものはどれですか。`,options:[`/ˈwʌndər/`,`/ˈweɪndər/`,`/ˈwaʊndər/`,`/ˈwɑːndər/`],correctAnswer:3,explanation:`wander は /ˈwɑːndər/（英 /ˈwɒndə/）。/ˈwʌndər/ は wonder です。`},{id:`q-wander-4`,question:`「世界の七不思議」のように「驚異」を表す名詞はどれですか。`,options:[`wander`,`wandering`,`wonder`,`wanderer`],correctAnswer:2,explanation:`the Seven Wonders of the World のように wonder が「驚異」です。`},{id:`q-wander-5`,question:`「話が脱線する」の意味でも使われるのはどちらですか。`,options:[`wonder`,`wander`,`どちらも`,`どちらも違う`],correctAnswer:1,explanation:`My mind wandered. のように wander が「（考え・話が）それる」を表します。`}]},{id:`expand-expend`,title:`expand と expend`,chapter:1,description:`expand「大きくする・拡大する」、expend「（金・時間・労力を）費やす」。名詞形は expansion と expenditure。`,content:`## a は「広がる」、e は「使い切る」
 
 **expand と expend は1文字違い**で、派生語をたどると区別しやすくなります。
 
@@ -4830,7 +4866,15 @@ wonder は **wonder if / wonder why** のように節を続ける形が多く、
 
 日常会話では expend より **spend** が普通です。expend は報告書などの硬い文脈で使われます。
 
-🎯 覚え方：**expAnd は area（面積）が広がる、expEnd は expense（費用）を使う**。`,keyPoints:[`expand＝拡大する・膨張する（名詞 expansion）`,`expend＝金・時間・労力を費やす（名詞 expenditure）`,`日常では expend より spend が一般的`],quiz:[{id:`q-expand-1`,question:`空所に入る適切な語はどれですか。「Metal ( ) when it is heated.（金属は熱すると膨張する）」`,options:[`expends`,`expended`,`expands`,`expense`],correctAnswer:2,explanation:`「膨張する」は expand です。`},{id:`q-expand-2`,question:`expand の名詞形はどれですか。`,options:[`expansion`,`expenditure`,`expense`,`expandation`],correctAnswer:0,explanation:`expand の名詞は expansion。expenditure は expend の名詞です。`},{id:`q-expand-3`,question:`空所に入る適切な語はどれですか。「The city ( ) large sums on public transport.（市は公共交通に多額を費やした）」`,options:[`expended`,`expanded`,`expansive`,`expansion`],correctAnswer:0,explanation:`「（金額を）費やす」は expend です。`},{id:`q-expand-4`,question:`expend と意味が近い日常語はどれですか。`,options:[`spend`,`expand`,`extend`,`expect`],correctAnswer:0,explanation:`expend は硬い語で、日常では spend を使います。`},{id:`q-expand-5`,question:`「事業を海外へ拡大する」に使うのはどちらですか。`,options:[`expand`,`expend`,`どちらも`,`どちらも違う`],correctAnswer:0,explanation:`規模を広げるのは expand です。`}]},{id:`perspective-prospective`,title:`perspective と prospective`,chapter:1,description:`perspective は名詞「観点・見方・遠近法」、prospective は形容詞「見込みの・将来の」。品詞から違う。`,content:`## 名詞か形容詞かで切り分ける
+🎯 覚え方：**expAnd は area（面積）が広がる、expEnd は expense（費用）を使う**。
+
+### expand と expend は同じ ex- でも語根が別
+
+expand と expend はどちらも「外へ」を意味する接頭辞 ex- を持つが、後半の語根が異なる。expand はラテン語 pandere（広げる）に由来し、expend はラテン語 pendere（吊るす・重さを量る・支払う）に由来する。pendere は pendulum（振り子）・pension（年金）・suspend（つるす・停止する）とも同じ語根で、「秤にかけて支払う」という原義が「費やす」という expend の意味につながっている。
+
+### expandable と expendable は1文字違いで意味が大きく異なる
+
+expand の形容詞形 expandable（拡張可能な）と、expend の形容詞形 expendable（消費してよい・使い捨てにできる）は綴りが1文字違いだが、意味は大きく異なる。特に expendable は「（人や物が）犠牲にしてもよい」という重い意味で軍事・ビジネスの文脈で使われることがあり、誤読すると深刻な誤解を招く。`,keyPoints:[`expand＝拡大する・膨張する（名詞 expansion）`,`expend＝金・時間・労力を費やす（名詞 expenditure）`,`日常では expend より spend が一般的`],quiz:[{id:`q-expand-1`,question:`空所に入る適切な語はどれですか。「Metal ( ) when it is heated.（金属は熱すると膨張する）」`,options:[`expends`,`expended`,`expands`,`expense`],correctAnswer:2,explanation:`「膨張する」は expand です。`},{id:`q-expand-2`,question:`expand の名詞形はどれですか。`,options:[`expansion`,`expenditure`,`expense`,`expandation`],correctAnswer:0,explanation:`expand の名詞は expansion。expenditure は expend の名詞です。`},{id:`q-expand-3`,question:`空所に入る適切な語はどれですか。「The city ( ) large sums on public transport.（市は公共交通に多額を費やした）」`,options:[`expended`,`expanded`,`expansive`,`expansion`],correctAnswer:0,explanation:`「（金額を）費やす」は expend です。`},{id:`q-expand-4`,question:`expend と意味が近い日常語はどれですか。`,options:[`spend`,`expand`,`extend`,`expect`],correctAnswer:0,explanation:`expend は硬い語で、日常では spend を使います。`},{id:`q-expand-5`,question:`「事業を海外へ拡大する」に使うのはどちらですか。`,options:[`expand`,`expend`,`どちらも`,`どちらも違う`],correctAnswer:0,explanation:`規模を広げるのは expand です。`}]},{id:`perspective-prospective`,title:`perspective と prospective`,chapter:1,description:`perspective は名詞「観点・見方・遠近法」、prospective は形容詞「見込みの・将来の」。品詞から違う。`,content:`## 名詞か形容詞かで切り分ける
 
 見た目は似ていますが、**perspective は名詞、prospective は形容詞**が基本です。
 
@@ -5014,7 +5058,15 @@ confuse（混乱させる）のような**感情動詞**は、分詞の形で意
 
 ⚠️ I am boring. は「私は退屈な人だ」という意味になります。「退屈している」は I am bored.
 
-🎯 覚え方：**-ing は「させる」、-ed は「された」**。人が主語なら基本は -ed。`,keyPoints:[`-ing 形＝感情を引き起こす原因（物・事）を表す`,`-ed 形＝感情を受けた人の状態を表す`,`interesting/interested、boring/bored も同じ型`],quiz:[{id:`q-confusing-1`,question:`空所に入る適切な語はどれですか。「The map was so ( ) that we got lost.（地図が分かりにくくて道に迷った）」`,options:[`confused`,`confusing`,`confuse`,`confusion`],correctAnswer:1,explanation:`混乱させる側（物）なので confusing です。`},{id:`q-confusing-2`,question:`空所に入る適切な語はどれですか。「She looked ( ) when I explained the rule.（規則を説明すると彼女は困惑した様子だった）」`,options:[`confused`,`confusing`,`confuse`,`confuses`],correctAnswer:0,explanation:`混乱している人の状態なので confused です。`},{id:`q-confusing-3`,question:`「私は退屈している」として正しい文はどれですか。`,options:[`I am boring.`,`I am bore.`,`I am boredom.`,`I am bored.`],correctAnswer:3,explanation:`人の状態は -ed。I am boring. は「私は退屈な人だ」の意味です。`},{id:`q-confusing-4`,question:`「その知らせは驚くべきものだった」に合う語はどれですか。`,options:[`surprised`,`surprising`,`surprise`,`surprisingly`],correctAnswer:1,explanation:`知らせは原因側なので surprising です。`},{id:`q-confusing-5`,question:`-ing 形と -ed 形の説明として正しいものはどれですか。`,options:[`-ing は感情を引き起こす原因、-ed は感情を受けた人の状態`,`-ing は人の状態、-ed は原因`,`どちらも人にだけ使う`,`どちらも物にだけ使う`],correctAnswer:0,explanation:`-ing が原因側、-ed が受け手側です。`}]},{id:`comparable-comparative`,title:`comparable と comparative`,chapter:3,description:`comparable「比較できる・同等の」、comparative「比較による・相対的な」（文法では比較級）。compare の派生2語。`,content:`## 「同等だ」と「比較して見る」
+🎯 覚え方：**-ing は「させる」、-ed は「された」**。人が主語なら基本は -ed。
+
+### confuse の語源は「一緒に注ぎ込む」を意味するラテン語
+
+confuse はラテン語 confundere（con-「共に」+ fundere「注ぐ」）に由来し、「複数のものを一緒に注いで混ぜる」が原義。同じ fundere を語根に持つ語には diffuse（拡散する）・refund（払い戻す、re-「戻す」+ fundere「注ぐ」）があり、どれも「流れ出す・注ぎ出す」というイメージでつながっている。
+
+### confusion は医学でも使われる状態を表す語
+
+confusion は日常語の「混乱」のほか、医療現場では a state of confusion（見当識障害・意識混濁の状態）のように、時間や場所、人物の認識が保てなくなる症状を指す臨床用語としても使われる。`,keyPoints:[`-ing 形＝感情を引き起こす原因（物・事）を表す`,`-ed 形＝感情を受けた人の状態を表す`,`interesting/interested、boring/bored も同じ型`],quiz:[{id:`q-confusing-1`,question:`空所に入る適切な語はどれですか。「The map was so ( ) that we got lost.（地図が分かりにくくて道に迷った）」`,options:[`confused`,`confusing`,`confuse`,`confusion`],correctAnswer:1,explanation:`混乱させる側（物）なので confusing です。`},{id:`q-confusing-2`,question:`空所に入る適切な語はどれですか。「She looked ( ) when I explained the rule.（規則を説明すると彼女は困惑した様子だった）」`,options:[`confused`,`confusing`,`confuse`,`confuses`],correctAnswer:0,explanation:`混乱している人の状態なので confused です。`},{id:`q-confusing-3`,question:`「私は退屈している」として正しい文はどれですか。`,options:[`I am boring.`,`I am bore.`,`I am boredom.`,`I am bored.`],correctAnswer:3,explanation:`人の状態は -ed。I am boring. は「私は退屈な人だ」の意味です。`},{id:`q-confusing-4`,question:`「その知らせは驚くべきものだった」に合う語はどれですか。`,options:[`surprised`,`surprising`,`surprise`,`surprisingly`],correctAnswer:1,explanation:`知らせは原因側なので surprising です。`},{id:`q-confusing-5`,question:`-ing 形と -ed 形の説明として正しいものはどれですか。`,options:[`-ing は感情を引き起こす原因、-ed は感情を受けた人の状態`,`-ing は人の状態、-ed は原因`,`どちらも人にだけ使う`,`どちらも物にだけ使う`],correctAnswer:0,explanation:`-ing が原因側、-ed が受け手側です。`}]},{id:`comparable-comparative`,title:`comparable と comparative`,chapter:3,description:`comparable「比較できる・同等の」、comparative「比較による・相対的な」（文法では比較級）。compare の派生2語。`,content:`## 「同等だ」と「比較して見る」
 
 どちらも compare から派生しますが、伝える内容が違います。
 
@@ -5030,7 +5082,19 @@ confuse（混乱させる）のような**感情動詞**は、分詞の形で意
 
 ⚠️ comparable のアクセントは一般に第1音節（/ˈkɑːmpərəbl/）で、compare（/kəmˈper/）と位置が違います。
 
-🎯 覚え方：**-able は「同じくらいと言える」、-ative は「並べて調べる」**。`,keyPoints:[`comparable＝同等の・比較しうる（品質や規模が近い）`,`comparative＝比較による・相対的な（比較研究／文法の比較級）`,`comparatively＝比較的・わりに（副詞）`],quiz:[{id:`q-comparable-1`,question:`空所に入る適切な語はどれですか。「The two hotels offer ( ) service.（2つのホテルは同程度のサービスだ）」`,options:[`comparative`,`compared`,`comparable`,`comparatively`],correctAnswer:2,explanation:`「同等の」は comparable です。`},{id:`q-comparable-2`,question:`「比較文学」を表す語句はどれですか。`,options:[`comparable literature`,`compared literature`,`comparison literature`,`comparative literature`],correctAnswer:3,explanation:`学問分野としての比較文学は comparative literature です。`},{id:`q-comparable-3`,question:`文法用語の「比較級」を表す語はどれですか。`,options:[`comparable`,`comparably`,`comparative`,`comparison`],correctAnswer:2,explanation:`the comparative（form）が比較級です。`},{id:`q-comparable-4`,question:`空所に入る適切な語はどれですか。「Rents here are ( ) low.（この辺りの家賃はわりに安い）」`,options:[`comparably`,`comparable`,`comparative`,`comparatively`],correctAnswer:3,explanation:`「比較的・わりに」は副詞 comparatively です。`},{id:`q-comparable-5`,question:`comparable の説明として正しいものはどれですか。`,options:[`比較できるほど似ている・同等だという意味の形容詞`,`比較研究を指す名詞`,`比較級をつくる副詞`,`compare の過去形`],correctAnswer:0,explanation:`comparable は「同等の・比較しうる」という形容詞です。`}]},{id:`complementary-complimentary`,title:`complementary と complimentary`,chapter:3,description:`complementary「補い合う・補完的な」、complimentary「賛辞の／無料の」。e と i の1文字で意味が変わる。`,content:`## 補うのは e、ほめる・おごるのは i
+🎯 覚え方：**-able は「同じくらいと言える」、-ative は「並べて調べる」**。
+
+### compare の語源は「等しくする」を意味するラテン語
+
+compare はラテン語 comparare（com-「共に」+ par「等しい」）に由来し、pair（対）・peer（同輩）・parity（同等）と同じ語根 par を共有する。「2つを並べて等しいかどうかを見る」という原義が、そのまま「比較する」という現代の意味になっている。
+
+### beyond compare という成句
+
+beyond compare（比類ないほど・並ぶものがないほど）は、比較のしようがないほど優れていることを表す成句で、比較できないという否定的な言い回しが肯定的な賞賛の意味に転じている珍しい例。
+
+### 文法の comparative と superlative の違い
+
+comparative は文法用語としては「比較級」（bigger、more difficult）を指し、3つ以上を比べて最上位を示す「最上級」（superlative：biggest、most difficult）とは区別される。2つを比べるか、3つ以上の中で一番かという対象の数が、この2つの文法用語の違いを決めている。`,keyPoints:[`comparable＝同等の・比較しうる（品質や規模が近い）`,`comparative＝比較による・相対的な（比較研究／文法の比較級）`,`comparatively＝比較的・わりに（副詞）`],quiz:[{id:`q-comparable-1`,question:`空所に入る適切な語はどれですか。「The two hotels offer ( ) service.（2つのホテルは同程度のサービスだ）」`,options:[`comparative`,`compared`,`comparable`,`comparatively`],correctAnswer:2,explanation:`「同等の」は comparable です。`},{id:`q-comparable-2`,question:`「比較文学」を表す語句はどれですか。`,options:[`comparable literature`,`compared literature`,`comparison literature`,`comparative literature`],correctAnswer:3,explanation:`学問分野としての比較文学は comparative literature です。`},{id:`q-comparable-3`,question:`文法用語の「比較級」を表す語はどれですか。`,options:[`comparable`,`comparably`,`comparative`,`comparison`],correctAnswer:2,explanation:`the comparative（form）が比較級です。`},{id:`q-comparable-4`,question:`空所に入る適切な語はどれですか。「Rents here are ( ) low.（この辺りの家賃はわりに安い）」`,options:[`comparably`,`comparable`,`comparative`,`comparatively`],correctAnswer:3,explanation:`「比較的・わりに」は副詞 comparatively です。`},{id:`q-comparable-5`,question:`comparable の説明として正しいものはどれですか。`,options:[`比較できるほど似ている・同等だという意味の形容詞`,`比較研究を指す名詞`,`比較級をつくる副詞`,`compare の過去形`],correctAnswer:0,explanation:`comparable は「同等の・比較しうる」という形容詞です。`}]},{id:`complementary-complimentary`,title:`complementary と complimentary`,chapter:3,description:`complementary「補い合う・補完的な」、complimentary「賛辞の／無料の」。e と i の1文字で意味が変わる。`,content:`## 補うのは e、ほめる・おごるのは i
 
 名詞の complement / compliment と同じ対立が、形容詞にもそのまま続きます。
 
@@ -5044,7 +5108,19 @@ confuse（混乱させる）のような**感情動詞**は、分詞の形で意
 
 💡 「無料の」意味は「ほめる」から離れて見えますが、「（好意で）進呈する」という感覚から来る用法として定着しています。ホテルや航空会社の案内で頻出します。
 
-🎯 覚え方：**complEment は complEte（完全にする）＝補う、complIment は「I ほめる」**。`,keyPoints:[`complementary＝補い合う・補完的な（complete と同系）`,`complimentary＝賛辞の、および「無料の」`,`complementary colors＝補色／complimentary breakfast＝無料の朝食`],quiz:[{id:`q-complementary-1`,question:`空所に入る適切な語はどれですか。「Guests receive a ( ) drink on arrival.（到着時に無料のドリンクが出る）」`,options:[`complementary`,`complement`,`completing`,`complimentary`],correctAnswer:3,explanation:`「無料の」は complimentary です。`},{id:`q-complementary-2`,question:`「補色」を表す語句はどれですか。`,options:[`complimentary colors`,`compliment colors`,`completed colors`,`complementary colors`],correctAnswer:3,explanation:`補色は complementary colors です。`},{id:`q-complementary-3`,question:`空所に入る適切な語はどれですか。「Her remarks about my work were very ( ).（私の作品への発言はとても好意的だった）」`,options:[`complementary`,`complement`,`completely`,`complimentary`],correctAnswer:3,explanation:`「賛辞の・ほめる」は complimentary です。`},{id:`q-complementary-4`,question:`complementary と同じ語源で覚えるとよい語はどれですか。`,options:[`complain`,`comply`,`compile`,`complete`],correctAnswer:3,explanation:`complement は complete（完全にする）と同系で「補う」意味です。`},{id:`q-complementary-5`,question:`「2つの役割が互いを補っている」に使うのはどちらですか。`,options:[`complementary`,`complimentary`,`どちらも`,`どちらも違う`],correctAnswer:0,explanation:`補い合う関係は complementary です。`}]},{id:`stair-stare`,title:`stair と stare`,chapter:4,description:`同音 /ster/。stair は名詞「階段の1段・（複数で）階段」、stare は動詞「じっと見つめる」。`,content:`## 音は同じ、階段か視線か
+🎯 覚え方：**complEment は complEte（完全にする）＝補う、complIment は「I ほめる」**。
+
+### complement と compliment は同じラテン語 complere に遡る同根語
+
+complement と compliment はどちらも「満たす・完成する」を意味するラテン語 complere に遡る同じ語源を持つ。complement はラテン語から英語へ直接入ったのに対し、compliment はイタリア語・スペイン語を経由し「礼儀の義務を果たす」という意味に転じてフランス語経由で英語に入った。「補って完成させる」という原義が、一方は「補完」、もう一方は「礼を尽くす」という別の方向に分かれた。
+
+### complementary angles と supplementary angles の違い
+
+数学の用語では、2つの角度を足すと90度になる関係を complementary angles（余角）、180度になる関係を supplementary angles（補角）と呼ぶ。complementary の「補い合う」という意味が、角度が直角を完成させるという幾何学的な関係にそのまま対応している。
+
+### complementary medicine という医療用語
+
+complementary medicine（代替補完医療）は、鍼灸やマッサージなど、標準的な西洋医学を置き換えるのではなく補う形で用いられる医療を指す専門用語。「補い合う」という complementary の中心義が、医療分野での用語としても定着している。`,keyPoints:[`complementary＝補い合う・補完的な（complete と同系）`,`complimentary＝賛辞の、および「無料の」`,`complementary colors＝補色／complimentary breakfast＝無料の朝食`],quiz:[{id:`q-complementary-1`,question:`空所に入る適切な語はどれですか。「Guests receive a ( ) drink on arrival.（到着時に無料のドリンクが出る）」`,options:[`complementary`,`complement`,`completing`,`complimentary`],correctAnswer:3,explanation:`「無料の」は complimentary です。`},{id:`q-complementary-2`,question:`「補色」を表す語句はどれですか。`,options:[`complimentary colors`,`compliment colors`,`completed colors`,`complementary colors`],correctAnswer:3,explanation:`補色は complementary colors です。`},{id:`q-complementary-3`,question:`空所に入る適切な語はどれですか。「Her remarks about my work were very ( ).（私の作品への発言はとても好意的だった）」`,options:[`complementary`,`complement`,`completely`,`complimentary`],correctAnswer:3,explanation:`「賛辞の・ほめる」は complimentary です。`},{id:`q-complementary-4`,question:`complementary と同じ語源で覚えるとよい語はどれですか。`,options:[`complain`,`comply`,`compile`,`complete`],correctAnswer:3,explanation:`complement は complete（完全にする）と同系で「補う」意味です。`},{id:`q-complementary-5`,question:`「2つの役割が互いを補っている」に使うのはどちらですか。`,options:[`complementary`,`complimentary`,`どちらも`,`どちらも違う`],correctAnswer:0,explanation:`補い合う関係は complementary です。`}]},{id:`stair-stare`,title:`stair と stare`,chapter:4,description:`同音 /ster/。stair は名詞「階段の1段・（複数で）階段」、stare は動詞「じっと見つめる」。`,content:`## 音は同じ、階段か視線か
 
 **stair と stare は同じ発音 /ster/（英 /steə/）**の同音異義語です。
 
