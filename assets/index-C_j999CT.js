@@ -1166,7 +1166,15 @@ crush には orange crush（オレンジスカッシュ＝果汁を搾った飲�
 
 ### cell / sell の派生語で判別を強化
 
-**cell 系**：形容詞 **cellular**（細胞の・携帯電話の）は cell phone の語源そのものです。**sell 系**：句動詞 **sell out**（売り切れる／（信念を）売り渡す）、慣用句 **sell** ~ **short**（〜を過小評価する）は、sell の「手放す」という意味から広がった表現です。`,keyPoints:[`cell と sell は同音 /sel/`,`cell＝名詞（細胞・独房・電池・携帯）。cellular`,`sell＝動詞「売る」（sell-sold-sold）。sell out/sell ~ short`],quiz:[{id:`q-cell-1`,question:`空所に入る適切な語はどれですか。「They ( ) handmade jewelry online.（彼らは手作りのアクセサリーをネットで売っている）」`,options:[`cell`,`cells`,`sold out`,`sell`],correctAnswer:3,explanation:`主語のあとの動作（動詞）「売る」は sell。`},{id:`q-cell-2`,question:`空所に入る適切な語はどれですか。「The prisoner was kept in a small ( ).（囚人は小さな独房に入れられた）」`,options:[`sell`,`sells`,`selling`,`cell`],correctAnswer:3,explanation:`「独房」は名詞 cell。cell には細胞・電池・携帯などの意味もあります。`},{id:`q-cell-3`,question:`cell と sell の発音の関係として正しいものはどれですか。`,options:[`母音が違う`,`まったく同じ発音 /sel/（同音異義語）`,`子音 /s/ と /ʃ/ で違う`,`アクセントが違う`],correctAnswer:1,explanation:`どちらも /sel/ で同音。品詞・意味・文脈で判断します。`},{id:`q-cell-4`,question:`cell の意味として当てはまらないものはどれですか。`,options:[`細胞`,`売る`,`独房`,`電池`],correctAnswer:1,explanation:`「売る」は sell（動詞）。cell は名詞で細胞・独房・電池・携帯などを表します。`},{id:`q-cell-5`,question:`sell の過去形はどれですか。`,options:[`selled`,`sale`,`sells`,`sold`],correctAnswer:3,explanation:`sell-sold-sold。過去形・過去分詞は sold です。`}]},{id:`claw-crow`,title:`claw と crow`,chapter:4,description:`/l/ /r/ と母音 /ɔː/ /oʊ/ の複合。claw /klɔː/「（動物の）爪」、crow /kroʊ/「カラス」。`,content:`## 音のちがいで見分ける
+**cell 系**：形容詞 **cellular**（細胞の・携帯電話の）は cell phone の語源そのものです。**sell 系**：句動詞 **sell out**（売り切れる／（信念を）売り渡す）、慣用句 **sell** ~ **short**（〜を過小評価する）は、sell の「手放す」という意味から広がった表現です。
+
+### cell の語源はラテン語で「小部屋」を意味する cella
+
+1665年、ロバート・フックは自作の顕微鏡でコルクの薄片を観察し、無数の小さな箱状の構造を発見した。その形が修道院の修道士の小部屋を思わせたことから、ラテン語 cella（小部屋）にちなんで cell と名付けた。生物学の基本用語「細胞」の由来は、この比喩的な命名にある。
+
+### sell はもともと「与える」を意味した
+
+sell は古英語 sellan に由来し、もとは対価の有無を問わず「与える・引き渡す」という広い意味を持っていた。時代とともに「対価と引き換えに与える」という意味に絞られ、現代の「売る」という限定的な意味に定着した。`,keyPoints:[`cell と sell は同音 /sel/`,`cell＝名詞（細胞・独房・電池・携帯）。cellular`,`sell＝動詞「売る」（sell-sold-sold）。sell out/sell ~ short`],quiz:[{id:`q-cell-1`,question:`空所に入る適切な語はどれですか。「They ( ) handmade jewelry online.（彼らは手作りのアクセサリーをネットで売っている）」`,options:[`cell`,`cells`,`sold out`,`sell`],correctAnswer:3,explanation:`主語のあとの動作（動詞）「売る」は sell。`},{id:`q-cell-2`,question:`空所に入る適切な語はどれですか。「The prisoner was kept in a small ( ).（囚人は小さな独房に入れられた）」`,options:[`sell`,`sells`,`selling`,`cell`],correctAnswer:3,explanation:`「独房」は名詞 cell。cell には細胞・電池・携帯などの意味もあります。`},{id:`q-cell-3`,question:`cell と sell の発音の関係として正しいものはどれですか。`,options:[`母音が違う`,`まったく同じ発音 /sel/（同音異義語）`,`子音 /s/ と /ʃ/ で違う`,`アクセントが違う`],correctAnswer:1,explanation:`どちらも /sel/ で同音。品詞・意味・文脈で判断します。`},{id:`q-cell-4`,question:`cell の意味として当てはまらないものはどれですか。`,options:[`細胞`,`売る`,`独房`,`電池`],correctAnswer:1,explanation:`「売る」は sell（動詞）。cell は名詞で細胞・独房・電池・携帯などを表します。`},{id:`q-cell-5`,question:`sell の過去形はどれですか。`,options:[`selled`,`sale`,`sells`,`sold`],correctAnswer:3,explanation:`sell-sold-sold。過去形・過去分詞は sold です。`}]},{id:`claw-crow`,title:`claw と crow`,chapter:4,description:`/l/ /r/ と母音 /ɔː/ /oʊ/ の複合。claw /klɔː/「（動物の）爪」、crow /kroʊ/「カラス」。`,content:`## 音のちがいで見分ける
 
 子音（**/l/ か /r/**）と母音（**/ɔː/ か /oʊ/**）の両方が違います。
 
@@ -2899,7 +2907,15 @@ decent は excellent（優秀な）ほど強くはなく、「十分にまとも
 
 ### salary / wage の派生語・慣用句で判別を強化
 
-**salary 系**：形容詞 **salaried**（給与制の・月給の＝a salaried employee）は、salary の中心の意味そのものです。**wage 系**：複合語 **a living wage**（生活できる最低限の賃金）、慣用句 **wage war**（（戦争・キャンペーンを）遂行する）は、wage が動詞としても使われることを示す表現です。`,keyPoints:[`salary＝固定給（月給・年俸）。形容詞salaried`,`wage＝時間給・週給（働いた時間・量で払う。複数 wages）。a living wage/wage war`,`固定給は salary、時給は wage`],quiz:[{id:`q-salary-1`,question:`空所に入る適切な語はどれですか。「The part-time job pays an hourly ( ).（そのバイトは時給制だ）」`,options:[`salary`,`salaries`,`wage`,`waged`],correctAnswer:2,explanation:`時間給は wage（hourly wage）です。`},{id:`q-salary-2`,question:`「月給・年俸（固定給）」を表す語はどれですか。`,options:[`salary`,`wage`,`wages`,`waged`],correctAnswer:0,explanation:`固定給は salary です。`},{id:`q-salary-3`,question:`空所に入る適切な語はどれですか。「He was offered a good ( ) at the firm.（彼はその会社で良い給料を提示された）」`,options:[`salary`,`wage`,`wages`,`waged`],correctAnswer:0,explanation:`会社員の固定給は salary が自然です。`},{id:`q-salary-4`,question:`働いた時間・量に応じて払う賃金はどちらですか。`,options:[`wage`,`salary`,`どちらも`,`どちらも違う`],correctAnswer:0,explanation:`時間・量で払うのは wage。固定給は salary です。`},{id:`q-salary-5`,question:`空所に入る適切な語はどれですか。「The minimum ( ) was raised this year.（今年、最低賃金が上がった）」`,options:[`salary`,`salaries`,`wage`,`salaried`],correctAnswer:2,explanation:`「最低賃金」は minimum wage です。`}]},{id:`custom-habit`,title:`custom と habit`,chapter:2,description:`主体が社会か個人か。custom は「（社会・集団の）慣習・風習」、habit は「（個人の）癖・習慣」。`,content:`## 社会の慣習か、個人の癖かで見分ける
+**salary 系**：形容詞 **salaried**（給与制の・月給の＝a salaried employee）は、salary の中心の意味そのものです。**wage 系**：複合語 **a living wage**（生活できる最低限の賃金）、慣用句 **wage war**（（戦争・キャンペーンを）遂行する）は、wage が動詞としても使われることを示す表現です。
+
+### salary の語源はローマ兵士への「塩の手当」
+
+salary はラテン語 salarium（塩の手当）に由来し、さらに sal（塩）から派生した語である。ローマ時代、兵士に塩を買うための手当が支給されていたことに由来するとされ（塩そのもので支払われたという説は史料上の裏付けが弱いとされる）、成句 worth one's salt（その塩に見合う働きをする＝有能である）にも同じ塩の連想が残っている。
+
+### wage は gage・wager と同じ語根
+
+wage は古フランス語 gage（担保・誓約）と同じ語源を持ち、賭け金を意味する wager（賭け）とも同根である。「約束の担保として差し出すもの」という原義が、「労働の対価として支払われるもの」という現代の wage の意味につながっている。`,keyPoints:[`salary＝固定給（月給・年俸）。形容詞salaried`,`wage＝時間給・週給（働いた時間・量で払う。複数 wages）。a living wage/wage war`,`固定給は salary、時給は wage`],quiz:[{id:`q-salary-1`,question:`空所に入る適切な語はどれですか。「The part-time job pays an hourly ( ).（そのバイトは時給制だ）」`,options:[`salary`,`salaries`,`wage`,`waged`],correctAnswer:2,explanation:`時間給は wage（hourly wage）です。`},{id:`q-salary-2`,question:`「月給・年俸（固定給）」を表す語はどれですか。`,options:[`salary`,`wage`,`wages`,`waged`],correctAnswer:0,explanation:`固定給は salary です。`},{id:`q-salary-3`,question:`空所に入る適切な語はどれですか。「He was offered a good ( ) at the firm.（彼はその会社で良い給料を提示された）」`,options:[`salary`,`wage`,`wages`,`waged`],correctAnswer:0,explanation:`会社員の固定給は salary が自然です。`},{id:`q-salary-4`,question:`働いた時間・量に応じて払う賃金はどちらですか。`,options:[`wage`,`salary`,`どちらも`,`どちらも違う`],correctAnswer:0,explanation:`時間・量で払うのは wage。固定給は salary です。`},{id:`q-salary-5`,question:`空所に入る適切な語はどれですか。「The minimum ( ) was raised this year.（今年、最低賃金が上がった）」`,options:[`salary`,`salaries`,`wage`,`salaried`],correctAnswer:2,explanation:`「最低賃金」は minimum wage です。`}]},{id:`custom-habit`,title:`custom と habit`,chapter:2,description:`主体が社会か個人か。custom は「（社会・集団の）慣習・風習」、habit は「（個人の）癖・習慣」。`,content:`## 社会の慣習か、個人の癖かで見分ける
 
 どちらも「習慣」ですが、**社会・集団のものか、個人のものか**で使い分けます。
 
@@ -3277,7 +3293,15 @@ our は必ず**うしろに名詞**を伴う所有格（our house）ですが、
 
 ### new の複合語で判別を強化
 
-**new 系**：慣用句 **brand new**（真新しい）、複合語 **newcomer**（新参者）は、new の「新しい」という中心の意味そのものです。**knew は know の過去形としてしか使われない**ため、これらのような複合語は作りません。過去の話（〜だった）なら knew、状態や物の新しさなら new と役割で分けます。`,keyPoints:[`knew と new は同音 /njuː/（knew の k は無音）`,`knew＝know の過去「知っていた」（know-knew-known）。複合語は作らない`,`new＝形容詞「新しい」（反対は old）。brand new/newcomer`],quiz:[{id:`q-knew-1`,question:`空所に入る適切な語はどれですか。「They moved into a ( ) apartment.（彼らは新しいアパートに引っ越した）」`,options:[`new`,`knew`,`news`,`knews`],correctAnswer:0,explanation:`形容詞「新しい」は new です。`},{id:`q-knew-2`,question:`know の過去形「知っていた」を表す語はどれですか。`,options:[`knew`,`new`,`known`,`news`],correctAnswer:0,explanation:`know の過去は knew です。`},{id:`q-knew-3`,question:`knew と new の発音の関係はどれですか。`,options:[`母音が違う`,`子音が違う`,`同じ発音（同音異義語）`,`アクセントが違う`],correctAnswer:2,explanation:`どちらも /njuː/ で同音異義語です（k は無音）。`},{id:`q-knew-4`,question:`空所に入る適切な語はどれですか。「I ( ) him when we were children.（子どものころ彼を知っていた）」`,options:[`knew`,`new`,`known`,`news`],correctAnswer:0,explanation:`「知っていた」は know の過去 knew です。`},{id:`q-knew-5`,question:`形容詞「新しい」を意味するのはどちらですか。`,options:[`new`,`knew`,`どちらも`,`どちらも違う`],correctAnswer:0,explanation:`「新しい」は new。knew は「知っていた」です。`}]},{id:`home-house`,title:`home と house`,chapter:2,description:`house は「建物としての家」、home は「（暮らす場としての）家庭・我が家・故郷」。`,content:`## 建物か、暮らしの場かで見分ける
+**new 系**：慣用句 **brand new**（真新しい）、複合語 **newcomer**（新参者）は、new の「新しい」という中心の意味そのものです。**knew は know の過去形としてしか使われない**ため、これらのような複合語は作りません。過去の話（〜だった）なら knew、状態や物の新しさなら new と役割で分けます。
+
+### know はラテン語・ギリシャ語ともつながる印欧祖語 gno- に遡る
+
+know は印欧祖語の語根 *gno-（知る）に遡り、notice（気づく）・diagnosis（診断、ギリシャ語経由）・recognize（認識する）と同じ語根を共有する。ラテン語 gnoscere、ギリシャ語 gignoskein、サンスクリット語 jna- など、多くの言語に同根語が見られる、印欧語族に広く保存された語根の一つ。
+
+### new は印欧語族で最も古くから安定して残る語の一つ
+
+new はラテン語 novus、ギリシャ語 neos、サンスクリット語 navah と同じ語根を持ち、印欧祖語の段階からほとんど形を変えずに多くの言語に伝わった、きわめて保存性の高い基本語彙とされる。`,keyPoints:[`knew と new は同音 /njuː/（knew の k は無音）`,`knew＝know の過去「知っていた」（know-knew-known）。複合語は作らない`,`new＝形容詞「新しい」（反対は old）。brand new/newcomer`],quiz:[{id:`q-knew-1`,question:`空所に入る適切な語はどれですか。「They moved into a ( ) apartment.（彼らは新しいアパートに引っ越した）」`,options:[`new`,`knew`,`news`,`knews`],correctAnswer:0,explanation:`形容詞「新しい」は new です。`},{id:`q-knew-2`,question:`know の過去形「知っていた」を表す語はどれですか。`,options:[`knew`,`new`,`known`,`news`],correctAnswer:0,explanation:`know の過去は knew です。`},{id:`q-knew-3`,question:`knew と new の発音の関係はどれですか。`,options:[`母音が違う`,`子音が違う`,`同じ発音（同音異義語）`,`アクセントが違う`],correctAnswer:2,explanation:`どちらも /njuː/ で同音異義語です（k は無音）。`},{id:`q-knew-4`,question:`空所に入る適切な語はどれですか。「I ( ) him when we were children.（子どものころ彼を知っていた）」`,options:[`knew`,`new`,`known`,`news`],correctAnswer:0,explanation:`「知っていた」は know の過去 knew です。`},{id:`q-knew-5`,question:`形容詞「新しい」を意味するのはどちらですか。`,options:[`new`,`knew`,`どちらも`,`どちらも違う`],correctAnswer:0,explanation:`「新しい」は new。knew は「知っていた」です。`}]},{id:`home-house`,title:`home と house`,chapter:2,description:`house は「建物としての家」、home は「（暮らす場としての）家庭・我が家・故郷」。`,content:`## 建物か、暮らしの場かで見分ける
 
 どちらも「家」ですが、**物理的な建物か、暮らし・帰属の場か**で使い分けます。
 
@@ -3640,7 +3664,15 @@ eight から派生する数詞は綴りの変化に注意が必要です。序�
 
 ### made / maid の派生語で判別を強化
 
-**made 系**：複合語 **homemade**（自家製の）・**man-made**（人工の）は、made の「作られた」という中心の意味から広がった語です。**maid 系**：複合語 **bridesmaid**（花嫁の付添人）は、maid が「未婚の女性・お手伝い」という古い意味を残す語であることを示す複合語です。`,keyPoints:[`made と maid は同音 /meɪd/`,`made＝make の過去「作った」（be made of ~）。homemade/man-made`,`maid＝名詞「メイド・お手伝い」。bridesmaid`],quiz:[{id:`q-made-1`,question:`空所に入る適切な語はどれですか。「The hotel ( ) makes up the beds daily.（ホテルのメイドが毎日ベッドを整える）」`,options:[`maid`,`made`,`maids'`,`making`],correctAnswer:0,explanation:`「メイド・お手伝い」は名詞 maid です。`},{id:`q-made-2`,question:`make の過去形「作った」を表す語はどれですか。`,options:[`maid`,`maids`,`making`,`made`],correctAnswer:3,explanation:`make の過去は made です。`},{id:`q-made-3`,question:`made と maid の発音の関係はどれですか。`,options:[`母音が違う`,`子音が違う`,`同じ発音（同音異義語）`,`アクセントが違う`],correctAnswer:2,explanation:`どちらも /meɪd/ で同音異義語です。`},{id:`q-made-4`,question:`空所に入る適切な語はどれですか。「This ring is ( ) of gold.（この指輪は金でできている）」`,options:[`maid`,`maids`,`making`,`made`],correctAnswer:3,explanation:`be made of ~「〜でできている」の made です。`},{id:`q-made-5`,question:`「お手伝い・女中」を意味するのはどちらですか。`,options:[`maid`,`made`,`どちらも`,`どちらも違う`],correctAnswer:0,explanation:`お手伝いは maid。made は「作った」です。`}]},{id:`some-sum`,title:`some と sum`,chapter:4,description:`同音 /sʌm/。some「いくつかの・いくらかの」（限定詞）、sum「合計・金額」（名詞）。意味と品詞で判断。`,content:`## 音は同じ、意味と品詞で見分ける
+**made 系**：複合語 **homemade**（自家製の）・**man-made**（人工の）は、made の「作られた」という中心の意味から広がった語です。**maid 系**：複合語 **bridesmaid**（花嫁の付添人）は、maid が「未婚の女性・お手伝い」という古い意味を残す語であることを示す複合語です。
+
+### maid は maiden（未婚の若い女性）の短縮形
+
+maid は maiden（未婚の若い女性）が短縮してできた語で、もとは既婚・未婚を問わず「若い女性」全般を指していた。現代の「お手伝い・メイド」という職業を表す意味は、この古い語義から専門化して残ったものである。
+
+### make と manufacture は同じ「作る」でも語源が別
+
+make は古英語 macian に由来するゲルマン語源の語で、ラテン語 manus（手）+ facere（作る）に由来する manufacture（製造する）とは語源が異なる。日常語の make とかたい語感の manufacture・fabricate・construct はどれも「作る」を意味するが、ゲルマン語源かラテン語源かで文体の硬さが変わるという英語特有の二重語彙構造の一例になっている。`,keyPoints:[`made と maid は同音 /meɪd/`,`made＝make の過去「作った」（be made of ~）。homemade/man-made`,`maid＝名詞「メイド・お手伝い」。bridesmaid`],quiz:[{id:`q-made-1`,question:`空所に入る適切な語はどれですか。「The hotel ( ) makes up the beds daily.（ホテルのメイドが毎日ベッドを整える）」`,options:[`maid`,`made`,`maids'`,`making`],correctAnswer:0,explanation:`「メイド・お手伝い」は名詞 maid です。`},{id:`q-made-2`,question:`make の過去形「作った」を表す語はどれですか。`,options:[`maid`,`maids`,`making`,`made`],correctAnswer:3,explanation:`make の過去は made です。`},{id:`q-made-3`,question:`made と maid の発音の関係はどれですか。`,options:[`母音が違う`,`子音が違う`,`同じ発音（同音異義語）`,`アクセントが違う`],correctAnswer:2,explanation:`どちらも /meɪd/ で同音異義語です。`},{id:`q-made-4`,question:`空所に入る適切な語はどれですか。「This ring is ( ) of gold.（この指輪は金でできている）」`,options:[`maid`,`maids`,`making`,`made`],correctAnswer:3,explanation:`be made of ~「〜でできている」の made です。`},{id:`q-made-5`,question:`「お手伝い・女中」を意味するのはどちらですか。`,options:[`maid`,`made`,`どちらも`,`どちらも違う`],correctAnswer:0,explanation:`お手伝いは maid。made は「作った」です。`}]},{id:`some-sum`,title:`some と sum`,chapter:4,description:`同音 /sʌm/。some「いくつかの・いくらかの」（限定詞）、sum「合計・金額」（名詞）。意味と品詞で判断。`,content:`## 音は同じ、意味と品詞で見分ける
 
 **some と sum は同じ発音 /sʌm/（同音異義語）**。意味と品詞で決めます。
 
@@ -4089,7 +4121,15 @@ vane は風見鶏（weather vane）だけでなく、風力や水力を受けて
 
 ### aisle / isle の実例で判別を強化
 
-**aisle 系**：アメリカの政治報道でよく使う **cross the aisle**（党派を超えて協力する＝議場で通路を挟んで座る与野党の席から来た表現）は、aisle の「通路」という中心の意味そのものです。**isle 系**：**the British Isles**（ブリテン諸島）のように、正式な地名としてもよく使われます。`,keyPoints:[`aisle と isle は同音 /aɪl/（黙字を含む）`,`aisle＝（座席・棚の間の）通路。cross the aisle（党派を超えて協力する）`,`isle＝島（island の詩的・地名的な語）。the British Isles`],quiz:[{id:`q-aisle-1`,question:`空所に入る適切な語はどれですか。「The bride walked down the ( ).（花嫁はバージンロード〈通路〉を歩いた）」`,options:[`isle`,`aisles`,`aisle`,`isles`],correctAnswer:2,explanation:`教会などの「通路」は aisle です。`},{id:`q-aisle-2`,question:`「島」という意味の語はどれですか。`,options:[`isle`,`aisle`,`aisles`,`isled`],correctAnswer:0,explanation:`「島」は isle /aɪl/（island の仲間）です。`},{id:`q-aisle-3`,question:`aisle と isle の発音の関係はどれですか。`,options:[`母音が違う`,`子音が違う`,`同じ発音（同音異義語）`,`アクセントが違う`],correctAnswer:2,explanation:`どちらも /aɪl/ で同音異義語です（黙字を含む）。`},{id:`q-aisle-4`,question:`空所に入る適切な語はどれですか。「Cereal is in the third ( ) of the store.（シリアルは店の3番目の通路にある）」`,options:[`isle`,`isles`,`aisle`,`aisled`],correctAnswer:2,explanation:`店の棚間の「通路」は aisle です。`},{id:`q-aisle-5`,question:`座席・棚のあいだの「通路」を意味するのはどちらですか。`,options:[`aisle`,`isle`,`どちらも`,`どちらも違う`],correctAnswer:0,explanation:`通路は aisle。isle は「島」です。`}]},{id:`currant-current`,title:`currant と current`,chapter:4,description:`同音 /ˈkʌrənt/。currant「干しブドウ・スグリ（果実）」、current「現在の・流れ・電流」。意味とスペルで判断。`,content:`## 音は同じ、意味とスペルで見分ける
+**aisle 系**：アメリカの政治報道でよく使う **cross the aisle**（党派を超えて協力する＝議場で通路を挟んで座る与野党の席から来た表現）は、aisle の「通路」という中心の意味そのものです。**isle 系**：**the British Isles**（ブリテン諸島）のように、正式な地名としてもよく使われます。
+
+### aisle と island はどちらも誤って s が入り込んだ綴り
+
+isle は「島」を意味するラテン語 insula から来ているが、本来ゲルマン語源で s を含まない語だった island・aisle にも、insula・isle との連想から誤って s が挿入された。island はもともと iland（i-「水」+ land）、aisle は元来フランス語 aile（翼）に由来する ele という綴りだったが、どちらも「島っぽい語だから s があるはず」という誤った類推で綴りに s が加わり、発音されないまま定着した。
+
+### the British Isles と aisle は無関係な語源が偶然同じ綴りの流れを辿った
+
+isle が本来の「島」の語義を保ち the British Isles のような正式な地名に使われるのに対し、aisle は「通路」というまったく別の語義でありながら、綴りの成り立ちだけは isle と同じ「誤った s の挿入」を経ている。同じ現象が2つの無関係な語に起きた珍しい例。`,keyPoints:[`aisle と isle は同音 /aɪl/（黙字を含む）`,`aisle＝（座席・棚の間の）通路。cross the aisle（党派を超えて協力する）`,`isle＝島（island の詩的・地名的な語）。the British Isles`],quiz:[{id:`q-aisle-1`,question:`空所に入る適切な語はどれですか。「The bride walked down the ( ).（花嫁はバージンロード〈通路〉を歩いた）」`,options:[`isle`,`aisles`,`aisle`,`isles`],correctAnswer:2,explanation:`教会などの「通路」は aisle です。`},{id:`q-aisle-2`,question:`「島」という意味の語はどれですか。`,options:[`isle`,`aisle`,`aisles`,`isled`],correctAnswer:0,explanation:`「島」は isle /aɪl/（island の仲間）です。`},{id:`q-aisle-3`,question:`aisle と isle の発音の関係はどれですか。`,options:[`母音が違う`,`子音が違う`,`同じ発音（同音異義語）`,`アクセントが違う`],correctAnswer:2,explanation:`どちらも /aɪl/ で同音異義語です（黙字を含む）。`},{id:`q-aisle-4`,question:`空所に入る適切な語はどれですか。「Cereal is in the third ( ) of the store.（シリアルは店の3番目の通路にある）」`,options:[`isle`,`isles`,`aisle`,`aisled`],correctAnswer:2,explanation:`店の棚間の「通路」は aisle です。`},{id:`q-aisle-5`,question:`座席・棚のあいだの「通路」を意味するのはどちらですか。`,options:[`aisle`,`isle`,`どちらも`,`どちらも違う`],correctAnswer:0,explanation:`通路は aisle。isle は「島」です。`}]},{id:`currant-current`,title:`currant と current`,chapter:4,description:`同音 /ˈkʌrənt/。currant「干しブドウ・スグリ（果実）」、current「現在の・流れ・電流」。意味とスペルで判断。`,content:`## 音は同じ、意味とスペルで見分ける
 
 **currant と current は同じ発音 /ˈkʌrənt/（同音異義語）**。末尾 **-ant と -ent**、意味で決めます。
 
@@ -4818,7 +4858,15 @@ berth には動詞の用法もあり、The ship berthed at pier three.（船は3
 
 ### hoarse / horse の実例で判別を強化
 
-**hoarse 系**：**a hoarse whisper**（かすれたささやき声）は、hoarse が声質を形容する語であることをそのまま示す組み合わせです。**horse 系**：慣用句 **horse around**（ふざけ回る）、複合語 **horsepower**（馬力）は、どちらも horse の「馬」という中心の意味から広がった語です。`,keyPoints:[`hoarse と horse は同音 /hɔːrs/`,`hoarse＝形容詞「（声が）しゃがれた・かすれた」。a hoarse whisper`,`horse＝名詞「馬」。horse around（ふざけ回る）/horsepower`],quiz:[{id:`q-hoarse-1`,question:`空所に入る適切な語はどれですか。「After the concert her voice was ( ).（コンサートのあと彼女の声はかすれていた）」`,options:[`horse`,`horses`,`hoarsely`,`hoarse`],correctAnswer:3,explanation:`「（声が）しゃがれた」は hoarse です。`},{id:`q-hoarse-2`,question:`「馬」という意味の名詞はどれですか。`,options:[`hoarse`,`hoarses`,`hoarsely`,`horse`],correctAnswer:3,explanation:`動物の「馬」は horse /hɔːrs/ です。`},{id:`q-hoarse-3`,question:`hoarse と horse の発音の関係はどれですか。`,options:[`母音が違う`,`子音が違う`,`同じ発音（同音異義語）`,`アクセントが違う`],correctAnswer:2,explanation:`どちらも /hɔːrs/ で同音異義語です。`},{id:`q-hoarse-4`,question:`空所に入る適切な語はどれですか。「The knight jumped onto his ( ).（騎士は馬にまたがった）」`,options:[`hoarse`,`hoarses`,`hoarse'`,`horse`],correctAnswer:3,explanation:`動物の「馬」は horse です。`},{id:`q-hoarse-5`,question:`声が「かすれた・しゃがれた」を意味するのはどちらですか。`,options:[`horse`,`hoarse`,`どちらも`,`どちらも違う`],correctAnswer:1,explanation:`しゃがれ声は hoarse。horse は「馬」です。`}]},{id:`muscle-mussel`,title:`muscle と mussel`,chapter:4,description:`同音 /ˈmʌsl/。muscle「筋肉」、mussel「ムール貝（イガイ）」。意味とスペルで判断する同音異義語。`,content:`## 音は同じ、意味とスペルで見分ける
+**hoarse 系**：**a hoarse whisper**（かすれたささやき声）は、hoarse が声質を形容する語であることをそのまま示す組み合わせです。**horse 系**：慣用句 **horse around**（ふざけ回る）、複合語 **horsepower**（馬力）は、どちらも horse の「馬」という中心の意味から広がった語です。
+
+### horsepower はジェームズ・ワットが馬力を測るために考案した単位
+
+horsepower（馬力）は、蒸気機関を売り込んでいたジェームズ・ワットが、機関の力を馬と比較して顧客に説明するために18世紀に考案した単位である。実際に馬に重りを引かせる実験から算出したとされ、現在も自動車のエンジン出力の単位として使われ続けている。
+
+### dark horse という成句
+
+dark horse（意外な実力者・穴馬）は、競馬でどんな馬か情報が知られていない馬を指した表現に由来し、そこから「実力を隠していて予想外の活躍をする人物」を指す比喩として定着した。`,keyPoints:[`hoarse と horse は同音 /hɔːrs/`,`hoarse＝形容詞「（声が）しゃがれた・かすれた」。a hoarse whisper`,`horse＝名詞「馬」。horse around（ふざけ回る）/horsepower`],quiz:[{id:`q-hoarse-1`,question:`空所に入る適切な語はどれですか。「After the concert her voice was ( ).（コンサートのあと彼女の声はかすれていた）」`,options:[`horse`,`horses`,`hoarsely`,`hoarse`],correctAnswer:3,explanation:`「（声が）しゃがれた」は hoarse です。`},{id:`q-hoarse-2`,question:`「馬」という意味の名詞はどれですか。`,options:[`hoarse`,`hoarses`,`hoarsely`,`horse`],correctAnswer:3,explanation:`動物の「馬」は horse /hɔːrs/ です。`},{id:`q-hoarse-3`,question:`hoarse と horse の発音の関係はどれですか。`,options:[`母音が違う`,`子音が違う`,`同じ発音（同音異義語）`,`アクセントが違う`],correctAnswer:2,explanation:`どちらも /hɔːrs/ で同音異義語です。`},{id:`q-hoarse-4`,question:`空所に入る適切な語はどれですか。「The knight jumped onto his ( ).（騎士は馬にまたがった）」`,options:[`hoarse`,`hoarses`,`hoarse'`,`horse`],correctAnswer:3,explanation:`動物の「馬」は horse です。`},{id:`q-hoarse-5`,question:`声が「かすれた・しゃがれた」を意味するのはどちらですか。`,options:[`horse`,`hoarse`,`どちらも`,`どちらも違う`],correctAnswer:1,explanation:`しゃがれ声は hoarse。horse は「馬」です。`}]},{id:`muscle-mussel`,title:`muscle と mussel`,chapter:4,description:`同音 /ˈmʌsl/。muscle「筋肉」、mussel「ムール貝（イガイ）」。意味とスペルで判断する同音異義語。`,content:`## 音は同じ、意味とスペルで見分ける
 
 **muscle と mussel は同じ発音 /ˈmʌsl/（同音異義語）**。意味とスペルで決めます（muscle の c は無音）。
 
@@ -4834,7 +4882,15 @@ berth には動詞の用法もあり、The ship berthed at pier three.（船は3
 
 ### muscle の慣用句で判別を強化
 
-**muscle 系**：句動詞 **muscle in**（（強引に）割り込む・介入する）、慣用句 **flex one's muscles**（力を誇示する）は、muscle の「力・筋力」という意味から広がった表現です。**mussel は食用の二枚貝を指す語義だけ**で、比喩的な慣用句はほとんど作りません。`,keyPoints:[`muscle と mussel は同音 /ˈmʌsl/`,`muscle＝筋肉（c あり・muscular）。muscle in/flex one's muscles`,`mussel＝ムール貝・イガイ（s がふたつ）。比喩表現を作らない`],quiz:[{id:`q-muscle-1`,question:`空所に入る適切な語はどれですか。「The restaurant serves fresh ( ) from the coast.（その店は海岸産の新鮮なムール貝を出す）」`,options:[`mussels`,`muscles`,`muscle`,`muscular`],correctAnswer:0,explanation:`食用の貝「ムール貝」は mussel（複数 mussels）です。`},{id:`q-muscle-2`,question:`「筋肉」という意味の名詞はどれですか。`,options:[`mussel`,`mussels`,`muscle`,`mussel'`],correctAnswer:2,explanation:`体の「筋肉」は muscle /ˈmʌsl/ です。`},{id:`q-muscle-3`,question:`muscle と mussel の発音の関係はどれですか。`,options:[`母音が違う`,`子音が違う`,`同じ発音（同音異義語）`,`アクセントが違う`],correctAnswer:2,explanation:`どちらも /ˈmʌsl/ で同音異義語です。`},{id:`q-muscle-4`,question:`空所に入る適切な語はどれですか。「He pulled a ( ) while running.（走っていて筋肉を痛めた）」`,options:[`mussel`,`mussels`,`muscle`,`muscled`],correctAnswer:2,explanation:`体の「筋肉（を痛める）」は muscle です。`},{id:`q-muscle-5`,question:`食用の二枚貝「ムール貝」を意味するのはどちらですか。`,options:[`muscle`,`mussel`,`どちらも`,`どちらも違う`],correctAnswer:1,explanation:`ムール貝は mussel。muscle は「筋肉」です。`}]},{id:`wander-wonder`,title:`wander と wonder`,chapter:1,description:`wander /ˈwɑːndər/「あてもなく歩き回る」、wonder /ˈwʌndər/「不思議に思う・〜かしらと思う」。母音が違い、意味も別。`,content:`## 1文字違いで、母音も意味も別
+**muscle 系**：句動詞 **muscle in**（（強引に）割り込む・介入する）、慣用句 **flex one's muscles**（力を誇示する）は、muscle の「力・筋力」という意味から広がった表現です。**mussel は食用の二枚貝を指す語義だけ**で、比喩的な慣用句はほとんど作りません。
+
+### muscle の語源はラテン語で「小さなネズミ」
+
+muscle はラテン語 musculus（小さなネズミ、mus「ネズミ」の指小形）に由来する。力こぶを曲げたときに筋肉が動く様子が、皮膚の下でネズミが動いているように見えたことからこの名がついたとされる。ギリシャ語でも「ネズミ」と「筋肉」は同じ語 mys で表され、古代の人々に共通した連想だったことが分かる。
+
+### mussel も同じ musculus に由来する
+
+ムール貝を意味する mussel も、同じラテン語 musculus に由来する語である。貝の形がやはり小さなネズミを思わせたためとされ、筋肉とムール貝という一見無関係な2つの語が、まったく同じ語源から枝分かれしたという珍しい例になっている。`,keyPoints:[`muscle と mussel は同音 /ˈmʌsl/`,`muscle＝筋肉（c あり・muscular）。muscle in/flex one's muscles`,`mussel＝ムール貝・イガイ（s がふたつ）。比喩表現を作らない`],quiz:[{id:`q-muscle-1`,question:`空所に入る適切な語はどれですか。「The restaurant serves fresh ( ) from the coast.（その店は海岸産の新鮮なムール貝を出す）」`,options:[`mussels`,`muscles`,`muscle`,`muscular`],correctAnswer:0,explanation:`食用の貝「ムール貝」は mussel（複数 mussels）です。`},{id:`q-muscle-2`,question:`「筋肉」という意味の名詞はどれですか。`,options:[`mussel`,`mussels`,`muscle`,`mussel'`],correctAnswer:2,explanation:`体の「筋肉」は muscle /ˈmʌsl/ です。`},{id:`q-muscle-3`,question:`muscle と mussel の発音の関係はどれですか。`,options:[`母音が違う`,`子音が違う`,`同じ発音（同音異義語）`,`アクセントが違う`],correctAnswer:2,explanation:`どちらも /ˈmʌsl/ で同音異義語です。`},{id:`q-muscle-4`,question:`空所に入る適切な語はどれですか。「He pulled a ( ) while running.（走っていて筋肉を痛めた）」`,options:[`mussel`,`mussels`,`muscle`,`muscled`],correctAnswer:2,explanation:`体の「筋肉（を痛める）」は muscle です。`},{id:`q-muscle-5`,question:`食用の二枚貝「ムール貝」を意味するのはどちらですか。`,options:[`muscle`,`mussel`,`どちらも`,`どちらも違う`],correctAnswer:1,explanation:`ムール貝は mussel。muscle は「筋肉」です。`}]},{id:`wander-wonder`,title:`wander と wonder`,chapter:1,description:`wander /ˈwɑːndər/「あてもなく歩き回る」、wonder /ˈwʌndər/「不思議に思う・〜かしらと思う」。母音が違い、意味も別。`,content:`## 1文字違いで、母音も意味も別
 
 **wander と wonder はスペルが a と o の1文字違い**ですが、発音する母音も意味も別です。
 
@@ -4892,7 +4948,19 @@ expand の形容詞形 expandable（拡張可能な）と、expend の形容詞�
 
 ⚠️ prospective を「見通し」という名詞で使うのは誤りです。名詞は **prospect**（The prospects are good.）。
 
-🎯 覚え方：**per は「〜を通して」見る＝視点（perspective）、pro は「前方へ」＝これから起きる（prospective）**。`,keyPoints:[`perspective＝名詞「観点・見方・遠近法」`,`prospective＝形容詞「見込みの・将来の」（名詞は prospect）`,`prospective を名詞として使わない`],quiz:[{id:`q-perspective-1`,question:`空所に入る適切な語はどれですか。「The book looks at history from an Asian ( ).（アジアの視点から歴史を見る本だ）」`,options:[`prospective`,`prospect`,`perspective`,`perspectively`],correctAnswer:2,explanation:`「視点・観点」は名詞 perspective です。`},{id:`q-perspective-2`,question:`空所に入る適切な語はどれですか。「She showed the house to a ( ) buyer.（購入見込み客に家を見せた）」`,options:[`perspective`,`perspectives`,`prospect`,`prospective`],correctAnswer:3,explanation:`「見込みの」は形容詞 prospective です。`},{id:`q-perspective-3`,question:`prospective の名詞形はどれですか。`,options:[`prospect`,`perspective`,`prospection`,`prospectively`],correctAnswer:0,explanation:`「見込み・展望」の名詞は prospect です。`},{id:`q-perspective-4`,question:`絵画の「遠近法」を意味するのはどちらですか。`,options:[`perspective`,`prospective`,`どちらも`,`どちらも違う`],correctAnswer:0,explanation:`遠近法は perspective です。`},{id:`q-perspective-5`,question:`品詞の組み合わせとして正しいものはどれですか。`,options:[`perspective＝形容詞／prospective＝名詞`,`perspective＝名詞／prospective＝形容詞`,`どちらも名詞`,`どちらも形容詞`],correctAnswer:1,explanation:`perspective が名詞、prospective が形容詞です。`}]},{id:`martial-marital`,title:`martial と marital`,chapter:1,description:`martial「軍事の・戦いの」（martial arts / martial law）、marital「結婚の・婚姻の」（marital status）。文字の並びが入れ替わっただけ。`,content:`## t と i の並びが入れ替わるだけの危険なペア
+🎯 覚え方：**per は「〜を通して」見る＝視点（perspective）、pro は「前方へ」＝これから起きる（prospective）**。
+
+### perspective と prospective は specere を共有し前置詞だけが違う
+
+perspective はラテン語 per-（通して）+ specere（見る）、prospective は pro-（前方へ）+ specere（見る）に由来し、同じ「見る」を意味する語根を共有しながら、前置詞の違いだけで「（通して見る）視点」と「（前方を見る）将来の」という別の意味になっている。
+
+### perspective は絵画の技法「線遠近法」としても使われる
+
+perspective は美術用語としては線遠近法（linear perspective）を指し、15世紀にブルネレスキが考案し、遠くのものほど1点（消失点）に収束して見える現象を数学的に体系化した技法として知られる。ルネサンス絵画に立体感をもたらしたこの技法が、そのまま「視点・見方」という比喩的な意味に転用されている。
+
+### prospective と retrospective は向きが逆の対の語
+
+医学・研究の分野では、prospective study（前向き研究＝対象を追跡しながら調査する）と retrospective study（後ろ向き研究＝過去のデータをさかのぼって調査する）が対で使われる。pro-（前へ）と retro-（後ろへ）という反対の接頭辞が、研究の時間軸の向きをそのまま表している。`,keyPoints:[`perspective＝名詞「観点・見方・遠近法」`,`prospective＝形容詞「見込みの・将来の」（名詞は prospect）`,`prospective を名詞として使わない`],quiz:[{id:`q-perspective-1`,question:`空所に入る適切な語はどれですか。「The book looks at history from an Asian ( ).（アジアの視点から歴史を見る本だ）」`,options:[`prospective`,`prospect`,`perspective`,`perspectively`],correctAnswer:2,explanation:`「視点・観点」は名詞 perspective です。`},{id:`q-perspective-2`,question:`空所に入る適切な語はどれですか。「She showed the house to a ( ) buyer.（購入見込み客に家を見せた）」`,options:[`perspective`,`perspectives`,`prospect`,`prospective`],correctAnswer:3,explanation:`「見込みの」は形容詞 prospective です。`},{id:`q-perspective-3`,question:`prospective の名詞形はどれですか。`,options:[`prospect`,`perspective`,`prospection`,`prospectively`],correctAnswer:0,explanation:`「見込み・展望」の名詞は prospect です。`},{id:`q-perspective-4`,question:`絵画の「遠近法」を意味するのはどちらですか。`,options:[`perspective`,`prospective`,`どちらも`,`どちらも違う`],correctAnswer:0,explanation:`遠近法は perspective です。`},{id:`q-perspective-5`,question:`品詞の組み合わせとして正しいものはどれですか。`,options:[`perspective＝形容詞／prospective＝名詞`,`perspective＝名詞／prospective＝形容詞`,`どちらも名詞`,`どちらも形容詞`],correctAnswer:1,explanation:`perspective が名詞、prospective が形容詞です。`}]},{id:`martial-marital`,title:`martial と marital`,chapter:1,description:`martial「軍事の・戦いの」（martial arts / martial law）、marital「結婚の・婚姻の」（marital status）。文字の並びが入れ替わっただけ。`,content:`## t と i の並びが入れ替わるだけの危険なペア
 
 **martial と marital は同じ文字を並べ替えただけ**で、打ち間違えても綴りチェックに引っかかりません。意味は大きく違います。
 
