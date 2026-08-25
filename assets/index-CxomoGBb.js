@@ -1150,7 +1150,15 @@ crush には orange crush（オレンジスカッシュ＝果汁を搾った飲�
 
 ### raw / row の派生語で判別を強化
 
-**raw 系**：慣用句 **a raw deal**（不当な扱い）、**raw talent**（磨かれていない天性の才能）は、どちらも raw の「生の・未加工の」という中心の意味から広がった比喩表現です。**row 系**：**in a row**（連続して・立て続けに＝three times in a row）は、横に並んだ row の「列」という意味から生まれた頻出表現です。`,keyPoints:[`raw /rɔː/＝生の・未加工の・未経験の。a raw deal/raw talent`,`row /roʊ/＝（横の）列／（舟を）漕ぐ。in a row（連続して）`,`/ɔː/（オー）と /oʊ/（オウ）の母音対立`],quiz:[{id:`q-raw-1`,question:`「生の・未加工の」という意味の語はどれですか。`,options:[`row`,`roar`,`raw`,`raw`],correctAnswer:3,explanation:`raw /rɔː/ が「生の・未加工の」。row は「列／漕ぐ」です。`},{id:`q-raw-2`,question:`空所に入る適切な語はどれですか。「The students sat in a long ( ).（生徒たちは長い列に座った）」`,options:[`row`,`raw`,`roar`,`raw`],correctAnswer:0,explanation:`「（横の）列」は row（/roʊ/）。`},{id:`q-raw-3`,question:`raw と row を分けている音の違いはどれですか。`,options:[`子音 /r/ と /l/`,`語尾の子音`,`アクセント`,`母音 /ɔː/ と /oʊ/`],correctAnswer:3,explanation:`raw は /ɔː/、row は /oʊ/ の母音対立です。`},{id:`q-raw-4`,question:`空所に入る適切な語はどれですか。「This factory processes ( ) materials.（この工場は原料を加工する）」`,options:[`row`,`roar`,`raw`,`raw`],correctAnswer:3,explanation:`「原料（raw material）」は raw。未加工という意味です。`},{id:`q-raw-5`,question:`「（舟を）漕ぐ」の意味で使えるのはどちらですか。`,options:[`row`,`raw`,`どちらも`,`どちらも不可`],correctAnswer:0,explanation:`row /roʊ/ には「（舟を）漕ぐ」の意味があります。`}]},{id:`cell-sell`,title:`cell と sell`,chapter:4,description:`同音 /sel/。cell「細胞・独房・電池・携帯」、sell「売る」。文脈とスペルで判断。`,content:`## 音は同じ、意味で見分ける
+**raw 系**：慣用句 **a raw deal**（不当な扱い）、**raw talent**（磨かれていない天性の才能）は、どちらも raw の「生の・未加工の」という中心の意味から広がった比喩表現です。**row 系**：**in a row**（連続して・立て続けに＝three times in a row）は、横に並んだ row の「列」という意味から生まれた頻出表現です。
+
+### row の「口論」という意味は語源不明の珍しい語
+
+row（口論・騒動、発音 /raʊ/）は18世紀半ばから使われている語だが、語源がはっきり分かっていない珍しい単語である。同じ綴りで「列」を意味する row（発音 /roʊ/）は古英語 ræw に由来する語源のはっきりした語であり、両者の間に語源的なつながりは無い。
+
+### in the raw という成句
+
+raw には in the raw（生のままの・ありのままの）という成句があり、「未加工」という raw の中心義がそのまま「飾らない・自然のままの」という比喩に転用されている。`,keyPoints:[`raw /rɔː/＝生の・未加工の・未経験の。a raw deal/raw talent`,`row /roʊ/＝（横の）列／（舟を）漕ぐ。in a row（連続して）`,`/ɔː/（オー）と /oʊ/（オウ）の母音対立`],quiz:[{id:`q-raw-1`,question:`「生の・未加工の」という意味の語はどれですか。`,options:[`row`,`roar`,`raw`,`raw`],correctAnswer:3,explanation:`raw /rɔː/ が「生の・未加工の」。row は「列／漕ぐ」です。`},{id:`q-raw-2`,question:`空所に入る適切な語はどれですか。「The students sat in a long ( ).（生徒たちは長い列に座った）」`,options:[`row`,`raw`,`roar`,`raw`],correctAnswer:0,explanation:`「（横の）列」は row（/roʊ/）。`},{id:`q-raw-3`,question:`raw と row を分けている音の違いはどれですか。`,options:[`子音 /r/ と /l/`,`語尾の子音`,`アクセント`,`母音 /ɔː/ と /oʊ/`],correctAnswer:3,explanation:`raw は /ɔː/、row は /oʊ/ の母音対立です。`},{id:`q-raw-4`,question:`空所に入る適切な語はどれですか。「This factory processes ( ) materials.（この工場は原料を加工する）」`,options:[`row`,`roar`,`raw`,`raw`],correctAnswer:3,explanation:`「原料（raw material）」は raw。未加工という意味です。`},{id:`q-raw-5`,question:`「（舟を）漕ぐ」の意味で使えるのはどちらですか。`,options:[`row`,`raw`,`どちらも`,`どちらも不可`],correctAnswer:0,explanation:`row /roʊ/ には「（舟を）漕ぐ」の意味があります。`}]},{id:`cell-sell`,title:`cell と sell`,chapter:4,description:`同音 /sel/。cell「細胞・独房・電池・携帯」、sell「売る」。文脈とスペルで判断。`,content:`## 音は同じ、意味で見分ける
 
 **cell と sell は同じ発音 /sel/（同音異義語）**。意味と品詞で見分けます。
 
@@ -1477,7 +1485,15 @@ remind 人 of 〜 は「〜を思い出させる」のほかに「**〜に似て
 
 ### waist / waste の派生語で判別を強化
 
-**waist 系**：複合語 **waistline**（ウエストライン・胴回り）は、waist の中心の意味そのものです。**waste 系**：形容詞 **wasteful**（無駄の多い）、句動詞 **waste away**（（病気などで）やせ衰える）は、waste の「無駄にする・すり減る」という意味から広がった語です。`,keyPoints:[`waist と waste は同音 /weɪst/`,`waist＝名詞「腰・ウエスト」。waistline`,`waste＝動詞「無駄にする」／名詞「無駄・廃棄物」。wasteful/waste away`],quiz:[{id:`q-waist-1`,question:`空所に入る適切な語はどれですか。「Don't ( ) food; take only what you eat.（食べ物を無駄にしないで）」`,options:[`waste`,`waist`,`wait`,`wasted`],correctAnswer:0,explanation:`「無駄にする」は動詞 waste です。`},{id:`q-waist-2`,question:`「腰・ウエスト」という意味の語はどれですか。`,options:[`waist`,`waste`,`wait`,`waistes`],correctAnswer:0,explanation:`体の「腰・ウエスト」は waist /weɪst/ です。`},{id:`q-waist-3`,question:`waist と waste の発音の関係はどれですか。`,options:[`母音が違う`,`子音が違う`,`同じ発音（同音異義語）`,`アクセントが違う`],correctAnswer:2,explanation:`どちらも /weɪst/ で同音異義語です。`},{id:`q-waist-4`,question:`空所に入る適切な語はどれですか。「Factories must reduce their ( ).（工場は廃棄物を減らさねばならない）」`,options:[`waste`,`waist`,`wait`,`waists`],correctAnswer:0,explanation:`「廃棄物・ごみ」は名詞 waste です。`},{id:`q-waist-5`,question:`体の部位（胴のくびれ）を指すのはどちらですか。`,options:[`waist`,`waste`,`どちらも`,`どちらも違う`],correctAnswer:0,explanation:`体の「腰・くびれ」は waist。waste は無駄・廃棄物です。`}]},{id:`later-latter`,title:`later と latter`,chapter:1,description:`t の数が違う。later /ˈleɪtər/「後で」（時間）、latter /ˈlætər/「後者」（前者に対する）。`,content:`## 意味と発音で見分ける
+**waist 系**：複合語 **waistline**（ウエストライン・胴回り）は、waist の中心の意味そのものです。**waste 系**：形容詞 **wasteful**（無駄の多い）、句動詞 **waste away**（（病気などで）やせ衰える）は、waste の「無駄にする・すり減る」という意味から広がった語です。
+
+### waste は vast・devastate と同じラテン語 vastus に由来
+
+waste はラテン語 vastus（空っぽの・荒れ果てた）に由来し、vast（広大な）・devastate（荒廃させる）と同じ語根を共有する。「何もない空虚な状態」という原義が、「無駄にする」という現代の waste の意味につながっている。
+
+### waist の語源は諸説あり確定していない
+
+waist の語源は中英語 wast に遡るが、確定した定説は無い。同音の waste ほど語源がはっきりしない点も、この2語の紛らわしさに拍車をかけている。`,keyPoints:[`waist と waste は同音 /weɪst/`,`waist＝名詞「腰・ウエスト」。waistline`,`waste＝動詞「無駄にする」／名詞「無駄・廃棄物」。wasteful/waste away`],quiz:[{id:`q-waist-1`,question:`空所に入る適切な語はどれですか。「Don't ( ) food; take only what you eat.（食べ物を無駄にしないで）」`,options:[`waste`,`waist`,`wait`,`wasted`],correctAnswer:0,explanation:`「無駄にする」は動詞 waste です。`},{id:`q-waist-2`,question:`「腰・ウエスト」という意味の語はどれですか。`,options:[`waist`,`waste`,`wait`,`waistes`],correctAnswer:0,explanation:`体の「腰・ウエスト」は waist /weɪst/ です。`},{id:`q-waist-3`,question:`waist と waste の発音の関係はどれですか。`,options:[`母音が違う`,`子音が違う`,`同じ発音（同音異義語）`,`アクセントが違う`],correctAnswer:2,explanation:`どちらも /weɪst/ で同音異義語です。`},{id:`q-waist-4`,question:`空所に入る適切な語はどれですか。「Factories must reduce their ( ).（工場は廃棄物を減らさねばならない）」`,options:[`waste`,`waist`,`wait`,`waists`],correctAnswer:0,explanation:`「廃棄物・ごみ」は名詞 waste です。`},{id:`q-waist-5`,question:`体の部位（胴のくびれ）を指すのはどちらですか。`,options:[`waist`,`waste`,`どちらも`,`どちらも違う`],correctAnswer:0,explanation:`体の「腰・くびれ」は waist。waste は無駄・廃棄物です。`}]},{id:`later-latter`,title:`later と latter`,chapter:1,description:`t の数が違う。later /ˈleɪtər/「後で」（時間）、latter /ˈlætər/「後者」（前者に対する）。`,content:`## 意味と発音で見分ける
 
 **t がひとつ（later）かふたつ（latter）**かで、意味も発音も変わります。
 
@@ -2867,7 +2883,15 @@ boring（退屈させる、退屈な）は原因側、bored（退屈させられ
 
 ### mail の複合語で判別を強化
 
-**mail 系**：**e-mail**（電子メール）は今や mail 単独より使用頻度が高いほど定着した複合語です。**fan mail**（ファンレター）、**mailbox**（郵便受け）も、mail の「郵便・届くもの」という中心の意味から広がった語です。**male はこの種の複合語をあまり作らず、female との対比で使われる点が対照的**です。`,keyPoints:[`male と mail は同音 /meɪl/`,`male＝男性の・オスの（反対は female）`,`mail＝郵便（物）・（郵便で）送る。e-mail/mailbox/fan mail`],quiz:[{id:`q-male-1`,question:`空所に入る適切な語はどれですか。「Please ( ) the documents to our office.（書類を事務所へ郵送して）」`,options:[`mail`,`male`,`males`,`mailed'`],correctAnswer:0,explanation:`「郵送する」は動詞 mail です。`},{id:`q-male-2`,question:`「男性の・オスの」という意味の語はどれですか。`,options:[`mail`,`mails`,`male`,`mailed`],correctAnswer:2,explanation:`「男性の・オスの」は male /meɪl/ です（反対 female）。`},{id:`q-male-3`,question:`male と mail の発音の関係はどれですか。`,options:[`母音が違う`,`子音が違う`,`同じ発音（同音異義語）`,`アクセントが違う`],correctAnswer:2,explanation:`どちらも /meɪl/ で同音異義語です。`},{id:`q-male-4`,question:`空所に入る適切な語はどれですか。「The survey asked for your age and ( ).（調査は年齢と性別を尋ねた）」`,options:[`mail`,`mails`,`male`,`mailed`],correctAnswer:2,explanation:`性別（male/female）の male です。`},{id:`q-male-5`,question:`「郵便（物）」を意味するのはどちらですか。`,options:[`mail`,`male`,`どちらも`,`どちらも違う`],correctAnswer:0,explanation:`郵便は mail。male は「男性・オス」です。`}]},{id:`decent-descent`,title:`decent と descent`,chapter:1,description:`つづりが紛らわしい。decent /ˈdiːsənt/「きちんとした・まともな」（形容詞）、descent /dɪˈsɛnt/「下降・降下・家系」（名詞）。`,content:`## 品詞と発音で見分ける
+**mail 系**：**e-mail**（電子メール）は今や mail 単独より使用頻度が高いほど定着した複合語です。**fan mail**（ファンレター）、**mailbox**（郵便受け）も、mail の「郵便・届くもの」という中心の意味から広がった語です。**male はこの種の複合語をあまり作らず、female との対比で使われる点が対照的**です。
+
+### chainmail の mail は郵便の mail とまったく別の語
+
+鎖かたびら（chainmail）の mail は古フランス語 maille（網の目）、ラテン語 macula（網目・斑点）に由来する語で、郵便を意味する mail（バッグを意味するフランス語由来）とはまったく別の語源を持つ。偶然同じ綴り・発音になった全くの別語である。
+
+### male は masculine と同じ語根
+
+male はラテン語 masculus（mas「男性」の指小形）に由来し、masculine（男性的な）と同じ語根を共有する。`,keyPoints:[`male と mail は同音 /meɪl/`,`male＝男性の・オスの（反対は female）`,`mail＝郵便（物）・（郵便で）送る。e-mail/mailbox/fan mail`],quiz:[{id:`q-male-1`,question:`空所に入る適切な語はどれですか。「Please ( ) the documents to our office.（書類を事務所へ郵送して）」`,options:[`mail`,`male`,`males`,`mailed'`],correctAnswer:0,explanation:`「郵送する」は動詞 mail です。`},{id:`q-male-2`,question:`「男性の・オスの」という意味の語はどれですか。`,options:[`mail`,`mails`,`male`,`mailed`],correctAnswer:2,explanation:`「男性の・オスの」は male /meɪl/ です（反対 female）。`},{id:`q-male-3`,question:`male と mail の発音の関係はどれですか。`,options:[`母音が違う`,`子音が違う`,`同じ発音（同音異義語）`,`アクセントが違う`],correctAnswer:2,explanation:`どちらも /meɪl/ で同音異義語です。`},{id:`q-male-4`,question:`空所に入る適切な語はどれですか。「The survey asked for your age and ( ).（調査は年齢と性別を尋ねた）」`,options:[`mail`,`mails`,`male`,`mailed`],correctAnswer:2,explanation:`性別（male/female）の male です。`},{id:`q-male-5`,question:`「郵便（物）」を意味するのはどちらですか。`,options:[`mail`,`male`,`どちらも`,`どちらも違う`],correctAnswer:0,explanation:`郵便は mail。male は「男性・オス」です。`}]},{id:`decent-descent`,title:`decent と descent`,chapter:1,description:`つづりが紛らわしい。decent /ˈdiːsənt/「きちんとした・まともな」（形容詞）、descent /dɪˈsɛnt/「下降・降下・家系」（名詞）。`,content:`## 品詞と発音で見分ける
 
 つづりが似ていますが、**アクセントと母音**、意味と品詞が違います。
 
@@ -2931,7 +2955,15 @@ wage は古フランス語 gage（担保・誓約）と同じ語源を持ち、�
 
 ### custom / habit の複合語で判別を強化
 
-**custom 系**：複数形 **customs**（税関）は、空港などで見る **go through customs**（税関を通る）のように、custom とは別の顔を持つ語です（もとは「慣習的に納める税」の意）。**habit 系**：形容詞 **habitual**（習慣的な）、慣用句 **kick the habit**（悪習を断つ）は、habit の中心の意味から広がった表現です。`,keyPoints:[`custom＝社会・集団の慣習・風習・しきたり。複数customs（税関）は別語義`,`habit＝個人の癖・習慣（無意識に繰り返す）。habitual/kick the habit`,`文化なら custom、個人の癖なら habit`],quiz:[{id:`q-custom-1`,question:`空所に入る適切な語はどれですか。「He has a ( ) of tapping his pen.（彼はペンを叩く癖がある）」`,options:[`custom`,`customs`,`habitual`,`habit`],correctAnswer:3,explanation:`個人の「癖」は habit です。`},{id:`q-custom-2`,question:`「（社会・地域の）慣習・風習」を表す語はどれですか。`,options:[`habit`,`habits`,`habitat`,`custom`],correctAnswer:3,explanation:`社会の「慣習・風習」は custom です。`},{id:`q-custom-3`,question:`空所に入る適切な語はどれですか。「Removing shoes indoors is a local ( ).（屋内で靴を脱ぐのは土地の習慣だ）」`,options:[`habit`,`habits`,`habitat`,`custom`],correctAnswer:3,explanation:`地域の「習慣・しきたり」は custom です。`},{id:`q-custom-4`,question:`個人が無意識に繰り返す「癖」を表すのはどちらですか。`,options:[`custom`,`habit`,`どちらも`,`どちらも違う`],correctAnswer:1,explanation:`個人の癖は habit。社会の慣習は custom です。`},{id:`q-custom-5`,question:`空所に入る適切な語はどれですか。「I'm trying to break the ( ) of eating late.（夜遅く食べる習慣を直そうとしている）」`,options:[`custom`,`customs`,`customary`,`habit`],correctAnswer:3,explanation:`個人の「習慣・癖（を直す）」は break the habit です。`}]},{id:`shade-shadow`,title:`shade と shadow`,chapter:2,description:`shade は「（光の当たらない）日陰・色合い」、shadow は「（物体がつくる輪郭のある）影」。`,content:`## 日陰か、輪郭のある影かで見分ける
+**custom 系**：複数形 **customs**（税関）は、空港などで見る **go through customs**（税関を通る）のように、custom とは別の顔を持つ語です（もとは「慣習的に納める税」の意）。**habit 系**：形容詞 **habitual**（習慣的な）、慣用句 **kick the habit**（悪習を断つ）は、habit の中心の意味から広がった表現です。
+
+### custom・customer・customs は同じラテン語 consuetudinem に遡る
+
+custom（慣習）・customer（顧客）・customs（税関）はいずれもラテン語 consuetudinem（習慣・慣行）に遡る同根語である。customer はもともと14世紀に「税関吏」を意味し、その後「買い手」の意味に転じた。慣習を意味する custom と税関を意味する customs が同じ語から枝分かれしたのは、「習慣的に通う・習慣的に納める」という共通のイメージによる。
+
+### habit はもともと修道士の衣服を意味した
+
+habit はラテン語 habitus（状態・身なり）、動詞 habere（持つ・身につける）に由来し、13世紀の英語では修道士や聖職者の特徴的な衣服を指す語として使われていた。「その人の外見・身につけているもの」から「その人の状態・ふるまい」へ、さらに「繰り返す行動パターン」へと意味が広がった。今も a riding habit（乗馬服）のように衣服の意味が残っている。`,keyPoints:[`custom＝社会・集団の慣習・風習・しきたり。複数customs（税関）は別語義`,`habit＝個人の癖・習慣（無意識に繰り返す）。habitual/kick the habit`,`文化なら custom、個人の癖なら habit`],quiz:[{id:`q-custom-1`,question:`空所に入る適切な語はどれですか。「He has a ( ) of tapping his pen.（彼はペンを叩く癖がある）」`,options:[`custom`,`customs`,`habitual`,`habit`],correctAnswer:3,explanation:`個人の「癖」は habit です。`},{id:`q-custom-2`,question:`「（社会・地域の）慣習・風習」を表す語はどれですか。`,options:[`habit`,`habits`,`habitat`,`custom`],correctAnswer:3,explanation:`社会の「慣習・風習」は custom です。`},{id:`q-custom-3`,question:`空所に入る適切な語はどれですか。「Removing shoes indoors is a local ( ).（屋内で靴を脱ぐのは土地の習慣だ）」`,options:[`habit`,`habits`,`habitat`,`custom`],correctAnswer:3,explanation:`地域の「習慣・しきたり」は custom です。`},{id:`q-custom-4`,question:`個人が無意識に繰り返す「癖」を表すのはどちらですか。`,options:[`custom`,`habit`,`どちらも`,`どちらも違う`],correctAnswer:1,explanation:`個人の癖は habit。社会の慣習は custom です。`},{id:`q-custom-5`,question:`空所に入る適切な語はどれですか。「I'm trying to break the ( ) of eating late.（夜遅く食べる習慣を直そうとしている）」`,options:[`custom`,`customs`,`customary`,`habit`],correctAnswer:3,explanation:`個人の「習慣・癖（を直す）」は break the habit です。`}]},{id:`shade-shadow`,title:`shade と shadow`,chapter:2,description:`shade は「（光の当たらない）日陰・色合い」、shadow は「（物体がつくる輪郭のある）影」。`,content:`## 日陰か、輪郭のある影かで見分ける
 
 どちらも光と関係しますが、指すものが違います。
 
@@ -3872,7 +3904,15 @@ regretfully（後悔しながら・すまなそうに）は動作の様子を表
 
 ### band / banned の複合語で判別を強化
 
-**band 系**：複合語 **a wedding band**（結婚指輪）、**a rubber band**（輪ゴム）は、band の「輪・帯」という中心の意味そのものです。**banned 系**：**an outright ban**（全面禁止）、**a ban on** ~（〜への禁止）のように、名詞 ban とセットで使われる形もよく見ます。`,keyPoints:[`band と banned は同音 /bænd/`,`band＝楽団・バンド／帯・ひも／集団（名詞）。wedding band/rubber band`,`banned＝ban の過去分詞「禁止された」（n がふたつ）。an outright ban/a ban on ~`],quiz:[{id:`q-band-1`,question:`空所に入る適切な語はどれですか。「Plastic bags were ( ) in the city.（市ではレジ袋が禁止された）」`,options:[`band`,`bands`,`banding`,`banned`],correctAnswer:3,explanation:`「禁止された」は ban の過去分詞 banned です。`},{id:`q-band-2`,question:`「楽団・バンド／帯」という意味の名詞はどれですか。`,options:[`band`,`banned`,`bans`,`banning`],correctAnswer:0,explanation:`「楽団・帯」は band です。`},{id:`q-band-3`,question:`band と banned の発音の関係はどれですか。`,options:[`母音が違う`,`子音が違う`,`同じ発音（同音異義語）`,`アクセントが違う`],correctAnswer:2,explanation:`どちらも /bænd/ で同音異義語です。`},{id:`q-band-4`,question:`空所に入る適切な語はどれですか。「She joined a jazz ( ) at college.（大学でジャズバンドに入った）」`,options:[`band`,`banned`,`bans`,`banning`],correctAnswer:0,explanation:`音楽の「バンド」は band です。`},{id:`q-band-5`,question:`ban（禁止する）の過去分詞「禁止された」を意味するのはどちらですか。`,options:[`band`,`banned`,`どちらも`,`どちらも違う`],correctAnswer:1,explanation:`banned が ban の過去分詞。band は「楽団・帯」です。`}]},{id:`cereal-serial`,title:`cereal と serial`,chapter:4,description:`同音 /ˈsɪəriəl/。cereal「穀物・シリアル（食品）」、serial「連続的な・連載の」。意味とスペルで判断。`,content:`## 音は同じ、意味とスペルで見分ける
+**band 系**：複合語 **a wedding band**（結婚指輪）、**a rubber band**（輪ゴム）は、band の「輪・帯」という中心の意味そのものです。**banned 系**：**an outright ban**（全面禁止）、**a ban on** ~（〜への禁止）のように、名詞 ban とセットで使われる形もよく見ます。
+
+### ban は banns（結婚の公示）と同じ語源
+
+ban は古英語 bannan（公に告げる・布告する）に由来し、教会で結婚を公示する banns（結婚予告の公示）と同じ語源を持つ。「公に宣言する」という原義から、「禁止を宣言する」という現代の意味が枝分かれした。
+
+### band と bond は同じ語源から分かれた語
+
+band（帯・集団）は古ノルド語由来の語で、「縛るもの・結びつけるもの」を意味する bond（絆・拘束）と同じ語源から分かれたとされる。輪ゴムや指輪のような「物を束ねる帯」の意味と、人と人を結びつける抽象的な「絆」の意味が、根っこでつながっている。`,keyPoints:[`band と banned は同音 /bænd/`,`band＝楽団・バンド／帯・ひも／集団（名詞）。wedding band/rubber band`,`banned＝ban の過去分詞「禁止された」（n がふたつ）。an outright ban/a ban on ~`],quiz:[{id:`q-band-1`,question:`空所に入る適切な語はどれですか。「Plastic bags were ( ) in the city.（市ではレジ袋が禁止された）」`,options:[`band`,`bands`,`banding`,`banned`],correctAnswer:3,explanation:`「禁止された」は ban の過去分詞 banned です。`},{id:`q-band-2`,question:`「楽団・バンド／帯」という意味の名詞はどれですか。`,options:[`band`,`banned`,`bans`,`banning`],correctAnswer:0,explanation:`「楽団・帯」は band です。`},{id:`q-band-3`,question:`band と banned の発音の関係はどれですか。`,options:[`母音が違う`,`子音が違う`,`同じ発音（同音異義語）`,`アクセントが違う`],correctAnswer:2,explanation:`どちらも /bænd/ で同音異義語です。`},{id:`q-band-4`,question:`空所に入る適切な語はどれですか。「She joined a jazz ( ) at college.（大学でジャズバンドに入った）」`,options:[`band`,`banned`,`bans`,`banning`],correctAnswer:0,explanation:`音楽の「バンド」は band です。`},{id:`q-band-5`,question:`ban（禁止する）の過去分詞「禁止された」を意味するのはどちらですか。`,options:[`band`,`banned`,`どちらも`,`どちらも違う`],correctAnswer:1,explanation:`banned が ban の過去分詞。band は「楽団・帯」です。`}]},{id:`cereal-serial`,title:`cereal と serial`,chapter:4,description:`同音 /ˈsɪəriəl/。cereal「穀物・シリアル（食品）」、serial「連続的な・連載の」。意味とスペルで判断。`,content:`## 音は同じ、意味とスペルで見分ける
 
 **cereal と serial は同じ発音 /ˈsɪəriəl/（同音異義語）**。意味とスペルで決めます。
 
@@ -4105,7 +4145,15 @@ vane は風見鶏（weather vane）だけでなく、風力や水力を受けて
 
 ### mist / missed の派生語で判別を強化
 
-**mist 系**：形容詞 **misty**（霧のかかった）、句動詞 **mist over**（（窓・目が）曇る・涙で潤む）は、mist の中心の意味そのものから広がった語です。**missed 系**：句動詞 **miss out on** ~（（機会などを）逃す・逸する）は、miss の「逃す」という意味をそのまま使う頻出表現です。`,keyPoints:[`mist と missed は同音 /mɪst/`,`mist＝名詞「霧・かすみ」（fog より薄い）。misty/mist over`,`missed＝miss の過去「逃した・恋しく思った」。miss out on`],quiz:[{id:`q-mist-1`,question:`空所に入る適切な語はどれですか。「Sorry I'm late; I ( ) the bus.（遅れてごめん、バスに乗り遅れた）」`,options:[`missed`,`mist`,`mists`,`missing`],correctAnswer:0,explanation:`「乗り遅れた・逃した」は miss の過去 missed です。`},{id:`q-mist-2`,question:`「霧・かすみ」という意味の名詞はどれですか。`,options:[`mist`,`missed`,`missing`,`misses`],correctAnswer:0,explanation:`「霧」は mist /mɪst/ です。`},{id:`q-mist-3`,question:`mist と missed の発音の関係はどれですか。`,options:[`母音が違う`,`子音が違う`,`同じ発音（同音異義語）`,`アクセントが違う`],correctAnswer:2,explanation:`どちらも /mɪst/ で同音異義語です。`},{id:`q-mist-4`,question:`空所に入る適切な語はどれですか。「She really ( ) her family back home.（彼女は故郷の家族をとても恋しく思った）」`,options:[`missed`,`mist`,`mists`,`missing`],correctAnswer:0,explanation:`「恋しく思った」は miss の過去 missed です。`},{id:`q-mist-5`,question:`天気の「霧・かすみ」を意味するのはどちらですか。`,options:[`mist`,`missed`,`どちらも`,`どちらも違う`],correctAnswer:0,explanation:`霧は mist。missed は「逃した」です。`}]},{id:`aisle-isle`,title:`aisle と isle`,chapter:4,description:`同音 /aɪl/。aisle「（座席・棚の間の）通路」、isle「島」。どちらも黙字を含む同音異義語。`,content:`## 音は同じ、意味とスペルで見分ける
+**mist 系**：形容詞 **misty**（霧のかかった）、句動詞 **mist over**（（窓・目が）曇る・涙で潤む）は、mist の中心の意味そのものから広がった語です。**missed 系**：句動詞 **miss out on** ~（（機会などを）逃す・逸する）は、miss の「逃す」という意味をそのまま使う頻出表現です。
+
+### ドイツ語の Mist は「霧」ではなく「肥やし・くだらないもの」
+
+英語の mist（霧）と綴りがほぼ同じドイツ語 Mist は、まったく違う意味で「肥やし・堆肥」、口語では「くだらないもの・がらくた」を指す。見た目が似ている単語が別の言語では正反対に近い意味を持つ「false friend（偽の友人）」の代表例。
+
+### Miss は mistress の短縮形
+
+未婚女性の敬称 Miss は、17世紀に mistress（当時は既婚・未婚を問わない女性への敬称）が短縮されてできた語で、動詞 miss（逃す・恋しく思う）とは語源が異なる。`,keyPoints:[`mist と missed は同音 /mɪst/`,`mist＝名詞「霧・かすみ」（fog より薄い）。misty/mist over`,`missed＝miss の過去「逃した・恋しく思った」。miss out on`],quiz:[{id:`q-mist-1`,question:`空所に入る適切な語はどれですか。「Sorry I'm late; I ( ) the bus.（遅れてごめん、バスに乗り遅れた）」`,options:[`missed`,`mist`,`mists`,`missing`],correctAnswer:0,explanation:`「乗り遅れた・逃した」は miss の過去 missed です。`},{id:`q-mist-2`,question:`「霧・かすみ」という意味の名詞はどれですか。`,options:[`mist`,`missed`,`missing`,`misses`],correctAnswer:0,explanation:`「霧」は mist /mɪst/ です。`},{id:`q-mist-3`,question:`mist と missed の発音の関係はどれですか。`,options:[`母音が違う`,`子音が違う`,`同じ発音（同音異義語）`,`アクセントが違う`],correctAnswer:2,explanation:`どちらも /mɪst/ で同音異義語です。`},{id:`q-mist-4`,question:`空所に入る適切な語はどれですか。「She really ( ) her family back home.（彼女は故郷の家族をとても恋しく思った）」`,options:[`missed`,`mist`,`mists`,`missing`],correctAnswer:0,explanation:`「恋しく思った」は miss の過去 missed です。`},{id:`q-mist-5`,question:`天気の「霧・かすみ」を意味するのはどちらですか。`,options:[`mist`,`missed`,`どちらも`,`どちらも違う`],correctAnswer:0,explanation:`霧は mist。missed は「逃した」です。`}]},{id:`aisle-isle`,title:`aisle と isle`,chapter:4,description:`同音 /aɪl/。aisle「（座席・棚の間の）通路」、isle「島」。どちらも黙字を含む同音異義語。`,content:`## 音は同じ、意味とスペルで見分ける
 
 **aisle と isle は同じ発音 /aɪl/（同音異義語）**。どちらも読まない字を含みます（aisle の s、isle の s は無音）。
 
@@ -4291,7 +4339,15 @@ borne by ~（〜によって負担された）という形は、The cost was bor
 
 ### stake / steak の派生語で判別を強化
 
-**stake 系**：ビジネス用語 **a stakeholder**（利害関係者）、慣用句 **raise the stakes**（賭け金・リスクを上げる）は、stake の「利害・賭け金」という中心の意味そのものです。**steak 系**：**a steak knife**（ステーキナイフ）のように、steak は食卓の道具名にもよく使われます。`,keyPoints:[`stake と steak は同音 /steɪk/`,`stake＝杭／賭け金／利害（at stake＝危機にさらされて）。stakeholder/raise the stakes`,`steak＝ステーキ（厚切りの肉・魚）。steak knife`],quiz:[{id:`q-stake-1`,question:`空所に入る適切な語はどれですか。「He grilled a juicy ( ) for dinner.（夕食にジューシーなステーキを焼いた）」`,options:[`stake`,`stakes`,`steak`,`steaks'`],correctAnswer:2,explanation:`食べ物の「ステーキ」は steak です。`},{id:`q-stake-2`,question:`「杭／賭け金／利害」という意味の名詞はどれですか。`,options:[`stake`,`steak`,`steaks`,`staked`],correctAnswer:0,explanation:`「杭・賭け・利害」は stake です。`},{id:`q-stake-3`,question:`stake と steak の発音の関係はどれですか。`,options:[`母音が違う`,`子音が違う`,`同じ発音（同音異義語）`,`アクセントが違う`],correctAnswer:2,explanation:`どちらも /steɪk/ で同音異義語です。`},{id:`q-stake-4`,question:`空所に入る適切な語はどれですか。「The company's future is at ( ).（会社の将来が危機にさらされている）」`,options:[`stake`,`steak`,`steaks`,`staked`],correctAnswer:0,explanation:`成句 at stake「危機にさらされて」の stake です。`},{id:`q-stake-5`,question:`厚切りの「肉（ステーキ）」を意味するのはどちらですか。`,options:[`steak`,`stake`,`どちらも`,`どちらも違う`],correctAnswer:0,explanation:`ステーキは steak。stake は杭・賭け・利害です。`}]},{id:`which-witch`,title:`which と witch`,chapter:4,description:`同音 /wɪtʃ/。which「どちら・どれ（疑問・関係）」、witch「魔女」（名詞）。意味と品詞で判断。`,content:`## 音は同じ、意味と品詞で見分ける
+**stake 系**：ビジネス用語 **a stakeholder**（利害関係者）、慣用句 **raise the stakes**（賭け金・リスクを上げる）は、stake の「利害・賭け金」という中心の意味そのものです。**steak 系**：**a steak knife**（ステーキナイフ）のように、steak は食卓の道具名にもよく使われます。
+
+### steak はノルド語で「串刺しにする」を意味した
+
+steak は古ノルド語 steik（あぶり肉）、動詞 steikja（串に刺して焼く）に由来する借用語で、もとは「突き刺したもの」を意味した。中世にイングランド北部の方言として英語に取り込まれた。
+
+### stakeholder はもともと賭け金を預かる人を指した
+
+stakeholder は1700年代初頭、賭けの当事者双方から賭け金（stake）を預かって保管する第三者を指す語として生まれた。「利害関係者」という現代のビジネス用語としての意味は1960年代以降に定着したもので、原義の「賭け金を持つ人」からは大きく意味が広がっている。`,keyPoints:[`stake と steak は同音 /steɪk/`,`stake＝杭／賭け金／利害（at stake＝危機にさらされて）。stakeholder/raise the stakes`,`steak＝ステーキ（厚切りの肉・魚）。steak knife`],quiz:[{id:`q-stake-1`,question:`空所に入る適切な語はどれですか。「He grilled a juicy ( ) for dinner.（夕食にジューシーなステーキを焼いた）」`,options:[`stake`,`stakes`,`steak`,`steaks'`],correctAnswer:2,explanation:`食べ物の「ステーキ」は steak です。`},{id:`q-stake-2`,question:`「杭／賭け金／利害」という意味の名詞はどれですか。`,options:[`stake`,`steak`,`steaks`,`staked`],correctAnswer:0,explanation:`「杭・賭け・利害」は stake です。`},{id:`q-stake-3`,question:`stake と steak の発音の関係はどれですか。`,options:[`母音が違う`,`子音が違う`,`同じ発音（同音異義語）`,`アクセントが違う`],correctAnswer:2,explanation:`どちらも /steɪk/ で同音異義語です。`},{id:`q-stake-4`,question:`空所に入る適切な語はどれですか。「The company's future is at ( ).（会社の将来が危機にさらされている）」`,options:[`stake`,`steak`,`steaks`,`staked`],correctAnswer:0,explanation:`成句 at stake「危機にさらされて」の stake です。`},{id:`q-stake-5`,question:`厚切りの「肉（ステーキ）」を意味するのはどちらですか。`,options:[`steak`,`stake`,`どちらも`,`どちらも違う`],correctAnswer:0,explanation:`ステーキは steak。stake は杭・賭け・利害です。`}]},{id:`which-witch`,title:`which と witch`,chapter:4,description:`同音 /wɪtʃ/。which「どちら・どれ（疑問・関係）」、witch「魔女」（名詞）。意味と品詞で判断。`,content:`## 音は同じ、意味と品詞で見分ける
 
 **which と witch は同じ発音 /wɪtʃ/（同音異義語）**。意味と品詞で決めます。
 
@@ -4603,7 +4659,15 @@ inn は現代の大型ホテルではなく、**昔ながらの小さな宿・�
 
 ### hanger の比喩表現で判別を強化
 
-**hanger 系**：**a coat hanger**（コートハンガー）のような日用品の複合語に加え、軽蔑的な口語表現 **a hanger-on**（（利益目当てで）くっついて離れない人・取り巻き）という比喩的な使い方もあります。**hangar は航空機専用の語**で、この種の比喩表現は作りません。`,keyPoints:[`hangar と hanger は同音 /ˈhæŋər/`,`hangar＝（飛行機の）格納庫（-ar）。比喩表現を作らない`,`hanger＝ハンガー・衣類掛け（hang+-er）。a hanger-on（取り巻き）`],quiz:[{id:`q-hangar-1`,question:`空所に入る適切な語はどれですか。「Please put the shirt on a ( ).（シャツをハンガーに掛けて）」`,options:[`hangar`,`hanger`,`hangars`,`hangered'`],correctAnswer:1,explanation:`衣類の「ハンガー」は hanger（hang+-er）です。`},{id:`q-hangar-2`,question:`「（飛行機の）格納庫」という意味の語はどれですか。`,options:[`hanger`,`hangar`,`hangers`,`hanging`],correctAnswer:1,explanation:`「格納庫」は hangar（-ar）です。`},{id:`q-hangar-3`,question:`hangar と hanger の発音の関係はどれですか。`,options:[`母音が違う`,`子音が違う`,`同じ発音（同音異義語）`,`アクセントが違う`],correctAnswer:2,explanation:`どちらも /ˈhæŋər/ で同音異義語です。`},{id:`q-hangar-4`,question:`空所に入る適切な語はどれですか。「The mechanics worked in the aircraft ( ).（整備士は航空機格納庫で作業した）」`,options:[`hanger`,`hangar`,`hangers`,`hanging`],correctAnswer:1,explanation:`航空機の「格納庫」は hangar です。`},{id:`q-hangar-5`,question:`服を掛ける「ハンガー」を意味するのはどちらですか。`,options:[`hangar`,`hanger`,`どちらも`,`どちらも違う`],correctAnswer:1,explanation:`ハンガーは hanger。hangar は「格納庫」です。`}]},{id:`emigrate-immigrate`,title:`emigrate と immigrate`,chapter:2,description:`向きが逆。emigrate は「（自国から）出ていく」（emigrate from）、immigrate は「（他国へ）入ってくる」（immigrate to）。`,content:`## 出るか入るかで見分ける
+**hanger 系**：**a coat hanger**（コートハンガー）のような日用品の複合語に加え、軽蔑的な口語表現 **a hanger-on**（（利益目当てで）くっついて離れない人・取り巻き）という比喩的な使い方もあります。**hangar は航空機専用の語**で、この種の比喩表現は作りません。
+
+### hangar はフランク語で「家の囲い地」を意味した
+
+hangar はフランス語 hangar（小屋・格納庫）を経て、古フランク語 haimgard（haim「家・村」+ gard「囲い地」）に由来する。「飛行機の格納庫」という意味で英語に定着したのは1902年と比較的新しく、hang（掛ける）に由来する hanger とは語源も成り立ちもまったく異なる。
+
+### 針金ハンガーは1903年に社員が即興で発明した
+
+現在も広く使われる針金ハンガーは、1903年にアメリカ・ミシガン州の会社員アルバート・パークハウスが、コート掛けのフックが全て使用中だったため、手近な針金を曲げて即席で作ったのが始まりとされる。特許は雇い主の会社が取得した。`,keyPoints:[`hangar と hanger は同音 /ˈhæŋər/`,`hangar＝（飛行機の）格納庫（-ar）。比喩表現を作らない`,`hanger＝ハンガー・衣類掛け（hang+-er）。a hanger-on（取り巻き）`],quiz:[{id:`q-hangar-1`,question:`空所に入る適切な語はどれですか。「Please put the shirt on a ( ).（シャツをハンガーに掛けて）」`,options:[`hangar`,`hanger`,`hangars`,`hangered'`],correctAnswer:1,explanation:`衣類の「ハンガー」は hanger（hang+-er）です。`},{id:`q-hangar-2`,question:`「（飛行機の）格納庫」という意味の語はどれですか。`,options:[`hanger`,`hangar`,`hangers`,`hanging`],correctAnswer:1,explanation:`「格納庫」は hangar（-ar）です。`},{id:`q-hangar-3`,question:`hangar と hanger の発音の関係はどれですか。`,options:[`母音が違う`,`子音が違う`,`同じ発音（同音異義語）`,`アクセントが違う`],correctAnswer:2,explanation:`どちらも /ˈhæŋər/ で同音異義語です。`},{id:`q-hangar-4`,question:`空所に入る適切な語はどれですか。「The mechanics worked in the aircraft ( ).（整備士は航空機格納庫で作業した）」`,options:[`hanger`,`hangar`,`hangers`,`hanging`],correctAnswer:1,explanation:`航空機の「格納庫」は hangar です。`},{id:`q-hangar-5`,question:`服を掛ける「ハンガー」を意味するのはどちらですか。`,options:[`hangar`,`hanger`,`どちらも`,`どちらも違う`],correctAnswer:1,explanation:`ハンガーは hanger。hangar は「格納庫」です。`}]},{id:`emigrate-immigrate`,title:`emigrate と immigrate`,chapter:2,description:`向きが逆。emigrate は「（自国から）出ていく」（emigrate from）、immigrate は「（他国へ）入ってくる」（immigrate to）。`,content:`## 出るか入るかで見分ける
 
 同じ移住でも、視点の向きが逆です。
 
