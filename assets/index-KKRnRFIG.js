@@ -938,7 +938,15 @@ bleeding edge（最先端）という言い方もあり、cutting edge（最先�
 
 ### grow / glow の派生語で判別を強化
 
-**grow 系**：句動詞 **grow up**（成長する・大人になる）、名詞 **a grown-up**（大人）、複合語 **outgrow**（（服などが）着られなくなるほど大きくなる・〜より大きく育つ）、名詞 **growth**（成長・増加）。**glow 系**：形容詞 **aglow**（輝いて）は Her face was aglow with joy.（彼女の顔は喜びで輝いていた）のように使い、glow の「光る」という中心の意味そのものです。`,keyPoints:[`grow /ɡroʊ/＝成長する・育つ・増える（grow-grew-grown）。grow up/outgrow`,`glow /ɡloʊ/＝輝く・赤熱する。形容詞aglow`,`g の直後が /r/ か /l/ か`],quiz:[{id:`q-grow-1`,question:`「（火や金属が）赤く光る・輝く」という意味の語はどれですか。`,options:[`grow`,`grew`,`gloom`,`glow`],correctAnswer:3,explanation:`glow /ɡloʊ/ が「輝く・赤熱する」。grow は「成長する」です。`},{id:`q-grow-2`,question:`空所に入る適切な語はどれですか。「Children ( ) quickly.（子どもは早く成長する）」`,options:[`glow`,`grow`,`glew`,`gloom`],correctAnswer:1,explanation:`「成長する」は grow（/r/）。`},{id:`q-grow-3`,question:`grow と glow を分けている音の違いはどれですか。`,options:[`母音の違い`,`語尾の違い`,`アクセント`,`子音 /r/ と /l/`],correctAnswer:3,explanation:`grow は /r/、glow は /l/ の対立です。`},{id:`q-grow-4`,question:`grow の過去形はどれですか。`,options:[`growed`,`grew`,`grown`,`glew`],correctAnswer:1,explanation:`grow-grew-grown。過去形は grew です。`},{id:`q-grow-5`,question:`空所に入る適切な語はどれですか。「Her face began to ( ) with happiness.（彼女の顔は幸せで輝き始めた）」`,options:[`grow`,`grew`,`grown`,`glow`],correctAnswer:3,explanation:`「輝く」は glow。比喩的に「（感情で）顔が輝く」にも使います。`}]},{id:`flow-flaw`,title:`flow と flaw`,chapter:4,description:`母音 /oʊ/ と /ɔː/ の違い。flow /floʊ/「流れる」、flaw /flɔː/「欠点・きず」。`,content:`## 音のちがいで見分ける
+**grow 系**：句動詞 **grow up**（成長する・大人になる）、名詞 **a grown-up**（大人）、複合語 **outgrow**（（服などが）着られなくなるほど大きくなる・〜より大きく育つ）、名詞 **growth**（成長・増加）。**glow 系**：形容詞 **aglow**（輝いて）は Her face was aglow with joy.（彼女の顔は喜びで輝いていた）のように使い、glow の「光る」という中心の意味そのものです。
+
+### grow は green・grass と同じ印欧祖語の語根
+
+grow は印欧祖語の語根 *ghre-（成長する・緑になる）に遡り、green（緑）・grass（草）と同じ語根を共有する。「緑になる・芽吹く」という原義が、そのまま「成長する」という現代の意味になっている。
+
+### glow は gold と同じ「輝く」を意味する語根から生まれた
+
+glow はゲルマン祖語 *glo-（輝く）に由来し、さらに印欧祖語の語根 *ghel-（輝く）に遡る。この語根は gold（金）のような「輝く素材」を表す語の系統にもつながっているとされ、赤熱して光を放つ glow の中心イメージと重なる。`,keyPoints:[`grow /ɡroʊ/＝成長する・育つ・増える（grow-grew-grown）。grow up/outgrow`,`glow /ɡloʊ/＝輝く・赤熱する。形容詞aglow`,`g の直後が /r/ か /l/ か`],quiz:[{id:`q-grow-1`,question:`「（火や金属が）赤く光る・輝く」という意味の語はどれですか。`,options:[`grow`,`grew`,`gloom`,`glow`],correctAnswer:3,explanation:`glow /ɡloʊ/ が「輝く・赤熱する」。grow は「成長する」です。`},{id:`q-grow-2`,question:`空所に入る適切な語はどれですか。「Children ( ) quickly.（子どもは早く成長する）」`,options:[`glow`,`grow`,`glew`,`gloom`],correctAnswer:1,explanation:`「成長する」は grow（/r/）。`},{id:`q-grow-3`,question:`grow と glow を分けている音の違いはどれですか。`,options:[`母音の違い`,`語尾の違い`,`アクセント`,`子音 /r/ と /l/`],correctAnswer:3,explanation:`grow は /r/、glow は /l/ の対立です。`},{id:`q-grow-4`,question:`grow の過去形はどれですか。`,options:[`growed`,`grew`,`grown`,`glew`],correctAnswer:1,explanation:`grow-grew-grown。過去形は grew です。`},{id:`q-grow-5`,question:`空所に入る適切な語はどれですか。「Her face began to ( ) with happiness.（彼女の顔は幸せで輝き始めた）」`,options:[`grow`,`grew`,`grown`,`glow`],correctAnswer:3,explanation:`「輝く」は glow。比喩的に「（感情で）顔が輝く」にも使います。`}]},{id:`flow-flaw`,title:`flow と flaw`,chapter:4,description:`母音 /oʊ/ と /ɔː/ の違い。flow /floʊ/「流れる」、flaw /flɔː/「欠点・きず」。`,content:`## 音のちがいで見分ける
 
 子音は同じ fl-。違うのは**母音 /oʊ/ と /ɔː/** です。
 
@@ -1416,7 +1424,15 @@ except は except that ~（〜という点を除いて）という形で節を�
 
 ### weak / week の派生語で判別を強化
 
-**weak 系**：動詞 **weaken**（弱める・弱まる）、名詞 **weakness**（弱点・弱さ）は、weak の中心の意味そのものから作られた語です。**week 系**：複合語 **weekday**（平日）・**weekend**（週末）、形容詞 **weekly**（週1回の・週刊の＝a weekly magazine）は、week の「週」という意味から広がった語です。`,keyPoints:[`weak と week は同音 /wiːk/`,`weak＝形容詞「弱い」（反対は strong）。weaken/weakness`,`week＝名詞「週」（ee で7日を連想）。weekday/weekend/weekly`],quiz:[{id:`q-weak-1`,question:`空所に入る適切な語はどれですか。「The coffee is too ( ) for me.（このコーヒーは私には薄すぎる）」`,options:[`weak`,`week`,`wake`,`weaken`],correctAnswer:0,explanation:`「薄い・弱い」は形容詞 weak です。`},{id:`q-weak-2`,question:`「週・1週間」という意味の語はどれですか。`,options:[`week`,`weak`,`wake`,`weekly`],correctAnswer:0,explanation:`名詞「週」は week /wiːk/ です。`},{id:`q-weak-3`,question:`空所に入る適切な語はどれですか。「The bridge was ( ) and unsafe.（その橋はもろくて危険だった）」`,options:[`weak`,`week`,`wake`,`weekly`],correctAnswer:0,explanation:`「もろい・弱い」は weak です。`},{id:`q-weak-4`,question:`weak と week の発音の関係はどれですか。`,options:[`母音が違う`,`子音が違う`,`同じ発音（同音異義語）`,`アクセントが違う`],correctAnswer:2,explanation:`どちらも /wiːk/ で同音異義語です。`},{id:`q-weak-5`,question:`空所に入る適切な語はどれですか。「We have a meeting once a ( ).（週に一度会議がある）」`,options:[`week`,`weak`,`wake`,`weakly`],correctAnswer:0,explanation:`「週」は week。a week で「週に」です。`}]},{id:`bring-take`,title:`bring と take`,chapter:2,description:`移動の向きで使い分ける。bring は話し手（や話題の中心）の方へ「持ってくる」、take はそこから離す方へ「持っていく」。`,content:`## 向きで見分ける
+**weak 系**：動詞 **weaken**（弱める・弱まる）、名詞 **weakness**（弱点・弱さ）は、weak の中心の意味そのものから作られた語です。**week 系**：複合語 **weekday**（平日）・**weekend**（週末）、形容詞 **weekly**（週1回の・週刊の＝a weekly magazine）は、week の「週」という意味から広がった語です。
+
+### weak は wicker（枝編み細工）と同じ語根
+
+weak は古ノルド語 veikr（しなやかな・弱い）に由来し、柳の枝などを編んだ籠を意味する wicker（枝編み細工）と同じ語根を持つ。「曲がりやすい・しなる」という原義から、「（力に）弱い・屈しやすい」という意味が生まれた。
+
+### 7日の week は古代の天体観測に由来する制度
+
+week という7日周期の単位そのものは、古代バビロニアで知られていた太陽・月・5惑星の計7天体に基づく暦の制度に由来するとされ、ユダヤ暦やローマ暦を通じて現在の暦に受け継がれた。`,keyPoints:[`weak と week は同音 /wiːk/`,`weak＝形容詞「弱い」（反対は strong）。weaken/weakness`,`week＝名詞「週」（ee で7日を連想）。weekday/weekend/weekly`],quiz:[{id:`q-weak-1`,question:`空所に入る適切な語はどれですか。「The coffee is too ( ) for me.（このコーヒーは私には薄すぎる）」`,options:[`weak`,`week`,`wake`,`weaken`],correctAnswer:0,explanation:`「薄い・弱い」は形容詞 weak です。`},{id:`q-weak-2`,question:`「週・1週間」という意味の語はどれですか。`,options:[`week`,`weak`,`wake`,`weekly`],correctAnswer:0,explanation:`名詞「週」は week /wiːk/ です。`},{id:`q-weak-3`,question:`空所に入る適切な語はどれですか。「The bridge was ( ) and unsafe.（その橋はもろくて危険だった）」`,options:[`weak`,`week`,`wake`,`weekly`],correctAnswer:0,explanation:`「もろい・弱い」は weak です。`},{id:`q-weak-4`,question:`weak と week の発音の関係はどれですか。`,options:[`母音が違う`,`子音が違う`,`同じ発音（同音異義語）`,`アクセントが違う`],correctAnswer:2,explanation:`どちらも /wiːk/ で同音異義語です。`},{id:`q-weak-5`,question:`空所に入る適切な語はどれですか。「We have a meeting once a ( ).（週に一度会議がある）」`,options:[`week`,`weak`,`wake`,`weakly`],correctAnswer:0,explanation:`「週」は week。a week で「週に」です。`}]},{id:`bring-take`,title:`bring と take`,chapter:2,description:`移動の向きで使い分ける。bring は話し手（や話題の中心）の方へ「持ってくる」、take はそこから離す方へ「持っていく」。`,content:`## 向きで見分ける
 
 どちらも物や人を移動させますが、**基準点（多くは話し手のいる場所）に近づけるか遠ざけるか**で使い分けます。
 
@@ -2201,7 +2217,15 @@ whole は食品表示でもよく見かけます。**whole wheat / whole grain**
 
 ### heal / heel の派生語で判別を強化
 
-**heal 系**：名詞 **healing**（治癒）、**a healer**（治療者）は、heal の中心の意味そのものです。**heel 系**：慣用句 **Achilles' heel**（唯一の弱点・急所）はギリシャ神話の英雄アキレスの故事に由来し、**head over heels**（（恋に）夢中で・まっさかさまに）も heel を使った定番の言い回しです。`,keyPoints:[`heal と heel は同音 /hiːl/`,`heal＝動詞「治す・癒える」（health の仲間）。healing/healer`,`heel＝名詞「かかと・靴のかかと」。Achilles' heel/head over heels`],quiz:[{id:`q-heal-1`,question:`空所に入る適切な語はどれですか。「These shoes have a high ( ).（この靴はかかとが高い）」`,options:[`heel`,`heal`,`heals`,`heels`],correctAnswer:0,explanation:`「かかと」は heel です。`},{id:`q-heal-2`,question:`「治す・（傷が）癒える」という意味の動詞はどれですか。`,options:[`heel`,`heil`,`hell`,`heal`],correctAnswer:3,explanation:`動詞「治す・癒える」は heal /hiːl/ です。`},{id:`q-heal-3`,question:`heal と heel の発音の関係はどれですか。`,options:[`母音が違う`,`子音が違う`,`同じ発音（同音異義語）`,`アクセントが違う`],correctAnswer:2,explanation:`どちらも /hiːl/ で同音異義語です。`},{id:`q-heal-4`,question:`空所に入る適切な語はどれですか。「Time will ( ) a broken heart.（時が傷心を癒すだろう）」`,options:[`heel`,`heil`,`held`,`heal`],correctAnswer:3,explanation:`「癒す」は heal です。`},{id:`q-heal-5`,question:`足の「かかと」を意味するのはどちらですか。`,options:[`heel`,`heal`,`どちらも`,`どちらも違う`],correctAnswer:0,explanation:`かかとは heel。heal は「治す」です。`}]},{id:`right-write`,title:`right と write`,chapter:4,description:`同音 /raɪt/。right「右・正しい・権利」、write「書く」（動詞）。意味とスペルで判断する同音異義語。`,content:`## 音は同じ、意味とスペルで見分ける
+**heal 系**：名詞 **healing**（治癒）、**a healer**（治療者）は、heal の中心の意味そのものです。**heel 系**：慣用句 **Achilles' heel**（唯一の弱点・急所）はギリシャ神話の英雄アキレスの故事に由来し、**head over heels**（（恋に）夢中で・まっさかさまに）も heel を使った定番の言い回しです。
+
+### well-heeled という成句
+
+well-heeled（裕福な・金回りの良い）は19世紀末のアメリカで生まれた成句で、由来には諸説ある。有力な説の一つは、お金持ちは靴の「かかと」（heel）をいつも良い状態に保てるという連想で、heel の「かかと」という中心義から比喩が広がったとされる。
+
+### heelには「見下げた人物」という俗語の意味もある
+
+heel はプロレスの世界で「悪役レスラー」を指す俗語としても使われ、そこから一般に「卑劣な人物・裏切り者」を指す口語表現としても定着している。かかとという体の一番低い部分のイメージが、人物評価の比喩に転用された。`,keyPoints:[`heal と heel は同音 /hiːl/`,`heal＝動詞「治す・癒える」（health の仲間）。healing/healer`,`heel＝名詞「かかと・靴のかかと」。Achilles' heel/head over heels`],quiz:[{id:`q-heal-1`,question:`空所に入る適切な語はどれですか。「These shoes have a high ( ).（この靴はかかとが高い）」`,options:[`heel`,`heal`,`heals`,`heels`],correctAnswer:0,explanation:`「かかと」は heel です。`},{id:`q-heal-2`,question:`「治す・（傷が）癒える」という意味の動詞はどれですか。`,options:[`heel`,`heil`,`hell`,`heal`],correctAnswer:3,explanation:`動詞「治す・癒える」は heal /hiːl/ です。`},{id:`q-heal-3`,question:`heal と heel の発音の関係はどれですか。`,options:[`母音が違う`,`子音が違う`,`同じ発音（同音異義語）`,`アクセントが違う`],correctAnswer:2,explanation:`どちらも /hiːl/ で同音異義語です。`},{id:`q-heal-4`,question:`空所に入る適切な語はどれですか。「Time will ( ) a broken heart.（時が傷心を癒すだろう）」`,options:[`heel`,`heil`,`held`,`heal`],correctAnswer:3,explanation:`「癒す」は heal です。`},{id:`q-heal-5`,question:`足の「かかと」を意味するのはどちらですか。`,options:[`heel`,`heal`,`どちらも`,`どちらも違う`],correctAnswer:0,explanation:`かかとは heel。heal は「治す」です。`}]},{id:`right-write`,title:`right と write`,chapter:4,description:`同音 /raɪt/。right「右・正しい・権利」、write「書く」（動詞）。意味とスペルで判断する同音異義語。`,content:`## 音は同じ、意味とスペルで見分ける
 
 **right と write は同じ発音 /raɪt/（同音異義語）**。意味とスペルで決めます（w は発音しない）。
 
@@ -3692,7 +3716,15 @@ eight から派生する数詞は綴りの変化に注意が必要です。序�
 
 ### guessed / guest の派生語で判別を強化
 
-**guessed 系**：名詞 **guesswork**（当て推量）、**a best guess**（最善の推測）は、guess の中心の意味そのものです。**guest 系**：複合語 **a guest speaker**（招待講演者）、慣用句 **"Be my guest."**（どうぞご自由に）は、guest の「客・招かれた人」という意味から広がった表現です。`,keyPoints:[`guessed と guest は同音 /ɡɛst/`,`guessed＝guess の過去「推測した」（動詞）。guesswork/best guess`,`guest＝名詞「客・ゲスト」（反対は host）。guest speaker/Be my guest.`],quiz:[{id:`q-guessed-1`,question:`空所に入る適切な語はどれですか。「The hotel welcomes every ( ) warmly.（ホテルはどの客も温かく迎える）」`,options:[`guessed`,`guests'`,`guest`,`guessing`],correctAnswer:2,explanation:`「客・ゲスト」は名詞 guest です。`},{id:`q-guessed-2`,question:`guess の過去形「推測した」を表す語はどれですか。`,options:[`guest`,`guessed`,`guests`,`guessing`],correctAnswer:1,explanation:`guess の過去は guessed です。`},{id:`q-guessed-3`,question:`guessed と guest の発音の関係はどれですか。`,options:[`母音が違う`,`子音が違う`,`同じ発音（同音異義語）`,`アクセントが違う`],correctAnswer:2,explanation:`どちらも /ɡɛst/ で同音異義語です。`},{id:`q-guessed-4`,question:`空所に入る適切な語はどれですか。「She ( ) my age almost exactly.（彼女は私の年齢をほぼ正確に言い当てた）」`,options:[`guest`,`guessed`,`guests`,`guesting`],correctAnswer:1,explanation:`「言い当てた・推測した」は guess の過去 guessed です。`},{id:`q-guessed-5`,question:`「招待客・宿泊客」を意味するのはどちらですか。`,options:[`guest`,`guessed`,`どちらも`,`どちらも違う`],correctAnswer:0,explanation:`客は guest。guessed は「推測した」です。`}]},{id:`made-maid`,title:`made と maid`,chapter:4,description:`同音 /meɪd/。made「make の過去（作った）」、maid「メイド・お手伝い」（名詞）。意味と品詞で判断。`,content:`## 音は同じ、意味と品詞で見分ける
+**guessed 系**：名詞 **guesswork**（当て推量）、**a best guess**（最善の推測）は、guess の中心の意味そのものです。**guest 系**：複合語 **a guest speaker**（招待講演者）、慣用句 **"Be my guest."**（どうぞご自由に）は、guest の「客・招かれた人」という意味から広がった表現です。
+
+### guest は host・hostile と同じ印欧祖語の語根を持つ
+
+guest は印欧祖語の語根 *ghos-ti-（見知らぬ人・客・もてなす人）に遡り、host（主人・もてなす側）や hostile（敵意のある）と同じ語源を持つ。「見知らぬ相手」は歓待すべき客にもなれば敵にもなりうるという古代社会の二面性が、正反対に見える guest と hostile を同じ語根で結びつけている。
+
+### guess は get と同じ語根
+
+guess は北欧系の語源を持ち、「得る・つかむ」を意味する get と同じ語根から来ているとされる。手がかりを「つかみ取る」ようにして答えに近づく、という原義のイメージが残っている。`,keyPoints:[`guessed と guest は同音 /ɡɛst/`,`guessed＝guess の過去「推測した」（動詞）。guesswork/best guess`,`guest＝名詞「客・ゲスト」（反対は host）。guest speaker/Be my guest.`],quiz:[{id:`q-guessed-1`,question:`空所に入る適切な語はどれですか。「The hotel welcomes every ( ) warmly.（ホテルはどの客も温かく迎える）」`,options:[`guessed`,`guests'`,`guest`,`guessing`],correctAnswer:2,explanation:`「客・ゲスト」は名詞 guest です。`},{id:`q-guessed-2`,question:`guess の過去形「推測した」を表す語はどれですか。`,options:[`guest`,`guessed`,`guests`,`guessing`],correctAnswer:1,explanation:`guess の過去は guessed です。`},{id:`q-guessed-3`,question:`guessed と guest の発音の関係はどれですか。`,options:[`母音が違う`,`子音が違う`,`同じ発音（同音異義語）`,`アクセントが違う`],correctAnswer:2,explanation:`どちらも /ɡɛst/ で同音異義語です。`},{id:`q-guessed-4`,question:`空所に入る適切な語はどれですか。「She ( ) my age almost exactly.（彼女は私の年齢をほぼ正確に言い当てた）」`,options:[`guest`,`guessed`,`guests`,`guesting`],correctAnswer:1,explanation:`「言い当てた・推測した」は guess の過去 guessed です。`},{id:`q-guessed-5`,question:`「招待客・宿泊客」を意味するのはどちらですか。`,options:[`guest`,`guessed`,`どちらも`,`どちらも違う`],correctAnswer:0,explanation:`客は guest。guessed は「推測した」です。`}]},{id:`made-maid`,title:`made と maid`,chapter:4,description:`同音 /meɪd/。made「make の過去（作った）」、maid「メイド・お手伝い」（名詞）。意味と品詞で判断。`,content:`## 音は同じ、意味と品詞で見分ける
 
 **made と maid は同じ発音 /meɪd/（同音異義語）**。意味と品詞で決めます。
 
@@ -3812,7 +3844,15 @@ amount は動詞では amount to の形をとり、The bill amounted to 12,000 y
 
 ### much / many の応用表現で判別を強化
 
-**much 系**：**much of a** ~（大した〜ではない＝not much of a singer）、比較表現 **as much as** ~（〜と同じくらい多く）は、much の「量」という中心の意味から広がった表現です。**many 系**：文語的な表現 **many a** + 単数名詞（幾たびもの〜＝many a time で「幾度となく」）は、意味は複数でも直後に単数形が来る珍しい形です。`,keyPoints:[`much＝（不可算に）多くの（much water/time）。not much of a ~/as much as ~`,`many＝（可算・複数に）多くの（many books/people）。many a + 単数名詞（文語）`,`肯定文の「たくさん」は a lot of がどちらにも可`],quiz:[{id:`q-much-1`,question:`空所に入る適切な語はどれですか。「How ( ) books did you read?（何冊本を読んだ？）」`,options:[`much`,`muches`,`many`,`manies`],correctAnswer:2,explanation:`books は可算・複数なので many です。`},{id:`q-much-2`,question:`空所に入る適切な語はどれですか。「There isn't ( ) milk left.（牛乳があまり残っていない）」`,options:[`much`,`many`,`manys`,`muches`],correctAnswer:0,explanation:`milk は不可算なので much です。`},{id:`q-much-3`,question:`可算名詞（複数）に付くのはどちらですか。`,options:[`many`,`much`,`どちらも`,`どちらも違う`],correctAnswer:0,explanation:`可算・複数には many。不可算には much です。`},{id:`q-much-4`,question:`空所に入る適切な語はどれですか。「He spends too ( ) money on games.（彼はゲームに金を使いすぎる）」`,options:[`much`,`many`,`manys`,`muches`],correctAnswer:0,explanation:`money は不可算なので much です。`},{id:`q-much-5`,question:`空所に入る適切な語はどれですか。「( ) people came to the festival.（多くの人が祭りに来た）」`,options:[`Much`,`Muches`,`Many`,`Manies`],correctAnswer:2,explanation:`people は可算・複数扱いなので Many です。`}]},{id:`little-few`,title:`little と few`,chapter:2,description:`数えられるかで使い分ける。little は「（不可算に）ほとんどない／少しの」、few は「（可算に）ほとんどない／少しの」。a の有無で意味が変わる。`,content:`## 数えられるか＋a の有無で見分ける
+**much 系**：**much of a** ~（大した〜ではない＝not much of a singer）、比較表現 **as much as** ~（〜と同じくらい多く）は、much の「量」という中心の意味から広がった表現です。**many 系**：文語的な表現 **many a** + 単数名詞（幾たびもの〜＝many a time で「幾度となく」）は、意味は複数でも直後に単数形が来る珍しい形です。
+
+### much と many はどちらも比較変化が不規則
+
+much・many はどちらも比較級・最上級が more・most という共通の不規則形になる。語源も語形もまったく異なる2つの語が、比較変化のときだけ同じ形に合流する「補充法（サプリーション）」と呼ばれる珍しい現象の一例。
+
+### many はゲルマン語源、対応するラテン語はmulti-系の語に残る
+
+many は古英語 manig に由来するゲルマン語源の語で、ラテン語に由来する「多い」を意味する語根（multi-）とは系統が異なる。multiple（複数の）・multitude（多数）のようなラテン語源の語と、日常語 many のゲルマン語源が、同じ「多い」という意味を別の語源で表している。`,keyPoints:[`much＝（不可算に）多くの（much water/time）。not much of a ~/as much as ~`,`many＝（可算・複数に）多くの（many books/people）。many a + 単数名詞（文語）`,`肯定文の「たくさん」は a lot of がどちらにも可`],quiz:[{id:`q-much-1`,question:`空所に入る適切な語はどれですか。「How ( ) books did you read?（何冊本を読んだ？）」`,options:[`much`,`muches`,`many`,`manies`],correctAnswer:2,explanation:`books は可算・複数なので many です。`},{id:`q-much-2`,question:`空所に入る適切な語はどれですか。「There isn't ( ) milk left.（牛乳があまり残っていない）」`,options:[`much`,`many`,`manys`,`muches`],correctAnswer:0,explanation:`milk は不可算なので much です。`},{id:`q-much-3`,question:`可算名詞（複数）に付くのはどちらですか。`,options:[`many`,`much`,`どちらも`,`どちらも違う`],correctAnswer:0,explanation:`可算・複数には many。不可算には much です。`},{id:`q-much-4`,question:`空所に入る適切な語はどれですか。「He spends too ( ) money on games.（彼はゲームに金を使いすぎる）」`,options:[`much`,`many`,`manys`,`muches`],correctAnswer:0,explanation:`money は不可算なので much です。`},{id:`q-much-5`,question:`空所に入る適切な語はどれですか。「( ) people came to the festival.（多くの人が祭りに来た）」`,options:[`Much`,`Muches`,`Many`,`Manies`],correctAnswer:2,explanation:`people は可算・複数扱いなので Many です。`}]},{id:`little-few`,title:`little と few`,chapter:2,description:`数えられるかで使い分ける。little は「（不可算に）ほとんどない／少しの」、few は「（可算に）ほとんどない／少しの」。a の有無で意味が変わる。`,content:`## 数えられるか＋a の有無で見分ける
 
 どちらも「少ない」ですが、**不可算か可算か**、さらに **a が付くか**で意味が変わります。
 
@@ -4034,7 +4074,11 @@ hurt は古フランス語 hurter（ぶつかる・突き当たる、現代フ�
 
 ### come / go の句動詞で判別を強化
 
-**come 系**：句動詞 **come across** ~（〜に偶然出会う）、**come up with** ~（（アイデアを）思いつく）は、come の「近づく・現れる」という意味から広がった表現です。**go 系**：句動詞 **go through** ~（（つらい経験を）くぐり抜ける）、慣用句 **go ahead**（どうぞ・進めてください）は、go の「進む」という意味から生まれた表現です。`,keyPoints:[`come＝基準（話し手・聞き手）の方へ「来る」（come-came-come）。come across/come up with`,`go＝基準から離れて「行く」（go-went-gone）。go through/go ahead`,`相手の所へ向かうときも come（bring/take と同型）`],quiz:[{id:`q-come-1`,question:`空所に入る適切な語はどれですか。「Dinner is ready! — I'm ( )!（夕食できたよ！ ― 今行く！）」`,options:[`going`,`went`,`goes`,`coming`],correctAnswer:3,explanation:`相手（呼んだ人）の方へ向かうので coming（相手基準の come）です。`},{id:`q-come-2`,question:`空所に入る適切な語はどれですか。「They will ( ) to Paris next week.（来週パリへ行く）」`,options:[`go`,`come`,`came`,`comes`],correctAnswer:0,explanation:`今いる場所から離れて「行く」は go です。`},{id:`q-come-3`,question:`基準（話し手・聞き手）の方へ「来る・向かう」を表すのはどちらですか。`,options:[`come`,`go`,`どちらも`,`どちらも違う`],correctAnswer:0,explanation:`基準へ向かうのは come。離れるのは go です。`},{id:`q-come-4`,question:`go の活用として正しいものはどれですか。`,options:[`go-went-gone`,`go-goed-gone`,`go-go-went`,`go-gone-went`],correctAnswer:0,explanation:`go は不規則動詞で go-went-gone です。`},{id:`q-come-5`,question:`空所に入る適切な語はどれですか。「Please ( ) here and sit down.（こちらへ来て座って）」`,options:[`come`,`go`,`went`,`goes`],correctAnswer:0,explanation:`話し手の所「こちらへ」は come here です。`}]},{id:`flammable-inflammable`,title:`flammable と inflammable`,chapter:3,description:`要注意：flammable と inflammable は同じ意味「燃えやすい」。in- は否定でなく強めの接頭辞。「燃えない」は non-flammable。`,content:`## ⚠️ 同じ意味の紛らわしいペア
+**come 系**：句動詞 **come across** ~（〜に偶然出会う）、**come up with** ~（（アイデアを）思いつく）は、come の「近づく・現れる」という意味から広がった表現です。**go 系**：句動詞 **go through** ~（（つらい経験を）くぐり抜ける）、慣用句 **go ahead**（どうぞ・進めてください）は、go の「進む」という意味から生まれた表現です。
+
+### went はもともと go とは別の動詞 wend の過去形だった
+
+go の過去形 went は、実は go とは語源の異なる別の動詞 wend（進む・道を行く）の過去形が転用されたものである。中英語期に go の古い過去形が使われなくなり、代わりに wend の過去形 went が go の過去形として定着した。wend 自身は wended という新しい過去形を獲得し、went は go 専用の不規則形として残った。**go と went が語源的に無関係な語を組み合わせた「補充法」の代表例**とされる。`,keyPoints:[`come＝基準（話し手・聞き手）の方へ「来る」（come-came-come）。come across/come up with`,`go＝基準から離れて「行く」（go-went-gone）。go through/go ahead`,`相手の所へ向かうときも come（bring/take と同型）`],quiz:[{id:`q-come-1`,question:`空所に入る適切な語はどれですか。「Dinner is ready! — I'm ( )!（夕食できたよ！ ― 今行く！）」`,options:[`going`,`went`,`goes`,`coming`],correctAnswer:3,explanation:`相手（呼んだ人）の方へ向かうので coming（相手基準の come）です。`},{id:`q-come-2`,question:`空所に入る適切な語はどれですか。「They will ( ) to Paris next week.（来週パリへ行く）」`,options:[`go`,`come`,`came`,`comes`],correctAnswer:0,explanation:`今いる場所から離れて「行く」は go です。`},{id:`q-come-3`,question:`基準（話し手・聞き手）の方へ「来る・向かう」を表すのはどちらですか。`,options:[`come`,`go`,`どちらも`,`どちらも違う`],correctAnswer:0,explanation:`基準へ向かうのは come。離れるのは go です。`},{id:`q-come-4`,question:`go の活用として正しいものはどれですか。`,options:[`go-went-gone`,`go-goed-gone`,`go-go-went`,`go-gone-went`],correctAnswer:0,explanation:`go は不規則動詞で go-went-gone です。`},{id:`q-come-5`,question:`空所に入る適切な語はどれですか。「Please ( ) here and sit down.（こちらへ来て座って）」`,options:[`come`,`go`,`went`,`goes`],correctAnswer:0,explanation:`話し手の所「こちらへ」は come here です。`}]},{id:`flammable-inflammable`,title:`flammable と inflammable`,chapter:3,description:`要注意：flammable と inflammable は同じ意味「燃えやすい」。in- は否定でなく強めの接頭辞。「燃えない」は non-flammable。`,content:`## ⚠️ 同じ意味の紛らわしいペア
 
 **flammable と inflammable は、どちらも「燃えやすい」**という同じ意味です。in- を否定と誤解しやすい危険な語です。
 
@@ -4099,7 +4143,15 @@ be famous for も be infamous for も同じ形をとるため、判断の手が�
 
 ### tail / tale の派生語で判別を強化
 
-**tail 系**：句動詞 **tail off**（次第に弱まる・先細りになる）、複合語 **ponytail**（ポニーテール）は、tail の「後部・尾」という中心の意味から広がった語です。**tale 系**：形容詞 **telltale**（（表情・兆候などが）本音を物語る・隠しごとを暴露する）は、a telltale sign（隠しきれない兆候）のように使い、tale の「話す・物語る」という意味そのものから来ています。`,keyPoints:[`tail と tale は同音 /teɪl/`,`tail＝しっぽ・尾／後部。tail off（先細りになる）/ponytail`,`tale＝物語・話（fairy tale＝おとぎ話）。telltale（本音を物語る）`],quiz:[{id:`q-tail-1`,question:`空所に入る適切な語はどれですか。「She loves reading fairy ( ) to her kids.（彼女は子どもにおとぎ話を読むのが好きだ）」`,options:[`tails`,`tales`,`tail`,`tailed`],correctAnswer:1,explanation:`「おとぎ話」は fairy tale（複数 tales）です。`},{id:`q-tail-2`,question:`「しっぽ・尾」という意味の名詞はどれですか。`,options:[`tale`,`tales`,`tailed`,`tail`],correctAnswer:3,explanation:`「しっぽ」は tail /teɪl/ です。`},{id:`q-tail-3`,question:`tail と tale の発音の関係はどれですか。`,options:[`母音が違う`,`子音が違う`,`同じ発音（同音異義語）`,`アクセントが違う`],correctAnswer:2,explanation:`どちらも /teɪl/ で同音異義語です。`},{id:`q-tail-4`,question:`空所に入る適切な語はどれですか。「The cat chased its own ( ).（猫は自分のしっぽを追いかけた）」`,options:[`tale`,`tales`,`tailed`,`tail`],correctAnswer:3,explanation:`動物の「しっぽ」は tail です。`},{id:`q-tail-5`,question:`「物語・作り話」を意味するのはどちらですか。`,options:[`tail`,`tale`,`どちらも`,`どちらも違う`],correctAnswer:1,explanation:`物語は tale。tail は「しっぽ」です。`}]},{id:`vain-vein-vane`,title:`vain と vein と vane`,chapter:4,description:`同音 /veɪn/。vain「うぬぼれた・むだな」、vein「静脈・血管」、vane「風見・羽根」。意味とスペルで判断。`,content:`## 役割で見分ける（3語の同音）
+**tail 系**：句動詞 **tail off**（次第に弱まる・先細りになる）、複合語 **ponytail**（ポニーテール）は、tail の「後部・尾」という中心の意味から広がった語です。**tale 系**：形容詞 **telltale**（（表情・兆候などが）本音を物語る・隠しごとを暴露する）は、a telltale sign（隠しきれない兆候）のように使い、tale の「話す・物語る」という意味そのものから来ています。
+
+### tale は tell・talk と同じ語根
+
+tale は古英語 talu（話・物語）に由来し、動詞 tell（話す）と同じゲルマン語根 *taljan（順序立てて述べる）を共有する。「物事を順序立てて数え上げる・語る」という原義から、tell（話す）・tale（物語）・talk（会話する）という一群の語が枝分かれした。
+
+### the tail wagging the dogという成句
+
+tail には the tail wagging the dog（本来従属する立場のものが全体を動かす＝主客転倒）という成句があり、しっぽが体全体を振り回すという不自然な情景を使って、小さな部分が全体を支配する状況を皮肉る表現になっている。`,keyPoints:[`tail と tale は同音 /teɪl/`,`tail＝しっぽ・尾／後部。tail off（先細りになる）/ponytail`,`tale＝物語・話（fairy tale＝おとぎ話）。telltale（本音を物語る）`],quiz:[{id:`q-tail-1`,question:`空所に入る適切な語はどれですか。「She loves reading fairy ( ) to her kids.（彼女は子どもにおとぎ話を読むのが好きだ）」`,options:[`tails`,`tales`,`tail`,`tailed`],correctAnswer:1,explanation:`「おとぎ話」は fairy tale（複数 tales）です。`},{id:`q-tail-2`,question:`「しっぽ・尾」という意味の名詞はどれですか。`,options:[`tale`,`tales`,`tailed`,`tail`],correctAnswer:3,explanation:`「しっぽ」は tail /teɪl/ です。`},{id:`q-tail-3`,question:`tail と tale の発音の関係はどれですか。`,options:[`母音が違う`,`子音が違う`,`同じ発音（同音異義語）`,`アクセントが違う`],correctAnswer:2,explanation:`どちらも /teɪl/ で同音異義語です。`},{id:`q-tail-4`,question:`空所に入る適切な語はどれですか。「The cat chased its own ( ).（猫は自分のしっぽを追いかけた）」`,options:[`tale`,`tales`,`tailed`,`tail`],correctAnswer:3,explanation:`動物の「しっぽ」は tail です。`},{id:`q-tail-5`,question:`「物語・作り話」を意味するのはどちらですか。`,options:[`tail`,`tale`,`どちらも`,`どちらも違う`],correctAnswer:1,explanation:`物語は tale。tail は「しっぽ」です。`}]},{id:`vain-vein-vane`,title:`vain と vein と vane`,chapter:4,description:`同音 /veɪn/。vain「うぬぼれた・むだな」、vein「静脈・血管」、vane「風見・羽根」。意味とスペルで判断。`,content:`## 役割で見分ける（3語の同音）
 
 **vain・vein・vane はすべて同じ発音 /veɪn/**。意味とスペルで決めます。
 
@@ -4445,7 +4497,15 @@ meddle は語尾が -dle で、peddle（行商する）・paddle（漕ぐ・パ�
 
 ### wine / whine の実例で判別を強化
 
-**wine 系**：慣用句 **wine and dine**（（客を）ご馳走してもてなす）、**vintage wine**（ヴィンテージワイン・年代物のワイン）は、wine の中心の意味そのものから広がった表現です。**whine 系**：whine は名詞としても使われ、a whine of complaint（泣き言・不満の声）のように「甲高い泣くような音・不満げな声」を指します。`,keyPoints:[`whine と wine は同音 /waɪn/`,`whine＝めそめそ泣く・泣き言を言う（動詞・wh-、名詞にも）`,`wine＝ワイン（名詞・w-）。wine and dine/vintage wine`],quiz:[{id:`q-whine-1`,question:`空所に入る適切な語はどれですか。「We enjoyed red ( ) with dinner.（夕食に赤ワインを楽しんだ）」`,options:[`whine`,`wine`,`whines`,`wined'`],correctAnswer:1,explanation:`飲み物の「ワイン」は wine です。`},{id:`q-whine-2`,question:`「めそめそ泣く・泣き言を言う」という意味の動詞はどれですか。`,options:[`wine`,`whine`,`wines`,`wining`],correctAnswer:1,explanation:`「泣き言を言う」は whine /waɪn/ です。`},{id:`q-whine-3`,question:`whine と wine の発音の関係はどれですか。`,options:[`母音が違う`,`子音が違う`,`同じ発音（同音異義語）`,`アクセントが違う`],correctAnswer:2,explanation:`どちらも /waɪn/ で同音異義語です。`},{id:`q-whine-4`,question:`空所に入る適切な語はどれですか。「The children ( ) when they are tired.（子どもは疲れるとぐずる）」`,options:[`wine`,`whine`,`wines`,`wined`],correctAnswer:1,explanation:`「ぐずる・泣き言を言う」は whine です。`},{id:`q-whine-5`,question:`ぶどう酒「ワイン」を意味するのはどちらですか。`,options:[`whine`,`wine`,`どちらも`,`どちらも違う`],correctAnswer:1,explanation:`ワインは wine。whine は「泣き言を言う」です。`}]},{id:`rise-arise`,title:`rise と arise`,chapter:2,description:`どちらも自動詞。rise は「（物・数値などが）上がる・のぼる」、arise は「（問題・状況が）生じる・起こる」。`,content:`## 「上がる」か「生じる」かで見分ける
+**wine 系**：慣用句 **wine and dine**（（客を）ご馳走してもてなす）、**vintage wine**（ヴィンテージワイン・年代物のワイン）は、wine の中心の意味そのものから広がった表現です。**whine 系**：whine は名詞としても使われ、a whine of complaint（泣き言・不満の声）のように「甲高い泣くような音・不満げな声」を指します。
+
+### wine は地中海一帯に広がる非常に古い借用語
+
+wine はラテン語 vinum を経由した語だが、その起源はさらに古く、ギリシャ語・アルメニア語・ヒッタイト語、さらには印欧語族に属さないジョージア語やヘブライ語（yayin）にまで似た語形が見つかる。ぶどう酒作りの文化が地中海一帯に広まる過程で、特定の言語系統を超えて伝わった非常に古い借用語（ワンダーワート）とされる。
+
+### whine はもともと矢が風を切る音を表した擬音語
+
+whine は古英語 hwinan（ヒューッと音を立てる）に由来し、もともとは矢が空気を切る音や風の音を表す擬音語だった。16世紀ごろに「弱々しく泣き言を言う」という意味に転じ、鋭い音のイメージが人の泣き言・不満の声に重ねられるようになった。`,keyPoints:[`whine と wine は同音 /waɪn/`,`whine＝めそめそ泣く・泣き言を言う（動詞・wh-、名詞にも）`,`wine＝ワイン（名詞・w-）。wine and dine/vintage wine`],quiz:[{id:`q-whine-1`,question:`空所に入る適切な語はどれですか。「We enjoyed red ( ) with dinner.（夕食に赤ワインを楽しんだ）」`,options:[`whine`,`wine`,`whines`,`wined'`],correctAnswer:1,explanation:`飲み物の「ワイン」は wine です。`},{id:`q-whine-2`,question:`「めそめそ泣く・泣き言を言う」という意味の動詞はどれですか。`,options:[`wine`,`whine`,`wines`,`wining`],correctAnswer:1,explanation:`「泣き言を言う」は whine /waɪn/ です。`},{id:`q-whine-3`,question:`whine と wine の発音の関係はどれですか。`,options:[`母音が違う`,`子音が違う`,`同じ発音（同音異義語）`,`アクセントが違う`],correctAnswer:2,explanation:`どちらも /waɪn/ で同音異義語です。`},{id:`q-whine-4`,question:`空所に入る適切な語はどれですか。「The children ( ) when they are tired.（子どもは疲れるとぐずる）」`,options:[`wine`,`whine`,`wines`,`wined`],correctAnswer:1,explanation:`「ぐずる・泣き言を言う」は whine です。`},{id:`q-whine-5`,question:`ぶどう酒「ワイン」を意味するのはどちらですか。`,options:[`whine`,`wine`,`どちらも`,`どちらも違う`],correctAnswer:1,explanation:`ワインは wine。whine は「泣き言を言う」です。`}]},{id:`rise-arise`,title:`rise と arise`,chapter:2,description:`どちらも自動詞。rise は「（物・数値などが）上がる・のぼる」、arise は「（問題・状況が）生じる・起こる」。`,content:`## 「上がる」か「生じる」かで見分ける
 
 どちらも目的語をとらない自動詞ですが、使う対象が違います。
 
