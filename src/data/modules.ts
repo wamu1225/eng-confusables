@@ -4352,7 +4352,11 @@ except は except that ~（〜という点を除いて）という形で節を�
 
 ### 飛行機の plane は「平らな面」の plane と同じ語源
 
-飛行機を意味する plane はもともと aeroplane（ギリシャ語 aer「空気」+ plane）の短縮形で、この plane はラテン語 planus（平らな）に由来するフランス語 plan（平面）に遡る。つまり「明白な・質素な」の plain と「飛行機」の plane は、綴りは分かれても同じラテン語根 planus から枝分かれした語である。`,
+飛行機を意味する plane はもともと aeroplane（ギリシャ語 aer「空気」+ plane）の短縮形で、この plane はラテン語 planus（平らな）に由来するフランス語 plan（平面）に遡る。つまり「明白な・質素な」の plain と「飛行機」の plane は、綴りは分かれても同じラテン語根 planus から枝分かれした語である。
+
+### plain sailing の語源は plane sailing かもしれない
+
+「順調な進行」を意味する plain sailing は、実は地球を平面とみなして計算する航海術 plane sailing（平面航法）に由来する可能性が指摘されている。短い距離であれば地球の丸みを無視しても十分正確に船の位置を計算できたことから、「簡単で問題のない」という意味が生まれたとされる。plain と plane が語源の議論の中でも混同されている、この2語の紛らわしさを象徴する成句。`,
     keyPoints: [
       'plain と plane は同音 /pleɪn/',
       'plain＝明白な・質素な（形容詞）／平原（名詞）。in plain sight/plain sailing',
