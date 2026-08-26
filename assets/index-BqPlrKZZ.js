@@ -1092,7 +1092,15 @@ blush は動詞だけでなく、化粧品の**チーク（頬紅）**を指す�
 
 ### room / loom の派生語で判別を強化
 
-**room 系**：慣用句 **room for improvement**（改善の余地）は、room の「空間・余地」という中心の意味そのものです。複合語 **roommate**（同居人・ルームメイト）も同じ意味から来ています。**loom 系**：慣用句 **loom large**（大きく立ちはだかる・重くのしかかる）は、The exam loomed large in her mind.（試験のことが頭の中で大きくのしかかっていた）のように、loom の「不安なものが迫る」という意味をそのまま使う表現です。`,keyPoints:[`room /ruːm/＝部屋・空間・余地。room for improvement/roommate`,`loom /luːm/＝織機／ぬっと現れる・迫る。loom large（大きくのしかかる）`,`語頭が /r/ か /l/ か`],quiz:[{id:`q-room-1`,question:`空所に入る適切な語はどれですか。「Exams ( ) at the end of the month.（試験が月末に迫っている）」`,options:[`room`,`bloom`,`loom`,`gloom`],correctAnswer:2,explanation:`「（不安なものが）迫る」は loom（/l/）。`},{id:`q-room-2`,question:`空所に入る適切な語はどれですか。「Is there enough ( ) for one more chair?（もう一脚いすを置く余地はある？）」`,options:[`loom`,`broom`,`room`,`bloom`],correctAnswer:2,explanation:`「空間・余地」は room（/r/）。`},{id:`q-room-3`,question:`room と loom を分けている音の違いはどれですか。`,options:[`語頭の子音 /r/ と /l/`,`母音 /uː/ と /ʊ/`,`語尾 /m/ と /n/`,`アクセント`],correctAnswer:0,explanation:`room は /r/、loom は /l/ の対立です。`},{id:`q-room-4`,question:`loom（名詞）の意味として正しいものはどれですか。`,options:[`部屋`,`ほうき`,`花`,`織機`],correctAnswer:3,explanation:`loom は名詞で「織機」、動詞で「ぬっと現れる・迫る」です。`},{id:`q-room-5`,question:`「危機・締め切りが迫る」という比喩で使えるのはどちらですか。`,options:[`loom`,`room`,`どちらも`,`どちらも不可`],correctAnswer:0,explanation:`loom は「（不安なものが）迫る」という比喩でよく使われます。`}]},{id:`crash-crush-clash`,title:`crash・crush・clash`,chapter:4,description:`母音 /æ/ /ʌ/ と /r/ /l/ の複合。crash 衝突・墜落／crush 押しつぶす・夢中／clash 対立・衝突。`,content:`## 音と意味のちがい
+**room 系**：慣用句 **room for improvement**（改善の余地）は、room の「空間・余地」という中心の意味そのものです。複合語 **roommate**（同居人・ルームメイト）も同じ意味から来ています。**loom 系**：慣用句 **loom large**（大きく立ちはだかる・重くのしかかる）は、The exam loomed large in her mind.（試験のことが頭の中で大きくのしかかっていた）のように、loom の「不安なものが迫る」という意味をそのまま使う表現です。
+
+### 織機の loom と「ぬっと現れる」の loom は別語源
+
+名詞「織機」を意味する loom は古英語 geloma（道具・用具全般）に由来し、遺品を意味する heirloom（家宝）にも同じ語根が残る。一方、動詞「ぬっと現れる・迫る」を意味する loom は16世紀に現れた語源不明の別語で、スカンジナビア語由来の可能性が指摘されている。同じ綴りの2つの loom は語源的に無関係。
+
+### room はラテン語の camera と違うゲルマン語源
+
+room は古英語 rum（空間）に由来するゲルマン語源の語で、フランス語経由で英語に入った chamber（部屋、ラテン語 camera 由来）とは系統が異なる。「部屋」を表す英語には、ゲルマン語源の room とラテン語源の chamber という2つの語群が並存している。`,keyPoints:[`room /ruːm/＝部屋・空間・余地。room for improvement/roommate`,`loom /luːm/＝織機／ぬっと現れる・迫る。loom large（大きくのしかかる）`,`語頭が /r/ か /l/ か`],quiz:[{id:`q-room-1`,question:`空所に入る適切な語はどれですか。「Exams ( ) at the end of the month.（試験が月末に迫っている）」`,options:[`room`,`bloom`,`loom`,`gloom`],correctAnswer:2,explanation:`「（不安なものが）迫る」は loom（/l/）。`},{id:`q-room-2`,question:`空所に入る適切な語はどれですか。「Is there enough ( ) for one more chair?（もう一脚いすを置く余地はある？）」`,options:[`loom`,`broom`,`room`,`bloom`],correctAnswer:2,explanation:`「空間・余地」は room（/r/）。`},{id:`q-room-3`,question:`room と loom を分けている音の違いはどれですか。`,options:[`語頭の子音 /r/ と /l/`,`母音 /uː/ と /ʊ/`,`語尾 /m/ と /n/`,`アクセント`],correctAnswer:0,explanation:`room は /r/、loom は /l/ の対立です。`},{id:`q-room-4`,question:`loom（名詞）の意味として正しいものはどれですか。`,options:[`部屋`,`ほうき`,`花`,`織機`],correctAnswer:3,explanation:`loom は名詞で「織機」、動詞で「ぬっと現れる・迫る」です。`},{id:`q-room-5`,question:`「危機・締め切りが迫る」という比喩で使えるのはどちらですか。`,options:[`loom`,`room`,`どちらも`,`どちらも不可`],correctAnswer:0,explanation:`loom は「（不安なものが）迫る」という比喩でよく使われます。`}]},{id:`crash-crush-clash`,title:`crash・crush・clash`,chapter:4,description:`母音 /æ/ /ʌ/ と /r/ /l/ の複合。crash 衝突・墜落／crush 押しつぶす・夢中／clash 対立・衝突。`,content:`## 音と意味のちがい
 
 3語とも似た響きですが、**母音（/æ/ か /ʌ/）と子音（/r/ か /l/）**、そして意味が違います。
 
@@ -1376,7 +1384,15 @@ then には the then president（当時の大統領）のように、名詞の�
 
 ### peace / piece の慣用句で判別を強化
 
-**peace 系**：慣用句 **make peace**（仲直りする・和解する）、**peace of mind**（心の平穏）は、peace の「平和・穏やかさ」という中心の意味そのものです。**piece 系**：句動詞 **piece together**（（断片から）全体像を組み立てる）、慣用句 **a piece of cake**（とても簡単なこと）は、piece の「かけら・部品」という意味から広がった表現です。`,keyPoints:[`peace と piece は同音 /piːs/`,`peace＝平和・平穏（反対は war）。make peace/peace of mind`,`piece＝一片・かけら（a piece of ~／中に pie が入る）。piece together/a piece of cake`],quiz:[{id:`q-peace-1`,question:`空所に入る適切な語はどれですか。「I ate a ( ) of bread.（パンを一切れ食べた）」`,options:[`peace`,`peas`,`piece`,`peace`],correctAnswer:2,explanation:`「一切れ」は piece。a piece of ~ の形です。`},{id:`q-peace-2`,question:`「平和・平穏」という意味の語はどれですか。`,options:[`piece`,`peace`,`pace`,`peach`],correctAnswer:1,explanation:`「平和」は peace /piːs/。piece は「一片」です。`},{id:`q-peace-3`,question:`peace と piece の発音の関係はどれですか。`,options:[`母音が違う`,`子音が違う`,`同じ発音（同音異義語）`,`アクセントが違う`],correctAnswer:2,explanation:`どちらも /piːs/ で同音異義語です。`},{id:`q-peace-4`,question:`空所に入る適切な語はどれですか。「After the war, the country finally found ( ).（戦争のあと、その国はついに平和を得た）」`,options:[`piece`,`peace`,`peas`,`pieces`],correctAnswer:1,explanation:`「平和」は peace。war の反対の概念です。`},{id:`q-peace-5`,question:`中に “pie” を含み「一片・かけら」を意味するのはどちらですか。`,options:[`piece`,`peace`,`どちらも`,`どちらも違う`],correctAnswer:0,explanation:`piece に pie が入っています。「一切れ」の piece です。`}]},{id:`accept-except`,title:`accept と except`,chapter:1,description:`語頭 ac-/ex- が違う。accept「受け入れる」（動詞）、except「〜を除いて」（前置詞・接続詞）。`,content:`## 品詞と語頭で見分ける
+**peace 系**：慣用句 **make peace**（仲直りする・和解する）、**peace of mind**（心の平穏）は、peace の「平和・穏やかさ」という中心の意味そのものです。**piece 系**：句動詞 **piece together**（（断片から）全体像を組み立てる）、慣用句 **a piece of cake**（とても簡単なこと）は、piece の「かけら・部品」という意味から広がった表現です。
+
+### peace は pacify・Pacific（太平洋）と同じ語根
+
+peace はラテン語 pax（平和・協定）に由来し、pacify（なだめる）・Pacific（太平洋）と同じ語根を共有する。太平洋の名は、1519年にマゼランがこの海に入った際、大西洋より穏やかだったことから「Mare Pacificum（穏やかな海）」と名付けたことに由来する。
+
+### piece はケルト語由来の珍しい語
+
+piece は古フランス語 piece、俗ラテン語 *pettia を経て、ガリア語（古代ケルト語の一系統）の語根に遡るとされる。フランス語経由で英語に入った語の多くがラテン語源であるのに対し、piece はケルト語系の基層語という珍しい経路をたどっている。`,keyPoints:[`peace と piece は同音 /piːs/`,`peace＝平和・平穏（反対は war）。make peace/peace of mind`,`piece＝一片・かけら（a piece of ~／中に pie が入る）。piece together/a piece of cake`],quiz:[{id:`q-peace-1`,question:`空所に入る適切な語はどれですか。「I ate a ( ) of bread.（パンを一切れ食べた）」`,options:[`peace`,`peas`,`piece`,`peace`],correctAnswer:2,explanation:`「一切れ」は piece。a piece of ~ の形です。`},{id:`q-peace-2`,question:`「平和・平穏」という意味の語はどれですか。`,options:[`piece`,`peace`,`pace`,`peach`],correctAnswer:1,explanation:`「平和」は peace /piːs/。piece は「一片」です。`},{id:`q-peace-3`,question:`peace と piece の発音の関係はどれですか。`,options:[`母音が違う`,`子音が違う`,`同じ発音（同音異義語）`,`アクセントが違う`],correctAnswer:2,explanation:`どちらも /piːs/ で同音異義語です。`},{id:`q-peace-4`,question:`空所に入る適切な語はどれですか。「After the war, the country finally found ( ).（戦争のあと、その国はついに平和を得た）」`,options:[`piece`,`peace`,`peas`,`pieces`],correctAnswer:1,explanation:`「平和」は peace。war の反対の概念です。`},{id:`q-peace-5`,question:`中に “pie” を含み「一片・かけら」を意味するのはどちらですか。`,options:[`piece`,`peace`,`どちらも`,`どちらも違う`],correctAnswer:0,explanation:`piece に pie が入っています。「一切れ」の piece です。`}]},{id:`accept-except`,title:`accept と except`,chapter:1,description:`語頭 ac-/ex- が違う。accept「受け入れる」（動詞）、except「〜を除いて」（前置詞・接続詞）。`,content:`## 品詞と語頭で見分ける
 
 語頭が **ac-（accept）と ex-（except）** で、意味も品詞も違います。
 
@@ -1412,7 +1428,11 @@ except は except that ~（〜という点を除いて）という形で節を�
 
 ### plain / plane の慣用句で判別を強化
 
-**plain 系**：慣用句 **in plain sight**（隠れず見えるところに）、**plain sailing**（順調な進行）は、plain の「明白な・平らな」という中心の意味から広がった表現です。**plane 系**：**on a higher plane**（より高い次元・水準で）のように、plane は「平面・水準」という抽象的な意味でも使われ、飛行機の意味とは別の顔を持ちます。`,keyPoints:[`plain と plane は同音 /pleɪn/`,`plain＝明白な・質素な（形容詞）／平原（名詞）。in plain sight/plain sailing`,`plane＝飛行機／平面（airplane の plane）。on a higher plane`],quiz:[{id:`q-plain-1`,question:`空所に入る適切な語はどれですか。「Our ( ) took off on time.（私たちの飛行機は定刻に離陸した）」`,options:[`plain`,`plane`,`plan`,`plains`],correctAnswer:1,explanation:`「飛行機」は plane です。`},{id:`q-plain-2`,question:`「明白な・わかりやすい」という意味の語はどれですか。`,options:[`plane`,`plain`,`plan`,`planned`],correctAnswer:1,explanation:`形容詞「明白な・質素な」は plain です。`},{id:`q-plain-3`,question:`plain と plane の発音の関係はどれですか。`,options:[`母音が違う`,`子音が違う`,`同じ発音（同音異義語）`,`アクセントが違う`],correctAnswer:2,explanation:`どちらも /pleɪn/ で同音異義語です。`},{id:`q-plain-4`,question:`空所に入る適切な語はどれですか。「I like ( ) yogurt without sugar.（砂糖なしのプレーンヨーグルトが好き）」`,options:[`plane`,`plain`,`plan`,`planed`],correctAnswer:1,explanation:`「飾りのない・プレーンな」は plain です。`},{id:`q-plain-5`,question:`「飛行機」または「平面」を意味するのはどちらですか。`,options:[`plain`,`plane`,`どちらも`,`どちらも違う`],correctAnswer:1,explanation:`飛行機・平面は plane。plain は明白な・質素な・平原です。`}]},{id:`weak-week`,title:`weak と week`,chapter:4,description:`同音 /wiːk/。weak「弱い」（形容詞）、week「週」（名詞）。意味とスペルで判断する同音異義語。`,content:`## 音は同じ、意味とスペルで見分ける
+**plain 系**：慣用句 **in plain sight**（隠れず見えるところに）、**plain sailing**（順調な進行）は、plain の「明白な・平らな」という中心の意味から広がった表現です。**plane 系**：**on a higher plane**（より高い次元・水準で）のように、plane は「平面・水準」という抽象的な意味でも使われ、飛行機の意味とは別の顔を持ちます。
+
+### 飛行機の plane は「平らな面」の plane と同じ語源
+
+飛行機を意味する plane はもともと aeroplane（ギリシャ語 aer「空気」+ plane）の短縮形で、この plane はラテン語 planus（平らな）に由来するフランス語 plan（平面）に遡る。つまり「明白な・質素な」の plain と「飛行機」の plane は、綴りは分かれても同じラテン語根 planus から枝分かれした語である。`,keyPoints:[`plain と plane は同音 /pleɪn/`,`plain＝明白な・質素な（形容詞）／平原（名詞）。in plain sight/plain sailing`,`plane＝飛行機／平面（airplane の plane）。on a higher plane`],quiz:[{id:`q-plain-1`,question:`空所に入る適切な語はどれですか。「Our ( ) took off on time.（私たちの飛行機は定刻に離陸した）」`,options:[`plain`,`plane`,`plan`,`plains`],correctAnswer:1,explanation:`「飛行機」は plane です。`},{id:`q-plain-2`,question:`「明白な・わかりやすい」という意味の語はどれですか。`,options:[`plane`,`plain`,`plan`,`planned`],correctAnswer:1,explanation:`形容詞「明白な・質素な」は plain です。`},{id:`q-plain-3`,question:`plain と plane の発音の関係はどれですか。`,options:[`母音が違う`,`子音が違う`,`同じ発音（同音異義語）`,`アクセントが違う`],correctAnswer:2,explanation:`どちらも /pleɪn/ で同音異義語です。`},{id:`q-plain-4`,question:`空所に入る適切な語はどれですか。「I like ( ) yogurt without sugar.（砂糖なしのプレーンヨーグルトが好き）」`,options:[`plane`,`plain`,`plan`,`planed`],correctAnswer:1,explanation:`「飾りのない・プレーンな」は plain です。`},{id:`q-plain-5`,question:`「飛行機」または「平面」を意味するのはどちらですか。`,options:[`plain`,`plane`,`どちらも`,`どちらも違う`],correctAnswer:1,explanation:`飛行機・平面は plane。plain は明白な・質素な・平原です。`}]},{id:`weak-week`,title:`weak と week`,chapter:4,description:`同音 /wiːk/。weak「弱い」（形容詞）、week「週」（名詞）。意味とスペルで判断する同音異義語。`,content:`## 音は同じ、意味とスペルで見分ける
 
 **weak と week は同じ発音 /wiːk/（同音異義語）**。意味とスペルで決めます。
 
@@ -2465,7 +2485,15 @@ no には見落としやすい文法上の特徴があります。**not a と違
 
 ### buy / by の慣用句で判別を強化
 
-**buy 系**：句動詞 **buy into** ~（（考え・計画を）信じ込む・受け入れる）、名詞句 **a best buy**（お買い得品）は、buy の「買う・受け入れる」という意味から広がった表現です。**by 系**：**by far**（断然・はるかに）、**by heart**（暗記して）は、by の「〜によって」という前置詞の働きから来た定番表現です。`,keyPoints:[`buy＝動詞「買う」（buy-bought-bought）。buy into/a best buy`,`by＝前置詞「〜のそば・〜によって・〜までに」。by far/by heart`,`bye＝間投詞「さようなら」`],quiz:[{id:`q-buy-1`,question:`空所に入る適切な語はどれですか。「Please finish the report ( ) Friday.（金曜までにレポートを仕上げて）」`,options:[`buy`,`by`,`bye`,`buys`],correctAnswer:1,explanation:`期限「〜までに」は前置詞 by です。`},{id:`q-buy-2`,question:`「買う」という意味の動詞はどれですか。`,options:[`by`,`buy`,`bye`,`byes`],correctAnswer:1,explanation:`動詞「買う」は buy /baɪ/ です。`},{id:`q-buy-3`,question:`空所に入る適切な語はどれですか。「I need to ( ) some milk.（牛乳を買わなきゃ）」`,options:[`by`,`buy`,`bye`,`buys`],correctAnswer:1,explanation:`「買う」は buy です。`},{id:`q-buy-4`,question:`別れのあいさつ「さようなら」はどれですか。`,options:[`buy`,`by`,`bye`,`buys`],correctAnswer:2,explanation:`「さようなら」は bye（goodbye の略）です。`},{id:`q-buy-5`,question:`空所に入る適切な語はどれですか。「The book was written ( ) a famous author.（その本は有名な作家によって書かれた）」`,options:[`buy`,`by`,`bye`,`buys`],correctAnswer:1,explanation:`「〜によって」は前置詞 by です。`}]},{id:`to-too-two`,title:`to と too と two`,chapter:4,description:`同音 /tuː/。to「〜へ・不定詞の to」、too「〜も・〜すぎる」、two「2」。意味と働きで判断。`,content:`## 役割で見分ける（3語の同音）
+**buy 系**：句動詞 **buy into** ~（（考え・計画を）信じ込む・受け入れる）、名詞句 **a best buy**（お買い得品）は、buy の「買う・受け入れる」という意味から広がった表現です。**by 系**：**by far**（断然・はるかに）、**by heart**（暗記して）は、by の「〜によって」という前置詞の働きから来た定番表現です。
+
+### goodbye は「神があなたと共にありますように」の短縮形
+
+別れの挨拶 goodbye は、16世紀の "God be with ye"（神があなたと共にありますように）という祈りの言葉が徐々に短縮されてできた語である。good morning・good evening のような他の挨拶に引かれて、God の部分が good に置き換わり、現在の goodbye になった。
+
+### buy は by や bye とは無関係のゲルマン語源
+
+buy は古英語 bycgan（買う）に由来するゲルマン語源の動詞で、前置詞 by や間投詞 bye とは語源的なつながりが無い。3語がたまたま同じ発音になっただけの同音異義語である。`,keyPoints:[`buy＝動詞「買う」（buy-bought-bought）。buy into/a best buy`,`by＝前置詞「〜のそば・〜によって・〜までに」。by far/by heart`,`bye＝間投詞「さようなら」`],quiz:[{id:`q-buy-1`,question:`空所に入る適切な語はどれですか。「Please finish the report ( ) Friday.（金曜までにレポートを仕上げて）」`,options:[`buy`,`by`,`bye`,`buys`],correctAnswer:1,explanation:`期限「〜までに」は前置詞 by です。`},{id:`q-buy-2`,question:`「買う」という意味の動詞はどれですか。`,options:[`by`,`buy`,`bye`,`byes`],correctAnswer:1,explanation:`動詞「買う」は buy /baɪ/ です。`},{id:`q-buy-3`,question:`空所に入る適切な語はどれですか。「I need to ( ) some milk.（牛乳を買わなきゃ）」`,options:[`by`,`buy`,`bye`,`buys`],correctAnswer:1,explanation:`「買う」は buy です。`},{id:`q-buy-4`,question:`別れのあいさつ「さようなら」はどれですか。`,options:[`buy`,`by`,`bye`,`buys`],correctAnswer:2,explanation:`「さようなら」は bye（goodbye の略）です。`},{id:`q-buy-5`,question:`空所に入る適切な語はどれですか。「The book was written ( ) a famous author.（その本は有名な作家によって書かれた）」`,options:[`buy`,`by`,`bye`,`buys`],correctAnswer:1,explanation:`「〜によって」は前置詞 by です。`}]},{id:`to-too-two`,title:`to と too と two`,chapter:4,description:`同音 /tuː/。to「〜へ・不定詞の to」、too「〜も・〜すぎる」、two「2」。意味と働きで判断。`,content:`## 役割で見分ける（3語の同音）
 
 **to・too・two はすべて同じ発音 /tuː/**（to は弱く /tə/ になることも）。意味と働きで決めます。
 
@@ -2483,7 +2511,15 @@ no には見落としやすい文法上の特徴があります。**not a と違
 
 ### too の文法：much と many の使い分けにも直結
 
-too は後ろに来る形容詞で数えられる/数えられないが分かれます。**too much**（多すぎる・不可算に）は too much water（水が多すぎる）、**too many**（多すぎる・可算に）は too many people（人が多すぎる）のように使い分けます。fewer/less の区別と同じ理屈です。また **two-faced**（二枚舌の・裏表がある）は数の two を使った定番の慣用句です。副詞 **twofold**（2倍に）は eightfold と同じ作り方の語で、数量が2倍になったことを表します。`,keyPoints:[`to＝前置詞「〜へ」・不定詞の to`,`too＝副詞「〜も・〜すぎる」（o がふたつ）。too much（不可算）/too many（可算）`,`two＝数「2」（w 入り）。two-faced（裏表がある）`],quiz:[{id:`q-to-1`,question:`空所に入る適切な語はどれですか。「It is ( ) cold to go outside.（外に出るには寒すぎる）」`,options:[`to`,`too`,`two`,`tos`],correctAnswer:1,explanation:`「〜すぎる」は too（too + 形容詞）です。`},{id:`q-to-2`,question:`数の「2」を表す語はどれですか。`,options:[`to`,`two`,`too`,`tow`],correctAnswer:1,explanation:`数の「2」は two /tuː/ です。`},{id:`q-to-3`,question:`空所に入る適切な語はどれですか。「I want to come ( ).（私も行きたい）」`,options:[`to`,`too`,`two`,`tow`],correctAnswer:1,explanation:`「〜も」は too です。`},{id:`q-to-4`,question:`空所に入る適切な語はどれですか。「She walked ( ) the station.（彼女は駅へ歩いた）」`,options:[`to`,`too`,`two`,`tow`],correctAnswer:0,explanation:`方向「〜へ」は前置詞 to です。`},{id:`q-to-5`,question:`空所に入る適切な語はどれですか。「There were ( ) many people in the room.（部屋には人が多すぎた）」`,options:[`to`,`too`,`two`,`tow`],correctAnswer:1,explanation:`可算名詞 people の前は too many（不可算なら too much）です。`}]},{id:`envelope-envelop`,title:`envelope と envelop`,chapter:3,description:`名詞と動詞。envelope /ˈɛnvəloʊp/「封筒」（名詞）、envelop /ɪnˈvɛləp/「包み込む」（動詞）。e の有無とアクセントが違う。`,content:`## 品詞・アクセントで見分ける
+too は後ろに来る形容詞で数えられる/数えられないが分かれます。**too much**（多すぎる・不可算に）は too much water（水が多すぎる）、**too many**（多すぎる・可算に）は too many people（人が多すぎる）のように使い分けます。fewer/less の区別と同じ理屈です。また **two-faced**（二枚舌の・裏表がある）は数の two を使った定番の慣用句です。副詞 **twofold**（2倍に）は eightfold と同じ作り方の語で、数量が2倍になったことを表します。
+
+### two・twelve・twenty・twin はすべて同じ印欧祖語の「2」の語根
+
+two はゲルマン祖語 *twa を経て印欧祖語の語根 *dwo-（2）に遡り、twelve（12）・twenty（20）・twin（双子）・between（〜の間に）もすべて同じ語根から派生している。数の「2」を表す古い語根が、英語の基本語彙に広く枝分かれして残っている。
+
+### too はもともと to の強勢形だった
+
+too はもともと前置詞・副詞の to が文末などで強く発音されたときの変異形で、もとは同じ語だった。強調して発音されるという特徴が、16世紀以降 oo という綴りの違いとして固定され、現在は完全に別の語として扱われている。`,keyPoints:[`to＝前置詞「〜へ」・不定詞の to`,`too＝副詞「〜も・〜すぎる」（o がふたつ）。too much（不可算）/too many（可算）`,`two＝数「2」（w 入り）。two-faced（裏表がある）`],quiz:[{id:`q-to-1`,question:`空所に入る適切な語はどれですか。「It is ( ) cold to go outside.（外に出るには寒すぎる）」`,options:[`to`,`too`,`two`,`tos`],correctAnswer:1,explanation:`「〜すぎる」は too（too + 形容詞）です。`},{id:`q-to-2`,question:`数の「2」を表す語はどれですか。`,options:[`to`,`two`,`too`,`tow`],correctAnswer:1,explanation:`数の「2」は two /tuː/ です。`},{id:`q-to-3`,question:`空所に入る適切な語はどれですか。「I want to come ( ).（私も行きたい）」`,options:[`to`,`too`,`two`,`tow`],correctAnswer:1,explanation:`「〜も」は too です。`},{id:`q-to-4`,question:`空所に入る適切な語はどれですか。「She walked ( ) the station.（彼女は駅へ歩いた）」`,options:[`to`,`too`,`two`,`tow`],correctAnswer:0,explanation:`方向「〜へ」は前置詞 to です。`},{id:`q-to-5`,question:`空所に入る適切な語はどれですか。「There were ( ) many people in the room.（部屋には人が多すぎた）」`,options:[`to`,`too`,`two`,`tow`],correctAnswer:1,explanation:`可算名詞 people の前は too many（不可算なら too much）です。`}]},{id:`envelope-envelop`,title:`envelope と envelop`,chapter:3,description:`名詞と動詞。envelope /ˈɛnvəloʊp/「封筒」（名詞）、envelop /ɪnˈvɛləp/「包み込む」（動詞）。e の有無とアクセントが違う。`,content:`## 品詞・アクセントで見分ける
 
 **末尾 e のあるなし**と**アクセント位置**で名詞・動詞が分かれます。
 
@@ -2695,7 +2731,15 @@ won は句動詞 **win over**（〜を味方につける・説得する）の過
 
 ### wait / weight の慣用句で判別を強化
 
-**wait 系**：句動詞 **wait on** ~（〜に給仕する）、慣用句 **can't wait**（待ちきれない・早くしたい）は、wait の「待つ」という意味から広がった表現です。**weight 系**：慣用句 **a weight off one's shoulders**（肩の荷が下りる）は、weight の「重さ・重荷」という意味から生まれた比喩表現です。`,keyPoints:[`wait と weight は同音 /weɪt/`,`wait＝動詞「待つ」（wait for ~）。wait on/can't wait`,`weight＝名詞「重さ・重量」（weigh の名詞）。a weight off one's shoulders`],quiz:[{id:`q-wait-1`,question:`空所に入る適切な語はどれですか。「The doctor checked my ( ) and height.（医者は私の体重と身長を測った）」`,options:[`weight`,`wait`,`waits`,`weights'`],correctAnswer:0,explanation:`「重さ・体重」は weight です。`},{id:`q-wait-2`,question:`「待つ」という意味の動詞はどれですか。`,options:[`weight`,`weigh`,`waits'`,`wait`],correctAnswer:3,explanation:`動詞「待つ」は wait /weɪt/ です。`},{id:`q-wait-3`,question:`wait と weight の発音の関係はどれですか。`,options:[`母音が違う`,`子音が違う`,`同じ発音（同音異義語）`,`アクセントが違う`],correctAnswer:2,explanation:`どちらも /weɪt/ で同音異義語です（gh は無音）。`},{id:`q-wait-4`,question:`空所に入る適切な語はどれですか。「Let's ( ) for the next bus.（次のバスを待とう）」`,options:[`weight`,`weigh`,`waited'`,`wait`],correctAnswer:3,explanation:`wait for ~「〜を待つ」の wait です。`},{id:`q-wait-5`,question:`weigh（重さを量る）から来て「重さ」を意味するのはどちらですか。`,options:[`weight`,`wait`,`どちらも`,`どちらも違う`],correctAnswer:0,explanation:`「重さ」は weight。wait は「待つ」です。`}]},{id:`sale-sail`,title:`sale と sail`,chapter:4,description:`同音 /seɪl/。sale「販売・特売」（名詞）、sail「帆／航行する」（名詞・動詞）。意味とスペルで判断。`,content:`## 音は同じ、意味とスペルで見分ける
+**wait 系**：句動詞 **wait on** ~（〜に給仕する）、慣用句 **can't wait**（待ちきれない・早くしたい）は、wait の「待つ」という意味から広がった表現です。**weight 系**：慣用句 **a weight off one's shoulders**（肩の荷が下りる）は、weight の「重さ・重荷」という意味から生まれた比喩表現です。
+
+### wait は watch と同じゲルマン語根
+
+wait は古フランス語 waitier（見張る）に由来し、さらにゲルマン語根 *waht-（見張る）に遡る。この語根は watch（見張る・見る）とも共有されており、「見張って待つ」という原義が現代の「待つ」という意味の土台になっている。
+
+### weigh anchor という航海用語
+
+weight の動詞形 weigh には weigh anchor（錨を上げる・出航する）という航海用語があり、重い錨を「持ち上げる」という物理的な動作から、船旅の出発そのものを指す比喩に広がっている。`,keyPoints:[`wait と weight は同音 /weɪt/`,`wait＝動詞「待つ」（wait for ~）。wait on/can't wait`,`weight＝名詞「重さ・重量」（weigh の名詞）。a weight off one's shoulders`],quiz:[{id:`q-wait-1`,question:`空所に入る適切な語はどれですか。「The doctor checked my ( ) and height.（医者は私の体重と身長を測った）」`,options:[`weight`,`wait`,`waits`,`weights'`],correctAnswer:0,explanation:`「重さ・体重」は weight です。`},{id:`q-wait-2`,question:`「待つ」という意味の動詞はどれですか。`,options:[`weight`,`weigh`,`waits'`,`wait`],correctAnswer:3,explanation:`動詞「待つ」は wait /weɪt/ です。`},{id:`q-wait-3`,question:`wait と weight の発音の関係はどれですか。`,options:[`母音が違う`,`子音が違う`,`同じ発音（同音異義語）`,`アクセントが違う`],correctAnswer:2,explanation:`どちらも /weɪt/ で同音異義語です（gh は無音）。`},{id:`q-wait-4`,question:`空所に入る適切な語はどれですか。「Let's ( ) for the next bus.（次のバスを待とう）」`,options:[`weight`,`weigh`,`waited'`,`wait`],correctAnswer:3,explanation:`wait for ~「〜を待つ」の wait です。`},{id:`q-wait-5`,question:`weigh（重さを量る）から来て「重さ」を意味するのはどちらですか。`,options:[`weight`,`wait`,`どちらも`,`どちらも違う`],correctAnswer:0,explanation:`「重さ」は weight。wait は「待つ」です。`}]},{id:`sale-sail`,title:`sale と sail`,chapter:4,description:`同音 /seɪl/。sale「販売・特売」（名詞）、sail「帆／航行する」（名詞・動詞）。意味とスペルで判断。`,content:`## 音は同じ、意味とスペルで見分ける
 
 **sale と sail は同じ発音 /seɪl/（同音異義語）**。意味とスペルで決めます。
 
@@ -2711,7 +2755,15 @@ won は句動詞 **win over**（〜を味方につける・説得する）の過
 
 ### sale / sail の慣用句で判別を強化
 
-**sale 系**：複合語 **clearance sale**（在庫一掃セール）、**a sales pitch**（売り込みの口上）は、sale の「販売」という中心の意味そのものです。**sail 系**：慣用句 **set sail**（船出する・出航する）、句動詞 **sail through** ~（（試験などを）楽々と通過する）は、sail の「進む・航行する」という意味から広がった表現です。`,keyPoints:[`sale と sail は同音 /seɪl/`,`sale＝名詞「販売・特売」（for sale／on sale）。clearance sale/sales pitch`,`sail＝名詞「帆」／動詞「航行する」。set sail/sail through`],quiz:[{id:`q-sale-1`,question:`空所に入る適切な語はどれですか。「We will ( ) to the island tomorrow.（明日その島へ船で行く）」`,options:[`sale`,`sales`,`sail`,`sails'`],correctAnswer:2,explanation:`動詞「航行する・帆走する」は sail です。`},{id:`q-sale-2`,question:`「販売・特売」という意味の名詞はどれですか。`,options:[`sail`,`sails`,`sailing`,`sale`],correctAnswer:3,explanation:`名詞「販売・特売」は sale /seɪl/ です。`},{id:`q-sale-3`,question:`空所に入る適切な語はどれですか。「This house is for ( ).（この家は売り出し中だ）」`,options:[`sail`,`sails`,`sailing`,`sale`],correctAnswer:3,explanation:`成句 for sale「売り物・売り出し中」の sale です。`},{id:`q-sale-4`,question:`船の「帆」または「航行する」を意味するのはどちらですか。`,options:[`sail`,`sale`,`どちらも`,`どちらも違う`],correctAnswer:0,explanation:`帆・航行は sail。販売・特売は sale です。`},{id:`q-sale-5`,question:`空所に入る適切な語はどれですか。「These shoes are on ( ) this week.（この靴は今週特売中だ）」`,options:[`sail`,`sails`,`sailing`,`sale`],correctAnswer:3,explanation:`成句 on sale「特売中」の sale です。`}]},{id:`conscious-conscience`,title:`conscious と conscience`,chapter:1,description:`つづりが紛らわしい。conscious /ˈkɒnʃəs/「意識のある・気づいている」（形容詞）、conscience /ˈkɒnʃəns/「良心」（名詞）。`,content:`## 品詞と意味で見分ける
+**sale 系**：複合語 **clearance sale**（在庫一掃セール）、**a sales pitch**（売り込みの口上）は、sale の「販売」という中心の意味そのものです。**sail 系**：慣用句 **set sail**（船出する・出航する）、句動詞 **sail through** ~（（試験などを）楽々と通過する）は、sail の「進む・航行する」という意味から広がった表現です。
+
+### sail close to the wind という成句
+
+sail には sail close to the wind（危険を承知でぎりぎりの行動をとる）という航海由来の成句があり、風上に向かって帆走できる限界の角度で進むことから、許容範囲の限界に挑む行動を表す比喩になっている。
+
+### sale は sell と同じゲルマン語根
+
+sale は動詞 sell（売る）と同じゲルマン語根に由来する名詞で、「売る」という行為そのものを表す sell に対し、sale は「販売という行為・機会」を指す名詞として役割を分けている。`,keyPoints:[`sale と sail は同音 /seɪl/`,`sale＝名詞「販売・特売」（for sale／on sale）。clearance sale/sales pitch`,`sail＝名詞「帆」／動詞「航行する」。set sail/sail through`],quiz:[{id:`q-sale-1`,question:`空所に入る適切な語はどれですか。「We will ( ) to the island tomorrow.（明日その島へ船で行く）」`,options:[`sale`,`sales`,`sail`,`sails'`],correctAnswer:2,explanation:`動詞「航行する・帆走する」は sail です。`},{id:`q-sale-2`,question:`「販売・特売」という意味の名詞はどれですか。`,options:[`sail`,`sails`,`sailing`,`sale`],correctAnswer:3,explanation:`名詞「販売・特売」は sale /seɪl/ です。`},{id:`q-sale-3`,question:`空所に入る適切な語はどれですか。「This house is for ( ).（この家は売り出し中だ）」`,options:[`sail`,`sails`,`sailing`,`sale`],correctAnswer:3,explanation:`成句 for sale「売り物・売り出し中」の sale です。`},{id:`q-sale-4`,question:`船の「帆」または「航行する」を意味するのはどちらですか。`,options:[`sail`,`sale`,`どちらも`,`どちらも違う`],correctAnswer:0,explanation:`帆・航行は sail。販売・特売は sale です。`},{id:`q-sale-5`,question:`空所に入る適切な語はどれですか。「These shoes are on ( ) this week.（この靴は今週特売中だ）」`,options:[`sail`,`sails`,`sailing`,`sale`],correctAnswer:3,explanation:`成句 on sale「特売中」の sale です。`}]},{id:`conscious-conscience`,title:`conscious と conscience`,chapter:1,description:`つづりが紛らわしい。conscious /ˈkɒnʃəs/「意識のある・気づいている」（形容詞）、conscience /ˈkɒnʃəns/「良心」（名詞）。`,content:`## 品詞と意味で見分ける
 
 似たつづりですが、**末尾 -ous（conscious）と -ence（conscience）**、意味と品詞が違います。
 
@@ -2867,7 +2919,15 @@ a momentary decision は「一瞬で下した決断」を指し、重大さに�
 
 ### die / dye の派生語で判別を強化
 
-**die 系**：句動詞 **die out**（絶滅する・すたれる）、**die down**（（音・勢いが）静まる・弱まる）は、die の「消えてなくなる」という意味から広がった表現です。**dye 系**：複合語 **tie-dye**（絞り染め）、慣用句 **dyed-in-the-wool**（筋金入りの・生粋の＝a dyed-in-the-wool fan）は、糸を染めてから織る手法から来た表現で、dye の中心の意味そのものです。`,keyPoints:[`die と dye は同音 /daɪ/`,`die＝動詞「死ぬ・枯れる」（進行形 dying）。die out/die down`,`dye＝染める・染料（進行形 dyeing・e を残す）。tie-dye/dyed-in-the-wool`],quiz:[{id:`q-die-1`,question:`空所に入る適切な語はどれですか。「They used natural ( ) to color the cloth.（布を染めるのに天然の染料を使った）」`,options:[`die`,`dies`,`dye`,`died`],correctAnswer:2,explanation:`「染料・染める」は dye です。`},{id:`q-die-2`,question:`「死ぬ・枯れる」という意味の動詞はどれですか。`,options:[`dye`,`die`,`dyes`,`dyed`],correctAnswer:1,explanation:`動詞「死ぬ」は die /daɪ/ です。`},{id:`q-die-3`,question:`die と dye の発音の関係はどれですか。`,options:[`母音が違う`,`子音が違う`,`同じ発音（同音異義語）`,`アクセントが違う`],correctAnswer:2,explanation:`どちらも /daɪ/ で同音異義語です。`},{id:`q-die-4`,question:`空所に入る適切な語はどれですか。「Many trees ( ) during the drought.（干ばつで多くの木が枯れた）」`,options:[`dyed`,`dye`,`died`,`dyes`],correctAnswer:2,explanation:`「枯れた・死んだ」は die の過去 died です。`},{id:`q-die-5`,question:`色を「染める」を意味するのはどちらですか。`,options:[`dye`,`die`,`どちらも`,`どちらも違う`],correctAnswer:0,explanation:`染めるのは dye。die は「死ぬ」です。`}]},{id:`board-bored`,title:`board と bored`,chapter:4,description:`同音 /bɔːrd/。board「板・委員会／乗り込む」、bored「退屈した」（形容詞）。意味とスペルで判断。`,content:`## 音は同じ、意味とスペルで見分ける
+**die 系**：句動詞 **die out**（絶滅する・すたれる）、**die down**（（音・勢いが）静まる・弱まる）は、die の「消えてなくなる」という意味から広がった表現です。**dye 系**：複合語 **tie-dye**（絞り染め）、慣用句 **dyed-in-the-wool**（筋金入りの・生粋の＝a dyed-in-the-wool fan）は、糸を染めてから織る手法から来た表現で、dye の中心の意味そのものです。
+
+### die は古ノルド語から借用され古英語本来の語を置き換えた
+
+die は古ノルド語 deyja に由来する借用語で、この語が定着する前、古英語には steorfan（現在の starve の語源）・sweltan という「死ぬ」を表す独自の語があった。steorfan はやがて「飢えで死ぬ」という意味に狭まり、現代の starve（飢える）として残っている。生死という根源的な事柄を表す語が外から借用されるのは言語学的に珍しいとされる。
+
+### dye は die とは無関係のゲルマン語源
+
+dye は古英語 deagian（染める）に由来する語で、「死ぬ」を意味する die とは語源的な関係が無い。たまたま同じ発音になった同音異義語である。`,keyPoints:[`die と dye は同音 /daɪ/`,`die＝動詞「死ぬ・枯れる」（進行形 dying）。die out/die down`,`dye＝染める・染料（進行形 dyeing・e を残す）。tie-dye/dyed-in-the-wool`],quiz:[{id:`q-die-1`,question:`空所に入る適切な語はどれですか。「They used natural ( ) to color the cloth.（布を染めるのに天然の染料を使った）」`,options:[`die`,`dies`,`dye`,`died`],correctAnswer:2,explanation:`「染料・染める」は dye です。`},{id:`q-die-2`,question:`「死ぬ・枯れる」という意味の動詞はどれですか。`,options:[`dye`,`die`,`dyes`,`dyed`],correctAnswer:1,explanation:`動詞「死ぬ」は die /daɪ/ です。`},{id:`q-die-3`,question:`die と dye の発音の関係はどれですか。`,options:[`母音が違う`,`子音が違う`,`同じ発音（同音異義語）`,`アクセントが違う`],correctAnswer:2,explanation:`どちらも /daɪ/ で同音異義語です。`},{id:`q-die-4`,question:`空所に入る適切な語はどれですか。「Many trees ( ) during the drought.（干ばつで多くの木が枯れた）」`,options:[`dyed`,`dye`,`died`,`dyes`],correctAnswer:2,explanation:`「枯れた・死んだ」は die の過去 died です。`},{id:`q-die-5`,question:`色を「染める」を意味するのはどちらですか。`,options:[`dye`,`die`,`どちらも`,`どちらも違う`],correctAnswer:0,explanation:`染めるのは dye。die は「死ぬ」です。`}]},{id:`board-bored`,title:`board と bored`,chapter:4,description:`同音 /bɔːrd/。board「板・委員会／乗り込む」、bored「退屈した」（形容詞）。意味とスペルで判断。`,content:`## 音は同じ、意味とスペルで見分ける
 
 **board と bored は同じ発音 /bɔːrd/（同音異義語）**。意味とスペルで決めます。
 
