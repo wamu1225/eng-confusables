@@ -4736,7 +4736,11 @@ the latter half of the 20th century（20世紀後半）のように、latter は
 
 日常会話では Later!（じゃあね）という別れの挨拶があり、See you later. を短縮したくだけた言い方として使われます。latter にはこうした挨拶としての使い方はありません。
 
-sooner or later（遅かれ早かれ）という決まり文句も later の定番の使われ方で、いつかは必ず起こることを述べるときに使います。soon の比較級 sooner と later を対にした表現で、latter とは無関係です。`,
+sooner or later（遅かれ早かれ）という決まり文句も later の定番の使われ方で、いつかは必ず起こることを述べるときに使います。soon の比較級 sooner と later を対にした表現で、latter とは無関係です。
+
+### late・later・latter・last は1つの語族の不規則な変化形
+
+late の比較級には規則形 later（あとで）のほかに、不規則な latter（後者の）という形も残っている。最上級も規則形 latest（最新の）と不規則形 last（最後の）の両方があり、同じ形容詞 late から2系統の比較変化が並存する珍しいケースになっている。`,
     keyPoints: [
       'later /ˈleɪtər/＝「後で」（時間・late の比較級）',
       'latter /ˈlætər/＝「後者」（former と対）',
@@ -4801,7 +4805,15 @@ sooner or later（遅かれ早かれ）という決まり文句も later の定�
 
 ### angel / angle の実例で判別を強化
 
-**angel 系**：慣用句 **a guardian angel**（守護天使）、ビジネス用語 **an angel investor**（エンジェル投資家＝起業初期に個人で出資する投資家）は、angel の中心の意味から広がった語です。**angle 系**：数学用語 **a right angle**（直角）、句動詞 **angle for** ~（遠回しに〜を得ようとする＝angle for a compliment）は、angle の「角度・方向」という意味から広がった表現です。`,
+**angel 系**：慣用句 **a guardian angel**（守護天使）、ビジネス用語 **an angel investor**（エンジェル投資家＝起業初期に個人で出資する投資家）は、angel の中心の意味から広がった語です。**angle 系**：数学用語 **a right angle**（直角）、句動詞 **angle for** ~（遠回しに〜を得ようとする＝angle for a compliment）は、angle の「角度・方向」という意味から広がった表現です。
+
+### angel は evangelist（伝道者）と同じギリシャ語根
+
+angel はギリシャ語 angelos（使者・伝令）に由来し、evangelist（福音伝道者）と同じ語根を共有する。evangelist は eu-（良い）+ angelos（使者）で「良い知らせを運ぶ者」を意味し、angel の「神の使者」という中心義がそのまま生きている。
+
+### angle は ankle（足首）と同じ語根
+
+angle はラテン語 angulus（角・曲がり角）に由来し、体の「曲がる部分」を指す ankle（足首）と同じ語根を持つ。「曲がる・折れる」という共通のイメージが、幾何学の「角度」と身体の「関節」という一見遠い2つの語をつないでいる。`,
     keyPoints: [
       'angel /ˈeɪndʒəl/＝天使（g は /dʒ/）。guardian angel/angel investor',
       'angle /ˈæŋɡəl/＝角度・角（g は /ɡ/）。right angle/angle for（遠回しに求める）',
@@ -5094,7 +5106,11 @@ beat は本来「連続してたたく」という意味の語で、beat an egg�
 
 ビジネスでは win-win（双方に利益がある）という複合形容詞がよく使われ、a win-win solution（双方が得をする解決策）のように、対戦して勝つ意味の win から離れて「良い結果」を表す語として定着しています。beat にはこうしたプラスの複合語はありません。
 
-beat around the bush（遠回しに言う・要点を避ける）という熟語もあり、獲物を茂みの周りでたたいて追い出す狩猟の様子が語源とされています。this-and-that の遠回しな話し方を批判するときによく使われる表現です。`,
+beat around the bush（遠回しに言う・要点を避ける）という熟語もあり、獲物を茂みの周りでたたいて追い出す狩猟の様子が語源とされています。this-and-that の遠回しな話し方を批判するときによく使われる表現です。
+
+### beat は police beat という巡回区域を指す用語にも残る
+
+警察官が定期的に巡回する担当区域を英語で a beat（受け持ちの巡回路）と呼び、walk the beat（巡回する）という表現がある。足を規則的に「たたく（歩く）」という beat の動作イメージが、巡回の意味に転じたとされる。`,
     keyPoints: [
       'win＝（試合・賞）に勝つ・を得る（win-won-won）',
       'beat＝（相手）を負かす（beat-beat-beaten）',
@@ -5301,7 +5317,11 @@ weather the storm（嵐を乗り切る）のように、weather は動詞とし�
 
 whether は whether to go（行くべきかどうか）のように to不定詞を直接続けられますが、if にはこの使い方がなく、I don't know if to go とは言えません。whether だけができる語法として覚えておくと、if との使い分けにも役立ちます。
 
-whether or not ~ という形も頻出で、whether or not it rains（雨が降ろうと降るまいと）・whether it rains or not（同じ意味で語順違い）のように、or not の位置が前後どちらにも置ける柔軟さがあります。`,
+whether or not ~ という形も頻出で、whether or not it rains（雨が降ろうと降るまいと）・whether it rains or not（同じ意味で語順違い）のように、or not の位置が前後どちらにも置ける柔軟さがあります。
+
+### whether は「2つのうちどちら」を意味する印欧語族に広く残る疑問語
+
+whether は古英語 hwæðer（2つのうちどちらか）に由来し、ラテン語 uter・ギリシャ語 poteros・サンスクリット語 katarah など、印欧語族の多くの言語に同じ役割の同根語が見つかる。「2つの選択肢を尋ねる」という機能そのものが、非常に古い時代から言語に組み込まれていたことが分かる。`,
     keyPoints: [
       'weather /ˈweðər/＝名詞「天気・天候」',
       'whether /ˈweðər/＝接続詞「〜かどうか」（whether A or B）',
@@ -5450,7 +5470,11 @@ meat には比喩的な用法もあります。**the meat of the matter**（話�
 
 食品表示では dairy-free（乳製品不使用）という複合語が定着しており、アレルギーや食事制限を示すラベルとしてパッケージによく印刷されています。diary-free という言い方は存在しません。
 
-dairy は形容詞として dairy farm（酪農場）・dairy cattle（乳牛）のように、乳製品そのものだけでなく生産する農場や家畜を指すときにも使われ、「乳製品」より広い酪農業全体をカバーする語です。`,
+dairy は形容詞として dairy farm（酪農場）・dairy cattle（乳牛）のように、乳製品そのものだけでなく生産する農場や家畜を指すときにも使われ、「乳製品」より広い酪農業全体をカバーする語です。
+
+### diary は journey・journal と同じラテン語 dies に由来
+
+diary はラテン語 diarium（一日の記録）、さらに dies（日）に由来し、journal（日誌）・journey（元は「一日分の道のり」）と同じ語根を共有する。「日」を単位に記録し、移動し、区切るという発想が、複数の英単語に共通して残っている。`,
     keyPoints: [
       'diary /ˈdaɪəri/＝日記（day の記録）',
       'dairy /ˈdɛəri/＝乳製品・酪農',
@@ -6027,7 +6051,11 @@ SF作品で頻出する「並行世界」は、アメリカ英語では alternat
 
 ### flour / flower の実例で判別を強化
 
-**flour 系**：レシピでは **plain flour**（薄力粉に近い普通の小麦粉）と **self-raising flour**（ベーキングパウダー入りの小麦粉）を区別します。**flower 系**：形容詞 **flowery**（花模様の／（文章が）ごてごてと飾り立てた）は、実際の花の柄にも、比喩的な「大げさな言い回し」にも使います。植物が「花盛りである」ことは **in flower**（花が咲いている）と表現します。複合語 **wildflower**（野花・野生の花）も flower の中心の意味そのものから作られた語です。`,
+**flour 系**：レシピでは **plain flour**（薄力粉に近い普通の小麦粉）と **self-raising flour**（ベーキングパウダー入りの小麦粉）を区別します。**flower 系**：形容詞 **flowery**（花模様の／（文章が）ごてごてと飾り立てた）は、実際の花の柄にも、比喩的な「大げさな言い回し」にも使います。植物が「花盛りである」ことは **in flower**（花が咲いている）と表現します。複合語 **wildflower**（野花・野生の花）も flower の中心の意味そのものから作られた語です。
+
+### flour と flower はもともと同じ綴りの同じ単語だった
+
+flour と flower はもともと同じ語で、綴りも flower に統一されていた。「花」が比喩的に「物事の最良の部分」を意味する用法（the flower of youth＝若さの盛り）から、小麦粉のうち最も上質な部分を指す使い方が生まれ、13世紀以降この意味だけ徐々に flour という綴りに分かれていった。19世紀初頭になってようやく flour の綴りが定着し、2語として区別されるようになった。`,
     keyPoints: [
       'flour と flower は同音 /ˈflaʊər/',
       'flour＝小麦粉・穀物の粉。plain flour/self-raising flourの区別',
@@ -6917,7 +6945,11 @@ heel はプロレスの世界で「悪役レスラー」を指す俗語として
 
 ### right / write の慣用句で判別を強化
 
-**right 系**：複合語 **human rights**（人権）、副詞句 **right away**（すぐに）は、right の「正しい・権利」という中心の意味から広がった表現です。**write 系**：句動詞 **write off**（（負債などを）帳消しにする・見限る）、複合語 **writer's block**（書けない状態・創作の行き詰まり）は、write の中心の意味から生まれた表現です。`,
+**right 系**：複合語 **human rights**（人権）、副詞句 **right away**（すぐに）は、right の「正しい・権利」という中心の意味から広がった表現です。**write 系**：句動詞 **write off**（（負債などを）帳消しにする・見限る）、複合語 **writer's block**（書けない状態・創作の行き詰まり）は、write の中心の意味から生まれた表現です。
+
+### write はもともと「刻む・引っかく」を意味した
+
+write は「引き裂く・引っかく」を意味するゲルマン祖語に由来し、古英語では rune wrítan（ルーン文字を彫る）のように「刻む・彫る」という意味で使われていた。ラテン語 scribere・ギリシャ語 graphein も同様に「刻む・切る」が原義で、初期の文字が硬い面に刻まれていた歴史が、印欧語族の「書く」を意味する語の多くに共通して残っている。`,
     keyPoints: [
       'right と write は同音 /raɪt/（w は無音）',
       'right＝右・正しい・権利（反対は left / wrong）。human rights/right away',
@@ -7347,7 +7379,11 @@ damage control は不祥事などのあとで被害の広がりを抑える「�
 
 ### steal / steel の慣用句で判別を強化
 
-**steal 系**：慣用句 **steal the show**（（脇役なのに）一番注目を集める）、**steal a glance**（こっそり一瞥する）は、steal の「気づかれずに奪う」という意味から広がった表現です。**steel 系**：動詞 **steel oneself**（（つらいことに備えて）覚悟を決める）は、鋼鉄のように心を固くするイメージから生まれた表現で、steel の硬さのイメージそのものです。`,
+**steal 系**：慣用句 **steal the show**（（脇役なのに）一番注目を集める）、**steal a glance**（こっそり一瞥する）は、steal の「気づかれずに奪う」という意味から広がった表現です。**steel 系**：動詞 **steel oneself**（（つらいことに備えて）覚悟を決める）は、鋼鉄のように心を固くするイメージから生まれた表現で、steel の硬さのイメージそのものです。
+
+### steel は steal と無関係のゲルマン語源
+
+steel は古英語 style に由来し、ドイツ語 Stahl と同根のゲルマン語源で、「盗む」を意味する steal（古英語 stelan）とは語源的に無関係である。たまたま同じ発音になっただけの同音異義語。`,
     keyPoints: [
       'steal と steel は同音 /stiːl/',
       'steal＝動詞「盗む」（steal-stole-stolen）。steal the show/steal a glance',
@@ -8089,7 +8125,15 @@ reach は元来「手を伸ばして届く」という物理的な動作を表�
 
 ### pray / prey の派生語で判別を強化
 
-**pray 系**：名詞形は **prayer**（祈り・祈る人）で、say a prayer（祈りを捧げる）のように使います。動詞は pray、名詞は prayer と品詞で覚えると混同しにくくなります。**prey 系**：複合語 **birds of prey**（猛禽類）はよく使われる言い方です。慣用句 **fall prey to** ~（〜の犠牲になる・食い物にされる）も、獲物になるイメージから来た表現です。生態学の対概念 **predator and prey**（捕食者と被食者）も、prey の中心の意味そのものを表す組み合わせです。`,
+**pray 系**：名詞形は **prayer**（祈り・祈る人）で、say a prayer（祈りを捧げる）のように使います。動詞は pray、名詞は prayer と品詞で覚えると混同しにくくなります。**prey 系**：複合語 **birds of prey**（猛禽類）はよく使われる言い方です。慣用句 **fall prey to** ~（〜の犠牲になる・食い物にされる）も、獲物になるイメージから来た表現です。生態学の対概念 **predator and prey**（捕食者と被食者）も、prey の中心の意味そのものを表す組み合わせです。
+
+### pray は precarious（不安定な）と同じラテン語根
+
+pray はラテン語 precari（懇願する）に由来し、precarious（不安定な・危なっかしい）と同じ語根を持つ。precarious はもともと「他人の意向・祈りに頼っている」状態を意味し、「祈りに頼るほど頼りない」という含意が「不安定」という現代の意味につながっている。
+
+### prey は predator（捕食者）と同じラテン語根
+
+prey はラテン語 praeda（戦利品・獲物）に由来し、predator（捕食者）・depredation（略奪）と同じ語根を共有する。「奪い取られたもの」という原義が、動物界の「捕食される側」を指す現代の意味にそのまま受け継がれている。`,
     keyPoints: [
       'pray と prey は同音 /preɪ/',
       'pray＝動詞「祈る」（名詞形はprayer＝祈り）',
