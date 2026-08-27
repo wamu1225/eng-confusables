@@ -7383,7 +7383,11 @@ damage control は不祥事などのあとで被害の広がりを抑える「�
 
 ### steel は steal と無関係のゲルマン語源
 
-steel は古英語 style に由来し、ドイツ語 Stahl と同根のゲルマン語源で、「盗む」を意味する steal（古英語 stelan）とは語源的に無関係である。たまたま同じ発音になっただけの同音異義語。`,
+steel は古英語 style に由来し、ドイツ語 Stahl と同根のゲルマン語源で、「盗む」を意味する steal（古英語 stelan）とは語源的に無関係である。たまたま同じ発音になっただけの同音異義語。
+
+### nerves of steel という成句
+
+nerves of steel（鋼の神経・不屈の精神力）は、19世紀末にスポーツの世界で使われ始めたとされる成句で、圧力がかかる場面でも冷静さを失わない胆力を指す。鋼のように曲がらず壊れない強さのイメージが、精神的な強靭さの比喩に転用されている。`,
     keyPoints: [
       'steal と steel は同音 /stiːl/',
       'steal＝動詞「盗む」（steal-stole-stolen）。steal the show/steal a glance',
