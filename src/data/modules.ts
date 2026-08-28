@@ -10665,6 +10665,10 @@ new はラテン語 novus、ギリシャ語 neos、サンスクリット語 nava
 
 ⚠️ とくに **homework（学校の宿題）と housework（家事）** は混同の定番です。学校の課題は home、掃除・洗濯などの家事は house。1文字で意味がまったく変わります。
 
+### homeless が示す home の重み
+
+住む場所を失った状態を英語では homeless（家庭・帰る場所を失った）と言い、houseless とはほぼ言いません。建物としての住居だけでなく「安心して帰属できる場」を失っているというニュアンスを、home のこの語が正面から担っています。a broken home（崩壊した家庭）という言い方も、home が建物ではなく家族関係そのものを指す典型例です。
+
 🎯 覚え方：**建物は house、気持ち・帰属は home**。迷ったら「建てられる？」＝house、「帰る場所？」＝home。`,
     keyPoints: [
       'house＝建物としての家・家屋（数えられる建造物）',
@@ -17218,6 +17222,10 @@ It seems that he was right.（彼が正しかったようだ）や He seems to h
 
 ⚠️ 「詐欺には気をつけて」を \`Be weary of scams.\` と書く誤りが定番です。これでは「詐欺にうんざりしている」。正しくは **Be wary of scams.**
 
+### world-weary という複合語
+
+weary は world-weary（世間に疲れ果てた・厭世的な）、battle-weary（戦い疲れした）のように、他の名詞と組み合わせて「〜に疲れ果てた」を表す複合形容詞をよく作ります。wary にはこの種の複合語がほとんど無く、warily（用心深く）という副詞形が主な広がり方です。
+
 🎯 覚え方：**weary は eat も sleep もできないほど疲れた、wary は watch（見張る）と同じ a で警戒**。`,
     keyPoints: [
       'weary＝ひどく疲れた・うんざりした /ˈwɪri/',
@@ -17834,6 +17842,10 @@ hard／hardly と同じ型で、**-ly をつけると意味が変わる**組み�
 
 ⚠️ \`Lately I went to Kyoto.\` も不自然です。過去の一時点なら recently か、**I went to Kyoto last week.** のように具体的に言います。
 
+### of late というやや硬い言い換え
+
+lately と同じ意味で of late（最近・近ごろ）という言い方があり、ニュース記事や書き言葉で好まれます。Prices have risen of late.（近ごろ物価が上がっている）のように、lately よりも改まった響きを持つ表現として使い分けられます。
+
 🎯 覚え方：**late は時計の針（遅い）、lately はカレンダー（最近）**。lately を見たら現在完了とセットで考えます。`,
     keyPoints: [
       'late＝遅い・遅く（be late for / stay up late）',
@@ -18217,6 +18229,10 @@ hard／hardly と同じ型で、**-ly をつけると意味が変わる**組み�
 
 ⚠️ \`an opinion pole\` も誤りです。調査なら **an opinion poll**。
 
+### pole position というレース用語
+
+pole は自動車レースの pole position（ポールポジション・予選最速でスタート列の先頭に立つ位置）という専門用語でも使われ、そこから転じて日常会話でも「最も有利な立場」を指す比喩として使われることがあります。
+
 🎯 覚え方：**l が1つの pole は1本の棒、l が2つの poll は票が積み上がる**。`,
     keyPoints: [
       'pole と poll は同音 /poʊl/',
@@ -18291,6 +18307,10 @@ hard／hardly と同じ型で、**-ly をつけると意味が変わる**組み�
 ⚠️ \`He was throne out of the game.\` は誤りです。受け身なので過去分詞の **thrown**。
 
 ⚠️ \`The king sat on his thrown.\` も誤りです。座るのは名詞の **throne**。
+
+### overthrow という複合語
+
+throw から作られる overthrow（政権を武力や革命で倒す・打倒する）という動詞は、throw の過去分詞 thrown とセットで be overthrown（打倒される）という受け身の形でもよく使われます。王座 throne を「引きずり下ろす」場面と、動詞 overthrow が同じ文脈（政変・革命）で登場することが多いのも、この2語が混同されやすい一因です。
 
 🎯 覚え方：**動詞なら n で終わる thrown（-n は過去分詞の印）、王座は e で終わる throne**。`,
     keyPoints: [
