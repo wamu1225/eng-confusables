@@ -3518,6 +3518,10 @@ new はラテン語 novus、ギリシャ語 neos、サンスクリット語 nava
 
 ⚠️ とくに **homework（学校の宿題）と housework（家事）** は混同の定番です。学校の課題は home、掃除・洗濯などの家事は house。1文字で意味がまったく変わります。
 
+### homeless が示す home の重み
+
+住む場所を失った状態を英語では homeless（家庭・帰る場所を失った）と言い、houseless とはほぼ言いません。建物としての住居だけでなく「安心して帰属できる場」を失っているというニュアンスを、home のこの語が正面から担っています。a broken home（崩壊した家庭）という言い方も、home が建物ではなく家族関係そのものを指す典型例です。
+
 🎯 覚え方：**建物は house、気持ち・帰属は home**。迷ったら「建てられる？」＝house、「帰る場所？」＝home。`,keyPoints:[`house＝建物としての家・家屋（数えられる建造物）`,`home＝家庭・我が家・故郷（帰属・感情を含む）`,`go home（前置詞なし）／at home（在宅・くつろいで）`,`homework（宿題）と housework（家事）は別物`],quiz:[{id:`q-home-1`,question:`空所に入る適切な語はどれですか。「After work, I just want to go ( ).（仕事のあとは家に帰りたいだけ）」`,options:[`house`,`houses`,`home`,`homely`],correctAnswer:2,explanation:`「家に帰る」は go home（前置詞なし）。暮らしの場 home です。`},{id:`q-home-2`,question:`「建物としての家・家屋」を表す語はどれですか。`,options:[`house`,`home`,`homes`,`housing`],correctAnswer:0,explanation:`建物としての家は house です。`},{id:`q-home-3`,question:`空所に入る適切な語はどれですか。「The old ( ) has five bedrooms.（その古い家には寝室が5つある）」`,options:[`house`,`home`,`homely`,`homes`],correctAnswer:0,explanation:`部屋数を数える物理的な建物は house です。`},{id:`q-home-4`,question:`空所に入る適切な語はどれですか。「The teacher gave us a lot of ( ) for the weekend.（先生は週末の宿題をたくさん出した）」`,options:[`housework`,`homework`,`houseworks`,`homeworks`],correctAnswer:1,explanation:`学校の「宿題」は homework（home）。housework は「家事」で別物です。どちらも不可算で複数形にしません。`},{id:`q-home-5`,question:`空所に入る適切な語はどれですか。「Is anyone ( )? I rang the bell.（誰か在宅ですか。ベルを鳴らしました）」`,options:[`house`,`houses`,`home`,`housed`],correctAnswer:2,explanation:`at home の意味で「在宅」は home（be home）です。`}]},{id:`receive-accept`,title:`receive と accept`,chapter:2,description:`receive は「（届いたものを）受け取る」（受動的）、accept は「（受け取ったものを）受け入れる・承諾する」（意志を伴う）。`,content:`## 受け取るだけか、承諾するかで見分ける
 
 どちらも「受ける」ですが、**単に届くか、意志を持って受け入れるか**で使い分けます。
@@ -5654,6 +5658,10 @@ It seems that he was right.（彼が正しかったようだ）や He seems to h
 
 ⚠️ 「詐欺には気をつけて」を \`Be weary of scams.\` と書く誤りが定番です。これでは「詐欺にうんざりしている」。正しくは **Be wary of scams.**
 
+### world-weary という複合語
+
+weary は world-weary（世間に疲れ果てた・厭世的な）、battle-weary（戦い疲れした）のように、他の名詞と組み合わせて「〜に疲れ果てた」を表す複合形容詞をよく作ります。wary にはこの種の複合語がほとんど無く、warily（用心深く）という副詞形が主な広がり方です。
+
 🎯 覚え方：**weary は eat も sleep もできないほど疲れた、wary は watch（見張る）と同じ a で警戒**。`,keyPoints:[`weary＝ひどく疲れた・うんざりした /ˈwɪri/`,`wary＝用心深い・警戒した /ˈweri/（be wary of 〜）`,`Be wary of 〜（用心して）を Be weary of 〜 と書かない`],quiz:[{id:`q-weary-1`,question:`空所に入る適切な語はどれですか。「Be ( ) of strangers offering free tickets.（無料券を配る見知らぬ人には用心して）」`,options:[`weary`,`wearied`,`wary`,`wearily`],correctAnswer:2,explanation:`警戒するは wary。be wary of 〜 です。`},{id:`q-weary-2`,question:`空所に入る適切な語はどれですか。「After the long flight they were ( ).（長いフライトのあと彼らは疲れ果てていた）」`,options:[`wary`,`warily`,`weary`,`wariness`],correctAnswer:2,explanation:`疲れ果てた状態は weary です。`},{id:`q-weary-3`,question:`wary と置き換えやすい語はどれですか。`,options:[`cautious`,`tired`,`sleepy`,`bored`],correctAnswer:0,explanation:`wary は cautious / careful に近い語です。`},{id:`q-weary-4`,question:`「同じ騒音に飽き飽きしている」に合う表現はどれですか。`,options:[`weary of the same noise`,`wary of the same noise`,`wariness of noise`,`warily the noise`],correctAnswer:0,explanation:`be weary of 〜 で「〜にうんざりしている」です。`},{id:`q-weary-5`,question:`weary の発音として適切なものはどれですか。`,options:[`/ˈweri/`,`/ˈwɪri/`,`/ˈwaɪri/`,`/ˈwɜːri/`],correctAnswer:1,explanation:`weary は /ˈwɪri/。/ˈweri/ は wary です。`}]},{id:`bazaar-bizarre`,title:`bazaar と bizarre`,chapter:1,description:`bazaar「市場・バザー」（名詞）、bizarre「奇妙な・風変わりな」（形容詞）。発音はほぼ同じで、品詞と意味が違う。`,content:`## 発音はほぼ同じ、品詞で切り分ける
 
 **bazaar /bəˈzɑːr/ と bizarre /bɪˈzɑːr/ は発音がほとんど区別できません**。書き分けは意味と品詞で行います。
@@ -5878,6 +5886,10 @@ hard／hardly と同じ型で、**-ly をつけると意味が変わる**組み�
 
 ⚠️ \`Lately I went to Kyoto.\` も不自然です。過去の一時点なら recently か、**I went to Kyoto last week.** のように具体的に言います。
 
+### of late というやや硬い言い換え
+
+lately と同じ意味で of late（最近・近ごろ）という言い方があり、ニュース記事や書き言葉で好まれます。Prices have risen of late.（近ごろ物価が上がっている）のように、lately よりも改まった響きを持つ表現として使い分けられます。
+
 🎯 覚え方：**late は時計の針（遅い）、lately はカレンダー（最近）**。lately を見たら現在完了とセットで考えます。`,keyPoints:[`late＝遅い・遅く（be late for / stay up late）`,`lately＝最近・このところ（現在完了形と組むのが自然）`,`「故〜」の意味を持つのは late のみ`],quiz:[{id:`q-late-1`,question:`空所に入る適切な語はどれですか。「Sorry, I am ( ) for the meeting.（会議に遅れてすみません）」`,options:[`lately`,`later than lately`,`late`,`lateness`],correctAnswer:2,explanation:`be late for 〜 で「〜に遅れる」です。`},{id:`q-late-2`,question:`空所に入る適切な語はどれですか。「Have you read any good books ( )?（最近よい本を読みましたか）」`,options:[`late`,`lately`,`later`,`latest`],correctAnswer:1,explanation:`「最近」は lately。現在完了形と自然に組みます。`},{id:`q-late-3`,question:`lately と最も意味が近い語はどれですか。`,options:[`recently`,`slowly`,`finally`,`lastly`],correctAnswer:0,explanation:`lately は recently とほぼ同義です。`},{id:`q-late-4`,question:`「夜更かしする」を表す表現はどれですか。`,options:[`stay up lately`,`stay up late`,`stay lately up`,`be lately up`],correctAnswer:1,explanation:`stay up late で「夜更かしする」です。`},{id:`q-late-5`,question:`「故スミス氏」を表す語句はどれですか。`,options:[`the late Mr. Smith`,`the lately Mr. Smith`,`the later Mr. Smith`,`the latest Mr. Smith`],correctAnswer:0,explanation:`「故〜」は the late 〜 です。`}]},{id:`cook-cooker`,title:`cook と cooker`,chapter:3,description:`cook は「料理する」／「料理人」、cooker は「調理器具（コンロ・レンジ）」。-er が人を表さない例。`,content:`## -er が人とは限らない
 
 動詞に -er をつけると「〜する人」になるのが基本ですが、**cook はそれ自体が「料理人」で、cooker は器具**です。日本語話者が「クッカー＝料理人」と考えて誤りやすい代表例です。
@@ -6016,6 +6028,10 @@ hard／hardly と同じ型で、**-ly をつけると意味が変わる**組み�
 
 ⚠️ \`an opinion pole\` も誤りです。調査なら **an opinion poll**。
 
+### pole position というレース用語
+
+pole は自動車レースの pole position（ポールポジション・予選最速でスタート列の先頭に立つ位置）という専門用語でも使われ、そこから転じて日常会話でも「最も有利な立場」を指す比喩として使われることがあります。
+
 🎯 覚え方：**l が1つの pole は1本の棒、l が2つの poll は票が積み上がる**。`,keyPoints:[`pole と poll は同音 /poʊl/`,`pole＝棒・さお・（地球や磁石の）極`,`poll＝投票・世論調査（the polls で投票所）`],quiz:[{id:`q-pole-1`,question:`空所に入る適切な語はどれですか。「The tent is held up by two ( ).（テントは2本のポールで支えられている）」`,options:[`polls`,`poles`,`poll`,`polling`],correctAnswer:1,explanation:`支柱・さおは pole です。`},{id:`q-pole-2`,question:`空所に入る適切な語はどれですか。「A recent ( ) found that most people support the plan.（最近の世論調査では大半が計画を支持）」`,options:[`pole`,`poles`,`poll`,`polar`],correctAnswer:2,explanation:`世論調査は poll です。`},{id:`q-pole-3`,question:`「北極」を表す語句はどれですか。`,options:[`the North Poll`,`the North Polling`,`the North Poles`,`the North Pole`],correctAnswer:3,explanation:`地理の極は pole です。`},{id:`q-pole-4`,question:`「投票所は午前7時に開く」に合う語はどれですか。`,options:[`The poles open at 7.`,`The polls open at 7.`,`The pole opens at 7.`,`The polling open at 7.`],correctAnswer:1,explanation:`投票所の意味では複数形 the polls を使います。`},{id:`q-pole-5`,question:`2語の発音の関係はどれですか。`,options:[`母音が違う`,`子音が違う`,`同じ発音（同音異義語）`,`アクセントが違う`],correctAnswer:2,explanation:`どちらも /poʊl/ です。`}]},{id:`thrown-throne`,title:`thrown と throne`,chapter:4,description:`同音 /θroʊn/。thrown は throw の過去分詞「投げられた」、throne は名詞「王座・王位」。`,content:`## 音は同じ、動詞の形か王座か
 
 **thrown と throne は同じ発音 /θroʊn/** です。品詞が違うので、文中の役割で見分けられます。
@@ -6041,6 +6057,10 @@ hard／hardly と同じ型で、**-ly をつけると意味が変わる**組み�
 ⚠️ \`He was throne out of the game.\` は誤りです。受け身なので過去分詞の **thrown**。
 
 ⚠️ \`The king sat on his thrown.\` も誤りです。座るのは名詞の **throne**。
+
+### overthrow という複合語
+
+throw から作られる overthrow（政権を武力や革命で倒す・打倒する）という動詞は、throw の過去分詞 thrown とセットで be overthrown（打倒される）という受け身の形でもよく使われます。王座 throne を「引きずり下ろす」場面と、動詞 overthrow が同じ文脈（政変・革命）で登場することが多いのも、この2語が混同されやすい一因です。
 
 🎯 覚え方：**動詞なら n で終わる thrown（-n は過去分詞の印）、王座は e で終わる throne**。`,keyPoints:[`thrown と throne は同音 /θroʊn/`,`thrown＝throw の過去分詞（throw – threw – thrown）`,`throne＝王座・王位（come to the throne＝即位する）`],quiz:[{id:`q-thrown-1`,question:`空所に入る適切な語はどれですか。「The letter had been ( ) away by mistake.（手紙は誤って捨てられていた）」`,options:[`throne`,`threw`,`thrown`,`throw`],correctAnswer:2,explanation:`had been の後ろなので過去分詞 thrown です。`},{id:`q-thrown-2`,question:`空所に入る適切な語はどれですか。「The young queen ascended the ( ).（若い女王が即位した）」`,options:[`throne`,`thrown`,`throwing`,`thrones`],correctAnswer:0,explanation:`王座は throne です。`},{id:`q-thrown-3`,question:`throw の変化として正しいものはどれですか。`,options:[`throw – throwed – throwed`,`throw – thrown – threw`,`throw – throne – thrown`,`throw – threw – thrown`],correctAnswer:3,explanation:`throw – threw – thrown です。`},{id:`q-thrown-4`,question:`「退位する」に近い表現はどれですか。`,options:[`give up the throne`,`give up the thrown`,`throw the throne`,`thrown the crown`],correctAnswer:0,explanation:`王位は throne。give up the throne で退位です。`},{id:`q-thrown-5`,question:`誤りを含む文はどれですか。`,options:[`The ball was thrown to first base.`,`He has thrown away the receipt.`,`The king sat on his thrown.`,`The prince is next in line to the throne.`],correctAnswer:2,explanation:`座るのは名詞 throne です。`}]},{id:`faze-phase`,title:`faze と phase`,chapter:4,description:`同音 /feɪz/。faze は動詞「（人を）動揺させる」、phase は名詞「段階・局面」。`,content:`## 音は同じ、動揺か段階か
 
