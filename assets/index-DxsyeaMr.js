@@ -6090,7 +6090,177 @@ throw から作られる overthrow（政権を武力や革命で倒す・打倒�
 
 ⚠️ \`It didn't phase me.\` もよく見かける誤りですが、動揺の意味なら **faze** が本来の語です。
 
-🎯 覚え方：**ph の phase は「フェーズ＝段階」、f の faze は「動じる／動じない」**。段階の話か気持ちの話かで決めます。`,keyPoints:[`faze と phase は同音 /feɪz/`,`faze＝動詞「（人を）動揺させる」（否定文で使うことが多い）`,`phase＝名詞「段階・局面」（phase in / phase out）`],quiz:[{id:`q-faze-1`,question:`空所に入る適切な語はどれですか。「The loud noise did not ( ) the dog.（大きな音でも犬は動じなかった）」`,options:[`phase`,`faze`,`phrase`,`fazing`],correctAnswer:1,explanation:`「動揺させる」は faze です。`},{id:`q-faze-2`,question:`空所に入る適切な語はどれですか。「We are now in the second ( ) of construction.（工事は第2段階に入っている）」`,options:[`phase`,`faze`,`fazes`,`phrase`],correctAnswer:0,explanation:`工程の段階は phase です。`},{id:`q-faze-3`,question:`「段階的に廃止する」を表す句動詞はどれですか。`,options:[`faze out`,`faze off`,`phase up`,`phase out`],correctAnswer:3,explanation:`phase out で「段階的に廃止する」です。`},{id:`q-faze-4`,question:`2語の発音の関係はどれですか。`,options:[`母音が違う`,`子音が違う`,`同じ発音（同音異義語）`,`アクセントが違う`],correctAnswer:2,explanation:`どちらも /feɪz/ です。`},{id:`q-faze-5`,question:`「彼は何事にも動じない」に合う文はどれですか。`,options:[`Nothing phases him.`,`Nothing fazes him.`,`Nothing phrases him.`,`Nothing phase him.`],correctAnswer:1,explanation:`動揺の意味では faze を使います。`}]}],c={1:`スペルが似ている語`,2:`意味が近く使い分けが難しい語`,3:`品詞・派生でまぎらわしい語`,4:`発音が似ている語`,5:`熟語・句動詞でまぎらわしいもの`},l={audience:`大学受験・TOEIC・英検の学習者、英語を学び直す社会人`,approach:`一対一の和訳暗記ではなく、意味の核と使い分けを比較表とミニ問題で身につける`},u=[{id:`take`,verb:`take`,title:`take を使った紛らわしい熟語・句動詞`,description:`take の中心イメージ「手を伸ばして自分の側に取り込む」が、続く前置詞・副詞でどう枝分かれするかをまとめたハブページ。`,content:`## take の中心イメージ
+🎯 覚え方：**ph の phase は「フェーズ＝段階」、f の faze は「動じる／動じない」**。段階の話か気持ちの話かで決めます。`,keyPoints:[`faze と phase は同音 /feɪz/`,`faze＝動詞「（人を）動揺させる」（否定文で使うことが多い）`,`phase＝名詞「段階・局面」（phase in / phase out）`],quiz:[{id:`q-faze-1`,question:`空所に入る適切な語はどれですか。「The loud noise did not ( ) the dog.（大きな音でも犬は動じなかった）」`,options:[`phase`,`faze`,`phrase`,`fazing`],correctAnswer:1,explanation:`「動揺させる」は faze です。`},{id:`q-faze-2`,question:`空所に入る適切な語はどれですか。「We are now in the second ( ) of construction.（工事は第2段階に入っている）」`,options:[`phase`,`faze`,`fazes`,`phrase`],correctAnswer:0,explanation:`工程の段階は phase です。`},{id:`q-faze-3`,question:`「段階的に廃止する」を表す句動詞はどれですか。`,options:[`faze out`,`faze off`,`phase up`,`phase out`],correctAnswer:3,explanation:`phase out で「段階的に廃止する」です。`},{id:`q-faze-4`,question:`2語の発音の関係はどれですか。`,options:[`母音が違う`,`子音が違う`,`同じ発音（同音異義語）`,`アクセントが違う`],correctAnswer:2,explanation:`どちらも /feɪz/ です。`},{id:`q-faze-5`,question:`「彼は何事にも動じない」に合う文はどれですか。`,options:[`Nothing phases him.`,`Nothing fazes him.`,`Nothing phrases him.`,`Nothing phase him.`],correctAnswer:1,explanation:`動揺の意味では faze を使います。`}]},{id:`take-after-take-over`,title:`take after と take over`,chapter:5,hubId:`take`,description:`同じ take でも after は「似ている」、over は「引き継ぐ・乗っ取る」。対象も進行形の可否もまったく違います。`,content:`## 似ている人か、引き継ぐ対象か
+
+take after と take over はどちらも「take＋前置詞」ですが、意味の系統がまったく異なります。前置詞が運ぶイメージの違いをつかむと迷わなくなります。
+
+- **take after** … 血縁者に**似ている**という状態を表す。進行形・受動態にしない。
+- **take over** … 事業・職務・国などを**引き継ぐ・乗っ取る**という動作を表す。
+
+| 熟語 | 中心の意味 | 典型的な目的語 |
+| --- | --- | --- |
+| take **after** | （外見・性格が）似ている | one's father, one's mother, one's grandfather |
+| take **over** | 引き継ぐ・乗っ取る | the company, the presidency, the role, the world |
+
+### 使い分けの手がかり
+
+**take after は resemble に置き換えられ、目的語は必ず血縁者**です。"She takes after her mother." のように、常に「今そういう状態である」ことを述べるので、進行形（is taking after）にはしません。
+
+**take over は assume control of に置き換えられます**。目的語は会社・国・役職・作業など「支配や責任を引き継げるもの」で、人には使いません。「新CEOが会社を引き継ぐ」the new CEO will take over the company のように使われ、敵対的な意味（乗っ取る）にもなります。
+
+### なぜ直訳で読み解けないか
+
+take 単体は「取る」ですが、after は「後を追いかける」、over は「上から覆いかぶさる」という空間イメージを運びます。take after は「（親の）後ろについて回るうちに似てしまう」感覚、take over は「相手の領域に覆いかぶさって支配下に置く」感覚で、どちらも take の訳語「取る」からは出てきません。
+
+### よくある誤用
+
+⚠️ \`He takes over his father in personality.\`（誤）。性格が似ているは take **after**。take over に「似る」の意味はありません。
+
+⚠️ \`The new manager took after the department last month.\`（誤）。部署を引き継いだのは take **over**。目的語が組織である時点で after ではなく over です。
+
+📖 take over は名詞形 takeover（企業買収）としても頻出します。hostile takeover（敵対的買収）は経済記事の定番語です。
+
+🎯 覚え方：**after＝後ろについて回るほど似る**、**over＝上から覆いかぶさって支配する**。目的語が「人（血縁）」か「組織・役職」かで即座に切り分けられます。`,keyPoints:[`take after＝血縁者に似ている（進行形・受動態にしない、resemble に置換可）`,`take over＝事業・役職・国などを引き継ぐ・乗っ取る（assume control of に置換可）`,`take after の目的語は必ず人（血縁）、take over の目的語は組織・地位など`,`名詞形 takeover は企業買収の意味で経済記事に頻出`],quiz:[{id:`q-takeafter-1`,question:`空所に入る適切な語はどれですか。「She really takes ( ) her grandmother — same smile, same sense of humor.」`,options:[`after`,`over`,`off`,`on`],correctAnswer:0,explanation:`血縁者に似ているという意味なので take after。`},{id:`q-takeafter-2`,question:`空所に入る適切な語はどれですか。「A rival firm attempted to take ( ) the struggling airline last year.」`,options:[`after`,`over`,`in`,`on`],correctAnswer:1,explanation:`会社を乗っ取る・買収するという意味なので take over。`},{id:`q-takeafter-3`,question:`take after の言い換えとして最も適切なものはどれですか。`,options:[`assume control of`,`resemble`,`deceive`,`postpone`],correctAnswer:1,explanation:`take after は resemble（似ている）に置き換えられます。`},{id:`q-takeafter-4`,question:`take after の目的語として自然なものはどれですか。`,options:[`the company`,`the presidency`,`his father`,`the role`],correctAnswer:2,explanation:`take after の目的語は血縁者に限られます。`},{id:`q-takeafter-5`,question:`「企業買収」を意味する名詞はどちらの熟語から派生しますか。`,options:[`take after → takeafter`,`take over → takeover`,`どちらも同じ名詞になる`,`名詞形は存在しない`],correctAnswer:1,explanation:`take over の名詞形 takeover が「買収」の意味で使われます。`}]},{id:`take-in-take-on-take-off`,title:`take in / take on / take off`,chapter:5,hubId:`take`,description:`同じ take でも in は「取り込む」、on は「身に引き受ける」、off は「離れる」。3つの前置詞のイメージが意味を分けます。`,content:`## 「取り込む」「引き受ける」「離れる」の3方向
+
+take in・take on・take off は take のあとに続く前置詞・副詞ごとに意味の方向が変わる代表例です。多義語も多く、まとめて整理すると混同を防げます。
+
+| 熟語 | 前置詞・副詞のイメージ | 代表的な意味 |
+| --- | --- | --- |
+| take **in** | in（内側へ取り込む） | 理解する・だます・（人を）泊める・（服を）詰める |
+| take **on** | on（表面に負わせる） | （仕事・責任）を引き受ける・（性質を）帯びる・（乗客を）乗せる |
+| take **off** | off（本体から離れる） | 離陸する・急成長する・脱ぐ・急いで立ち去る・差し引く |
+
+### take in の使い分け
+
+take in は「情報や人を自分の内側に取り込む」イメージが核です。**be taken in by 〜（〜にだまされる）**が受動態の定型で、"I was taken in by his charming smile." のように使います。能動でも「情報を理解する」（couldn't take in what she said）、「身寄りのない人を家に泊める」（take in a stray cat）、「服の幅を詰める」（take in the waist）と幅広く使われますが、共通するのは「外にあったものを内側へ入れる」動作です。
+
+### take on の使い分け
+
+take on は「自分の表面・肩に負わせる」イメージです。**仕事や責任を引き受ける**（take on more work）が最も頻出し、そこから「新しい性質を帯びる」（the town took on a festive mood）、バスや船が「乗客を乗せる」（the bus stopped to take on passengers）へ広がります。
+
+### take off の使い分け
+
+take off は「本体から離れる」イメージが核です。飛行機の**離陸**（the plane took off）が代表例ですが、「急成長する」（sales took off after the ad campaign）、「服を脱ぐ」（take off your coat）、口語で「急いで立ち去る」（he took off without saying goodbye）、金額を「差し引く」（they took off 10 percent）にも使われます。
+
+### よくある誤用
+
+⚠️ \`I was taken off by his lies.\`（誤）。だまされたは take **in**（be taken in by）。take off に「だます」の意味はありません。
+
+⚠️ \`The company decided to take in more staff.\`（誤・意図不明瞭）。「仕事を引き受ける」なら take **on**。take in を人に使うと「保護する・住まわせる」の意味になり、雇用の文脈では誤解を招きます。
+
+🎯 覚え方：**in＝内側に取り込む（だます・理解する・泊める）**、**on＝表面に負わせる（引き受ける・帯びる）**、**off＝本体から離れる（離陸する・脱ぐ・立ち去る）**。`,keyPoints:[`take in＝理解する・だます（be taken in by）・（人を）泊める・（服を）詰める`,`take on＝仕事や責任を引き受ける・性質を帯びる・（乗客を）乗せる`,`take off＝離陸する・急成長する・脱ぐ・急いで立ち去る・差し引く`,`前置詞のイメージ＝in（取り込む）／on（負わせる）／off（離れる）で意味の方向が決まる`],quiz:[{id:`q-takein-1`,question:`空所に入る適切な語はどれですか。「I was completely taken ( ) by his fake credentials.」`,options:[`off`,`on`,`in`,`over`],correctAnswer:2,explanation:`「だまされる」は be taken in by で表します。`},{id:`q-takein-2`,question:`空所に入る適切な語はどれですか。「She had to take ( ) extra shifts to cover her colleague.」`,options:[`on`,`in`,`off`,`after`],correctAnswer:0,explanation:`仕事・責任を引き受けるは take on。`},{id:`q-takein-3`,question:`空所に入る適切な語はどれですか。「Sales of the new product really took ( ) after the ad campaign.」`,options:[`in`,`on`,`off`,`over`],correctAnswer:2,explanation:`急成長する・爆発的に売れるは take off。`},{id:`q-takein-4`,question:`「飛行機が離陸した」を表す文はどれですか。`,options:[`The plane took in.`,`The plane took on.`,`The plane took off.`,`The plane took after.`],correctAnswer:2,explanation:`離陸するは take off です。`},{id:`q-takein-5`,question:`take in・take on・take off の前置詞・副詞が運ぶイメージの組み合わせとして正しいものはどれですか。`,options:[`in＝離れる／on＝取り込む／off＝負わせる`,`in＝取り込む／on＝負わせる／off＝離れる`,`in＝負わせる／on＝離れる／off＝取り込む`,`3つとも同じイメージ`],correctAnswer:1,explanation:`in は内側への取り込み、on は表面への負荷、off は本体からの離脱を表します。`}]},{id:`bring-about-bring-around`,title:`bring about と bring around`,chapter:5,hubId:`bring`,description:`bring about は「（変化）を引き起こす」、bring around（round）は「説得する・意識を戻す」。about と around のイメージの違いが鍵です。`,content:`## 変化を生じさせるか、向きを変えさせるか
+
+bring about と bring around（イギリス英語では bring round）はどちらも「新しい状態をもたらす」点で似て見えますが、対象と使われ方が異なります。
+
+| 熟語 | 中心の意味 | 典型的な主語・目的語 |
+| --- | --- | --- |
+| bring **about** | （変化・結果）を引き起こす | 主語：政策・技術革新など抽象的な原因 |
+| bring **around**（round） | 説得して意見を変えさせる／気絶した人の意識を戻す | 目的語：反対していた人／気を失った人 |
+
+### bring about の使い分け
+
+bring about は「cause something to happen（何かを起こす）」という意味です。主語には政策・技術の進歩・出来事のような**抽象的な原因**が来て、"The new policy brought about a significant change in public opinion." のように使われます。人が主語になることもありますが、直接的な行為というより「結果として〜を生じさせた」というニュアンスです。
+
+### bring around（round）の使い分け
+
+bring around には2つの意味があります。1つは「反対していた人を説得して自分と同じ意見にさせる」（persuade someone to agree with you）で、"After a long discussion, they finally brought her around to their point of view." のように使います。もう1つは「気を失った人の意識を戻す」（make someone become conscious again）で、医療・応急処置の文脈で頻出します。
+
+### 使い分けの手がかり
+
+**bring about は cause に置換でき、目的語は抽象名詞（change, reform, crisis など）**。**bring around は persuade または revive に置換でき、目的語は必ず人**です。目的語が「出来事・状態」か「人」かを見れば一瞬で判別できます。
+
+### なぜ直訳で読み解けないか
+
+about は「周囲に、あちこちに」というイメージで、bring about は「今までなかった事象を周囲の現実に発生させる」ことを表します。around（round）は「円を描いて向きを変える」イメージで、bring [人] around は「相手の意識・態度をぐるりと回転させて自分の側へ向かわせる」ことを表します。どちらも bring の訳語「持ってくる」だけでは想像しにくい比喩です。
+
+### よくある誤用
+
+⚠️ \`The new policy brought around a major change.\`（誤）。変化を引き起こしたのは bring **about**。bring around の目的語は人でなければなりません。
+
+⚠️ \`We tried to bring about him to our plan.\`（誤）。説得したのは bring **around**。about に「説得する」の意味はありません。
+
+🎯 覚え方：**about＝周囲に生じさせる（変化・結果）**、**around＝ぐるりと向きを変えさせる（説得・意識回復）**。`,keyPoints:[`bring about＝（変化・結果）を引き起こす。目的語は抽象名詞（cause に置換可）`,`bring around（round）＝説得して意見を変えさせる／気を失った人の意識を戻す。目的語は必ず人`,`目的語が「出来事・状態」か「人」かで判別できる`,`about＝周囲に生じさせる、around＝向きを回転させる、という前置詞イメージの違いが核`],quiz:[{id:`q-bringabout-1`,question:`空所に入る適切な語はどれですか。「The new legislation is expected to bring ( ) major changes in the industry.」`,options:[`around`,`about`,`on`,`up`],correctAnswer:1,explanation:`変化を引き起こすは bring about。`},{id:`q-bringabout-2`,question:`空所に入る適切な語はどれですか。「The paramedics worked quickly to bring the unconscious man ( ).」`,options:[`about`,`up`,`around`,`on`],correctAnswer:2,explanation:`意識を戻すは bring around（round）。`},{id:`q-bringabout-3`,question:`bring about の言い換えとして最も適切なものはどれですか。`,options:[`persuade`,`cause`,`raise`,`postpone`],correctAnswer:1,explanation:`bring about は cause（引き起こす）に置換できます。`},{id:`q-bringabout-4`,question:`bring around（round）の目的語として自然なものはどれですか。`,options:[`a crisis`,`economic reform`,`her skeptical colleague`,`a new policy`],correctAnswer:2,explanation:`bring around の目的語は必ず人です。`},{id:`q-bringabout-5`,question:`「（反対していた人を）説得して意見を変えさせた」を表す文はどれですか。`,options:[`They brought about her to their view.`,`They brought her around to their view.`,`They brought up her to their view.`,`They brought on her to their view.`],correctAnswer:1,explanation:`説得して意見を変えさせるは bring around（round）。`}]},{id:`bring-on-bring-up`,title:`bring on と bring up`,chapter:5,hubId:`bring`,description:`bring on は「（望ましくない事態）を引き起こす／育てる」、bring up は「（子を）育てる／話題に挙げる」。育てる意味が重なるので要注意です。`,content:`## 育てる意味が重なる紛らわしいペア
+
+bring on と bring up はどちらも「育てる・発達させる」という意味を持つ場面があり、他の bring 系熟語の中でも特に混同されやすい組み合わせです。
+
+| 熟語 | 中心の意味 | 典型的な使われ方 |
+| --- | --- | --- |
+| bring **on** | （望ましくない事態）を引き起こす／（人を）育成・上達させる | bring on a headache／bring the team on |
+| bring **up** | （子を）育てる／（話題を）持ち出す | bring up a child／bring up an issue |
+
+### bring on の使い分け
+
+bring on の最も頻出する用法は「（病気・不快な事態）を引き起こす」です。"Stress can bring on severe headaches." のように、主語には原因となる出来事や状況が来ます。もう1つの用法は「（選手・生徒などを）指導して上達させる」で、especially in British English でスポーツ・教育の文脈に使われます（bring on young players）。
+
+### bring up の使い分け
+
+bring up の中心は「（子どもを）養育する、しつける」で、"She was brought up in a small village." のように受動態が定番です。もう1つの重要な意味が「（話題・議案）を持ち出す・言及する」で、"He brought up an important point during the meeting." のように会議やディスカッションの場面で頻出します。ほかに法律用語で「（人を）出廷させる」、コンピュータ操作で「（画面に）表示させる」、口語で「吐く」の意味もあります。
+
+### 使い分けの手がかり
+
+**「不快な症状の原因」の話なら bring on**（stress brings on migraines）。**「子育て」や「話題に出す」の話なら bring up**（brought up well／bring up a topic）。「人を育てる」という意味では両方使われることがありますが、**bring on は能力の向上・訓練**、**bring up は人格形成としての養育**という違いがあります。
+
+### よくある誤用
+
+⚠️ \`I don't want to bring on this topic again.\`（誤）。話題を持ち出すのは bring **up**。bring on に「話題に出す」の意味はありません。
+
+⚠️ \`Her parents brought up her allergy.\`（誤・意味不明瞭）。アレルギーを「引き起こした」なら bring **on**。bring up は基本的に子育てか話題の意味で使われます。
+
+🎯 覚え方：**on＝症状や能力を前面に押し出す（発症させる／鍛える）**、**up＝上へ引き上げて育てる（養育する／話題を持ち出す）**。`,keyPoints:[`bring on＝（望ましくない事態・病気）を引き起こす／（選手など）を指導し上達させる`,`bring up＝（子を）育てる（brought up が定番）／（話題を）持ち出す`,`症状・体調の話なら bring on、子育て・話題提起の話なら bring up`,`「育てる」意味が重なるので、目的語が「症状の原因」か「人格形成・話題」かで判別する`],quiz:[{id:`q-bringon-1`,question:`空所に入る適切な語はどれですか。「Lack of sleep can bring ( ) severe headaches.」`,options:[`up`,`on`,`about`,`around`],correctAnswer:1,explanation:`症状を引き起こすは bring on。`},{id:`q-bringon-2`,question:`空所に入る適切な語はどれですか。「She was born and brought ( ) in a small fishing village.」`,options:[`on`,`about`,`up`,`around`],correctAnswer:2,explanation:`育てられたは be brought up。`},{id:`q-bringon-3`,question:`空所に入る適切な語はどれですか。「I hate to bring this ( ), but the deadline is tomorrow.」`,options:[`on`,`up`,`about`,`over`],correctAnswer:1,explanation:`話題を持ち出すは bring up。`},{id:`q-bringon-4`,question:`bring on の対象として自然なものはどれですか。`,options:[`a child`,`a topic`,`a migraine`,`a contract`],correctAnswer:2,explanation:`bring on は症状・不快な事態を引き起こす意味で使われます。`},{id:`q-bringon-5`,question:`bring on と bring up の違いとして最も正確なものはどれですか。`,options:[`on は症状・能力を前面に出す、up は人格を育て話題を引き上げる`,`両者に意味の違いはない`,`on は話題に使う、up は病気に使う`,`on は子育てにしか使わない`],correctAnswer:0,explanation:`on は発症・訓練、up は養育・話題提起という違いがあります。`}]},{id:`call-for-call-on`,title:`call for と call on`,chapter:5,hubId:`call`,description:`call for は「〜を必要とする・要求する」、call on は「〜に働きかける・訪問する」。主語が「状況」か「人」かで見分けられます。`,content:`## 状況が求めるか、人に働きかけるか
+
+call for と call on はどちらも「求める」に訳されがちですが、主語と対象がはっきり異なります。
+
+| 熟語 | 中心の意味 | 典型的な主語・目的語 |
+| --- | --- | --- |
+| call **for** | 〜を必要とする／〜を公に要求する | 主語：状況・事態、目的語：対応・行動 |
+| call **on**（upon） | 〜に正式に要求する／〜を訪問する | 主語：人・団体、目的語：人 |
+
+### call for の使い分け
+
+call for の最も頻出する用法は「（状況が）〜を必要とする」で、"This situation calls for immediate action." のように**無生物主語**が典型です。もう1つの用法は「（人々が）〜を公に要求する」で、"Protesters called for the minister's resignation." のように、要求の内容（辞任・変更など）が目的語に来ます。イギリス英語では「（人を）迎えに立ち寄る」という意味もあります。
+
+### call on の使い分け
+
+call on（フォーマルには call upon）は「（人に）正式に〜するよう求める」で、"The committee called on the government to reconsider the policy." のように、**目的語が人・団体**で、そのあとに to 不定詞が続く形が定型です。もう1つの意味が「（人を）短時間訪問する」で、"She called on her old friend while she was in town." のように使われます。また「（人を）指名して発言させる」（I now call on the chairperson to speak）にも使われます。
+
+### 使い分けの手がかり
+
+**call for の主語は「状況・出来事」であることが多く、目的語は行動や対応**（call for action, call for reform）。**call on の目的語は必ず「人・団体」で、多くの場合 to do の形が続きます**（call on the government to act）。主語が人か状況か、目的語が人か行動かを見れば判別できます。
+
+### よくある誤用
+
+⚠️ \`This crisis calls on immediate reform.\`（誤）。状況が求めているのは call **for**。call on の目的語は人でなければなりません。
+
+⚠️ \`The activists called for the mayor to step down.\`（実は成立しますが要注意）。call for は「〜という行動」を目的語にでき、call on は「人＋to不定詞」で同じ内容を表せます。両方使えても、**call for reform** と **call on the mayor to resign** のように、目的語の種類が違う点は変わりません。
+
+🎯 覚え方：**for＝目的に向けて必要性を差し出す（状況が求める）**、**on＝対象に接触して働きかける（人に求める・訪ねる）**。`,keyPoints:[`call for＝（状況が）〜を必要とする／〜を公に要求する。主語は状況・事態が多い`,`call on（upon）＝（人・団体に）正式に要求する／〜を訪問する。目的語は必ず人`,`call on the government to act のように「人＋to不定詞」の形が定型`,`主語が状況か人か、目的語が行動か人かで判別する`],quiz:[{id:`q-callfor-1`,question:`空所に入る適切な語はどれですか。「This delicate situation calls ( ) careful diplomatic handling.」`,options:[`on`,`for`,`up`,`off`],correctAnswer:1,explanation:`状況が必要としているは call for。`},{id:`q-callfor-2`,question:`空所に入る適切な語はどれですか。「Human rights groups have called ( ) the government to release the prisoners.」`,options:[`for`,`on`,`off`,`up`],correctAnswer:1,explanation:`人・団体に要求するは call on（+ to不定詞）。`},{id:`q-callfor-3`,question:`空所に入る適切な語はどれですか。「I called ( ) my grandmother on my way home from work.」`,options:[`for`,`on`,`up`,`off`],correctAnswer:1,explanation:`人を短時間訪問するは call on。`},{id:`q-callfor-4`,question:`call for の主語として最も自然なものはどれですか。`,options:[`the government`,`the committee members`,`the current economic crisis`,`my neighbor`],correctAnswer:2,explanation:`call for は状況・事態が主語になることが多い熟語です。`},{id:`q-callfor-5`,question:`call on の目的語として文法的に自然なものはどれですか。`,options:[`a solution`,`the mayor`,`urgent reform`,`more funding`],correctAnswer:1,explanation:`call on の目的語は人・団体です。`}]},{id:`call-off-call-up`,title:`call off と call up`,chapter:5,hubId:`call`,description:`call off は「（予定）を中止する」、call up は「電話をかける・記憶を呼び起こす・招集する」。離脱と呼び出しでイメージが正反対です。`,content:`## 中止するか、呼び出すか
+
+call off と call up は前置詞・副詞が正反対のイメージを運びます。off は「切り離す」、up は「呼び上げる」という方向の違いをつかむと迷いません。
+
+| 熟語 | 中心の意味 | 典型的な目的語 |
+| --- | --- | --- |
+| call **off** | （予定していたこと）を中止する | the meeting, the strike, the wedding, the deal |
+| call **up** | 電話をかける／記憶を呼び起こす／（予備兵を）招集する | a friend, a memory, army reserves |
+
+### call off の使い分け
+
+call off は「予定・計画されていたことを取りやめる」という意味で、"They called off the wedding two weeks before the ceremony." のように使います。ストライキ・取引・捜索・攻撃など、進行中または予定されていた事柄を対象に取ります。また「（犬や人に）攻撃・追跡をやめさせる」という意味もあり、call off the dogs（追及の手をゆるめる、の比喩でも使う）が定番表現です。
+
+### call up の使い分け
+
+call up の最も日常的な意味は「電話をかける」で、"I'll call you up tonight." のように使われます。もう1つの意味は「（記憶・イメージを）呼び起こす」（the song called up memories of her childhood）。さらに軍事文脈では「（予備役を）招集する」（the army called up thousands of reservists）という意味を持ち、ニュース記事で頻出します。
+
+### 使い分けの手がかり
+
+**call off は cancel に置換でき、目的語は「予定されていた行事・計画」**。**call up は phone／summon／evoke に置換でき、目的語は「人・記憶・兵士」**です。「取りやめる」話か「呼び出す」話かで前置詞の方向が正反対になる点を意識すると混同しません。
+
+### よくある誤用
+
+⚠️ \`The company decided to call up the merger.\`（誤）。合併を中止したのは call **off**。call up に「中止する」の意味はありません。
+
+⚠️ \`They called off him to discuss the contract.\`（誤）。電話をかけたのは call **up**。call off は中止の意味しか持たず、人を目的語にして「連絡する」ようには使いません。
+
+🎯 覚え方：**off＝進行中のものを切り離して無効化する（中止する）**、**up＝相手や記憶を手元に呼び上げる（電話する・思い出す・招集する）**。`,keyPoints:[`call off＝（予定していたこと）を中止する。目的語は行事・計画（cancel に置換可）`,`call up＝電話をかける／記憶を呼び起こす／（予備役を）招集する`,`call off は「切り離して無効化する」、call up は「呼び上げる」という正反対のイメージ`,`軍事ニュースの call up（招集）と日常会話の call up（電話する）は同じ熟語`],quiz:[{id:`q-calloff-1`,question:`空所に入る適切な語はどれですか。「Organizers were forced to call ( ) the outdoor concert due to the storm.」`,options:[`up`,`off`,`on`,`for`],correctAnswer:1,explanation:`予定を中止するは call off。`},{id:`q-calloff-2`,question:`空所に入る適切な語はどれですか。「The old photograph called ( ) vivid memories of her hometown.」`,options:[`off`,`for`,`up`,`on`],correctAnswer:2,explanation:`記憶を呼び起こすは call up。`},{id:`q-calloff-3`,question:`空所に入る適切な語はどれですか。「Thousands of army reservists were called ( ) during the crisis.」`,options:[`off`,`up`,`for`,`on`],correctAnswer:1,explanation:`予備役を招集するは call up。`},{id:`q-calloff-4`,question:`call off の言い換えとして最も適切なものはどれですか。`,options:[`cancel`,`phone`,`evoke`,`summon`],correctAnswer:0,explanation:`call off は cancel（中止する）に置換できます。`},{id:`q-calloff-5`,question:`call off と call up のイメージの違いとして正しいものはどれですか。`,options:[`off＝切り離して無効化する、up＝呼び上げる`,`off＝呼び上げる、up＝切り離す`,`両方とも同じイメージ`,`off＝招集する、up＝中止する`],correctAnswer:0,explanation:`off は進行中のものを切り離して無効化、up は相手や記憶を呼び上げるイメージです。`}]}],c={1:`スペルが似ている語`,2:`意味が近く使い分けが難しい語`,3:`品詞・派生でまぎらわしい語`,4:`発音が似ている語`,5:`熟語・句動詞でまぎらわしいもの`},l={audience:`大学受験・TOEIC・英検の学習者、英語を学び直す社会人`,approach:`一対一の和訳暗記ではなく、意味の核と使い分けを比較表とミニ問題で身につける`},u=[{id:`take`,verb:`take`,title:`take を使った紛らわしい熟語・句動詞`,description:`take の中心イメージ「手を伸ばして自分の側に取り込む」が、続く前置詞・副詞でどう枝分かれするかをまとめたハブページ。`,content:`## take の中心イメージ
 
 take は「（手を伸ばして）つかむ・取る」が核となる意味です。そこから「何かを自分の領域・内側に取り込む」という比喩が幅広く枝分かれし、続く前置詞・副詞が「何を」「どこから」「どんな向きで」取り込むかを決めます。
 
