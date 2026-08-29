@@ -4,6 +4,7 @@ import './App.css';
 import { modules } from './data/modules';
 import type { Module } from './data/modules';
 import { chapterNames, SITE_META } from './data/chapters';
+import { hubs } from './data/hubs';
 import { tokenizeInline } from './lib/inline';
 import type { InlineToken } from './lib/inline';
 import Quiz from './components/Quiz';
@@ -14,8 +15,12 @@ const BASE = '/eng-confusables';
 type Route =
   | { view: 'home' }
   | { view: 'pair'; id: string }
+  | { view: 'hub'; id: string }
   | { view: 'about' }
   | { view: 'privacy' };
+
+// ハブページのURLは動詞そのものと衝突しないよう -phrasal-verbs サフィックスを付ける
+const hubSlug = (verb: string) => `${verb}-phrasal-verbs`;
 
 function parseRoute(pathname: string): Route {
   let p = pathname;
@@ -24,6 +29,8 @@ function parseRoute(pathname: string): Route {
   if (p === '') return { view: 'home' };
   if (p === 'about') return { view: 'about' };
   if (p === 'privacy') return { view: 'privacy' };
+  const hub = hubs.find((h) => hubSlug(h.verb) === p);
+  if (hub) return { view: 'hub', id: hub.id };
   const mod = modules.find((m) => m.id === p);
   if (mod) return { view: 'pair', id: mod.id };
   return { view: 'home' };
@@ -33,6 +40,10 @@ function hrefFor(route: Route): string {
   switch (route.view) {
     case 'home': return `${BASE}/`;
     case 'pair': return `${BASE}/${route.id}/`;
+    case 'hub': {
+      const h = hubs.find((x) => x.id === route.id);
+      return `${BASE}/${h ? hubSlug(h.verb) : route.id}/`;
+    }
     default: return `${BASE}/${route.view}/`;
   }
 }
@@ -146,6 +157,7 @@ export default function App() {
       <main className="main">
         {route.view === 'home' && <Home navigate={navigate} />}
         {route.view === 'pair' && <PairPage id={route.id} navigate={navigate} />}
+        {route.view === 'hub' && <HubPage id={route.id} navigate={navigate} />}
         {route.view === 'about' && <AboutPage />}
         {route.view === 'privacy' && <PrivacyPage />}
       </main>
@@ -217,6 +229,22 @@ function Home({ navigate }: { navigate: (r: Route) => void }) {
         </div>
       </section>
 
+      {(cat === 0 || cat === 5) && !query && (
+        <section className="results" aria-label="熟語・句動詞の動詞ハブ">
+          <h2 style={{ fontSize: '1.05rem', margin: '0 0 10px' }}>動詞から熟語をさがす</h2>
+          <ul className="pair-list" style={{ listStyle: 'none', padding: 0 }}>
+            {hubs.map((h) => (
+              <li key={h.id}>
+                <a href={`${BASE}/${hubSlug(h.verb)}/`} onClick={(e) => { e.preventDefault(); navigate({ view: 'hub', id: h.id }); }}>
+                  <span className="pair-title">{h.verb}</span>
+                  <span className="pair-desc">{h.description}</span>
+                </a>
+              </li>
+            ))}
+          </ul>
+        </section>
+      )}
+
       <section className="results">
         <p className="results-count">{results.length} 組{query ? `（「${query}」で検索）` : ''}</p>
         {results.length === 0 ? (
@@ -280,6 +308,55 @@ function PairPage({ id, navigate }: { id: string; navigate: (r: Route) => void }
       <nav className="pair-nav">
         {prev ? <button className="btn" onClick={() => navigate({ view: 'pair', id: prev.id })}>← {prev.title}</button> : <span />}
         {next ? <button className="btn btn-primary" onClick={() => navigate({ view: 'pair', id: next.id })}>{next.title} →</button> : <button className="btn" onClick={() => navigate({ view: 'home' })}>一覧へ戻る</button>}
+      </nav>
+    </article>
+  );
+}
+
+// ── Hub page（動詞ハブ：熟語ペアの入口。O-1-5）────
+function HubPage({ id, navigate }: { id: string; navigate: (r: Route) => void }) {
+  const hub = hubs.find((h) => h.id === id);
+  if (!hub) return <p>ページが見つかりませんでした。</p>;
+  const linkedPairs = modules.filter((m) => m.hubId === hub.id);
+
+  return (
+    <article className="pair">
+      <nav className="breadcrumb">
+        <a href={`${BASE}/`} onClick={(e) => { e.preventDefault(); navigate({ view: 'home' }); }}>さがす</a>
+        <span aria-hidden="true">/</span>
+        <span>{chapterNames[5]}</span>
+      </nav>
+      <header className="pair-header">
+        <p className="pair-cat-label">{chapterNames[5]}・動詞ハブ</p>
+        <h1>{hub.title}</h1>
+        <p className="pair-lead">{hub.description}</p>
+      </header>
+
+      <div className="pair-body">{renderContent(hub.content)}</div>
+
+      <section className="keypoints">
+        <h2>{linkedPairs.length > 0 ? `${hub.verb} の熟語ペア一覧` : `${hub.verb} で今後扱う予定の熟語ペア`}</h2>
+        {linkedPairs.length > 0 ? (
+          <ul className="pair-list" style={{ listStyle: 'none', padding: 0 }}>
+            {linkedPairs.map((m) => (
+              <li key={m.id}>
+                <a href={`${BASE}/${m.id}/`} onClick={(e) => { e.preventDefault(); navigate({ view: 'pair', id: m.id }); }}>
+                  <span className="pair-title">{m.title}</span>
+                  <span className="pair-desc">{m.description}</span>
+                </a>
+              </li>
+            ))}
+          </ul>
+        ) : (
+          <>
+            <ul>{hub.previewPairs.map((p, i) => <li key={i}>{p}</li>)}</ul>
+            <p style={{ color: '#868d99', fontSize: '0.9rem' }}>各ページは準備中です。公開までこのハブページで前置詞ごとの意味の違いを先に押さえておくと、個別ページの理解が早くなります。</p>
+          </>
+        )}
+      </section>
+
+      <nav className="pair-nav">
+        <button className="btn" onClick={() => navigate({ view: 'home' })}>一覧へ戻る</button>
       </nav>
     </article>
   );

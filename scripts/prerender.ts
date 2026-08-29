@@ -6,6 +6,9 @@ import * as fs from 'fs';
 import * as path from 'path';
 import { modules } from '../src/data/modules';
 import { chapterNames } from '../src/data/chapters';
+import { hubs } from '../src/data/hubs';
+
+const hubSlug = (verb: string) => `${verb}-phrasal-verbs`;
 
 const DIST_DIR = path.resolve(process.cwd(), 'dist');
 const INDEX_HTML_PATH = path.join(DIST_DIR, 'index.html');
@@ -88,10 +91,13 @@ const catListHtml = (() => {
   }).join('\n');
 })();
 
+const hubListHtml = `<h2 style="font-size:1.15rem;margin:22px 0 8px;border-bottom:1px solid #e2dfd7;padding-bottom:4px">動詞から熟語をさがす</h2><ul style="list-style:none;padding:0;margin:0">${hubs.map((h) => `<li style="margin:7px 0"><a href="${BASE}/${hubSlug(h.verb)}/" style="color:#2f4b7c;font-weight:600;text-decoration:none">${esc(h.verb)}</a> — <span style="color:#555b66;font-size:0.9rem">${esc(h.description)}</span></li>`).join('\n')}</ul>`;
+
 const homeDesc = '似て混同しやすい英単語・熟語を、引いてすぐ違いと使い分けがわかる逆引きの比較リファレンス。';
 const homeFallback = `${banner}${articleOpen}
   <h1 style="font-size:1.7rem;font-weight:700;border-bottom:2px solid #2f4b7c;padding-bottom:8px;margin-bottom:14px">${SITE_NAME}</h1>
   <p style="color:#555b66;margin-bottom:18px">${homeDesc}スペル・意味・品詞・発音が似ている、または前置詞・副詞の使い方でまぎらわしい${modules.length}組の混同ペアを、比較表と例文でまとめています。</p>
+  ${hubListHtml}
   ${catListHtml}
   <nav style="margin-top:28px;border-top:1px solid #e2dfd7;padding-top:16px;display:flex;gap:16px;flex-wrap:wrap">
     <a href="${BASE}/about/" style="color:#2f4b7c">このサイトについて</a>
@@ -177,6 +183,44 @@ for (const mod of modules) {
   count++;
 }
 
+// ── 熟語ハブページ（O-1-5）──
+let hubCount = 0;
+for (const hub of hubs) {
+  const linked = modules.filter((m) => m.hubId === hub.id);
+  const slug = hubSlug(hub.verb);
+  const title = `${hub.title} | ${SITE_NAME}`;
+  const previewHtml = linked.length > 0
+    ? `<ul style="padding-left:20px">${linked.map((m) => `<li><a href="${BASE}/${m.id}/" style="color:#2f4b7c">${esc(m.title)}</a> — <span style="color:#555b66;font-size:0.9rem">${esc(m.description)}</span></li>`).join('')}</ul>`
+    : `<ul style="padding-left:20px">${hub.previewPairs.map((p) => `<li>${esc(p)}</li>`).join('')}</ul><p style="color:#868d99;font-size:0.9rem">各ページは準備中です。公開までこのハブページで前置詞ごとの意味の違いを先に押さえておくと、個別ページの理解が早くなります。</p>`;
+  const body = `${banner}${articleOpen}
+  <nav style="margin-bottom:14px;font-size:0.85rem"><a href="${BASE}/" style="color:#2f4b7c;text-decoration:none">さがす</a> / ${esc(chapterNames[5])}・動詞ハブ</nav>
+  <h1 style="font-size:1.55rem;font-weight:700;border-bottom:2px solid #2f4b7c;padding-bottom:8px;margin-bottom:10px">${esc(hub.title)}</h1>
+  <p style="color:#555b66;margin-bottom:16px;font-size:1.02rem">${esc(hub.description)}</p>
+  ${mdToHtml(hub.content)}
+  <h2 style="font-size:1.05rem;margin:22px 0 8px">${linked.length > 0 ? `${esc(hub.verb)} の熟語ペア一覧` : `${esc(hub.verb)} で今後扱う予定の熟語ペア`}</h2>
+  ${previewHtml}
+  <nav style="margin-top:26px;border-top:1px solid #e2dfd7;padding-top:14px"><a href="${BASE}/" style="color:#2f4b7c;text-decoration:none">← 一覧へ戻る</a></nav>
+  ${disclaimer}
+</article>`;
+  writePage(slug, title, hub.description, body, [
+    {
+      '@context': 'https://schema.org', '@type': 'BreadcrumbList',
+      itemListElement: [
+        { '@type': 'ListItem', position: 1, name: 'さがす', item: `${BASE_URL}/` },
+        { '@type': 'ListItem', position: 2, name: chapterNames[5], item: `${BASE_URL}/` },
+        { '@type': 'ListItem', position: 3, name: hub.title, item: `${BASE_URL}/${slug}/` },
+      ],
+    },
+    {
+      '@context': 'https://schema.org', '@type': 'CollectionPage',
+      name: hub.title, description: hub.description, url: `${BASE_URL}/${slug}/`,
+      inLanguage: 'ja', isAccessibleForFree: true,
+      publisher: { '@type': 'Organization', name: 'study-apps.com', url: 'https://study-apps.com' },
+    },
+  ]);
+  hubCount++;
+}
+
 // ── About / Privacy ──
 writePage('about', `このサイトについて | ${SITE_NAME}`, 'まぎらわしい英単語・熟語ノートの目的・コンテンツ構成・編集制作方針・運営者・お問い合わせ・免責事項について。',
   `${banner}${articleOpen}
@@ -223,6 +267,7 @@ const today = new Date().toISOString().split('T')[0];
 const urls = [
   { loc: `${BASE_URL}/`, priority: '1.0', changefreq: 'weekly' },
   ...modules.map((m) => ({ loc: `${BASE_URL}/${m.id}/`, priority: '0.8', changefreq: 'monthly' })),
+  ...hubs.map((h) => ({ loc: `${BASE_URL}/${hubSlug(h.verb)}/`, priority: '0.7', changefreq: 'weekly' })),
   { loc: `${BASE_URL}/about/`, priority: '0.4', changefreq: 'yearly' },
   { loc: `${BASE_URL}/privacy/`, priority: '0.3', changefreq: 'yearly' },
 ];
@@ -232,4 +277,4 @@ ${urls.map((u) => `  <url><loc>${u.loc}</loc><lastmod>${today}</lastmod><changef
 </urlset>`;
 fs.writeFileSync(path.join(DIST_DIR, 'sitemap.xml'), sitemap);
 
-console.log(`✓ ペア ${count} ページ + 静的2ページ + sitemap.xml（全${urls.length}URL）を生成`);
+console.log(`✓ ペア ${count} ページ + ハブ ${hubCount} ページ + 静的2ページ + sitemap.xml（全${urls.length}URL）を生成`);

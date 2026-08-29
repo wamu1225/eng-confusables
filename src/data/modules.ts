@@ -28,6 +28,7 @@ export interface Module {
   content: string;
   keyPoints?: string[];
   quiz: QuizQuestion[];
+  hubId?: string;    // 第5章（熟語・句動詞）のみ：hubs.ts の動詞ハブと紐付ける任意フィールド（O-1-5）
 }
 
 export const modules: Module[] = [
