@@ -18933,4 +18933,516 @@ call up の最も日常的な意味は「電話をかける」で、"I'll call y
       },
     ],
   },
+  {
+    id: 'put-off-put-across',
+    title: 'put off と put across',
+    chapter: 5,
+    hubId: 'put',
+    description: 'put off は「延期する・嫌にさせる」、put across は「（考えを）わかりやすく伝える」。同じ put でも向きがまったく違います。',
+    content: `## 遠ざけるか、伝え切るか
+
+put off と put across はどちらも「put＋前置詞」ですが、off が運ぶ「遠ざける」イメージと across が運ぶ「渡す」イメージが正反対の方向を向いています。
+
+| 熟語 | 中心の意味 | 典型的な目的語 |
+| --- | --- | --- |
+| put **off** | 延期する／嫌にさせる | a meeting, a decision, a trip／a person |
+| put **across** | （考え・気持ちを）わかりやすく伝える | one's ideas, a message, a point |
+
+### put off の使い分け
+
+put off の最も頻出する意味は「予定を後回しにする」（postpone）で、"We had to put off the meeting until next week." のように使います。もう1つの意味が「人に嫌な印象を与え、興味や信頼を失わせる」で、"His rude manner puts people off." のように、対象が人になる点が1つ目の用法と異なります。
+
+### put across の使い分け
+
+put across は「自分の考え・気持ちを相手に理解させる形で伝える」という意味で、"She's good at putting her ideas across clearly." のように使います。単に「話す」のではなく、**相手にきちんと伝わる形で伝える**というニュアンスが核です。
+
+### 使い分けの手がかり
+
+**put off は postpone（予定の対象）または discourage（人が対象）に置換**できます。目的語が「予定・決定」なら延期、「人」なら嫌悪感を与える意味です。**put across は communicate effectively に置換**でき、目的語は常に「伝える中身（考え・メッセージ）」です。
+
+### なぜ直訳で読み解けないか
+
+off は「本体から距離を置いて遠ざける」イメージなので、put off は期日を遠ざける（延期）にも、人の気持ちを遠ざける（嫌にさせる）にも広がります。across は「向こう側まで渡り切る」イメージなので、put across は考えが相手の理解にまで届くことを表します。
+
+### よくある誤用
+
+⚠️ \`He couldn't put off his ideas clearly.\`（誤）。考えを伝えるのは put **across**。put off に「伝える」の意味はありません。
+
+⚠️ \`The bad weather put across our trip.\`（誤）。旅行を延期したのは put **off**。put across の目的語は「伝える内容」であって「予定」ではありません。
+
+🎯 覚え方：**off＝遠ざける（延期する・嫌にさせる）**、**across＝向こう側まで渡し切る（伝わるように伝える）**。`,
+    keyPoints: [
+      'put off＝予定を延期する（postpone）／人に嫌な印象を与える（discourage）',
+      'put across＝考え・気持ちをわかりやすく相手に伝える（communicate effectively）',
+      'put off の目的語は「予定」か「人」、put across の目的語は常に「伝える中身」',
+      'off＝遠ざける、across＝渡し切る、という前置詞イメージの違いが核',
+    ],
+    quiz: [
+      {
+        id: 'q-putoff-1',
+        question: '空所に入る適切な語はどれですか。「We had to put ( ) the wedding because of the storm.」',
+        options: ['across', 'off', 'up', 'on'],
+        correctAnswer: 1,
+        explanation: '予定を延期するは put off。',
+      },
+      {
+        id: 'q-putoff-2',
+        question: '空所に入る適切な語はどれですか。「He struggled to put his ideas ( ) during the interview.」',
+        options: ['off', 'up', 'across', 'on'],
+        correctAnswer: 2,
+        explanation: '考えをわかりやすく伝えるは put across。',
+      },
+      {
+        id: 'q-putoff-3',
+        question: '空所に入る適切な語はどれですか。「Her constant complaining really puts people ( ).」',
+        options: ['across', 'off', 'up', 'over'],
+        correctAnswer: 1,
+        explanation: '人に嫌な印象を与えるのも put off です。',
+      },
+      {
+        id: 'q-putoff-4',
+        question: 'put across の言い換えとして最も適切なものはどれですか。',
+        options: ['postpone', 'discourage', 'communicate effectively', 'cancel'],
+        correctAnswer: 2,
+        explanation: 'put across は「効果的に伝える」という意味です。',
+      },
+      {
+        id: 'q-putoff-5',
+        question: 'put off の目的語として自然でないものはどれですか。',
+        options: ['a meeting', 'a decision', 'one’s message', 'a trip'],
+        correctAnswer: 2,
+        explanation: '「伝える中身（メッセージ）」は put across の目的語です。',
+      },
+    ],
+  },
+  {
+    id: 'put-up-with-put-up',
+    title: 'put up with と put up',
+    chapter: 5,
+    hubId: 'put',
+    description: 'put up with は「我慢する」、put up は「（看板等を）掲げる・宿泊させる・お金を出す」。with の有無で意味が完全に変わります。',
+    content: `## with があるかどうかで意味が変わる
+
+put up with と put up は形が似ていますが、with の有無で意味の系統がまったく違います。
+
+| 熟語 | 中心の意味 | 典型的な目的語 |
+| --- | --- | --- |
+| put up **with** | （嫌なこと・人）を不満を言わずに我慢する | noise, behavior, a person |
+| put **up** | （看板等を）掲げる・（人を）宿泊させる・（資金を）出す | a poster, a guest, money |
+
+### put up with の使い分け
+
+put up with は「不快なこと・人を、文句を言わずに耐える」という意味で、"I don't know how she puts up with him." のように使います。tolerate の同義語として辞書に載っており、**多くの場合「選択肢がなく仕方なく我慢する」**というニュアンスを伴います。
+
+### put up の使い分け
+
+put up は文脈によって複数の意味を持ちます。物理的に「（ポスター・テントなどを）設置する・掲げる」（put up a notice）、「（人を自宅などに）泊める」（put up a friend for the night）、お金の話で「（資金を）出資する」（put up the capital for a project）などです。
+
+### 使い分けの手がかり
+
+**put up with は tolerate に置換でき、目的語は必ず「不快なもの」**です。**put up は set up／accommodate／provide（funds）などに置換でき、目的語は「掲示物・人・お金」**で、不快感とは無関係な中立的な意味を持ちます。with が付くかどうかで意味が完全に切り替わる点に注意します。
+
+### なぜ直訳で読み解けないか
+
+up with は「（負担）と同じ高さに立ち、それに耐えて伴う」イメージで、put up with は「不快なものと共に立ち続けて我慢する」ことを表します。一方 up 単体は「上方に設置する・持ち上げる」イメージなので、put up は物理的な設置や宿泊の提供につながります。
+
+### よくある誤用
+
+⚠️ \`I can't put up his behavior any longer.\`（誤・with が抜けている）。我慢するには **put up with** が必要です。with を省略すると意味が通じません。
+
+⚠️ \`They put up with a tent for the night.\`（誤）。テントを設営したのは put **up**（with不要）。「テントを我慢する」という意味には通常なりません。
+
+🎯 覚え方：**up with＝負担と並んで立ち続けて耐える（我慢する）**、**up 単体＝上方に設置する（掲げる・泊める・出資する）**。`,
+    keyPoints: [
+      'put up with＝（不快なこと・人）を我慢する（tolerate に置換可）。with は省略不可',
+      'put up＝（看板等を）掲げる／（人を）宿泊させる／（資金を）出す。with なしの中立的な意味',
+      'put up with の目的語は必ず「不快なもの」、put up の目的語は掲示物・人・お金',
+      'with の有無だけで意味の系統がまったく変わる点が最大の注意点',
+    ],
+    quiz: [
+      {
+        id: 'q-putup-1',
+        question: '空所に入る適切な語はどれですか。「I really don’t know how she puts ( ) his constant complaining.」',
+        options: ['up', 'up with', 'across', 'off'],
+        correctAnswer: 1,
+        explanation: '我慢するは put up with。',
+      },
+      {
+        id: 'q-putup-2',
+        question: '空所に入る適切な語はどれですか。「They kindly agreed to put us ( ) for the weekend.」',
+        options: ['up with', 'up', 'across', 'off'],
+        correctAnswer: 1,
+        explanation: '人を宿泊させるは put up（with なし）。',
+      },
+      {
+        id: 'q-putup-3',
+        question: '空所に入る適切な語はどれですか。「Volunteers put ( ) posters all over the town.」',
+        options: ['up', 'up with', 'off', 'across'],
+        correctAnswer: 0,
+        explanation: '掲示物を掲げるは put up。',
+      },
+      {
+        id: 'q-putup-4',
+        question: 'put up with の言い換えとして最も適切なものはどれですか。',
+        options: ['tolerate', 'postpone', 'accommodate', 'communicate'],
+        correctAnswer: 0,
+        explanation: 'put up with は tolerate（我慢する）に置換できます。',
+      },
+      {
+        id: 'q-putup-5',
+        question: 'put up with と put up の違いとして正しいものはどれですか。',
+        options: [
+          'with があると「我慢する」、無いと中立的な設置・宿泊・出資の意味',
+          'with の有無で意味は変わらない',
+          'with があると「掲げる」、無いと「我慢する」',
+          'put up with は自動詞、put up は他動詞にしかならない',
+        ],
+        correctAnswer: 0,
+        explanation: 'with の有無で「我慢する」か中立的な意味かが完全に切り替わります。',
+      },
+    ],
+  },
+  {
+    id: 'get-over-get-through',
+    title: 'get over と get through',
+    chapter: 5,
+    hubId: 'get',
+    description: 'get over は「乗り越える」、get through は「切り抜ける・連絡が通じる」。障壁を「越える」か「通り抜ける」かのイメージ差です。',
+    content: `## 越えるか、通り抜けるか
+
+get over と get through はどちらも「困難を乗り切る」という意味で重なりますが、前置詞が運ぶ空間イメージが異なり、使われる場面も変わります。
+
+| 熟語 | 中心の意味 | 典型的な目的語 |
+| --- | --- | --- |
+| get **over** | （病気・ショック等）を乗り越える／回復する | an illness, a breakup, a shock |
+| get **through** | （難局・試験・作業）を切り抜ける／電話が通じる／使い切る | an exam, a difficult time／to a person／supplies |
+
+### get over の使い分け
+
+get over の中心は「病気やショックの後、通常の状態に回復する」ことです。"It took her months to get over the flu." のように使われ、失恋やショックからの回復にもよく使われます。また "I can't get over how tall he's gotten." のように**驚きを表す口語表現**としても頻出します。
+
+### get through の使い分け
+
+get through は「困難な期間や作業を最初から最後までやり遂げる」という意味が中心で、"We finally got through the exam period." のように使います。加えて「電話がつながる」（I couldn't get through to the office）、「（メッセージが）理解される」（get the message through to someone）、「（物資などを）使い切る」（get through a lot of coffee）という用法もあります。
+
+### 使い分けの手がかり
+
+**get over は recover from に置換でき、対象は「終わった出来事からの回復」**です。**get through は manage to complete／make contact by phone に置換でき、対象は「今まさに進行中の困難・連絡」**です。get over は山を「越えて」past を作る動作、get through はトンネルを「通り抜けて」進行する動作、というイメージの違いを意識すると区別しやすくなります。
+
+### なぜ直訳で読み解けないか
+
+over は「障壁の上を越えていく」イメージなので、get over は病気やショックという障壁を乗り越えて過去のものにすることを表します。through は「トンネルの中を通り抜ける」イメージなので、get through は試験期間や電話回線のような「通過するべき経路」を進み切ることを表します。
+
+### よくある誤用
+
+⚠️ \`I hope you get through your cold soon.\`（不自然）。病気からの回復は get **over**。get through は病気そのものにはあまり使いません。
+
+⚠️ \`I still can't get through his sudden resignation.\`（誤）。驚き・ショックからの回復は get **over**。
+
+🎯 覚え方：**over＝障壁を越えて過去にする（病気・ショックからの回復）**、**through＝トンネルを通り抜けて完了させる（試験・連絡・物資の消費）**。`,
+    keyPoints: [
+      'get over＝病気・ショック等から回復する（recover from）。驚きを表す口語表現にも使う',
+      'get through＝難局・試験・作業をやり遂げる／電話が通じる／物資を使い切る',
+      'get over は「終わった出来事からの回復」、get through は「進行中の困難・連絡の完了」',
+      'over＝越える、through＝通り抜ける、という空間イメージの違いが核',
+    ],
+    quiz: [
+      {
+        id: 'q-getover-1',
+        question: '空所に入る適切な語はどれですか。「It took him a long time to get ( ) the loss of his job.」',
+        options: ['through', 'over', 'around', 'along'],
+        correctAnswer: 1,
+        explanation: 'ショックからの回復は get over。',
+      },
+      {
+        id: 'q-getover-2',
+        question: '空所に入る適切な語はどれですか。「We finally got ( ) the busiest week of the year.」',
+        options: ['over', 'through', 'along', 'around'],
+        correctAnswer: 1,
+        explanation: '忙しい期間をやり遂げたのは get through。',
+      },
+      {
+        id: 'q-getover-3',
+        question: '空所に入る適切な語はどれですか。「I tried calling all morning but couldn’t get ( ) to him.」',
+        options: ['over', 'along', 'through', 'around'],
+        correctAnswer: 2,
+        explanation: '電話がつながるは get through to。',
+      },
+      {
+        id: 'q-getover-4',
+        question: 'get over の言い換えとして最も適切なものはどれですか。',
+        options: ['recover from', 'complete', 'avoid', 'contact'],
+        correctAnswer: 0,
+        explanation: 'get over は recover from（〜から回復する）に置換できます。',
+      },
+      {
+        id: 'q-getover-5',
+        question: 'get over と get through の主な違いとして正しいものはどれですか。',
+        options: [
+          'over は終わった出来事からの回復、through は進行中の困難の完了',
+          'over は電話の話にしか使わない',
+          'through は病気からの回復にしか使わない',
+          '意味に違いはない',
+        ],
+        correctAnswer: 0,
+        explanation: 'get over は障壁を越えて過去にする、get through は進行中の経路を通り抜けて完了させる意味です。',
+      },
+    ],
+  },
+  {
+    id: 'get-around-get-along-with',
+    title: 'get around と get along with',
+    chapter: 5,
+    hubId: 'get',
+    description: 'get around は「回避する・移動する・広まる」、get along with は「人とうまくやっていく」。対象が「問題」か「人間関係」かで見分けます。',
+    content: `## 問題を避けるか、人とうまくやるか
+
+get around と get along with は同じ get 系の熟語ですが、扱う対象がまったく違います。get around は物事や場所に、get along with は人間関係に使われます。
+
+| 熟語 | 中心の意味 | 典型的な目的語 |
+| --- | --- | --- |
+| get **around** | （問題・規則）を回避する／あちこち移動する／（情報が）広まる | a problem, a rule／a town／news |
+| get along **with** | 〜と仲良くやっていく | a colleague, a family member |
+
+### get around の使い分け
+
+get around には複数の意味があります。1つは「規則や問題をうまく回避する」（get around a tricky problem）。もう1つは「あちこち自由に移動できる」（It's easy to get around the city by bike）。さらに「（噂・情報が）人から人へ広まる」（news got around quickly）という意味もあります。共通するのは「障害や制約に縛られず、うまく通り抜けて動く」というイメージです。
+
+### get along with の使い分け
+
+get along with（get on with もほぼ同義）は「（人と）友好的な関係を築いている」ことを表し、"She gets along with everyone in the office." のように使います。get along だけでも「（特に困難な状況で）何とかやっていく・暮らしていく」という意味になります（How are you getting along?）。
+
+### 使い分けの手がかり
+
+**get around の目的語は「問題・規則・場所・情報」など人以外**が中心です。**get along with の目的語は必ず「人」**で、resolve/circumvent に置換できる get around とは違い、have a good relationship with に置換できます。
+
+### なぜ直訳で読み解けないか
+
+around は「対象の周りを回り込む」イメージなので、get around は規則や障害物を正面から突破せず迂回して切り抜けることを表します。along with は「相手と並んで一緒に進む」イメージなので、get along with は人間関係の良好さ・協調性を表します。
+
+### よくある誤用
+
+⚠️ \`It's hard to get around my new colleague.\`（誤・意味不明瞭）。同僚とうまくやるのは get along **with**。get around を人に使うと「その人を言いくるめる・避ける」という別の意味になり誤解を招きます。
+
+⚠️ \`The rumor got along quickly.\`（誤）。噂が広まったのは get **around**。get along with に「広まる」の意味はありません。
+
+🎯 覚え方：**around＝周りを回り込む（回避する・移動する・広まる）**、**along with＝相手と並んで進む（人とうまくやる）**。`,
+    keyPoints: [
+      'get around＝（問題・規則）を回避する／あちこち移動する／（情報が）広まる',
+      'get along with＝（人と）うまくやっていく。目的語は必ず人',
+      'get around の対象は問題・場所・情報など人以外が中心',
+      'around＝周りを回り込む、along with＝並んで一緒に進む、という前置詞イメージの違い',
+    ],
+    quiz: [
+      {
+        id: 'q-getaround-1',
+        question: '空所に入る適切な語はどれですか。「Clever lawyers sometimes find ways to get ( ) the regulations.」',
+        options: ['along with', 'around', 'through', 'over'],
+        correctAnswer: 1,
+        explanation: '規則を回避するは get around。',
+      },
+      {
+        id: 'q-getaround-2',
+        question: '空所に入る適切な語はどれですか。「I’m glad to say I get ( ) my new roommate really well.」',
+        options: ['around', 'over', 'along with', 'through'],
+        correctAnswer: 2,
+        explanation: '人とうまくやっていくは get along with。',
+      },
+      {
+        id: 'q-getaround-3',
+        question: '空所に入る適切な語はどれですか。「Word ( ) that the CEO was planning to resign.」',
+        options: ['got over', 'got through', 'got along', 'got around'],
+        correctAnswer: 3,
+        explanation: '情報・噂が広まるは get around。',
+      },
+      {
+        id: 'q-getaround-4',
+        question: 'get along with の言い換えとして最も適切なものはどれですか。',
+        options: ['have a good relationship with', 'avoid', 'circumvent', 'travel to'],
+        correctAnswer: 0,
+        explanation: 'get along with は人と良好な関係を持つという意味です。',
+      },
+      {
+        id: 'q-getaround-5',
+        question: 'get around の目的語として自然でないものはどれですか。',
+        options: ['a strict rule', 'the city', 'the news', 'her coworker'],
+        correctAnswer: 3,
+        explanation: '人が目的語になるのは get along with 側です。',
+      },
+    ],
+  },
+  {
+    id: 'run-into-run-through',
+    title: 'run into と run through',
+    chapter: 5,
+    hubId: 'run',
+    description: 'run into は「偶然出会う・衝突する」、run through は「一気に目を通す・繰り返し使われる」。into の衝突イメージと through の貫通イメージの違いです。',
+    content: `## ぶつかるか、通り抜けるか
+
+run into と run through はどちらも「走る」から派生した比喩ですが、into の「衝突・侵入」と through の「貫通・通過」というイメージの違いが意味を分けます。
+
+| 熟語 | 中心の意味 | 典型的な目的語 |
+| --- | --- | --- |
+| run **into** | 偶然出会う／（困難に）ぶつかる／衝突する | an old friend／trouble, debt／a wall |
+| run **through** | 素早く目を通す・練習する／（性質が）一貫して現れる／使い切る | a list, a script／a theme／money |
+
+### run into の使い分け
+
+run into の最も日常的な意味は「思いがけず人に会う」（bump into と同義）で、"I ran into my old classmate at the station." のように使います。もう1つの用法は「困難・問題に直面する」（run into trouble, run into debt）、さらに文字どおり「衝突する」（the car ran into a wall）にも使われます。共通するのは「進んでいる途中で、何かに不意にぶつかる」イメージです。
+
+### run through の使い分け
+
+run through には「（リストや台本などを）一通り確認する・練習する」（let's run through the presentation once more）という意味があります。また「（ある性質・特徴が）作品や状況の隅々に一貫して現れる」（a sense of humor runs through his writing）、「（お金などを）使い切ってしまう」（he ran through his inheritance in two years）という意味もあります。
+
+### 使い分けの手がかり
+
+**run into は encounter unexpectedly／collide with に置換でき、「不意の遭遇・衝突」**を表します。**run through は go over quickly／be present throughout／use up に置換でき、「始めから終わりまで一通り進む・貫く」**動作を表します。前者は一瞬の出来事、後者は始めから終わりまでの過程という時間感覚の違いでも区別できます。
+
+### なぜ直訳で読み解けないか
+
+into は「内部へ突入する」イメージなので、run into は進行中に何かの中へ突っ込む＝偶然の遭遇や衝突を表します。through は「入口から出口まで貫通する」イメージなので、run through はリストや台本を最初から最後まで一気に確認する・お金を使い切るという「通過し尽くす」意味に広がります。
+
+### よくある誤用
+
+⚠️ \`I ran through my old teacher yesterday.\`（誤）。偶然出会ったのは run **into**。run through に「人と出会う」の意味はありません。
+
+⚠️ \`We ran into the whole presentation before the meeting.\`（誤）。発表を通しで確認したのは run **through**。run into は一瞬の出来事に使い、通し練習のような継続的な動作には使いません。
+
+🎯 覚え方：**into＝不意に何かへ突入する（出会う・ぶつかる）**、**through＝最初から最後まで貫通する（通しで確認する・使い切る）**。`,
+    keyPoints: [
+      'run into＝偶然出会う／困難にぶつかる／衝突する（encounter unexpectedly）',
+      'run through＝一通り目を通す・練習する／性質が一貫して現れる／使い切る',
+      'run into は一瞬の不意の出来事、run through は始めから終わりまでの過程',
+      'into＝突入する、through＝貫通する、という前置詞イメージの違いが核',
+    ],
+    quiz: [
+      {
+        id: 'q-runinto-1',
+        question: '空所に入る適切な語はどれですか。「I ( ) an old friend from college at the airport yesterday.」',
+        options: ['ran through', 'ran into', 'ran around', 'ran along'],
+        correctAnswer: 1,
+        explanation: '偶然出会ったのは run into。',
+      },
+      {
+        id: 'q-runinto-2',
+        question: '空所に入る適切な語はどれですか。「Let’s ( ) the main points one more time before the meeting.」',
+        options: ['run into', 'run through', 'run over', 'run out'],
+        correctAnswer: 1,
+        explanation: '一通り確認するのは run through。',
+      },
+      {
+        id: 'q-runinto-3',
+        question: '空所に入る適切な語はどれですか。「The project ( ) serious funding problems last month.」',
+        options: ['ran through', 'ran along', 'ran into', 'ran around'],
+        correctAnswer: 2,
+        explanation: '困難にぶつかったのは run into。',
+      },
+      {
+        id: 'q-runinto-4',
+        question: 'run through の言い換えとして最も適切なものはどれですか。',
+        options: ['encounter unexpectedly', 'collide with', 'go over quickly', 'avoid'],
+        correctAnswer: 2,
+        explanation: 'run through は「一通り確認する」という意味です。',
+      },
+      {
+        id: 'q-runinto-5',
+        question: 'run into と run through の違いとして正しいものはどれですか。',
+        options: [
+          'into は不意の遭遇・衝突、through は始めから終わりまでの通過',
+          '両者に意味の違いはない',
+          'into は使い切る、through は出会う',
+          'into は練習する、through はぶつかる',
+        ],
+        correctAnswer: 0,
+        explanation: 'into は突入・衝突のイメージ、through は貫通・通過のイメージです。',
+      },
+    ],
+  },
+  {
+    id: 'run-out-of-run-down',
+    title: 'run out of と run down',
+    chapter: 5,
+    hubId: 'run',
+    description: 'run out of は「〜を使い果たす」、run down は「（電池等が）切れる・けなす・車でひく」。枯渇の主語が「人」か「物」かで文型が変わります。',
+    content: `## 使い果たすか、消耗・下落するか
+
+run out of と run down はどちらも「尽きる」に関わる意味を持ちますが、主語と文型が異なります。
+
+| 熟語 | 中心の意味 | 典型的な主語 |
+| --- | --- | --- |
+| run out **of** | （人が）〜を使い果たす | 主語＝人・組織、目的語＝food, time, money |
+| run **down** | （電池等が）切れる／けなす／車でひく | 主語＝battery, car；または人（他動詞） |
+
+### run out of の使い分け
+
+run out of は「持っていたものを使い切って無くなる」という意味で、主語には**使う側の人・組織**が来ます。"We ran out of milk this morning." のように、食料・時間・お金・アイデアなど幅広い名詞と結びつきます。目的語なしで run out だけを使うと「（物が）尽きる」（Time is running out.）という自動詞用法にもなります。
+
+### run down の使い分け
+
+run down は文脈で意味が大きく変わります。「（電池・時計などが）徐々に動力を失って止まる」（The battery has run down）が中心的な意味の1つ。もう1つは「（人や物を）けなす・悪く言う」（他動詞、he's always running down his coworkers）。さらに「（車が人を）はねる」（the driver ran down a pedestrian）という物騒な意味もあります。
+
+### 使い分けの手がかり
+
+**run out of は use up に置換でき、主語は「使う側」、目的語は「消費されるもの」**という他動詞的構文です。**run down は主語によって意味が変わる多義語**で、主語が機械なら「消耗する」（自動詞）、主語が人で目的語が人・物なら「けなす」または「車でひく」（他動詞）になります。
+
+### なぜ直訳で読み解けないか
+
+out of は「〜の外へ出て、内部が空になる」イメージなので、run out of は在庫や時間が尽きて空になることを表します。down は「下方へ落ちていく」イメージなので、run down は電力や勢いが徐々に下がって止まる（消耗）、評価を下方に落とす（けなす）、相手を地面に倒す（ひく）という3方向に意味が広がります。
+
+### よくある誤用
+
+⚠️ \`We ran down of coffee this morning.\`（誤・of は不要かつ意味も違う）。使い果たしたのは run out **of**。run down に「使い果たす」の意味はありません。
+
+⚠️ \`My phone battery ran out of.\`（誤）。電池が切れたのは run **down**（またはrun out、目的語なし）。run out of は「〜を使い果たす」という他動詞的構文で、of の後ろに目的語が必要です。
+
+🎯 覚え方：**out of＝中身が尽きて空になる（使い果たす）**、**down＝下へ落ちていく（消耗する・けなす・ひく）**。`,
+    keyPoints: [
+      'run out of＝（人が）〜を使い果たす（use up）。主語は使う側、目的語は消費されるもの',
+      'run down＝（電池等が）消耗して止まる／（人を）けなす／（車で）ひく。文脈で意味が変わる多義語',
+      'run out of は他動詞的構文で of の後に目的語が必須',
+      'out of＝中身が尽きて空になる、down＝下方へ落ちる、という前置詞イメージの違い',
+    ],
+    quiz: [
+      {
+        id: 'q-runoutof-1',
+        question: '空所に入る適切な語はどれですか。「We ( ) gas halfway through the trip.」',
+        options: ['ran down', 'ran out of', 'ran into', 'ran through'],
+        correctAnswer: 1,
+        explanation: '使い果たしたのは run out of。',
+      },
+      {
+        id: 'q-runoutof-2',
+        question: '空所に入る適切な語はどれですか。「My phone battery has completely ( ).」',
+        options: ['run out of', 'run down', 'run into', 'run through'],
+        correctAnswer: 1,
+        explanation: '電池が切れたのは run down（自動詞）。',
+      },
+      {
+        id: 'q-runoutof-3',
+        question: '空所に入る適切な語はどれですか。「He’s always ( ) his colleagues behind their backs.」',
+        options: ['running out of', 'running through', 'running down', 'running into'],
+        correctAnswer: 2,
+        explanation: '人をけなすのは run down（他動詞）。',
+      },
+      {
+        id: 'q-runoutof-4',
+        question: 'run out of の言い換えとして最も適切なものはどれですか。',
+        options: ['use up', 'criticize', 'hit', 'wear out'],
+        correctAnswer: 0,
+        explanation: 'run out of は use up（使い果たす）に置換できます。',
+      },
+      {
+        id: 'q-runoutof-5',
+        question: 'run out of の文型として正しいものはどれですか。',
+        options: [
+          '主語＝使う側の人、目的語＝消費されるもの',
+          '主語＝消費されるもの、目的語＝人',
+          '目的語をとらない自動詞のみ',
+          '受動態にしかならない',
+        ],
+        correctAnswer: 0,
+        explanation: 'run out of は「人がものを使い果たす」という他動詞的構文です。',
+      },
+    ],
+  },
 ];
