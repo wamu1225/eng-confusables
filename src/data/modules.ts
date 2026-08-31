@@ -19445,4 +19445,541 @@ out of は「〜の外へ出て、内部が空になる」イメージなので�
       },
     ],
   },
+  {
+    id: 'turn-out-turn-into',
+    title: 'turn out と turn into',
+    chapter: 5,
+    hubId: 'turn',
+    description: 'turn out は「〜だと判明する・結果として〜になる」、turn into は「（別のものに）変化する」。結果を述べるか変身を述べるかの違いです。',
+    content: `## 判明するか、変身するか
+
+turn out と turn into はどちらも「結果として〜になる」という訳になりがちですが、視点がまったく異なります。turn out は**もともとの正体・結果が明らかになる**こと、turn into は**別のものへ姿を変える**ことを表します。
+
+| 熟語 | 中心の意味 | 典型的な使われ方 |
+| --- | --- | --- |
+| turn **out** | 〜だと判明する／結果として〜になる／（人が）集まる | it turned out that .../ turn out to be .../ a large turnout |
+| turn **into** | （別のものに）変化する・変身する | caterpillar turns into a butterfly |
+
+### turn out の使い分け
+
+turn out の中心は「隠れていた真実・結果が明らかになる」ことです。"It turned out that he had been lying all along." のように**it turned out (that) ...**の形や、"The plan turned out to be a disaster." のように**turn out to be ...**の形が定型です。また「（人が）ある場所に集まる」という意味もあり、名詞形 turnout（来場者数・投票率）としてニュースで頻出します。
+
+### turn into の使い分け
+
+turn into は「AがBという別のものに変わる」という変身・変化を表します。"The caterpillar will turn into a butterfly." が典型例で、比喩的にも「（状況が）〜になってしまう」（a quiet evening turned into a huge argument）のように使われます。
+
+### 使い分けの手がかり
+
+**turn out は「結果として明らかになる」という視点**で、to be／that節を伴うことが多く、主語の性質そのものが変わるわけではありません。**turn into は「別の実体に置き換わる」という視点**で、主語は最終的に元の姿を失います。「判明した」のか「変わり果てた」のかで区別すると迷いません。
+
+### なぜ直訳で読み解けないか
+
+out は「隠れていたものが外部に公然と現れる」イメージなので、turn out はそれまで分からなかった結果や正体が表に出ることを表します。into は「別の状態の内部へ入り込む」イメージなので、turn into は主語がB（別の状態）の中へすっぽり入れ替わることを表します。
+
+### よくある誤用
+
+⚠️ \`The caterpillar turned out a butterfly.\`（誤）。姿を変えたのは turn **into**。turn out に「変身する」の意味はありません。
+
+⚠️ \`It turned into that he was right all along.\`（誤）。判明したのは turn **out**（it turned out that ...）。turn into は that節をとりません。
+
+🎯 覚え方：**out＝隠れていた結果が表に出る（判明する）**、**into＝別の状態の中へ入れ替わる（変身する）**。`,
+    keyPoints: [
+      'turn out＝〜だと判明する・結果として〜になる（it turned out that .../turn out to be ...）',
+      'turn into＝（別のものに）変化する・変身する',
+      'turn out は「結果が明らかになる」視点、turn into は「別の実体に置き換わる」視点',
+      '名詞形 turnout（来場者数・投票率）は turn out から派生',
+    ],
+    quiz: [
+      {
+        id: 'q-turnout-1',
+        question: '空所に入る適切な語はどれですか。「It later ( ) that the rumor was completely false.」',
+        options: ['turned into', 'turned out', 'turned up', 'turned down'],
+        correctAnswer: 1,
+        explanation: '判明したのは turn out（it turned out that ...）。',
+      },
+      {
+        id: 'q-turnout-2',
+        question: '空所に入る適切な語はどれですか。「Water will ( ) ice if the temperature drops low enough.」',
+        options: ['turn out', 'turn into', 'turn up', 'turn down'],
+        correctAnswer: 1,
+        explanation: '別の物質に変化するのは turn into。',
+      },
+      {
+        id: 'q-turnout-3',
+        question: '空所に入る適切な語はどれですか。「The trip we planned as a relaxing weekend ( ) a stressful ordeal.」',
+        options: ['turned out', 'turned into', 'turned up', 'turned down'],
+        correctAnswer: 1,
+        explanation: '別の状況に変わり果てたのは turn into。',
+      },
+      {
+        id: 'q-turnout-4',
+        question: '「その計画は失敗だと判明した」を表す文はどれですか。',
+        options: [
+          'The plan turned into a disaster.',
+          'The plan turned out to be a disaster.',
+          'The plan turned up a disaster.',
+          'The plan turned down a disaster.',
+        ],
+        correctAnswer: 1,
+        explanation: '「〜だと判明した」は turn out to be。',
+      },
+      {
+        id: 'q-turnout-5',
+        question: 'turn out と turn into の違いとして正しいものはどれですか。',
+        options: [
+          'out＝結果が明らかになる、into＝別の実体に置き換わる',
+          '両者に意味の違いはない',
+          'out＝変身する、into＝判明する',
+          'into は that 節を伴うのが定型',
+        ],
+        correctAnswer: 0,
+        explanation: 'turn out は結果の判明、turn into は変身・変化を表します。',
+      },
+    ],
+  },
+  {
+    id: 'turn-down-turn-up',
+    title: 'turn down と turn up',
+    chapter: 5,
+    hubId: 'turn',
+    description: 'turn down は「断る・音量等を下げる」、turn up は「現れる・見つかる・音量等を上げる」。断るか現れるか、下げるか上げるかの2軸があります。',
+    content: `## 断るか現れるか、下げるか上げるか
+
+turn down と turn up は音量調整の対義語としてだけでなく、それぞれ独立した比喩的な意味も持つ紛らわしい組み合わせです。
+
+| 熟語 | 中心の意味 | 典型的な目的語・主語 |
+| --- | --- | --- |
+| turn **down** | （申し出・提案）を断る／音量・温度等を下げる | an offer, an invitation／the volume |
+| turn **up** | 現れる・見つかる／到着する／音量・温度等を上げる | a lost item, a person／the heater |
+
+### turn down の使い分け
+
+turn down の1つ目の意味は「（申し出・招待・依頼）を断る」で、"She turned down the job offer." のように使います。もう1つは文字どおり「（音量・温度などのつまみを）下げる」で、"Could you turn down the music?" のように使われます。
+
+### turn up の使い分け
+
+turn up には3つの主な意味があります。1つは「（なくしたものが）偶然見つかる」（I'm sure your keys will turn up eventually）。2つ目は「（人が）現れる・到着する」（She never turned up for the meeting）。3つ目は物理的に「（音量・温度を）上げる」（turn up the heater）で、turn down の対義語として機能します。
+
+### 使い分けの手がかり
+
+**turn down は reject（断る）または decrease（下げる）に置換**できます。**turn up は appear／arrive（現れる）または increase（上げる）に置換**できます。「断るか下げるか」「現れるか上げるか」は文脈（目的語が申し出・人か、音量・温度か）で判断します。
+
+### なぜ直訳で読み解けないか
+
+down は「下方に押し下げる」イメージなので、turn down は相手の申し出を低い位置へ退ける（断る）ことにも、つまみを物理的に下げることにも広がります。up は「上方へ出現・増大させる」イメージなので、turn up は隠れていたものが表面に浮かび上がる（見つかる・現れる）ことにも、つまみを上げることにも広がります。
+
+### よくある誤用
+
+⚠️ \`He turned up my proposal without hesitation.\`（誤）。提案を断ったのは turn **down**。turn up に「断る」の意味はありません。
+
+⚠️ \`My lost wallet finally turned down in the sofa.\`（誤）。見つかったのは turn **up**。turn down に「見つかる」の意味はありません。
+
+🎯 覚え方：**down＝低い位置へ退ける（断る・音量を下げる）**、**up＝表に浮かび上がらせる（見つかる・現れる・音量を上げる）**。`,
+    keyPoints: [
+      'turn down＝（申し出等）を断る（reject）／音量・温度等を下げる（decrease）',
+      'turn up＝（なくしたものが）見つかる／（人が）現れる／音量・温度等を上げる（increase）',
+      'turn down と turn up は音量・温度の文脈では対義語',
+      'down＝低い位置へ退ける、up＝表に浮かび上がらせる、という前置詞イメージの違い',
+    ],
+    quiz: [
+      {
+        id: 'q-turndown-1',
+        question: '空所に入る適切な語はどれですか。「He politely ( ) the invitation to the gala.」',
+        options: ['turned up', 'turned down', 'turned into', 'turned out'],
+        correctAnswer: 1,
+        explanation: '招待を断ったのは turn down。',
+      },
+      {
+        id: 'q-turndown-2',
+        question: '空所に入る適切な語はどれですか。「Don’t worry, your missing glove will probably ( ) somewhere.」',
+        options: ['turn down', 'turn up', 'turn into', 'turn out'],
+        correctAnswer: 1,
+        explanation: 'なくしたものが見つかるのは turn up。',
+      },
+      {
+        id: 'q-turndown-3',
+        question: '空所に入る適切な語はどれですか。「Could you ( ) the air conditioner? It’s freezing in here.」',
+        options: ['turn up', 'turn down', 'turn out', 'turn into'],
+        correctAnswer: 1,
+        explanation: '温度・音量を下げるのは turn down。',
+      },
+      {
+        id: 'q-turndown-4',
+        question: '「彼女は会議に現れなかった」を表す文はどれですか。',
+        options: [
+          'She never turned down for the meeting.',
+          'She never turned up for the meeting.',
+          'She never turned into the meeting.',
+          'She never turned out for the meeting.',
+        ],
+        correctAnswer: 1,
+        explanation: '人が現れる・到着するは turn up。',
+      },
+      {
+        id: 'q-turndown-5',
+        question: 'turn down と turn up が対義語になる文脈はどれですか。',
+        options: ['音量・温度の調整', '判明する話', '変身の話', '人間関係の話'],
+        correctAnswer: 0,
+        explanation: '音量や温度を上げる・下げるという文脈で、turn up と turn down は対義語になります。',
+      },
+    ],
+  },
+  {
+    id: 'hold-off-hold-out',
+    title: 'hold off と hold out',
+    chapter: 5,
+    hubId: 'hold',
+    description: 'hold off は「（好ましくないこと）を先延ばしにする・食い止める」、hold out は「持ちこたえる・差し出す」。距離を置くか、手を伸ばして耐えるかの違いです。',
+    content: `## 距離を置いて防ぐか、伸ばして耐えるか
+
+hold off と hold out はどちらも「困難な状況で持ちこたえる」ニュアンスを持ちますが、off の「距離を置く」イメージと out の「外へ伸ばす」イメージで意味の方向が異なります。
+
+| 熟語 | 中心の意味 | 典型的な使われ方 |
+| --- | --- | --- |
+| hold **off** | （決定・行動）を先延ばしにする／（雨や敵を）食い止める | hold off on a decision／hold off the rain, the enemy |
+| hold **out** | 持ちこたえる・耐える／（手や希望を）差し出す | hold out against attackers／hold out hope |
+
+### hold off の使い分け
+
+hold off の1つ目の意味は「（何かをするのを）今はまだしない、先延ばしにする」で、"Let's hold off on making a decision until we have more data." のように使います。もう1つは「（雨・嵐などが）まだ始まらないでいる」（The rain held off until after the picnic）や「（相手の攻撃などを）寄せ付けない」という意味です。
+
+### hold out の使い分け
+
+hold out の中心的な意味は「（困難な状況で）持ちこたえる、生き延びる」で、"The rebels held out in the mountains for months." のように使われます。また「（希望・可能性を）差し出す」（The doctors hold out little hope for recovery）、「手や物を差し出す」という意味もあります。hold out for は「（もっと良い条件を求めて）粘る」という意味になります。
+
+### 使い分けの手がかり
+
+**hold off は postpone／keep at a distance に置換**でき、「まだ始めない・始まらせない」という**先延ばし・阻止**のニュアンスです。**hold out は endure／survive／offer に置換**でき、「限界まで持ちこたえる・差し出す」という**継続・提供**のニュアンスです。
+
+### なぜ直訳で読み解けないか
+
+off は「距離を保って接触を断つ」イメージなので、hold off は決定や攻撃を自分から距離を置いた場所に留め置くことを表します。out は「内側から外側へ手を伸ばす」イメージなので、hold out は限界まで手を伸ばして持ちこたえる、または何かを相手に向けて差し出すことを表します。
+
+### よくある誤用
+
+⚠️ \`The soldiers held off the siege for six months.\`（誤・意味が変わる）。包囲に持ちこたえたなら hold **out**。hold off だと「包囲そのものを寄せ付けなかった」という別の意味になります。
+
+⚠️ \`Let's hold out the meeting until Friday.\`（誤）。会議を先延ばしにするのは hold **off**（on）。hold out に「延期する」の意味はありません。
+
+🎯 覚え方：**off＝距離を置いて始めさせない（先延ばし・食い止める）**、**out＝限界まで手を伸ばして耐える（持ちこたえる・差し出す）**。`,
+    keyPoints: [
+      'hold off＝（決定・行動）を先延ばしにする／（雨・敵を）食い止める（postpone）',
+      'hold out＝持ちこたえる・耐える／（希望・手を）差し出す（endure/offer）',
+      'hold off は「まだ始めない・始まらせない」、hold out は「限界まで持ちこたえる」',
+      'off＝距離を置く、out＝外へ伸ばす、という前置詞イメージの違いが核',
+    ],
+    quiz: [
+      {
+        id: 'q-holdoff-1',
+        question: '空所に入る適切な語はどれですか。「We decided to ( ) on signing the contract until next week.」',
+        options: ['hold out', 'hold off', 'hold up', 'hold back'],
+        correctAnswer: 1,
+        explanation: '決定を先延ばしにするのは hold off (on)。',
+      },
+      {
+        id: 'q-holdoff-2',
+        question: '空所に入る適切な語はどれですか。「The defenders managed to ( ) against the siege for months.」',
+        options: ['hold off', 'hold out', 'hold back', 'hold up'],
+        correctAnswer: 1,
+        explanation: '持ちこたえたのは hold out。',
+      },
+      {
+        id: 'q-holdoff-3',
+        question: '空所に入る適切な語はどれですか。「Fortunately, the storm ( ) until after the outdoor wedding.」',
+        options: ['held out', 'held back', 'held off', 'held up'],
+        correctAnswer: 2,
+        explanation: '嵐がまだ始まらなかったのは hold off。',
+      },
+      {
+        id: 'q-holdoff-4',
+        question: 'hold out の言い換えとして最も適切なものはどれですか。',
+        options: ['postpone', 'endure', 'reject', 'reveal'],
+        correctAnswer: 1,
+        explanation: 'hold out は「持ちこたえる」（endure）の意味です。',
+      },
+      {
+        id: 'q-holdoff-5',
+        question: 'hold off と hold out の違いとして正しいものはどれですか。',
+        options: [
+          'off＝距離を置いて始めさせない、out＝限界まで持ちこたえる',
+          '両者に意味の違いはない',
+          'off＝希望を差し出す、out＝先延ばしにする',
+          'out は必ず物理的な動作にしか使わない',
+        ],
+        correctAnswer: 0,
+        explanation: 'hold off は先延ばし・阻止、hold out は持ちこたえる・差し出すという違いがあります。',
+      },
+    ],
+  },
+  {
+    id: 'hold-up-hold-back',
+    title: 'hold up と hold back',
+    chapter: 5,
+    hubId: 'hold',
+    description: 'hold up は「遅らせる・強盗する・持ちこたえる」、hold back は「進行を阻む・感情や情報を抑える」。多義の hold up と、抑制に特化した hold back の違いです。',
+    content: `## 多義の hold up と、抑制の hold back
+
+hold up は文脈によって意味が大きく変わる多義語ですが、hold back は一貫して「抑える・押しとどめる」という意味に絞られます。
+
+| 熟語 | 中心の意味 | 典型的な使われ方 |
+| --- | --- | --- |
+| hold **up** | （進行を）遅らせる／強盗する／持ちこたえる・耐久性を保つ／例として示す | be held up in traffic／hold up a bank |
+| hold **back** | （進行・感情・情報）を抑える・開示しない | hold back tears／hold back information |
+
+### hold up の使い分け
+
+hold up の最も日常的な意味は「（渋滞などで）足止めされる・遅らせる」で、"I was held up in traffic and missed the start of the meeting." のように受動態が定番です。もう1つは物騒な意味で「（銃などで脅して）強盗する」（hold up a bank）。さらに「（構造・議論が）耐久性を保つ、崩れない」（His argument holds up well under scrutiny）、「（人や物を）模範として示す」（hold up as an example）という意味もあります。
+
+### hold back の使い分け
+
+hold back は一貫して「何かを前に出さずに抑える」という意味を持ちます。物理的には「（人混みなどを）押しとどめる」（police held back the crowd）、感情面では「（涙・怒りなどを）こらえる」（she couldn't hold back her tears）、情報面では「（知っていることを）伏せる・教えない」（he was holding back important information）という3つの用法があります。
+
+### 使い分けの手がかり
+
+**hold up は文脈で意味が大きく変わる多義語**なので、目的語や主語（渋滞・銀行・議論・人）を見て意味を判断する必要があります。**hold back は「抑える」という一貫した意味**を持ち、delay／conceal／suppress のいずれかに置換できます。「遅延・強盗・耐久性のどれか」なら hold up、「感情・情報・人混みを抑える」なら hold back、と考えると整理しやすくなります。
+
+### なぜ直訳で読み解けないか
+
+up は「その場に立ち止まらせる」イメージなので、hold up は交通渋滞による停止にも、相手に「動くな」と迫る強盗の場面にも、崩れずに立ち続ける耐久性にも広がります。back は「後方に押しとどめる」イメージなので、hold back は人・感情・情報を前に出さずに背後に留め置くことを一貫して表します。
+
+### よくある誤用
+
+⚠️ \`Please don't hold up your true feelings.\`（誤）。感情を抑えるのは hold **back**。hold up にそのニュアンスはありません。
+
+⚠️ \`We were held back in traffic for an hour.\`（不自然）。渋滞で足止めされたのは hold **up**。hold back を渋滞の文脈で使うことは通常ありません。
+
+🎯 覚え方：**up＝その場に立ち止まらせる（遅延・強盗・耐久性）**、**back＝後方に押しとどめる（感情・情報・人混みを抑える）**。`,
+    keyPoints: [
+      'hold up＝遅らせる（be held up in traffic）／強盗する／持ちこたえる・耐久性を保つ／例として示す',
+      'hold back＝（進行・感情・情報）を抑える・開示しない（delay/conceal/suppress）',
+      'hold up は文脈依存の多義語、hold back は「抑える」で一貫している',
+      'up＝その場に立ち止まらせる、back＝後方に押しとどめる、という前置詞イメージの違い',
+    ],
+    quiz: [
+      {
+        id: 'q-holdup-1',
+        question: '空所に入る適切な語はどれですか。「Sorry I’m late — I was ( ) in traffic for almost an hour.」',
+        options: ['held back', 'held up', 'held out', 'held off'],
+        correctAnswer: 1,
+        explanation: '渋滞で遅れたのは be held up。',
+      },
+      {
+        id: 'q-holdup-2',
+        question: '空所に入る適切な語はどれですか。「She struggled to ( ) her tears during the farewell speech.」',
+        options: ['hold up', 'hold off', 'hold back', 'hold out'],
+        correctAnswer: 2,
+        explanation: '涙をこらえるのは hold back。',
+      },
+      {
+        id: 'q-holdup-3',
+        question: '空所に入る適切な語はどれですか。「Two masked men tried to ( ) the convenience store last night.」',
+        options: ['hold back', 'hold out', 'hold up', 'hold off'],
+        correctAnswer: 2,
+        explanation: '強盗するのは hold up。',
+      },
+      {
+        id: 'q-holdup-4',
+        question: '空所に入る適切な語はどれですか。「Police had to ( ) the crowd to let the ambulance through.」',
+        options: ['hold up', 'hold back', 'hold out', 'hold off'],
+        correctAnswer: 1,
+        explanation: '人混みを押しとどめるのは hold back。',
+      },
+      {
+        id: 'q-holdup-5',
+        question: 'hold up と hold back の違いとして正しいものはどれですか。',
+        options: [
+          'up は文脈で意味が大きく変わる多義語、back は「抑える」で一貫している',
+          '両者に意味の違いはない',
+          'up は感情専用、back は渋滞専用',
+          'back の方が意味の種類が多い',
+        ],
+        correctAnswer: 0,
+        explanation: 'hold up は遅延・強盗・耐久性など多義、hold back は抑制の意味で一貫しています。',
+      },
+    ],
+  },
+  {
+    id: 'set-out-set-back',
+    title: 'set out と set back',
+    chapter: 5,
+    hubId: 'set',
+    description: 'set out は「出発する・着手する・述べる」、set back は「（進捗）を遅らせる・費用がかかる」。前へ踏み出すか、後ろへ押し戻されるかの違いです。',
+    content: `## 踏み出すか、押し戻されるか
+
+set out と set back は set の後に続く前置詞の向きが正反対で、意味も「前進」と「後退」に分かれます。
+
+| 熟語 | 中心の意味 | 典型的な使われ方 |
+| --- | --- | --- |
+| set **out** | 出発する／〜に着手する／（考え・事実を）順序立てて述べる | set out on a journey／set out to break a record |
+| set **back** | （進捗）を遅らせる／（人に）費用がかかる／後方に配置する | set back the schedule／set someone back $200 |
+
+### set out の使い分け
+
+set out の1つ目の意味は文字どおり「旅・仕事に出発する」で、"They set out on the last leg of their journey." のように使います。2つ目は「特定の目標を持って何かに着手する」（She set out to break the world record）。3つ目は「（考え・規則・事実などを）順序立てて明確に述べる・提示する」（The report sets out the key findings）という意味です。
+
+### set back の使い分け
+
+set back の中心は「（計画・進捗）を予定より遅らせる」で、"The bad weather set back the construction schedule by several weeks." のように使います。口語では「（人に）ある金額の費用がかかる」（The repairs set him back over $200）という婉曲的な意味もよく使われます。物理的には「（建物などを）道路から離して配置する」という意味もあります。
+
+### 使い分けの手がかり
+
+**set out は begin／embark on／present に置換**でき、「前に向かって踏み出す・提示する」という前向きな動作です。**set back は delay／cost に置換**でき、「進んでいたものを後方へ押し戻す」という後ろ向きな動作です。前進のイメージか、後退・負担のイメージかで見分けます。
+
+### なぜ直訳で読み解けないか
+
+out は「外へ向けて踏み出す」イメージなので、set out は旅や仕事のスタート地点から外の世界へ踏み出すことを表します。back は「後方へ押し戻す」イメージなので、set back は進んでいた計画を後ろへ引き戻す（遅らせる）、または支払いによって手元の資金を後退させる（費用がかかる）ことを表します。
+
+### よくある誤用
+
+⚠️ \`The delay set out our project by a month.\`（誤）。計画が遅れたのは set **back**。set out に「遅らせる」の意味はありません。
+
+⚠️ \`We set back on our journey at dawn.\`（誤）。旅に出発したのは set **out**。set back は出発の意味を持ちません。
+
+🎯 覚え方：**out＝外へ向けて踏み出す（出発する・着手する・述べる）**、**back＝後方へ押し戻す（遅らせる・費用がかかる）**。`,
+    keyPoints: [
+      'set out＝出発する／〜に着手する／（考え・事実を）順序立てて述べる（begin/embark on/present）',
+      'set back＝（進捗）を遅らせる／（人に）費用がかかる（delay/cost）',
+      'set out は前向きな開始、set back は後ろ向きな遅延・負担',
+      'out＝外へ踏み出す、back＝後方へ押し戻す、という前置詞イメージの違い',
+    ],
+    quiz: [
+      {
+        id: 'q-setout-1',
+        question: '空所に入る適切な語はどれですか。「The explorers ( ) at dawn to reach the summit before nightfall.」',
+        options: ['set back', 'set out', 'set off track', 'set up'],
+        correctAnswer: 1,
+        explanation: '出発したのは set out。',
+      },
+      {
+        id: 'q-setout-2',
+        question: '空所に入る適切な語はどれですか。「The unexpected delay ( ) the entire construction project by two months.」',
+        options: ['set out', 'set back', 'set off', 'set up'],
+        correctAnswer: 1,
+        explanation: '計画を遅らせたのは set back。',
+      },
+      {
+        id: 'q-setout-3',
+        question: '空所に入る適切な語はどれですか。「The new tires and repairs ( ) me nearly $500.」',
+        options: ['set out', 'set up', 'set back', 'set off'],
+        correctAnswer: 2,
+        explanation: '（人に）費用がかかるのは set back。',
+      },
+      {
+        id: 'q-setout-4',
+        question: '「その報告書は主な調査結果を明確に述べている」を表す文はどれですか。',
+        options: [
+          'The report sets back the key findings.',
+          'The report sets out the key findings.',
+          'The report sets up the key findings.',
+          'The report sets off the key findings.',
+        ],
+        correctAnswer: 1,
+        explanation: '事実を順序立てて述べるのは set out。',
+      },
+      {
+        id: 'q-setout-5',
+        question: 'set out と set back の違いとして正しいものはどれですか。',
+        options: [
+          'out＝前向きな開始・提示、back＝後ろ向きな遅延・負担',
+          '両者に意味の違いはない',
+          'out＝費用がかかる、back＝出発する',
+          'back の方が前向きな意味を持つ',
+        ],
+        correctAnswer: 0,
+        explanation: 'set out は開始・提示、set back は遅延・費用という後退的な意味です。',
+      },
+    ],
+  },
+  {
+    id: 'set-off-set-up',
+    title: 'set off と set up',
+    chapter: 5,
+    hubId: 'set',
+    description: 'set off は「出発する・（警報等を）作動させる・引き起こす」、set up は「設立する・組み立てる」。起点から離れる動きと、基盤を組み上げる動きの違いです。',
+    content: `## 起点から離れるか、基盤を組み上げるか
+
+set off と set up はどちらも set out と意味が重なる場面がありますが、off の「起点からの離脱・作動」と up の「基盤の上への構築」というイメージの違いで使い分けます。
+
+| 熟語 | 中心の意味 | 典型的な目的語・主語 |
+| --- | --- | --- |
+| set **off** | 出発する／（警報・爆弾を）作動させる／（連鎖反応を）引き起こす | set off on a trip／set off the alarm |
+| set **up** | 〜を設立する・組織する／〜を物理的に組み立てる・準備する | set up a company／set up a tent |
+
+### set off の使い分け
+
+set off の1つ目の意味は「旅・移動に出発する」で、"We set off for the airport at 6 a.m." のように set out とほぼ同義で使えます。2つ目は「（警報・爆弾などを）作動させる」（The smoke set off the fire alarm）。3つ目は「（一連の出来事・議論などを）引き起こす」（The announcement set off a wave of protests）という比喩的な意味です。
+
+### set up の使い分け
+
+set up の中心は「組織・仕組みを新たに作り上げる」で、"They set up a new charity to support local schools." のように使われます。物理的には「（テント・機材などを）組み立てる、設置する」（set up the equipment before the show）という意味もよく使われます。
+
+### 使い分けの手がかり
+
+**set off は depart／trigger／cause に置換**でき、「その場から離れる・何かの反応を引き起こす」動作です。**set up は establish／assemble に置換**でき、「土台の上に新しく構築する」動作です。「離れる・作動させる」話か「組み立てる・設立する」話かで判断します。
+
+### なぜ直訳で読み解けないか
+
+off は「起点から切り離されて作動を始める」イメージなので、set off は出発点を離れる旅立ちにも、スイッチが切り離されて作動する警報にも広がります。up は「基盤の上に組み立てる」イメージなので、set up は部品や制度を積み上げて完成させることを表します。
+
+### よくある誤用
+
+⚠️ \`The loud noise set up the car alarm.\`（誤）。警報を作動させたのは set **off**。set up に「作動させる」の意味はありません。
+
+⚠️ \`They set off a new branch office in Osaka.\`（誤）。支店を設立したのは set **up**。set off は設立の意味を持ちません。
+
+🎯 覚え方：**off＝起点から切り離して作動する（出発する・警報を鳴らす）**、**up＝基盤の上に組み立てる（設立する・準備する）**。`,
+    keyPoints: [
+      'set off＝出発する／（警報・爆弾を）作動させる／（連鎖反応を）引き起こす（depart/trigger）',
+      'set up＝〜を設立する・組織する／物理的に組み立てる・準備する（establish/assemble）',
+      'set off は起点からの離脱・作動、set up は基盤の上への構築',
+      'off＝起点から切り離す、up＝基盤の上に組み立てる、という前置詞イメージの違い',
+    ],
+    quiz: [
+      {
+        id: 'q-setoff-1',
+        question: '空所に入る適切な語はどれですか。「We ( ) for the mountains early to avoid the traffic.」',
+        options: ['set up', 'set off', 'set back', 'set out to'],
+        correctAnswer: 1,
+        explanation: '出発したのは set off（set out と同義）。',
+      },
+      {
+        id: 'q-setoff-2',
+        question: '空所に入る適切な語はどれですか。「Someone accidentally ( ) the fire alarm during the drill.」',
+        options: ['set up', 'set back', 'set off', 'set out'],
+        correctAnswer: 2,
+        explanation: '警報を作動させたのは set off。',
+      },
+      {
+        id: 'q-setoff-3',
+        question: '空所に入る適切な語はどれですか。「The company plans to ( ) a new research lab next year.」',
+        options: ['set off', 'set back', 'set up', 'set out'],
+        correctAnswer: 2,
+        explanation: '研究所を設立するのは set up。',
+      },
+      {
+        id: 'q-setoff-4',
+        question: '「その発表は抗議の波を引き起こした」を表す文はどれですか。',
+        options: [
+          'The announcement set up a wave of protests.',
+          'The announcement set back a wave of protests.',
+          'The announcement set off a wave of protests.',
+          'The announcement set out a wave of protests.',
+        ],
+        correctAnswer: 2,
+        explanation: '連鎖反応を引き起こすのは set off。',
+      },
+      {
+        id: 'q-setoff-5',
+        question: 'set off と set up の違いとして正しいものはどれですか。',
+        options: [
+          'off＝起点から切り離し作動する、up＝基盤の上に組み立てる',
+          '両者に意味の違いはない',
+          'off＝設立する、up＝出発する',
+          'up の方が出発の意味に近い',
+        ],
+        correctAnswer: 0,
+        explanation: 'set off は出発・作動、set up は設立・組み立てという違いがあります。',
+      },
+    ],
+  },
 ];
