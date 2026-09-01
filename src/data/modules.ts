@@ -19982,4 +19982,521 @@ off は「起点から切り離されて作動を始める」イメージなの�
       },
     ],
   },
+  {
+    id: 'make-up-for-make-do-with',
+    title: 'make up for と make do with',
+    chapter: 5,
+    hubId: 'make',
+    description: 'make up for は「（不足・損失）を埋め合わせる」、make do with は「（不本意ながら）で済ませる」。埋め合わせるか妥協するかの違いです。',
+    content: `## 埋め合わせるか、妥協するか
+
+make up for と make do with はどちらも「理想どおりではない状況への対応」を表しますが、up for の「不足を積み増す」イメージと do with の「今あるもので処理する」イメージが異なります。
+
+| 熟語 | 中心の意味 | 典型的な目的語 |
+| --- | --- | --- |
+| make up **for** | （不足・損失・欠点）を埋め合わせる | lost time, a mistake, a lack of experience |
+| make **do** with | 不本意ながら〜で済ませる・間に合わせる | leftovers, what you have |
+
+### make up for の使い分け
+
+make up for は「失われたもの・不足しているものを、別の努力や行動で補う」という意味です。"We stayed late to make up for the time we lost earlier." のように使われ、"Her enthusiasm makes up for her lack of experience."（彼女の熱意が経験不足を補っている）のように、長所が短所を埋め合わせる場面にも使われます。
+
+### make do with の使い分け
+
+make do with は「理想的ではないが、今手元にあるもので何とかする」という妥協を表します。"We didn't have proper chairs, so we made do with boxes." のように、より良い選択肢がないために代用品や不十分な状況を受け入れる場面で使います。
+
+### 使い分けの手がかり
+
+**make up for は compensate for に置換**でき、「不足分を埋める」という**積極的な補填**を表します。**make do with は manage with something less than ideal に置換**でき、「無いものねだりをせず、あるもので済ませる」という**消極的な妥協**を表します。埋め合わせているのか、妥協しているのかで見分けます。
+
+### なぜ直訳で読み解けないか
+
+up for は「不足分を上へ積み増して埋める」イメージなので、make up for は損失や欠点を新たな努力で埋め合わせることを表します。do with は「手元にあるものを使って対処する」イメージなので、make do with は理想と現実のギャップを受け入れて済ませることを表します。
+
+### よくある誤用
+
+⚠️ \`We had to make up for the old furniture until we could afford new pieces.\`（誤）。古い家具で済ませたのは make do **with**。make up for に「済ませる」の意味はありません。
+
+⚠️ \`His hard work made do with his lack of talent.\`（誤）。才能不足を努力で補ったのは make up **for**。make do with は「補う」という積極的な意味を持ちません。
+
+🎯 覚え方：**up for＝不足分を積み増して埋める（埋め合わせる）**、**do with＝手元のもので対処する（妥協して済ませる）**。`,
+    keyPoints: [
+      'make up for＝（不足・損失・欠点）を埋め合わせる（compensate for）',
+      'make do with＝不本意ながら〜で済ませる・間に合わせる（manage with less than ideal）',
+      'make up for は積極的な補填、make do with は消極的な妥協',
+      'up for＝不足分を積み増す、do with＝手元のもので対処する、という前置詞イメージの違い',
+    ],
+    quiz: [
+      {
+        id: 'q-makeup-1',
+        question: '空所に入る適切な語はどれですか。「He worked overtime all week to ( ) the deadline he missed.」',
+        options: ['make do with', 'make up for', 'make out', 'make for'],
+        correctAnswer: 1,
+        explanation: '遅れを埋め合わせるのは make up for。',
+      },
+      {
+        id: 'q-makeup-2',
+        question: '空所に入る適切な語はどれですか。「Since the store was closed, we had to ( ) what was left in the fridge.」',
+        options: ['make up for', 'make out', 'make do with', 'make for'],
+        correctAnswer: 2,
+        explanation: '手元にあるもので済ませたのは make do with。',
+      },
+      {
+        id: 'q-makeup-3',
+        question: '空所に入る適切な語はどれですか。「Her natural talent ( ) her lack of formal training.」',
+        options: ['makes do with', 'makes for', 'makes up for', 'makes out'],
+        correctAnswer: 2,
+        explanation: '長所が短所を埋め合わせるのは make up for。',
+      },
+      {
+        id: 'q-makeup-4',
+        question: 'make do with の言い換えとして最も適切なものはどれですか。',
+        options: ['compensate for', 'manage with what is available', 'perceive with difficulty', 'move toward'],
+        correctAnswer: 1,
+        explanation: 'make do with は「あるもので何とかする」という意味です。',
+      },
+      {
+        id: 'q-makeup-5',
+        question: 'make up for と make do with の違いとして正しいものはどれですか。',
+        options: [
+          'up for＝積極的な補填、do with＝消極的な妥協',
+          '両者に意味の違いはない',
+          'up for＝妥協する、do with＝埋め合わせる',
+          'do with の方が積極的な意味を持つ',
+        ],
+        correctAnswer: 0,
+        explanation: 'make up for は埋め合わせ、make do with は妥協という違いがあります。',
+      },
+    ],
+  },
+  {
+    id: 'make-out-make-for',
+    title: 'make out と make for',
+    chapter: 5,
+    hubId: 'make',
+    description: 'make out は「かろうじて識別する・理解する・記入する」、make for は「〜へ向かって進む・〜に役立つ」。判別する行為と、方向へ進む・貢献する行為の違いです。',
+    content: `## 判別するか、向かって進む・貢献するか
+
+make out と make for は共に多義語ですが、out の「輪郭を作り出して判別する」イメージと for の「目的地・結果に向かう」イメージで大きく方向性が異なります。
+
+| 熟語 | 中心の意味 | 典型的な使われ方 |
+| --- | --- | --- |
+| make **out** | かろうじて見分ける・理解する／（書類等を）記入する／〜だと主張する | make out a figure in the fog／make out a check |
+| make **for** | 〜へ向かって進む／〜に役立つ・貢献する | make for the exit／make for a happy marriage |
+
+### make out の使い分け
+
+make out の1つ目の意味は「（視覚・聴覚が悪い状況で）かろうじて識別する」で、"I could just make out a shape in the fog." のように使います。2つ目は「（複雑なことを）理解する」（I can't make out what he's trying to say）。3つ目は「（小切手・書類などを）作成・記入する」（make out a check for $50）。4つ目は「〜だと主張する・見せかける」（She's not as rich as people make out）という意味もあります。
+
+### make for の使い分け
+
+make for の1つ目の意味は「（ある場所に）向かって進む」で、"He got up and made for the door." のように使います。2つ目は「（ある結果を）もたらす・〜に役立つ」で、"Constant arguing doesn't make for a happy marriage." のように、主語が抽象的な要因、結果が望ましい状態かどうかを表す文脈で使われます。
+
+### 使い分けの手がかり
+
+**make out は discern／understand／write out に置換**でき、「はっきりしないものを判別・記入する」という動作です。**make for は head toward／contribute to に置換**でき、「場所や結果に向かって進む・寄与する」という動作です。「見分ける・書く」話か「向かう・役立つ」話かで区別します。
+
+### なぜ直訳で読み解けないか
+
+out は「ぼんやりしたものの輪郭を外へ作り出す」イメージなので、make out は霧の中の人影や複雑な話の意味を判別することに広がります。for は「目的地・結果に向かう」イメージなので、make for は物理的な移動にも、ある結果に貢献するという比喩にも広がります。
+
+### よくある誤用
+
+⚠️ \`He got up and made out the door.\`（誤）。出口へ向かったのは make **for**。make out に「向かう」の意味はありません。
+
+⚠️ \`I couldn't make for what she was saying.\`（誤）。理解できなかったのは make **out**。make for は理解の意味を持ちません。
+
+🎯 覚え方：**out＝輪郭を作り出して判別する（見分ける・理解する・記入する）**、**for＝目的地・結果に向かう（向かって進む・役立つ）**。`,
+    keyPoints: [
+      'make out＝かろうじて見分ける・理解する／（書類等を）記入する／〜だと主張する',
+      'make for＝〜へ向かって進む／〜に役立つ・貢献する（head toward/contribute to）',
+      'make out は「判別・記入」、make for は「移動・貢献」という別方向の意味',
+      'out＝輪郭を作り出す、for＝目的地・結果に向かう、という前置詞イメージの違い',
+    ],
+    quiz: [
+      {
+        id: 'q-makeout-1',
+        question: '空所に入る適切な語はどれですか。「Through the thick fog, I could barely ( ) the outline of the ship.」',
+        options: ['make for', 'make out', 'make up for', 'make do with'],
+        correctAnswer: 1,
+        explanation: 'かろうじて識別するのは make out。',
+      },
+      {
+        id: 'q-makeout-2',
+        question: '空所に入る適切な語はどれですか。「As soon as the alarm rang, everyone ( ) the nearest exit.」',
+        options: ['made out', 'made up for', 'made for', 'made do with'],
+        correctAnswer: 2,
+        explanation: '出口へ向かったのは make for。',
+      },
+      {
+        id: 'q-makeout-3',
+        question: '空所に入る適切な語はどれですか。「Please ( ) the check for exactly $120.」',
+        options: ['make out', 'make for', 'make up for', 'make do with'],
+        correctAnswer: 0,
+        explanation: '小切手を記入するのは make out。',
+      },
+      {
+        id: 'q-makeout-4',
+        question: '空所に入る適切な語はどれですか。「Constant interruptions don’t ( ) a productive meeting.」',
+        options: ['make out', 'make up for', 'make for', 'make do with'],
+        correctAnswer: 2,
+        explanation: '望ましい結果に役立つ・貢献するのは make for。',
+      },
+      {
+        id: 'q-makeout-5',
+        question: 'make out の言い換えとして最も適切でないものはどれですか。',
+        options: ['discern', 'understand', 'head toward', 'write out'],
+        correctAnswer: 2,
+        explanation: '「向かう」（head toward）は make for の言い換えです。',
+      },
+    ],
+  },
+  {
+    id: 'pass-for-pass-off-as',
+    title: 'pass for と pass off as',
+    chapter: 5,
+    hubId: 'pass',
+    description: 'pass for は「〜として通用する」、pass off as は「（偽物）を〜だと偽って通用させる」。悪意を伴わない自動詞と、意図的にだます他動詞の違いです。',
+    content: `## 通用するか、偽って通用させるか
+
+pass for と pass off as は「本物ではないのに〜として扱われる」という点で似ていますが、主語が「通用する側」か「だます側」かで文型と意図がまったく異なります。
+
+| 熟語 | 中心の意味 | 主語 |
+| --- | --- | --- |
+| pass **for** | 〜として通用する（悪意は必ずしも伴わない） | 通用する本人・もの |
+| pass **off** as | （偽物）を〜だと偽って通用させる（意図的な詐称） | だます側の人 |
+
+### pass for の使い分け
+
+pass for は「実際には違うのに、見た目や様子から〜として受け取られる」という意味です。"With his sophisticated manners, he could easily pass for a diplomat." のように、必ずしも悪意ある詐欺を意味せず、単に「そう見える」というニュアンスで使われます。
+
+### pass off as の使い分け
+
+pass off as は「AをBだと偽って他人に受け入れさせる」という、明確に意図的な詐称を表す他動詞構文です。"The dealer tried to pass off the fake as a genuine antique." のように、主語は常に「だます側」の人物です。「pass oneself off as」の形で「自分を〜だと偽る」という再帰的な使い方も頻出します。
+
+### 使い分けの手がかり
+
+**pass for は be mistaken for に置換**でき、目的語をとらない自動詞的な構文で、主語自身が「そう見える」対象です。**pass off as は falsely represent A as B に置換**でき、目的語（偽物）と as以下（本物として見せる対象）の両方をとる他動詞構文で、主語は「偽装する行為者」です。**主語が「通用する本人」か「偽装する人」か**で区別します。
+
+### なぜ直訳で読み解けないか
+
+for は「〜としての評価に見合う」イメージなので、pass for はそのまま「その評価で通用する」という受け身的な状態を表します。off as は「本体から切り離して偽の姿として押し出す」イメージなので、pass off as は偽物を本物の姿に仕立てて他人に手渡すという能動的な詐称を表します。
+
+### よくある誤用
+
+⚠️ \`He passed off a doctor in the village.\`（誤・構文の混同）。「医者として通っていた」なら pass **for**（またはpassed himself off as）。as が抜けると意味が成立しません。
+
+⚠️ \`The replica passed for as an original painting.\`（誤・forとasの混同）。「本物として通用した」は pass **for** an original painting（forのみ）、または was passed **off as** an original painting（受動態）。
+
+🎯 覚え方：**for＝そのまま評価に見合って通用する（悪意なし）**、**off as＝偽物を本物の姿にして押し出す（意図的な詐称）**。`,
+    keyPoints: [
+      'pass for＝〜として通用する（be mistaken for）。悪意は必ずしも伴わない自動詞的構文',
+      'pass off as＝（偽物）を〜だと偽って通用させる（falsely represent as）。意図的な詐称の他動詞構文',
+      'pass for の主語は「通用する本人」、pass off as の主語は「だます側」',
+      'for＝評価に見合って通用する、off as＝偽の姿を押し出す、という前置詞イメージの違い',
+    ],
+    quiz: [
+      {
+        id: 'q-passfor-1',
+        question: '空所に入る適切な語はどれですか。「With her fluent French, she could easily ( ) a native speaker.」',
+        options: ['pass off as', 'pass for', 'pass away', 'pass out'],
+        correctAnswer: 1,
+        explanation: 'そのように見えて通用するのは pass for。',
+      },
+      {
+        id: 'q-passfor-2',
+        question: '空所に入る適切な語はどれですか。「The con artist tried to ( ) the fake painting ( ) a genuine masterpiece.」',
+        options: ['pass for / -', 'pass off / as', 'pass away / as', 'pass out / for'],
+        correctAnswer: 1,
+        explanation: '偽物を本物と偽って通用させるのは pass off ... as ...。',
+      },
+      {
+        id: 'q-passfor-3',
+        question: '「彼は自分を医者だと偽った」を最も自然に表す文はどれですか。',
+        options: [
+          'He passed for a doctor.',
+          'He passed himself off as a doctor.',
+          'He passed away as a doctor.',
+          'He passed out as a doctor.',
+        ],
+        correctAnswer: 1,
+        explanation: '意図的な詐称は pass oneself off as。',
+      },
+      {
+        id: 'q-passfor-4',
+        question: 'pass for の主語として正しいものはどれですか。',
+        options: ['だます側の人', '通用する本人・もの', '受け取る側の人', '目撃者'],
+        correctAnswer: 1,
+        explanation: 'pass for の主語は「そう見える・通用する」本人です。',
+      },
+      {
+        id: 'q-passfor-5',
+        question: 'pass for と pass off as の違いとして正しいものはどれですか。',
+        options: [
+          'for は悪意を伴わない自動詞的構文、off as は意図的な詐称の他動詞構文',
+          '両者に意味の違いはない',
+          'for の方が常に悪意を伴う',
+          'off as は目的語をとらない',
+        ],
+        correctAnswer: 0,
+        explanation: 'pass for は自動詞的で悪意を伴わない場合もあり、pass off as は意図的な詐称を表します。',
+      },
+    ],
+  },
+  {
+    id: 'pass-away-pass-out',
+    title: 'pass away と pass out',
+    chapter: 5,
+    hubId: 'pass',
+    description: 'pass away は「亡くなる」の婉曲表現、pass out は「気を失う」または「配る」。away は永遠に去ること、out は意識や物が外へ出ることを表します。',
+    content: `## 永遠に去るか、意識や物が外へ出るか
+
+pass away と pass out はどちらも pass を含む熟語ですが、away の「遠くへ去る」イメージと out の「外へ出る」イメージで、扱う場面がまったく異なります。
+
+| 熟語 | 中心の意味 | 使われる場面 |
+| --- | --- | --- |
+| pass **away** | 亡くなる（die の婉曲表現） | フォーマルな死の話題 |
+| pass **out** | 気を失う（faint と同義）／（物を）配る | 医療・日常の場面／配布の場面 |
+
+### pass away の使い分け
+
+pass away は「死ぬ」ことを直接的に言わずに表す婉曲表現で、"Her grandfather passed away peacefully last night." のように、フォーマルな場面や人の死を丁寧に伝えたい場面で使われます。「文明などが消滅する」（civilizations that have passed away）という比喩的な用法もあります。
+
+### pass out の使い分け
+
+pass out には2つの主な意味があります。1つは「意識を失う、気絶する」（faint と同義）で、"He passed out from the heat during the marathon." のように使います。もう1つは「（プリントなどを）人々に配る」という意味で、"The teacher passed out the exam papers." のように使われます。
+
+### 使い分けの手がかり
+
+**pass away は die の婉曲表現**で、常に人（または比喩的に文明・時代など）が主語です。**pass out は faint または distribute に置換**でき、文脈（体調不良の話か、配布の話か）で意味を判別します。「死ぬ話」なら away、「気絶する・配る話」なら out、と考えます。
+
+### なぜ直訳で読み解けないか
+
+away は「この場から遠く離れた場所へ去っていく」イメージなので、pass away は生から死へ、この世から別の場所へ穏やかに去っていくという婉曲的な表現に適しています。out は「内側から外側へ出る」イメージなので、pass out は意識が体の外へ抜け落ちる（気絶）、または物が人から人へ外へ配られていく（配布）という2つの意味に広がります。
+
+### よくある誤用
+
+⚠️ \`He passed out last year after a long illness.\`（不自然）。死去を婉曲に表すのは pass **away**。pass out を死の話題に使うのは不適切です。
+
+⚠️ \`The teacher passed away the exam papers.\`（誤）。配ったのは pass **out**。pass away に「配る」の意味はありません。
+
+🎯 覚え方：**away＝遠くへ穏やかに去る（亡くなる）**、**out＝内側から外側へ出る（気を失う・配る）**。`,
+    keyPoints: [
+      'pass away＝亡くなる（die の婉曲表現）。人や文明など「去っていく」対象に使う',
+      'pass out＝気を失う（faint）／（物を）配る（distribute）。文脈で意味を判別',
+      'pass away は死の話題専用、pass out は体調不良または配布の話題',
+      'away＝遠くへ去る、out＝内側から外側へ出る、という前置詞イメージの違い',
+    ],
+    quiz: [
+      {
+        id: 'q-passaway-1',
+        question: '空所に入る適切な語はどれですか。「Her beloved grandmother ( ) peacefully in her sleep.」',
+        options: ['passed out', 'passed away', 'passed for', 'passed off'],
+        correctAnswer: 1,
+        explanation: '亡くなったことを婉曲に表すのは pass away。',
+      },
+      {
+        id: 'q-passaway-2',
+        question: '空所に入る適切な語はどれですか。「He felt dizzy in the heat and eventually ( ).」',
+        options: ['passed away', 'passed for', 'passed out', 'passed off'],
+        correctAnswer: 2,
+        explanation: '気を失ったのは pass out。',
+      },
+      {
+        id: 'q-passaway-3',
+        question: '空所に入る適切な語はどれですか。「Volunteers ( ) free water bottles to the runners.」',
+        options: ['passed away', 'passed out', 'passed for', 'passed off'],
+        correctAnswer: 1,
+        explanation: '配ったのも pass out（distribute の意味）。',
+      },
+      {
+        id: 'q-passaway-4',
+        question: 'pass away の言い換えとして最も適切なものはどれですか。',
+        options: ['die', 'faint', 'distribute', 'deceive'],
+        correctAnswer: 0,
+        explanation: 'pass away は die の婉曲表現です。',
+      },
+      {
+        id: 'q-passaway-5',
+        question: 'pass away と pass out の違いとして正しいものはどれですか。',
+        options: [
+          'away＝遠くへ去る（死の婉曲表現）、out＝外へ出る（気絶・配布）',
+          '両者に意味の違いはない',
+          'away＝気絶する、out＝亡くなる',
+          'away は配布の意味でも使う',
+        ],
+        correctAnswer: 0,
+        explanation: 'pass away は死の婉曲表現、pass out は気絶または配布を表します。',
+      },
+    ],
+  },
+  {
+    id: 'stand-for-stand-by',
+    title: 'stand for と stand by',
+    chapter: 5,
+    hubId: 'stand',
+    description: 'stand for は「〜を表す・支持する・（否定文で）我慢しない」、stand by は「待機する・傍観する・支え続ける」。代表するか、そばに居続けるかの違いです。',
+    content: `## 代表するか、そばに居続けるか
+
+stand for と stand by はどちらも「立場を示す」比喩に関わりますが、for の「代わりに立つ」イメージと by の「脇に立ち続ける」イメージで意味の方向が異なります。
+
+| 熟語 | 中心の意味 | 典型的な使われ方 |
+| --- | --- | --- |
+| stand **for** | 〜を意味する・象徴する／〜を支持する／（否定文で）容認しない | what does "UN" stand for? |
+| stand **by** | 待機する／傍観する／（人を）支え続ける／（決定等を）守る | stand by the phone／stand by a friend |
+
+### stand for の使い分け
+
+stand for の1つ目の意味は「（略語などが）〜を意味する」で、"What does 'CEO' stand for?" のように使われます。2つ目は「（理念・価値観を）支持する・象徴する」（The organization stands for equal rights）。3つ目は "I won't stand for this kind of behavior." のように**否定文で「容認しない」**という意味になります。
+
+### stand by の使い分け
+
+stand by の1つ目の意味は「すぐに行動できる状態で待機する」で、"Doctors were standing by to treat the injured." のように使われます。2つ目は「（悪いことが起きているのに）何もせず傍観する」（We can't stand by while people suffer）。3つ目は「（困難な状況にある人を）支え続ける」（He stood by his friend through the scandal）。4つ目は「（決定・約束を）守り続ける」（She stood by her decision）という意味です。
+
+### 使い分けの手がかり
+
+**stand for は represent／support／（否定文で）tolerate に置換**でき、対象は理念・略語・行動です。**stand by は be ready／do nothing／support／stick to に置換**でき、文脈によって「待機・傍観・支持・遵守」のどれかを表します。stand by は一見矛盾する「傍観」と「支持」の両方を持つ点に注意します。
+
+### なぜ直訳で読み解けないか
+
+for は「何かの代わりに、その象徴として立つ」イメージなので、stand for は略語が指す正式名称や、団体が掲げる理念の代弁者として立つことを表します。by は「すぐ脇に立ち続ける」イメージなので、stand by は具体的な行動をとらず脇に立っている（待機・傍観）ことにも、困っている人の脇に立ち続ける（支持）ことにも広がります。
+
+### よくある誤用
+
+⚠️ \`I will stand by these values throughout my career.\`（不自然・意味は通じるが慣用は stand for が近い）。理念を象徴・支持する話は stand **for** がより自然です。
+
+⚠️ \`The doctors stood for the phone waiting for the call.\`（誤）。待機したのは stand **by**。stand for に「待機する」の意味はありません。
+
+🎯 覚え方：**for＝何かの代わりに象徴として立つ（表す・支持する）**、**by＝脇に立ち続ける（待機する・傍観する・支える）**。`,
+    keyPoints: [
+      'stand for＝〜を意味する・象徴する／支持する／（否定文で）容認しない',
+      'stand by＝待機する／傍観する／（人を）支え続ける／（決定等を）守る',
+      'stand by は「傍観」と「支持」という一見矛盾する意味を両方持つ',
+      'for＝代わりに象徴として立つ、by＝脇に立ち続ける、という前置詞イメージの違い',
+    ],
+    quiz: [
+      {
+        id: 'q-standfor-1',
+        question: '空所に入る適切な語はどれですか。「What does the abbreviation "NASA" ( )?」',
+        options: ['stand by', 'stand for', 'stand out', 'stand up for'],
+        correctAnswer: 1,
+        explanation: '略語が意味するのは stand for。',
+      },
+      {
+        id: 'q-standfor-2',
+        question: '空所に入る適切な語はどれですか。「Emergency crews were ( ) in case the storm caused damage.」',
+        options: ['standing for', 'standing out', 'standing by', 'standing up for'],
+        correctAnswer: 2,
+        explanation: '待機していたのは stand by。',
+      },
+      {
+        id: 'q-standfor-3',
+        question: '空所に入る適切な語はどれですか。「I won’t ( ) such rude behavior in my classroom.」',
+        options: ['stand by', 'stand for', 'stand out', 'stand up for'],
+        correctAnswer: 1,
+        explanation: '否定文で「容認しない」は stand for。',
+      },
+      {
+        id: 'q-standfor-4',
+        question: '空所に入る適切な語はどれですか。「Despite the scandal, her closest friends continued to ( ) her.」',
+        options: ['stand for', 'stand out', 'stand by', 'stand up'],
+        correctAnswer: 2,
+        explanation: '困難な状況で支え続けるのは stand by。',
+      },
+      {
+        id: 'q-standfor-5',
+        question: 'stand by が持つ、一見矛盾する2つの意味の組み合わせはどれですか。',
+        options: ['傍観する／支え続ける', '象徴する／容認しない', '待機する／略語を意味する', '目立つ／擁護する'],
+        correctAnswer: 0,
+        explanation: 'stand by は「何もせず傍観する」と「支え続ける」という一見逆の意味を両方持ちます。',
+      },
+    ],
+  },
+  {
+    id: 'stand-out-stand-up-for',
+    title: 'stand out と stand up for',
+    chapter: 5,
+    hubId: 'stand',
+    description: 'stand out は「目立つ・際立つ」、stand up for は「〜を擁護する・支持する」。周囲から突出することと、起立して味方に立つことの違いです。',
+    content: `## 突出して目立つか、起立して擁護するか
+
+stand out と stand up for はどちらも「立つ」動作から派生していますが、out の「前に突出する」イメージと up for の「起立して味方の側に立つ」イメージで意味が分かれます。
+
+| 熟語 | 中心の意味 | 典型的な使われ方 |
+| --- | --- | --- |
+| stand **out** | 目立つ・際立つ | stand out from the crowd |
+| stand up **for** | 〜を擁護する・支持する | stand up for oneself, a cause |
+
+### stand out の使い分け
+
+stand out は「周囲の中で際立って目立つ」という意味で、"Her bright red coat made her stand out in the crowd." のように使われます。能力や品質が「他より優れている、印象的である」という意味にも広がり、"His performance really stood out among the other candidates." のように評価の文脈でも頻出します。
+
+### stand up for の使い分け
+
+stand up for は「（批判・攻撃に対して）人や信条・自分自身を擁護する」という意味です。"She always stands up for her beliefs, even when it's unpopular." のように使われ、"You need to learn to stand up for yourself."（自分の意見をしっかり主張する）という自己主張の文脈でも頻出します。
+
+### 使い分けの手がかり
+
+**stand out は be noticeable／be much better than others に置換**でき、対象は人・物・成果など「際立つもの」です。**stand up for は defend／support に置換**でき、対象は人・信条・権利など「擁護すべきもの」です。「目立つ」話か「守る・主張する」話かで区別します。
+
+### なぜ直訳で読み解けないか
+
+out は「背景から前方へ突出して立つ」イメージなので、stand out は周囲との対比で際立つ様子を表します。up for は「立ち上がって相手を守る側に立つ」イメージなので、stand up for は困っている人や信条のために積極的に行動する擁護の姿勢を表します。
+
+### よくある誤用
+
+⚠️ \`She always stands out her friends when they're criticized.\`（誤）。友人を擁護するのは stand up **for**。stand out に「擁護する」の意味はありません。
+
+⚠️ \`His unique talent really stands up for in this industry.\`（誤・forが不要）。際立つのは stand **out**。stand up for は目的語（守る対象）を必要とする熟語です。
+
+🎯 覚え方：**out＝背景から突出して立つ（目立つ・際立つ）**、**up for＝起立して相手の側に立つ（擁護する・支持する）**。`,
+    keyPoints: [
+      'stand out＝目立つ・際立つ（be noticeable/be much better than others）',
+      'stand up for＝〜を擁護する・支持する（defend/support）',
+      'stand out の対象は「際立つもの」、stand up for の対象は「擁護すべきもの」',
+      'out＝前方へ突出する、up for＝起立して味方の側に立つ、という前置詞イメージの違い',
+    ],
+    quiz: [
+      {
+        id: 'q-standout-1',
+        question: '空所に入る適切な語はどれですか。「Her innovative design really ( ) among all the entries.」',
+        options: ['stood up for', 'stood by', 'stood out', 'stood for'],
+        correctAnswer: 2,
+        explanation: '際立ったのは stand out。',
+      },
+      {
+        id: 'q-standout-2',
+        question: '空所に入る適切な語はどれですか。「It’s important to teach children to ( ) themselves when bullied.」',
+        options: ['stand out', 'stand up for', 'stand by', 'stand for'],
+        correctAnswer: 1,
+        explanation: '自分を擁護するのは stand up for。',
+      },
+      {
+        id: 'q-standout-3',
+        question: '空所に入る適切な語はどれですか。「A true leader must be willing to ( ) unpopular causes.」',
+        options: ['stand out', 'stand by', 'stand up for', 'stand for himself'],
+        correctAnswer: 2,
+        explanation: '不人気な主張を擁護するのは stand up for。',
+      },
+      {
+        id: 'q-standout-4',
+        question: 'stand out の言い換えとして最も適切なものはどれですか。',
+        options: ['be noticeable', 'defend', 'wait', 'represent'],
+        correctAnswer: 0,
+        explanation: 'stand out は「目立つ」（be noticeable）という意味です。',
+      },
+      {
+        id: 'q-standout-5',
+        question: 'stand out と stand up for の違いとして正しいものはどれですか。',
+        options: [
+          'out＝周囲から突出して目立つ、up for＝起立して擁護する',
+          '両者に意味の違いはない',
+          'out＝擁護する、up for＝目立つ',
+          'stand out は必ず人を目的語にとる',
+        ],
+        correctAnswer: 0,
+        explanation: 'stand out は目立つこと、stand up for は擁護・支持を表します。',
+      },
+    ],
+  },
 ];
