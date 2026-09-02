@@ -20499,4 +20499,531 @@ out は「背景から前方へ突出して立つ」イメージなので、stan
       },
     ],
   },
+  {
+    id: 'carry-out-carry-through',
+    title: 'carry out と carry through',
+    chapter: 5,
+    hubId: 'carry',
+    description: 'carry out は「（計画・命令）を実行する」、carry through は「困難を伴う事業をやり遂げる・人を支えて乗り切らせる」。実行するか、困難を貫いてやり遂げるかの違いです。',
+    content: `## 実行するか、困難を貫いてやり遂げるか
+
+carry out と carry through はどちらも「実行する」に訳されがちですが、through が運ぶ「障害を貫通する」イメージの有無で、想定する困難さの度合いが異なります。
+
+| 熟語 | 中心の意味 | 典型的な目的語・主語 |
+| --- | --- | --- |
+| carry **out** | （計画・命令・調査）を実行する | an experiment, an order, a survey |
+| carry **through** | 困難な事業をやり遂げる／（人を）困難の中で支えて乗り切らせる | a reform, a crisis／carry someone through |
+
+### carry out の使い分け
+
+carry out は「決められたこと・計画されたことを実際に行う」という中立的な意味で、"The researchers carried out a series of experiments." のように、実験・調査・命令・指示などを対象に幅広く使われます。特別な困難さを含意しない、標準的な「実行する」の語です。
+
+### carry through の使い分け
+
+carry through は「（反対や困難があっても）最後までやり遂げる」という意味で、"Despite fierce opposition, she carried the reform through." のように使われます。また「carry someone through〜」の形で「（困難な状況で）人を支えて乗り切らせる」（His determination carried him through the crisis）という意味もあります。
+
+### 使い分けの手がかり
+
+**carry out は execute／perform に置換**でき、困難の有無を問わない中立的な実行動作です。**carry through は complete despite obstacles／sustain someone に置換**でき、「障害があってもやり遂げる」という強い含意を持ちます。定例業務の遂行なら carry out、抵抗や困難を乗り越える話なら carry through、と考えます。
+
+### なぜ直訳で読み解けないか
+
+out は「内部の着想を外部の現実として形にする」イメージなので、carry out は計画を実際の行動として具現化することを表します。through は「入口から出口まで障害を貫通する」イメージなので、carry through は困難というトンネルを通り抜けて完遂することを表します。
+
+### よくある誤用
+
+⚠️ \`We will carry through a routine survey next Monday.\`（誤・障害のない定例業務に through を使用）。ここでは単なる実行なので carry **out**。through は困難の含意を持つため不自然です。
+
+⚠️ \`His support carried him out the difficult period.\`（誤）。人を支えて乗り切らせたのは carry someone **through**。carry out は人を目的語にして「支える」意味では使いません。
+
+🎯 覚え方：**out＝着想を外部の現実として実行する（実行する）**、**through＝障害を貫通してやり遂げる（困難を乗り越える・支える）**。`,
+    keyPoints: [
+      'carry out＝（計画・命令・調査）を実行する（execute/perform）。困難の含意なし',
+      'carry through＝困難な事業をやり遂げる／人を支えて困難を乗り切らせる（complete despite obstacles/sustain）',
+      'carry out は中立的な実行、carry through は障害を伴う完遂',
+      'out＝着想を外部の現実にする、through＝障害を貫通する、という前置詞イメージの違い',
+    ],
+    quiz: [
+      {
+        id: 'q-carryout-1',
+        question: '空所に入る適切な語はどれですか。「The team will ( ) a series of safety inspections next week.」',
+        options: ['carry through', 'carry out', 'carry on', 'carry off'],
+        correctAnswer: 1,
+        explanation: '定例の点検を実行するのは carry out。',
+      },
+      {
+        id: 'q-carryout-2',
+        question: '空所に入る適切な語はどれですか。「Despite strong opposition, the mayor managed to ( ) the reform.」',
+        options: ['carry out', 'carry through', 'carry on', 'carry off'],
+        correctAnswer: 1,
+        explanation: '反対を押し切ってやり遂げたのは carry through。',
+      },
+      {
+        id: 'q-carryout-3',
+        question: '空所に入る適切な語はどれですか。「Her unwavering faith ( ) her ( ) the darkest period of her life.」',
+        options: ['carried / out', 'carried / through', 'carried / on', 'carried / off'],
+        correctAnswer: 1,
+        explanation: '人を困難の中で支えて乗り切らせるのは carry someone through。',
+      },
+      {
+        id: 'q-carryout-4',
+        question: 'carry out の言い換えとして最も適切なものはどれですか。',
+        options: ['execute', 'sustain', 'continue', 'achieve despite difficulty'],
+        correctAnswer: 0,
+        explanation: 'carry out は execute（実行する）に置換できます。',
+      },
+      {
+        id: 'q-carryout-5',
+        question: 'carry out と carry through の違いとして正しいものはどれですか。',
+        options: [
+          'out は中立的な実行、through は障害を伴う完遂',
+          '両者に意味の違いはない',
+          'out の方が困難さを強く含意する',
+          'through は人を目的語にとれない',
+        ],
+        correctAnswer: 0,
+        explanation: 'carry out は中立的な実行、carry through は困難を乗り越えての完遂を表します。',
+      },
+    ],
+  },
+  {
+    id: 'carry-on-carry-off',
+    title: 'carry on と carry off',
+    chapter: 5,
+    hubId: 'carry',
+    description: 'carry on は「続ける」、carry off は「（難しいことを）うまくやってのける」。同じ状態を保つか、困難な成果を持ち去るかの違いです。',
+    content: `## 続けるか、うまくやってのけるか
+
+carry on と carry off はどちらも carry の比喩用法ですが、on の「そのまま前へ持ち続ける」イメージと off の「成果を手元から持ち去る」イメージで意味の方向が異なります。
+
+| 熟語 | 中心の意味 | 典型的な使われ方 |
+| --- | --- | --- |
+| carry **on** | 続ける | carry on working／carry on with the plan |
+| carry **off** | （難しいこと）をうまくやってのける | carry off a difficult performance |
+
+### carry on の使い分け
+
+carry on は「（中断せずに、あるいは中断後に再び）何かを続ける」という意味で、"Please carry on with your work." のように使われます。イギリス英語では「（特に困難な状況でも）そのまま前進し続ける」という意味でも頻出し、口語では「（子どもなどが）大声で騒ぐ・文句を言う」という意味にもなります。
+
+### carry off の使い分け
+
+carry off は「困難なこと・リスクのあることを見事にやり遂げる」という意味で、"She managed to carry off the difficult stunt without any mistakes." のように使われます。「（賞などを）勝ち取る」（carry off first prize）という意味もあります。
+
+### 使い分けの手がかり
+
+**carry on は continue に置換**でき、「同じ動作・状態をそのまま保つ」という意味です。**carry off は accomplish something difficult successfully に置換**でき、「困難な状況を乗り越えて見事な成果を持ち去る」というニュアンスを持ちます。単に「続ける」なら on、「難しいことを成功させる」なら off、と考えます。
+
+### なぜ直訳で読み解けないか
+
+on は「同じ状態のまま前へ持ち続ける」イメージなので、carry on はそれまでの動作や状態を中断せずに継続することを表します。off は「困難な状況から成果を切り離して自分の手元へ持ち去る」イメージなので、carry off は難しい課題を見事にこなして成功を勝ち取ることを表します。
+
+### よくある誤用
+
+⚠️ \`She carried on the difficult performance flawlessly.\`（誤・意味不明瞭）。難しい演技をやってのけたのは carry **off**。carry on では「演技を続けた」という別の意味になります。
+
+⚠️ \`Please carry off with your presentation.\`（誤）。発表を続けるよう促すのは carry **on**（with）。carry off に「続ける」の意味はありません。
+
+🎯 覚え方：**on＝同じ状態のまま前へ持ち続ける（続ける）**、**off＝困難な成果を手元へ持ち去る（うまくやってのける）**。`,
+    keyPoints: [
+      'carry on＝続ける（continue）。中断せず、または再開して同じ動作を保つ',
+      'carry off＝（難しいこと）をうまくやってのける（accomplish something difficult）／（賞を）勝ち取る',
+      'carry on は継続、carry off は困難な達成という別方向の意味',
+      'on＝そのまま前へ持ち続ける、off＝成果を手元へ持ち去る、という前置詞イメージの違い',
+    ],
+    quiz: [
+      {
+        id: 'q-carryon-1',
+        question: '空所に入る適切な語はどれですか。「Please don’t stop on my account — ( ) with your work.」',
+        options: ['carry off', 'carry on', 'carry through', 'carry out'],
+        correctAnswer: 1,
+        explanation: '続けるよう促すのは carry on。',
+      },
+      {
+        id: 'q-carryon-2',
+        question: '空所に入る適切な語はどれですか。「Despite the technical difficulties, the actress ( ) the performance brilliantly.」',
+        options: ['carried on', 'carried out', 'carried off', 'carried through'],
+        correctAnswer: 2,
+        explanation: '難しい演技をやってのけたのは carry off。',
+      },
+      {
+        id: 'q-carryon-3',
+        question: '空所に入る適切な語はどれですか。「The team ( ) first prize at the international competition.」',
+        options: ['carried on', 'carried off', 'carried out', 'carried through'],
+        correctAnswer: 1,
+        explanation: '賞を勝ち取るのも carry off。',
+      },
+      {
+        id: 'q-carryon-4',
+        question: 'carry on の言い換えとして最も適切なものはどれですか。',
+        options: ['continue', 'accomplish successfully', 'execute', 'endure'],
+        correctAnswer: 0,
+        explanation: 'carry on は continue（続ける）に置換できます。',
+      },
+      {
+        id: 'q-carryon-5',
+        question: 'carry on と carry off の違いとして正しいものはどれですか。',
+        options: [
+          'on＝そのまま続ける、off＝困難なことを成功させる',
+          '両者に意味の違いはない',
+          'on＝賞を勝ち取る、off＝続ける',
+          'off の方が中立的な意味を持つ',
+        ],
+        correctAnswer: 0,
+        explanation: 'carry on は継続、carry off は困難な達成を表します。',
+      },
+    ],
+  },
+  {
+    id: 'look-into-look-over',
+    title: 'look into と look over',
+    chapter: 5,
+    hubId: 'look',
+    description: 'look into は「〜を調査する」、look over は「〜にざっと目を通す・点検する」。深く調べるか、表面をざっと確認するかの違いです。',
+    content: `## 深く調べるか、ざっと確認するか
+
+look into と look over はどちらも「調べる」に訳されますが、into の「内部へ入り込む」イメージと over の「表面全体を見渡す」イメージで、調査の深さがまったく異なります。
+
+| 熟語 | 中心の意味 | 典型的な目的語 |
+| --- | --- | --- |
+| look **into** | 〜を（深く）調査する | a complaint, an incident, the matter |
+| look **over** | 〜にざっと目を通す・点検する | a document, the figures, the house |
+
+### look into の使い分け
+
+look into は「問題や事件の実態を明らかにするために深く調べる」という意味で、"The police are looking into the cause of the accident." のように使われます。investigate に近い、時間をかけた本格的な調査を意味します。
+
+### look over の使い分け
+
+look over は「対象の表面をひととおり確認する」という意味で、"Could you look over this report before I submit it?" のように、誤りがないか・全体像を把握するための素早い点検を表します。物件を「下見する」（look over a house）という意味でも使われます。
+
+### 使い分けの手がかり
+
+**look into は investigate／examine deeply に置換**でき、時間をかけて内実を明らかにする調査です。**look over は check quickly／glance through に置換**でき、短時間での全体確認です。「深く調べる」のか「ざっと確認する」のかという**時間と深さの差**で区別します。
+
+### なぜ直訳で読み解けないか
+
+into は「内部へ視線を入れて奥まで探る」イメージなので、look into は表面的には見えない原因や真相を掘り下げて調べることを表します。over は「対象の表面全体を上からなぞるように見渡す」イメージなので、look over は細部を掘り下げず、全体の様子や誤りの有無を素早く確認することを表します。
+
+### よくある誤用
+
+⚠️ \`Could you look into this report before I submit it? It'll only take a minute.\`（不自然・意味の強さが合わない）。1分で終わる程度の確認なら look **over**。look into は本格的な調査を含意するため、軽い確認には重すぎます。
+
+⚠️ \`The police looked over the cause of the accident for three months.\`（不自然）。3か月かけた本格調査なら look **into**。look over はそこまで深い調査には使いません。
+
+🎯 覚え方：**into＝内部へ視線を入れて奥まで探る（深く調査する）**、**over＝表面全体を見渡す（ざっと点検する）**。`,
+    keyPoints: [
+      'look into＝〜を（深く）調査する（investigate）。時間をかけた本格的な調査',
+      'look over＝〜にざっと目を通す・点検する（check quickly）。短時間での全体確認',
+      'look into と look over は調査の深さ・時間の長さで区別する',
+      'into＝内部へ視線を入れる、over＝表面全体を見渡す、という前置詞イメージの違い',
+    ],
+    quiz: [
+      {
+        id: 'q-lookinto-1',
+        question: '空所に入る適切な語はどれですか。「The committee agreed to ( ) the allegations of misconduct.」',
+        options: ['look over', 'look into', 'look up to', 'look down on'],
+        correctAnswer: 1,
+        explanation: '本格的に調査するのは look into。',
+      },
+      {
+        id: 'q-lookinto-2',
+        question: '空所に入る適切な語はどれですか。「Could you quickly ( ) these numbers before the meeting starts?」',
+        options: ['look into', 'look over', 'look up to', 'look down on'],
+        correctAnswer: 1,
+        explanation: 'ざっと確認するのは look over。',
+      },
+      {
+        id: 'q-lookinto-3',
+        question: '空所に入る適切な語はどれですか。「Detectives are still ( ) the disappearance of the missing hikers.」',
+        options: ['looking over', 'looking into', 'looking up to', 'looking down on'],
+        correctAnswer: 1,
+        explanation: '事件の実態を調べるのは look into。',
+      },
+      {
+        id: 'q-lookinto-4',
+        question: 'look over の言い換えとして最も適切なものはどれですか。',
+        options: ['investigate deeply', 'check quickly', 'admire', 'despise'],
+        correctAnswer: 1,
+        explanation: 'look over は「ざっと確認する」という意味です。',
+      },
+      {
+        id: 'q-lookinto-5',
+        question: 'look into と look over の違いとして正しいものはどれですか。',
+        options: [
+          'into＝深く調査する、over＝表面をざっと確認する',
+          '両者に意味の違いはない',
+          'into＝ざっと確認する、over＝深く調査する',
+          'over の方が時間をかける調査に使う',
+        ],
+        correctAnswer: 0,
+        explanation: 'look into は深い調査、look over は表面的な素早い確認を表します。',
+      },
+    ],
+  },
+  {
+    id: 'look-up-to-look-down-on',
+    title: 'look up to と look down on',
+    chapter: 5,
+    hubId: 'look',
+    description: 'look up to は「〜を尊敬する」、look down on は「〜を見下す」。視線を上に向けるか下に向けるかで評価の方向が正反対になります。',
+    content: `## 見上げて敬うか、見下して蔑むか
+
+look up to と look down on は、up（上）と down（下）という正反対の方向を持つため、評価の方向もそのまま正反対になる分かりやすいペアです。
+
+| 熟語 | 中心の意味 | 評価の方向 |
+| --- | --- | --- |
+| look **up to** | 〜を尊敬する・手本とする | 相手を高く評価する（＋） |
+| look **down on** | 〜を見下す・軽視する | 相手を低く評価する（−） |
+
+### look up to の使い分け
+
+look up to は「相手を自分より優れた存在として仰ぎ見て尊敬する」という意味で、"Many young athletes look up to her as a role model." のように使われます。目上の人物・功績のある人物を手本として敬う場面で頻出します。
+
+### look down on の使い分け
+
+look down on は「相手を自分より劣った存在とみなして軽視する」という意味で、"He tends to look down on people who didn't go to university." のように使われます。実際には根拠のない優越感に基づく軽蔑を表すことが多い表現です。
+
+### 使い分けの手がかり
+
+**look up to は admire／respect に置換**でき、相手への肯定的な評価を表します。**look down on は despise／consider inferior に置換**でき、相手への否定的な評価を表します。up（上）と down（下）という反意語がそのまま評価の方向（尊敬か軽蔑か）に対応するため、覚えやすいペアです。
+
+### なぜ直訳で読み解けないか
+
+up to は「高い位置にあるものを見上げる」イメージなので、look up to は相手を自分より高い存在として仰ぎ見る尊敬の姿勢をそのまま表します。down on は「低い位置にあるものを見下ろす」イメージなので、look down on は相手を自分より低い存在とみなす軽視の姿勢をそのまま表します。前置詞の方向と意味の方向が一致している、分かりやすい例です。
+
+### よくある誤用
+
+⚠️ \`She looks down on her mentor for guidance.\`（誤・意味が正反対）。手本として尊敬するのは look up **to**。look down on では「軽蔑している」という正反対の意味になってしまいます。
+
+⚠️ \`He looks up to people who cut in line.\`（不自然・文脈上ありえない）。列に割り込む人を軽視するのが自然な文脈なら look down **on**。
+
+🎯 覚え方：**up to＝高い位置を見上げる（尊敬する）**、**down on＝低い位置を見下ろす（見下す）**。up/down の方向がそのまま評価の方向になります。`,
+    keyPoints: [
+      'look up to＝〜を尊敬する・手本とする（admire/respect）',
+      'look down on＝〜を見下す・軽視する（despise/consider inferior）',
+      'up（上）＝尊敬、down（下）＝軽蔑と、前置詞の方向がそのまま評価の方向に対応する',
+      '対義語ペアとして覚えやすいが、意味を取り違えると正反対になるので注意',
+    ],
+    quiz: [
+      {
+        id: 'q-lookupto-1',
+        question: '空所に入る適切な語はどれですか。「As a child, I always ( ) my older sister.」',
+        options: ['looked down on', 'looked up to', 'looked into', 'looked over'],
+        correctAnswer: 1,
+        explanation: '尊敬していたのは look up to。',
+      },
+      {
+        id: 'q-lookupto-2',
+        question: '空所に入る適切な語はどれですか。「It’s unfair to ( ) people just because they have a different job.」',
+        options: ['look up to', 'look down on', 'look into', 'look over'],
+        correctAnswer: 1,
+        explanation: '見下すのは look down on。',
+      },
+      {
+        id: 'q-lookupto-3',
+        question: '「多くの子どもたちが彼女を手本として尊敬している」を表す文はどれですか。',
+        options: [
+          'Many children look down on her.',
+          'Many children look up to her.',
+          'Many children look into her.',
+          'Many children look over her.',
+        ],
+        correctAnswer: 1,
+        explanation: '尊敬する・手本とするのは look up to。',
+      },
+      {
+        id: 'q-lookupto-4',
+        question: 'look down on の言い換えとして最も適切なものはどれですか。',
+        options: ['admire', 'despise', 'investigate', 'check quickly'],
+        correctAnswer: 1,
+        explanation: 'look down on は despise（見下す）に置換できます。',
+      },
+      {
+        id: 'q-lookupto-5',
+        question: 'look up to と look down on の関係として正しいものはどれですか。',
+        options: [
+          '意味がほぼ正反対の対義語ペア',
+          '意味がほぼ同じ同義語ペア',
+          'look up to の方が否定的な意味',
+          'look down on の方が肯定的な意味',
+        ],
+        correctAnswer: 0,
+        explanation: 'up to（尊敬）と down on（軽蔑）は評価の方向が正反対です。',
+      },
+    ],
+  },
+  {
+    id: 'break-down-break-off',
+    title: 'break down と break off',
+    chapter: 5,
+    hubId: 'break',
+    description: 'break down は「故障する・（交渉が）決裂する・分解する」、break off は「（関係・交渉）を中断する・打ち切る」。崩れ落ちるか、断ち切って切り離すかの違いです。',
+    content: `## 崩れ落ちるか、断ち切って切り離すか
+
+break down と break off はどちらも「（うまくいっていたことが）終わる」という状況で使われますが、down の「崩れ落ちる」イメージと off の「切り離す」イメージで、終わり方のニュアンスが異なります。
+
+| 熟語 | 中心の意味 | 典型的な主語 |
+| --- | --- | --- |
+| break **down** | 故障する／（交渉が）決裂する／（要素に）分解する／感情が崩れる | a machine, negotiations, expenditure |
+| break **off** | （関係・交渉・婚約）を中断する・打ち切る／（物理的に）折れて分離する | diplomatic relations, an engagement |
+
+### break down の使い分け
+
+break down の1つ目の意味は「（機械・車などが）故障して動かなくなる」（The car broke down on the highway）。2つ目は「（交渉・関係が）うまくいかなくなり崩壊する」（Peace talks broke down last week）。3つ目は「（データなどを）項目ごとに分解して分析する」（Expenditure breaks down as follows）。4つ目は「感情が抑えられなくなり泣き崩れる」（She broke down in tears）という意味です。
+
+### break off の使い分け
+
+break off は「それまでつながっていた関係や進行中の物事を、意図的に、あるいは突然に断ち切る」という意味です。"Britain threatened to break off diplomatic relations." のように外交関係や、"They broke off their engagement." のように婚約の解消にも使われます。また文字どおり「（物の一部を）力で折り取る」（she broke off a piece of chocolate）という意味もあります。
+
+### 使い分けの手がかり
+
+**break down は fail／stop working／collapse に置換**でき、多くの場合「（意図せず）機能や関係が崩壊する」という結果を表します。**break off は end abruptly／sever に置換**でき、「（意図的に、または突然に）つながりを断ち切る」という行為・出来事を表します。「壊れて動かなくなる・崩壊する」なら down、「関係を断ち切る」なら off、と考えます。
+
+### なぜ直訳で読み解けないか
+
+down は「構造が下方へ崩れ落ちる」イメージなので、break down は機械の機能や交渉の枠組みが内側から崩壊することを表します。off は「つながっている部分を切り離す」イメージなので、break off は関係や会話を意図的に、あるいは突然に断ち切ることを表します。
+
+### よくある誤用
+
+⚠️ \`The two countries broke down diplomatic relations.\`（誤・意味の強さが逆）。外交関係を断ち切ったのは break **off**。break down だと「関係が（自然に）崩壊した」という意味になり、意図的な断交のニュアンスが弱まります。
+
+⚠️ \`My car broke off on the way to work.\`（誤）。車が故障したのは break **down**。break off に「故障する」の意味はありません。
+
+🎯 覚え方：**down＝構造が崩れ落ちる（故障する・決裂する・分解する）**、**off＝つながりを断ち切る（中断する・打ち切る）**。`,
+    keyPoints: [
+      'break down＝故障する／（交渉が）決裂する／（要素に）分解する／感情が崩れる（fail/collapse）',
+      'break off＝（関係・交渉・婚約）を中断する・打ち切る（end abruptly/sever）',
+      'break down は機能・関係の崩壊、break off は関係の意図的な断ち切り',
+      'down＝崩れ落ちる、off＝つながりを切り離す、という前置詞イメージの違い',
+    ],
+    quiz: [
+      {
+        id: 'q-breakdown-1',
+        question: '空所に入る適切な語はどれですか。「Our old washing machine finally ( ) last week.」',
+        options: ['broke off', 'broke down', 'broke out', 'broke up'],
+        correctAnswer: 1,
+        explanation: '機械が故障したのは break down。',
+      },
+      {
+        id: 'q-breakdown-2',
+        question: '空所に入る適切な語はどれですか。「The two nations decided to ( ) diplomatic relations after the incident.」',
+        options: ['break down', 'break off', 'break out', 'break up'],
+        correctAnswer: 1,
+        explanation: '外交関係を打ち切るのは break off。',
+      },
+      {
+        id: 'q-breakdown-3',
+        question: '空所に入る適切な語はどれですか。「Peace negotiations ( ) after both sides refused to compromise.」',
+        options: ['broke off', 'broke down', 'broke out', 'broke up'],
+        correctAnswer: 1,
+        explanation: '交渉が決裂したのは break down。',
+      },
+      {
+        id: 'q-breakdown-4',
+        question: 'break off の言い換えとして最も適切なものはどれですか。',
+        options: ['fail', 'stop working', 'end abruptly', 'divide into parts'],
+        correctAnswer: 2,
+        explanation: 'break off は「（つながりを）突然・意図的に断ち切る」という意味です。',
+      },
+      {
+        id: 'q-breakdown-5',
+        question: 'break down と break off の違いとして正しいものはどれですか。',
+        options: [
+          'down＝機能・関係が崩壊する、off＝つながりを意図的に断ち切る',
+          '両者に意味の違いはない',
+          'down の方が意図的な断交を表す',
+          'off は機械の故障にも使う',
+        ],
+        correctAnswer: 0,
+        explanation: 'break down は崩壊、break off は意図的な断絶を表します。',
+      },
+    ],
+  },
+  {
+    id: 'break-out-break-up',
+    title: 'break out と break up',
+    chapter: 5,
+    hubId: 'break',
+    description: 'break out は「（戦争・火事等が）突発的に発生する・脱出する」、break up は「別れる・（集団が）解散する・粉々になる」。突発的に現れるか、ばらばらに砕けるかの違いです。',
+    content: `## 突発的に現れるか、ばらばらに砕けるか
+
+break out と break up はどちらも突然の変化を表しますが、out の「内部から外部へ噴き出す」イメージと up の「全体が破片に砕ける」イメージで、変化の性質が異なります。
+
+| 熟語 | 中心の意味 | 典型的な主語 |
+| --- | --- | --- |
+| break **out** | （戦争・火事・疫病等が）突発的に発生する／脱出する | war, fire, a disease／prisoners |
+| break **up** | 別れる／（集団・会議が）解散する／粉々になる | a couple, a meeting, a ship |
+
+### break out の使い分け
+
+break out の1つ目の意味は「（戦争・火事・伝染病などの好ましくない出来事が）突然発生する」で、"War broke out between the two nations in 1939." のように使われます。2つ目は「（刑務所などから）脱出する」（Several inmates broke out of prison）。3つ目は「（皮膚に）発疹ができる」（She broke out in a rash）という意味もあります。
+
+### break up の使い分け
+
+break up の1つ目の意味は「（恋愛関係・結婚が）終わる、別れる」で、"They broke up after five years together." のように使われます。2つ目は「（集団・会議・群衆が）解散してばらばらの方向に散っていく」（The meeting broke up at noon）。3つ目は文字どおり「（船や物体が）ばらばらに砕ける」（The ship broke up on the rocks）という意味です。
+
+### 使い分けの手がかり
+
+**break out は start suddenly／escape に置換**でき、「それまで無かった事態が内部から突発的に現れる、または閉じ込められた場所から抜け出す」動作です。**break up は end a relationship／disperse／shatter に置換**でき、「1つのまとまりがばらばらの破片や方向に分かれる」動作です。「突然発生する・脱出する」話か「別れる・解散する」話かで区別します。
+
+### なぜ直訳で読み解けないか
+
+out は「内部に潜んでいたものが外部へ突発的に噴き出す」イメージなので、break out は戦争・火事・発疹のように、それまで抑えられていたものが突然表面化することを表します。up は「1つのまとまりが複数の破片・方向に分かれる」イメージなので、break up は恋愛関係の解消や集団の解散のように、まとまっていたものがばらばらになることを表します。
+
+### よくある誤用
+
+⚠️ \`The two nations broke up in 1939.\`（誤・意味不明瞭）。戦争が発生したのは break **out**。break up は国同士の「戦争発生」には使いません。
+
+⚠️ \`They broke out after five years together.\`（誤）。恋人同士が別れたのは break **up**。break out に「別れる」の意味はありません。
+
+🎯 覚え方：**out＝内部から突発的に噴き出す（発生する・脱出する）**、**up＝全体が破片に砕ける（別れる・解散する）**。`,
+    keyPoints: [
+      'break out＝（戦争・火事等が）突発的に発生する／脱出する（start suddenly/escape）',
+      'break up＝別れる／（集団・会議が）解散する／粉々になる（end a relationship/disperse）',
+      'break out は突発的な発生・脱出、break up はまとまりの解消・分散',
+      'out＝内部から突発的に噴き出す、up＝全体が破片に砕ける、という前置詞イメージの違い',
+    ],
+    quiz: [
+      {
+        id: 'q-breakout-1',
+        question: '空所に入る適切な語はどれですか。「A massive fire ( ) in the warehouse district last night.」',
+        options: ['broke up', 'broke out', 'broke off', 'broke down'],
+        correctAnswer: 1,
+        explanation: '火事が発生したのは break out。',
+      },
+      {
+        id: 'q-breakout-2',
+        question: '空所に入る適切な語はどれですか。「After years of arguing, they finally decided to ( ).」',
+        options: ['break out', 'break up', 'break down', 'break off relations'],
+        correctAnswer: 1,
+        explanation: '恋人同士が別れたのは break up。',
+      },
+      {
+        id: 'q-breakout-3',
+        question: '空所に入る適切な語はどれですか。「Three inmates ( ) of the maximum-security prison overnight.」',
+        options: ['broke up', 'broke down', 'broke out', 'broke off'],
+        correctAnswer: 2,
+        explanation: '刑務所から脱出したのは break out。',
+      },
+      {
+        id: 'q-breakout-4',
+        question: 'break up の言い換えとして最も適切なものはどれですか。',
+        options: ['start suddenly', 'escape', 'disperse', 'malfunction'],
+        correctAnswer: 2,
+        explanation: 'break up は「ばらばらに分かれる・解散する」という意味です。',
+      },
+      {
+        id: 'q-breakout-5',
+        question: 'break out と break up の違いとして正しいものはどれですか。',
+        options: [
+          'out＝内部から突発的に発生する・脱出する、up＝まとまりが分かれる',
+          '両者に意味の違いはない',
+          'out＝別れる、up＝発生する',
+          'up は必ず物理的な破壊にしか使わない',
+        ],
+        correctAnswer: 0,
+        explanation: 'break out は突発的な発生・脱出、break up はまとまりの解消・分散を表します。',
+      },
+    ],
+  },
 ];
