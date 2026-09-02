@@ -6818,7 +6818,193 @@ out は「背景から前方へ突出して立つ」イメージなので、stan
 
 ⚠️ \`His unique talent really stands up for in this industry.\`（誤・forが不要）。際立つのは stand **out**。stand up for は目的語（守る対象）を必要とする熟語です。
 
-🎯 覚え方：**out＝背景から突出して立つ（目立つ・際立つ）**、**up for＝起立して相手の側に立つ（擁護する・支持する）**。`,keyPoints:[`stand out＝目立つ・際立つ（be noticeable/be much better than others）`,`stand up for＝〜を擁護する・支持する（defend/support）`,`stand out の対象は「際立つもの」、stand up for の対象は「擁護すべきもの」`,`out＝前方へ突出する、up for＝起立して味方の側に立つ、という前置詞イメージの違い`],quiz:[{id:`q-standout-1`,question:`空所に入る適切な語はどれですか。「Her innovative design really ( ) among all the entries.」`,options:[`stood up for`,`stood by`,`stood out`,`stood for`],correctAnswer:2,explanation:`際立ったのは stand out。`},{id:`q-standout-2`,question:`空所に入る適切な語はどれですか。「It’s important to teach children to ( ) themselves when bullied.」`,options:[`stand out`,`stand up for`,`stand by`,`stand for`],correctAnswer:1,explanation:`自分を擁護するのは stand up for。`},{id:`q-standout-3`,question:`空所に入る適切な語はどれですか。「A true leader must be willing to ( ) unpopular causes.」`,options:[`stand out`,`stand by`,`stand up for`,`stand for himself`],correctAnswer:2,explanation:`不人気な主張を擁護するのは stand up for。`},{id:`q-standout-4`,question:`stand out の言い換えとして最も適切なものはどれですか。`,options:[`be noticeable`,`defend`,`wait`,`represent`],correctAnswer:0,explanation:`stand out は「目立つ」（be noticeable）という意味です。`},{id:`q-standout-5`,question:`stand out と stand up for の違いとして正しいものはどれですか。`,options:[`out＝周囲から突出して目立つ、up for＝起立して擁護する`,`両者に意味の違いはない`,`out＝擁護する、up for＝目立つ`,`stand out は必ず人を目的語にとる`],correctAnswer:0,explanation:`stand out は目立つこと、stand up for は擁護・支持を表します。`}]}],c={1:`スペルが似ている語`,2:`意味が近く使い分けが難しい語`,3:`品詞・派生でまぎらわしい語`,4:`発音が似ている語`,5:`熟語・句動詞でまぎらわしいもの`},l={audience:`大学受験・TOEIC・英検の学習者、英語を学び直す社会人`,approach:`一対一の和訳暗記ではなく、意味の核と使い分けを比較表とミニ問題で身につける`},u=[{id:`take`,verb:`take`,title:`take を使った紛らわしい熟語・句動詞`,description:`take の中心イメージ「手を伸ばして自分の側に取り込む」が、続く前置詞・副詞でどう枝分かれするかをまとめたハブページ。`,content:`## take の中心イメージ
+🎯 覚え方：**out＝背景から突出して立つ（目立つ・際立つ）**、**up for＝起立して相手の側に立つ（擁護する・支持する）**。`,keyPoints:[`stand out＝目立つ・際立つ（be noticeable/be much better than others）`,`stand up for＝〜を擁護する・支持する（defend/support）`,`stand out の対象は「際立つもの」、stand up for の対象は「擁護すべきもの」`,`out＝前方へ突出する、up for＝起立して味方の側に立つ、という前置詞イメージの違い`],quiz:[{id:`q-standout-1`,question:`空所に入る適切な語はどれですか。「Her innovative design really ( ) among all the entries.」`,options:[`stood up for`,`stood by`,`stood out`,`stood for`],correctAnswer:2,explanation:`際立ったのは stand out。`},{id:`q-standout-2`,question:`空所に入る適切な語はどれですか。「It’s important to teach children to ( ) themselves when bullied.」`,options:[`stand out`,`stand up for`,`stand by`,`stand for`],correctAnswer:1,explanation:`自分を擁護するのは stand up for。`},{id:`q-standout-3`,question:`空所に入る適切な語はどれですか。「A true leader must be willing to ( ) unpopular causes.」`,options:[`stand out`,`stand by`,`stand up for`,`stand for himself`],correctAnswer:2,explanation:`不人気な主張を擁護するのは stand up for。`},{id:`q-standout-4`,question:`stand out の言い換えとして最も適切なものはどれですか。`,options:[`be noticeable`,`defend`,`wait`,`represent`],correctAnswer:0,explanation:`stand out は「目立つ」（be noticeable）という意味です。`},{id:`q-standout-5`,question:`stand out と stand up for の違いとして正しいものはどれですか。`,options:[`out＝周囲から突出して目立つ、up for＝起立して擁護する`,`両者に意味の違いはない`,`out＝擁護する、up for＝目立つ`,`stand out は必ず人を目的語にとる`],correctAnswer:0,explanation:`stand out は目立つこと、stand up for は擁護・支持を表します。`}]},{id:`carry-out-carry-through`,title:`carry out と carry through`,chapter:5,hubId:`carry`,description:`carry out は「（計画・命令）を実行する」、carry through は「困難を伴う事業をやり遂げる・人を支えて乗り切らせる」。実行するか、困難を貫いてやり遂げるかの違いです。`,content:`## 実行するか、困難を貫いてやり遂げるか
+
+carry out と carry through はどちらも「実行する」に訳されがちですが、through が運ぶ「障害を貫通する」イメージの有無で、想定する困難さの度合いが異なります。
+
+| 熟語 | 中心の意味 | 典型的な目的語・主語 |
+| --- | --- | --- |
+| carry **out** | （計画・命令・調査）を実行する | an experiment, an order, a survey |
+| carry **through** | 困難な事業をやり遂げる／（人を）困難の中で支えて乗り切らせる | a reform, a crisis／carry someone through |
+
+### carry out の使い分け
+
+carry out は「決められたこと・計画されたことを実際に行う」という中立的な意味で、"The researchers carried out a series of experiments." のように、実験・調査・命令・指示などを対象に幅広く使われます。特別な困難さを含意しない、標準的な「実行する」の語です。
+
+### carry through の使い分け
+
+carry through は「（反対や困難があっても）最後までやり遂げる」という意味で、"Despite fierce opposition, she carried the reform through." のように使われます。また「carry someone through〜」の形で「（困難な状況で）人を支えて乗り切らせる」（His determination carried him through the crisis）という意味もあります。
+
+### 使い分けの手がかり
+
+**carry out は execute／perform に置換**でき、困難の有無を問わない中立的な実行動作です。**carry through は complete despite obstacles／sustain someone に置換**でき、「障害があってもやり遂げる」という強い含意を持ちます。定例業務の遂行なら carry out、抵抗や困難を乗り越える話なら carry through、と考えます。
+
+### なぜ直訳で読み解けないか
+
+out は「内部の着想を外部の現実として形にする」イメージなので、carry out は計画を実際の行動として具現化することを表します。through は「入口から出口まで障害を貫通する」イメージなので、carry through は困難というトンネルを通り抜けて完遂することを表します。
+
+### よくある誤用
+
+⚠️ \`We will carry through a routine survey next Monday.\`（誤・障害のない定例業務に through を使用）。ここでは単なる実行なので carry **out**。through は困難の含意を持つため不自然です。
+
+⚠️ \`His support carried him out the difficult period.\`（誤）。人を支えて乗り切らせたのは carry someone **through**。carry out は人を目的語にして「支える」意味では使いません。
+
+🎯 覚え方：**out＝着想を外部の現実として実行する（実行する）**、**through＝障害を貫通してやり遂げる（困難を乗り越える・支える）**。`,keyPoints:[`carry out＝（計画・命令・調査）を実行する（execute/perform）。困難の含意なし`,`carry through＝困難な事業をやり遂げる／人を支えて困難を乗り切らせる（complete despite obstacles/sustain）`,`carry out は中立的な実行、carry through は障害を伴う完遂`,`out＝着想を外部の現実にする、through＝障害を貫通する、という前置詞イメージの違い`],quiz:[{id:`q-carryout-1`,question:`空所に入る適切な語はどれですか。「The team will ( ) a series of safety inspections next week.」`,options:[`carry through`,`carry out`,`carry on`,`carry off`],correctAnswer:1,explanation:`定例の点検を実行するのは carry out。`},{id:`q-carryout-2`,question:`空所に入る適切な語はどれですか。「Despite strong opposition, the mayor managed to ( ) the reform.」`,options:[`carry out`,`carry through`,`carry on`,`carry off`],correctAnswer:1,explanation:`反対を押し切ってやり遂げたのは carry through。`},{id:`q-carryout-3`,question:`空所に入る適切な語はどれですか。「Her unwavering faith ( ) her ( ) the darkest period of her life.」`,options:[`carried / out`,`carried / through`,`carried / on`,`carried / off`],correctAnswer:1,explanation:`人を困難の中で支えて乗り切らせるのは carry someone through。`},{id:`q-carryout-4`,question:`carry out の言い換えとして最も適切なものはどれですか。`,options:[`execute`,`sustain`,`continue`,`achieve despite difficulty`],correctAnswer:0,explanation:`carry out は execute（実行する）に置換できます。`},{id:`q-carryout-5`,question:`carry out と carry through の違いとして正しいものはどれですか。`,options:[`out は中立的な実行、through は障害を伴う完遂`,`両者に意味の違いはない`,`out の方が困難さを強く含意する`,`through は人を目的語にとれない`],correctAnswer:0,explanation:`carry out は中立的な実行、carry through は困難を乗り越えての完遂を表します。`}]},{id:`carry-on-carry-off`,title:`carry on と carry off`,chapter:5,hubId:`carry`,description:`carry on は「続ける」、carry off は「（難しいことを）うまくやってのける」。同じ状態を保つか、困難な成果を持ち去るかの違いです。`,content:`## 続けるか、うまくやってのけるか
+
+carry on と carry off はどちらも carry の比喩用法ですが、on の「そのまま前へ持ち続ける」イメージと off の「成果を手元から持ち去る」イメージで意味の方向が異なります。
+
+| 熟語 | 中心の意味 | 典型的な使われ方 |
+| --- | --- | --- |
+| carry **on** | 続ける | carry on working／carry on with the plan |
+| carry **off** | （難しいこと）をうまくやってのける | carry off a difficult performance |
+
+### carry on の使い分け
+
+carry on は「（中断せずに、あるいは中断後に再び）何かを続ける」という意味で、"Please carry on with your work." のように使われます。イギリス英語では「（特に困難な状況でも）そのまま前進し続ける」という意味でも頻出し、口語では「（子どもなどが）大声で騒ぐ・文句を言う」という意味にもなります。
+
+### carry off の使い分け
+
+carry off は「困難なこと・リスクのあることを見事にやり遂げる」という意味で、"She managed to carry off the difficult stunt without any mistakes." のように使われます。「（賞などを）勝ち取る」（carry off first prize）という意味もあります。
+
+### 使い分けの手がかり
+
+**carry on は continue に置換**でき、「同じ動作・状態をそのまま保つ」という意味です。**carry off は accomplish something difficult successfully に置換**でき、「困難な状況を乗り越えて見事な成果を持ち去る」というニュアンスを持ちます。単に「続ける」なら on、「難しいことを成功させる」なら off、と考えます。
+
+### なぜ直訳で読み解けないか
+
+on は「同じ状態のまま前へ持ち続ける」イメージなので、carry on はそれまでの動作や状態を中断せずに継続することを表します。off は「困難な状況から成果を切り離して自分の手元へ持ち去る」イメージなので、carry off は難しい課題を見事にこなして成功を勝ち取ることを表します。
+
+### よくある誤用
+
+⚠️ \`She carried on the difficult performance flawlessly.\`（誤・意味不明瞭）。難しい演技をやってのけたのは carry **off**。carry on では「演技を続けた」という別の意味になります。
+
+⚠️ \`Please carry off with your presentation.\`（誤）。発表を続けるよう促すのは carry **on**（with）。carry off に「続ける」の意味はありません。
+
+🎯 覚え方：**on＝同じ状態のまま前へ持ち続ける（続ける）**、**off＝困難な成果を手元へ持ち去る（うまくやってのける）**。`,keyPoints:[`carry on＝続ける（continue）。中断せず、または再開して同じ動作を保つ`,`carry off＝（難しいこと）をうまくやってのける（accomplish something difficult）／（賞を）勝ち取る`,`carry on は継続、carry off は困難な達成という別方向の意味`,`on＝そのまま前へ持ち続ける、off＝成果を手元へ持ち去る、という前置詞イメージの違い`],quiz:[{id:`q-carryon-1`,question:`空所に入る適切な語はどれですか。「Please don’t stop on my account — ( ) with your work.」`,options:[`carry off`,`carry on`,`carry through`,`carry out`],correctAnswer:1,explanation:`続けるよう促すのは carry on。`},{id:`q-carryon-2`,question:`空所に入る適切な語はどれですか。「Despite the technical difficulties, the actress ( ) the performance brilliantly.」`,options:[`carried on`,`carried out`,`carried off`,`carried through`],correctAnswer:2,explanation:`難しい演技をやってのけたのは carry off。`},{id:`q-carryon-3`,question:`空所に入る適切な語はどれですか。「The team ( ) first prize at the international competition.」`,options:[`carried on`,`carried off`,`carried out`,`carried through`],correctAnswer:1,explanation:`賞を勝ち取るのも carry off。`},{id:`q-carryon-4`,question:`carry on の言い換えとして最も適切なものはどれですか。`,options:[`continue`,`accomplish successfully`,`execute`,`endure`],correctAnswer:0,explanation:`carry on は continue（続ける）に置換できます。`},{id:`q-carryon-5`,question:`carry on と carry off の違いとして正しいものはどれですか。`,options:[`on＝そのまま続ける、off＝困難なことを成功させる`,`両者に意味の違いはない`,`on＝賞を勝ち取る、off＝続ける`,`off の方が中立的な意味を持つ`],correctAnswer:0,explanation:`carry on は継続、carry off は困難な達成を表します。`}]},{id:`look-into-look-over`,title:`look into と look over`,chapter:5,hubId:`look`,description:`look into は「〜を調査する」、look over は「〜にざっと目を通す・点検する」。深く調べるか、表面をざっと確認するかの違いです。`,content:`## 深く調べるか、ざっと確認するか
+
+look into と look over はどちらも「調べる」に訳されますが、into の「内部へ入り込む」イメージと over の「表面全体を見渡す」イメージで、調査の深さがまったく異なります。
+
+| 熟語 | 中心の意味 | 典型的な目的語 |
+| --- | --- | --- |
+| look **into** | 〜を（深く）調査する | a complaint, an incident, the matter |
+| look **over** | 〜にざっと目を通す・点検する | a document, the figures, the house |
+
+### look into の使い分け
+
+look into は「問題や事件の実態を明らかにするために深く調べる」という意味で、"The police are looking into the cause of the accident." のように使われます。investigate に近い、時間をかけた本格的な調査を意味します。
+
+### look over の使い分け
+
+look over は「対象の表面をひととおり確認する」という意味で、"Could you look over this report before I submit it?" のように、誤りがないか・全体像を把握するための素早い点検を表します。物件を「下見する」（look over a house）という意味でも使われます。
+
+### 使い分けの手がかり
+
+**look into は investigate／examine deeply に置換**でき、時間をかけて内実を明らかにする調査です。**look over は check quickly／glance through に置換**でき、短時間での全体確認です。「深く調べる」のか「ざっと確認する」のかという**時間と深さの差**で区別します。
+
+### なぜ直訳で読み解けないか
+
+into は「内部へ視線を入れて奥まで探る」イメージなので、look into は表面的には見えない原因や真相を掘り下げて調べることを表します。over は「対象の表面全体を上からなぞるように見渡す」イメージなので、look over は細部を掘り下げず、全体の様子や誤りの有無を素早く確認することを表します。
+
+### よくある誤用
+
+⚠️ \`Could you look into this report before I submit it? It'll only take a minute.\`（不自然・意味の強さが合わない）。1分で終わる程度の確認なら look **over**。look into は本格的な調査を含意するため、軽い確認には重すぎます。
+
+⚠️ \`The police looked over the cause of the accident for three months.\`（不自然）。3か月かけた本格調査なら look **into**。look over はそこまで深い調査には使いません。
+
+🎯 覚え方：**into＝内部へ視線を入れて奥まで探る（深く調査する）**、**over＝表面全体を見渡す（ざっと点検する）**。`,keyPoints:[`look into＝〜を（深く）調査する（investigate）。時間をかけた本格的な調査`,`look over＝〜にざっと目を通す・点検する（check quickly）。短時間での全体確認`,`look into と look over は調査の深さ・時間の長さで区別する`,`into＝内部へ視線を入れる、over＝表面全体を見渡す、という前置詞イメージの違い`],quiz:[{id:`q-lookinto-1`,question:`空所に入る適切な語はどれですか。「The committee agreed to ( ) the allegations of misconduct.」`,options:[`look over`,`look into`,`look up to`,`look down on`],correctAnswer:1,explanation:`本格的に調査するのは look into。`},{id:`q-lookinto-2`,question:`空所に入る適切な語はどれですか。「Could you quickly ( ) these numbers before the meeting starts?」`,options:[`look into`,`look over`,`look up to`,`look down on`],correctAnswer:1,explanation:`ざっと確認するのは look over。`},{id:`q-lookinto-3`,question:`空所に入る適切な語はどれですか。「Detectives are still ( ) the disappearance of the missing hikers.」`,options:[`looking over`,`looking into`,`looking up to`,`looking down on`],correctAnswer:1,explanation:`事件の実態を調べるのは look into。`},{id:`q-lookinto-4`,question:`look over の言い換えとして最も適切なものはどれですか。`,options:[`investigate deeply`,`check quickly`,`admire`,`despise`],correctAnswer:1,explanation:`look over は「ざっと確認する」という意味です。`},{id:`q-lookinto-5`,question:`look into と look over の違いとして正しいものはどれですか。`,options:[`into＝深く調査する、over＝表面をざっと確認する`,`両者に意味の違いはない`,`into＝ざっと確認する、over＝深く調査する`,`over の方が時間をかける調査に使う`],correctAnswer:0,explanation:`look into は深い調査、look over は表面的な素早い確認を表します。`}]},{id:`look-up-to-look-down-on`,title:`look up to と look down on`,chapter:5,hubId:`look`,description:`look up to は「〜を尊敬する」、look down on は「〜を見下す」。視線を上に向けるか下に向けるかで評価の方向が正反対になります。`,content:`## 見上げて敬うか、見下して蔑むか
+
+look up to と look down on は、up（上）と down（下）という正反対の方向を持つため、評価の方向もそのまま正反対になる分かりやすいペアです。
+
+| 熟語 | 中心の意味 | 評価の方向 |
+| --- | --- | --- |
+| look **up to** | 〜を尊敬する・手本とする | 相手を高く評価する（＋） |
+| look **down on** | 〜を見下す・軽視する | 相手を低く評価する（−） |
+
+### look up to の使い分け
+
+look up to は「相手を自分より優れた存在として仰ぎ見て尊敬する」という意味で、"Many young athletes look up to her as a role model." のように使われます。目上の人物・功績のある人物を手本として敬う場面で頻出します。
+
+### look down on の使い分け
+
+look down on は「相手を自分より劣った存在とみなして軽視する」という意味で、"He tends to look down on people who didn't go to university." のように使われます。実際には根拠のない優越感に基づく軽蔑を表すことが多い表現です。
+
+### 使い分けの手がかり
+
+**look up to は admire／respect に置換**でき、相手への肯定的な評価を表します。**look down on は despise／consider inferior に置換**でき、相手への否定的な評価を表します。up（上）と down（下）という反意語がそのまま評価の方向（尊敬か軽蔑か）に対応するため、覚えやすいペアです。
+
+### なぜ直訳で読み解けないか
+
+up to は「高い位置にあるものを見上げる」イメージなので、look up to は相手を自分より高い存在として仰ぎ見る尊敬の姿勢をそのまま表します。down on は「低い位置にあるものを見下ろす」イメージなので、look down on は相手を自分より低い存在とみなす軽視の姿勢をそのまま表します。前置詞の方向と意味の方向が一致している、分かりやすい例です。
+
+### よくある誤用
+
+⚠️ \`She looks down on her mentor for guidance.\`（誤・意味が正反対）。手本として尊敬するのは look up **to**。look down on では「軽蔑している」という正反対の意味になってしまいます。
+
+⚠️ \`He looks up to people who cut in line.\`（不自然・文脈上ありえない）。列に割り込む人を軽視するのが自然な文脈なら look down **on**。
+
+🎯 覚え方：**up to＝高い位置を見上げる（尊敬する）**、**down on＝低い位置を見下ろす（見下す）**。up/down の方向がそのまま評価の方向になります。`,keyPoints:[`look up to＝〜を尊敬する・手本とする（admire/respect）`,`look down on＝〜を見下す・軽視する（despise/consider inferior）`,`up（上）＝尊敬、down（下）＝軽蔑と、前置詞の方向がそのまま評価の方向に対応する`,`対義語ペアとして覚えやすいが、意味を取り違えると正反対になるので注意`],quiz:[{id:`q-lookupto-1`,question:`空所に入る適切な語はどれですか。「As a child, I always ( ) my older sister.」`,options:[`looked down on`,`looked up to`,`looked into`,`looked over`],correctAnswer:1,explanation:`尊敬していたのは look up to。`},{id:`q-lookupto-2`,question:`空所に入る適切な語はどれですか。「It’s unfair to ( ) people just because they have a different job.」`,options:[`look up to`,`look down on`,`look into`,`look over`],correctAnswer:1,explanation:`見下すのは look down on。`},{id:`q-lookupto-3`,question:`「多くの子どもたちが彼女を手本として尊敬している」を表す文はどれですか。`,options:[`Many children look down on her.`,`Many children look up to her.`,`Many children look into her.`,`Many children look over her.`],correctAnswer:1,explanation:`尊敬する・手本とするのは look up to。`},{id:`q-lookupto-4`,question:`look down on の言い換えとして最も適切なものはどれですか。`,options:[`admire`,`despise`,`investigate`,`check quickly`],correctAnswer:1,explanation:`look down on は despise（見下す）に置換できます。`},{id:`q-lookupto-5`,question:`look up to と look down on の関係として正しいものはどれですか。`,options:[`意味がほぼ正反対の対義語ペア`,`意味がほぼ同じ同義語ペア`,`look up to の方が否定的な意味`,`look down on の方が肯定的な意味`],correctAnswer:0,explanation:`up to（尊敬）と down on（軽蔑）は評価の方向が正反対です。`}]},{id:`break-down-break-off`,title:`break down と break off`,chapter:5,hubId:`break`,description:`break down は「故障する・（交渉が）決裂する・分解する」、break off は「（関係・交渉）を中断する・打ち切る」。崩れ落ちるか、断ち切って切り離すかの違いです。`,content:`## 崩れ落ちるか、断ち切って切り離すか
+
+break down と break off はどちらも「（うまくいっていたことが）終わる」という状況で使われますが、down の「崩れ落ちる」イメージと off の「切り離す」イメージで、終わり方のニュアンスが異なります。
+
+| 熟語 | 中心の意味 | 典型的な主語 |
+| --- | --- | --- |
+| break **down** | 故障する／（交渉が）決裂する／（要素に）分解する／感情が崩れる | a machine, negotiations, expenditure |
+| break **off** | （関係・交渉・婚約）を中断する・打ち切る／（物理的に）折れて分離する | diplomatic relations, an engagement |
+
+### break down の使い分け
+
+break down の1つ目の意味は「（機械・車などが）故障して動かなくなる」（The car broke down on the highway）。2つ目は「（交渉・関係が）うまくいかなくなり崩壊する」（Peace talks broke down last week）。3つ目は「（データなどを）項目ごとに分解して分析する」（Expenditure breaks down as follows）。4つ目は「感情が抑えられなくなり泣き崩れる」（She broke down in tears）という意味です。
+
+### break off の使い分け
+
+break off は「それまでつながっていた関係や進行中の物事を、意図的に、あるいは突然に断ち切る」という意味です。"Britain threatened to break off diplomatic relations." のように外交関係や、"They broke off their engagement." のように婚約の解消にも使われます。また文字どおり「（物の一部を）力で折り取る」（she broke off a piece of chocolate）という意味もあります。
+
+### 使い分けの手がかり
+
+**break down は fail／stop working／collapse に置換**でき、多くの場合「（意図せず）機能や関係が崩壊する」という結果を表します。**break off は end abruptly／sever に置換**でき、「（意図的に、または突然に）つながりを断ち切る」という行為・出来事を表します。「壊れて動かなくなる・崩壊する」なら down、「関係を断ち切る」なら off、と考えます。
+
+### なぜ直訳で読み解けないか
+
+down は「構造が下方へ崩れ落ちる」イメージなので、break down は機械の機能や交渉の枠組みが内側から崩壊することを表します。off は「つながっている部分を切り離す」イメージなので、break off は関係や会話を意図的に、あるいは突然に断ち切ることを表します。
+
+### よくある誤用
+
+⚠️ \`The two countries broke down diplomatic relations.\`（誤・意味の強さが逆）。外交関係を断ち切ったのは break **off**。break down だと「関係が（自然に）崩壊した」という意味になり、意図的な断交のニュアンスが弱まります。
+
+⚠️ \`My car broke off on the way to work.\`（誤）。車が故障したのは break **down**。break off に「故障する」の意味はありません。
+
+🎯 覚え方：**down＝構造が崩れ落ちる（故障する・決裂する・分解する）**、**off＝つながりを断ち切る（中断する・打ち切る）**。`,keyPoints:[`break down＝故障する／（交渉が）決裂する／（要素に）分解する／感情が崩れる（fail/collapse）`,`break off＝（関係・交渉・婚約）を中断する・打ち切る（end abruptly/sever）`,`break down は機能・関係の崩壊、break off は関係の意図的な断ち切り`,`down＝崩れ落ちる、off＝つながりを切り離す、という前置詞イメージの違い`],quiz:[{id:`q-breakdown-1`,question:`空所に入る適切な語はどれですか。「Our old washing machine finally ( ) last week.」`,options:[`broke off`,`broke down`,`broke out`,`broke up`],correctAnswer:1,explanation:`機械が故障したのは break down。`},{id:`q-breakdown-2`,question:`空所に入る適切な語はどれですか。「The two nations decided to ( ) diplomatic relations after the incident.」`,options:[`break down`,`break off`,`break out`,`break up`],correctAnswer:1,explanation:`外交関係を打ち切るのは break off。`},{id:`q-breakdown-3`,question:`空所に入る適切な語はどれですか。「Peace negotiations ( ) after both sides refused to compromise.」`,options:[`broke off`,`broke down`,`broke out`,`broke up`],correctAnswer:1,explanation:`交渉が決裂したのは break down。`},{id:`q-breakdown-4`,question:`break off の言い換えとして最も適切なものはどれですか。`,options:[`fail`,`stop working`,`end abruptly`,`divide into parts`],correctAnswer:2,explanation:`break off は「（つながりを）突然・意図的に断ち切る」という意味です。`},{id:`q-breakdown-5`,question:`break down と break off の違いとして正しいものはどれですか。`,options:[`down＝機能・関係が崩壊する、off＝つながりを意図的に断ち切る`,`両者に意味の違いはない`,`down の方が意図的な断交を表す`,`off は機械の故障にも使う`],correctAnswer:0,explanation:`break down は崩壊、break off は意図的な断絶を表します。`}]},{id:`break-out-break-up`,title:`break out と break up`,chapter:5,hubId:`break`,description:`break out は「（戦争・火事等が）突発的に発生する・脱出する」、break up は「別れる・（集団が）解散する・粉々になる」。突発的に現れるか、ばらばらに砕けるかの違いです。`,content:`## 突発的に現れるか、ばらばらに砕けるか
+
+break out と break up はどちらも突然の変化を表しますが、out の「内部から外部へ噴き出す」イメージと up の「全体が破片に砕ける」イメージで、変化の性質が異なります。
+
+| 熟語 | 中心の意味 | 典型的な主語 |
+| --- | --- | --- |
+| break **out** | （戦争・火事・疫病等が）突発的に発生する／脱出する | war, fire, a disease／prisoners |
+| break **up** | 別れる／（集団・会議が）解散する／粉々になる | a couple, a meeting, a ship |
+
+### break out の使い分け
+
+break out の1つ目の意味は「（戦争・火事・伝染病などの好ましくない出来事が）突然発生する」で、"War broke out between the two nations in 1939." のように使われます。2つ目は「（刑務所などから）脱出する」（Several inmates broke out of prison）。3つ目は「（皮膚に）発疹ができる」（She broke out in a rash）という意味もあります。
+
+### break up の使い分け
+
+break up の1つ目の意味は「（恋愛関係・結婚が）終わる、別れる」で、"They broke up after five years together." のように使われます。2つ目は「（集団・会議・群衆が）解散してばらばらの方向に散っていく」（The meeting broke up at noon）。3つ目は文字どおり「（船や物体が）ばらばらに砕ける」（The ship broke up on the rocks）という意味です。
+
+### 使い分けの手がかり
+
+**break out は start suddenly／escape に置換**でき、「それまで無かった事態が内部から突発的に現れる、または閉じ込められた場所から抜け出す」動作です。**break up は end a relationship／disperse／shatter に置換**でき、「1つのまとまりがばらばらの破片や方向に分かれる」動作です。「突然発生する・脱出する」話か「別れる・解散する」話かで区別します。
+
+### なぜ直訳で読み解けないか
+
+out は「内部に潜んでいたものが外部へ突発的に噴き出す」イメージなので、break out は戦争・火事・発疹のように、それまで抑えられていたものが突然表面化することを表します。up は「1つのまとまりが複数の破片・方向に分かれる」イメージなので、break up は恋愛関係の解消や集団の解散のように、まとまっていたものがばらばらになることを表します。
+
+### よくある誤用
+
+⚠️ \`The two nations broke up in 1939.\`（誤・意味不明瞭）。戦争が発生したのは break **out**。break up は国同士の「戦争発生」には使いません。
+
+⚠️ \`They broke out after five years together.\`（誤）。恋人同士が別れたのは break **up**。break out に「別れる」の意味はありません。
+
+🎯 覚え方：**out＝内部から突発的に噴き出す（発生する・脱出する）**、**up＝全体が破片に砕ける（別れる・解散する）**。`,keyPoints:[`break out＝（戦争・火事等が）突発的に発生する／脱出する（start suddenly/escape）`,`break up＝別れる／（集団・会議が）解散する／粉々になる（end a relationship/disperse）`,`break out は突発的な発生・脱出、break up はまとまりの解消・分散`,`out＝内部から突発的に噴き出す、up＝全体が破片に砕ける、という前置詞イメージの違い`],quiz:[{id:`q-breakout-1`,question:`空所に入る適切な語はどれですか。「A massive fire ( ) in the warehouse district last night.」`,options:[`broke up`,`broke out`,`broke off`,`broke down`],correctAnswer:1,explanation:`火事が発生したのは break out。`},{id:`q-breakout-2`,question:`空所に入る適切な語はどれですか。「After years of arguing, they finally decided to ( ).」`,options:[`break out`,`break up`,`break down`,`break off relations`],correctAnswer:1,explanation:`恋人同士が別れたのは break up。`},{id:`q-breakout-3`,question:`空所に入る適切な語はどれですか。「Three inmates ( ) of the maximum-security prison overnight.」`,options:[`broke up`,`broke down`,`broke out`,`broke off`],correctAnswer:2,explanation:`刑務所から脱出したのは break out。`},{id:`q-breakout-4`,question:`break up の言い換えとして最も適切なものはどれですか。`,options:[`start suddenly`,`escape`,`disperse`,`malfunction`],correctAnswer:2,explanation:`break up は「ばらばらに分かれる・解散する」という意味です。`},{id:`q-breakout-5`,question:`break out と break up の違いとして正しいものはどれですか。`,options:[`out＝内部から突発的に発生する・脱出する、up＝まとまりが分かれる`,`両者に意味の違いはない`,`out＝別れる、up＝発生する`,`up は必ず物理的な破壊にしか使わない`],correctAnswer:0,explanation:`break out は突発的な発生・脱出、break up はまとまりの解消・分散を表します。`}]}],c={1:`スペルが似ている語`,2:`意味が近く使い分けが難しい語`,3:`品詞・派生でまぎらわしい語`,4:`発音が似ている語`,5:`熟語・句動詞でまぎらわしいもの`},l={audience:`大学受験・TOEIC・英検の学習者、英語を学び直す社会人`,approach:`一対一の和訳暗記ではなく、意味の核と使い分けを比較表とミニ問題で身につける`},u=[{id:`take`,verb:`take`,title:`take を使った紛らわしい熟語・句動詞`,description:`take の中心イメージ「手を伸ばして自分の側に取り込む」が、続く前置詞・副詞でどう枝分かれするかをまとめたハブページ。`,content:`## take の中心イメージ
 
 take は「（手を伸ばして）つかむ・取る」が核となる意味です。そこから「何かを自分の領域・内側に取り込む」という比喩が幅広く枝分かれし、続く前置詞・副詞が「何を」「どこから」「どんな向きで」取り込むかを決めます。
 
@@ -6951,5 +7137,38 @@ stand は「立つ・立っている」が核です。物理的な直立から�
 | stand out | out（背景から前方へ突出して立つ） | 目立つ・際立つ |
 | stand up for | up for（起立して擁護側に立つ） | ～を擁護する・支持する |
 
-stand for は「何かの代わりに、その象徴として立つ」イメージで、略語が指す正式名称や、団体が掲げる理念を表す場面で使われます。stand by は「すぐ脇に立って動かない」イメージから、約束を守り続ける場合と、何もせず傍観する場合という一見矛盾する2つの意味を持ちます。stand out は「背景から一歩前に出て立つ」ことで際立つ様子を、stand up for は「立ち上がって相手の側に立つ」ことで擁護・支持を表します。`,previewPairs:[`stand for vs stand by（表象する・支持する／守る・傍観する・待機する）`,`stand out vs stand up for（目立つ／擁護する・支持する）`]}];function d(e){let t=[],n=0,r,i=/\[([^\]]+)\]\(([^)]+)\)|\*\*([^*]+)\*\*|`([^`]+)`/g;for(;(r=i.exec(e))!==null;)r.index>n&&t.push({t:`text`,v:e.slice(n,r.index)}),r[1]!==void 0&&r[2]!==void 0?t.push({t:`link`,label:r[1],url:r[2]}):r[3]===void 0?r[4]!==void 0&&t.push({t:`code`,v:r[4]}):t.push({t:`bold`,children:d(r[3])}),n=r.index+r[0].length;return n<e.length&&t.push({t:`text`,v:e.slice(n)}),t}var f=i();function p({questions:e}){let[t,n]=(0,a.useState)(0),[r,i]=(0,a.useState)(null),[o,s]=(0,a.useState)(!1),[c,l]=(0,a.useState)(0),[u,d]=(0,a.useState)(!1),p=e[t],m=t===e.length-1,h=e=>{o||(i(e),s(!0),e===p.correctAnswer&&l(e=>e+1))},g=()=>{if(m){d(!0);return}n(e=>e+1),i(null),s(!1)},_=()=>{n(0),i(null),s(!1),l(0),d(!1)};if(u){let t=Math.round(c/e.length*100),n=t>=80?`よくできました。この区別はばっちりです。`:t>=50?`あと少し。間違えた問題の解説を読み返しましょう。`:`もう一度、上の比較表と例文を見てから挑戦しましょう。`;return(0,f.jsxs)(`div`,{className:`quiz quiz-result`,children:[(0,f.jsxs)(`p`,{className:`quiz-score`,children:[e.length,`問中 `,(0,f.jsx)(`strong`,{children:c}),`問正解（`,t,`%）`]}),(0,f.jsx)(`p`,{className:`quiz-msg`,children:n}),(0,f.jsx)(`button`,{className:`btn`,onClick:_,children:`もう一度`})]})}return(0,f.jsxs)(`div`,{className:`quiz`,children:[(0,f.jsx)(`div`,{className:`quiz-head`,children:(0,f.jsxs)(`span`,{className:`quiz-count`,children:[`第 `,t+1,` / `,e.length,` 問`]})}),(0,f.jsx)(`p`,{className:`quiz-q`,children:p.question}),(0,f.jsx)(`ul`,{className:`quiz-options`,children:p.options.map((e,t)=>{let n=`quiz-option`;return o&&(t===p.correctAnswer?n+=` is-correct`:t===r&&(n+=` is-wrong`)),(0,f.jsx)(`li`,{children:(0,f.jsxs)(`button`,{className:n,onClick:()=>h(t),disabled:o,children:[(0,f.jsx)(`span`,{className:`quiz-mark`,"aria-hidden":`true`,children:o&&t===p.correctAnswer?`○`:o&&t===r?`×`:``}),(0,f.jsx)(`span`,{children:e})]})},t)})}),o&&(0,f.jsxs)(`div`,{className:`quiz-explain`,children:[(0,f.jsx)(`p`,{className:r===p.correctAnswer?`quiz-verdict ok`:`quiz-verdict ng`,children:r===p.correctAnswer?`正解`:`不正解`}),(0,f.jsx)(`p`,{children:p.explanation}),(0,f.jsx)(`button`,{className:`btn`,onClick:g,children:m?`結果を見る`:`次の問題へ`})]})]})}var m=`/eng-confusables`,h=e=>`${e}-phrasal-verbs`;function g(e){let t=e;if(t.startsWith(m)&&(t=t.slice(16)),t=t.replace(/^\/+|\/+$/g,``),t===``)return{view:`home`};if(t===`about`)return{view:`about`};if(t===`privacy`)return{view:`privacy`};let n=u.find(e=>h(e.verb)===t);if(n)return{view:`hub`,id:n.id};let r=s.find(e=>e.id===t);return r?{view:`pair`,id:r.id}:{view:`home`}}function _(e){switch(e.view){case`home`:return`${m}/`;case`pair`:return`${m}/${e.id}/`;case`hub`:{let t=u.find(t=>t.id===e.id);return`${m}/${t?h(t.verb):e.id}/`}default:return`${m}/${e.view}/`}}function v(e,t){return e.map((e,n)=>{let r=`${t}-${n}`;switch(e.t){case`text`:return(0,f.jsx)(`span`,{children:e.v},r);case`bold`:return(0,f.jsx)(`strong`,{children:v(e.children,r)},r);case`code`:return(0,f.jsx)(`code`,{children:e.v},r);case`link`:return/^https?:\/\//.test(e.url)?(0,f.jsx)(`a`,{href:e.url,target:`_blank`,rel:`noopener noreferrer`,children:e.label},r):(0,f.jsx)(`a`,{href:e.url,children:e.label},r)}})}var y=(e,t)=>v(d(e),t),b={"💡":{label:`コツ`,cls:`callout-tip`},"🎯":{label:`試験ポイント`,cls:`callout-exam`},"⚠️":{label:`注意`,cls:`callout-warn`},"📖":{label:`発展`,cls:`callout-read`}};function x(e){let t=e.split(`
+stand for は「何かの代わりに、その象徴として立つ」イメージで、略語が指す正式名称や、団体が掲げる理念を表す場面で使われます。stand by は「すぐ脇に立って動かない」イメージから、約束を守り続ける場合と、何もせず傍観する場合という一見矛盾する2つの意味を持ちます。stand out は「背景から一歩前に出て立つ」ことで際立つ様子を、stand up for は「立ち上がって相手の側に立つ」ことで擁護・支持を表します。`,previewPairs:[`stand for vs stand by（表象する・支持する／守る・傍観する・待機する）`,`stand out vs stand up for（目立つ／擁護する・支持する）`]},{id:`carry`,verb:`carry`,title:`carry を使った紛らわしい熟語・句動詞`,description:`carry の中心イメージ「持ち運ぶ・支え続ける」が、続く前置詞・副詞でどう枝分かれするかをまとめたハブページ。`,content:`## carry の中心イメージ
+
+carry は「（物を）持ち運ぶ」「（責任・作業を）支え続ける」が核となる意味です。そこから「計画や作業を最後までやり通す」という比喩に広がり、続く前置詞・副詞が「どこまで運ぶか」「どんな困難を伴うか」を決めます。
+
+| 熟語 | 前置詞・副詞のイメージ | 中心的な意味 |
+| --- | --- | --- |
+| carry out | out（内部の着想を外部へ具現化） | （計画・命令・調査）を実行する |
+| carry through | through（障害を貫通して完遂） | 困難を伴う事業をやり遂げる・人を支えて乗り切らせる |
+| carry on | on（そのまま前へ持ち続ける） | 続ける |
+| carry off | off（困難を手元から成果として持ち去る） | 難しいことをうまくやってのける |
+
+carry out は「頭の中の計画を外部の現実として実行する」イメージで、実験や調査、命令の遂行に使われます。carry through は「障害を貫通してやり遂げる」イメージで、carry out よりも困難さが強調されます。carry on は「同じ状態のまま前へ持ち続ける」ことから「続ける」を表し、carry off は「難しい状況から成果を持ち去る」イメージで「うまくやってのける」という達成のニュアンスを持ちます。`,previewPairs:[`carry out vs carry through（実行する／困難を乗り越えてやり遂げる）`,`carry on vs carry off（続ける／うまくやってのける）`]},{id:`look`,verb:`look`,title:`look を使った紛らわしい熟語・句動詞`,description:`look の中心イメージ「視線を向ける」が、続く前置詞・副詞でどう枝分かれするかをまとめたハブページ。`,content:`## look の中心イメージ
+
+look は「視線を向ける」が核となる意味です。物理的に見る動作から、調べる・評価する・敬意を向けるという比喩に幅広く枝分かれし、続く前置詞・副詞が「どこへ・どんな向きで視線を向けるか」を決めます。
+
+| 熟語 | 前置詞・副詞のイメージ | 中心的な意味 |
+| --- | --- | --- |
+| look into | into（内部へ視線を入れて調べる） | 〜を調査する |
+| look over | over（表面全体を見渡す） | 〜にざっと目を通す・点検する |
+| look up to | up to（高い位置を見上げる） | 〜を尊敬する |
+| look down on | down on（低い位置を見下ろす） | 〜を見下す |
+
+look into は「物事の内部に視線を入れて実態を調べる」イメージで、問題や事件の調査に使われます。look over は「対象の表面全体をざっと見渡す」イメージで、素早い点検・確認を表します。look up to と look down on は評価の方向がちょうど正反対で、up to は「相手を高い位置にいるものとして見上げる」＝尊敬、down on は「相手を低い位置にあるものとして見下ろす」＝軽蔑を表します。`,previewPairs:[`look into vs look over（調査する／ざっと目を通す）`,`look up to vs look down on（尊敬する／見下す）`]},{id:`break`,verb:`break`,title:`break を使った紛らわしい熟語・句動詞`,description:`break の中心イメージ「壊れる・断ち切る」が、続く前置詞・副詞でどう枝分かれするかをまとめたハブページ。`,content:`## break の中心イメージ
+
+break は「壊れる・砕ける」が核となる意味です。物理的な破損から、関係や機能の停止・突発的な発生という比喩に広がり、続く前置詞・副詞が「どんな形で断ち切れるか・現れるか」を決めます。
+
+| 熟語 | 前置詞・副詞のイメージ | 中心的な意味 |
+| --- | --- | --- |
+| break down | down（構造が崩れ落ちる） | 故障する・（交渉が）決裂する・（要素に）分解する |
+| break off | off（接続を断ち切って切り離す） | （交渉・婚約等）を中断する・打ち切る |
+| break out | out（内部から外部へ突発的に噴き出す） | （戦争・火事等が）突発的に発生する・脱出する |
+| break up | up（全体がばらばらに砕ける） | 別れる・（集団が）解散する・粉々になる |
+
+break down は「構造そのものが崩れ落ちる」イメージで、機械の故障にも交渉の決裂にも使われます。break off は「つながっていたものを断ち切って切り離す」イメージで、婚約や外交関係のような継続していた関係の中断を表します。break out は「内部に閉じ込められていたものが外部へ突発的に噴き出す」イメージで、戦争・火事・発疹などの突然の発生や、監獄からの脱出に使われます。break up は「1つのまとまりがばらばらの破片に砕ける」イメージで、恋愛関係の終わりや集団の解散を表します。`,previewPairs:[`break down vs break off（故障する・決裂する／中断する・打ち切る）`,`break out vs break up（突発的に発生する・脱出する／別れる・解散する）`]}];function d(e){let t=[],n=0,r,i=/\[([^\]]+)\]\(([^)]+)\)|\*\*([^*]+)\*\*|`([^`]+)`/g;for(;(r=i.exec(e))!==null;)r.index>n&&t.push({t:`text`,v:e.slice(n,r.index)}),r[1]!==void 0&&r[2]!==void 0?t.push({t:`link`,label:r[1],url:r[2]}):r[3]===void 0?r[4]!==void 0&&t.push({t:`code`,v:r[4]}):t.push({t:`bold`,children:d(r[3])}),n=r.index+r[0].length;return n<e.length&&t.push({t:`text`,v:e.slice(n)}),t}var f=i();function p({questions:e}){let[t,n]=(0,a.useState)(0),[r,i]=(0,a.useState)(null),[o,s]=(0,a.useState)(!1),[c,l]=(0,a.useState)(0),[u,d]=(0,a.useState)(!1),p=e[t],m=t===e.length-1,h=e=>{o||(i(e),s(!0),e===p.correctAnswer&&l(e=>e+1))},g=()=>{if(m){d(!0);return}n(e=>e+1),i(null),s(!1)},_=()=>{n(0),i(null),s(!1),l(0),d(!1)};if(u){let t=Math.round(c/e.length*100),n=t>=80?`よくできました。この区別はばっちりです。`:t>=50?`あと少し。間違えた問題の解説を読み返しましょう。`:`もう一度、上の比較表と例文を見てから挑戦しましょう。`;return(0,f.jsxs)(`div`,{className:`quiz quiz-result`,children:[(0,f.jsxs)(`p`,{className:`quiz-score`,children:[e.length,`問中 `,(0,f.jsx)(`strong`,{children:c}),`問正解（`,t,`%）`]}),(0,f.jsx)(`p`,{className:`quiz-msg`,children:n}),(0,f.jsx)(`button`,{className:`btn`,onClick:_,children:`もう一度`})]})}return(0,f.jsxs)(`div`,{className:`quiz`,children:[(0,f.jsx)(`div`,{className:`quiz-head`,children:(0,f.jsxs)(`span`,{className:`quiz-count`,children:[`第 `,t+1,` / `,e.length,` 問`]})}),(0,f.jsx)(`p`,{className:`quiz-q`,children:p.question}),(0,f.jsx)(`ul`,{className:`quiz-options`,children:p.options.map((e,t)=>{let n=`quiz-option`;return o&&(t===p.correctAnswer?n+=` is-correct`:t===r&&(n+=` is-wrong`)),(0,f.jsx)(`li`,{children:(0,f.jsxs)(`button`,{className:n,onClick:()=>h(t),disabled:o,children:[(0,f.jsx)(`span`,{className:`quiz-mark`,"aria-hidden":`true`,children:o&&t===p.correctAnswer?`○`:o&&t===r?`×`:``}),(0,f.jsx)(`span`,{children:e})]})},t)})}),o&&(0,f.jsxs)(`div`,{className:`quiz-explain`,children:[(0,f.jsx)(`p`,{className:r===p.correctAnswer?`quiz-verdict ok`:`quiz-verdict ng`,children:r===p.correctAnswer?`正解`:`不正解`}),(0,f.jsx)(`p`,{children:p.explanation}),(0,f.jsx)(`button`,{className:`btn`,onClick:g,children:m?`結果を見る`:`次の問題へ`})]})]})}var m=`/eng-confusables`,h=e=>`${e}-phrasal-verbs`;function g(e){let t=e;if(t.startsWith(m)&&(t=t.slice(16)),t=t.replace(/^\/+|\/+$/g,``),t===``)return{view:`home`};if(t===`about`)return{view:`about`};if(t===`privacy`)return{view:`privacy`};let n=u.find(e=>h(e.verb)===t);if(n)return{view:`hub`,id:n.id};let r=s.find(e=>e.id===t);return r?{view:`pair`,id:r.id}:{view:`home`}}function _(e){switch(e.view){case`home`:return`${m}/`;case`pair`:return`${m}/${e.id}/`;case`hub`:{let t=u.find(t=>t.id===e.id);return`${m}/${t?h(t.verb):e.id}/`}default:return`${m}/${e.view}/`}}function v(e,t){return e.map((e,n)=>{let r=`${t}-${n}`;switch(e.t){case`text`:return(0,f.jsx)(`span`,{children:e.v},r);case`bold`:return(0,f.jsx)(`strong`,{children:v(e.children,r)},r);case`code`:return(0,f.jsx)(`code`,{children:e.v},r);case`link`:return/^https?:\/\//.test(e.url)?(0,f.jsx)(`a`,{href:e.url,target:`_blank`,rel:`noopener noreferrer`,children:e.label},r):(0,f.jsx)(`a`,{href:e.url,children:e.label},r)}})}var y=(e,t)=>v(d(e),t),b={"💡":{label:`コツ`,cls:`callout-tip`},"🎯":{label:`試験ポイント`,cls:`callout-exam`},"⚠️":{label:`注意`,cls:`callout-warn`},"📖":{label:`発展`,cls:`callout-read`}};function x(e){let t=e.split(`
 `),n=[],r=0,i=0;for(;r<t.length;){let e=t[r].trim();if(e===``){r++;continue}if(/^---+$/.test(e)){n.push((0,f.jsx)(`hr`,{},i++)),r++;continue}if(e.startsWith(`### `)){n.push((0,f.jsx)(`h3`,{children:y(e.slice(4),`h${i}`)},i++)),r++;continue}if(e.startsWith(`## `)){n.push((0,f.jsx)(`h2`,{children:y(e.slice(3),`h${i}`)},i++)),r++;continue}let a=Object.keys(b).find(t=>e.startsWith(t));if(a){let{label:t,cls:o}=b[a];n.push((0,f.jsxs)(`div`,{className:`callout ${o}`,children:[(0,f.jsx)(`span`,{className:`callout-label`,children:t}),(0,f.jsx)(`p`,{children:y(e.slice(a.length).trim(),`c${i}`)})]},i++)),r++;continue}if(e.startsWith(`|`)){let e=[];for(;r<t.length&&t[r].trim().startsWith(`|`);)e.push(t[r].trim()),r++;let a=e.map(e=>e.replace(/^\||\|$/g,``).split(`|`).map(e=>e.trim())).filter(e=>!e.every(e=>/^:?-+:?$/.test(e)||e===``));if(a.length){let[e,...t]=a;n.push((0,f.jsx)(`div`,{className:`table-wrap`,children:(0,f.jsxs)(`table`,{children:[(0,f.jsx)(`thead`,{children:(0,f.jsx)(`tr`,{children:e.map((e,t)=>(0,f.jsx)(`th`,{children:y(e,`th${i}-${t}`)},t))})}),(0,f.jsx)(`tbody`,{children:t.map((e,t)=>(0,f.jsx)(`tr`,{children:e.map((e,n)=>(0,f.jsx)(`td`,{children:y(e,`td${i}-${t}-${n}`)},n))},t))})]})},i++))}continue}if(/^\d+\.\s/.test(e)){let e=[];for(;r<t.length&&/^\d+\.\s/.test(t[r].trim());)e.push(t[r].trim().replace(/^\d+\.\s/,``)),r++;n.push((0,f.jsx)(`ol`,{children:e.map((e,t)=>(0,f.jsx)(`li`,{children:y(e,`ol${i}-${t}`)},t))},i++));continue}if(/^[-*]\s/.test(e)){let e=[];for(;r<t.length&&/^[-*]\s/.test(t[r].trim());)e.push(t[r].trim().replace(/^[-*]\s/,``)),r++;n.push((0,f.jsx)(`ul`,{children:e.map((e,t)=>(0,f.jsx)(`li`,{children:y(e,`ul${i}-${t}`)},t))},i++));continue}n.push((0,f.jsx)(`p`,{children:y(e,`p${i}`)},i++)),r++}return n}var S=e=>`${e.id} ${e.title} ${e.description}`.toLowerCase();function C(){let[e,t]=(0,a.useState)(()=>g(window.location.pathname)),[n,r]=(0,a.useState)(!1),i=(0,a.useCallback)(e=>{window.history.pushState({},``,_(e)),t(e),r(!1),window.scrollTo(0,0)},[]);return(0,a.useEffect)(()=>{let e=()=>t(g(window.location.pathname));return window.addEventListener(`popstate`,e),()=>window.removeEventListener(`popstate`,e)},[]),(0,f.jsxs)(`div`,{className:`app`,children:[(0,f.jsx)(w,{route:e,navigate:i,menuOpen:n,setMenuOpen:r}),(0,f.jsxs)(`main`,{className:`main`,children:[e.view===`home`&&(0,f.jsx)(T,{navigate:i}),e.view===`pair`&&(0,f.jsx)(E,{id:e.id,navigate:i}),e.view===`hub`&&(0,f.jsx)(D,{id:e.id,navigate:i}),e.view===`about`&&(0,f.jsx)(O,{}),e.view===`privacy`&&(0,f.jsx)(k,{})]}),(0,f.jsx)(A,{navigate:i})]})}function w({route:e,navigate:t,menuOpen:n,setMenuOpen:r}){return(0,f.jsx)(`header`,{className:`site-header`,children:(0,f.jsxs)(`div`,{className:`header-inner`,children:[(0,f.jsx)(`a`,{className:`brand`,href:`${m}/`,onClick:e=>{e.preventDefault(),t({view:`home`})},children:`まぎらわしい英単語・熟語ノート`}),(0,f.jsxs)(`button`,{className:`menu-toggle`,"aria-label":`メニュー`,"aria-expanded":n,onClick:()=>r(!n),children:[(0,f.jsx)(`span`,{}),(0,f.jsx)(`span`,{}),(0,f.jsx)(`span`,{})]}),(0,f.jsxs)(`nav`,{className:`site-nav ${n?`open`:``}`,children:[(0,f.jsx)(`a`,{href:`${m}/`,onClick:e=>{e.preventDefault(),t({view:`home`})},className:e.view===`home`?`active`:``,children:`さがす`}),(0,f.jsx)(`a`,{href:`${m}/about/`,onClick:e=>{e.preventDefault(),t({view:`about`})},className:e.view===`about`?`active`:``,children:`このサイトについて`})]})]})})}function T({navigate:t}){let[r,i]=(0,a.useState)(``),[o,d]=(0,a.useState)(0),p=(0,a.useMemo)(()=>{let e=r.trim().toLowerCase();return s.filter(t=>!(o!==0&&t.chapter!==o||e&&!S(t).includes(e)))},[r,o]);return(0,f.jsxs)(`div`,{className:`home`,children:[(0,f.jsxs)(`section`,{className:`hero`,children:[(0,f.jsx)(`h1`,{children:`まぎらわしい英単語・熟語を、引いて見分ける`}),(0,f.jsxs)(`p`,{className:`hero-lead`,children:[l.approach,`。`,s.length,`組の混同ペアを、比較表とミニ問題でまとめました。`]}),(0,f.jsxs)(`div`,{className:`search-box`,children:[(0,f.jsx)(e,{size:18,"aria-hidden":`true`}),(0,f.jsx)(`input`,{type:`search`,value:r,onChange:e=>i(e.target.value),placeholder:`単語で検索（例：affect, lie, breed）`,"aria-label":`単語を検索`,autoComplete:`off`}),r&&(0,f.jsx)(`button`,{className:`search-clear`,"aria-label":`クリア`,onClick:()=>i(``),children:(0,f.jsx)(n,{size:16})})]}),(0,f.jsxs)(`div`,{className:`cat-chips`,role:`tablist`,"aria-label":`カテゴリで絞り込み`,children:[(0,f.jsx)(`button`,{className:`chip ${o===0?`active`:``}`,onClick:()=>d(0),children:`すべて`}),[1,2,3,4,5].map(e=>(0,f.jsx)(`button`,{className:`chip ${o===e?`active`:``}`,onClick:()=>d(e),children:c[e]},e))]})]}),(o===0||o===5)&&!r&&(0,f.jsxs)(`section`,{className:`results`,"aria-label":`熟語・句動詞の動詞ハブ`,children:[(0,f.jsx)(`h2`,{style:{fontSize:`1.05rem`,margin:`0 0 10px`},children:`動詞から熟語をさがす`}),(0,f.jsx)(`ul`,{className:`pair-list`,style:{listStyle:`none`,padding:0},children:u.map(e=>(0,f.jsx)(`li`,{children:(0,f.jsxs)(`a`,{href:`${m}/${h(e.verb)}/`,onClick:n=>{n.preventDefault(),t({view:`hub`,id:e.id})},children:[(0,f.jsx)(`span`,{className:`pair-title`,children:e.verb}),(0,f.jsx)(`span`,{className:`pair-desc`,children:e.description})]})},e.id))})]}),(0,f.jsxs)(`section`,{className:`results`,children:[(0,f.jsxs)(`p`,{className:`results-count`,children:[p.length,` 組`,r?`（「${r}」で検索）`:``]}),p.length===0?(0,f.jsx)(`p`,{className:`no-results`,children:`該当する単語が見つかりませんでした。スペルを変えて試してください。`}):(0,f.jsx)(`ol`,{className:`pair-list`,children:p.map(e=>(0,f.jsx)(`li`,{children:(0,f.jsxs)(`a`,{href:`${m}/${e.id}/`,onClick:n=>{n.preventDefault(),t({view:`pair`,id:e.id})},children:[(0,f.jsx)(`span`,{className:`pair-title`,children:e.title}),(0,f.jsx)(`span`,{className:`pair-cat`,children:c[e.chapter]}),(0,f.jsx)(`span`,{className:`pair-desc`,children:e.description})]})},e.id))})]})]})}function E({id:e,navigate:t}){let n=s[s.findIndex(t=>t.id===e)];if(!n)return(0,f.jsx)(`p`,{children:`ページが見つかりませんでした。`});let r=s.filter(e=>e.chapter===n.chapter),i=r.findIndex(t=>t.id===e),a=i>0?r[i-1]:null,o=i<r.length-1?r[i+1]:null;return(0,f.jsxs)(`article`,{className:`pair`,children:[(0,f.jsxs)(`nav`,{className:`breadcrumb`,children:[(0,f.jsx)(`a`,{href:`${m}/`,onClick:e=>{e.preventDefault(),t({view:`home`})},children:`さがす`}),(0,f.jsx)(`span`,{"aria-hidden":`true`,children:`/`}),(0,f.jsx)(`span`,{children:c[n.chapter]})]}),(0,f.jsxs)(`header`,{className:`pair-header`,children:[(0,f.jsx)(`p`,{className:`pair-cat-label`,children:c[n.chapter]}),(0,f.jsx)(`h1`,{children:n.title}),(0,f.jsx)(`p`,{className:`pair-lead`,children:n.description})]}),(0,f.jsx)(`div`,{className:`pair-body`,children:x(n.content)}),n.keyPoints&&n.keyPoints.length>0&&(0,f.jsxs)(`section`,{className:`keypoints`,children:[(0,f.jsx)(`h2`,{children:`まとめ`}),(0,f.jsx)(`ul`,{children:n.keyPoints.map((e,t)=>(0,f.jsx)(`li`,{children:e},t))})]}),(0,f.jsxs)(`section`,{className:`quiz-section`,children:[(0,f.jsx)(`h2`,{children:`理解度チェック（任意）`}),(0,f.jsx)(p,{questions:n.quiz})]}),(0,f.jsxs)(`nav`,{className:`pair-nav`,children:[a?(0,f.jsxs)(`button`,{className:`btn`,onClick:()=>t({view:`pair`,id:a.id}),children:[`← `,a.title]}):(0,f.jsx)(`span`,{}),o?(0,f.jsxs)(`button`,{className:`btn btn-primary`,onClick:()=>t({view:`pair`,id:o.id}),children:[o.title,` →`]}):(0,f.jsx)(`button`,{className:`btn`,onClick:()=>t({view:`home`}),children:`一覧へ戻る`})]})]})}function D({id:e,navigate:t}){let n=u.find(t=>t.id===e);if(!n)return(0,f.jsx)(`p`,{children:`ページが見つかりませんでした。`});let r=s.filter(e=>e.hubId===n.id);return(0,f.jsxs)(`article`,{className:`pair`,children:[(0,f.jsxs)(`nav`,{className:`breadcrumb`,children:[(0,f.jsx)(`a`,{href:`${m}/`,onClick:e=>{e.preventDefault(),t({view:`home`})},children:`さがす`}),(0,f.jsx)(`span`,{"aria-hidden":`true`,children:`/`}),(0,f.jsx)(`span`,{children:c[5]})]}),(0,f.jsxs)(`header`,{className:`pair-header`,children:[(0,f.jsxs)(`p`,{className:`pair-cat-label`,children:[c[5],`・動詞ハブ`]}),(0,f.jsx)(`h1`,{children:n.title}),(0,f.jsx)(`p`,{className:`pair-lead`,children:n.description})]}),(0,f.jsx)(`div`,{className:`pair-body`,children:x(n.content)}),(0,f.jsxs)(`section`,{className:`keypoints`,children:[(0,f.jsx)(`h2`,{children:r.length>0?`${n.verb} の熟語ペア一覧`:`${n.verb} で今後扱う予定の熟語ペア`}),r.length>0?(0,f.jsx)(`ul`,{className:`pair-list`,style:{listStyle:`none`,padding:0},children:r.map(e=>(0,f.jsx)(`li`,{children:(0,f.jsxs)(`a`,{href:`${m}/${e.id}/`,onClick:n=>{n.preventDefault(),t({view:`pair`,id:e.id})},children:[(0,f.jsx)(`span`,{className:`pair-title`,children:e.title}),(0,f.jsx)(`span`,{className:`pair-desc`,children:e.description})]})},e.id))}):(0,f.jsxs)(f.Fragment,{children:[(0,f.jsx)(`ul`,{children:n.previewPairs.map((e,t)=>(0,f.jsx)(`li`,{children:e},t))}),(0,f.jsx)(`p`,{style:{color:`#868d99`,fontSize:`0.9rem`},children:`各ページは準備中です。公開までこのハブページで前置詞ごとの意味の違いを先に押さえておくと、個別ページの理解が早くなります。`})]})]}),(0,f.jsx)(`nav`,{className:`pair-nav`,children:(0,f.jsx)(`button`,{className:`btn`,onClick:()=>t({view:`home`}),children:`一覧へ戻る`})})]})}function O(){return(0,f.jsxs)(`div`,{className:`about`,children:[(0,f.jsx)(`h1`,{children:`このサイトについて`}),(0,f.jsx)(`h2`,{children:`サイトの目的と対象`}),(0,f.jsxs)(`p`,{children:[`「まぎらわしい英単語・熟語ノート」は、スペル・意味・品詞・発音が似ていて混同しやすい英単語のペア、および前置詞や副詞の違いで意味が変わる紛らわしい熟語・句動詞のペアを、引いてすぐに違いと使い分けが分かるようにまとめた逆引きの比較リファレンスです。`,l.audience,`を主な対象としています。`]}),(0,f.jsx)(`h2`,{children:`コンテンツ構成`}),(0,f.jsx)(`p`,{children:`混同しやすい語を「スペルが似ている語」「意味が近い語」「品詞・派生でまぎらわしい語」「発音が似ている語」の4カテゴリに分け、1ペア（または自然な語群）を1ページにまとめています。各ページに比較表・例文・覚え方・任意の確認問題を用意しています。`}),(0,f.jsx)(`h2`,{children:`編集・制作方針`}),(0,f.jsxs)(`p`,{children:[`各語の意味・品詞・自他・発音は辞書（Cambridge・Merriam-Webster・Wiktionary など）で事実を確認したうえで、解説は`,(0,f.jsx)(`strong`,{children:`すべて運営者が自分のことばで書き起こし`}),`、例文も自作しています。辞書の定義文や例文をそのまま転載することはしていません。確認できない語法は載せていません。誤りに気づいた場合は随時修正します。`]}),(0,f.jsx)(`h2`,{children:`運営者について`}),(0,f.jsx)(`p`,{children:`個人が運営しています。広告収入はサーバー・ドメインなどの維持費に充てています。`}),(0,f.jsx)(`h2`,{children:`お問い合わせ`}),(0,f.jsxs)(`p`,{children:[`内容の誤りのご指摘やご意見は、`,(0,f.jsx)(`a`,{href:`https://forms.gle/ccMv7oKwz6ysDHBe6`,target:`_blank`,rel:`noopener noreferrer`,children:`お問い合わせフォーム`}),`よりお寄せください。`]}),(0,f.jsx)(`h2`,{children:`免責事項`}),(0,f.jsx)(`p`,{children:`本サイトは内容の正確性に努めていますが、その完全性・正確性・有用性を保証するものではありません。学習の最終的な確認は辞書や公式教材で行ってください。本サイトの利用によって生じたいかなる損害についても責任を負いかねます。`})]})}function k(){return(0,f.jsxs)(`div`,{className:`privacy`,children:[(0,f.jsx)(`h1`,{children:`プライバシーポリシー`}),(0,f.jsx)(`h2`,{children:`アクセス解析（Google Analytics）`}),(0,f.jsx)(`p`,{children:`本サイトは利用状況の把握のためGoogle Analytics（GA4）を利用しています。Cookieを用いて匿名のトラフィックデータを収集するもので、個人を特定する情報は含みません。`}),(0,f.jsx)(`h2`,{children:`広告配信（Google AdSense）`}),(0,f.jsx)(`p`,{children:`本サイトは第三者配信の広告サービスGoogle AdSenseを利用しています。第三者配信事業者はCookieを使用して、ユーザーの興味に応じた広告を表示することがあります。`}),(0,f.jsx)(`h2`,{children:`Cookieの送信と無効化`}),(0,f.jsxs)(`p`,{children:[`これらのCookieによりGoogleや広告事業者にデータが送信されます。ユーザーは`,(0,f.jsx)(`a`,{href:`https://adssettings.google.com/`,target:`_blank`,rel:`noopener noreferrer`,children:`Googleの広告設定`}),`でパーソナライズ広告を無効にでき、ブラウザの設定でCookieを無効にすることもできます。`]}),(0,f.jsx)(`h2`,{children:`免責事項`}),(0,f.jsx)(`p`,{children:`本サイトの情報の利用により生じた損害について、運営者は責任を負いません。`}),(0,f.jsx)(`h2`,{children:`お問い合わせ`}),(0,f.jsxs)(`p`,{children:[`本ポリシーに関するお問い合わせは`,(0,f.jsx)(`a`,{href:`https://forms.gle/ccMv7oKwz6ysDHBe6`,target:`_blank`,rel:`noopener noreferrer`,children:`お問い合わせフォーム`}),`よりお願いします。`]}),(0,f.jsx)(`p`,{className:`notice`,children:`最終更新日：2026年6月15日`})]})}function A({navigate:e}){return(0,f.jsx)(`footer`,{className:`site-footer`,children:(0,f.jsxs)(`div`,{className:`footer-inner`,children:[(0,f.jsxs)(`nav`,{className:`footer-nav`,children:[(0,f.jsx)(`a`,{href:`${m}/`,onClick:t=>{t.preventDefault(),e({view:`home`})},children:`さがす`}),(0,f.jsx)(`a`,{href:`${m}/about/`,onClick:t=>{t.preventDefault(),e({view:`about`})},children:`このサイトについて`}),(0,f.jsx)(`a`,{href:`${m}/privacy/`,onClick:t=>{t.preventDefault(),e({view:`privacy`})},children:`プライバシーポリシー`}),(0,f.jsx)(`a`,{href:`https://study-apps.com/editorial-policy/`,target:`_blank`,rel:`noopener noreferrer`,children:`編集方針`}),(0,f.jsx)(`a`,{href:`https://study-apps.com/`,target:`_blank`,rel:`noopener noreferrer`,children:`study-apps.com`})]}),(0,f.jsx)(`p`,{className:`footer-note`,children:`個人運営の学習支援サイトです。最終的な確認は辞書や公式教材で行ってください。`})]})})}(0,o.createRoot)(document.getElementById(`root`)).render((0,f.jsx)(a.StrictMode,{children:(0,f.jsx)(C,{})}));
