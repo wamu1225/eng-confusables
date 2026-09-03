@@ -7004,7 +7004,193 @@ out は「内部に潜んでいたものが外部へ突発的に噴き出す」�
 
 ⚠️ \`They broke out after five years together.\`（誤）。恋人同士が別れたのは break **up**。break out に「別れる」の意味はありません。
 
-🎯 覚え方：**out＝内部から突発的に噴き出す（発生する・脱出する）**、**up＝全体が破片に砕ける（別れる・解散する）**。`,keyPoints:[`break out＝（戦争・火事等が）突発的に発生する／脱出する（start suddenly/escape）`,`break up＝別れる／（集団・会議が）解散する／粉々になる（end a relationship/disperse）`,`break out は突発的な発生・脱出、break up はまとまりの解消・分散`,`out＝内部から突発的に噴き出す、up＝全体が破片に砕ける、という前置詞イメージの違い`],quiz:[{id:`q-breakout-1`,question:`空所に入る適切な語はどれですか。「A massive fire ( ) in the warehouse district last night.」`,options:[`broke up`,`broke out`,`broke off`,`broke down`],correctAnswer:1,explanation:`火事が発生したのは break out。`},{id:`q-breakout-2`,question:`空所に入る適切な語はどれですか。「After years of arguing, they finally decided to ( ).」`,options:[`break out`,`break up`,`break down`,`break off relations`],correctAnswer:1,explanation:`恋人同士が別れたのは break up。`},{id:`q-breakout-3`,question:`空所に入る適切な語はどれですか。「Three inmates ( ) of the maximum-security prison overnight.」`,options:[`broke up`,`broke down`,`broke out`,`broke off`],correctAnswer:2,explanation:`刑務所から脱出したのは break out。`},{id:`q-breakout-4`,question:`break up の言い換えとして最も適切なものはどれですか。`,options:[`start suddenly`,`escape`,`disperse`,`malfunction`],correctAnswer:2,explanation:`break up は「ばらばらに分かれる・解散する」という意味です。`},{id:`q-breakout-5`,question:`break out と break up の違いとして正しいものはどれですか。`,options:[`out＝内部から突発的に発生する・脱出する、up＝まとまりが分かれる`,`両者に意味の違いはない`,`out＝別れる、up＝発生する`,`up は必ず物理的な破壊にしか使わない`],correctAnswer:0,explanation:`break out は突発的な発生・脱出、break up はまとまりの解消・分散を表します。`}]}],c={1:`スペルが似ている語`,2:`意味が近く使い分けが難しい語`,3:`品詞・派生でまぎらわしい語`,4:`発音が似ている語`,5:`熟語・句動詞でまぎらわしいもの`},l={audience:`大学受験・TOEIC・英検の学習者、英語を学び直す社会人`,approach:`一対一の和訳暗記ではなく、意味の核と使い分けを比較表とミニ問題で身につける`},u=[{id:`take`,verb:`take`,title:`take を使った紛らわしい熟語・句動詞`,description:`take の中心イメージ「手を伸ばして自分の側に取り込む」が、続く前置詞・副詞でどう枝分かれするかをまとめたハブページ。`,content:`## take の中心イメージ
+🎯 覚え方：**out＝内部から突発的に噴き出す（発生する・脱出する）**、**up＝全体が破片に砕ける（別れる・解散する）**。`,keyPoints:[`break out＝（戦争・火事等が）突発的に発生する／脱出する（start suddenly/escape）`,`break up＝別れる／（集団・会議が）解散する／粉々になる（end a relationship/disperse）`,`break out は突発的な発生・脱出、break up はまとまりの解消・分散`,`out＝内部から突発的に噴き出す、up＝全体が破片に砕ける、という前置詞イメージの違い`],quiz:[{id:`q-breakout-1`,question:`空所に入る適切な語はどれですか。「A massive fire ( ) in the warehouse district last night.」`,options:[`broke up`,`broke out`,`broke off`,`broke down`],correctAnswer:1,explanation:`火事が発生したのは break out。`},{id:`q-breakout-2`,question:`空所に入る適切な語はどれですか。「After years of arguing, they finally decided to ( ).」`,options:[`break out`,`break up`,`break down`,`break off relations`],correctAnswer:1,explanation:`恋人同士が別れたのは break up。`},{id:`q-breakout-3`,question:`空所に入る適切な語はどれですか。「Three inmates ( ) of the maximum-security prison overnight.」`,options:[`broke up`,`broke down`,`broke out`,`broke off`],correctAnswer:2,explanation:`刑務所から脱出したのは break out。`},{id:`q-breakout-4`,question:`break up の言い換えとして最も適切なものはどれですか。`,options:[`start suddenly`,`escape`,`disperse`,`malfunction`],correctAnswer:2,explanation:`break up は「ばらばらに分かれる・解散する」という意味です。`},{id:`q-breakout-5`,question:`break out と break up の違いとして正しいものはどれですか。`,options:[`out＝内部から突発的に発生する・脱出する、up＝まとまりが分かれる`,`両者に意味の違いはない`,`out＝別れる、up＝発生する`,`up は必ず物理的な破壊にしか使わない`],correctAnswer:0,explanation:`break out は突発的な発生・脱出、break up はまとまりの解消・分散を表します。`}]},{id:`come-across-come-up-with`,title:`come across と come up with`,chapter:5,hubId:`come`,description:`come across は「〜に偶然出くわす・〜という印象を与える」、come up with は「（考え・答えを）思いつく」。偶然の遭遇か、内側から生み出すかの違いです。`,content:`## 偶然出くわすか、思いつくか
+
+come across と come up with はどちらも「見つかる・出てくる」に関わる比喩ですが、across の「向こうから視界に入る」イメージと up with の「内側から持ち上げる」イメージで、主体的な行動の有無が異なります。
+
+| 熟語 | 中心の意味 | 典型的な目的語・使われ方 |
+| --- | --- | --- |
+| come **across** | 〜に偶然出くわす／〜という印象を与える | come across an old photo／come across as friendly |
+| come up **with** | （考え・答え・お金を）思いつく・出す | come up with an idea, a solution, the money |
+
+### come across の使い分け
+
+come across の1つ目の意味は「探していたわけではないのに偶然見つける・出会う」で、"I came across this old photo while cleaning the attic." のように使われます。2つ目は「（人が）〜という印象を与える」（She comes across as very confident）という、他者からの見え方を表す用法です。
+
+### come up with の使い分け
+
+come up with は「（考え・計画・答えなどを）自分の内側から生み出す」という意味で、"The team came up with a creative solution to the problem." のように、アイデア出しや解決策の考案の場面で頻出します。「（必要なお金を）工面する」（come up with the rent money）という意味にも使われます。
+
+### 使い分けの手がかり
+
+**come across は encounter unexpectedly／give an impression に置換**でき、「偶然の受動的な出会い」か「他者からの印象」を表します。**come up with は produce／think of に置換**でき、「自分から能動的に考えを生み出す」動作です。「偶然か、能動的に生み出すか」で区別します。
+
+### なぜ直訳で読み解けないか
+
+across は「向こう側から視界を横切って入ってくる」イメージなので、come across は探していないものが偶然視界に入ってくることを表します。up with は「内側に沈んでいた考えを表面まで持ち上げる」イメージなので、come up with はアイデアを能動的にひねり出すことを表します。
+
+### よくある誤用
+
+⚠️ \`We need to come across a solution to this problem quickly.\`（誤）。解決策を考え出すのは come up **with**。come across に「考え出す」の意味はありません。
+
+⚠️ \`I came up with an old friend at the airport.\`（誤）。偶然出会ったのは come **across**。come up with は人との偶然の遭遇には使いません。
+
+🎯 覚え方：**across＝向こうから視界に入ってくる（偶然出くわす）**、**up with＝内側から持ち上げる（思いつく）**。`,keyPoints:[`come across＝〜に偶然出くわす（encounter unexpectedly）／〜という印象を与える（give an impression）`,`come up with＝（考え・答え・お金を）思いつく・出す（produce/think of）`,`come across は偶然の受動的な出会い、come up with は能動的な創出`,`across＝向こうから視界に入る、up with＝内側から持ち上げる、という前置詞イメージの違い`],quiz:[{id:`q-comeacross-1`,question:`空所に入る適切な語はどれですか。「While sorting through old boxes, I ( ) my grandmother’s diary.」`,options:[`came up with`,`came across`,`came about`,`came by`],correctAnswer:1,explanation:`偶然見つけたのは come across。`},{id:`q-comeacross-2`,question:`空所に入る適切な語はどれですか。「The engineers finally ( ) a clever solution to the bug.」`,options:[`came across`,`came by`,`came up with`,`came about`],correctAnswer:2,explanation:`解決策を考え出したのは come up with。`},{id:`q-comeacross-3`,question:`空所に入る適切な語はどれですか。「During the interview, he ( ) as very knowledgeable and calm.」`,options:[`came up with`,`came by`,`came across`,`came about`],correctAnswer:2,explanation:`「〜という印象を与える」も come across。`},{id:`q-comeacross-4`,question:`come up with の言い換えとして最も適切なものはどれですか。`,options:[`encounter unexpectedly`,`produce/think of`,`give an impression`,`obtain`],correctAnswer:1,explanation:`come up with は「（考えを）生み出す」という意味です。`},{id:`q-comeacross-5`,question:`come across と come up with の違いとして正しいものはどれですか。`,options:[`across＝偶然の受動的な出会い、up with＝能動的な創出`,`両者に意味の違いはない`,`across の方が能動的な行為を表す`,`up with は人との遭遇にも使う`],correctAnswer:0,explanation:`come across は偶然の出会い・印象、come up with は能動的な創出を表します。`}]},{id:`come-about-come-by`,title:`come about と come by`,chapter:5,hubId:`come`,description:`come about は「（出来事が）起こる」、come by は「〜を入手する・立ち寄る」。出来事の発生を述べるか、人の行動を述べるかの違いです。`,content:`## 出来事が起こるか、人が手に入れる・立ち寄るか
+
+come about と come by はどちらも come の比喩用法ですが、about は「出来事の発生」を、by は「人の行動」を主語にとる点で構文が大きく異なります。
+
+| 熟語 | 中心の意味 | 典型的な主語 |
+| --- | --- | --- |
+| come **about** | （出来事が）起こる・生じる | 常に出来事・状況（人は主語にならない） |
+| come **by** | 〜を入手する／立ち寄る | 人（探し物や訪問の主体） |
+
+### come about の使い分け
+
+come about は「ある事態がどのようにして生じたか」を表す自動詞で、"How did this misunderstanding come about?" のように、主語には常に出来事や状況が来ます。人を主語にすることはできません。
+
+### come by の使い分け
+
+come by の1つ目の意味は「（入手しにくいものを）手に入れる」で、"Good jobs are hard to come by these days." のように使われます。2つ目は口語で「（人の家などに）ちょっと立ち寄る」（Come by my office if you have time）という意味です。
+
+### 使い分けの手がかり
+
+**come about は happen／occur に置換**でき、主語は必ず出来事・状況です。**come by は obtain／visit briefly に置換**でき、主語は必ず人です。「何が起こったか」を聞くなら about、「人が何を手に入れたか・どこに立ち寄ったか」を聞くなら by、と考えます。
+
+### なぜ直訳で読み解けないか
+
+about は「周囲に生じ広がる」イメージなので、come about は出来事が周囲の現実として立ち現れることを表します。by は「脇を通りかかる」イメージなので、come by は通りがかりに何かを手に入れる、または人の家の脇に立ち寄ることを表します。
+
+### よくある誤用
+
+⚠️ \`She came about a rare book at the flea market.\`（誤）。珍しい本を手に入れたのは come **by**。come about は人を主語にできません。
+
+⚠️ \`How did this change come by?\`（誤）。変化がどう生じたかを尋ねるのは come **about**。come by は出来事の発生には使いません。
+
+🎯 覚え方：**about＝出来事が周囲に生じる（起こる）**、**by＝人が脇を通りかかって得る（入手する・立ち寄る）**。`,keyPoints:[`come about＝（出来事が）起こる・生じる（happen/occur）。主語は必ず出来事`,`come by＝〜を入手する／立ち寄る（obtain/visit briefly）。主語は必ず人`,`come about は出来事の発生を述べる自動詞、come by は人の行動を述べる`,`about＝周囲に生じる、by＝脇を通りかかる、という前置詞イメージの違い`],quiz:[{id:`q-comeabout-1`,question:`空所に入る適切な語はどれですか。「How exactly did this strange situation ( )?」`,options:[`come by`,`come about`,`come up with`,`come across`],correctAnswer:1,explanation:`出来事がどう生じたかを尋ねるのは come about。`},{id:`q-comeabout-2`,question:`空所に入る適切な語はどれですか。「Reliable used cars at that price are hard to ( ) these days.」`,options:[`come about`,`come across`,`come by`,`come up with`],correctAnswer:2,explanation:`入手しにくいものを手に入れるのは come by。`},{id:`q-comeabout-3`,question:`空所に入る適切な語はどれですか。「Feel free to ( ) my office anytime this week.」`,options:[`come about`,`come by`,`come up with`,`come across`],correctAnswer:1,explanation:`ちょっと立ち寄るのも come by。`},{id:`q-comeabout-4`,question:`come about の主語として正しいものはどれですか。`,options:[`出来事・状況のみ`,`人のみ`,`人と出来事の両方`,`物のみ`],correctAnswer:0,explanation:`come about は出来事・状況を主語にとります。`},{id:`q-comeabout-5`,question:`come about と come by の違いとして正しいものはどれですか。`,options:[`about＝出来事が主語、by＝人が主語`,`両者に意味の違いはない`,`about＝人が主語、by＝出来事が主語`,`両方とも出来事を主語にとる`],correctAnswer:0,explanation:`come about は出来事の発生、come by は人の入手・訪問を表します。`}]},{id:`go-over-go-through`,title:`go over と go through`,chapter:5,hubId:`go`,description:`go over は「〜を見直す・復習する」、go through は「（つらい経験）をする・（手続きが）成立する」。表面をなぞるか、内部を通り抜けるかの違いです。`,content:`## 表面をなぞるか、内部を通り抜けるか
+
+go over と go through はどちらも「確認する・経験する」に関わる熟語ですが、over の「表面をなぞる」イメージと through の「内部を通過する」イメージで、対象への関わり方の深さが異なります。
+
+| 熟語 | 中心の意味 | 典型的な目的語 |
+| --- | --- | --- |
+| go **over** | 〜を見直す・復習する・確認する | notes, a document, the plan |
+| go **through** | （つらい経験）をする／〜を精査する／（手続きが）成立する | a difficult time, a bill |
+
+### go over の使い分け
+
+go over は「資料や計画を一通りなぞって確認・復習する」という意味で、"Let's go over the main points before the exam." のように使われます。「（案などが）好評を得る」（The proposal went over well）という意味もあります。
+
+### go through の使い分け
+
+go through には複数の意味があります。1つは「（つらい・困難な経験を）実際に経験する」（She's going through a difficult divorce）。もう1つは「（大量の書類などを）1つずつ詳しく調べる」（go through the files one by one）。さらに「（法案・契約が）正式に承認・成立する」（The bill finally went through parliament）という意味もあります。
+
+### 使い分けの手がかり
+
+**go over は review／rehearse に置換**でき、「表面を一通りなぞって確認する」という比較的軽い動作です。**go through は experience／examine in detail／be approved に置換**でき、「内部まで入り込んで経験・精査する、または手続きが正式に通る」という、より深く関わる動作です。「さっと確認する」か「深く経験・精査する」かで区別します。
+
+### なぜ直訳で読み解けないか
+
+over は「対象の表面を上からなぞるように見渡す」イメージなので、go over は細部に沈み込まず全体を確認する動作を表します。through は「入口から出口まで内部を通過する」イメージなので、go through は経験や書類の中身に深く入り込むこと、あるいは審査という通路を通り抜けて承認されることを表します。
+
+### よくある誤用
+
+⚠️ \`She's going over a difficult time after the loss.\`（誤・意味の深さが合わない）。つらい経験をしているのは go **through**。go over だと単なる「見直し」になってしまいます。
+
+⚠️ \`Let's go through the main points quickly before we start.\`（不自然・「さっと」に through は重すぎる）。手短な確認なら go **over**。go through は詳細な精査を含意します。
+
+🎯 覚え方：**over＝表面をなぞって確認する（見直す・復習する）**、**through＝内部を通り抜ける（経験する・精査する・成立する）**。`,keyPoints:[`go over＝〜を見直す・復習する・確認する（review）。表面的で軽い確認`,`go through＝（つらい経験）をする／〜を精査する／（手続きが）成立する（experience/examine/be approved）`,`go over は表面的な確認、go through はより深い経験・精査・承認`,`over＝表面をなぞる、through＝内部を通過する、という前置詞イメージの違い`],quiz:[{id:`q-goover-1`,question:`空所に入る適切な語はどれですか。「Let’s quickly ( ) the agenda before everyone arrives.」`,options:[`go through`,`go over`,`go without`,`go for`],correctAnswer:1,explanation:`さっと確認するのは go over。`},{id:`q-goover-2`,question:`空所に入る適切な語はどれですか。「The family has ( ) a lot since the accident.」`,options:[`gone over`,`gone through`,`gone for`,`gone without`],correctAnswer:1,explanation:`つらい経験をしたのは go through。`},{id:`q-goover-3`,question:`空所に入る適切な語はどれですか。「The new tax bill finally ( ) after months of debate.」`,options:[`went over`,`went for`,`went through`,`went without`],correctAnswer:2,explanation:`法案が成立したのは go through。`},{id:`q-goover-4`,question:`go over の言い換えとして最も適切なものはどれですか。`,options:[`review`,`experience`,`be approved`,`examine in minute detail`],correctAnswer:0,explanation:`go over は「見直す・確認する」（review）という意味です。`},{id:`q-goover-5`,question:`go over と go through の違いとして正しいものはどれですか。`,options:[`over＝表面的な確認、through＝深い経験・精査・成立`,`両者に意味の違いはない`,`over の方が深く関わる動作`,`through は必ず短時間で終わる`],correctAnswer:0,explanation:`go over は表面的、go through はより深く関わる動作を表します。`}]},{id:`go-without-go-for`,title:`go without と go for`,chapter:5,hubId:`go`,description:`go without は「〜なしで済ませる」、go for は「〜を取りに行く・〜が好み・〜に挑む」。欠乏を受け入れるか、積極的に追い求めるかの違いです。`,content:`## 欠乏を受け入れるか、積極的に追い求めるか
+
+go without と go for はどちらも go の後に対象を続ける形ですが、without の「〜なしで」というイメージと for の「〜を目指して」というイメージで、対象への向き合い方が正反対です。
+
+| 熟語 | 中心の意味 | 典型的な使われ方 |
+| --- | --- | --- |
+| go **without** | 〜なしで済ませる・我慢する | go without food, sleep, luxuries |
+| go **for** | 〜を取りに行く／〜が好み・魅力を感じる／〜に挑む | go for a walk／go for it |
+
+### go without の使い分け
+
+go without は「必要なもの・普段あるものが無いまま過ごす」という意味で、"During the war, many families had to go without basic necessities." のように使われます。目的語をとらずに "I'll just go without."（無しで済ませる）という自動詞的な使い方もあります。
+
+### go for の使い分け
+
+go for には複数の意味があります。1つは「（物を）取りに行く」（I'll go for some coffee）。2つ目は「（人や物に）魅力を感じる・好みである」（She goes for tall, quiet men）。3つ目は「（目標・チャンスに）思い切って挑む」（Go for it! You have nothing to lose）という励ましの定型句としても頻出します。
+
+### 使い分けの手がかり
+
+**go without は manage without something needed に置換**でき、「欠乏を受け入れる」という消極的な意味です。**go for は fetch／be attracted to／attempt に置換**でき、「対象を積極的に追い求める」という能動的な意味です。「無いまま我慢する」話か「積極的に求める・挑む」話かで区別します。
+
+### なぜ直訳で読み解けないか
+
+without は「〜が無い状態のまま進む」イメージなので、go without はあるべきものが欠けたまま生活を続けることを表します。for は「目標に向かって突き進む」イメージなので、go for は物を取りに行く・好みの対象を追う・チャンスに挑戦するという、目標志向の行動すべてに広がります。
+
+### よくある誤用
+
+⚠️ \`She always goes without adventurous challenges.\`（誤・意味が反対）。積極的に挑むのは go **for**。go without だと「挑戦なしで済ませる」という逆の意味になります。
+
+⚠️ \`I'll go for lunch today; I'm not very hungry.\`（誤・意味が逆）。食事を抜くのは go **without** lunch。go for lunch は「昼食を取りに行く」という意味になってしまいます。
+
+🎯 覚え方：**without＝〜が無いまま進む（我慢する）**、**for＝目標に向かって突き進む（取りに行く・好み・挑む）**。`,keyPoints:[`go without＝〜なしで済ませる・我慢する（manage without）`,`go for＝〜を取りに行く／〜が好み・魅力を感じる／〜に挑む（fetch/be attracted to/attempt）`,`go without は欠乏の受容、go for は目標への積極的な追求`,`without＝〜が無いまま進む、for＝目標に向かって進む、という前置詞イメージの違い`],quiz:[{id:`q-gowithout-1`,question:`空所に入る適切な語はどれですか。「During the shortage, many households had to ( ) fresh vegetables.」`,options:[`go for`,`go without`,`go over`,`go through`],correctAnswer:1,explanation:`欠乏を受け入れるのは go without。`},{id:`q-gowithout-2`,question:`空所に入る適切な語はどれですか。「If you want that promotion, you should really ( ) it.」`,options:[`go without`,`go over`,`go for`,`go through`],correctAnswer:2,explanation:`積極的に挑むのは go for。`},{id:`q-gowithout-3`,question:`空所に入る適切な語はどれですか。「When it comes to music, she really ( ) jazz and blues.」`,options:[`goes without`,`goes for`,`goes over`,`goes through`],correctAnswer:1,explanation:`好みを表すのも go for。`},{id:`q-gowithout-4`,question:`go without の言い換えとして最も適切なものはどれですか。`,options:[`manage without something needed`,`fetch`,`be attracted to`,`attempt`],correctAnswer:0,explanation:`go without は「必要なものなしで済ませる」という意味です。`},{id:`q-gowithout-5`,question:`go without と go for の関係として正しいものはどれですか。`,options:[`欠乏の受容と積極的な追求で、対照的な方向を持つ`,`意味がほぼ同じ`,`両方とも「取りに行く」を意味する`,`go without の方が積極的な意味を持つ`],correctAnswer:0,explanation:`go without は消極的な欠乏の受容、go for は積極的な追求という対照的な意味です。`}]},{id:`keep-up-with-keep-off`,title:`keep up with と keep off`,chapter:5,hubId:`keep`,description:`keep up with は「〜に遅れずについていく」、keep off は「〜を避ける・近づけない」。並走し続けるか、距離を保つかの違いです。`,content:`## 並走し続けるか、距離を保つか
+
+keep up with と keep off はどちらも「keep＋前置詞」ですが、up with の「同じ高さで並ぶ」イメージと off の「接触せず離れる」イメージで、対象との関わり方が正反対です。
+
+| 熟語 | 中心の意味 | 典型的な目的語 |
+| --- | --- | --- |
+| keep up **with** | 〜に遅れずについていく | the pace, the news, a friend |
+| keep **off** | 〜を避ける・近づけない | fatty food, a topic, the grass |
+
+### keep up with の使い分け
+
+keep up with は「相手の進度・変化に遅れずついていく」という意味で、"It's hard to keep up with all the new technology." のように使われます。「（友人などと）連絡を取り続ける」（keep up with old friends）という意味にも使われます。
+
+### keep off の使い分け
+
+keep off には複数の意味があります。1つは「（食べ物などを）控える」（The doctor told him to keep off fatty foods）。2つ目は「（話題に）触れない」（Let's keep off politics tonight）。3つ目は「（人や動物を）近づけない」（Keep off the grass. のような掲示表現が定番）です。
+
+### 使い分けの手がかり
+
+**keep up with は stay level with／not fall behind に置換**でき、「相手や変化のペースに合わせ続ける」という積極的な追随です。**keep off は avoid／stay away from に置換**でき、「対象との接触を断ち続ける」という回避です。「ついていく」話か「避ける」話かで区別します。
+
+### なぜ直訳で読み解けないか
+
+up with は「相手と同じ高さで並んで進み続ける」イメージなので、keep up with はペースを合わせて遅れずについていくことを表します。off は「対象に接触せず距離を保つ」イメージなので、keep off は食べ物・話題・場所のいずれであっても、対象との接触を断ち続けることを表します。
+
+### よくある誤用
+
+⚠️ \`I'm trying to keep off the news these days.\`（不自然・意味が変わる）。ニュースを追い続けるのは keep up **with**。keep off だと「ニュースを避ける」という逆の意味になります。
+
+⚠️ \`Please keep up with the grass.\`（誤・意味不明瞭）。芝生に近づかないよう求める掲示は keep **off**。keep up with は「近づかない」の意味を持ちません。
+
+🎯 覚え方：**up with＝同じ高さで並走し続ける（遅れずについていく）**、**off＝接触せず距離を保つ（避ける・近づけない）**。`,keyPoints:[`keep up with＝〜に遅れずについていく（stay level with）。積極的な追随`,`keep off＝〜を避ける・近づけない（avoid/stay away from）。接触の回避`,`keep up with と keep off は対象との関わり方が正反対（追随か回避か）`,`up with＝同じ高さで並走する、off＝接触せず距離を保つ、という前置詞イメージの違い`],quiz:[{id:`q-keepup-1`,question:`空所に入る適切な語はどれですか。「It’s exhausting trying to ( ) all the changes in this industry.」`,options:[`keep off`,`keep up with`,`keep on`,`keep to`],correctAnswer:1,explanation:`変化に遅れずついていくのは keep up with。`},{id:`q-keepup-2`,question:`空所に入る適切な語はどれですか。「The doctor advised him to ( ) salty food for a while.」`,options:[`keep up with`,`keep off`,`keep on`,`keep to`],correctAnswer:1,explanation:`食べ物を控えるのは keep off。`},{id:`q-keepup-3`,question:`空所に入る適切な語はどれですか。「A sign in the park read: "( ) the flower beds."」`,options:[`Keep up with`,`Keep off`,`Keep on`,`Keep to`],correctAnswer:1,explanation:`近づかないよう求める掲示は keep off。`},{id:`q-keepup-4`,question:`keep up with の言い換えとして最も適切なものはどれですか。`,options:[`stay level with`,`avoid`,`stay away from`,`continue`],correctAnswer:0,explanation:`keep up with は「遅れずについていく」という意味です。`},{id:`q-keepup-5`,question:`keep up with と keep off の関係として正しいものはどれですか。`,options:[`追随と回避で、対象への関わり方が正反対`,`意味がほぼ同じ`,`両方とも「避ける」を意味する`,`keep off の方が積極的な追随を表す`],correctAnswer:0,explanation:`keep up with は積極的な追随、keep off は接触の回避という正反対の意味です。`}]},{id:`keep-on-keep-to`,title:`keep on と keep to`,chapter:5,hubId:`keep`,description:`keep on は「続ける」、keep to は「（道・話題・約束）から外れない」。単純な継続か、決められた枠を守り続けるかの違いです。`,content:`## 単純に続けるか、枠を守り続けるか
+
+keep on と keep to はどちらも「継続」に関わりますが、on の「そのまま前へ」というイメージと to の「決められた対象の枠内に留まる」というイメージで、継続の性質が異なります。
+
+| 熟語 | 中心の意味 | 典型的な使われ方 |
+| --- | --- | --- |
+| keep **on** | 続ける（同じ動作を繰り返す・持続する） | keep on trying, keep on doing |
+| keep **to** | （道・話題・約束・予定）から外れない | keep to the path, the point, the schedule |
+
+### keep on の使い分け
+
+keep on は「（doing の形を伴って）ある動作を繰り返す、または持続する」という意味で、"Keep on trying and you'll eventually succeed." のように使われます。イギリス英語の口語では「（人に）くどくどと言い続ける」（keep on at someone about something）という意味もあります。
+
+### keep to の使い分け
+
+keep to は「決められた枠（道・話題・予定・約束）から外れずにそこに留まる」という意味です。"Please keep to the marked path." のように物理的な経路にも、"Let's keep to the topic at hand." のように話の内容にも、"She always keeps to her promises." のように約束の遵守にも使われます。
+
+### 使い分けの手がかり
+
+**keep on は continue／go on doing に置換**でき、「同じ動作を止めずに続ける」という単純な継続です。**keep to は stick to／not deviate from に置換**でき、「決められた枠から逸脱しない」という規律的な継続です。「動作を続ける」話か「枠を守る」話かで区別します。
+
+### なぜ直訳で読み解けないか
+
+on は「同じ状態のまま前へ持ち続ける」イメージなので、keep on は動作をただ止めずに継続することを表します。to は「対象との結びつきを保ち続ける」イメージなので、keep to は道・話題・約束という特定の枠組みとのつながりを保ち、そこから外れないことを表します。
+
+### よくある誤用
+
+⚠️ \`Please keep on the main topic during the discussion.\`（誤）。話題から逸れないよう求めるのは keep **to**。keep on はただの継続で、「枠を守る」意味を持ちません。
+
+⚠️ \`He kept to complaining about the weather all day.\`（誤）。文句を言い続けたのは keep **on**（complaining）。keep to は動作の反復には使いません。
+
+🎯 覚え方：**on＝そのまま前へ持続する（続ける）**、**to＝決められた枠とのつながりを保つ（外れない・守る）**。`,keyPoints:[`keep on＝続ける（continue/go on doing）。同じ動作の単純な継続`,`keep to＝（道・話題・約束・予定）から外れない（stick to/not deviate from）`,`keep on は動作の継続、keep to は決められた枠の遵守という違いがある`,`on＝そのまま前へ持続する、to＝枠とのつながりを保つ、という前置詞イメージの違い`],quiz:[{id:`q-keepon-1`,question:`空所に入る適切な語はどれですか。「Even after several failures, she ( ) trying.」`,options:[`kept to`,`kept off`,`kept on`,`kept up with`],correctAnswer:2,explanation:`動作を続けたのは keep on。`},{id:`q-keepon-2`,question:`空所に入る適切な語はどれですか。「During the meeting, please ( ) the agenda items only.」`,options:[`keep on`,`keep to`,`keep off`,`keep up with`],correctAnswer:1,explanation:`話題から外れないよう求めるのは keep to。`},{id:`q-keepon-3`,question:`空所に入る適切な語はどれですか。「Hikers are advised to ( ) the marked trail at all times.」`,options:[`keep on`,`keep off`,`keep to`,`keep up with`],correctAnswer:2,explanation:`決められた道から外れないよう求めるのも keep to。`},{id:`q-keepon-4`,question:`keep on の言い換えとして最も適切なものはどれですか。`,options:[`continue`,`stick to`,`avoid`,`not deviate from`],correctAnswer:0,explanation:`keep on は「続ける」（continue）という意味です。`},{id:`q-keepon-5`,question:`keep on と keep to の違いとして正しいものはどれですか。`,options:[`on＝動作の単純な継続、to＝決められた枠の遵守`,`両者に意味の違いはない`,`on＝枠を守る、to＝動作を続ける`,`keep to は doing の形を伴う`],correctAnswer:0,explanation:`keep on は継続、keep to は枠からの逸脱を防ぐという違いがあります。`}]}],c={1:`スペルが似ている語`,2:`意味が近く使い分けが難しい語`,3:`品詞・派生でまぎらわしい語`,4:`発音が似ている語`,5:`熟語・句動詞でまぎらわしいもの`},l={audience:`大学受験・TOEIC・英検の学習者、英語を学び直す社会人`,approach:`一対一の和訳暗記ではなく、意味の核と使い分けを比較表とミニ問題で身につける`},u=[{id:`take`,verb:`take`,title:`take を使った紛らわしい熟語・句動詞`,description:`take の中心イメージ「手を伸ばして自分の側に取り込む」が、続く前置詞・副詞でどう枝分かれするかをまとめたハブページ。`,content:`## take の中心イメージ
 
 take は「（手を伸ばして）つかむ・取る」が核となる意味です。そこから「何かを自分の領域・内側に取り込む」という比喩が幅広く枝分かれし、続く前置詞・副詞が「何を」「どこから」「どんな向きで」取り込むかを決めます。
 
@@ -7170,5 +7356,38 @@ break は「壊れる・砕ける」が核となる意味です。物理的な�
 | break out | out（内部から外部へ突発的に噴き出す） | （戦争・火事等が）突発的に発生する・脱出する |
 | break up | up（全体がばらばらに砕ける） | 別れる・（集団が）解散する・粉々になる |
 
-break down は「構造そのものが崩れ落ちる」イメージで、機械の故障にも交渉の決裂にも使われます。break off は「つながっていたものを断ち切って切り離す」イメージで、婚約や外交関係のような継続していた関係の中断を表します。break out は「内部に閉じ込められていたものが外部へ突発的に噴き出す」イメージで、戦争・火事・発疹などの突然の発生や、監獄からの脱出に使われます。break up は「1つのまとまりがばらばらの破片に砕ける」イメージで、恋愛関係の終わりや集団の解散を表します。`,previewPairs:[`break down vs break off（故障する・決裂する／中断する・打ち切る）`,`break out vs break up（突発的に発生する・脱出する／別れる・解散する）`]}];function d(e){let t=[],n=0,r,i=/\[([^\]]+)\]\(([^)]+)\)|\*\*([^*]+)\*\*|`([^`]+)`/g;for(;(r=i.exec(e))!==null;)r.index>n&&t.push({t:`text`,v:e.slice(n,r.index)}),r[1]!==void 0&&r[2]!==void 0?t.push({t:`link`,label:r[1],url:r[2]}):r[3]===void 0?r[4]!==void 0&&t.push({t:`code`,v:r[4]}):t.push({t:`bold`,children:d(r[3])}),n=r.index+r[0].length;return n<e.length&&t.push({t:`text`,v:e.slice(n)}),t}var f=i();function p({questions:e}){let[t,n]=(0,a.useState)(0),[r,i]=(0,a.useState)(null),[o,s]=(0,a.useState)(!1),[c,l]=(0,a.useState)(0),[u,d]=(0,a.useState)(!1),p=e[t],m=t===e.length-1,h=e=>{o||(i(e),s(!0),e===p.correctAnswer&&l(e=>e+1))},g=()=>{if(m){d(!0);return}n(e=>e+1),i(null),s(!1)},_=()=>{n(0),i(null),s(!1),l(0),d(!1)};if(u){let t=Math.round(c/e.length*100),n=t>=80?`よくできました。この区別はばっちりです。`:t>=50?`あと少し。間違えた問題の解説を読み返しましょう。`:`もう一度、上の比較表と例文を見てから挑戦しましょう。`;return(0,f.jsxs)(`div`,{className:`quiz quiz-result`,children:[(0,f.jsxs)(`p`,{className:`quiz-score`,children:[e.length,`問中 `,(0,f.jsx)(`strong`,{children:c}),`問正解（`,t,`%）`]}),(0,f.jsx)(`p`,{className:`quiz-msg`,children:n}),(0,f.jsx)(`button`,{className:`btn`,onClick:_,children:`もう一度`})]})}return(0,f.jsxs)(`div`,{className:`quiz`,children:[(0,f.jsx)(`div`,{className:`quiz-head`,children:(0,f.jsxs)(`span`,{className:`quiz-count`,children:[`第 `,t+1,` / `,e.length,` 問`]})}),(0,f.jsx)(`p`,{className:`quiz-q`,children:p.question}),(0,f.jsx)(`ul`,{className:`quiz-options`,children:p.options.map((e,t)=>{let n=`quiz-option`;return o&&(t===p.correctAnswer?n+=` is-correct`:t===r&&(n+=` is-wrong`)),(0,f.jsx)(`li`,{children:(0,f.jsxs)(`button`,{className:n,onClick:()=>h(t),disabled:o,children:[(0,f.jsx)(`span`,{className:`quiz-mark`,"aria-hidden":`true`,children:o&&t===p.correctAnswer?`○`:o&&t===r?`×`:``}),(0,f.jsx)(`span`,{children:e})]})},t)})}),o&&(0,f.jsxs)(`div`,{className:`quiz-explain`,children:[(0,f.jsx)(`p`,{className:r===p.correctAnswer?`quiz-verdict ok`:`quiz-verdict ng`,children:r===p.correctAnswer?`正解`:`不正解`}),(0,f.jsx)(`p`,{children:p.explanation}),(0,f.jsx)(`button`,{className:`btn`,onClick:g,children:m?`結果を見る`:`次の問題へ`})]})]})}var m=`/eng-confusables`,h=e=>`${e}-phrasal-verbs`;function g(e){let t=e;if(t.startsWith(m)&&(t=t.slice(16)),t=t.replace(/^\/+|\/+$/g,``),t===``)return{view:`home`};if(t===`about`)return{view:`about`};if(t===`privacy`)return{view:`privacy`};let n=u.find(e=>h(e.verb)===t);if(n)return{view:`hub`,id:n.id};let r=s.find(e=>e.id===t);return r?{view:`pair`,id:r.id}:{view:`home`}}function _(e){switch(e.view){case`home`:return`${m}/`;case`pair`:return`${m}/${e.id}/`;case`hub`:{let t=u.find(t=>t.id===e.id);return`${m}/${t?h(t.verb):e.id}/`}default:return`${m}/${e.view}/`}}function v(e,t){return e.map((e,n)=>{let r=`${t}-${n}`;switch(e.t){case`text`:return(0,f.jsx)(`span`,{children:e.v},r);case`bold`:return(0,f.jsx)(`strong`,{children:v(e.children,r)},r);case`code`:return(0,f.jsx)(`code`,{children:e.v},r);case`link`:return/^https?:\/\//.test(e.url)?(0,f.jsx)(`a`,{href:e.url,target:`_blank`,rel:`noopener noreferrer`,children:e.label},r):(0,f.jsx)(`a`,{href:e.url,children:e.label},r)}})}var y=(e,t)=>v(d(e),t),b={"💡":{label:`コツ`,cls:`callout-tip`},"🎯":{label:`試験ポイント`,cls:`callout-exam`},"⚠️":{label:`注意`,cls:`callout-warn`},"📖":{label:`発展`,cls:`callout-read`}};function x(e){let t=e.split(`
+break down は「構造そのものが崩れ落ちる」イメージで、機械の故障にも交渉の決裂にも使われます。break off は「つながっていたものを断ち切って切り離す」イメージで、婚約や外交関係のような継続していた関係の中断を表します。break out は「内部に閉じ込められていたものが外部へ突発的に噴き出す」イメージで、戦争・火事・発疹などの突然の発生や、監獄からの脱出に使われます。break up は「1つのまとまりがばらばらの破片に砕ける」イメージで、恋愛関係の終わりや集団の解散を表します。`,previewPairs:[`break down vs break off（故障する・決裂する／中断する・打ち切る）`,`break out vs break up（突発的に発生する・脱出する／別れる・解散する）`]},{id:`come`,verb:`come`,title:`come を使った紛らわしい熟語・句動詞`,description:`come の中心イメージ「（自分の方へ）来る・生じる」が、続く前置詞・副詞でどう枝分かれするかをまとめたハブページ。`,content:`## come の中心イメージ
+
+come は「（話し手の方へ）来る」が核となる意味です。物理的な接近から、偶然の遭遇・事象の発生・獲得という比喩に広がり、続く前置詞・副詞が「何が」「どんな経緯で」やって来るかを決めます。
+
+| 熟語 | 前置詞・副詞のイメージ | 中心的な意味 |
+| --- | --- | --- |
+| come across | across（向こう側から視界に入ってくる） | 〜に偶然出くわす／〜という印象を与える |
+| come up with | up with（自分の中から思いつきを持ち上げる） | （考え・答えを）思いつく・出す |
+| come about | about（周囲に生じる） | （出来事が）起こる・生じる |
+| come by | by（脇を通りかかって手に入れる） | 〜を入手する／立ち寄る |
+
+come across は「向こう側から偶然視界に入ってくる」イメージで、人やものとの偶然の遭遇にも、「〜という印象を与える」という比喩にも使われます。come up with は「自分の内側から考えを浮かび上がらせる」イメージで、アイデアや解決策を生み出す場面の定番表現です。come about は「周囲に出来事が生じる」イメージで主語を必要とせず起こったことを述べ、come by は「たまたま通りかかって手に入れる」イメージから入手・立ち寄りの両方に使われます。`,previewPairs:[`come across vs come up with（偶然出くわす／思いつく）`,`come about vs come by（起こる／入手する・立ち寄る）`]},{id:`go`,verb:`go`,title:`go を使った紛らわしい熟語・句動詞`,description:`go の中心イメージ「（話し手から離れて）進む」が、続く前置詞・副詞でどう枝分かれするかをまとめたハブページ。`,content:`## go の中心イメージ
+
+go は「（その場から）離れて進む」が核となる意味です。物理的な移動から、検討・経験・欠乏・追求という比喩に広がり、続く前置詞・副詞が「どんな経路を、何を伴って進むか」を決めます。
+
+| 熟語 | 前置詞・副詞のイメージ | 中心的な意味 |
+| --- | --- | --- |
+| go over | over（表面をなぞって見渡す） | 〜を見直す・復習する |
+| go through | through（始めから終わりまで通過する） | （つらい経験）をする／（手続きが）成立する |
+| go without | without（〜が無いまま進む） | 〜なしで済ませる |
+| go for | for（目標に向かって進む） | 〜を取りに行く／〜が好み／〜に挑む |
+
+go over は「対象の表面を一通りなぞって見渡す」イメージで、資料の見直しや説明の反復に使われます。go through は「入口から出口まで通り抜ける」イメージで、つらい経験を通り抜けることにも、法案などの手続きが成立することにも使われます。go without は「あるべきものが無いまま前進する」イメージで欠乏への耐性を表し、go for は「目標に向かって突き進む」イメージから、物を取りに行く・好みである・挑戦するという意味に広がります。`,previewPairs:[`go over vs go through（見直す・復習する／つらい経験をする・手続きが通る）`,`go without vs go for（なしで済ませる／取りに行く・好み・挑む）`]},{id:`keep`,verb:`keep`,title:`keep を使った紛らわしい熟語・句動詞`,description:`keep の中心イメージ「（ある状態を）保ち続ける」が、続く前置詞・副詞でどう枝分かれするかをまとめたハブページ。`,content:`## keep の中心イメージ
+
+keep は「（状態や動作を）保ち続ける」が核となる意味です。継続の意味から、並走・回避・遵守という比喩に広がり、続く前置詞・副詞が「何と、どんな関係を保ち続けるか」を決めます。
+
+| 熟語 | 前置詞・副詞のイメージ | 中心的な意味 |
+| --- | --- | --- |
+| keep up with | up with（同じ高さで並走し続ける） | 〜に遅れずについていく |
+| keep off | off（接触せず距離を保つ） | 〜を避ける・近づけない |
+| keep on | on（そのまま前へ持続する） | 続ける |
+| keep to | to（対象の枠内に留まる） | （道・話題・約束）から外れない |
+
+keep up with は「相手と同じ高さで並走し続ける」イメージで、流行や進度に遅れずついていく場面に使われます。keep off は「対象に接触せず距離を保つ」イメージで、食べ物を控えることにも、話題を避けることにも、人や動物を近づけないことにも使われます。keep on は「同じ動作をそのまま持続する」イメージで単純な継続を表し、keep to は「決められた枠の中に留まり続ける」イメージから、道を外れない・約束を守るという意味に広がります。`,previewPairs:[`keep up with vs keep off（遅れずについていく／避ける・近づけない）`,`keep on vs keep to（続ける／外れない・守る）`]}];function d(e){let t=[],n=0,r,i=/\[([^\]]+)\]\(([^)]+)\)|\*\*([^*]+)\*\*|`([^`]+)`/g;for(;(r=i.exec(e))!==null;)r.index>n&&t.push({t:`text`,v:e.slice(n,r.index)}),r[1]!==void 0&&r[2]!==void 0?t.push({t:`link`,label:r[1],url:r[2]}):r[3]===void 0?r[4]!==void 0&&t.push({t:`code`,v:r[4]}):t.push({t:`bold`,children:d(r[3])}),n=r.index+r[0].length;return n<e.length&&t.push({t:`text`,v:e.slice(n)}),t}var f=i();function p({questions:e}){let[t,n]=(0,a.useState)(0),[r,i]=(0,a.useState)(null),[o,s]=(0,a.useState)(!1),[c,l]=(0,a.useState)(0),[u,d]=(0,a.useState)(!1),p=e[t],m=t===e.length-1,h=e=>{o||(i(e),s(!0),e===p.correctAnswer&&l(e=>e+1))},g=()=>{if(m){d(!0);return}n(e=>e+1),i(null),s(!1)},_=()=>{n(0),i(null),s(!1),l(0),d(!1)};if(u){let t=Math.round(c/e.length*100),n=t>=80?`よくできました。この区別はばっちりです。`:t>=50?`あと少し。間違えた問題の解説を読み返しましょう。`:`もう一度、上の比較表と例文を見てから挑戦しましょう。`;return(0,f.jsxs)(`div`,{className:`quiz quiz-result`,children:[(0,f.jsxs)(`p`,{className:`quiz-score`,children:[e.length,`問中 `,(0,f.jsx)(`strong`,{children:c}),`問正解（`,t,`%）`]}),(0,f.jsx)(`p`,{className:`quiz-msg`,children:n}),(0,f.jsx)(`button`,{className:`btn`,onClick:_,children:`もう一度`})]})}return(0,f.jsxs)(`div`,{className:`quiz`,children:[(0,f.jsx)(`div`,{className:`quiz-head`,children:(0,f.jsxs)(`span`,{className:`quiz-count`,children:[`第 `,t+1,` / `,e.length,` 問`]})}),(0,f.jsx)(`p`,{className:`quiz-q`,children:p.question}),(0,f.jsx)(`ul`,{className:`quiz-options`,children:p.options.map((e,t)=>{let n=`quiz-option`;return o&&(t===p.correctAnswer?n+=` is-correct`:t===r&&(n+=` is-wrong`)),(0,f.jsx)(`li`,{children:(0,f.jsxs)(`button`,{className:n,onClick:()=>h(t),disabled:o,children:[(0,f.jsx)(`span`,{className:`quiz-mark`,"aria-hidden":`true`,children:o&&t===p.correctAnswer?`○`:o&&t===r?`×`:``}),(0,f.jsx)(`span`,{children:e})]})},t)})}),o&&(0,f.jsxs)(`div`,{className:`quiz-explain`,children:[(0,f.jsx)(`p`,{className:r===p.correctAnswer?`quiz-verdict ok`:`quiz-verdict ng`,children:r===p.correctAnswer?`正解`:`不正解`}),(0,f.jsx)(`p`,{children:p.explanation}),(0,f.jsx)(`button`,{className:`btn`,onClick:g,children:m?`結果を見る`:`次の問題へ`})]})]})}var m=`/eng-confusables`,h=e=>`${e}-phrasal-verbs`;function g(e){let t=e;if(t.startsWith(m)&&(t=t.slice(16)),t=t.replace(/^\/+|\/+$/g,``),t===``)return{view:`home`};if(t===`about`)return{view:`about`};if(t===`privacy`)return{view:`privacy`};let n=u.find(e=>h(e.verb)===t);if(n)return{view:`hub`,id:n.id};let r=s.find(e=>e.id===t);return r?{view:`pair`,id:r.id}:{view:`home`}}function _(e){switch(e.view){case`home`:return`${m}/`;case`pair`:return`${m}/${e.id}/`;case`hub`:{let t=u.find(t=>t.id===e.id);return`${m}/${t?h(t.verb):e.id}/`}default:return`${m}/${e.view}/`}}function v(e,t){return e.map((e,n)=>{let r=`${t}-${n}`;switch(e.t){case`text`:return(0,f.jsx)(`span`,{children:e.v},r);case`bold`:return(0,f.jsx)(`strong`,{children:v(e.children,r)},r);case`code`:return(0,f.jsx)(`code`,{children:e.v},r);case`link`:return/^https?:\/\//.test(e.url)?(0,f.jsx)(`a`,{href:e.url,target:`_blank`,rel:`noopener noreferrer`,children:e.label},r):(0,f.jsx)(`a`,{href:e.url,children:e.label},r)}})}var y=(e,t)=>v(d(e),t),b={"💡":{label:`コツ`,cls:`callout-tip`},"🎯":{label:`試験ポイント`,cls:`callout-exam`},"⚠️":{label:`注意`,cls:`callout-warn`},"📖":{label:`発展`,cls:`callout-read`}};function x(e){let t=e.split(`
 `),n=[],r=0,i=0;for(;r<t.length;){let e=t[r].trim();if(e===``){r++;continue}if(/^---+$/.test(e)){n.push((0,f.jsx)(`hr`,{},i++)),r++;continue}if(e.startsWith(`### `)){n.push((0,f.jsx)(`h3`,{children:y(e.slice(4),`h${i}`)},i++)),r++;continue}if(e.startsWith(`## `)){n.push((0,f.jsx)(`h2`,{children:y(e.slice(3),`h${i}`)},i++)),r++;continue}let a=Object.keys(b).find(t=>e.startsWith(t));if(a){let{label:t,cls:o}=b[a];n.push((0,f.jsxs)(`div`,{className:`callout ${o}`,children:[(0,f.jsx)(`span`,{className:`callout-label`,children:t}),(0,f.jsx)(`p`,{children:y(e.slice(a.length).trim(),`c${i}`)})]},i++)),r++;continue}if(e.startsWith(`|`)){let e=[];for(;r<t.length&&t[r].trim().startsWith(`|`);)e.push(t[r].trim()),r++;let a=e.map(e=>e.replace(/^\||\|$/g,``).split(`|`).map(e=>e.trim())).filter(e=>!e.every(e=>/^:?-+:?$/.test(e)||e===``));if(a.length){let[e,...t]=a;n.push((0,f.jsx)(`div`,{className:`table-wrap`,children:(0,f.jsxs)(`table`,{children:[(0,f.jsx)(`thead`,{children:(0,f.jsx)(`tr`,{children:e.map((e,t)=>(0,f.jsx)(`th`,{children:y(e,`th${i}-${t}`)},t))})}),(0,f.jsx)(`tbody`,{children:t.map((e,t)=>(0,f.jsx)(`tr`,{children:e.map((e,n)=>(0,f.jsx)(`td`,{children:y(e,`td${i}-${t}-${n}`)},n))},t))})]})},i++))}continue}if(/^\d+\.\s/.test(e)){let e=[];for(;r<t.length&&/^\d+\.\s/.test(t[r].trim());)e.push(t[r].trim().replace(/^\d+\.\s/,``)),r++;n.push((0,f.jsx)(`ol`,{children:e.map((e,t)=>(0,f.jsx)(`li`,{children:y(e,`ol${i}-${t}`)},t))},i++));continue}if(/^[-*]\s/.test(e)){let e=[];for(;r<t.length&&/^[-*]\s/.test(t[r].trim());)e.push(t[r].trim().replace(/^[-*]\s/,``)),r++;n.push((0,f.jsx)(`ul`,{children:e.map((e,t)=>(0,f.jsx)(`li`,{children:y(e,`ul${i}-${t}`)},t))},i++));continue}n.push((0,f.jsx)(`p`,{children:y(e,`p${i}`)},i++)),r++}return n}var S=e=>`${e.id} ${e.title} ${e.description}`.toLowerCase();function C(){let[e,t]=(0,a.useState)(()=>g(window.location.pathname)),[n,r]=(0,a.useState)(!1),i=(0,a.useCallback)(e=>{window.history.pushState({},``,_(e)),t(e),r(!1),window.scrollTo(0,0)},[]);return(0,a.useEffect)(()=>{let e=()=>t(g(window.location.pathname));return window.addEventListener(`popstate`,e),()=>window.removeEventListener(`popstate`,e)},[]),(0,f.jsxs)(`div`,{className:`app`,children:[(0,f.jsx)(w,{route:e,navigate:i,menuOpen:n,setMenuOpen:r}),(0,f.jsxs)(`main`,{className:`main`,children:[e.view===`home`&&(0,f.jsx)(T,{navigate:i}),e.view===`pair`&&(0,f.jsx)(E,{id:e.id,navigate:i}),e.view===`hub`&&(0,f.jsx)(D,{id:e.id,navigate:i}),e.view===`about`&&(0,f.jsx)(O,{}),e.view===`privacy`&&(0,f.jsx)(k,{})]}),(0,f.jsx)(A,{navigate:i})]})}function w({route:e,navigate:t,menuOpen:n,setMenuOpen:r}){return(0,f.jsx)(`header`,{className:`site-header`,children:(0,f.jsxs)(`div`,{className:`header-inner`,children:[(0,f.jsx)(`a`,{className:`brand`,href:`${m}/`,onClick:e=>{e.preventDefault(),t({view:`home`})},children:`まぎらわしい英単語・熟語ノート`}),(0,f.jsxs)(`button`,{className:`menu-toggle`,"aria-label":`メニュー`,"aria-expanded":n,onClick:()=>r(!n),children:[(0,f.jsx)(`span`,{}),(0,f.jsx)(`span`,{}),(0,f.jsx)(`span`,{})]}),(0,f.jsxs)(`nav`,{className:`site-nav ${n?`open`:``}`,children:[(0,f.jsx)(`a`,{href:`${m}/`,onClick:e=>{e.preventDefault(),t({view:`home`})},className:e.view===`home`?`active`:``,children:`さがす`}),(0,f.jsx)(`a`,{href:`${m}/about/`,onClick:e=>{e.preventDefault(),t({view:`about`})},className:e.view===`about`?`active`:``,children:`このサイトについて`})]})]})})}function T({navigate:t}){let[r,i]=(0,a.useState)(``),[o,d]=(0,a.useState)(0),p=(0,a.useMemo)(()=>{let e=r.trim().toLowerCase();return s.filter(t=>!(o!==0&&t.chapter!==o||e&&!S(t).includes(e)))},[r,o]);return(0,f.jsxs)(`div`,{className:`home`,children:[(0,f.jsxs)(`section`,{className:`hero`,children:[(0,f.jsx)(`h1`,{children:`まぎらわしい英単語・熟語を、引いて見分ける`}),(0,f.jsxs)(`p`,{className:`hero-lead`,children:[l.approach,`。`,s.length,`組の混同ペアを、比較表とミニ問題でまとめました。`]}),(0,f.jsxs)(`div`,{className:`search-box`,children:[(0,f.jsx)(e,{size:18,"aria-hidden":`true`}),(0,f.jsx)(`input`,{type:`search`,value:r,onChange:e=>i(e.target.value),placeholder:`単語で検索（例：affect, lie, breed）`,"aria-label":`単語を検索`,autoComplete:`off`}),r&&(0,f.jsx)(`button`,{className:`search-clear`,"aria-label":`クリア`,onClick:()=>i(``),children:(0,f.jsx)(n,{size:16})})]}),(0,f.jsxs)(`div`,{className:`cat-chips`,role:`tablist`,"aria-label":`カテゴリで絞り込み`,children:[(0,f.jsx)(`button`,{className:`chip ${o===0?`active`:``}`,onClick:()=>d(0),children:`すべて`}),[1,2,3,4,5].map(e=>(0,f.jsx)(`button`,{className:`chip ${o===e?`active`:``}`,onClick:()=>d(e),children:c[e]},e))]})]}),(o===0||o===5)&&!r&&(0,f.jsxs)(`section`,{className:`results`,"aria-label":`熟語・句動詞の動詞ハブ`,children:[(0,f.jsx)(`h2`,{style:{fontSize:`1.05rem`,margin:`0 0 10px`},children:`動詞から熟語をさがす`}),(0,f.jsx)(`ul`,{className:`pair-list`,style:{listStyle:`none`,padding:0},children:u.map(e=>(0,f.jsx)(`li`,{children:(0,f.jsxs)(`a`,{href:`${m}/${h(e.verb)}/`,onClick:n=>{n.preventDefault(),t({view:`hub`,id:e.id})},children:[(0,f.jsx)(`span`,{className:`pair-title`,children:e.verb}),(0,f.jsx)(`span`,{className:`pair-desc`,children:e.description})]})},e.id))})]}),(0,f.jsxs)(`section`,{className:`results`,children:[(0,f.jsxs)(`p`,{className:`results-count`,children:[p.length,` 組`,r?`（「${r}」で検索）`:``]}),p.length===0?(0,f.jsx)(`p`,{className:`no-results`,children:`該当する単語が見つかりませんでした。スペルを変えて試してください。`}):(0,f.jsx)(`ol`,{className:`pair-list`,children:p.map(e=>(0,f.jsx)(`li`,{children:(0,f.jsxs)(`a`,{href:`${m}/${e.id}/`,onClick:n=>{n.preventDefault(),t({view:`pair`,id:e.id})},children:[(0,f.jsx)(`span`,{className:`pair-title`,children:e.title}),(0,f.jsx)(`span`,{className:`pair-cat`,children:c[e.chapter]}),(0,f.jsx)(`span`,{className:`pair-desc`,children:e.description})]})},e.id))})]})]})}function E({id:e,navigate:t}){let n=s[s.findIndex(t=>t.id===e)];if(!n)return(0,f.jsx)(`p`,{children:`ページが見つかりませんでした。`});let r=s.filter(e=>e.chapter===n.chapter),i=r.findIndex(t=>t.id===e),a=i>0?r[i-1]:null,o=i<r.length-1?r[i+1]:null;return(0,f.jsxs)(`article`,{className:`pair`,children:[(0,f.jsxs)(`nav`,{className:`breadcrumb`,children:[(0,f.jsx)(`a`,{href:`${m}/`,onClick:e=>{e.preventDefault(),t({view:`home`})},children:`さがす`}),(0,f.jsx)(`span`,{"aria-hidden":`true`,children:`/`}),(0,f.jsx)(`span`,{children:c[n.chapter]})]}),(0,f.jsxs)(`header`,{className:`pair-header`,children:[(0,f.jsx)(`p`,{className:`pair-cat-label`,children:c[n.chapter]}),(0,f.jsx)(`h1`,{children:n.title}),(0,f.jsx)(`p`,{className:`pair-lead`,children:n.description})]}),(0,f.jsx)(`div`,{className:`pair-body`,children:x(n.content)}),n.keyPoints&&n.keyPoints.length>0&&(0,f.jsxs)(`section`,{className:`keypoints`,children:[(0,f.jsx)(`h2`,{children:`まとめ`}),(0,f.jsx)(`ul`,{children:n.keyPoints.map((e,t)=>(0,f.jsx)(`li`,{children:e},t))})]}),(0,f.jsxs)(`section`,{className:`quiz-section`,children:[(0,f.jsx)(`h2`,{children:`理解度チェック（任意）`}),(0,f.jsx)(p,{questions:n.quiz})]}),(0,f.jsxs)(`nav`,{className:`pair-nav`,children:[a?(0,f.jsxs)(`button`,{className:`btn`,onClick:()=>t({view:`pair`,id:a.id}),children:[`← `,a.title]}):(0,f.jsx)(`span`,{}),o?(0,f.jsxs)(`button`,{className:`btn btn-primary`,onClick:()=>t({view:`pair`,id:o.id}),children:[o.title,` →`]}):(0,f.jsx)(`button`,{className:`btn`,onClick:()=>t({view:`home`}),children:`一覧へ戻る`})]})]})}function D({id:e,navigate:t}){let n=u.find(t=>t.id===e);if(!n)return(0,f.jsx)(`p`,{children:`ページが見つかりませんでした。`});let r=s.filter(e=>e.hubId===n.id);return(0,f.jsxs)(`article`,{className:`pair`,children:[(0,f.jsxs)(`nav`,{className:`breadcrumb`,children:[(0,f.jsx)(`a`,{href:`${m}/`,onClick:e=>{e.preventDefault(),t({view:`home`})},children:`さがす`}),(0,f.jsx)(`span`,{"aria-hidden":`true`,children:`/`}),(0,f.jsx)(`span`,{children:c[5]})]}),(0,f.jsxs)(`header`,{className:`pair-header`,children:[(0,f.jsxs)(`p`,{className:`pair-cat-label`,children:[c[5],`・動詞ハブ`]}),(0,f.jsx)(`h1`,{children:n.title}),(0,f.jsx)(`p`,{className:`pair-lead`,children:n.description})]}),(0,f.jsx)(`div`,{className:`pair-body`,children:x(n.content)}),(0,f.jsxs)(`section`,{className:`keypoints`,children:[(0,f.jsx)(`h2`,{children:r.length>0?`${n.verb} の熟語ペア一覧`:`${n.verb} で今後扱う予定の熟語ペア`}),r.length>0?(0,f.jsx)(`ul`,{className:`pair-list`,style:{listStyle:`none`,padding:0},children:r.map(e=>(0,f.jsx)(`li`,{children:(0,f.jsxs)(`a`,{href:`${m}/${e.id}/`,onClick:n=>{n.preventDefault(),t({view:`pair`,id:e.id})},children:[(0,f.jsx)(`span`,{className:`pair-title`,children:e.title}),(0,f.jsx)(`span`,{className:`pair-desc`,children:e.description})]})},e.id))}):(0,f.jsxs)(f.Fragment,{children:[(0,f.jsx)(`ul`,{children:n.previewPairs.map((e,t)=>(0,f.jsx)(`li`,{children:e},t))}),(0,f.jsx)(`p`,{style:{color:`#868d99`,fontSize:`0.9rem`},children:`各ページは準備中です。公開までこのハブページで前置詞ごとの意味の違いを先に押さえておくと、個別ページの理解が早くなります。`})]})]}),(0,f.jsx)(`nav`,{className:`pair-nav`,children:(0,f.jsx)(`button`,{className:`btn`,onClick:()=>t({view:`home`}),children:`一覧へ戻る`})})]})}function O(){return(0,f.jsxs)(`div`,{className:`about`,children:[(0,f.jsx)(`h1`,{children:`このサイトについて`}),(0,f.jsx)(`h2`,{children:`サイトの目的と対象`}),(0,f.jsxs)(`p`,{children:[`「まぎらわしい英単語・熟語ノート」は、スペル・意味・品詞・発音が似ていて混同しやすい英単語のペア、および前置詞や副詞の違いで意味が変わる紛らわしい熟語・句動詞のペアを、引いてすぐに違いと使い分けが分かるようにまとめた逆引きの比較リファレンスです。`,l.audience,`を主な対象としています。`]}),(0,f.jsx)(`h2`,{children:`コンテンツ構成`}),(0,f.jsx)(`p`,{children:`混同しやすい語を「スペルが似ている語」「意味が近い語」「品詞・派生でまぎらわしい語」「発音が似ている語」の4カテゴリに分け、1ペア（または自然な語群）を1ページにまとめています。各ページに比較表・例文・覚え方・任意の確認問題を用意しています。`}),(0,f.jsx)(`h2`,{children:`編集・制作方針`}),(0,f.jsxs)(`p`,{children:[`各語の意味・品詞・自他・発音は辞書（Cambridge・Merriam-Webster・Wiktionary など）で事実を確認したうえで、解説は`,(0,f.jsx)(`strong`,{children:`すべて運営者が自分のことばで書き起こし`}),`、例文も自作しています。辞書の定義文や例文をそのまま転載することはしていません。確認できない語法は載せていません。誤りに気づいた場合は随時修正します。`]}),(0,f.jsx)(`h2`,{children:`運営者について`}),(0,f.jsx)(`p`,{children:`個人が運営しています。広告収入はサーバー・ドメインなどの維持費に充てています。`}),(0,f.jsx)(`h2`,{children:`お問い合わせ`}),(0,f.jsxs)(`p`,{children:[`内容の誤りのご指摘やご意見は、`,(0,f.jsx)(`a`,{href:`https://forms.gle/ccMv7oKwz6ysDHBe6`,target:`_blank`,rel:`noopener noreferrer`,children:`お問い合わせフォーム`}),`よりお寄せください。`]}),(0,f.jsx)(`h2`,{children:`免責事項`}),(0,f.jsx)(`p`,{children:`本サイトは内容の正確性に努めていますが、その完全性・正確性・有用性を保証するものではありません。学習の最終的な確認は辞書や公式教材で行ってください。本サイトの利用によって生じたいかなる損害についても責任を負いかねます。`})]})}function k(){return(0,f.jsxs)(`div`,{className:`privacy`,children:[(0,f.jsx)(`h1`,{children:`プライバシーポリシー`}),(0,f.jsx)(`h2`,{children:`アクセス解析（Google Analytics）`}),(0,f.jsx)(`p`,{children:`本サイトは利用状況の把握のためGoogle Analytics（GA4）を利用しています。Cookieを用いて匿名のトラフィックデータを収集するもので、個人を特定する情報は含みません。`}),(0,f.jsx)(`h2`,{children:`広告配信（Google AdSense）`}),(0,f.jsx)(`p`,{children:`本サイトは第三者配信の広告サービスGoogle AdSenseを利用しています。第三者配信事業者はCookieを使用して、ユーザーの興味に応じた広告を表示することがあります。`}),(0,f.jsx)(`h2`,{children:`Cookieの送信と無効化`}),(0,f.jsxs)(`p`,{children:[`これらのCookieによりGoogleや広告事業者にデータが送信されます。ユーザーは`,(0,f.jsx)(`a`,{href:`https://adssettings.google.com/`,target:`_blank`,rel:`noopener noreferrer`,children:`Googleの広告設定`}),`でパーソナライズ広告を無効にでき、ブラウザの設定でCookieを無効にすることもできます。`]}),(0,f.jsx)(`h2`,{children:`免責事項`}),(0,f.jsx)(`p`,{children:`本サイトの情報の利用により生じた損害について、運営者は責任を負いません。`}),(0,f.jsx)(`h2`,{children:`お問い合わせ`}),(0,f.jsxs)(`p`,{children:[`本ポリシーに関するお問い合わせは`,(0,f.jsx)(`a`,{href:`https://forms.gle/ccMv7oKwz6ysDHBe6`,target:`_blank`,rel:`noopener noreferrer`,children:`お問い合わせフォーム`}),`よりお願いします。`]}),(0,f.jsx)(`p`,{className:`notice`,children:`最終更新日：2026年6月15日`})]})}function A({navigate:e}){return(0,f.jsx)(`footer`,{className:`site-footer`,children:(0,f.jsxs)(`div`,{className:`footer-inner`,children:[(0,f.jsxs)(`nav`,{className:`footer-nav`,children:[(0,f.jsx)(`a`,{href:`${m}/`,onClick:t=>{t.preventDefault(),e({view:`home`})},children:`さがす`}),(0,f.jsx)(`a`,{href:`${m}/about/`,onClick:t=>{t.preventDefault(),e({view:`about`})},children:`このサイトについて`}),(0,f.jsx)(`a`,{href:`${m}/privacy/`,onClick:t=>{t.preventDefault(),e({view:`privacy`})},children:`プライバシーポリシー`}),(0,f.jsx)(`a`,{href:`https://study-apps.com/editorial-policy/`,target:`_blank`,rel:`noopener noreferrer`,children:`編集方針`}),(0,f.jsx)(`a`,{href:`https://study-apps.com/`,target:`_blank`,rel:`noopener noreferrer`,children:`study-apps.com`})]}),(0,f.jsx)(`p`,{className:`footer-note`,children:`個人運営の学習支援サイトです。最終的な確認は辞書や公式教材で行ってください。`})]})})}(0,o.createRoot)(document.getElementById(`root`)).render((0,f.jsx)(a.StrictMode,{children:(0,f.jsx)(C,{})}));
