@@ -21026,4 +21026,526 @@ out は「内部に潜んでいたものが外部へ突発的に噴き出す」�
       },
     ],
   },
+  {
+    id: 'come-across-come-up-with',
+    title: 'come across と come up with',
+    chapter: 5,
+    hubId: 'come',
+    description: 'come across は「〜に偶然出くわす・〜という印象を与える」、come up with は「（考え・答えを）思いつく」。偶然の遭遇か、内側から生み出すかの違いです。',
+    content: `## 偶然出くわすか、思いつくか
+
+come across と come up with はどちらも「見つかる・出てくる」に関わる比喩ですが、across の「向こうから視界に入る」イメージと up with の「内側から持ち上げる」イメージで、主体的な行動の有無が異なります。
+
+| 熟語 | 中心の意味 | 典型的な目的語・使われ方 |
+| --- | --- | --- |
+| come **across** | 〜に偶然出くわす／〜という印象を与える | come across an old photo／come across as friendly |
+| come up **with** | （考え・答え・お金を）思いつく・出す | come up with an idea, a solution, the money |
+
+### come across の使い分け
+
+come across の1つ目の意味は「探していたわけではないのに偶然見つける・出会う」で、"I came across this old photo while cleaning the attic." のように使われます。2つ目は「（人が）〜という印象を与える」（She comes across as very confident）という、他者からの見え方を表す用法です。
+
+### come up with の使い分け
+
+come up with は「（考え・計画・答えなどを）自分の内側から生み出す」という意味で、"The team came up with a creative solution to the problem." のように、アイデア出しや解決策の考案の場面で頻出します。「（必要なお金を）工面する」（come up with the rent money）という意味にも使われます。
+
+### 使い分けの手がかり
+
+**come across は encounter unexpectedly／give an impression に置換**でき、「偶然の受動的な出会い」か「他者からの印象」を表します。**come up with は produce／think of に置換**でき、「自分から能動的に考えを生み出す」動作です。「偶然か、能動的に生み出すか」で区別します。
+
+### なぜ直訳で読み解けないか
+
+across は「向こう側から視界を横切って入ってくる」イメージなので、come across は探していないものが偶然視界に入ってくることを表します。up with は「内側に沈んでいた考えを表面まで持ち上げる」イメージなので、come up with はアイデアを能動的にひねり出すことを表します。
+
+### よくある誤用
+
+⚠️ \`We need to come across a solution to this problem quickly.\`（誤）。解決策を考え出すのは come up **with**。come across に「考え出す」の意味はありません。
+
+⚠️ \`I came up with an old friend at the airport.\`（誤）。偶然出会ったのは come **across**。come up with は人との偶然の遭遇には使いません。
+
+🎯 覚え方：**across＝向こうから視界に入ってくる（偶然出くわす）**、**up with＝内側から持ち上げる（思いつく）**。`,
+    keyPoints: [
+      'come across＝〜に偶然出くわす（encounter unexpectedly）／〜という印象を与える（give an impression）',
+      'come up with＝（考え・答え・お金を）思いつく・出す（produce/think of）',
+      'come across は偶然の受動的な出会い、come up with は能動的な創出',
+      'across＝向こうから視界に入る、up with＝内側から持ち上げる、という前置詞イメージの違い',
+    ],
+    quiz: [
+      {
+        id: 'q-comeacross-1',
+        question: '空所に入る適切な語はどれですか。「While sorting through old boxes, I ( ) my grandmother’s diary.」',
+        options: ['came up with', 'came across', 'came about', 'came by'],
+        correctAnswer: 1,
+        explanation: '偶然見つけたのは come across。',
+      },
+      {
+        id: 'q-comeacross-2',
+        question: '空所に入る適切な語はどれですか。「The engineers finally ( ) a clever solution to the bug.」',
+        options: ['came across', 'came by', 'came up with', 'came about'],
+        correctAnswer: 2,
+        explanation: '解決策を考え出したのは come up with。',
+      },
+      {
+        id: 'q-comeacross-3',
+        question: '空所に入る適切な語はどれですか。「During the interview, he ( ) as very knowledgeable and calm.」',
+        options: ['came up with', 'came by', 'came across', 'came about'],
+        correctAnswer: 2,
+        explanation: '「〜という印象を与える」も come across。',
+      },
+      {
+        id: 'q-comeacross-4',
+        question: 'come up with の言い換えとして最も適切なものはどれですか。',
+        options: ['encounter unexpectedly', 'produce/think of', 'give an impression', 'obtain'],
+        correctAnswer: 1,
+        explanation: 'come up with は「（考えを）生み出す」という意味です。',
+      },
+      {
+        id: 'q-comeacross-5',
+        question: 'come across と come up with の違いとして正しいものはどれですか。',
+        options: [
+          'across＝偶然の受動的な出会い、up with＝能動的な創出',
+          '両者に意味の違いはない',
+          'across の方が能動的な行為を表す',
+          'up with は人との遭遇にも使う',
+        ],
+        correctAnswer: 0,
+        explanation: 'come across は偶然の出会い・印象、come up with は能動的な創出を表します。',
+      },
+    ],
+  },
+  {
+    id: 'come-about-come-by',
+    title: 'come about と come by',
+    chapter: 5,
+    hubId: 'come',
+    description: 'come about は「（出来事が）起こる」、come by は「〜を入手する・立ち寄る」。出来事の発生を述べるか、人の行動を述べるかの違いです。',
+    content: `## 出来事が起こるか、人が手に入れる・立ち寄るか
+
+come about と come by はどちらも come の比喩用法ですが、about は「出来事の発生」を、by は「人の行動」を主語にとる点で構文が大きく異なります。
+
+| 熟語 | 中心の意味 | 典型的な主語 |
+| --- | --- | --- |
+| come **about** | （出来事が）起こる・生じる | 常に出来事・状況（人は主語にならない） |
+| come **by** | 〜を入手する／立ち寄る | 人（探し物や訪問の主体） |
+
+### come about の使い分け
+
+come about は「ある事態がどのようにして生じたか」を表す自動詞で、"How did this misunderstanding come about?" のように、主語には常に出来事や状況が来ます。人を主語にすることはできません。
+
+### come by の使い分け
+
+come by の1つ目の意味は「（入手しにくいものを）手に入れる」で、"Good jobs are hard to come by these days." のように使われます。2つ目は口語で「（人の家などに）ちょっと立ち寄る」（Come by my office if you have time）という意味です。
+
+### 使い分けの手がかり
+
+**come about は happen／occur に置換**でき、主語は必ず出来事・状況です。**come by は obtain／visit briefly に置換**でき、主語は必ず人です。「何が起こったか」を聞くなら about、「人が何を手に入れたか・どこに立ち寄ったか」を聞くなら by、と考えます。
+
+### なぜ直訳で読み解けないか
+
+about は「周囲に生じ広がる」イメージなので、come about は出来事が周囲の現実として立ち現れることを表します。by は「脇を通りかかる」イメージなので、come by は通りがかりに何かを手に入れる、または人の家の脇に立ち寄ることを表します。
+
+### よくある誤用
+
+⚠️ \`She came about a rare book at the flea market.\`（誤）。珍しい本を手に入れたのは come **by**。come about は人を主語にできません。
+
+⚠️ \`How did this change come by?\`（誤）。変化がどう生じたかを尋ねるのは come **about**。come by は出来事の発生には使いません。
+
+🎯 覚え方：**about＝出来事が周囲に生じる（起こる）**、**by＝人が脇を通りかかって得る（入手する・立ち寄る）**。`,
+    keyPoints: [
+      'come about＝（出来事が）起こる・生じる（happen/occur）。主語は必ず出来事',
+      'come by＝〜を入手する／立ち寄る（obtain/visit briefly）。主語は必ず人',
+      'come about は出来事の発生を述べる自動詞、come by は人の行動を述べる',
+      'about＝周囲に生じる、by＝脇を通りかかる、という前置詞イメージの違い',
+    ],
+    quiz: [
+      {
+        id: 'q-comeabout-1',
+        question: '空所に入る適切な語はどれですか。「How exactly did this strange situation ( )?」',
+        options: ['come by', 'come about', 'come up with', 'come across'],
+        correctAnswer: 1,
+        explanation: '出来事がどう生じたかを尋ねるのは come about。',
+      },
+      {
+        id: 'q-comeabout-2',
+        question: '空所に入る適切な語はどれですか。「Reliable used cars at that price are hard to ( ) these days.」',
+        options: ['come about', 'come across', 'come by', 'come up with'],
+        correctAnswer: 2,
+        explanation: '入手しにくいものを手に入れるのは come by。',
+      },
+      {
+        id: 'q-comeabout-3',
+        question: '空所に入る適切な語はどれですか。「Feel free to ( ) my office anytime this week.」',
+        options: ['come about', 'come by', 'come up with', 'come across'],
+        correctAnswer: 1,
+        explanation: 'ちょっと立ち寄るのも come by。',
+      },
+      {
+        id: 'q-comeabout-4',
+        question: 'come about の主語として正しいものはどれですか。',
+        options: ['出来事・状況のみ', '人のみ', '人と出来事の両方', '物のみ'],
+        correctAnswer: 0,
+        explanation: 'come about は出来事・状況を主語にとります。',
+      },
+      {
+        id: 'q-comeabout-5',
+        question: 'come about と come by の違いとして正しいものはどれですか。',
+        options: [
+          'about＝出来事が主語、by＝人が主語',
+          '両者に意味の違いはない',
+          'about＝人が主語、by＝出来事が主語',
+          '両方とも出来事を主語にとる',
+        ],
+        correctAnswer: 0,
+        explanation: 'come about は出来事の発生、come by は人の入手・訪問を表します。',
+      },
+    ],
+  },
+  {
+    id: 'go-over-go-through',
+    title: 'go over と go through',
+    chapter: 5,
+    hubId: 'go',
+    description: 'go over は「〜を見直す・復習する」、go through は「（つらい経験）をする・（手続きが）成立する」。表面をなぞるか、内部を通り抜けるかの違いです。',
+    content: `## 表面をなぞるか、内部を通り抜けるか
+
+go over と go through はどちらも「確認する・経験する」に関わる熟語ですが、over の「表面をなぞる」イメージと through の「内部を通過する」イメージで、対象への関わり方の深さが異なります。
+
+| 熟語 | 中心の意味 | 典型的な目的語 |
+| --- | --- | --- |
+| go **over** | 〜を見直す・復習する・確認する | notes, a document, the plan |
+| go **through** | （つらい経験）をする／〜を精査する／（手続きが）成立する | a difficult time, a bill |
+
+### go over の使い分け
+
+go over は「資料や計画を一通りなぞって確認・復習する」という意味で、"Let's go over the main points before the exam." のように使われます。「（案などが）好評を得る」（The proposal went over well）という意味もあります。
+
+### go through の使い分け
+
+go through には複数の意味があります。1つは「（つらい・困難な経験を）実際に経験する」（She's going through a difficult divorce）。もう1つは「（大量の書類などを）1つずつ詳しく調べる」（go through the files one by one）。さらに「（法案・契約が）正式に承認・成立する」（The bill finally went through parliament）という意味もあります。
+
+### 使い分けの手がかり
+
+**go over は review／rehearse に置換**でき、「表面を一通りなぞって確認する」という比較的軽い動作です。**go through は experience／examine in detail／be approved に置換**でき、「内部まで入り込んで経験・精査する、または手続きが正式に通る」という、より深く関わる動作です。「さっと確認する」か「深く経験・精査する」かで区別します。
+
+### なぜ直訳で読み解けないか
+
+over は「対象の表面を上からなぞるように見渡す」イメージなので、go over は細部に沈み込まず全体を確認する動作を表します。through は「入口から出口まで内部を通過する」イメージなので、go through は経験や書類の中身に深く入り込むこと、あるいは審査という通路を通り抜けて承認されることを表します。
+
+### よくある誤用
+
+⚠️ \`She's going over a difficult time after the loss.\`（誤・意味の深さが合わない）。つらい経験をしているのは go **through**。go over だと単なる「見直し」になってしまいます。
+
+⚠️ \`Let's go through the main points quickly before we start.\`（不自然・「さっと」に through は重すぎる）。手短な確認なら go **over**。go through は詳細な精査を含意します。
+
+🎯 覚え方：**over＝表面をなぞって確認する（見直す・復習する）**、**through＝内部を通り抜ける（経験する・精査する・成立する）**。`,
+    keyPoints: [
+      'go over＝〜を見直す・復習する・確認する（review）。表面的で軽い確認',
+      'go through＝（つらい経験）をする／〜を精査する／（手続きが）成立する（experience/examine/be approved）',
+      'go over は表面的な確認、go through はより深い経験・精査・承認',
+      'over＝表面をなぞる、through＝内部を通過する、という前置詞イメージの違い',
+    ],
+    quiz: [
+      {
+        id: 'q-goover-1',
+        question: '空所に入る適切な語はどれですか。「Let’s quickly ( ) the agenda before everyone arrives.」',
+        options: ['go through', 'go over', 'go without', 'go for'],
+        correctAnswer: 1,
+        explanation: 'さっと確認するのは go over。',
+      },
+      {
+        id: 'q-goover-2',
+        question: '空所に入る適切な語はどれですか。「The family has ( ) a lot since the accident.」',
+        options: ['gone over', 'gone through', 'gone for', 'gone without'],
+        correctAnswer: 1,
+        explanation: 'つらい経験をしたのは go through。',
+      },
+      {
+        id: 'q-goover-3',
+        question: '空所に入る適切な語はどれですか。「The new tax bill finally ( ) after months of debate.」',
+        options: ['went over', 'went for', 'went through', 'went without'],
+        correctAnswer: 2,
+        explanation: '法案が成立したのは go through。',
+      },
+      {
+        id: 'q-goover-4',
+        question: 'go over の言い換えとして最も適切なものはどれですか。',
+        options: ['review', 'experience', 'be approved', 'examine in minute detail'],
+        correctAnswer: 0,
+        explanation: 'go over は「見直す・確認する」（review）という意味です。',
+      },
+      {
+        id: 'q-goover-5',
+        question: 'go over と go through の違いとして正しいものはどれですか。',
+        options: [
+          'over＝表面的な確認、through＝深い経験・精査・成立',
+          '両者に意味の違いはない',
+          'over の方が深く関わる動作',
+          'through は必ず短時間で終わる',
+        ],
+        correctAnswer: 0,
+        explanation: 'go over は表面的、go through はより深く関わる動作を表します。',
+      },
+    ],
+  },
+  {
+    id: 'go-without-go-for',
+    title: 'go without と go for',
+    chapter: 5,
+    hubId: 'go',
+    description: 'go without は「〜なしで済ませる」、go for は「〜を取りに行く・〜が好み・〜に挑む」。欠乏を受け入れるか、積極的に追い求めるかの違いです。',
+    content: `## 欠乏を受け入れるか、積極的に追い求めるか
+
+go without と go for はどちらも go の後に対象を続ける形ですが、without の「〜なしで」というイメージと for の「〜を目指して」というイメージで、対象への向き合い方が正反対です。
+
+| 熟語 | 中心の意味 | 典型的な使われ方 |
+| --- | --- | --- |
+| go **without** | 〜なしで済ませる・我慢する | go without food, sleep, luxuries |
+| go **for** | 〜を取りに行く／〜が好み・魅力を感じる／〜に挑む | go for a walk／go for it |
+
+### go without の使い分け
+
+go without は「必要なもの・普段あるものが無いまま過ごす」という意味で、"During the war, many families had to go without basic necessities." のように使われます。目的語をとらずに "I'll just go without."（無しで済ませる）という自動詞的な使い方もあります。
+
+### go for の使い分け
+
+go for には複数の意味があります。1つは「（物を）取りに行く」（I'll go for some coffee）。2つ目は「（人や物に）魅力を感じる・好みである」（She goes for tall, quiet men）。3つ目は「（目標・チャンスに）思い切って挑む」（Go for it! You have nothing to lose）という励ましの定型句としても頻出します。
+
+### 使い分けの手がかり
+
+**go without は manage without something needed に置換**でき、「欠乏を受け入れる」という消極的な意味です。**go for は fetch／be attracted to／attempt に置換**でき、「対象を積極的に追い求める」という能動的な意味です。「無いまま我慢する」話か「積極的に求める・挑む」話かで区別します。
+
+### なぜ直訳で読み解けないか
+
+without は「〜が無い状態のまま進む」イメージなので、go without はあるべきものが欠けたまま生活を続けることを表します。for は「目標に向かって突き進む」イメージなので、go for は物を取りに行く・好みの対象を追う・チャンスに挑戦するという、目標志向の行動すべてに広がります。
+
+### よくある誤用
+
+⚠️ \`She always goes without adventurous challenges.\`（誤・意味が反対）。積極的に挑むのは go **for**。go without だと「挑戦なしで済ませる」という逆の意味になります。
+
+⚠️ \`I'll go for lunch today; I'm not very hungry.\`（誤・意味が逆）。食事を抜くのは go **without** lunch。go for lunch は「昼食を取りに行く」という意味になってしまいます。
+
+🎯 覚え方：**without＝〜が無いまま進む（我慢する）**、**for＝目標に向かって突き進む（取りに行く・好み・挑む）**。`,
+    keyPoints: [
+      'go without＝〜なしで済ませる・我慢する（manage without）',
+      'go for＝〜を取りに行く／〜が好み・魅力を感じる／〜に挑む（fetch/be attracted to/attempt）',
+      'go without は欠乏の受容、go for は目標への積極的な追求',
+      'without＝〜が無いまま進む、for＝目標に向かって進む、という前置詞イメージの違い',
+    ],
+    quiz: [
+      {
+        id: 'q-gowithout-1',
+        question: '空所に入る適切な語はどれですか。「During the shortage, many households had to ( ) fresh vegetables.」',
+        options: ['go for', 'go without', 'go over', 'go through'],
+        correctAnswer: 1,
+        explanation: '欠乏を受け入れるのは go without。',
+      },
+      {
+        id: 'q-gowithout-2',
+        question: '空所に入る適切な語はどれですか。「If you want that promotion, you should really ( ) it.」',
+        options: ['go without', 'go over', 'go for', 'go through'],
+        correctAnswer: 2,
+        explanation: '積極的に挑むのは go for。',
+      },
+      {
+        id: 'q-gowithout-3',
+        question: '空所に入る適切な語はどれですか。「When it comes to music, she really ( ) jazz and blues.」',
+        options: ['goes without', 'goes for', 'goes over', 'goes through'],
+        correctAnswer: 1,
+        explanation: '好みを表すのも go for。',
+      },
+      {
+        id: 'q-gowithout-4',
+        question: 'go without の言い換えとして最も適切なものはどれですか。',
+        options: ['manage without something needed', 'fetch', 'be attracted to', 'attempt'],
+        correctAnswer: 0,
+        explanation: 'go without は「必要なものなしで済ませる」という意味です。',
+      },
+      {
+        id: 'q-gowithout-5',
+        question: 'go without と go for の関係として正しいものはどれですか。',
+        options: [
+          '欠乏の受容と積極的な追求で、対照的な方向を持つ',
+          '意味がほぼ同じ',
+          '両方とも「取りに行く」を意味する',
+          'go without の方が積極的な意味を持つ'
+        ],
+        correctAnswer: 0,
+        explanation: 'go without は消極的な欠乏の受容、go for は積極的な追求という対照的な意味です。',
+      },
+    ],
+  },
+  {
+    id: 'keep-up-with-keep-off',
+    title: 'keep up with と keep off',
+    chapter: 5,
+    hubId: 'keep',
+    description: 'keep up with は「〜に遅れずについていく」、keep off は「〜を避ける・近づけない」。並走し続けるか、距離を保つかの違いです。',
+    content: `## 並走し続けるか、距離を保つか
+
+keep up with と keep off はどちらも「keep＋前置詞」ですが、up with の「同じ高さで並ぶ」イメージと off の「接触せず離れる」イメージで、対象との関わり方が正反対です。
+
+| 熟語 | 中心の意味 | 典型的な目的語 |
+| --- | --- | --- |
+| keep up **with** | 〜に遅れずについていく | the pace, the news, a friend |
+| keep **off** | 〜を避ける・近づけない | fatty food, a topic, the grass |
+
+### keep up with の使い分け
+
+keep up with は「相手の進度・変化に遅れずついていく」という意味で、"It's hard to keep up with all the new technology." のように使われます。「（友人などと）連絡を取り続ける」（keep up with old friends）という意味にも使われます。
+
+### keep off の使い分け
+
+keep off には複数の意味があります。1つは「（食べ物などを）控える」（The doctor told him to keep off fatty foods）。2つ目は「（話題に）触れない」（Let's keep off politics tonight）。3つ目は「（人や動物を）近づけない」（Keep off the grass. のような掲示表現が定番）です。
+
+### 使い分けの手がかり
+
+**keep up with は stay level with／not fall behind に置換**でき、「相手や変化のペースに合わせ続ける」という積極的な追随です。**keep off は avoid／stay away from に置換**でき、「対象との接触を断ち続ける」という回避です。「ついていく」話か「避ける」話かで区別します。
+
+### なぜ直訳で読み解けないか
+
+up with は「相手と同じ高さで並んで進み続ける」イメージなので、keep up with はペースを合わせて遅れずについていくことを表します。off は「対象に接触せず距離を保つ」イメージなので、keep off は食べ物・話題・場所のいずれであっても、対象との接触を断ち続けることを表します。
+
+### よくある誤用
+
+⚠️ \`I'm trying to keep off the news these days.\`（不自然・意味が変わる）。ニュースを追い続けるのは keep up **with**。keep off だと「ニュースを避ける」という逆の意味になります。
+
+⚠️ \`Please keep up with the grass.\`（誤・意味不明瞭）。芝生に近づかないよう求める掲示は keep **off**。keep up with は「近づかない」の意味を持ちません。
+
+🎯 覚え方：**up with＝同じ高さで並走し続ける（遅れずについていく）**、**off＝接触せず距離を保つ（避ける・近づけない）**。`,
+    keyPoints: [
+      'keep up with＝〜に遅れずについていく（stay level with）。積極的な追随',
+      'keep off＝〜を避ける・近づけない（avoid/stay away from）。接触の回避',
+      'keep up with と keep off は対象との関わり方が正反対（追随か回避か）',
+      'up with＝同じ高さで並走する、off＝接触せず距離を保つ、という前置詞イメージの違い',
+    ],
+    quiz: [
+      {
+        id: 'q-keepup-1',
+        question: '空所に入る適切な語はどれですか。「It’s exhausting trying to ( ) all the changes in this industry.」',
+        options: ['keep off', 'keep up with', 'keep on', 'keep to'],
+        correctAnswer: 1,
+        explanation: '変化に遅れずついていくのは keep up with。',
+      },
+      {
+        id: 'q-keepup-2',
+        question: '空所に入る適切な語はどれですか。「The doctor advised him to ( ) salty food for a while.」',
+        options: ['keep up with', 'keep off', 'keep on', 'keep to'],
+        correctAnswer: 1,
+        explanation: '食べ物を控えるのは keep off。',
+      },
+      {
+        id: 'q-keepup-3',
+        question: '空所に入る適切な語はどれですか。「A sign in the park read: "( ) the flower beds."」',
+        options: ['Keep up with', 'Keep off', 'Keep on', 'Keep to'],
+        correctAnswer: 1,
+        explanation: '近づかないよう求める掲示は keep off。',
+      },
+      {
+        id: 'q-keepup-4',
+        question: 'keep up with の言い換えとして最も適切なものはどれですか。',
+        options: ['stay level with', 'avoid', 'stay away from', 'continue'],
+        correctAnswer: 0,
+        explanation: 'keep up with は「遅れずについていく」という意味です。',
+      },
+      {
+        id: 'q-keepup-5',
+        question: 'keep up with と keep off の関係として正しいものはどれですか。',
+        options: [
+          '追随と回避で、対象への関わり方が正反対',
+          '意味がほぼ同じ',
+          '両方とも「避ける」を意味する',
+          'keep off の方が積極的な追随を表す',
+        ],
+        correctAnswer: 0,
+        explanation: 'keep up with は積極的な追随、keep off は接触の回避という正反対の意味です。',
+      },
+    ],
+  },
+  {
+    id: 'keep-on-keep-to',
+    title: 'keep on と keep to',
+    chapter: 5,
+    hubId: 'keep',
+    description: 'keep on は「続ける」、keep to は「（道・話題・約束）から外れない」。単純な継続か、決められた枠を守り続けるかの違いです。',
+    content: `## 単純に続けるか、枠を守り続けるか
+
+keep on と keep to はどちらも「継続」に関わりますが、on の「そのまま前へ」というイメージと to の「決められた対象の枠内に留まる」というイメージで、継続の性質が異なります。
+
+| 熟語 | 中心の意味 | 典型的な使われ方 |
+| --- | --- | --- |
+| keep **on** | 続ける（同じ動作を繰り返す・持続する） | keep on trying, keep on doing |
+| keep **to** | （道・話題・約束・予定）から外れない | keep to the path, the point, the schedule |
+
+### keep on の使い分け
+
+keep on は「（doing の形を伴って）ある動作を繰り返す、または持続する」という意味で、"Keep on trying and you'll eventually succeed." のように使われます。イギリス英語の口語では「（人に）くどくどと言い続ける」（keep on at someone about something）という意味もあります。
+
+### keep to の使い分け
+
+keep to は「決められた枠（道・話題・予定・約束）から外れずにそこに留まる」という意味です。"Please keep to the marked path." のように物理的な経路にも、"Let's keep to the topic at hand." のように話の内容にも、"She always keeps to her promises." のように約束の遵守にも使われます。
+
+### 使い分けの手がかり
+
+**keep on は continue／go on doing に置換**でき、「同じ動作を止めずに続ける」という単純な継続です。**keep to は stick to／not deviate from に置換**でき、「決められた枠から逸脱しない」という規律的な継続です。「動作を続ける」話か「枠を守る」話かで区別します。
+
+### なぜ直訳で読み解けないか
+
+on は「同じ状態のまま前へ持ち続ける」イメージなので、keep on は動作をただ止めずに継続することを表します。to は「対象との結びつきを保ち続ける」イメージなので、keep to は道・話題・約束という特定の枠組みとのつながりを保ち、そこから外れないことを表します。
+
+### よくある誤用
+
+⚠️ \`Please keep on the main topic during the discussion.\`（誤）。話題から逸れないよう求めるのは keep **to**。keep on はただの継続で、「枠を守る」意味を持ちません。
+
+⚠️ \`He kept to complaining about the weather all day.\`（誤）。文句を言い続けたのは keep **on**（complaining）。keep to は動作の反復には使いません。
+
+🎯 覚え方：**on＝そのまま前へ持続する（続ける）**、**to＝決められた枠とのつながりを保つ（外れない・守る）**。`,
+    keyPoints: [
+      'keep on＝続ける（continue/go on doing）。同じ動作の単純な継続',
+      'keep to＝（道・話題・約束・予定）から外れない（stick to/not deviate from）',
+      'keep on は動作の継続、keep to は決められた枠の遵守という違いがある',
+      'on＝そのまま前へ持続する、to＝枠とのつながりを保つ、という前置詞イメージの違い',
+    ],
+    quiz: [
+      {
+        id: 'q-keepon-1',
+        question: '空所に入る適切な語はどれですか。「Even after several failures, she ( ) trying.」',
+        options: ['kept to', 'kept off', 'kept on', 'kept up with'],
+        correctAnswer: 2,
+        explanation: '動作を続けたのは keep on。',
+      },
+      {
+        id: 'q-keepon-2',
+        question: '空所に入る適切な語はどれですか。「During the meeting, please ( ) the agenda items only.」',
+        options: ['keep on', 'keep to', 'keep off', 'keep up with'],
+        correctAnswer: 1,
+        explanation: '話題から外れないよう求めるのは keep to。',
+      },
+      {
+        id: 'q-keepon-3',
+        question: '空所に入る適切な語はどれですか。「Hikers are advised to ( ) the marked trail at all times.」',
+        options: ['keep on', 'keep off', 'keep to', 'keep up with'],
+        correctAnswer: 2,
+        explanation: '決められた道から外れないよう求めるのも keep to。',
+      },
+      {
+        id: 'q-keepon-4',
+        question: 'keep on の言い換えとして最も適切なものはどれですか。',
+        options: ['continue', 'stick to', 'avoid', 'not deviate from'],
+        correctAnswer: 0,
+        explanation: 'keep on は「続ける」（continue）という意味です。',
+      },
+      {
+        id: 'q-keepon-5',
+        question: 'keep on と keep to の違いとして正しいものはどれですか。',
+        options: [
+          'on＝動作の単純な継続、to＝決められた枠の遵守',
+          '両者に意味の違いはない',
+          'on＝枠を守る、to＝動作を続ける',
+          'keep to は doing の形を伴う',
+        ],
+        correctAnswer: 0,
+        explanation: 'keep on は継続、keep to は枠からの逸脱を防ぐという違いがあります。',
+      },
+    ],
+  },
 ];
