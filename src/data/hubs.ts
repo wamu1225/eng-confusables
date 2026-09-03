@@ -25,7 +25,7 @@ export const hubs: HubEntry[] = [
   {
     id: 'take',
     verb: 'take',
-    title: 'take を使った紛らわしい熟語・句動詞',
+    title: 'take は前置詞でどう意味が変わる？',
     description: 'take の中心イメージ「手を伸ばして自分の側に取り込む」が、続く前置詞・副詞でどう枝分かれするかをまとめたハブページ。',
     content: `## take の中心イメージ
 
@@ -45,7 +45,7 @@ take after は「後ろについて回るほど似る」というイメージで
   {
     id: 'bring',
     verb: 'bring',
-    title: 'bring を使った紛らわしい熟語・句動詞',
+    title: 'bring は前置詞でどう意味が変わる？',
     description: 'bring の中心イメージ「（対象を自分や話題の場に）持ってくる」が、続く前置詞・副詞でどう枝分かれするかをまとめたハブページ。',
     content: `## bring の中心イメージ
 
@@ -64,7 +64,7 @@ bring about は「周囲の現実世界に、今まで無かった事象を発�
   {
     id: 'call',
     verb: 'call',
-    title: 'call を使った紛らわしい熟語・句動詞',
+    title: 'call は前置詞でどう意味が変わる？',
     description: 'call の中心イメージ「声を出して呼ぶ」が、続く前置詞・副詞でどう枝分かれするかをまとめたハブページ。',
     content: `## call の中心イメージ
 
@@ -83,7 +83,7 @@ call for は「状況が～を求めている」という無生物主語でよ�
   {
     id: 'put',
     verb: 'put',
-    title: 'put を使った紛らわしい熟語・句動詞',
+    title: 'put は前置詞でどう意味が変わる？',
     description: 'put の中心イメージ「ある場所に置く」が、続く前置詞・副詞でどう枝分かれするかをまとめたハブページ。',
     content: `## put の中心イメージ
 
@@ -102,7 +102,7 @@ put off は「今の時点から期日を遠ざけて置く」イメージで延
   {
     id: 'get',
     verb: 'get',
-    title: 'get を使った紛らわしい熟語・句動詞',
+    title: 'get は前置詞でどう意味が変わる？',
     description: 'get の中心イメージ「（努力して）手に入れる・ある状態に至る」が、続く前置詞・副詞でどう枝分かれするかをまとめたハブページ。',
     content: `## get の中心イメージ
 
@@ -121,7 +121,7 @@ get over は山を「越える」イメージで、病気や失恋のような�
   {
     id: 'run',
     verb: 'run',
-    title: 'run を使った紛らわしい熟語・句動詞',
+    title: 'run は前置詞でどう意味が変わる？',
     description: 'run の中心イメージ「走る・流れるように進む」が、続く前置詞・副詞でどう枝分かれするかをまとめたハブページ。',
     content: `## run の中心イメージ
 
@@ -140,7 +140,7 @@ run into は「走っていて何かにぶつかる」イメージから、人�
   {
     id: 'turn',
     verb: 'turn',
-    title: 'turn を使った紛らわしい熟語・句動詞',
+    title: 'turn は前置詞でどう意味が変わる？',
     description: 'turn の中心イメージ「向きを変える」が、続く前置詞・副詞でどう枝分かれするかをまとめたハブページ。',
     content: `## turn の中心イメージ
 
@@ -159,7 +159,7 @@ turn out は「隠れていたものが向きを変えて外に現れる」イ�
   {
     id: 'hold',
     verb: 'hold',
-    title: 'hold を使った紛らわしい熟語・句動詞',
+    title: 'hold は前置詞でどう意味が変わる？',
     description: 'hold の中心イメージ「しっかりつかんで保つ」が、続く前置詞・副詞でどう枝分かれするかをまとめたハブページ。',
     content: `## hold の中心イメージ
 
@@ -178,7 +178,7 @@ hold off は「相手を自分から距離を置いた場所に留め置く」�
   {
     id: 'set',
     verb: 'set',
-    title: 'set を使った紛らわしい熟語・句動詞',
+    title: 'set は前置詞でどう意味が変わる？',
     description: 'set の中心イメージ「ある位置・状態に据える」が、続く前置詞・副詞でどう枝分かれするかをまとめたハブページ。',
     content: `## set の中心イメージ
 
@@ -197,7 +197,7 @@ set out と set off はどちらも「出発する」の意味を持ちますが
   {
     id: 'make',
     verb: 'make',
-    title: 'make を使った紛らわしい熟語・句動詞',
+    title: 'make は前置詞でどう意味が変わる？',
     description: 'make の中心イメージ「作り出す」が、続く前置詞・副詞でどう枝分かれするかをまとめたハブページ。',
     content: `## make の中心イメージ
 
@@ -216,7 +216,7 @@ make up for は「不足していた分を新たに作り出して埋め合わ�
   {
     id: 'pass',
     verb: 'pass',
-    title: 'pass を使った紛らわしい熟語・句動詞',
+    title: 'pass は前置詞でどう意味が変わる？',
     description: 'pass の中心イメージ「通り過ぎる」が、続く前置詞・副詞でどう枝分かれするかをまとめたハブページ。',
     content: `## pass の中心イメージ
 
@@ -235,7 +235,7 @@ pass for は自分自身が評価として「通用する」ことを表す自�
   {
     id: 'stand',
     verb: 'stand',
-    title: 'stand を使った紛らわしい熟語・句動詞',
+    title: 'stand は前置詞でどう意味が変わる？',
     description: 'stand の中心イメージ「立つ」が、続く前置詞・副詞でどう枝分かれするかをまとめたハブページ。',
     content: `## stand の中心イメージ
 
@@ -254,7 +254,7 @@ stand for は「何かの代わりに、その象徴として立つ」イメー�
   {
     id: 'carry',
     verb: 'carry',
-    title: 'carry を使った紛らわしい熟語・句動詞',
+    title: 'carry は前置詞でどう意味が変わる？',
     description: 'carry の中心イメージ「持ち運ぶ・支え続ける」が、続く前置詞・副詞でどう枝分かれするかをまとめたハブページ。',
     content: `## carry の中心イメージ
 
@@ -273,7 +273,7 @@ carry out は「頭の中の計画を外部の現実として実行する」イ�
   {
     id: 'look',
     verb: 'look',
-    title: 'look を使った紛らわしい熟語・句動詞',
+    title: 'look は前置詞でどう意味が変わる？',
     description: 'look の中心イメージ「視線を向ける」が、続く前置詞・副詞でどう枝分かれするかをまとめたハブページ。',
     content: `## look の中心イメージ
 
@@ -292,7 +292,7 @@ look into は「物事の内部に視線を入れて実態を調べる」イメ�
   {
     id: 'break',
     verb: 'break',
-    title: 'break を使った紛らわしい熟語・句動詞',
+    title: 'break は前置詞でどう意味が変わる？',
     description: 'break の中心イメージ「壊れる・断ち切る」が、続く前置詞・副詞でどう枝分かれするかをまとめたハブページ。',
     content: `## break の中心イメージ
 
@@ -311,7 +311,7 @@ break down は「構造そのものが崩れ落ちる」イメージで、機械
   {
     id: 'come',
     verb: 'come',
-    title: 'come を使った紛らわしい熟語・句動詞',
+    title: 'come は前置詞でどう意味が変わる？',
     description: 'come の中心イメージ「（自分の方へ）来る・生じる」が、続く前置詞・副詞でどう枝分かれするかをまとめたハブページ。',
     content: `## come の中心イメージ
 
@@ -330,7 +330,7 @@ come across は「向こう側から偶然視界に入ってくる」イメー�
   {
     id: 'go',
     verb: 'go',
-    title: 'go を使った紛らわしい熟語・句動詞',
+    title: 'go は前置詞でどう意味が変わる？',
     description: 'go の中心イメージ「（話し手から離れて）進む」が、続く前置詞・副詞でどう枝分かれするかをまとめたハブページ。',
     content: `## go の中心イメージ
 
@@ -349,7 +349,7 @@ go over は「対象の表面を一通りなぞって見渡す」イメージで
   {
     id: 'keep',
     verb: 'keep',
-    title: 'keep を使った紛らわしい熟語・句動詞',
+    title: 'keep は前置詞でどう意味が変わる？',
     description: 'keep の中心イメージ「（ある状態を）保ち続ける」が、続く前置詞・副詞でどう枝分かれするかをまとめたハブページ。',
     content: `## keep の中心イメージ
 

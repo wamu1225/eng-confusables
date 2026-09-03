@@ -327,7 +327,7 @@ function HubPage({ id, navigate }: { id: string; navigate: (r: Route) => void })
         <span>{chapterNames[5]}</span>
       </nav>
       <header className="pair-header">
-        <p className="pair-cat-label">{chapterNames[5]}・動詞ハブ</p>
+        <p className="pair-cat-label">動詞ハブ</p>
         <h1>{hub.title}</h1>
         <p className="pair-lead">{hub.description}</p>
       </header>
