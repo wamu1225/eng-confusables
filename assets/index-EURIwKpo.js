@@ -7190,7 +7190,193 @@ on は「同じ状態のまま前へ持ち続ける」イメージなので、ke
 
 ⚠️ \`He kept to complaining about the weather all day.\`（誤）。文句を言い続けたのは keep **on**（complaining）。keep to は動作の反復には使いません。
 
-🎯 覚え方：**on＝そのまま前へ持続する（続ける）**、**to＝決められた枠とのつながりを保つ（外れない・守る）**。`,keyPoints:[`keep on＝続ける（continue/go on doing）。同じ動作の単純な継続`,`keep to＝（道・話題・約束・予定）から外れない（stick to/not deviate from）`,`keep on は動作の継続、keep to は決められた枠の遵守という違いがある`,`on＝そのまま前へ持続する、to＝枠とのつながりを保つ、という前置詞イメージの違い`],quiz:[{id:`q-keepon-1`,question:`空所に入る適切な語はどれですか。「Even after several failures, she ( ) trying.」`,options:[`kept to`,`kept off`,`kept on`,`kept up with`],correctAnswer:2,explanation:`動作を続けたのは keep on。`},{id:`q-keepon-2`,question:`空所に入る適切な語はどれですか。「During the meeting, please ( ) the agenda items only.」`,options:[`keep on`,`keep to`,`keep off`,`keep up with`],correctAnswer:1,explanation:`話題から外れないよう求めるのは keep to。`},{id:`q-keepon-3`,question:`空所に入る適切な語はどれですか。「Hikers are advised to ( ) the marked trail at all times.」`,options:[`keep on`,`keep off`,`keep to`,`keep up with`],correctAnswer:2,explanation:`決められた道から外れないよう求めるのも keep to。`},{id:`q-keepon-4`,question:`keep on の言い換えとして最も適切なものはどれですか。`,options:[`continue`,`stick to`,`avoid`,`not deviate from`],correctAnswer:0,explanation:`keep on は「続ける」（continue）という意味です。`},{id:`q-keepon-5`,question:`keep on と keep to の違いとして正しいものはどれですか。`,options:[`on＝動作の単純な継続、to＝決められた枠の遵守`,`両者に意味の違いはない`,`on＝枠を守る、to＝動作を続ける`,`keep to は doing の形を伴う`],correctAnswer:0,explanation:`keep on は継続、keep to は枠からの逸脱を防ぐという違いがあります。`}]}],c={1:`スペルが似ている語`,2:`意味が近く使い分けが難しい語`,3:`品詞・派生でまぎらわしい語`,4:`発音が似ている語`,5:`熟語・句動詞でまぎらわしいもの`},l={audience:`大学受験・TOEIC・英検の学習者、英語を学び直す社会人`,approach:`一対一の和訳暗記ではなく、意味の核と使い分けを比較表とミニ問題で身につける`},u=[{id:`take`,verb:`take`,title:`take は前置詞でどう意味が変わる？`,description:`take の中心イメージ「手を伸ばして自分の側に取り込む」が、続く前置詞・副詞でどう枝分かれするかをまとめたハブページ。`,content:`## take の中心イメージ
+🎯 覚え方：**on＝そのまま前へ持続する（続ける）**、**to＝決められた枠とのつながりを保つ（外れない・守る）**。`,keyPoints:[`keep on＝続ける（continue/go on doing）。同じ動作の単純な継続`,`keep to＝（道・話題・約束・予定）から外れない（stick to/not deviate from）`,`keep on は動作の継続、keep to は決められた枠の遵守という違いがある`,`on＝そのまま前へ持続する、to＝枠とのつながりを保つ、という前置詞イメージの違い`],quiz:[{id:`q-keepon-1`,question:`空所に入る適切な語はどれですか。「Even after several failures, she ( ) trying.」`,options:[`kept to`,`kept off`,`kept on`,`kept up with`],correctAnswer:2,explanation:`動作を続けたのは keep on。`},{id:`q-keepon-2`,question:`空所に入る適切な語はどれですか。「During the meeting, please ( ) the agenda items only.」`,options:[`keep on`,`keep to`,`keep off`,`keep up with`],correctAnswer:1,explanation:`話題から外れないよう求めるのは keep to。`},{id:`q-keepon-3`,question:`空所に入る適切な語はどれですか。「Hikers are advised to ( ) the marked trail at all times.」`,options:[`keep on`,`keep off`,`keep to`,`keep up with`],correctAnswer:2,explanation:`決められた道から外れないよう求めるのも keep to。`},{id:`q-keepon-4`,question:`keep on の言い換えとして最も適切なものはどれですか。`,options:[`continue`,`stick to`,`avoid`,`not deviate from`],correctAnswer:0,explanation:`keep on は「続ける」（continue）という意味です。`},{id:`q-keepon-5`,question:`keep on と keep to の違いとして正しいものはどれですか。`,options:[`on＝動作の単純な継続、to＝決められた枠の遵守`,`両者に意味の違いはない`,`on＝枠を守る、to＝動作を続ける`,`keep to は doing の形を伴う`],correctAnswer:0,explanation:`keep on は継続、keep to は枠からの逸脱を防ぐという違いがあります。`}]},{id:`draw-on-draw-up`,title:`draw on と draw up`,chapter:5,hubId:`draw`,description:`draw on は「（知識・経験・資金）を利用する」、draw up は「（契約書等）を作成する・停車する」。資質を引き出すか、組み上げて完成させるかの違いです。`,content:`## 資質を引き出すか、組み上げるか
+
+draw on と draw up はどちらも「引く」の比喩ですが、on の「対象に乗って引き出す」イメージと up の「引っ張り上げて組み上げる」イメージで、対象と結果がまったく異なります。
+
+| 熟語 | 中心の意味 | 典型的な目的語 |
+| --- | --- | --- |
+| draw **on**（upon） | （知識・経験・資金）を利用する・頼る | expertise, experience, savings |
+| draw **up** | （契約書等）を作成する／（車が）停車する | a contract, a plan, an agreement |
+
+### draw on の使い分け
+
+draw on（文語では draw upon）は「蓄積された資質や資源を活用する」という意味で、"To formulate an effective strategy, policymakers must draw on extensive historical precedent." のように使われます。作家が自身の経験を作品に反映させる場合（draw on her childhood memories）にも頻出します。
+
+### draw up の使い分け
+
+draw up は「（契約書・計画などの文書を）作成する」という意味で、"The legal advisors were instructed to draw up a binding contract." のように使われます。また、文字どおり「（車両が）近づいて停車する」（A limousine drew up in front of the building）という意味もあります。
+
+### 使い分けの手がかり
+
+**draw on は use／make use of／tap into に置換**でき、目的語は知識・経験・資金などの「蓄積された資質」です。**draw up は draft／formulate に置換**でき、目的語は契約書・計画などの「これから作る文書」です。「既にあるものを活用する」話か「新しく作成する」話かで区別します。
+
+### なぜ直訳で読み解けないか
+
+on は「基盤との接触・依存」を表すイメージなので、draw on は蓄積された資質の上に手を伸ばして力を引き出すことを表します。up は「構成要素を垂直に組み上げる」イメージなので、draw up は散在する条項を組み上げて1つの文書に仕上げること、あるいは車両が一点に向かって集約するように停止することを表します。
+
+### よくある誤用
+
+⚠️ \`The committee drew up on years of research to reach its conclusion.\`（誤・不要な up）。研究の蓄積を活用したのは draw **on**。draw up は「作成する」の意味なので、活用の文脈には使いません。
+
+⚠️ \`The lawyer drew on a new contract yesterday.\`（誤）。契約書を作成したのは draw **up**。draw on に「作成する」の意味はありません。
+
+🎯 覚え方：**on＝基盤の上に手を伸ばして引き出す（利用する）**、**up＝部品を組み上げて完成させる（作成する・停車する）**。`,keyPoints:[`draw on（upon）＝（知識・経験・資金）を利用する・頼る（use/tap into）`,`draw up＝（契約書・計画等）を作成する／（車が）停車する（draft）`,`draw on の目的語は蓄積された資質、draw up の目的語はこれから作る文書`,`on＝基盤の上に引き出す、up＝組み上げて完成させる、という前置詞イメージの違い`],quiz:[{id:`q-drawon-1`,question:`空所に入る適切な語はどれですか。「The novelist tends to ( ) her own family history for inspiration.」`,options:[`draw up`,`draw on`,`draw back`,`draw out`],correctAnswer:1,explanation:`経験を活用するのは draw on。`},{id:`q-drawon-2`,question:`空所に入る適切な語はどれですか。「The lawyers were asked to ( ) a formal agreement by Friday.」`,options:[`draw on`,`draw up`,`draw back`,`draw out`],correctAnswer:1,explanation:`契約書を作成するのは draw up。`},{id:`q-drawon-3`,question:`空所に入る適切な語はどれですか。「A black car slowly ( ) outside the embassy.」`,options:[`drew on`,`drew back`,`drew up`,`drew out`],correctAnswer:2,explanation:`車が停車するのも draw up。`},{id:`q-drawon-4`,question:`draw on の言い換えとして最も適切なものはどれですか。`,options:[`draft`,`make use of`,`hesitate`,`prolong`],correctAnswer:1,explanation:`draw on は make use of（活用する）に置換できます。`},{id:`q-drawon-5`,question:`draw on と draw up の目的語の違いとして正しいものはどれですか。`,options:[`on＝蓄積された資質、up＝これから作る文書`,`両者とも文書のみを目的語にとる`,`on＝文書、up＝資質`,`目的語の違いはない`],correctAnswer:0,explanation:`draw on は資質・資源、draw up は文書を目的語にとります。`}]},{id:`draw-back-draw-out`,title:`draw back と draw out`,chapter:5,hubId:`draw`,description:`draw back は「後ずさりする・ためらう」、draw out は「長引かせる・人の本音を引き出す」。後方へ引くか、外へ引き伸ばすかの違いです。`,content:`## 後方へ引くか、外へ引き伸ばすか
+
+draw back と draw out はどちらも身体的・比喩的な「引く」動作ですが、back の「後方へ引く」イメージと out の「外へ引き伸ばす」イメージで方向が正反対です。
+
+| 熟語 | 中心の意味 | 典型的な使われ方 |
+| --- | --- | --- |
+| draw **back** | 後ずさりする／ためらって手を引く | draw back in fear／draw back from a decision |
+| draw **out** | 長引かせる／人の本音・才能を引き出す | draw out a meeting／draw a person out |
+
+### draw back の使い分け
+
+draw back は「驚き・恐れ・嫌悪から体を後ろに引く」という意味で、"She drew back in horror at the sight." のように使われます。比喩的には「予定していた行動を、不安から取りやめる」（We drew back from taking legal action）という意味にも広がります。
+
+### draw out の使い分け
+
+draw out の1つ目の意味は「（会議・話などを）必要以上に長引かせる」（The director drew the meeting out for another hour）。2つ目は「（内気な人の）本音や才能を、働きかけて引き出す」（A good interviewer draws people out）という意味です。また「（日が）長くなる」（The evenings are drawing out）という季節表現にも使われます。
+
+### 使い分けの手がかり
+
+**draw back は retreat／hesitate に置換**でき、「自分の身や行動を後方へ引く」という自己防衛的な動作です。**draw out は prolong／encourage someone to talk に置換**でき、「対象（時間・人の内面）を外へ引き伸ばす」という動作です。「後ろに引く」話か「外へ引き出す」話かで区別します。
+
+### なぜ直訳で読み解けないか
+
+back は「後方へ引き戻す」イメージなので、draw back は驚きや恐れによって体や決断を後ろへ引く動作を表します。out は「内側にあるものを外へ引き伸ばす」イメージなので、draw out は時間を引き伸ばして長引かせること、または人の内側に隠れた本音を外へ引っ張り出すことを表します。
+
+### よくある誤用
+
+⚠️ \`The interviewer drew back the shy candidate's true opinions.\`（誤）。本音を引き出したのは draw **out**。draw back には「引き出す」の意味はありません。
+
+⚠️ \`She drew out in disgust when she saw the insect.\`（誤）。後ずさりしたのは draw **back**。draw out は後退の意味を持ちません。
+
+🎯 覚え方：**back＝後方へ引き戻す（後ずさりする・ためらう）**、**out＝外へ引き伸ばす（長引かせる・引き出す）**。`,keyPoints:[`draw back＝後ずさりする／ためらって手を引く（retreat/hesitate）`,`draw out＝長引かせる／人の本音・才能を引き出す（prolong/encourage to talk）`,`draw back は後方への自己防衛的な動き、draw out は対象を外へ引き伸ばす動き`,`back＝後方へ引く、out＝外へ引き伸ばす、という前置詞イメージの違い`],quiz:[{id:`q-drawback-1`,question:`空所に入る適切な語はどれですか。「She ( ) in alarm when the dog suddenly barked at her.」`,options:[`drew out`,`drew back`,`drew up`,`drew on`],correctAnswer:1,explanation:`驚いて後ずさりしたのは draw back。`},{id:`q-drawback-2`,question:`空所に入る適切な語はどれですか。「The negotiations were deliberately ( ) to pressure the other side.」`,options:[`drawn back`,`drawn on`,`drawn out`,`drawn up`],correctAnswer:2,explanation:`交渉をわざと長引かせたのは draw out。`},{id:`q-drawback-3`,question:`空所に入る適切な語はどれですか。「A skilled counselor knows how to ( ) a reluctant client.」`,options:[`draw back`,`draw up`,`draw out`,`draw on`],correctAnswer:2,explanation:`本音を引き出すのも draw out。`},{id:`q-drawback-4`,question:`draw back の言い換えとして最も適切なものはどれですか。`,options:[`prolong`,`retreat`,`draft`,`make use of`],correctAnswer:1,explanation:`draw back は「後退する」（retreat）という意味です。`},{id:`q-drawback-5`,question:`draw back と draw out の違いとして正しいものはどれですか。`,options:[`back＝後方へ引く、out＝外へ引き伸ばす`,`両者に意味の違いはない`,`back＝長引かせる、out＝後ずさりする`,`両方とも同じ方向の動きを表す`],correctAnswer:0,explanation:`draw back は後退、draw out は引き伸ばし・引き出しを表します。`}]},{id:`give-in-give-way-to`,title:`give in と give way to`,chapter:5,hubId:`give`,description:`give in は「屈する・要求を受け入れる」、give way to は「〜に道を譲る・取って代わられる」。抵抗をやめるか、場所や立場を明け渡すかの違いです。`,content:`## 抵抗をやめるか、場所を明け渡すか
+
+give in と give way to はどちらも「屈する」という意味で重なりますが、in の「内側へ入り込む」イメージと way to の「道を譲る」イメージで、ニュアンスが微妙に異なります。
+
+| 熟語 | 中心の意味 | 典型的な使われ方 |
+| --- | --- | --- |
+| give **in** | 屈する・（要求等を）受け入れる | give in to pressure, temptation |
+| give **way** to | 〜に道を譲る／〜に取って代わられる | give way to traffic, emotion, a newer model |
+
+### give in の使い分け
+
+give in は「抵抗をやめて相手の要求や誘惑を受け入れる」という意味で、"After hours of arguing, he finally gave in to her demands." のように使われます。単に "give in"（降参する）という自動詞的な使い方もあります。
+
+### give way to の使い分け
+
+give way to には複数の意味があります。1つは文字どおり「（車や歩行者に）道を譲る」（Give way to pedestrians at the crossing）。2つ目は「（感情や欲求に）負けて自制を失う」（She gave way to tears）。3つ目は「（古いものが新しいものに）取って代わられる」（Stone buildings gave way to glass and concrete towers）という意味です。
+
+### 使い分けの手がかり
+
+**give in は surrender／yield（要求への服従）に置換**でき、主に人と人との対立の場面で使われます。**give way to は yield the right of way／be replaced by に置換**でき、交通・感情・世代交代など**より幅広い対象**に使われます。give way to の方が意味の幅が広い点に注意します。
+
+### なぜ直訳で読み解けないか
+
+in は「抵抗の外殻を破って内側へ入り込む」イメージなので、give in は防御していた立場を崩して要求を受け入れることを表します。way to は「自分の通り道を相手に譲り渡す」イメージなので、give way to は交通の場での道の譲渡から、感情に道を譲る（自制を失う）、時代に道を譲る（取って代わられる）まで幅広く使われます。
+
+### よくある誤用
+
+⚠️ \`Stone buildings gave in to glass towers over the century.\`（不自然）。世代交代を表すなら give way **to**。give in は人の意思的な服従に使われ、無生物の交代にはあまり使いません。
+
+⚠️ \`He gave way to her demands after a long argument.\`（成立するが微妙にずれる）。要求への服従を強調するなら give **in** to がより直接的です。give way to は「道を譲る」の含意が残ります。
+
+🎯 覚え方：**in＝抵抗を崩して内側へ入り込む（要求に屈する）**、**way to＝自分の通り道を譲る（道を譲る・取って代わられる）**。`,keyPoints:[`give in＝屈する・（要求等を）受け入れる（surrender/yield）。主に人との対立で使う`,`give way to＝〜に道を譲る／感情に負ける／〜に取って代わられる（yield the right of way/be replaced by）`,`give way to の方が give in より幅広い対象（交通・感情・世代交代）に使える`,`in＝内側へ入り込む、way to＝通り道を譲る、という前置詞イメージの違い`],quiz:[{id:`q-givein-1`,question:`空所に入る適切な語はどれですか。「After weeks of pressure, the company finally ( ) to the union’s demands.」`,options:[`gave way`,`gave in`,`gave up`,`gave away`],correctAnswer:1,explanation:`要求に屈したのは give in。`},{id:`q-givein-2`,question:`空所に入る適切な語はどれですか。「Please ( ) oncoming traffic before turning left.」`,options:[`give in to`,`give way to`,`give up`,`give away`],correctAnswer:1,explanation:`道を譲るのは give way to。`},{id:`q-givein-3`,question:`空所に入る適切な語はどれですか。「Over the decades, the old factories ( ) modern office buildings.」`,options:[`gave in to`,`gave way to`,`gave up`,`gave away`],correctAnswer:1,explanation:`取って代わられたのも give way to。`},{id:`q-givein-4`,question:`give in の言い換えとして最も適切なものはどれですか。`,options:[`surrender`,`yield the right of way`,`donate`,`reveal`],correctAnswer:0,explanation:`give in は surrender（屈する）という意味です。`},{id:`q-givein-5`,question:`give in と give way to の違いとして正しいものはどれですか。`,options:[`give way to の方が対象の幅が広い（交通・感情・世代交代）`,`両者に意味の違いはない`,`give in の方が対象の幅が広い`,`give way to は人にしか使えない`],correctAnswer:0,explanation:`give way to は give in より幅広い文脈で使われます。`}]},{id:`give-up-give-away`,title:`give up と give away`,chapter:5,hubId:`give`,description:`give up は「あきらめる・やめる」、give away は「無料で譲る・（秘密を）漏らす」。手放してやめるか、他人に渡してしまうかの違いです。`,content:`## あきらめて手放すか、他人に渡すか
+
+give up と give away はどちらも「手放す」に関わりますが、up の「すべて差し出す」イメージと away の「自分から離れた所へ渡す」イメージで、意味の方向が異なります。
+
+| 熟語 | 中心の意味 | 典型的な目的語 |
+| --- | --- | --- |
+| give **up** | あきらめる・やめる | smoking, a habit, a dream, a seat |
+| give **away** | 無料で譲る・配る／（秘密を）漏らす | free samples, a secret, one's identity |
+
+### give up の使い分け
+
+give up は「（努力・習慣・希望などを）やめる、あきらめる」という意味で、"He finally gave up smoking after years of trying." のように使われます。「（座席・権利などを）人に譲る」（give up your seat to an elderly passenger）という意味もあります。
+
+### give away の使い分け
+
+give away の1つ目の意味は「（物を）無料で人に与える」（The store is giving away free samples）。2つ目は「（秘密・情報を、意図的または不注意に）漏らす」（Don't give away the ending of the movie）。3つ目は結婚式で「（花嫁を）新郎に引き渡す」という意味もあります。
+
+### 使い分けの手がかり
+
+**give up は stop trying／abandon に置換**でき、対象は習慣・希望・努力など「続けていたこと」です。**give away は give for free／reveal に置換**でき、対象は物・秘密など「他人に渡すもの」です。「やめる」話か「渡す・漏らす」話かで区別します。
+
+### なぜ直訳で読み解けないか
+
+up は「持っていたものをすべて差し出して手放す」イメージなので、give up は努力や習慣を完全に放棄することを表します。away は「自分の手から離れた場所へ渡す」イメージなので、give away は物を無償で他人に渡すことにも、隠していた情報がうっかり外へ出ていくことにも広がります。
+
+### よくある誤用
+
+⚠️ \`He gave away smoking last year.\`（誤）。習慣をやめたのは give **up**。give away に「やめる」の意味はありません。
+
+⚠️ \`Please don't give up the ending of the movie.\`（誤）。結末を明かさないよう求めるのは give **away**。give up は秘密を漏らす意味を持ちません。
+
+🎯 覚え方：**up＝持っていたものを全て差し出す（あきらめる・やめる）**、**away＝自分から離れた場所へ渡す（譲る・漏らす）**。`,keyPoints:[`give up＝あきらめる・やめる（stop trying/abandon）。対象は習慣・希望・努力`,`give away＝無料で譲る・配る／（秘密を）漏らす（give for free/reveal）`,`give up は「やめる」対象、give away は「渡す・漏らす」対象という違い`,`up＝すべて差し出す、away＝自分から離れた所へ渡す、という前置詞イメージの違い`],quiz:[{id:`q-giveup-1`,question:`空所に入る適切な語はどれですか。「After the doctor’s warning, she finally ( ) smoking.」`,options:[`gave away`,`gave up`,`gave way to`,`gave in`],correctAnswer:1,explanation:`習慣をやめたのは give up。`},{id:`q-giveup-2`,question:`空所に入る適切な語はどれですか。「The bakery is ( ) free samples of its new bread today.」`,options:[`giving up`,`giving away`,`giving in`,`giving way to`],correctAnswer:1,explanation:`無料で配っているのは give away。`},{id:`q-giveup-3`,question:`空所に入る適切な語はどれですか。「His nervous laughter ( ) that he was lying.」`,options:[`gave up`,`gave way to`,`gave away`,`gave in`],correctAnswer:2,explanation:`正体・本心を漏らしたのも give away。`},{id:`q-giveup-4`,question:`give up の言い換えとして最も適切なものはどれですか。`,options:[`stop trying`,`give for free`,`reveal`,`yield the right of way`],correctAnswer:0,explanation:`give up は stop trying（あきらめる）という意味です。`},{id:`q-giveup-5`,question:`give up と give away の違いとして正しいものはどれですか。`,options:[`up＝やめる対象、away＝渡す・漏らす対象`,`両者に意味の違いはない`,`up＝渡す、away＝やめる`,`両方とも秘密の話にしか使わない`],correctAnswer:0,explanation:`give up は放棄、give away は譲渡・漏洩を表します。`}]},{id:`work-out-work-on`,title:`work out と work on`,chapter:5,hubId:`work`,description:`work out は「解決する・鍛える・うまくいく」、work on は「〜に取り組む・改善に努める」。答えを導き出すか、対象に働きかけ続けるかの違いです。`,content:`## 答えを導き出すか、働きかけ続けるか
+
+work out と work on はどちらも「取り組む」に関わりますが、out の「計算して答えを外へ導く」イメージと on の「対象に接触し続ける」イメージで、完了の有無が異なります。
+
+| 熟語 | 中心の意味 | 典型的な使われ方 |
+| --- | --- | --- |
+| work **out** | 解決する・計算する／（運動で）鍛える／うまくいく | work out a solution／work out at the gym |
+| work **on** | 〜に取り組む・改善に努める | work on a project, a skill |
+
+### work out の使い分け
+
+work out には複数の意味があります。1つは「（問題・計画を）考えて解決する」（We need to work out a better strategy）。2つ目は「（数式を）計算する」（work out the total cost）。3つ目は「（運動施設で）体を鍛える」（She works out every morning）。4つ目は「（物事が）うまい結果に終わる」（I hope everything works out for you）です。
+
+### work on の使い分け
+
+work on は「（まだ完成していないものに）継続的に取り組み、改善しようとする」という意味で、"He needs to work on his pronunciation." のように使われます。「（人を）説得しようと働きかける」（I'm working on him to change his mind）という意味もあります。
+
+### 使い分けの手がかり
+
+**work out は figure out／resolve／exercise に置換**でき、「答えや結果にたどり着く」という**完了志向**の動作です。**work on は improve／try to persuade に置換**でき、「まだ進行中の取り組み」という**継続志向**の動作です。「答えが出る」話か「取り組み続けている」話かで区別します。
+
+### なぜ直訳で読み解けないか
+
+out は「計算・思考の過程を経て答えを外へ導き出す」イメージなので、work out は問題の解決や、体を鍛えて結果を出すことに広がります。on は「対象に接触し続けて働きかける」イメージなので、work on はまだ完成していないものへの継続的な改善努力を表します。
+
+### よくある誤用
+
+⚠️ \`I've been working out my presentation skills for months.\`（不自然）。継続的に取り組んでいるなら work **on**。work out は「解決・完了」のニュアンスが強く、継続中の改善努力にはやや不自然です。
+
+⚠️ \`We finally worked on a solution to the problem.\`（誤・意味が弱い）。解決策にたどり着いたのは work **out**。work on だと「取り組んでいた」だけで解決したかは不明瞭になります。
+
+🎯 覚え方：**out＝計算して答えを外へ導く（解決する・鍛える・うまくいく）**、**on＝対象に接触し続けて働きかける（取り組む・改善する）**。`,keyPoints:[`work out＝解決する・計算する／（運動で）鍛える／うまくいく（figure out/resolve/exercise）`,`work on＝〜に取り組む・改善に努める（improve/try to persuade）`,`work out は完了志向（答えが出る）、work on は継続志向（取り組み中）`,`out＝答えを外へ導く、on＝対象に接触し続ける、という前置詞イメージの違い`],quiz:[{id:`q-workout-1`,question:`空所に入る適切な語はどれですか。「It took the team weeks to ( ) a viable solution.」`,options:[`work on`,`work out`,`work through`,`work up`],correctAnswer:1,explanation:`解決策にたどり着いたのは work out。`},{id:`q-workout-2`,question:`空所に入る適切な語はどれですか。「She’s been ( ) her Spanish pronunciation for months now.」`,options:[`working out`,`working through`,`working on`,`working up`],correctAnswer:2,explanation:`継続的に取り組んでいるのは work on。`},{id:`q-workout-3`,question:`空所に入る適切な語はどれですか。「I try to ( ) at the gym at least three times a week.」`,options:[`work on`,`work out`,`work through`,`work up`],correctAnswer:1,explanation:`運動で鍛えるのも work out。`},{id:`q-workout-4`,question:`work out の言い換えとして最も適切なものはどれですか。`,options:[`improve`,`figure out`,`persuade`,`prolong`],correctAnswer:1,explanation:`work out は figure out（解決する）という意味です。`},{id:`q-workout-5`,question:`work out と work on の違いとして正しいものはどれですか。`,options:[`out＝完了志向（答えが出る）、on＝継続志向（取り組み中）`,`両者に意味の違いはない`,`out の方が継続的な取り組みを表す`,`on の方が完了を表す`],correctAnswer:0,explanation:`work out は結果への到達、work on は継続的な取り組みを表します。`}]},{id:`work-through-work-up`,title:`work through と work up`,chapter:5,hubId:`work`,description:`work through は「（問題・感情）を段階的に処理する」、work up は「（食欲・計画等を）作り上げる・興奮させる」。障害を通り抜けるか、労力を積み上げるかの違いです。`,content:`## 障害を通り抜けるか、積み上げるか
+
+work through と work up はどちらも work の比喩用法ですが、through の「障害を貫通する」イメージと up の「労力を積み上げる」イメージで、対象への向き合い方が異なります。
+
+| 熟語 | 中心の意味 | 典型的な目的語 |
+| --- | --- | --- |
+| work **through** | （問題・感情）を段階的に処理する | a complex issue, grief |
+| work **up** | （食欲・計画等を）作り上げる／興奮させる | an appetite, a business plan |
+
+### work through の使い分け
+
+work through は「複雑な問題や辛い感情を、順を追って1つずつ処理していく」という意味で、"It's a complex situation, but we'll work through it together." のように使われます。悲しみのような感情面にも、"It can take years to work through grief." のように使われます。
+
+### work up の使い分け
+
+work up には複数の意味があります。1つは「（努力の末に）何かを作り上げる」（She worked up a detailed business plan）。2つ目は「（食欲などを）徐々に高める」（A long walk works up an appetite）。3つ目は「（人を）興奮・怒りの状態にまで高める」（Don't work yourself up into a panic）。4つ目に「work up to」で「徐々に〜まで到達する」という意味もあります。
+
+### 使い分けの手がかり
+
+**work through は deal with step by step に置換**でき、対象は複雑な問題・つらい感情という「通り抜けるべき障害」です。**work up は build up gradually／develop with effort に置換**でき、対象は計画・食欲・興奮状態という「労力を積み上げて生み出すもの」です。「障害を処理する」話か「何かを作り上げる」話かで区別します。
+
+### なぜ直訳で読み解けないか
+
+through は「入口から出口まで障害を貫通する」イメージなので、work through は複雑な問題や感情を最初から最後まで順を追って処理することを表します。up は「労力を積み上げて高みに至る」イメージなので、work up は計画を練り上げること、食欲や興奮を徐々に高めることに広がります。
+
+### よくある誤用
+
+⚠️ \`It took her years to work up her grief after the loss.\`（誤）。悲しみを処理したのは work **through**。work up に「感情を処理する」の意味はありません。
+
+⚠️ \`He worked through a detailed proposal over the weekend.\`（不自然）。提案書を練り上げたのは work **up**。work through は障害の処理に使い、成果物の作成には work up がより自然です。
+
+🎯 覚え方：**through＝障害を貫通して処理する（問題・感情の処理）**、**up＝労力を積み上げて生み出す（計画・食欲・興奮を作る）**。`,keyPoints:[`work through＝（問題・感情）を段階的に処理する（deal with step by step）`,`work up＝（食欲・計画等を）作り上げる／興奮させる（build up gradually）`,`work through は障害の処理、work up は労力を積み上げた成果物・状態の生成`,`through＝障害を貫通する、up＝労力を積み上げる、という前置詞イメージの違い`],quiz:[{id:`q-workthrough-1`,question:`空所に入る適切な語はどれですか。「Therapy helped him ( ) his complicated feelings about the divorce.」`,options:[`work up`,`work through`,`work on`,`work out`],correctAnswer:1,explanation:`複雑な感情を処理したのは work through。`},{id:`q-workthrough-2`,question:`空所に入る適切な語はどれですか。「The long hike really ( ) an appetite for dinner.」`,options:[`worked through`,`worked on`,`worked up`,`worked out`],correctAnswer:2,explanation:`食欲を高めたのは work up。`},{id:`q-workthrough-3`,question:`空所に入る適切な語はどれですか。「She spent all weekend ( ) a detailed marketing proposal.」`,options:[`working through`,`working up`,`working on`,`working out`],correctAnswer:1,explanation:`提案書を練り上げたのも work up。`},{id:`q-workthrough-4`,question:`work through の言い換えとして最も適切なものはどれですか。`,options:[`deal with step by step`,`build up gradually`,`excite`,`improve continuously`],correctAnswer:0,explanation:`work through は「段階的に処理する」という意味です。`},{id:`q-workthrough-5`,question:`work through と work up の違いとして正しいものはどれですか。`,options:[`through＝障害を貫通して処理する、up＝労力を積み上げて生み出す`,`両者に意味の違いはない`,`through の方が興奮を表す`,`up の方が感情処理に使われる`],correctAnswer:0,explanation:`work through は問題・感情の処理、work up は成果物・状態の生成を表します。`}]}],c={1:`スペルが似ている語`,2:`意味が近く使い分けが難しい語`,3:`品詞・派生でまぎらわしい語`,4:`発音が似ている語`,5:`熟語・句動詞でまぎらわしいもの`},l={audience:`大学受験・TOEIC・英検の学習者、英語を学び直す社会人`,approach:`一対一の和訳暗記ではなく、意味の核と使い分けを比較表とミニ問題で身につける`},u=[{id:`take`,verb:`take`,title:`take は前置詞でどう意味が変わる？`,description:`take の中心イメージ「手を伸ばして自分の側に取り込む」が、続く前置詞・副詞でどう枝分かれするかをまとめたハブページ。`,content:`## take の中心イメージ
 
 take は「（手を伸ばして）つかむ・取る」が核となる意味です。そこから「何かを自分の領域・内側に取り込む」という比喩が幅広く枝分かれし、続く前置詞・副詞が「何を」「どこから」「どんな向きで」取り込むかを決めます。
 
@@ -7389,5 +7575,38 @@ keep は「（状態や動作を）保ち続ける」が核となる意味です
 | keep on | on（そのまま前へ持続する） | 続ける |
 | keep to | to（対象の枠内に留まる） | （道・話題・約束）から外れない |
 
-keep up with は「相手と同じ高さで並走し続ける」イメージで、流行や進度に遅れずついていく場面に使われます。keep off は「対象に接触せず距離を保つ」イメージで、食べ物を控えることにも、話題を避けることにも、人や動物を近づけないことにも使われます。keep on は「同じ動作をそのまま持続する」イメージで単純な継続を表し、keep to は「決められた枠の中に留まり続ける」イメージから、道を外れない・約束を守るという意味に広がります。`,previewPairs:[`keep up with vs keep off（遅れずについていく／避ける・近づけない）`,`keep on vs keep to（続ける／外れない・守る）`]}];function d(e){let t=[],n=0,r,i=/\[([^\]]+)\]\(([^)]+)\)|\*\*([^*]+)\*\*|`([^`]+)`/g;for(;(r=i.exec(e))!==null;)r.index>n&&t.push({t:`text`,v:e.slice(n,r.index)}),r[1]!==void 0&&r[2]!==void 0?t.push({t:`link`,label:r[1],url:r[2]}):r[3]===void 0?r[4]!==void 0&&t.push({t:`code`,v:r[4]}):t.push({t:`bold`,children:d(r[3])}),n=r.index+r[0].length;return n<e.length&&t.push({t:`text`,v:e.slice(n)}),t}var f=i();function p({questions:e}){let[t,n]=(0,a.useState)(0),[r,i]=(0,a.useState)(null),[o,s]=(0,a.useState)(!1),[c,l]=(0,a.useState)(0),[u,d]=(0,a.useState)(!1),p=e[t],m=t===e.length-1,h=e=>{o||(i(e),s(!0),e===p.correctAnswer&&l(e=>e+1))},g=()=>{if(m){d(!0);return}n(e=>e+1),i(null),s(!1)},_=()=>{n(0),i(null),s(!1),l(0),d(!1)};if(u){let t=Math.round(c/e.length*100),n=t>=80?`よくできました。この区別はばっちりです。`:t>=50?`あと少し。間違えた問題の解説を読み返しましょう。`:`もう一度、上の比較表と例文を見てから挑戦しましょう。`;return(0,f.jsxs)(`div`,{className:`quiz quiz-result`,children:[(0,f.jsxs)(`p`,{className:`quiz-score`,children:[e.length,`問中 `,(0,f.jsx)(`strong`,{children:c}),`問正解（`,t,`%）`]}),(0,f.jsx)(`p`,{className:`quiz-msg`,children:n}),(0,f.jsx)(`button`,{className:`btn`,onClick:_,children:`もう一度`})]})}return(0,f.jsxs)(`div`,{className:`quiz`,children:[(0,f.jsx)(`div`,{className:`quiz-head`,children:(0,f.jsxs)(`span`,{className:`quiz-count`,children:[`第 `,t+1,` / `,e.length,` 問`]})}),(0,f.jsx)(`p`,{className:`quiz-q`,children:p.question}),(0,f.jsx)(`ul`,{className:`quiz-options`,children:p.options.map((e,t)=>{let n=`quiz-option`;return o&&(t===p.correctAnswer?n+=` is-correct`:t===r&&(n+=` is-wrong`)),(0,f.jsx)(`li`,{children:(0,f.jsxs)(`button`,{className:n,onClick:()=>h(t),disabled:o,children:[(0,f.jsx)(`span`,{className:`quiz-mark`,"aria-hidden":`true`,children:o&&t===p.correctAnswer?`○`:o&&t===r?`×`:``}),(0,f.jsx)(`span`,{children:e})]})},t)})}),o&&(0,f.jsxs)(`div`,{className:`quiz-explain`,children:[(0,f.jsx)(`p`,{className:r===p.correctAnswer?`quiz-verdict ok`:`quiz-verdict ng`,children:r===p.correctAnswer?`正解`:`不正解`}),(0,f.jsx)(`p`,{children:p.explanation}),(0,f.jsx)(`button`,{className:`btn`,onClick:g,children:m?`結果を見る`:`次の問題へ`})]})]})}var m=`/eng-confusables`,h=e=>`${e}-phrasal-verbs`;function g(e){let t=e;if(t.startsWith(m)&&(t=t.slice(16)),t=t.replace(/^\/+|\/+$/g,``),t===``)return{view:`home`};if(t===`about`)return{view:`about`};if(t===`privacy`)return{view:`privacy`};let n=u.find(e=>h(e.verb)===t);if(n)return{view:`hub`,id:n.id};let r=s.find(e=>e.id===t);return r?{view:`pair`,id:r.id}:{view:`home`}}function _(e){switch(e.view){case`home`:return`${m}/`;case`pair`:return`${m}/${e.id}/`;case`hub`:{let t=u.find(t=>t.id===e.id);return`${m}/${t?h(t.verb):e.id}/`}default:return`${m}/${e.view}/`}}function v(e,t){return e.map((e,n)=>{let r=`${t}-${n}`;switch(e.t){case`text`:return(0,f.jsx)(`span`,{children:e.v},r);case`bold`:return(0,f.jsx)(`strong`,{children:v(e.children,r)},r);case`code`:return(0,f.jsx)(`code`,{children:e.v},r);case`link`:return/^https?:\/\//.test(e.url)?(0,f.jsx)(`a`,{href:e.url,target:`_blank`,rel:`noopener noreferrer`,children:e.label},r):(0,f.jsx)(`a`,{href:e.url,children:e.label},r)}})}var y=(e,t)=>v(d(e),t),b={"💡":{label:`コツ`,cls:`callout-tip`},"🎯":{label:`試験ポイント`,cls:`callout-exam`},"⚠️":{label:`注意`,cls:`callout-warn`},"📖":{label:`発展`,cls:`callout-read`}};function x(e){let t=e.split(`
+keep up with は「相手と同じ高さで並走し続ける」イメージで、流行や進度に遅れずついていく場面に使われます。keep off は「対象に接触せず距離を保つ」イメージで、食べ物を控えることにも、話題を避けることにも、人や動物を近づけないことにも使われます。keep on は「同じ動作をそのまま持続する」イメージで単純な継続を表し、keep to は「決められた枠の中に留まり続ける」イメージから、道を外れない・約束を守るという意味に広がります。`,previewPairs:[`keep up with vs keep off（遅れずについていく／避ける・近づけない）`,`keep on vs keep to（続ける／外れない・守る）`]},{id:`draw`,verb:`draw`,title:`draw は前置詞でどう意味が変わる？`,description:`draw の中心イメージ「引っ張り出す」が、続く前置詞・副詞でどう枝分かれするかをまとめたハブページ。`,content:`## draw の中心イメージ
+
+draw は「（力を加えて）引く・引っ張り出す」が核となる意味です。物理的に引く動作から、資源の活用・書類の作成・感情の反応という比喩に広がり、続く前置詞・副詞が「何を、どちらの向きに引くか」を決めます。
+
+| 熟語 | 前置詞・副詞のイメージ | 中心的な意味 |
+| --- | --- | --- |
+| draw on（upon） | on（対象に乗って引き出す） | （知識・経験・資金）を利用する |
+| draw up | up（引っ張り上げて組み上げる） | （契約書等）を作成する／停車する |
+| draw back | back（後方へ引く） | 後ずさりする／ためらって手を引く |
+| draw out | out（外へ引き伸ばす） | 長引かせる／人の本音を引き出す |
+
+draw on は「蓄積された資質の上に手を伸ばして力を引き出す」イメージで、知識や経験を活用する場面に使われます。draw up は「散在する条項を組み上げて文書化する」イメージから契約書の作成に、また「車が引かれるように止まる」イメージから停車にも使われます。draw back は「驚きや恐れで後ろに引く」動作、draw out は「言葉や時間を外へ引き伸ばす」イメージから、話を長引かせることにも、人の内気な本音を引き出すことにも使われます。`,previewPairs:[`draw on vs draw up（利用する／作成する・停車する）`,`draw back vs draw out（後ずさりする／長引かせる・引き出す）`]},{id:`give`,verb:`give`,title:`give は前置詞でどう意味が変わる？`,description:`give の中心イメージ「相手に渡す」が、続く前置詞・副詞でどう枝分かれするかをまとめたハブページ。`,content:`## give の中心イメージ
+
+give は「（自分から相手へ）渡す」が核となる意味です。物を渡す動作から、抵抗の放棄・秘密の暴露・習慣の放棄という比喩に広がり、続く前置詞・副詞が「何を、どこへ渡すか」を決めます。
+
+| 熟語 | 前置詞・副詞のイメージ | 中心的な意味 |
+| --- | --- | --- |
+| give in | in（内側に入って屈する） | 屈する・（要求等を）受け入れる |
+| give way to | way to（道を譲って進ませる） | 〜に取って代わられる／屈する |
+| give up | up（すべて手放して差し出す） | あきらめる・やめる |
+| give away | away（自分から離して渡す） | 無料で譲る・（秘密を）漏らす |
+
+give in は「抵抗をやめて内側へ入り込むように降伏する」イメージで、要求や圧力に屈する場面に使われます。give way to は「自分の場所を譲って相手を先に通す」イメージから、道を譲ることにも、感情や別のものに取って代わられることにも広がります。give up は「持っていたものを全て手放す」イメージからあきらめる・やめるを表し、give away は「自分の手から離れた場所へ渡す」イメージから、無料で譲ることにも、秘密をうっかり漏らすことにも使われます。`,previewPairs:[`give in vs give way to（屈する／取って代わられる・屈する）`,`give up vs give away（あきらめる／無料で譲る・秘密を漏らす）`]},{id:`work`,verb:`work`,title:`work は前置詞でどう意味が変わる？`,description:`work の中心イメージ「働きかける」が、続く前置詞・副詞でどう枝分かれするかをまとめたハブページ。`,content:`## work の中心イメージ
+
+work は「（対象に力を加えて）働きかける」が核となる意味です。労働の意味から、解決・改善・鍛錬という比喩に広がり、続く前置詞・副詞が「働きかけた結果どうなるか」を決めます。
+
+| 熟語 | 前置詞・副詞のイメージ | 中心的な意味 |
+| --- | --- | --- |
+| work out | out（計算して答えを外へ導く） | 解決する・（運動で）鍛える／うまくいく |
+| work on | on（対象に接触して働きかけ続ける） | 〜に取り組む・改善に努める |
+| work through | through（障害を貫通して進む） | （問題・感情）を段階的に処理する |
+| work up | up（労力を積み上げて生み出す） | （食欲・計画等を）作り上げる／興奮させる |
+
+work out は「問題を計算して答えを外へ導き出す」イメージで、解決策を見つけることにも、体を鍛えることにも、物事がうまく運ぶことにも使われます。work on は「対象に接触し続けて働きかける」イメージで、改善やスキルの向上に取り組む場面の定番です。work through は「障害を最初から最後まで貫通して進む」イメージから、複雑な問題や悲しみの感情を段階的に処理することを表し、work up は「労力を積み上げて何かを生み出す」イメージから、食欲を作り上げることにも、人を興奮状態にまで高めることにも使われます。`,previewPairs:[`work out vs work on（解決する・鍛える／取り組む）`,`work through vs work up（段階的に処理する／作り上げる・興奮させる）`]}];function d(e){let t=[],n=0,r,i=/\[([^\]]+)\]\(([^)]+)\)|\*\*([^*]+)\*\*|`([^`]+)`/g;for(;(r=i.exec(e))!==null;)r.index>n&&t.push({t:`text`,v:e.slice(n,r.index)}),r[1]!==void 0&&r[2]!==void 0?t.push({t:`link`,label:r[1],url:r[2]}):r[3]===void 0?r[4]!==void 0&&t.push({t:`code`,v:r[4]}):t.push({t:`bold`,children:d(r[3])}),n=r.index+r[0].length;return n<e.length&&t.push({t:`text`,v:e.slice(n)}),t}var f=i();function p({questions:e}){let[t,n]=(0,a.useState)(0),[r,i]=(0,a.useState)(null),[o,s]=(0,a.useState)(!1),[c,l]=(0,a.useState)(0),[u,d]=(0,a.useState)(!1),p=e[t],m=t===e.length-1,h=e=>{o||(i(e),s(!0),e===p.correctAnswer&&l(e=>e+1))},g=()=>{if(m){d(!0);return}n(e=>e+1),i(null),s(!1)},_=()=>{n(0),i(null),s(!1),l(0),d(!1)};if(u){let t=Math.round(c/e.length*100),n=t>=80?`よくできました。この区別はばっちりです。`:t>=50?`あと少し。間違えた問題の解説を読み返しましょう。`:`もう一度、上の比較表と例文を見てから挑戦しましょう。`;return(0,f.jsxs)(`div`,{className:`quiz quiz-result`,children:[(0,f.jsxs)(`p`,{className:`quiz-score`,children:[e.length,`問中 `,(0,f.jsx)(`strong`,{children:c}),`問正解（`,t,`%）`]}),(0,f.jsx)(`p`,{className:`quiz-msg`,children:n}),(0,f.jsx)(`button`,{className:`btn`,onClick:_,children:`もう一度`})]})}return(0,f.jsxs)(`div`,{className:`quiz`,children:[(0,f.jsx)(`div`,{className:`quiz-head`,children:(0,f.jsxs)(`span`,{className:`quiz-count`,children:[`第 `,t+1,` / `,e.length,` 問`]})}),(0,f.jsx)(`p`,{className:`quiz-q`,children:p.question}),(0,f.jsx)(`ul`,{className:`quiz-options`,children:p.options.map((e,t)=>{let n=`quiz-option`;return o&&(t===p.correctAnswer?n+=` is-correct`:t===r&&(n+=` is-wrong`)),(0,f.jsx)(`li`,{children:(0,f.jsxs)(`button`,{className:n,onClick:()=>h(t),disabled:o,children:[(0,f.jsx)(`span`,{className:`quiz-mark`,"aria-hidden":`true`,children:o&&t===p.correctAnswer?`○`:o&&t===r?`×`:``}),(0,f.jsx)(`span`,{children:e})]})},t)})}),o&&(0,f.jsxs)(`div`,{className:`quiz-explain`,children:[(0,f.jsx)(`p`,{className:r===p.correctAnswer?`quiz-verdict ok`:`quiz-verdict ng`,children:r===p.correctAnswer?`正解`:`不正解`}),(0,f.jsx)(`p`,{children:p.explanation}),(0,f.jsx)(`button`,{className:`btn`,onClick:g,children:m?`結果を見る`:`次の問題へ`})]})]})}var m=`/eng-confusables`,h=e=>`${e}-phrasal-verbs`;function g(e){let t=e;if(t.startsWith(m)&&(t=t.slice(16)),t=t.replace(/^\/+|\/+$/g,``),t===``)return{view:`home`};if(t===`about`)return{view:`about`};if(t===`privacy`)return{view:`privacy`};let n=u.find(e=>h(e.verb)===t);if(n)return{view:`hub`,id:n.id};let r=s.find(e=>e.id===t);return r?{view:`pair`,id:r.id}:{view:`home`}}function _(e){switch(e.view){case`home`:return`${m}/`;case`pair`:return`${m}/${e.id}/`;case`hub`:{let t=u.find(t=>t.id===e.id);return`${m}/${t?h(t.verb):e.id}/`}default:return`${m}/${e.view}/`}}function v(e,t){return e.map((e,n)=>{let r=`${t}-${n}`;switch(e.t){case`text`:return(0,f.jsx)(`span`,{children:e.v},r);case`bold`:return(0,f.jsx)(`strong`,{children:v(e.children,r)},r);case`code`:return(0,f.jsx)(`code`,{children:e.v},r);case`link`:return/^https?:\/\//.test(e.url)?(0,f.jsx)(`a`,{href:e.url,target:`_blank`,rel:`noopener noreferrer`,children:e.label},r):(0,f.jsx)(`a`,{href:e.url,children:e.label},r)}})}var y=(e,t)=>v(d(e),t),b={"💡":{label:`コツ`,cls:`callout-tip`},"🎯":{label:`試験ポイント`,cls:`callout-exam`},"⚠️":{label:`注意`,cls:`callout-warn`},"📖":{label:`発展`,cls:`callout-read`}};function x(e){let t=e.split(`
 `),n=[],r=0,i=0;for(;r<t.length;){let e=t[r].trim();if(e===``){r++;continue}if(/^---+$/.test(e)){n.push((0,f.jsx)(`hr`,{},i++)),r++;continue}if(e.startsWith(`### `)){n.push((0,f.jsx)(`h3`,{children:y(e.slice(4),`h${i}`)},i++)),r++;continue}if(e.startsWith(`## `)){n.push((0,f.jsx)(`h2`,{children:y(e.slice(3),`h${i}`)},i++)),r++;continue}let a=Object.keys(b).find(t=>e.startsWith(t));if(a){let{label:t,cls:o}=b[a];n.push((0,f.jsxs)(`div`,{className:`callout ${o}`,children:[(0,f.jsx)(`span`,{className:`callout-label`,children:t}),(0,f.jsx)(`p`,{children:y(e.slice(a.length).trim(),`c${i}`)})]},i++)),r++;continue}if(e.startsWith(`|`)){let e=[];for(;r<t.length&&t[r].trim().startsWith(`|`);)e.push(t[r].trim()),r++;let a=e.map(e=>e.replace(/^\||\|$/g,``).split(`|`).map(e=>e.trim())).filter(e=>!e.every(e=>/^:?-+:?$/.test(e)||e===``));if(a.length){let[e,...t]=a;n.push((0,f.jsx)(`div`,{className:`table-wrap`,children:(0,f.jsxs)(`table`,{children:[(0,f.jsx)(`thead`,{children:(0,f.jsx)(`tr`,{children:e.map((e,t)=>(0,f.jsx)(`th`,{children:y(e,`th${i}-${t}`)},t))})}),(0,f.jsx)(`tbody`,{children:t.map((e,t)=>(0,f.jsx)(`tr`,{children:e.map((e,n)=>(0,f.jsx)(`td`,{children:y(e,`td${i}-${t}-${n}`)},n))},t))})]})},i++))}continue}if(/^\d+\.\s/.test(e)){let e=[];for(;r<t.length&&/^\d+\.\s/.test(t[r].trim());)e.push(t[r].trim().replace(/^\d+\.\s/,``)),r++;n.push((0,f.jsx)(`ol`,{children:e.map((e,t)=>(0,f.jsx)(`li`,{children:y(e,`ol${i}-${t}`)},t))},i++));continue}if(/^[-*]\s/.test(e)){let e=[];for(;r<t.length&&/^[-*]\s/.test(t[r].trim());)e.push(t[r].trim().replace(/^[-*]\s/,``)),r++;n.push((0,f.jsx)(`ul`,{children:e.map((e,t)=>(0,f.jsx)(`li`,{children:y(e,`ul${i}-${t}`)},t))},i++));continue}n.push((0,f.jsx)(`p`,{children:y(e,`p${i}`)},i++)),r++}return n}var S=e=>`${e.id} ${e.title} ${e.description}`.toLowerCase();function C(){let[e,t]=(0,a.useState)(()=>g(window.location.pathname)),[n,r]=(0,a.useState)(!1),i=(0,a.useCallback)(e=>{window.history.pushState({},``,_(e)),t(e),r(!1),window.scrollTo(0,0)},[]);return(0,a.useEffect)(()=>{let e=()=>t(g(window.location.pathname));return window.addEventListener(`popstate`,e),()=>window.removeEventListener(`popstate`,e)},[]),(0,f.jsxs)(`div`,{className:`app`,children:[(0,f.jsx)(w,{route:e,navigate:i,menuOpen:n,setMenuOpen:r}),(0,f.jsxs)(`main`,{className:`main`,children:[e.view===`home`&&(0,f.jsx)(T,{navigate:i}),e.view===`pair`&&(0,f.jsx)(E,{id:e.id,navigate:i}),e.view===`hub`&&(0,f.jsx)(D,{id:e.id,navigate:i}),e.view===`about`&&(0,f.jsx)(O,{}),e.view===`privacy`&&(0,f.jsx)(k,{})]}),(0,f.jsx)(A,{navigate:i})]})}function w({route:e,navigate:t,menuOpen:n,setMenuOpen:r}){return(0,f.jsx)(`header`,{className:`site-header`,children:(0,f.jsxs)(`div`,{className:`header-inner`,children:[(0,f.jsx)(`a`,{className:`brand`,href:`${m}/`,onClick:e=>{e.preventDefault(),t({view:`home`})},children:`まぎらわしい英単語・熟語ノート`}),(0,f.jsxs)(`button`,{className:`menu-toggle`,"aria-label":`メニュー`,"aria-expanded":n,onClick:()=>r(!n),children:[(0,f.jsx)(`span`,{}),(0,f.jsx)(`span`,{}),(0,f.jsx)(`span`,{})]}),(0,f.jsxs)(`nav`,{className:`site-nav ${n?`open`:``}`,children:[(0,f.jsx)(`a`,{href:`${m}/`,onClick:e=>{e.preventDefault(),t({view:`home`})},className:e.view===`home`?`active`:``,children:`さがす`}),(0,f.jsx)(`a`,{href:`${m}/about/`,onClick:e=>{e.preventDefault(),t({view:`about`})},className:e.view===`about`?`active`:``,children:`このサイトについて`})]})]})})}function T({navigate:t}){let[r,i]=(0,a.useState)(``),[o,d]=(0,a.useState)(0),p=(0,a.useMemo)(()=>{let e=r.trim().toLowerCase();return s.filter(t=>!(o!==0&&t.chapter!==o||e&&!S(t).includes(e)))},[r,o]);return(0,f.jsxs)(`div`,{className:`home`,children:[(0,f.jsxs)(`section`,{className:`hero`,children:[(0,f.jsx)(`h1`,{children:`まぎらわしい英単語・熟語を、引いて見分ける`}),(0,f.jsxs)(`p`,{className:`hero-lead`,children:[l.approach,`。`,s.length,`組の混同ペアを、比較表とミニ問題でまとめました。`]}),(0,f.jsxs)(`div`,{className:`search-box`,children:[(0,f.jsx)(e,{size:18,"aria-hidden":`true`}),(0,f.jsx)(`input`,{type:`search`,value:r,onChange:e=>i(e.target.value),placeholder:`単語で検索（例：affect, lie, breed）`,"aria-label":`単語を検索`,autoComplete:`off`}),r&&(0,f.jsx)(`button`,{className:`search-clear`,"aria-label":`クリア`,onClick:()=>i(``),children:(0,f.jsx)(n,{size:16})})]}),(0,f.jsxs)(`div`,{className:`cat-chips`,role:`tablist`,"aria-label":`カテゴリで絞り込み`,children:[(0,f.jsx)(`button`,{className:`chip ${o===0?`active`:``}`,onClick:()=>d(0),children:`すべて`}),[1,2,3,4,5].map(e=>(0,f.jsx)(`button`,{className:`chip ${o===e?`active`:``}`,onClick:()=>d(e),children:c[e]},e))]})]}),(o===0||o===5)&&!r&&(0,f.jsxs)(`section`,{className:`results`,"aria-label":`熟語・句動詞の動詞ハブ`,children:[(0,f.jsx)(`h2`,{style:{fontSize:`1.05rem`,margin:`0 0 10px`},children:`動詞から熟語をさがす`}),(0,f.jsx)(`ul`,{className:`pair-list`,style:{listStyle:`none`,padding:0},children:u.map(e=>(0,f.jsx)(`li`,{children:(0,f.jsxs)(`a`,{href:`${m}/${h(e.verb)}/`,onClick:n=>{n.preventDefault(),t({view:`hub`,id:e.id})},children:[(0,f.jsx)(`span`,{className:`pair-title`,children:e.verb}),(0,f.jsx)(`span`,{className:`pair-desc`,children:e.description})]})},e.id))})]}),(0,f.jsxs)(`section`,{className:`results`,children:[(0,f.jsxs)(`p`,{className:`results-count`,children:[p.length,` 組`,r?`（「${r}」で検索）`:``]}),p.length===0?(0,f.jsx)(`p`,{className:`no-results`,children:`該当する単語が見つかりませんでした。スペルを変えて試してください。`}):(0,f.jsx)(`ol`,{className:`pair-list`,children:p.map(e=>(0,f.jsx)(`li`,{children:(0,f.jsxs)(`a`,{href:`${m}/${e.id}/`,onClick:n=>{n.preventDefault(),t({view:`pair`,id:e.id})},children:[(0,f.jsx)(`span`,{className:`pair-title`,children:e.title}),(0,f.jsx)(`span`,{className:`pair-cat`,children:c[e.chapter]}),(0,f.jsx)(`span`,{className:`pair-desc`,children:e.description})]})},e.id))})]})]})}function E({id:e,navigate:t}){let n=s[s.findIndex(t=>t.id===e)];if(!n)return(0,f.jsx)(`p`,{children:`ページが見つかりませんでした。`});let r=s.filter(e=>e.chapter===n.chapter),i=r.findIndex(t=>t.id===e),a=i>0?r[i-1]:null,o=i<r.length-1?r[i+1]:null;return(0,f.jsxs)(`article`,{className:`pair`,children:[(0,f.jsxs)(`nav`,{className:`breadcrumb`,children:[(0,f.jsx)(`a`,{href:`${m}/`,onClick:e=>{e.preventDefault(),t({view:`home`})},children:`さがす`}),(0,f.jsx)(`span`,{"aria-hidden":`true`,children:`/`}),(0,f.jsx)(`span`,{children:c[n.chapter]})]}),(0,f.jsxs)(`header`,{className:`pair-header`,children:[(0,f.jsx)(`p`,{className:`pair-cat-label`,children:c[n.chapter]}),(0,f.jsx)(`h1`,{children:n.title}),(0,f.jsx)(`p`,{className:`pair-lead`,children:n.description})]}),(0,f.jsx)(`div`,{className:`pair-body`,children:x(n.content)}),n.keyPoints&&n.keyPoints.length>0&&(0,f.jsxs)(`section`,{className:`keypoints`,children:[(0,f.jsx)(`h2`,{children:`まとめ`}),(0,f.jsx)(`ul`,{children:n.keyPoints.map((e,t)=>(0,f.jsx)(`li`,{children:e},t))})]}),(0,f.jsxs)(`section`,{className:`quiz-section`,children:[(0,f.jsx)(`h2`,{children:`理解度チェック（任意）`}),(0,f.jsx)(p,{questions:n.quiz})]}),(0,f.jsxs)(`nav`,{className:`pair-nav`,children:[a?(0,f.jsxs)(`button`,{className:`btn`,onClick:()=>t({view:`pair`,id:a.id}),children:[`← `,a.title]}):(0,f.jsx)(`span`,{}),o?(0,f.jsxs)(`button`,{className:`btn btn-primary`,onClick:()=>t({view:`pair`,id:o.id}),children:[o.title,` →`]}):(0,f.jsx)(`button`,{className:`btn`,onClick:()=>t({view:`home`}),children:`一覧へ戻る`})]})]})}function D({id:e,navigate:t}){let n=u.find(t=>t.id===e);if(!n)return(0,f.jsx)(`p`,{children:`ページが見つかりませんでした。`});let r=s.filter(e=>e.hubId===n.id);return(0,f.jsxs)(`article`,{className:`pair`,children:[(0,f.jsxs)(`nav`,{className:`breadcrumb`,children:[(0,f.jsx)(`a`,{href:`${m}/`,onClick:e=>{e.preventDefault(),t({view:`home`})},children:`さがす`}),(0,f.jsx)(`span`,{"aria-hidden":`true`,children:`/`}),(0,f.jsx)(`span`,{children:c[5]})]}),(0,f.jsxs)(`header`,{className:`pair-header`,children:[(0,f.jsx)(`p`,{className:`pair-cat-label`,children:`動詞ハブ`}),(0,f.jsx)(`h1`,{children:n.title}),(0,f.jsx)(`p`,{className:`pair-lead`,children:n.description})]}),(0,f.jsx)(`div`,{className:`pair-body`,children:x(n.content)}),(0,f.jsxs)(`section`,{className:`keypoints`,children:[(0,f.jsx)(`h2`,{children:r.length>0?`${n.verb} の熟語ペア一覧`:`${n.verb} で今後扱う予定の熟語ペア`}),r.length>0?(0,f.jsx)(`ul`,{className:`pair-list`,style:{listStyle:`none`,padding:0},children:r.map(e=>(0,f.jsx)(`li`,{children:(0,f.jsxs)(`a`,{href:`${m}/${e.id}/`,onClick:n=>{n.preventDefault(),t({view:`pair`,id:e.id})},children:[(0,f.jsx)(`span`,{className:`pair-title`,children:e.title}),(0,f.jsx)(`span`,{className:`pair-desc`,children:e.description})]})},e.id))}):(0,f.jsxs)(f.Fragment,{children:[(0,f.jsx)(`ul`,{children:n.previewPairs.map((e,t)=>(0,f.jsx)(`li`,{children:e},t))}),(0,f.jsx)(`p`,{style:{color:`#868d99`,fontSize:`0.9rem`},children:`各ページは準備中です。公開までこのハブページで前置詞ごとの意味の違いを先に押さえておくと、個別ページの理解が早くなります。`})]})]}),(0,f.jsx)(`nav`,{className:`pair-nav`,children:(0,f.jsx)(`button`,{className:`btn`,onClick:()=>t({view:`home`}),children:`一覧へ戻る`})})]})}function O(){return(0,f.jsxs)(`div`,{className:`about`,children:[(0,f.jsx)(`h1`,{children:`このサイトについて`}),(0,f.jsx)(`h2`,{children:`サイトの目的と対象`}),(0,f.jsxs)(`p`,{children:[`「まぎらわしい英単語・熟語ノート」は、スペル・意味・品詞・発音が似ていて混同しやすい英単語のペア、および前置詞や副詞の違いで意味が変わる紛らわしい熟語・句動詞のペアを、引いてすぐに違いと使い分けが分かるようにまとめた逆引きの比較リファレンスです。`,l.audience,`を主な対象としています。`]}),(0,f.jsx)(`h2`,{children:`コンテンツ構成`}),(0,f.jsx)(`p`,{children:`混同しやすい語を「スペルが似ている語」「意味が近い語」「品詞・派生でまぎらわしい語」「発音が似ている語」の4カテゴリに分け、1ペア（または自然な語群）を1ページにまとめています。各ページに比較表・例文・覚え方・任意の確認問題を用意しています。`}),(0,f.jsx)(`h2`,{children:`編集・制作方針`}),(0,f.jsxs)(`p`,{children:[`各語の意味・品詞・自他・発音は辞書（Cambridge・Merriam-Webster・Wiktionary など）で事実を確認したうえで、解説は`,(0,f.jsx)(`strong`,{children:`すべて運営者が自分のことばで書き起こし`}),`、例文も自作しています。辞書の定義文や例文をそのまま転載することはしていません。確認できない語法は載せていません。誤りに気づいた場合は随時修正します。`]}),(0,f.jsx)(`h2`,{children:`運営者について`}),(0,f.jsx)(`p`,{children:`個人が運営しています。広告収入はサーバー・ドメインなどの維持費に充てています。`}),(0,f.jsx)(`h2`,{children:`お問い合わせ`}),(0,f.jsxs)(`p`,{children:[`内容の誤りのご指摘やご意見は、`,(0,f.jsx)(`a`,{href:`https://forms.gle/ccMv7oKwz6ysDHBe6`,target:`_blank`,rel:`noopener noreferrer`,children:`お問い合わせフォーム`}),`よりお寄せください。`]}),(0,f.jsx)(`h2`,{children:`免責事項`}),(0,f.jsx)(`p`,{children:`本サイトは内容の正確性に努めていますが、その完全性・正確性・有用性を保証するものではありません。学習の最終的な確認は辞書や公式教材で行ってください。本サイトの利用によって生じたいかなる損害についても責任を負いかねます。`})]})}function k(){return(0,f.jsxs)(`div`,{className:`privacy`,children:[(0,f.jsx)(`h1`,{children:`プライバシーポリシー`}),(0,f.jsx)(`h2`,{children:`アクセス解析（Google Analytics）`}),(0,f.jsx)(`p`,{children:`本サイトは利用状況の把握のためGoogle Analytics（GA4）を利用しています。Cookieを用いて匿名のトラフィックデータを収集するもので、個人を特定する情報は含みません。`}),(0,f.jsx)(`h2`,{children:`広告配信（Google AdSense）`}),(0,f.jsx)(`p`,{children:`本サイトは第三者配信の広告サービスGoogle AdSenseを利用しています。第三者配信事業者はCookieを使用して、ユーザーの興味に応じた広告を表示することがあります。`}),(0,f.jsx)(`h2`,{children:`Cookieの送信と無効化`}),(0,f.jsxs)(`p`,{children:[`これらのCookieによりGoogleや広告事業者にデータが送信されます。ユーザーは`,(0,f.jsx)(`a`,{href:`https://adssettings.google.com/`,target:`_blank`,rel:`noopener noreferrer`,children:`Googleの広告設定`}),`でパーソナライズ広告を無効にでき、ブラウザの設定でCookieを無効にすることもできます。`]}),(0,f.jsx)(`h2`,{children:`免責事項`}),(0,f.jsx)(`p`,{children:`本サイトの情報の利用により生じた損害について、運営者は責任を負いません。`}),(0,f.jsx)(`h2`,{children:`お問い合わせ`}),(0,f.jsxs)(`p`,{children:[`本ポリシーに関するお問い合わせは`,(0,f.jsx)(`a`,{href:`https://forms.gle/ccMv7oKwz6ysDHBe6`,target:`_blank`,rel:`noopener noreferrer`,children:`お問い合わせフォーム`}),`よりお願いします。`]}),(0,f.jsx)(`p`,{className:`notice`,children:`最終更新日：2026年6月15日`})]})}function A({navigate:e}){return(0,f.jsx)(`footer`,{className:`site-footer`,children:(0,f.jsxs)(`div`,{className:`footer-inner`,children:[(0,f.jsxs)(`nav`,{className:`footer-nav`,children:[(0,f.jsx)(`a`,{href:`${m}/`,onClick:t=>{t.preventDefault(),e({view:`home`})},children:`さがす`}),(0,f.jsx)(`a`,{href:`${m}/about/`,onClick:t=>{t.preventDefault(),e({view:`about`})},children:`このサイトについて`}),(0,f.jsx)(`a`,{href:`${m}/privacy/`,onClick:t=>{t.preventDefault(),e({view:`privacy`})},children:`プライバシーポリシー`}),(0,f.jsx)(`a`,{href:`https://study-apps.com/editorial-policy/`,target:`_blank`,rel:`noopener noreferrer`,children:`編集方針`}),(0,f.jsx)(`a`,{href:`https://study-apps.com/`,target:`_blank`,rel:`noopener noreferrer`,children:`study-apps.com`})]}),(0,f.jsx)(`p`,{className:`footer-note`,children:`個人運営の学習支援サイトです。最終的な確認は辞書や公式教材で行ってください。`})]})})}(0,o.createRoot)(document.getElementById(`root`)).render((0,f.jsx)(a.StrictMode,{children:(0,f.jsx)(C,{})}));
