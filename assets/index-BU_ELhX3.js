@@ -7376,7 +7376,193 @@ through は「入口から出口まで障害を貫通する」イメージなの
 
 ⚠️ \`He worked through a detailed proposal over the weekend.\`（不自然）。提案書を練り上げたのは work **up**。work through は障害の処理に使い、成果物の作成には work up がより自然です。
 
-🎯 覚え方：**through＝障害を貫通して処理する（問題・感情の処理）**、**up＝労力を積み上げて生み出す（計画・食欲・興奮を作る）**。`,keyPoints:[`work through＝（問題・感情）を段階的に処理する（deal with step by step）`,`work up＝（食欲・計画等を）作り上げる／興奮させる（build up gradually）`,`work through は障害の処理、work up は労力を積み上げた成果物・状態の生成`,`through＝障害を貫通する、up＝労力を積み上げる、という前置詞イメージの違い`],quiz:[{id:`q-workthrough-1`,question:`空所に入る適切な語はどれですか。「Therapy helped him ( ) his complicated feelings about the divorce.」`,options:[`work up`,`work through`,`work on`,`work out`],correctAnswer:1,explanation:`複雑な感情を処理したのは work through。`},{id:`q-workthrough-2`,question:`空所に入る適切な語はどれですか。「The long hike really ( ) an appetite for dinner.」`,options:[`worked through`,`worked on`,`worked up`,`worked out`],correctAnswer:2,explanation:`食欲を高めたのは work up。`},{id:`q-workthrough-3`,question:`空所に入る適切な語はどれですか。「She spent all weekend ( ) a detailed marketing proposal.」`,options:[`working through`,`working up`,`working on`,`working out`],correctAnswer:1,explanation:`提案書を練り上げたのも work up。`},{id:`q-workthrough-4`,question:`work through の言い換えとして最も適切なものはどれですか。`,options:[`deal with step by step`,`build up gradually`,`excite`,`improve continuously`],correctAnswer:0,explanation:`work through は「段階的に処理する」という意味です。`},{id:`q-workthrough-5`,question:`work through と work up の違いとして正しいものはどれですか。`,options:[`through＝障害を貫通して処理する、up＝労力を積み上げて生み出す`,`両者に意味の違いはない`,`through の方が興奮を表す`,`up の方が感情処理に使われる`],correctAnswer:0,explanation:`work through は問題・感情の処理、work up は成果物・状態の生成を表します。`}]}],c={1:`スペルが似ている語`,2:`意味が近く使い分けが難しい語`,3:`品詞・派生でまぎらわしい語`,4:`発音が似ている語`,5:`熟語・句動詞でまぎらわしいもの`},l={audience:`大学受験・TOEIC・英検の学習者、英語を学び直す社会人`,approach:`一対一の和訳暗記ではなく、意味の核と使い分けを比較表とミニ問題で身につける`},u=[{id:`take`,verb:`take`,title:`take は前置詞でどう意味が変わる？`,description:`take の中心イメージ「手を伸ばして自分の側に取り込む」が、続く前置詞・副詞でどう枝分かれするかをまとめたハブページ。`,content:`## take の中心イメージ
+🎯 覚え方：**through＝障害を貫通して処理する（問題・感情の処理）**、**up＝労力を積み上げて生み出す（計画・食欲・興奮を作る）**。`,keyPoints:[`work through＝（問題・感情）を段階的に処理する（deal with step by step）`,`work up＝（食欲・計画等を）作り上げる／興奮させる（build up gradually）`,`work through は障害の処理、work up は労力を積み上げた成果物・状態の生成`,`through＝障害を貫通する、up＝労力を積み上げる、という前置詞イメージの違い`],quiz:[{id:`q-workthrough-1`,question:`空所に入る適切な語はどれですか。「Therapy helped him ( ) his complicated feelings about the divorce.」`,options:[`work up`,`work through`,`work on`,`work out`],correctAnswer:1,explanation:`複雑な感情を処理したのは work through。`},{id:`q-workthrough-2`,question:`空所に入る適切な語はどれですか。「The long hike really ( ) an appetite for dinner.」`,options:[`worked through`,`worked on`,`worked up`,`worked out`],correctAnswer:2,explanation:`食欲を高めたのは work up。`},{id:`q-workthrough-3`,question:`空所に入る適切な語はどれですか。「She spent all weekend ( ) a detailed marketing proposal.」`,options:[`working through`,`working up`,`working on`,`working out`],correctAnswer:1,explanation:`提案書を練り上げたのも work up。`},{id:`q-workthrough-4`,question:`work through の言い換えとして最も適切なものはどれですか。`,options:[`deal with step by step`,`build up gradually`,`excite`,`improve continuously`],correctAnswer:0,explanation:`work through は「段階的に処理する」という意味です。`},{id:`q-workthrough-5`,question:`work through と work up の違いとして正しいものはどれですか。`,options:[`through＝障害を貫通して処理する、up＝労力を積み上げて生み出す`,`両者に意味の違いはない`,`through の方が興奮を表す`,`up の方が感情処理に使われる`],correctAnswer:0,explanation:`work through は問題・感情の処理、work up は成果物・状態の生成を表します。`}]},{id:`back-up-back-down`,title:`back up と back down`,chapter:5,hubId:`back`,description:`back up は「支持する・裏付ける／データを複製保存する」、back down は「主張・要求を撤回する」。押し上げて支えるか、引き下がるかの違いです。`,content:`## 押し上げて支えるか、引き下がるか
+
+back up と back down はどちらも「back＋前置詞」ですが、up の「背後から押し上げる」イメージと down の「姿勢を低くする」イメージで、対応がまったく逆方向です。
+
+| 熟語 | 中心の意味 | 典型的な使われ方 |
+| --- | --- | --- |
+| back **up** | ～を支持する・裏付ける／データを複製保存する | back up a claim／back up your files |
+| back **down** | 主張・要求を撤回する | back down from a position |
+
+### back up の使い分け
+
+back up の1つ目の意味は「（人の発言・主張を）支持し、正しいと裏付ける」で、"Her colleagues backed up her version of events." のように使われます。2つ目はコンピュータ用語で「（データの）バックアップを取る」（Always back up your files before updating）という、日本語にも定着した用法です。
+
+### back down の使い分け
+
+back down は「それまで強く主張していたことを、反対にあって取り下げる」という意味で、"After public criticism, the company backed down from its controversial policy." のように使われます。北米英語では back off も同義で使われます。
+
+### 使い分けの手がかり
+
+**back up は support／corroborate（またはmake a backup copy）に置換**でき、対象を強化・保全する前向きな動作です。**back down は retreat from a position／concede に置換**でき、自分の主張を弱めて引き下がる動作です。「支える」話か「引き下がる」話かで、up と down の向きがそのまま意味の方向になります。
+
+### なぜ直訳で読み解けないか
+
+up は「背後から押し上げて補強する」イメージなので、back up は主張やデータを後ろから支えて強化することを表します。down は「姿勢を低くして相手に譲る」イメージなので、back down は自分の立場を低くして主張を取り下げることを表します。
+
+### よくある誤用
+
+⚠️ \`He backed up his demand after the negotiation stalled.\`（誤・意味が逆）。要求を撤回したのは back **down**。back up だと逆に「要求を裏付けた」という意味になってしまいます。
+
+⚠️ \`Remember to back down your work before the deadline.\`（誤）。データを保存するのは back **up**。back down にその意味はありません。
+
+🎯 覚え方：**up＝背後から押し上げて補強する（支持する・保存する）**、**down＝姿勢を低くして引く（撤回する）**。`,keyPoints:[`back up＝～を支持する・裏付ける（support/corroborate）／データを複製保存する`,`back down＝主張・要求を撤回する（retreat from a position/concede）`,`up＝背後から押し上げて補強、down＝姿勢を低くして引く、で意味の方向が正反対`,`コンピュータ用語のback upは日本語にも定着した用法`],quiz:[{id:`q-backup-1`,question:`空所に入る適切な語はどれですか。「Several witnesses ( ) her account of what happened.」`,options:[`backed down`,`backed up`,`backed out`,`backed away`],correctAnswer:1,explanation:`証言を裏付けたのは back up。`},{id:`q-backup-2`,question:`空所に入る適切な語はどれですか。「Facing strong opposition, the mayor eventually ( ) from the proposal.」`,options:[`backed up`,`backed down`,`backed out`,`backed away`],correctAnswer:1,explanation:`提案を撤回したのは back down。`},{id:`q-backup-3`,question:`空所に入る適切な語はどれですか。「Make sure to ( ) all your important files regularly.」`,options:[`back down`,`back out`,`back up`,`back away`],correctAnswer:2,explanation:`データを保存するのも back up。`},{id:`q-backup-4`,question:`back down の言い換えとして最も適切なものはどれですか。`,options:[`support`,`retreat from a position`,`make a copy`,`corroborate`],correctAnswer:1,explanation:`back down は「主張を撤回する」という意味です。`},{id:`q-backup-5`,question:`back up と back down の関係として正しいものはどれですか。`,options:[`支持・補強と撤回で、意味の方向が正反対`,`意味がほぼ同じ`,`両方とも撤回を意味する`,`up の方が弱気な意味を持つ`],correctAnswer:0,explanation:`back up は補強、back down は撤回という正反対の意味です。`}]},{id:`back-out-back-away`,title:`back out と back away`,chapter:5,hubId:`back`,description:`back out は「（合意・計画から）手を引く」、back away は「後ずさりする・関与をやめる」。既に決めたことをやめるか、物理的・比喩的に距離を取るかの違いです。`,content:`## 約束から抜けるか、距離を取るか
+
+back out と back away はどちらも「関与をやめる」というニュアンスで重なりますが、out の「合意の外へ抜ける」イメージと away の「危険から離れる」イメージで、対象と場面が異なります。
+
+| 熟語 | 中心の意味 | 典型的な使われ方 |
+| --- | --- | --- |
+| back **out**（of） | （既に合意・約束したことから）手を引く | back out of a deal, a contract |
+| back **away**（from） | 後ずさりする（物理的）／関与をやめる（比喩的） | back away from a fight, an idea |
+
+### back out の使い分け
+
+back out（of）は「一度合意・約束したことを、あとになって取りやめる」という意味で、"He backed out of the deal at the last minute." のように使われます。既に成立していた契約や計画からの離脱を表す点が特徴です。
+
+### back away の使い分け
+
+back away（from）には2つの意味があります。1つは文字どおり「（危険・不快なものから）後ろへ後ずさりする」（She backed away from the growling dog）。もう1つは比喩的に「（それまで支持・関与していた計画や立場から）距離を置き始める」（The party is backing away from its original proposal）という意味です。
+
+### 使い分けの手がかり
+
+**back out of は withdraw from a prior commitment に置換**でき、対象は必ず「既に合意した具体的な取り決め」です。**back away from は retreat／distance oneself に置換**でき、対象は物理的な危険にも、まだ確定していない考えや立場にも使えます。「一度約束したことをやめる」なら out、「単に距離を置く・後ずさりする」なら away、と考えます。
+
+### なぜ直訳で読み解けないか
+
+out は「合意という枠組みの外側へ後ろ向きに抜け出る」イメージなので、back out は既成の約束や契約から離脱することを表します。away は「危険や不快なものから遠ざかる」イメージなので、back away は物理的な後退にも、まだ緩やかな関与からの距離の取り方にも広がります。
+
+### よくある誤用
+
+⚠️ \`She backed away from the contract just before signing.\`（成立するが弱い）。既に合意していた契約から抜けたことを明確にするなら back **out** of がより直接的です。
+
+⚠️ \`He backed out from the barking dog.\`（誤・前置詞が不自然）。危険から後ずさりするのは back **away** from。back out of は具体的な約束・契約に使います。
+
+🎯 覚え方：**out＝合意の外へ抜け出る（約束から手を引く）**、**away＝危険から遠ざかる（後ずさりする・関与をやめる）**。`,keyPoints:[`back out（of）＝（既に合意・約束したことから）手を引く（withdraw from a prior commitment）`,`back away（from）＝後ずさりする（物理的）／関与をやめる（比喩的）（retreat/distance oneself）`,`back out の対象は既成の約束・契約、back away の対象は危険や緩やかな関与`,`out＝合意の外へ抜ける、away＝危険から遠ざかる、という前置詞イメージの違い`],quiz:[{id:`q-backout-1`,question:`空所に入る適切な語はどれですか。「The buyer ( ) the deal after discovering hidden damage.」`,options:[`backed away from`,`backed out of`,`backed up`,`backed down`],correctAnswer:1,explanation:`既に合意していた取引から手を引いたのは back out of。`},{id:`q-backout-2`,question:`空所に入る適切な語はどれですか。「Slowly, she ( ) the growling dog.」`,options:[`backed out of`,`backed away from`,`backed up`,`backed down from`],correctAnswer:1,explanation:`物理的に後ずさりしたのは back away from。`},{id:`q-backout-3`,question:`空所に入る適切な語はどれですか。「The government appears to be ( ) its original tax proposal.」`,options:[`backing out of`,`backing away from`,`backing up`,`backing down`],correctAnswer:1,explanation:`まだ確定していない立場から距離を置くのは back away from。`},{id:`q-backout-4`,question:`back out of の言い換えとして最も適切なものはどれですか。`,options:[`withdraw from a prior commitment`,`retreat physically`,`support`,`make a copy`],correctAnswer:0,explanation:`back out of は「既成の約束から離脱する」という意味です。`},{id:`q-backout-5`,question:`back out と back away の違いとして正しいものはどれですか。`,options:[`out＝既成の約束からの離脱、away＝物理的後退や緩やかな関与からの距離`,`両者に意味の違いはない`,`out の方が物理的な動作を表す`,`away は必ず契約に使う`],correctAnswer:0,explanation:`back out は約束からの離脱、back away は後退・距離を置くことを表します。`}]},{id:`close-down-close-in-on`,title:`close down と close in on`,chapter:5,hubId:`close`,description:`close down は「（事業等が）永久に閉鎖する」、close in on は「〜に迫る・追い詰める」。完全に閉じるか、包囲を狭めるかの違いです。`,content:`## 完全に閉じるか、包囲を狭めるか
+
+close down と close in on はどちらも close の比喩用法ですが、down の「シャッターを完全に下ろす」イメージと in on の「包囲網を狭める」イメージで、対象と結果が異なります。
+
+| 熟語 | 中心の意味 | 典型的な主語 |
+| --- | --- | --- |
+| close **down** | （事業・施設が）永久に閉鎖する | a factory, a shop, a TV station |
+| close **in on** | ～に迫る・追い詰める | hunters, police, deadline |
+
+### close down の使い分け
+
+close down は「事業や施設が完全に、恒久的に営業を停止する」という意味で、"The factory closed down after decades of operation." のように使われます。イギリス英語ではテレビ・ラジオ局が「その日の放送を終了する」という意味でも使われます。close up（一時的な閉店）とは異なり、**再開の見込みがない終了**を表す点が特徴です。
+
+### close in on の使い分け
+
+close in on は「包囲する側が対象との距離を徐々に詰めていく」という意味で、"The hunters slowly closed in on their prey." のように使われます。比喩的にも「（締め切りや真相が）刻一刻と迫る」（The deadline is closing in on us）という意味で使われます。
+
+### 使い分けの手がかり
+
+**close down は cease operations permanently に置換**でき、主語は事業・施設です。**close in on は approach in order to catch／get closer to に置換**でき、主語は追跡する側の人・組織や、時間そのものです。「終わる」話か「迫る」話かで区別します。
+
+### なぜ直訳で読み解けないか
+
+down は「シャッターを完全に下ろして二度と開けない」イメージなので、close down は事業や放送が恒久的に終わることを表します。in on は「対象を取り囲む輪を内側へ狭めていく」イメージなので、close in on は追跡や締め切りが対象との距離を詰めていく様子を表します。
+
+### よくある誤用
+
+⚠️ \`The police closed down the suspect after a long chase.\`（誤）。犯人に迫ったのは close in **on**。close down は事業・施設の閉鎖に使い、人を追い詰める意味では使いません。
+
+⚠️ \`The old cinema closed in on last month.\`（誤・前置詞の欠落と誤用）。映画館が閉鎖したのは close **down**。close in on には対象語が必要です。
+
+🎯 覚え方：**down＝シャッターを完全に下ろす（永久閉鎖）**、**in on＝包囲網を狭める（迫る・追い詰める）**。`,keyPoints:[`close down＝（事業・施設が）永久に閉鎖する（cease operations permanently）`,`close in on＝～に迫る・追い詰める（approach in order to catch）`,`close down の主語は事業・施設、close in on の主語は追跡する側や時間`,`down＝完全に閉じる、in on＝包囲を狭める、という前置詞イメージの違い`],quiz:[{id:`q-closedown-1`,question:`空所に入る適切な語はどれですか。「The old textile mill finally ( ) after 80 years in business.」`,options:[`closed in on`,`closed down`,`closed up`,`closed off`],correctAnswer:1,explanation:`永久閉鎖したのは close down。`},{id:`q-closedown-2`,question:`空所に入る適切な語はどれですか。「Investigators are slowly ( ) the truth behind the scandal.」`,options:[`closing down`,`closing in on`,`closing up`,`closing off`],correctAnswer:1,explanation:`真相に迫っているのは close in on。`},{id:`q-closedown-3`,question:`空所に入る適切な語はどれですか。「The wolves ( ) the wounded deer from all sides.」`,options:[`closed down`,`closed up`,`closed in on`,`closed off`],correctAnswer:2,explanation:`獲物に迫ったのも close in on。`},{id:`q-closedown-4`,question:`close down の言い換えとして最も適切なものはどれですか。`,options:[`cease operations permanently`,`approach to catch`,`block access`,`shut temporarily`],correctAnswer:0,explanation:`close down は恒久的な営業停止を意味します。`},{id:`q-closedown-5`,question:`close down と close in on の違いとして正しいものはどれですか。`,options:[`down＝恒久的な閉鎖、in on＝包囲を狭めて迫る`,`両者に意味の違いはない`,`down の方が「迫る」を意味する`,`in on は事業の閉鎖に使う`],correctAnswer:0,explanation:`close down は閉鎖、close in on は接近・追跡を表します。`}]},{id:`close-up-close-off`,title:`close up と close off`,chapter:5,hubId:`close`,description:`close up は「一時的に閉店する・傷がふさがる・間隔を詰める」、close off は「（区域を）封鎖する」。隙間を詰めて閉じるか、外部から遮断するかの違いです。`,content:`## 隙間を詰めるか、外部から遮断するか
+
+close up と close off はどちらも close の比喩用法ですが、up の「隙間を詰めて閉じる」イメージと off の「切り離して遮断する」イメージで、対象と結果が異なります。
+
+| 熟語 | 中心の意味 | 典型的な使われ方 |
+| --- | --- | --- |
+| close **up** | 一時的に閉店する／（傷が）ふさがる／間隔を詰める | close up shop for the day |
+| close **off** | （区域を）封鎖する・立ち入り禁止にする | close off a road, an area |
+
+### close up の使い分け
+
+close up の1つ目の意味は「（その日の営業を終えて）店を閉める」（The shop closes up at 6 p.m.）で、close down（恒久閉鎖）とは異なり**再開が前提**です。2つ目は「（傷口が）治癒してふさがる」（The wound closed up within a week）。3つ目は「（隊列などの）間隔を詰める」という意味もあります。
+
+### close off の使い分け
+
+close off は「特定の区域を他の部分から切り離し、人が立ち入れないようにする」という意味で、"Police closed off the street after the accident." のように使われます。工事現場や事故現場の規制線を張る場面の定番表現です。
+
+### 使い分けの手がかり
+
+**close up は shut temporarily／heal に置換**でき、「再開・回復を前提とした一時的な閉鎖」です。**close off は block access／seal に置換**でき、「特定の区域への立ち入りを断つ」という空間の遮断です。「また開く前提の一時閉鎖」か「立ち入りを断つ」かで区別します。
+
+### なぜ直訳で読み解けないか
+
+up は「隙間や傷口を詰めて閉じる」イメージなので、close up は一時的な閉店にも、傷が治って皮膚が閉じることにも広がります。off は「特定の部分を他から切り離す」イメージなので、close off は道路や区域を他の空間から遮断し、人の立ち入りを断つことを表します。
+
+### よくある誤用
+
+⚠️ \`The construction crew closed up the entire street for repairs.\`（不自然）。道路を封鎖したのは close **off**。close up は店舗や傷口など「閉じて再開・回復する」対象に使います。
+
+⚠️ \`The bakery closes off at 6 p.m. every day.\`（誤）。閉店するのは close **up**。close off は区域の封鎖に使い、営業終了の意味では使いません。
+
+🎯 覚え方：**up＝隙間を詰めて閉じる（一時閉店・治癒）**、**off＝他から切り離す（区域を封鎖する）**。`,keyPoints:[`close up＝一時的に閉店する（再開前提）／傷がふさがる／間隔を詰める（shut temporarily/heal）`,`close off＝（区域を）封鎖する・立ち入り禁止にする（block access/seal）`,`close up は再開・回復を前提とした一時的な閉鎖、close off は区域の遮断`,`up＝隙間を詰めて閉じる、off＝他から切り離す、という前置詞イメージの違い`],quiz:[{id:`q-closeup-1`,question:`空所に入る適切な語はどれですか。「The little cafe usually ( ) around 5 p.m. on weekdays.」`,options:[`closes off`,`closes up`,`closes down`,`closes in on`],correctAnswer:1,explanation:`一時的に閉店するのは close up。`},{id:`q-closeup-2`,question:`空所に入る適切な語はどれですか。「Authorities ( ) the beach after the oil spill.」`,options:[`closed up`,`closed down`,`closed off`,`closed in on`],correctAnswer:2,explanation:`立ち入り禁止にしたのは close off。`},{id:`q-closeup-3`,question:`空所に入る適切な語はどれですか。「Fortunately, the small cut on his hand ( ) within a few days.」`,options:[`closed off`,`closed down`,`closed up`,`closed in on`],correctAnswer:2,explanation:`傷がふさがったのも close up。`},{id:`q-closeup-4`,question:`close off の言い換えとして最も適切なものはどれですか。`,options:[`block access`,`shut temporarily`,`cease operations permanently`,`approach to catch`],correctAnswer:0,explanation:`close off は「立ち入りを断つ」という意味です。`},{id:`q-closeup-5`,question:`close up と close down の違いとして正しいものはどれですか。`,options:[`up＝再開前提の一時閉鎖、down＝恒久的な閉鎖`,`両者に意味の違いはない`,`up の方が恒久的`,`down の方が一時的`],correctAnswer:0,explanation:`close up は一時的、close down は恒久的な閉鎖を表します。`}]},{id:`count-on-count-out`,title:`count on と count out`,chapter:5,hubId:`count`,description:`count on は「〜を頼りにする・当てにする」、count out は「〜を除外する／お金を数えて出す」。信頼を置くか、輪の外に出すかの違いです。`,content:`## 信頼を置くか、輪の外に出すか
+
+count on と count out はどちらも count の比喩用法ですが、on の「相手の上に信頼を置く」イメージと out の「数え終えて外に出す」イメージで、方向が正反対です。
+
+| 熟語 | 中心の意味 | 典型的な使われ方 |
+| --- | --- | --- |
+| count **on** | ～を頼りにする・当てにする | count on a friend, count on support |
+| count **out** | ～を除外する／お金を数えて出す | count me out／count out bills |
+
+### count on の使い分け
+
+count on は「相手が確実にそうしてくれると信頼して当てにする」という意味で、"I'm counting on you to finish this by Friday." のように使われます。count on it（それは間違いない）という定型句としても頻出します。
+
+### count out の使い分け
+
+count out には2つの主な意味があります。1つは「（人を）活動から除外する」（If you're going hiking in the rain, count me out）。2つ目は文字どおり「（お金などを）1枚ずつ数えながら手渡す」（She counted out $50 in small bills）。また「（対戦相手が）成功しないと決めつける」（Don't count him out of the race yet）という意味もあります。
+
+### 使い分けの手がかり
+
+**count on は rely on／trust に置換**でき、相手への信頼を積極的に置く動作です。**count out は exclude／count individually に置換**でき、対象を仲間や勘定の輪から外へ出す動作です。「頼る」話か「外す・数えて渡す」話かで区別します。
+
+### なぜ直訳で読み解けないか
+
+on は「相手の存在の上に自分の期待を積み重ねて置く」イメージなので、count on は信頼して頼ることを表します。out は「対象を数え終えて枠の外側へ出す」イメージなので、count out は人を活動の輪から除外することにも、お金を1枚ずつ数えて外へ差し出すことにも広がります。
+
+### よくある誤用
+
+⚠️ \`You can count me out on this project — I'll definitely help.\`（誤・意味が逆）。参加するなら count me **on** this... とはあまり言わず、通常は You can count on me. のように使う。count out は「参加しない」の意味になるため、協力の意思表示には count on を使う。
+
+⚠️ \`Please count on the change before handing it over.\`（誤）。お金を数えるのは count **out**。count on にお金を数える意味はありません。
+
+🎯 覚え方：**on＝相手の上に信頼を置く（頼りにする）**、**out＝輪の外へ出す（除外する・数えて渡す）**。`,keyPoints:[`count on＝～を頼りにする・当てにする（rely on/trust）`,`count out＝～を除外する／お金を数えて出す（exclude/count individually）`,`count on は信頼を置く前向きな動作、count out は輪の外に出す動作`,`on＝信頼を置く、out＝輪の外へ出す、という前置詞イメージの違い`],quiz:[{id:`q-counton-1`,question:`空所に入る適切な語はどれですか。「You can always ( ) me for support during hard times.」`,options:[`count out`,`count on`,`count toward`,`count against`],correctAnswer:1,explanation:`頼りにするのは count on。`},{id:`q-counton-2`,question:`空所に入る適切な語はどれですか。「If the trip involves camping in winter, you can ( ) me!」`,options:[`count on`,`count in`,`count out`,`count toward`],correctAnswer:2,explanation:`参加しない意思を示すのは count me out。`},{id:`q-counton-3`,question:`空所に入る適切な語はどれですか。「The cashier carefully ( ) the change before handing it over.」`,options:[`counted on`,`counted out`,`counted toward`,`counted against`],correctAnswer:1,explanation:`お金を数えて出すのも count out。`},{id:`q-counton-4`,question:`count on の言い換えとして最も適切なものはどれですか。`,options:[`rely on`,`exclude`,`count individually`,`have a negative effect`],correctAnswer:0,explanation:`count on は rely on（頼りにする）という意味です。`},{id:`q-counton-5`,question:`count on と count out の関係として正しいものはどれですか。`,options:[`信頼を置くことと除外することで、方向が正反対`,`意味がほぼ同じ`,`両方とも除外を意味する`,`out の方が信頼を表す`],correctAnswer:0,explanation:`count on は信頼、count out は除外という正反対の意味です。`}]},{id:`count-toward-count-against`,title:`count toward と count against`,chapter:5,hubId:`count`,description:`count toward は「〜の一部として加算される」、count against は「〜にとって不利に働く」。プラスに積み上がるか、マイナスに働くかの違いです。`,content:`## プラスに積み上がるか、マイナスに働くか
+
+count toward と count against はどちらも「評価に影響する」という点で似ていますが、toward の「目標に向かって積み上がる」イメージと against の「相手に不利に働きかける」イメージで、影響の方向が正反対です。
+
+| 熟語 | 中心の意味 | 典型的な使われ方 |
+| --- | --- | --- |
+| count **toward**（towards） | ～の一部として加算される | count toward a degree, a total |
+| count **against** | ～にとって不利に働く | count against a candidate |
+
+### count toward の使い分け
+
+count toward は「ある数値・実績が、目標達成のための一部としてプラスに加算される」という意味で、"These credits count toward your final degree." のように使われます。スポーツの得点やポイント制度でも頻出する表現です。
+
+### count against の使い分け
+
+count against は「ある事実・条件が、評価や成功の可能性にマイナスに働く」という意味で、"His lack of experience will count against him in the interview." のように使われます。裁判や選考など、評価が下される場面で頻出します。
+
+### 使い分けの手がかり
+
+**count toward は contribute positively to a total に置換**でき、加算される対象はプラスの実績・数値です。**count against は have a negative effect on に置換**でき、対象は不利に働く欠点・条件です。「プラスに積み上がる」か「マイナスに働く」かで、toward と against がそのまま評価の方向になります。
+
+### なぜ直訳で読み解けないか
+
+toward は「目標に向かって近づいていく」イメージなので、count toward は数値や実績が目標達成に向けてプラスに積み上がることを表します。against は「相手や目標に逆らって働きかける」イメージなので、count against はある条件が評価や成功に逆行する形で不利に作用することを表します。
+
+### よくある誤用
+
+⚠️ \`His fluent English will count against him in the international role.\`（誤・意味が逆＝有利な要素のはず）。有利に働く要素は通常 count **toward**（あるいは work in his favor）と表現する。count against は不利な要素に使う。
+
+⚠️ \`These extra hours count against your final grade.\`（意味が逆になりうる・要注意）。追加時間がプラスに加算されるなら count **toward**。against だと「マイナスに響く」という逆の意味になる。
+
+🎯 覚え方：**toward＝目標に向けてプラスに積み上がる（加算される）**、**against＝相手に逆らって不利に働く（マイナスに働く）**。`,keyPoints:[`count toward（towards）＝～の一部として加算される（contribute positively to a total）`,`count against＝～にとって不利に働く（have a negative effect on）`,`toward はプラスの加算、against はマイナスの影響で、評価の方向が正反対`,`前置詞の意味（〜に向かって／〜に逆らって）がそのまま評価の方向に対応する`],quiz:[{id:`q-counttoward-1`,question:`空所に入る適切な語はどれですか。「These volunteer hours will ( ) your graduation requirements.」`,options:[`count against`,`count toward`,`count out`,`count on`],correctAnswer:1,explanation:`加算されるのは count toward。`},{id:`q-counttoward-2`,question:`空所に入る適切な語はどれですか。「His criminal record is likely to ( ) him during the background check.」`,options:[`count toward`,`count on`,`count against`,`count out`],correctAnswer:2,explanation:`不利に働くのは count against。`},{id:`q-counttoward-3`,question:`空所に入る適切な語はどれですか。「Every goal you score this season will ( ) the team’s final ranking.」`,options:[`count against`,`count out`,`count toward`,`count on`],correctAnswer:2,explanation:`順位にプラスされるのも count toward。`},{id:`q-counttoward-4`,question:`count against の言い換えとして最も適切なものはどれですか。`,options:[`have a negative effect on`,`contribute positively to a total`,`rely on`,`exclude`],correctAnswer:0,explanation:`count against は不利に働くという意味です。`},{id:`q-counttoward-5`,question:`count toward と count against の関係として正しいものはどれですか。`,options:[`プラスの加算とマイナスの影響で、評価の方向が正反対`,`意味がほぼ同じ`,`両方ともプラスの意味を持つ`,`against の方がプラスに働く`],correctAnswer:0,explanation:`count toward はプラス、count against はマイナスという正反対の意味です。`}]}],c={1:`スペルが似ている語`,2:`意味が近く使い分けが難しい語`,3:`品詞・派生でまぎらわしい語`,4:`発音が似ている語`,5:`熟語・句動詞でまぎらわしいもの`},l={audience:`大学受験・TOEIC・英検の学習者、英語を学び直す社会人`,approach:`一対一の和訳暗記ではなく、意味の核と使い分けを比較表とミニ問題で身につける`},u=[{id:`take`,verb:`take`,title:`take は前置詞でどう意味が変わる？`,description:`take の中心イメージ「手を伸ばして自分の側に取り込む」が、続く前置詞・副詞でどう枝分かれするかをまとめたハブページ。`,content:`## take の中心イメージ
 
 take は「（手を伸ばして）つかむ・取る」が核となる意味です。そこから「何かを自分の領域・内側に取り込む」という比喩が幅広く枝分かれし、続く前置詞・副詞が「何を」「どこから」「どんな向きで」取り込むかを決めます。
 
@@ -7608,5 +7794,38 @@ work は「（対象に力を加えて）働きかける」が核となる意味
 | work through | through（障害を貫通して進む） | （問題・感情）を段階的に処理する |
 | work up | up（労力を積み上げて生み出す） | （食欲・計画等を）作り上げる／興奮させる |
 
-work out は「問題を計算して答えを外へ導き出す」イメージで、解決策を見つけることにも、体を鍛えることにも、物事がうまく運ぶことにも使われます。work on は「対象に接触し続けて働きかける」イメージで、改善やスキルの向上に取り組む場面の定番です。work through は「障害を最初から最後まで貫通して進む」イメージから、複雑な問題や悲しみの感情を段階的に処理することを表し、work up は「労力を積み上げて何かを生み出す」イメージから、食欲を作り上げることにも、人を興奮状態にまで高めることにも使われます。`,previewPairs:[`work out vs work on（解決する・鍛える／取り組む）`,`work through vs work up（段階的に処理する／作り上げる・興奮させる）`]}];function d(e){let t=[],n=0,r,i=/\[([^\]]+)\]\(([^)]+)\)|\*\*([^*]+)\*\*|`([^`]+)`/g;for(;(r=i.exec(e))!==null;)r.index>n&&t.push({t:`text`,v:e.slice(n,r.index)}),r[1]!==void 0&&r[2]!==void 0?t.push({t:`link`,label:r[1],url:r[2]}):r[3]===void 0?r[4]!==void 0&&t.push({t:`code`,v:r[4]}):t.push({t:`bold`,children:d(r[3])}),n=r.index+r[0].length;return n<e.length&&t.push({t:`text`,v:e.slice(n)}),t}var f=i();function p({questions:e}){let[t,n]=(0,a.useState)(0),[r,i]=(0,a.useState)(null),[o,s]=(0,a.useState)(!1),[c,l]=(0,a.useState)(0),[u,d]=(0,a.useState)(!1),p=e[t],m=t===e.length-1,h=e=>{o||(i(e),s(!0),e===p.correctAnswer&&l(e=>e+1))},g=()=>{if(m){d(!0);return}n(e=>e+1),i(null),s(!1)},_=()=>{n(0),i(null),s(!1),l(0),d(!1)};if(u){let t=Math.round(c/e.length*100),n=t>=80?`よくできました。この区別はばっちりです。`:t>=50?`あと少し。間違えた問題の解説を読み返しましょう。`:`もう一度、上の比較表と例文を見てから挑戦しましょう。`;return(0,f.jsxs)(`div`,{className:`quiz quiz-result`,children:[(0,f.jsxs)(`p`,{className:`quiz-score`,children:[e.length,`問中 `,(0,f.jsx)(`strong`,{children:c}),`問正解（`,t,`%）`]}),(0,f.jsx)(`p`,{className:`quiz-msg`,children:n}),(0,f.jsx)(`button`,{className:`btn`,onClick:_,children:`もう一度`})]})}return(0,f.jsxs)(`div`,{className:`quiz`,children:[(0,f.jsx)(`div`,{className:`quiz-head`,children:(0,f.jsxs)(`span`,{className:`quiz-count`,children:[`第 `,t+1,` / `,e.length,` 問`]})}),(0,f.jsx)(`p`,{className:`quiz-q`,children:p.question}),(0,f.jsx)(`ul`,{className:`quiz-options`,children:p.options.map((e,t)=>{let n=`quiz-option`;return o&&(t===p.correctAnswer?n+=` is-correct`:t===r&&(n+=` is-wrong`)),(0,f.jsx)(`li`,{children:(0,f.jsxs)(`button`,{className:n,onClick:()=>h(t),disabled:o,children:[(0,f.jsx)(`span`,{className:`quiz-mark`,"aria-hidden":`true`,children:o&&t===p.correctAnswer?`○`:o&&t===r?`×`:``}),(0,f.jsx)(`span`,{children:e})]})},t)})}),o&&(0,f.jsxs)(`div`,{className:`quiz-explain`,children:[(0,f.jsx)(`p`,{className:r===p.correctAnswer?`quiz-verdict ok`:`quiz-verdict ng`,children:r===p.correctAnswer?`正解`:`不正解`}),(0,f.jsx)(`p`,{children:p.explanation}),(0,f.jsx)(`button`,{className:`btn`,onClick:g,children:m?`結果を見る`:`次の問題へ`})]})]})}var m=`/eng-confusables`,h=e=>`${e}-phrasal-verbs`;function g(e){let t=e;if(t.startsWith(m)&&(t=t.slice(16)),t=t.replace(/^\/+|\/+$/g,``),t===``)return{view:`home`};if(t===`about`)return{view:`about`};if(t===`privacy`)return{view:`privacy`};let n=u.find(e=>h(e.verb)===t);if(n)return{view:`hub`,id:n.id};let r=s.find(e=>e.id===t);return r?{view:`pair`,id:r.id}:{view:`home`}}function _(e){switch(e.view){case`home`:return`${m}/`;case`pair`:return`${m}/${e.id}/`;case`hub`:{let t=u.find(t=>t.id===e.id);return`${m}/${t?h(t.verb):e.id}/`}default:return`${m}/${e.view}/`}}function v(e,t){return e.map((e,n)=>{let r=`${t}-${n}`;switch(e.t){case`text`:return(0,f.jsx)(`span`,{children:e.v},r);case`bold`:return(0,f.jsx)(`strong`,{children:v(e.children,r)},r);case`code`:return(0,f.jsx)(`code`,{children:e.v},r);case`link`:return/^https?:\/\//.test(e.url)?(0,f.jsx)(`a`,{href:e.url,target:`_blank`,rel:`noopener noreferrer`,children:e.label},r):(0,f.jsx)(`a`,{href:e.url,children:e.label},r)}})}var y=(e,t)=>v(d(e),t),b={"💡":{label:`コツ`,cls:`callout-tip`},"🎯":{label:`試験ポイント`,cls:`callout-exam`},"⚠️":{label:`注意`,cls:`callout-warn`},"📖":{label:`発展`,cls:`callout-read`}};function x(e){let t=e.split(`
+work out は「問題を計算して答えを外へ導き出す」イメージで、解決策を見つけることにも、体を鍛えることにも、物事がうまく運ぶことにも使われます。work on は「対象に接触し続けて働きかける」イメージで、改善やスキルの向上に取り組む場面の定番です。work through は「障害を最初から最後まで貫通して進む」イメージから、複雑な問題や悲しみの感情を段階的に処理することを表し、work up は「労力を積み上げて何かを生み出す」イメージから、食欲を作り上げることにも、人を興奮状態にまで高めることにも使われます。`,previewPairs:[`work out vs work on（解決する・鍛える／取り組む）`,`work through vs work up（段階的に処理する／作り上げる・興奮させる）`]},{id:`back`,verb:`back`,title:`back は前置詞でどう意味が変わる？`,description:`back の中心イメージ「後方・元の位置」が、続く前置詞・副詞でどう枝分かれするかをまとめたハブページ。`,content:`## back の中心イメージ
+
+back は「後ろ・元の位置」が核となる意味です。物理的な後退から、支持・撤回・回避という比喩に広がり、続く前置詞・副詞が「何を、どちらの方向へ後ろに動かすか」を決めます。
+
+| 熟語 | 前置詞・副詞のイメージ | 中心的な意味 |
+| --- | --- | --- |
+| back up | up（背後から押し上げて補強） | ～を支持する・裏付ける／データを複製保存する |
+| back down | down（姿勢を低くして引く） | 主張・要求を撤回する |
+| back out | out（合意の外へ抜け出る） | （合意・計画から）手を引く |
+| back away | away（危険から離れて後退する） | 後ずさりする／関与をやめる |
+
+back up は「背後から相手を押し上げて支える」イメージで、人の主張を裏付けることにも、データの複製保存にも使われます。back down は「姿勢を低くして引き下がる」イメージから、それまでの強い主張を撤回することを表します。back out は「合意という枠の外へ後ろ向きに抜け出る」イメージで、既に決めたことから土壇場で手を引くことを表し、back away は「危険や不快なものから物理的・比喩的に後退する」イメージで、その場を離れることにも、関与そのものをやめることにも使われます。`,previewPairs:[`back up vs back down（支持する・裏付ける／撤回する）`,`back out vs back away（手を引く／後ずさりする・関与をやめる）`]},{id:`close`,verb:`close`,title:`close は前置詞でどう意味が変わる？`,description:`close の中心イメージ「閉じる」が、続く前置詞・副詞でどう枝分かれするかをまとめたハブページ。`,content:`## close の中心イメージ
+
+close は「閉じる」が核となる意味です。物理的に閉じる動作から、事業の終了・包囲・遮断という比喩に広がり、続く前置詞・副詞が「何が、どのように閉じるか」を決めます。
+
+| 熟語 | 前置詞・副詞のイメージ | 中心的な意味 |
+| --- | --- | --- |
+| close down | down（完全にシャッターを下ろす） | （事業・施設が）永久に閉鎖する |
+| close in on | in on（包囲網を狭める） | ～に迫る・追い詰める |
+| close up | up（隙間を詰めて閉じる） | （一時的に）閉店する／傷がふさがる／間隔を詰める |
+| close off | off（切り離して遮断する） | （区域を）封鎖する・立ち入り禁止にする |
+
+close down は「事業や施設のシャッターを完全に下ろして二度と開けない」イメージで、恒久的な閉鎖を表します。close in on は「包囲する側が輪を狭めていく」イメージで、獲物や目標に迫る場面に使われます。close up は「隙間や傷口を詰めて一時的に閉じる」イメージで、閉店にも、傷の治癒にも、隊列の間隔を詰めることにも広がります。close off は「特定の区域を他から切り離して遮断する」イメージで、道路封鎖や立ち入り禁止の場面で使われます。`,previewPairs:[`close down vs close in on（永久閉鎖する／迫る・追い詰める）`,`close up vs close off（一時閉店する・ふさがる／封鎖する）`]},{id:`count`,verb:`count`,title:`count は前置詞でどう意味が変わる？`,description:`count の中心イメージ「数える」が、続く前置詞・副詞でどう枝分かれするかをまとめたハブページ。`,content:`## count の中心イメージ
+
+count は「数える」が核となる意味です。数を数える動作から、信頼・除外・評価への影響という比喩に広がり、続く前置詞・副詞が「何を、どちらの方向に数えるか」を決めます。
+
+| 熟語 | 前置詞・副詞のイメージ | 中心的な意味 |
+| --- | --- | --- |
+| count on | on（相手の上に信頼を置く） | ～を頼りにする・当てにする |
+| count out | out（数え終えて枠外に出す） | ～を除外する／お金を数えて出す |
+| count toward | toward（目標に向けて積み上がる） | ～の一部として加算される |
+| count against | against（相手に不利に働きかける） | ～にとって不利に働く |
+
+count on は「相手の存在の上に自分の期待を置く」イメージで、頼りにする・当てにするという信頼を表します。count out は「対象を数え終えて輪の外に出す」イメージから、人を仲間はずれにする（除外する）ことにも、お金を1枚ずつ数えて手渡すことにも使われます。count toward は「目標に向かって数値が積み上がっていく」イメージで、単位や成績が加算される場面に、count against は「数えた結果が相手に不利な方向へ働く」イメージで、評価やマイナス材料になる場面に使われます。`,previewPairs:[`count on vs count out（頼りにする／除外する・数えて出す）`,`count toward vs count against（加算される／不利に働く）`]}];function d(e){let t=[],n=0,r,i=/\[([^\]]+)\]\(([^)]+)\)|\*\*([^*]+)\*\*|`([^`]+)`/g;for(;(r=i.exec(e))!==null;)r.index>n&&t.push({t:`text`,v:e.slice(n,r.index)}),r[1]!==void 0&&r[2]!==void 0?t.push({t:`link`,label:r[1],url:r[2]}):r[3]===void 0?r[4]!==void 0&&t.push({t:`code`,v:r[4]}):t.push({t:`bold`,children:d(r[3])}),n=r.index+r[0].length;return n<e.length&&t.push({t:`text`,v:e.slice(n)}),t}var f=i();function p({questions:e}){let[t,n]=(0,a.useState)(0),[r,i]=(0,a.useState)(null),[o,s]=(0,a.useState)(!1),[c,l]=(0,a.useState)(0),[u,d]=(0,a.useState)(!1),p=e[t],m=t===e.length-1,h=e=>{o||(i(e),s(!0),e===p.correctAnswer&&l(e=>e+1))},g=()=>{if(m){d(!0);return}n(e=>e+1),i(null),s(!1)},_=()=>{n(0),i(null),s(!1),l(0),d(!1)};if(u){let t=Math.round(c/e.length*100),n=t>=80?`よくできました。この区別はばっちりです。`:t>=50?`あと少し。間違えた問題の解説を読み返しましょう。`:`もう一度、上の比較表と例文を見てから挑戦しましょう。`;return(0,f.jsxs)(`div`,{className:`quiz quiz-result`,children:[(0,f.jsxs)(`p`,{className:`quiz-score`,children:[e.length,`問中 `,(0,f.jsx)(`strong`,{children:c}),`問正解（`,t,`%）`]}),(0,f.jsx)(`p`,{className:`quiz-msg`,children:n}),(0,f.jsx)(`button`,{className:`btn`,onClick:_,children:`もう一度`})]})}return(0,f.jsxs)(`div`,{className:`quiz`,children:[(0,f.jsx)(`div`,{className:`quiz-head`,children:(0,f.jsxs)(`span`,{className:`quiz-count`,children:[`第 `,t+1,` / `,e.length,` 問`]})}),(0,f.jsx)(`p`,{className:`quiz-q`,children:p.question}),(0,f.jsx)(`ul`,{className:`quiz-options`,children:p.options.map((e,t)=>{let n=`quiz-option`;return o&&(t===p.correctAnswer?n+=` is-correct`:t===r&&(n+=` is-wrong`)),(0,f.jsx)(`li`,{children:(0,f.jsxs)(`button`,{className:n,onClick:()=>h(t),disabled:o,children:[(0,f.jsx)(`span`,{className:`quiz-mark`,"aria-hidden":`true`,children:o&&t===p.correctAnswer?`○`:o&&t===r?`×`:``}),(0,f.jsx)(`span`,{children:e})]})},t)})}),o&&(0,f.jsxs)(`div`,{className:`quiz-explain`,children:[(0,f.jsx)(`p`,{className:r===p.correctAnswer?`quiz-verdict ok`:`quiz-verdict ng`,children:r===p.correctAnswer?`正解`:`不正解`}),(0,f.jsx)(`p`,{children:p.explanation}),(0,f.jsx)(`button`,{className:`btn`,onClick:g,children:m?`結果を見る`:`次の問題へ`})]})]})}var m=`/eng-confusables`,h=e=>`${e}-phrasal-verbs`;function g(e){let t=e;if(t.startsWith(m)&&(t=t.slice(16)),t=t.replace(/^\/+|\/+$/g,``),t===``)return{view:`home`};if(t===`about`)return{view:`about`};if(t===`privacy`)return{view:`privacy`};let n=u.find(e=>h(e.verb)===t);if(n)return{view:`hub`,id:n.id};let r=s.find(e=>e.id===t);return r?{view:`pair`,id:r.id}:{view:`home`}}function _(e){switch(e.view){case`home`:return`${m}/`;case`pair`:return`${m}/${e.id}/`;case`hub`:{let t=u.find(t=>t.id===e.id);return`${m}/${t?h(t.verb):e.id}/`}default:return`${m}/${e.view}/`}}function v(e,t){return e.map((e,n)=>{let r=`${t}-${n}`;switch(e.t){case`text`:return(0,f.jsx)(`span`,{children:e.v},r);case`bold`:return(0,f.jsx)(`strong`,{children:v(e.children,r)},r);case`code`:return(0,f.jsx)(`code`,{children:e.v},r);case`link`:return/^https?:\/\//.test(e.url)?(0,f.jsx)(`a`,{href:e.url,target:`_blank`,rel:`noopener noreferrer`,children:e.label},r):(0,f.jsx)(`a`,{href:e.url,children:e.label},r)}})}var y=(e,t)=>v(d(e),t),b={"💡":{label:`コツ`,cls:`callout-tip`},"🎯":{label:`試験ポイント`,cls:`callout-exam`},"⚠️":{label:`注意`,cls:`callout-warn`},"📖":{label:`発展`,cls:`callout-read`}};function x(e){let t=e.split(`
 `),n=[],r=0,i=0;for(;r<t.length;){let e=t[r].trim();if(e===``){r++;continue}if(/^---+$/.test(e)){n.push((0,f.jsx)(`hr`,{},i++)),r++;continue}if(e.startsWith(`### `)){n.push((0,f.jsx)(`h3`,{children:y(e.slice(4),`h${i}`)},i++)),r++;continue}if(e.startsWith(`## `)){n.push((0,f.jsx)(`h2`,{children:y(e.slice(3),`h${i}`)},i++)),r++;continue}let a=Object.keys(b).find(t=>e.startsWith(t));if(a){let{label:t,cls:o}=b[a];n.push((0,f.jsxs)(`div`,{className:`callout ${o}`,children:[(0,f.jsx)(`span`,{className:`callout-label`,children:t}),(0,f.jsx)(`p`,{children:y(e.slice(a.length).trim(),`c${i}`)})]},i++)),r++;continue}if(e.startsWith(`|`)){let e=[];for(;r<t.length&&t[r].trim().startsWith(`|`);)e.push(t[r].trim()),r++;let a=e.map(e=>e.replace(/^\||\|$/g,``).split(`|`).map(e=>e.trim())).filter(e=>!e.every(e=>/^:?-+:?$/.test(e)||e===``));if(a.length){let[e,...t]=a;n.push((0,f.jsx)(`div`,{className:`table-wrap`,children:(0,f.jsxs)(`table`,{children:[(0,f.jsx)(`thead`,{children:(0,f.jsx)(`tr`,{children:e.map((e,t)=>(0,f.jsx)(`th`,{children:y(e,`th${i}-${t}`)},t))})}),(0,f.jsx)(`tbody`,{children:t.map((e,t)=>(0,f.jsx)(`tr`,{children:e.map((e,n)=>(0,f.jsx)(`td`,{children:y(e,`td${i}-${t}-${n}`)},n))},t))})]})},i++))}continue}if(/^\d+\.\s/.test(e)){let e=[];for(;r<t.length&&/^\d+\.\s/.test(t[r].trim());)e.push(t[r].trim().replace(/^\d+\.\s/,``)),r++;n.push((0,f.jsx)(`ol`,{children:e.map((e,t)=>(0,f.jsx)(`li`,{children:y(e,`ol${i}-${t}`)},t))},i++));continue}if(/^[-*]\s/.test(e)){let e=[];for(;r<t.length&&/^[-*]\s/.test(t[r].trim());)e.push(t[r].trim().replace(/^[-*]\s/,``)),r++;n.push((0,f.jsx)(`ul`,{children:e.map((e,t)=>(0,f.jsx)(`li`,{children:y(e,`ul${i}-${t}`)},t))},i++));continue}n.push((0,f.jsx)(`p`,{children:y(e,`p${i}`)},i++)),r++}return n}var S=e=>`${e.id} ${e.title} ${e.description}`.toLowerCase();function C(){let[e,t]=(0,a.useState)(()=>g(window.location.pathname)),[n,r]=(0,a.useState)(!1),i=(0,a.useCallback)(e=>{window.history.pushState({},``,_(e)),t(e),r(!1),window.scrollTo(0,0)},[]);return(0,a.useEffect)(()=>{let e=()=>t(g(window.location.pathname));return window.addEventListener(`popstate`,e),()=>window.removeEventListener(`popstate`,e)},[]),(0,f.jsxs)(`div`,{className:`app`,children:[(0,f.jsx)(w,{route:e,navigate:i,menuOpen:n,setMenuOpen:r}),(0,f.jsxs)(`main`,{className:`main`,children:[e.view===`home`&&(0,f.jsx)(T,{navigate:i}),e.view===`pair`&&(0,f.jsx)(E,{id:e.id,navigate:i}),e.view===`hub`&&(0,f.jsx)(D,{id:e.id,navigate:i}),e.view===`about`&&(0,f.jsx)(O,{}),e.view===`privacy`&&(0,f.jsx)(k,{})]}),(0,f.jsx)(A,{navigate:i})]})}function w({route:e,navigate:t,menuOpen:n,setMenuOpen:r}){return(0,f.jsx)(`header`,{className:`site-header`,children:(0,f.jsxs)(`div`,{className:`header-inner`,children:[(0,f.jsx)(`a`,{className:`brand`,href:`${m}/`,onClick:e=>{e.preventDefault(),t({view:`home`})},children:`まぎらわしい英単語・熟語ノート`}),(0,f.jsxs)(`button`,{className:`menu-toggle`,"aria-label":`メニュー`,"aria-expanded":n,onClick:()=>r(!n),children:[(0,f.jsx)(`span`,{}),(0,f.jsx)(`span`,{}),(0,f.jsx)(`span`,{})]}),(0,f.jsxs)(`nav`,{className:`site-nav ${n?`open`:``}`,children:[(0,f.jsx)(`a`,{href:`${m}/`,onClick:e=>{e.preventDefault(),t({view:`home`})},className:e.view===`home`?`active`:``,children:`さがす`}),(0,f.jsx)(`a`,{href:`${m}/about/`,onClick:e=>{e.preventDefault(),t({view:`about`})},className:e.view===`about`?`active`:``,children:`このサイトについて`})]})]})})}function T({navigate:t}){let[r,i]=(0,a.useState)(``),[o,d]=(0,a.useState)(0),p=(0,a.useMemo)(()=>{let e=r.trim().toLowerCase();return s.filter(t=>!(o!==0&&t.chapter!==o||e&&!S(t).includes(e)))},[r,o]);return(0,f.jsxs)(`div`,{className:`home`,children:[(0,f.jsxs)(`section`,{className:`hero`,children:[(0,f.jsx)(`h1`,{children:`まぎらわしい英単語・熟語を、引いて見分ける`}),(0,f.jsxs)(`p`,{className:`hero-lead`,children:[l.approach,`。`,s.length,`組の混同ペアを、比較表とミニ問題でまとめました。`]}),(0,f.jsxs)(`div`,{className:`search-box`,children:[(0,f.jsx)(e,{size:18,"aria-hidden":`true`}),(0,f.jsx)(`input`,{type:`search`,value:r,onChange:e=>i(e.target.value),placeholder:`単語で検索（例：affect, lie, breed）`,"aria-label":`単語を検索`,autoComplete:`off`}),r&&(0,f.jsx)(`button`,{className:`search-clear`,"aria-label":`クリア`,onClick:()=>i(``),children:(0,f.jsx)(n,{size:16})})]}),(0,f.jsxs)(`div`,{className:`cat-chips`,role:`tablist`,"aria-label":`カテゴリで絞り込み`,children:[(0,f.jsx)(`button`,{className:`chip ${o===0?`active`:``}`,onClick:()=>d(0),children:`すべて`}),[1,2,3,4,5].map(e=>(0,f.jsx)(`button`,{className:`chip ${o===e?`active`:``}`,onClick:()=>d(e),children:c[e]},e))]})]}),(o===0||o===5)&&!r&&(0,f.jsxs)(`section`,{className:`results`,"aria-label":`熟語・句動詞の動詞ハブ`,children:[(0,f.jsx)(`h2`,{style:{fontSize:`1.05rem`,margin:`0 0 10px`},children:`動詞から熟語をさがす`}),(0,f.jsx)(`ul`,{className:`pair-list`,style:{listStyle:`none`,padding:0},children:u.map(e=>(0,f.jsx)(`li`,{children:(0,f.jsxs)(`a`,{href:`${m}/${h(e.verb)}/`,onClick:n=>{n.preventDefault(),t({view:`hub`,id:e.id})},children:[(0,f.jsx)(`span`,{className:`pair-title`,children:e.verb}),(0,f.jsx)(`span`,{className:`pair-desc`,children:e.description})]})},e.id))})]}),(0,f.jsxs)(`section`,{className:`results`,children:[(0,f.jsxs)(`p`,{className:`results-count`,children:[p.length,` 組`,r?`（「${r}」で検索）`:``]}),p.length===0?(0,f.jsx)(`p`,{className:`no-results`,children:`該当する単語が見つかりませんでした。スペルを変えて試してください。`}):(0,f.jsx)(`ol`,{className:`pair-list`,children:p.map(e=>(0,f.jsx)(`li`,{children:(0,f.jsxs)(`a`,{href:`${m}/${e.id}/`,onClick:n=>{n.preventDefault(),t({view:`pair`,id:e.id})},children:[(0,f.jsx)(`span`,{className:`pair-title`,children:e.title}),(0,f.jsx)(`span`,{className:`pair-cat`,children:c[e.chapter]}),(0,f.jsx)(`span`,{className:`pair-desc`,children:e.description})]})},e.id))})]})]})}function E({id:e,navigate:t}){let n=s[s.findIndex(t=>t.id===e)];if(!n)return(0,f.jsx)(`p`,{children:`ページが見つかりませんでした。`});let r=s.filter(e=>e.chapter===n.chapter),i=r.findIndex(t=>t.id===e),a=i>0?r[i-1]:null,o=i<r.length-1?r[i+1]:null;return(0,f.jsxs)(`article`,{className:`pair`,children:[(0,f.jsxs)(`nav`,{className:`breadcrumb`,children:[(0,f.jsx)(`a`,{href:`${m}/`,onClick:e=>{e.preventDefault(),t({view:`home`})},children:`さがす`}),(0,f.jsx)(`span`,{"aria-hidden":`true`,children:`/`}),(0,f.jsx)(`span`,{children:c[n.chapter]})]}),(0,f.jsxs)(`header`,{className:`pair-header`,children:[(0,f.jsx)(`p`,{className:`pair-cat-label`,children:c[n.chapter]}),(0,f.jsx)(`h1`,{children:n.title}),(0,f.jsx)(`p`,{className:`pair-lead`,children:n.description})]}),(0,f.jsx)(`div`,{className:`pair-body`,children:x(n.content)}),n.keyPoints&&n.keyPoints.length>0&&(0,f.jsxs)(`section`,{className:`keypoints`,children:[(0,f.jsx)(`h2`,{children:`まとめ`}),(0,f.jsx)(`ul`,{children:n.keyPoints.map((e,t)=>(0,f.jsx)(`li`,{children:e},t))})]}),(0,f.jsxs)(`section`,{className:`quiz-section`,children:[(0,f.jsx)(`h2`,{children:`理解度チェック（任意）`}),(0,f.jsx)(p,{questions:n.quiz})]}),(0,f.jsxs)(`nav`,{className:`pair-nav`,children:[a?(0,f.jsxs)(`button`,{className:`btn`,onClick:()=>t({view:`pair`,id:a.id}),children:[`← `,a.title]}):(0,f.jsx)(`span`,{}),o?(0,f.jsxs)(`button`,{className:`btn btn-primary`,onClick:()=>t({view:`pair`,id:o.id}),children:[o.title,` →`]}):(0,f.jsx)(`button`,{className:`btn`,onClick:()=>t({view:`home`}),children:`一覧へ戻る`})]})]})}function D({id:e,navigate:t}){let n=u.find(t=>t.id===e);if(!n)return(0,f.jsx)(`p`,{children:`ページが見つかりませんでした。`});let r=s.filter(e=>e.hubId===n.id);return(0,f.jsxs)(`article`,{className:`pair`,children:[(0,f.jsxs)(`nav`,{className:`breadcrumb`,children:[(0,f.jsx)(`a`,{href:`${m}/`,onClick:e=>{e.preventDefault(),t({view:`home`})},children:`さがす`}),(0,f.jsx)(`span`,{"aria-hidden":`true`,children:`/`}),(0,f.jsx)(`span`,{children:c[5]})]}),(0,f.jsxs)(`header`,{className:`pair-header`,children:[(0,f.jsx)(`p`,{className:`pair-cat-label`,children:`動詞ハブ`}),(0,f.jsx)(`h1`,{children:n.title}),(0,f.jsx)(`p`,{className:`pair-lead`,children:n.description})]}),(0,f.jsx)(`div`,{className:`pair-body`,children:x(n.content)}),(0,f.jsxs)(`section`,{className:`keypoints`,children:[(0,f.jsx)(`h2`,{children:r.length>0?`${n.verb} の熟語ペア一覧`:`${n.verb} で今後扱う予定の熟語ペア`}),r.length>0?(0,f.jsx)(`ul`,{className:`pair-list`,style:{listStyle:`none`,padding:0},children:r.map(e=>(0,f.jsx)(`li`,{children:(0,f.jsxs)(`a`,{href:`${m}/${e.id}/`,onClick:n=>{n.preventDefault(),t({view:`pair`,id:e.id})},children:[(0,f.jsx)(`span`,{className:`pair-title`,children:e.title}),(0,f.jsx)(`span`,{className:`pair-desc`,children:e.description})]})},e.id))}):(0,f.jsxs)(f.Fragment,{children:[(0,f.jsx)(`ul`,{children:n.previewPairs.map((e,t)=>(0,f.jsx)(`li`,{children:e},t))}),(0,f.jsx)(`p`,{style:{color:`#868d99`,fontSize:`0.9rem`},children:`各ページは準備中です。公開までこのハブページで前置詞ごとの意味の違いを先に押さえておくと、個別ページの理解が早くなります。`})]})]}),(0,f.jsx)(`nav`,{className:`pair-nav`,children:(0,f.jsx)(`button`,{className:`btn`,onClick:()=>t({view:`home`}),children:`一覧へ戻る`})})]})}function O(){return(0,f.jsxs)(`div`,{className:`about`,children:[(0,f.jsx)(`h1`,{children:`このサイトについて`}),(0,f.jsx)(`h2`,{children:`サイトの目的と対象`}),(0,f.jsxs)(`p`,{children:[`「まぎらわしい英単語・熟語ノート」は、スペル・意味・品詞・発音が似ていて混同しやすい英単語のペア、および前置詞や副詞の違いで意味が変わる紛らわしい熟語・句動詞のペアを、引いてすぐに違いと使い分けが分かるようにまとめた逆引きの比較リファレンスです。`,l.audience,`を主な対象としています。`]}),(0,f.jsx)(`h2`,{children:`コンテンツ構成`}),(0,f.jsx)(`p`,{children:`混同しやすい語を「スペルが似ている語」「意味が近い語」「品詞・派生でまぎらわしい語」「発音が似ている語」の4カテゴリに分け、1ペア（または自然な語群）を1ページにまとめています。各ページに比較表・例文・覚え方・任意の確認問題を用意しています。`}),(0,f.jsx)(`h2`,{children:`編集・制作方針`}),(0,f.jsxs)(`p`,{children:[`各語の意味・品詞・自他・発音は辞書（Cambridge・Merriam-Webster・Wiktionary など）で事実を確認したうえで、解説は`,(0,f.jsx)(`strong`,{children:`すべて運営者が自分のことばで書き起こし`}),`、例文も自作しています。辞書の定義文や例文をそのまま転載することはしていません。確認できない語法は載せていません。誤りに気づいた場合は随時修正します。`]}),(0,f.jsx)(`h2`,{children:`運営者について`}),(0,f.jsx)(`p`,{children:`個人が運営しています。広告収入はサーバー・ドメインなどの維持費に充てています。`}),(0,f.jsx)(`h2`,{children:`お問い合わせ`}),(0,f.jsxs)(`p`,{children:[`内容の誤りのご指摘やご意見は、`,(0,f.jsx)(`a`,{href:`https://forms.gle/ccMv7oKwz6ysDHBe6`,target:`_blank`,rel:`noopener noreferrer`,children:`お問い合わせフォーム`}),`よりお寄せください。`]}),(0,f.jsx)(`h2`,{children:`免責事項`}),(0,f.jsx)(`p`,{children:`本サイトは内容の正確性に努めていますが、その完全性・正確性・有用性を保証するものではありません。学習の最終的な確認は辞書や公式教材で行ってください。本サイトの利用によって生じたいかなる損害についても責任を負いかねます。`})]})}function k(){return(0,f.jsxs)(`div`,{className:`privacy`,children:[(0,f.jsx)(`h1`,{children:`プライバシーポリシー`}),(0,f.jsx)(`h2`,{children:`アクセス解析（Google Analytics）`}),(0,f.jsx)(`p`,{children:`本サイトは利用状況の把握のためGoogle Analytics（GA4）を利用しています。Cookieを用いて匿名のトラフィックデータを収集するもので、個人を特定する情報は含みません。`}),(0,f.jsx)(`h2`,{children:`広告配信（Google AdSense）`}),(0,f.jsx)(`p`,{children:`本サイトは第三者配信の広告サービスGoogle AdSenseを利用しています。第三者配信事業者はCookieを使用して、ユーザーの興味に応じた広告を表示することがあります。`}),(0,f.jsx)(`h2`,{children:`Cookieの送信と無効化`}),(0,f.jsxs)(`p`,{children:[`これらのCookieによりGoogleや広告事業者にデータが送信されます。ユーザーは`,(0,f.jsx)(`a`,{href:`https://adssettings.google.com/`,target:`_blank`,rel:`noopener noreferrer`,children:`Googleの広告設定`}),`でパーソナライズ広告を無効にでき、ブラウザの設定でCookieを無効にすることもできます。`]}),(0,f.jsx)(`h2`,{children:`免責事項`}),(0,f.jsx)(`p`,{children:`本サイトの情報の利用により生じた損害について、運営者は責任を負いません。`}),(0,f.jsx)(`h2`,{children:`お問い合わせ`}),(0,f.jsxs)(`p`,{children:[`本ポリシーに関するお問い合わせは`,(0,f.jsx)(`a`,{href:`https://forms.gle/ccMv7oKwz6ysDHBe6`,target:`_blank`,rel:`noopener noreferrer`,children:`お問い合わせフォーム`}),`よりお願いします。`]}),(0,f.jsx)(`p`,{className:`notice`,children:`最終更新日：2026年6月15日`})]})}function A({navigate:e}){return(0,f.jsx)(`footer`,{className:`site-footer`,children:(0,f.jsxs)(`div`,{className:`footer-inner`,children:[(0,f.jsxs)(`nav`,{className:`footer-nav`,children:[(0,f.jsx)(`a`,{href:`${m}/`,onClick:t=>{t.preventDefault(),e({view:`home`})},children:`さがす`}),(0,f.jsx)(`a`,{href:`${m}/about/`,onClick:t=>{t.preventDefault(),e({view:`about`})},children:`このサイトについて`}),(0,f.jsx)(`a`,{href:`${m}/privacy/`,onClick:t=>{t.preventDefault(),e({view:`privacy`})},children:`プライバシーポリシー`}),(0,f.jsx)(`a`,{href:`https://study-apps.com/editorial-policy/`,target:`_blank`,rel:`noopener noreferrer`,children:`編集方針`}),(0,f.jsx)(`a`,{href:`https://study-apps.com/`,target:`_blank`,rel:`noopener noreferrer`,children:`study-apps.com`})]}),(0,f.jsx)(`p`,{className:`footer-note`,children:`個人運営の学習支援サイトです。最終的な確認は辞書や公式教材で行ってください。`})]})})}(0,o.createRoot)(document.getElementById(`root`)).render((0,f.jsx)(a.StrictMode,{children:(0,f.jsx)(C,{})}));
