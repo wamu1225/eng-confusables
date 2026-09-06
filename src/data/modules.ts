@@ -22592,4 +22592,178 @@ toward は「目標に向かって近づいていく」イメージなので、c
       },
     ],
   },
+  {
+    id: 'blow-up-blow-over',
+    title: 'blow up と blow over',
+    chapter: 5,
+    hubId: 'blow',
+    description: 'blow up は「爆発する・激怒する・膨らませる」、blow over は「（嵐・騒動が）自然に収まる」。圧力が高まって破裂するか、吹き抜けて過ぎ去るかの違いです。',
+    content: `## 破裂するか、吹き抜けて過ぎ去るか
+
+blow up と blow over はどちらも風・爆発に関わる比喩ですが、up の「内部圧力が高まる」イメージと over の「頭上を通り過ぎる」イメージで、結末が正反対です。
+
+| 熟語 | 中心の意味 | 典型的な使われ方 |
+| --- | --- | --- |
+| blow **up** | 爆発する／激怒する／（風船等を）膨らませる | the bomb blew up／he blew up at me |
+| blow **over** | （嵐・騒動・怒りが）自然に収まる | the storm blew over／the scandal blew over |
+
+### blow up の使い分け
+
+blow up の1つ目の意味は文字どおり「爆発する」（The building blew up in the explosion）。2つ目は口語で「突然激怒する」（She blew up at her colleague over a minor mistake）。3つ目は「（風船・タイヤなどに）空気を入れて膨らませる」（blow up a balloon）という意味です。
+
+### blow over の使い分け
+
+blow over は「（嵐が）吹き抜けて頭上を通り過ぎ、静まる」という文字どおりの意味から、比喩的に「（騒動・スキャンダル・怒りが）時間とともに自然に収まり、忘れられる」（The controversy will blow over in a few weeks）という意味に広がります。
+
+### 使い分けの手がかり
+
+**blow up は explode／erupt in anger／inflate に置換**でき、事態が頂点に達して破裂する動きです。**blow over は pass without lasting effect に置換**でき、事態が自然に鎮まっていく動きです。「頂点に達して破裂する」か「自然に静まって過ぎ去る」かで、up と over がそのまま結末の方向になります。
+
+### なぜ直訳で読み解けないか
+
+up は「内部の圧力が限界まで高まる」イメージなので、blow up は爆発・激怒・膨張という「圧力の頂点」を表します。over は「吹く風が頭上を通り抜けて先へ進む」イメージなので、blow over は嵐や騒動がその場に留まらず自然に過ぎ去っていくことを表します。
+
+### よくある誤用
+
+⚠️ \`Don't worry, this scandal will blow up in a few days.\`（誤・意味が逆）。騒動が自然に収まるのは blow **over**。blow up だと逆に「（さらに）大騒動になる」という意味になってしまいます。
+
+⚠️ \`He blew over at me for being late.\`（誤）。激怒したのは blow **up**。blow over に「激怒する」の意味はありません。
+
+🎯 覚え方：**up＝圧力が高まって破裂する（爆発する・激怒する・膨らませる）**、**over＝吹き抜けて過ぎ去る（自然に収まる）**。`,
+    keyPoints: [
+      'blow up＝爆発する／激怒する／（風船等を）膨らませる（explode/erupt in anger/inflate）',
+      'blow over＝（嵐・騒動が）自然に収まる（pass without lasting effect）',
+      'blow up は事態が頂点に達して破裂、blow over は事態が自然に鎮まる、で結末が正反対',
+      'up＝圧力が高まる、over＝吹き抜けて過ぎ去る、という前置詞イメージの違い',
+    ],
+    quiz: [
+      {
+        id: 'q-blowup-1',
+        question: '空所に入る適切な語はどれですか。「A gas leak caused the entire factory to ( ).」',
+        options: ['blow over', 'blow up', 'blow off', 'blow away'],
+        correctAnswer: 1,
+        explanation: '爆発したのは blow up。',
+      },
+      {
+        id: 'q-blowup-2',
+        question: '空所に入る適切な語はどれですか。「Don’t worry too much — this kind of media controversy usually ( ) within a week.」',
+        options: ['blows up', 'blows over', 'blows off', 'blows away'],
+        correctAnswer: 1,
+        explanation: '騒動が自然に収まるのは blow over。',
+      },
+      {
+        id: 'q-blowup-3',
+        question: '空所に入る適切な語はどれですか。「My boss completely ( ) when he found out about the missed deadline.」',
+        options: ['blew over', 'blew off', 'blew up', 'blew away'],
+        correctAnswer: 2,
+        explanation: '激怒したのも blow up。',
+      },
+      {
+        id: 'q-blowup-4',
+        question: 'blow over の言い換えとして最も適切なものはどれですか。',
+        options: ['explode', 'pass without lasting effect', 'inflate', 'erupt in anger'],
+        correctAnswer: 1,
+        explanation: 'blow over は「自然に収まる」という意味です。',
+      },
+      {
+        id: 'q-blowup-5',
+        question: 'blow up と blow over の関係として正しいものはどれですか。',
+        options: [
+          '圧力の頂点に達することと自然に鎮まることで、結末が正反対',
+          '意味がほぼ同じ',
+          '両方とも「収まる」を意味する',
+          'over の方が激しい結末を表す',
+        ],
+        correctAnswer: 0,
+        explanation: 'blow up は破裂・激化、blow over は鎮静という正反対の結末を表します。',
+      },
+    ],
+  },
+  {
+    id: 'blow-off-blow-away',
+    title: 'blow off と blow away',
+    chapter: 5,
+    hubId: 'blow',
+    description: 'blow off は「（約束を）すっぽかす・無視する」、blow away は「感嘆させる・圧勝する（俗に撃ち殺す）」。義務を吹き払うか、相手を吹き飛ばすほど圧倒するかの違いです。',
+    content: `## 義務を吹き払うか、相手を吹き飛ばすか
+
+blow off と blow away はどちらも「吹く」の比喩ですが、off の「表面から吹き払う」イメージと away の「対象を遠くへ吹き飛ばす」イメージで、対象と結果が異なります。
+
+| 熟語 | 中心の意味 | 典型的な使われ方 |
+| --- | --- | --- |
+| blow **off** | （約束・義務を）すっぽかす・無視する | blow off a meeting, a friend |
+| blow **away** | 感嘆させる／圧勝する（俗に撃ち殺す） | the performance blew me away |
+
+### blow off の使い分け
+
+blow off は口語で「（約束していたことを）故意に果たさない、その場に現れない」という意味で、"He blew off our meeting without even calling." のように使われます。「（人からの誘いを）無視する・軽くあしらう」という意味でも使われ、恋愛関係の解消を指すこともあります。
+
+### blow away の使い分け
+
+blow away の1つ目の意味は「（人を）強く感動させる、圧倒的に感心させる」（Her performance blew the audience away）。2つ目は「（競争相手に）圧勝する」（Our team blew away the competition）。3つ目は北米口語で「（銃で）撃ち殺す」という物騒な意味もあります。
+
+### 使い分けの手がかり
+
+**blow off は fail to keep a commitment／ignore に置換**でき、対象は約束・人・義務です。**blow away は impress greatly／defeat decisively に置換**でき、対象は聴衆・競争相手など「圧倒される側」です。「約束を無視する」話か「相手を圧倒する」話かで区別します。
+
+### なぜ直訳で読み解けないか
+
+off は「表面に乗っていた予定や義務を吹き払って無かったことにする」イメージなので、blow off は約束を果たさずにその場から立ち去ることを表します。away は「対象を勢いよく遠くへ吹き飛ばす」イメージなので、blow away は圧倒的な力で相手を感嘆させる、あるいは競争相手を大差で打ち負かすことを表します。
+
+### よくある誤用
+
+⚠️ \`Her amazing speech really blew off the entire audience.\`（誤）。聴衆を感嘆させたのは blow **away**。blow off に「感嘆させる」の意味はありません。
+
+⚠️ \`He blew away our dinner plans without any explanation.\`（誤）。約束をすっぽかしたのは blow **off**。blow away は約束を無視する意味では使いません。
+
+🎯 覚え方：**off＝予定を吹き払って無かったことにする（すっぽかす）**、**away＝相手を吹き飛ばすほど圧倒する（感嘆させる・圧勝する）**。`,
+    keyPoints: [
+      'blow off＝（約束・義務を）すっぽかす・無視する（fail to keep a commitment/ignore）',
+      'blow away＝感嘆させる／圧勝する（impress greatly/defeat decisively）。俗語で「撃ち殺す」の意味も',
+      'blow off は約束・義務を果たさない話、blow away は相手を圧倒する話',
+      'off＝予定を吹き払う、away＝対象を吹き飛ばす、という前置詞イメージの違い',
+    ],
+    quiz: [
+      {
+        id: 'q-blowoff-1',
+        question: '空所に入る適切な語はどれですか。「He completely ( ) our lunch appointment without any explanation.」',
+        options: ['blew away', 'blew up', 'blew off', 'blew over'],
+        correctAnswer: 2,
+        explanation: '約束をすっぽかしたのは blow off。',
+      },
+      {
+        id: 'q-blowoff-2',
+        question: '空所に入る適切な語はどれですか。「The young pianist’s performance absolutely ( ) the judges.」',
+        options: ['blew off', 'blew over', 'blew away', 'blew up'],
+        correctAnswer: 2,
+        explanation: '審査員を感嘆させたのは blow away。',
+      },
+      {
+        id: 'q-blowoff-3',
+        question: '空所に入る適切な語はどれですか。「Our debate team completely ( ) the competition at the national finals.」',
+        options: ['blew off', 'blew away', 'blew over', 'blew up'],
+        correctAnswer: 1,
+        explanation: '相手に圧勝したのも blow away。',
+      },
+      {
+        id: 'q-blowoff-4',
+        question: 'blow off の言い換えとして最も適切なものはどれですか。',
+        options: ['impress greatly', 'fail to keep a commitment', 'explode', 'pass without lasting effect'],
+        correctAnswer: 1,
+        explanation: 'blow off は「約束を果たさない」という意味です。',
+      },
+      {
+        id: 'q-blowoff-5',
+        question: 'blow off と blow away の違いとして正しいものはどれですか。',
+        options: [
+          'off＝予定を無視する、away＝相手を圧倒する',
+          '両者に意味の違いはない',
+          'off の方が相手を感嘆させる',
+          'away の方が約束の無視を表す',
+        ],
+        correctAnswer: 0,
+        explanation: 'blow off は約束の無視、blow away は圧倒的な感嘆・勝利を表します。',
+      },
+    ],
+  },
 ];
