@@ -22766,4 +22766,352 @@ off は「表面に乗っていた予定や義務を吹き払って無かった�
       },
     ],
   },
+  {
+    id: 'cut-off-cut-down-on',
+    title: 'cut off と cut down on',
+    chapter: 5,
+    hubId: 'cut',
+    description: 'cut off は「（供給・連絡を）遮断する」、cut down on は「（量・頻度を）減らす」。完全に断つか、少しずつ減らすかの違いです。',
+    content: `## 完全に断つか、少しずつ減らすか
+
+cut off と cut down on はどちらも「減らす」に関わりますが、off の「本体から切り離す」イメージと down on の「量を少しずつ削る」イメージで、削減の度合いが正反対です。
+
+| 熟語 | 中心の意味 | 典型的な目的語 |
+| --- | --- | --- |
+| cut **off** | （供給・連絡を）遮断する・切断する | the electricity, communication, a person |
+| cut down **on** | （量・頻度を）減らす | sugar, spending, smoking |
+
+### cut off の使い分け
+
+cut off は「それまで続いていた供給やつながりを完全に断ち切る」という意味で、"The company cut off the water supply due to unpaid bills." のように使われます。「（電話が）途中で切れる」（We got cut off during the call）、「（人との関係を）絶つ」（He cut off all contact with his family）という意味にも広がります。
+
+### cut down on の使い分け
+
+cut down on は「ゼロにするのではなく、量や頻度を減らす」という意味で、"The doctor advised her to cut down on salt." のように、健康や支出に関する継続的な習慣の抑制によく使われます。
+
+### 使い分けの手がかり
+
+**cut off は disconnect／sever completely に置換**でき、「完全に断つ」というゼロか百かの動作です。**cut down on は reduce the amount of に置換**でき、「ゼロにはせず量を減らす」という段階的な動作です。「完全に断つ」か「量を減らす」かで区別します。
+
+### なぜ直訳で読み解けないか
+
+off は「本体から切り離して接続を断つ」イメージなので、cut off は供給や関係を完全にゼロにすることを表します。down on は「対象の量を上から少しずつ削り取る」イメージなので、cut down on は完全にやめるのではなく量を段階的に減らすことを表します。
+
+### よくある誤用
+
+⚠️ \`He decided to cut off sugar completely from his diet.\`（成立するが cut off だと「唐突に断つ」ニュアンスが強い）。**徐々に減らす**という含みなら cut down **on**。cut off はより唐突・完全な遮断を示唆します。
+
+⚠️ \`The company cut down on the electricity supply to the building.\`（誤・意味が弱い）。電力供給を完全に止めたのは cut **off**。cut down on だと「少し減らした」程度の意味になってしまいます。
+
+🎯 覚え方：**off＝本体から切り離す（完全に遮断する）**、**down on＝量を少しずつ削る（段階的に減らす）**。`,
+    keyPoints: [
+      'cut off＝（供給・連絡を）遮断する・切断する（disconnect/sever completely）',
+      'cut down on＝（量・頻度を）減らす（reduce the amount of）',
+      'cut off は完全な遮断、cut down on は段階的な削減という度合いの違い',
+      'off＝本体から切り離す、down on＝量を少しずつ削る、という前置詞イメージの違い',
+    ],
+    quiz: [
+      {
+        id: 'q-cutoff-1',
+        question: '空所に入る適切な語はどれですか。「The utility company ( ) the gas supply after months of unpaid bills.」',
+        options: ['cut down on', 'cut off', 'cut in', 'cut out'],
+        correctAnswer: 1,
+        explanation: '供給を完全に断ったのは cut off。',
+      },
+      {
+        id: 'q-cutoff-2',
+        question: '空所に入る適切な語はどれですか。「My doctor told me to ( ) caffeine gradually, not all at once.」',
+        options: ['cut off', 'cut down on', 'cut out', 'cut in'],
+        correctAnswer: 1,
+        explanation: '徐々に減らすのは cut down on。',
+      },
+      {
+        id: 'q-cutoff-3',
+        question: '空所に入る適切な語はどれですか。「Sorry, we got ( ) in the middle of our phone call.」',
+        options: ['cut down on', 'cut out', 'cut off', 'cut in'],
+        correctAnswer: 2,
+        explanation: '電話が途中で切れたのも cut off。',
+      },
+      {
+        id: 'q-cutoff-4',
+        question: 'cut down on の言い換えとして最も適切なものはどれですか。',
+        options: ['disconnect completely', 'reduce the amount of', 'interrupt', 'stop working suddenly'],
+        correctAnswer: 1,
+        explanation: 'cut down on は「量を減らす」という意味です。',
+      },
+      {
+        id: 'q-cutoff-5',
+        question: 'cut off と cut down on の違いとして正しいものはどれですか。',
+        options: [
+          'off＝完全な遮断、down on＝段階的な削減',
+          '両者に意味の違いはない',
+          'off の方が段階的',
+          'down on の方が完全な遮断を表す',
+        ],
+        correctAnswer: 0,
+        explanation: 'cut off は完全な遮断、cut down on は段階的な削減を表します。',
+      },
+    ],
+  },
+  {
+    id: 'cut-in-cut-out',
+    title: 'cut in と cut out',
+    chapter: 5,
+    hubId: 'cut',
+    description: 'cut in は「割り込む・（車が）急に前に入る」、cut out は「（不要なものを）やめる・除く／エンジンが止まる」。列に切り込むか、不要な部分を切り取るかの違いです。',
+    content: `## 列に切り込むか、不要な部分を切り取るか
+
+cut in と cut out はどちらも「切る」の比喩ですが、in の「内側に切り込む」イメージと out の「外へ切り出して除く」イメージで、動作の方向が異なります。
+
+| 熟語 | 中心の意味 | 典型的な使われ方 |
+| --- | --- | --- |
+| cut **in** | 割り込む・（車が）急に前に入る | cut in line／the car cut in front of us |
+| cut **out** | （不要なものを）やめる・除く／（エンジンが）止まる | cut out sugar／the engine cut out |
+
+### cut in の使い分け
+
+cut in の1つ目の意味は「（列や会話に）割り込む」（Please don't cut in line）。2つ目は「（車が）他の車の前に急に入り込む」（The taxi cut in front of us without signaling）という意味です。
+
+### cut out の使い分け
+
+cut out には複数の意味があります。1つは「（習慣・食品などを）完全にやめる、除く」（She cut out dairy from her diet）。2つ目は「（人を）活動から排除する」（He was cut out of the deal）。3つ目は「（エンジン・機械が）突然停止する」（The engine cut out on the highway）。命令形 "Cut it out!"（いい加減にしろ）という定型句としても頻出します。
+
+### 使い分けの手がかり
+
+**cut in は interrupt／move suddenly in front of に置換**でき、「列や流れに割り込む」動作です。**cut out は eliminate completely／stop suddenly に置換**でき、「不要な部分を切り取って除く、または突然停止する」動作です。「割り込む」話か「除く・止まる」話かで区別します。
+
+### なぜ直訳で読み解けないか
+
+in は「列や会話の内側に刃を入れるように割り込む」イメージなので、cut in は順番待ちの列や進行中の会話・交通の流れに突然入り込むことを表します。out は「不要な部分を切り取って外へ出す」イメージなので、cut out は習慣や人を完全に除くこと、あるいは機械が動作を止めて外れることを表します。
+
+### よくある誤用
+
+⚠️ \`The car suddenly cut out in front of us on the highway.\`（誤・意味が変わる）。前に急に入り込んだのは cut **in**。cut out だと「エンジンが止まった」という別の意味になります。
+
+⚠️ \`I need to cut in sugar from my diet.\`（誤）。習慣をやめるのは cut **out**。cut in に「やめる」の意味はありません。
+
+🎯 覚え方：**in＝列や流れの内側に切り込む（割り込む）**、**out＝不要な部分を切り取って除く（やめる・止まる）**。`,
+    keyPoints: [
+      'cut in＝割り込む・（車が）急に前に入る（interrupt/move suddenly in front of）',
+      'cut out＝（不要なものを）やめる・除く／（エンジンが）止まる（eliminate completely/stop suddenly）',
+      'cut in は列・流れへの割り込み、cut out は不要物の除去・突然の停止',
+      'in＝内側に切り込む、out＝切り取って除く、という前置詞イメージの違い',
+    ],
+    quiz: [
+      {
+        id: 'q-cutin-1',
+        question: '空所に入る適切な語はどれですか。「A cyclist suddenly ( ) front of the bus without warning.」',
+        options: ['cut out', 'cut in', 'cut down on', 'cut off'],
+        correctAnswer: 1,
+        explanation: '急に前に入り込んだのは cut in。',
+      },
+      {
+        id: 'q-cutin-2',
+        question: '空所に入る適切な語はどれですか。「She decided to completely ( ) processed food from her diet.」',
+        options: ['cut in', 'cut off', 'cut out', 'cut down on'],
+        correctAnswer: 2,
+        explanation: '完全にやめたのは cut out。',
+      },
+      {
+        id: 'q-cutin-3',
+        question: '空所に入る適切な語はどれですか。「The old engine ( ) twice during our drive up the mountain.」',
+        options: ['cut in', 'cut off', 'cut down on', 'cut out'],
+        correctAnswer: 3,
+        explanation: 'エンジンが止まったのも cut out。',
+      },
+      {
+        id: 'q-cutin-4',
+        question: 'cut in の言い換えとして最も適切なものはどれですか。',
+        options: ['interrupt', 'eliminate completely', 'reduce the amount of', 'disconnect'],
+        correctAnswer: 0,
+        explanation: 'cut in は「割り込む」（interrupt）という意味です。',
+      },
+      {
+        id: 'q-cutin-5',
+        question: 'cut in と cut out の違いとして正しいものはどれですか。',
+        options: [
+          'in＝列や流れへの割り込み、out＝不要物の除去・突然の停止',
+          '両者に意味の違いはない',
+          'in の方が「やめる」を意味する',
+          'out の方が「割り込む」を意味する',
+        ],
+        correctAnswer: 0,
+        explanation: 'cut in は割り込み、cut out は除去・停止を表します。',
+      },
+    ],
+  },
+  {
+    id: 'fill-in-fill-out',
+    title: 'fill in と fill out',
+    chapter: 5,
+    hubId: 'fill',
+    description: 'fill in は「空欄に記入する・欠けた情報を補う」、fill out は「（書類全体に）記入する（主に米語）」。個別の空欄を埋めるか、全体を埋め尽くすかの違いです。',
+    content: `## 個別の空欄を埋めるか、全体を埋め尽くすか
+
+fill in と fill out はどちらも「（書類に）記入する」という意味で重なり、実際の場面では入れ替え可能なことも多いですが、in の「個別の空欄」イメージと out の「全体の輪郭」イメージという違いがあります。
+
+| 熟語 | 中心の意味 | 典型的な使われ方 |
+| --- | --- | --- |
+| fill **in** | （書類の空欄に）記入する／（欠けた情報を）補う | fill in the blanks／fill me in |
+| fill **out** | （書類全体に）記入する（主に米語） | fill out an application form |
+
+### fill in の使い分け
+
+fill in の1つ目の意味は「（書類の個別の空欄に）必要事項を書き込む」（Please fill in your name and address）で、イギリス英語でより好まれる表現です。2つ目は「（聞き逃した情報を）補って教える」（Can you fill me in on what happened while I was out?）という意味で頻出します。
+
+### fill out の使い分け
+
+fill out は「（書類全体を）記入して完成させる」という意味で、主にアメリカ英語で好まれます。"Please fill out this application form completely." のように、書類全体を対象にする際に使われます。比喩的に「（体が）ふっくらする」という意味もあります。
+
+### 使い分けの手がかり
+
+両者はしばしば置き換え可能ですが、**fill in は個別の空欄・情報の穴を埋める**イメージが強く、イギリス英語で好まれます。**fill out は書類全体を対象にする**イメージが強く、アメリカ英語で好まれます。「情報を補う」（fill me in）という用法は fill in にしかありません。
+
+### なぜ直訳で読み解けないか
+
+in は「個々の空欄・穴を埋める」イメージなので、fill in は書類の特定の欄への記入にも、抜け落ちた情報を補うことにも使われます。out は「輪郭全体を余すところなく埋め尽くす」イメージなので、fill out は書類全体を対象にした記入行為を表します。
+
+### よくある誤用
+
+⚠️ \`Can you fill out me on the meeting I missed?\`（誤）。情報を補うのは fill **in**（fill me in）。fill out にこの用法はありません。
+
+⚠️ \`Please fill in this application form entirely.\`（成立するが米語では fill out がより自然）。書類全体の記入は米語では fill **out** が好まれます（fill in も間違いではない）。
+
+🎯 覚え方：**in＝個別の空欄・情報の穴を埋める（fill me in）**、**out＝書類全体の輪郭を埋め尽くす（米語で書類記入）**。`,
+    keyPoints: [
+      'fill in＝（書類の空欄に）記入する／（欠けた情報を）補う（fill me in が定型）。英で好まれる',
+      'fill out＝（書類全体に）記入する。米で好まれる',
+      '「情報を補う」（fill me in）の用法は fill in にしかない',
+      'in＝個別の空欄を埋める、out＝全体の輪郭を埋め尽くす、という前置詞イメージの違い',
+    ],
+    quiz: [
+      {
+        id: 'q-fillin-1',
+        question: '空所に入る適切な語はどれですか。「I missed the meeting — could someone ( ) me ( ) on what was decided?」',
+        options: ['fill / out', 'fill / in', 'fill / up', 'fill / for'],
+        correctAnswer: 1,
+        explanation: '情報を補うのは fill someone in。',
+      },
+      {
+        id: 'q-fillin-2',
+        question: '空所に入る適切な語はどれですか。「Please ( ) this visa application form in full before submitting.」',
+        options: ['fill in for', 'fill up', 'fill out', 'fill in for'],
+        correctAnswer: 2,
+        explanation: '書類全体への記入は米語で fill out が好まれます。',
+      },
+      {
+        id: 'q-fillin-3',
+        question: '空所に入る適切な語はどれですか。「（イギリス英語）Please ( ) your name in the box below.」',
+        options: ['fill out', 'fill up', 'fill in', 'fill for'],
+        correctAnswer: 2,
+        explanation: '個別の空欄への記入はイギリス英語で fill in が好まれます。',
+      },
+      {
+        id: 'q-fillin-4',
+        question: '「fill me in」の意味として正しいものはどれですか。',
+        options: ['書類に記入させる', '欠けた情報を教える', '満タンにする', '代理を務めさせる'],
+        correctAnswer: 1,
+        explanation: 'fill someone in は「情報を補って教える」という意味です。',
+      },
+      {
+        id: 'q-fillin-5',
+        question: 'fill in と fill out の違いとして正しいものはどれですか。',
+        options: [
+          'in＝個別の空欄・情報を補う、out＝書類全体（主に米語）',
+          '両者に意味の違いはない',
+          'out の方が情報を補う用法を持つ',
+          'in は必ずアメリカ英語で使う',
+        ],
+        correctAnswer: 0,
+        explanation: 'fill in は個別の空欄・情報補完、fill out は書類全体の記入（米語）を表します。',
+      },
+    ],
+  },
+  {
+    id: 'fill-up-fill-in-for',
+    title: 'fill up と fill in for',
+    chapter: 5,
+    hubId: 'fill',
+    description: 'fill up は「満タンにする・いっぱいになる」、fill in for は「〜の代理を務める」。容器を満たすか、人の不在を埋めるかの違いです。',
+    content: `## 容器を満たすか、人の不在を埋めるか
+
+fill up と fill in for はどちらも「満たす」の比喩ですが、up の「容器の上端まで満たす」イメージと in for の「不在の人の代わりに空所を埋める」イメージで、対象がまったく異なります。
+
+| 熟語 | 中心の意味 | 典型的な使われ方 |
+| --- | --- | --- |
+| fill **up** | 満タンにする・いっぱいになる | fill up the tank／the stadium filled up |
+| fill in **for** | 〜の代理を務める | fill in for a sick colleague |
+
+### fill up の使い分け
+
+fill up は「容器や空間を上端まで満たす」という意味で、"We should fill up the car before the long drive." のように使われます。自動詞としても「（会場などが）いっぱいになる」（The stadium quickly filled up before kickoff）という使い方をします。
+
+### fill in for の使い分け
+
+fill in for は「不在の人の代わりに、その役割・仕事を一時的に務める」という意味で、"I'm filling in for my colleague while she's on maternity leave." のように使われます。
+
+### 使い分けの手がかり
+
+**fill up は make/become completely full に置換**でき、対象はガソリンタンクや会場などの「物理的な空間」です。**fill in for は substitute temporarily for someone に置換**でき、対象は不在の「人とその役割」です。「満たす」話か「代理を務める」話かで区別します。
+
+### なぜ直訳で読み解けないか
+
+up は「容器の底から上端まで満たす」イメージなので、fill up はガソリンタンクや会場が物理的に満杯になることを表します。in for は「不在の人がいるべき場所に自分を当てはめる」イメージなので、fill in for は一時的にその人の役割を代行することを表します。
+
+### よくある誤用
+
+⚠️ \`Can you fill up for me tomorrow? I have a doctor's appointment.\`（誤・forが抜けている）。代理を頼むのは fill **in for**。fill up に「代理を務める」の意味はありません。
+
+⚠️ \`The stadium filled in quickly before the concert started.\`（誤）。会場がいっぱいになったのは fill **up**。fill in はこの文脈では使いません。
+
+🎯 覚え方：**up＝容器を上端まで満たす（満タンにする・いっぱいになる）**、**in for＝不在の人の場所に自分を当てはめる（代理を務める）**。`,
+    keyPoints: [
+      'fill up＝満タンにする・いっぱいになる（make/become completely full）。対象は物理的な空間',
+      'fill in for＝〜の代理を務める（substitute temporarily for someone）。対象は不在の人',
+      'fill up は容器・空間の充満、fill in for は人の代行という別方向の意味',
+      'up＝容器を満たす、in for＝不在の人の場所を埋める、という前置詞イメージの違い',
+    ],
+    quiz: [
+      {
+        id: 'q-fillup-1',
+        question: '空所に入る適切な語はどれですか。「We should ( ) the tank before we hit the highway.」',
+        options: ['fill in for', 'fill up', 'fill out', 'fill in'],
+        correctAnswer: 1,
+        explanation: 'タンクを満タンにするのは fill up。',
+      },
+      {
+        id: 'q-fillup-2',
+        question: '空所に入る適切な語はどれですか。「I’m ( ) my manager while she’s away on business.」',
+        options: ['filling up', 'filling out', 'filling in for', 'filling'],
+        correctAnswer: 2,
+        explanation: '代理を務めるのは fill in for。',
+      },
+      {
+        id: 'q-fillup-3',
+        question: '空所に入る適切な語はどれですか。「The concert hall ( ) within minutes of the doors opening.」',
+        options: ['filled in for', 'filled out', 'filled up', 'filled in'],
+        correctAnswer: 2,
+        explanation: '会場がいっぱいになったのも fill up。',
+      },
+      {
+        id: 'q-fillup-4',
+        question: 'fill in for の言い換えとして最も適切なものはどれですか。',
+        options: ['substitute temporarily for someone', 'make completely full', 'complete a form', 'become larger'],
+        correctAnswer: 0,
+        explanation: 'fill in for は「一時的に代理を務める」という意味です。',
+      },
+      {
+        id: 'q-fillup-5',
+        question: 'fill up と fill in for の違いとして正しいものはどれですか。',
+        options: [
+          'up＝物理的な空間を満たす、in for＝人の代行を務める',
+          '両者に意味の違いはない',
+          'up の方が人の代行を表す',
+          'in for の方が容器を満たす意味を持つ',
+        ],
+        correctAnswer: 0,
+        explanation: 'fill up は空間の充満、fill in for は人の代行を表します。',
+      },
+    ],
+  },
 ];
