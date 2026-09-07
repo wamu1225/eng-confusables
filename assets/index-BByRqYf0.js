@@ -7872,7 +7872,193 @@ through は「入口から出口まで筋道を辿って考え抜く」イメー
 
 ⚠️ \`We need to think back the consequences before signing the contract.\`（誤）。結果を考え抜くのは think **through**。think back に「筋道立てて検討する」の意味はありません。
 
-🎯 覚え方：**through＝筋道を最後まで辿って考え抜く（未来に向けた検討）**、**back＝思考を過去へ巻き戻す（回想する）**。`,keyPoints:[`think through＝〜を最後まで筋道立てて考え抜く（consider all aspects systematically）`,`think back（on/to）＝（過去を）振り返る・思い出す（recall/reflect on the past）`,`think through は未来の決定に向けた徹底的検討、think back は過去への回想`,`through＝筋道を最後まで辿る、back＝思考を過去へ巻き戻す、という前置詞イメージの違い`],quiz:[{id:`q-thinkthrough-1`,question:`空所に入る適切な語はどれですか。「Before quitting your job, you should really ( ) the financial consequences.」`,options:[`think back`,`think through`,`think up`,`think over quickly`],correctAnswer:1,explanation:`結果を体系的に考え抜くのは think through。`},{id:`q-thinkthrough-2`,question:`空所に入る適切な語はどれですか。「Whenever I hear that song, I ( ) my high school days.」`,options:[`think through`,`think up`,`think back to`,`think over`],correctAnswer:2,explanation:`過去を振り返るのは think back to。`},{id:`q-thinkthrough-3`,question:`空所に入る適切な語はどれですか。「The committee failed to ( ) all the possible risks before launching the project.」`,options:[`think back on`,`think up`,`think through`,`think back`],correctAnswer:2,explanation:`あらゆるリスクを検討し尽くすのも think through。`},{id:`q-thinkthrough-4`,question:`think back の言い換えとして最も適切なものはどれですか。`,options:[`consider all aspects systematically`,`devise`,`reflect on the past`,`consider carefully`],correctAnswer:2,explanation:`think back は「過去を振り返る」という意味です。`},{id:`q-thinkthrough-5`,question:`think through と think back の違いとして正しいものはどれですか。`,options:[`through＝未来に向けた徹底的な検討、back＝過去への回想`,`両者に意味の違いはない`,`through の方が過去を扱う`,`back の方が未来の決定を扱う`],correctAnswer:0,explanation:`think through は未来志向の検討、think back は過去への回想を表します。`}]}],c={1:`スペルが似ている語`,2:`意味が近く使い分けが難しい語`,3:`品詞・派生でまぎらわしい語`,4:`発音が似ている語`,5:`熟語・句動詞でまぎらわしいもの`},l={audience:`大学受験・TOEIC・英検の学習者、英語を学び直す社会人`,approach:`一対一の和訳暗記ではなく、意味の核と使い分けを比較表とミニ問題で身につける`},u=[{id:`take`,verb:`take`,title:`take は前置詞でどう意味が変わる？`,description:`take の中心イメージ「手を伸ばして自分の側に取り込む」が、続く前置詞・副詞でどう枝分かれするかをまとめたハブページ。`,content:`## take の中心イメージ
+🎯 覚え方：**through＝筋道を最後まで辿って考え抜く（未来に向けた検討）**、**back＝思考を過去へ巻き戻す（回想する）**。`,keyPoints:[`think through＝〜を最後まで筋道立てて考え抜く（consider all aspects systematically）`,`think back（on/to）＝（過去を）振り返る・思い出す（recall/reflect on the past）`,`think through は未来の決定に向けた徹底的検討、think back は過去への回想`,`through＝筋道を最後まで辿る、back＝思考を過去へ巻き戻す、という前置詞イメージの違い`],quiz:[{id:`q-thinkthrough-1`,question:`空所に入る適切な語はどれですか。「Before quitting your job, you should really ( ) the financial consequences.」`,options:[`think back`,`think through`,`think up`,`think over quickly`],correctAnswer:1,explanation:`結果を体系的に考え抜くのは think through。`},{id:`q-thinkthrough-2`,question:`空所に入る適切な語はどれですか。「Whenever I hear that song, I ( ) my high school days.」`,options:[`think through`,`think up`,`think back to`,`think over`],correctAnswer:2,explanation:`過去を振り返るのは think back to。`},{id:`q-thinkthrough-3`,question:`空所に入る適切な語はどれですか。「The committee failed to ( ) all the possible risks before launching the project.」`,options:[`think back on`,`think up`,`think through`,`think back`],correctAnswer:2,explanation:`あらゆるリスクを検討し尽くすのも think through。`},{id:`q-thinkthrough-4`,question:`think back の言い換えとして最も適切なものはどれですか。`,options:[`consider all aspects systematically`,`devise`,`reflect on the past`,`consider carefully`],correctAnswer:2,explanation:`think back は「過去を振り返る」という意味です。`},{id:`q-thinkthrough-5`,question:`think through と think back の違いとして正しいものはどれですか。`,options:[`through＝未来に向けた徹底的な検討、back＝過去への回想`,`両者に意味の違いはない`,`through の方が過去を扱う`,`back の方が未来の決定を扱う`],correctAnswer:0,explanation:`think through は未来志向の検討、think back は過去への回想を表します。`}]},{id:`fall-back-on-fall-through`,title:`fall back on と fall through`,chapter:5,hubId:`fall`,description:`fall back on は「（最後の手段）に頼る」、fall through は「（計画等が）失敗に終わる」。支えに倒れ込むか、底が抜けて落ちるかの違いです。`,content:`## 支えに倒れ込むか、底が抜けて落ちるか
+
+fall back on と fall through はどちらも「落ちる」の比喩ですが、back on の「後方の支えに倒れ込む」イメージと through の「底を突き抜けて落ちる」イメージで、主語も結果も異なります。
+
+| 熟語 | 中心の意味 | 典型的な主語・目的語 |
+| --- | --- | --- |
+| fall back **on** | （最後の手段）に頼る | 主語＝人・組織、目的語＝savings, a backup plan |
+| fall **through** | （計画・取引等が）失敗に終わる・頓挫する | 主語＝the plan, the deal（人は主語にならない） |
+
+### fall back on の使い分け
+
+fall back on は「他に手段がなくなったときに、蓄えていたものや慣れ親しんだ方法に頼る」という意味で、"When the primary funding fell through, the charity had to fall back on private donations." のように使われます。受動態にはしません。
+
+### fall through の使い分け
+
+fall through は「（合意・計画・取引が）実現に至らず失敗する」という意味で、"The merger fell through at the last minute due to regulatory concerns." のように使われます。主語は必ず計画や取引などの事象で、人を主語にはできません。
+
+### 使い分けの手がかり
+
+**fall back on は resort to／turn to for support に置換**でき、主語は人・組織、目的語は「頼りにする対象」です。**fall through は fail／collapse／come to nothing に置換**でき、主語は必ず「計画・取引などの事象」です。「人が頼る」話か「計画が失敗する」話かで、主語の種類から即座に判別できます。
+
+### なぜ直訳で読み解けないか
+
+back on は「前方の足場を失った人物が背後の安全網の上に倒れ込んで身を預ける」イメージなので、fall back on は他に手段がないときの最後の拠り所を表します。through は「床が破れて底を突き抜けて落下する」イメージなので、fall through は計画が土台から崩れ落ちて実現しないまま終わることを表します。
+
+### よくある誤用
+
+⚠️ \`He fell through when he lost his job and had no savings.\`（誤・主語が人）。人が主語になるのは fall back **on**。fall through の主語は計画や取引などの事象に限られます。
+
+⚠️ \`The company fell back on when the investment deal collapsed.\`（誤・意味が通じない）。取引が頓挫したのは fall **through**。fall back on は「頼る」の意味であって「頓挫する」の意味ではありません。
+
+🎯 覚え方：**back on＝後方の支えに倒れ込む（頼る）**、**through＝床を突き抜けて落ちる（失敗に終わる）**。`,keyPoints:[`fall back on＝（最後の手段）に頼る（resort to）。主語は人・組織、受動態にしない`,`fall through＝（計画・取引等が）失敗に終わる（fail/collapse）。主語は必ず事象`,`fall back on の主語は人、fall through の主語は計画・取引という文法的な違いで判別できる`,`back on＝支えに倒れ込む、through＝床を突き抜けて落ちる、という前置詞イメージの違い`],quiz:[{id:`q-fallback-1`,question:`空所に入る適切な語はどれですか。「When negotiations stalled, the company had to ( ) its original backup plan.」`,options:[`fall through`,`fall back on`,`fall out`,`fall for`],correctAnswer:1,explanation:`最後の手段に頼ったのは fall back on。`},{id:`q-fallback-2`,question:`空所に入る適切な語はどれですか。「Unfortunately, the merger ( ) due to regulatory objections.」`,options:[`fell back on`,`fell for`,`fell through`,`fell out`],correctAnswer:2,explanation:`合併が頓挫したのは fall through。`},{id:`q-fallback-3`,question:`空所に入る適切な語はどれですか。「If the funding falls through, the university will have to ( ) alternative sources.」`,options:[`fall out`,`fall for`,`fall back on`,`fall through`],correctAnswer:2,explanation:`代替手段に頼るのは fall back on。`},{id:`q-fallback-4`,question:`fall through の主語として正しいものはどれですか。`,options:[`人・組織のみ`,`計画・取引などの事象のみ`,`人と事象の両方`,`物のみ`],correctAnswer:1,explanation:`fall through の主語は計画・取引などの事象に限られます。`},{id:`q-fallback-5`,question:`fall back on と fall through の違いとして正しいものはどれですか. `,options:[`主語が人か事象かで判別できる`,`両者に意味の違いはない`,`両方とも人が主語になる`,`両方とも事象が主語になる`],correctAnswer:0,explanation:`fall back on の主語は人・組織、fall through の主語は事象です。`}]},{id:`fall-out-fall-for`,title:`fall out と fall for`,chapter:5,hubId:`fall`,description:`fall out は「仲違いする・（髪等が）抜け落ちる」、fall for は「〜に恋をする・だまされる」。枠から外れるか、相手の魅力に落ちるかの違いです。`,content:`## 枠から外れるか、相手の魅力に落ちるか
+
+fall out と fall for はどちらも fall の比喩用法ですが、out の「枠組みの外へ落ちる」イメージと for の「相手に向かって落ちる」イメージで、対象と結果が異なります。
+
+| 熟語 | 中心の意味 | 典型的な使われ方 |
+| --- | --- | --- |
+| fall **out**（with） | 仲違いする／（髪・歯等が）抜け落ちる | fall out with a friend |
+| fall **for** | 〜に恋をする／（うそ・詐欺に）だまされる | fall for someone／fall for a scam |
+
+### fall out の使い分け
+
+fall out（with）は「（それまで良好だった関係が）けんかして壊れる」という意味で、"The two brothers fell out over their father's inheritance." のように使われます。また文字どおり「（髪・歯などが）自然に抜け落ちる」（Her hair started to fall out after the treatment）という意味もあります。
+
+### fall for の使い分け
+
+fall for の1つ目の意味は「（人に）恋に落ちる」（He fell for her the moment they met）。2つ目は「（うまい話・詐欺・冗談を）真に受けてだまされる」（Don't fall for that email scam）という意味です。
+
+### 使い分けの手がかり
+
+**fall out with は have a quarrel with に置換**でき、対象は人間関係です。**fall for は fall in love with／be deceived by に置換**でき、対象は恋愛の相手か、だます側の策略です。「関係が壊れる」話か「恋に落ちる・だまされる」話かで区別します。
+
+### なぜ直訳で読み解けないか
+
+out は「良好だった枠組みの外へ関係が落ちて出る」イメージなので、fall out は友好関係が壊れることを、また髪や歯が体という枠組みから抜け落ちることを表します。for は「相手やその魅力・策略に向かって落ちていく」イメージなので、fall for は恋に落ちることにも、うまい話に引き込まれてだまされることにも広がります。
+
+### よくある誤用
+
+⚠️ \`They fell for each other over a trivial argument.\`（誤・意味が逆）。ささいな口論で仲違いしたのは fall **out**。fall for は恋に落ちる意味なので文脈が矛盾します。
+
+⚠️ \`She completely fell out for the con artist's story.\`（誤・forが必要）。だまされたのは fall **for**。fall out にだまされる意味はありません。
+
+🎯 覚え方：**out＝枠組みの外へ落ちる（仲違いする・抜け落ちる）**、**for＝相手に向かって落ちる（恋をする・だまされる）**。`,keyPoints:[`fall out（with）＝仲違いする（have a quarrel with）／（髪・歯等が）抜け落ちる`,`fall for＝〜に恋をする（fall in love with）／（うそ等に）だまされる（be deceived by）`,`fall out は関係の破綻、fall for は恋愛または詐欺への感情的な引き込まれ`,`out＝枠組みの外へ落ちる、for＝相手に向かって落ちる、という前置詞イメージの違い`],quiz:[{id:`q-fallout-1`,question:`空所に入る適切な語はどれですか。「The two former business partners ( ) over unpaid debts.」`,options:[`fell for`,`fell out`,`fell through`,`fell back on`],correctAnswer:1,explanation:`仲違いしたのは fall out。`},{id:`q-fallout-2`,question:`空所に入る適切な語はどれですか。「Many elderly people ( ) this kind of phone scam every year.」`,options:[`fall out for`,`fall back on`,`fall for`,`fall through`],correctAnswer:2,explanation:`詐欺にだまされるのは fall for。`},{id:`q-fallout-3`,question:`空所に入る適切な語はどれですか。「He ( ) her the very first time they spoke.」`,options:[`fell out with`,`fell back on`,`fell for`,`fell through`],correctAnswer:2,explanation:`恋に落ちたのも fall for。`},{id:`q-fallout-4`,question:`fall out with の言い換えとして最も適切なものはどれですか。`,options:[`have a quarrel with`,`fall in love with`,`be deceived by`,`resort to`],correctAnswer:0,explanation:`fall out with は「仲違いする」という意味です。`},{id:`q-fallout-5`,question:`fall out と fall for の違いとして正しいものはどれですか。`,options:[`out＝関係が壊れる、for＝恋に落ちる・だまされる`,`両者に意味の違いはない`,`out の方が恋愛を表す`,`for の方が関係の破綻を表す`],correctAnswer:0,explanation:`fall out は関係の破綻、fall for は恋愛・詐欺への感情的引き込みを表します。`}]},{id:`clear-up-clear-out`,title:`clear up と clear out`,chapter:5,hubId:`clear`,description:`clear up は「（天候・誤解等が）よくなる・解消する／片付ける」、clear out は「（不要な物を捨てて）空にする／立ち去る」。良い状態に向かうか、中身を空にするかの違いです。`,content:`## 良い状態に向かうか、中身を空にするか
+
+clear up と clear out はどちらも「片付ける」に関わりますが、up の「良い状態まで持ち上げる」イメージと out の「中身を外へ出して空にする」イメージで、対象と結果が異なります。
+
+| 熟語 | 中心の意味 | 典型的な使われ方 |
+| --- | --- | --- |
+| clear **up** | （天候・病気・誤解が）よくなる・解消する／片付ける | clear up the confusion／the weather cleared up |
+| clear **out** | （不要な物を捨てて）空にする／立ち去る | clear out the closet |
+
+### clear up の使い分け
+
+clear up には複数の意味があります。1つは「（天気が）晴れる」（The rain should clear up by noon）。2つ目は「（病気・発疹などが）治る」（Her rash cleared up within a week）。3つ目は「（誤解・疑問を）解消する、説明する」（Let me clear up any confusion）。4つ目は単純に「（部屋などを）片付ける」という意味です。
+
+### clear out の使い分け
+
+clear out は「（不要な物を全て取り除いて）空にする」という意味で、"We spent the weekend clearing out the garage." のように使われます。口語では「（人が）さっさと立ち去る」（He grabbed the cash and cleared out）という意味にもなります。
+
+### 使い分けの手がかり
+
+**clear up は improve／resolve に置換**でき、「悪い状態から良い状態へ向上する」というニュアンスが核です。**clear out は empty by removing everything に置換**でき、「中身を全て取り除いて空にする」という徹底的な除去です。「良くなる・解消する」話か「空にする」話かで区別します。
+
+### なぜ直訳で読み解けないか
+
+up は「完全に良い状態まで持ち上げる」イメージなので、clear up は天候・体調・誤解のいずれもが向上・解決する方向を表します。out は「内部にあるものを一つ残らず外へ出す」イメージなので、clear out は収納スペースなどを徹底的に空にすることを表します。
+
+### よくある誤用
+
+⚠️ \`I hope the weather clears out by the weekend.\`（誤）。天候がよくなるのは clear **up**。clear out に天候の意味はありません。
+
+⚠️ \`We need to clear up the entire garage this weekend.\`（成立するがニュアンスが弱い）。不要品を徹底的に処分するなら clear **out** の方が「空にする」ニュアンスが強く出ます。
+
+🎯 覚え方：**up＝良い状態まで持ち上げる（晴れる・治る・解消する）**、**out＝中身を全て外へ出す（空にする・立ち去る）**。`,keyPoints:[`clear up＝（天候・病気・誤解が）よくなる・解消する／片付ける（improve/resolve）`,`clear out＝（不要な物を捨てて）空にする／立ち去る（empty by removing everything）`,`clear up は状態の向上・解決、clear out は徹底的な除去`,`up＝良い状態へ持ち上げる、out＝中身を全て出す、という前置詞イメージの違い`],quiz:[{id:`q-clearup-1`,question:`空所に入る適切な語はどれですか。「Don’t worry, this skin irritation should ( ) in a few days.」`,options:[`clear out`,`clear up`,`clear off`,`clear away`],correctAnswer:1,explanation:`症状がよくなるのは clear up。`},{id:`q-clearup-2`,question:`空所に入る適切な語はどれですか。「We finally ( ) the old boxes in the attic last weekend.」`,options:[`cleared up`,`cleared away`,`cleared out`,`cleared off`],correctAnswer:2,explanation:`不要品を処分して空にしたのは clear out。`},{id:`q-clearup-3`,question:`空所に入る適切な語はどれですか。「Let me ( ) any misunderstanding about the new policy.」`,options:[`clear out`,`clear off`,`clear up`,`clear away`],correctAnswer:2,explanation:`誤解を解消するのも clear up。`},{id:`q-clearup-4`,question:`clear out の言い換えとして最も適切なものはどれですか。`,options:[`improve`,`resolve`,`empty by removing everything`,`become fine`],correctAnswer:2,explanation:`clear out は「中身を全て出して空にする」という意味です。`},{id:`q-clearup-5`,question:`clear up と clear out の違いとして正しいものはどれですか。`,options:[`up＝良い状態へ向上する、out＝中身を全て出して空にする`,`両者に意味の違いはない`,`up の方が徹底的な除去を表す`,`out の方が天候の好転を表す`],correctAnswer:0,explanation:`clear up は状態の向上・解決、clear out は徹底的な除去を表します。`}]},{id:`clear-off-clear-away`,title:`clear off と clear away`,chapter:5,hubId:`clear`,description:`clear off は「立ち去る（命令形で「あっちへ行け」）」、clear away は「（食器・物を）片付けて空間を作る」。自分が立ち去るか、物を取り除いて空間を作るかの違いです。`,content:`## 自分が立ち去るか、物を片付けるか
+
+clear off と clear away はどちらも「取り除く」の比喩ですが、off の「本体から離れて立ち去る」イメージと away の「不要な物を取り除いて空間を作る」イメージで、主語（人か物か）が異なります。
+
+| 熟語 | 中心の意味 | 典型的な使われ方 |
+| --- | --- | --- |
+| clear **off** | 立ち去る（命令形「あっちへ行け」） | Clear off! |
+| clear **away** | （食器・物を）片付けて空間を作る | clear away the dishes |
+
+### clear off の使い分け
+
+clear off は主にイギリス英語の口語で「（その場から）立ち去る」という意味で、"He cleared off before anyone noticed." のように使われます。命令形 "Clear off!"（あっちへ行け！）は、不法侵入者や邪魔な人を追い払う際の強い表現として頻出します。
+
+### clear away の使い分け
+
+clear away は「使い終わったもの・不要なものを取り除いて、元の空間をきれいにする」という意味で、"Let's clear away the dishes before dessert." のように、特に食事の片付けの文脈で頻出します。
+
+### 使い分けの手がかり
+
+**clear off は go away／leave に置換**でき、主語は「立ち去る人」です。**clear away は remove things to tidy a space に置換**でき、目的語は「片付けるべき物」です。「人が立ち去る」話か「物を片付ける」話かで区別します。
+
+### なぜ直訳で読み解けないか
+
+off は「本体（その場）から離れて距離を取る」イメージなので、clear off は人がその場から立ち去ることを表します。away は「不要な物を取り除いて空間を作る」イメージなので、clear away は食器や道具などを片付けて元の状態に戻すことを表します。
+
+### よくある誤用
+
+⚠️ \`Please clear off the dishes after dinner.\`（誤・意味が変わる）。食器を片付けるのは clear **away**（またはclear the dishes away）。clear off は基本的に人が立ち去る意味で使われます。
+
+⚠️ \`The trespasser cleared away when the dog barked.\`（誤）。不法侵入者が立ち去ったのは clear **off**。clear away は物を対象にするのが基本です。
+
+🎯 覚え方：**off＝本体から離れて立ち去る（人が立ち去る）**、**away＝不要な物を取り除いて空間を作る（片付ける）**。`,keyPoints:[`clear off＝立ち去る（go away/leave）。命令形「Clear off!」で頻出。主にイギリス英語口語`,`clear away＝（食器・物を）片付けて空間を作る（remove things to tidy a space）`,`clear off の主語は人、clear away の目的語は片付けるべき物という違い`,`off＝本体から離れて立ち去る、away＝不要な物を取り除く、という前置詞イメージの違い`],quiz:[{id:`q-clearoff-1`,question:`空所に入る適切な語はどれですか。「"( )!" the farmer shouted at the trespassers.」`,options:[`Clear away`,`Clear up`,`Clear off`,`Clear out for`],correctAnswer:2,explanation:`立ち去れという命令は Clear off!。`},{id:`q-clearoff-2`,question:`空所に入る適切な語はどれですか。「Could you help me ( ) the plates before we watch the movie?」`,options:[`clear off`,`clear away`,`clear up`,`clear out`],correctAnswer:1,explanation:`食器を片付けるのは clear away。`},{id:`q-clearoff-3`,question:`空所に入る適切な語はどれですか。「The suspect ( ) the moment he heard the sirens approaching.」`,options:[`cleared away`,`cleared up`,`cleared off`,`cleared out completely`],correctAnswer:2,explanation:`慌てて立ち去ったのは clear off。`},{id:`q-clearoff-4`,question:`clear away の言い換えとして最も適切なものはどれですか。`,options:[`go away`,`remove things to tidy a space`,`become fine`,`resolve confusion`],correctAnswer:1,explanation:`clear away は「物を片付けて空間を作る」という意味です。`},{id:`q-clearoff-5`,question:`clear off と clear away の違いとして正しいものはどれですか。`,options:[`off＝人が立ち去る、away＝物を片付ける`,`両者に意味の違いはない`,`off の方が物を対象にする`,`away の方が人の立ち去りを表す`],correctAnswer:0,explanation:`clear off は人の立ち去り、clear away は物の片付けを表します。`}]},{id:`drop-in-drop-out`,title:`drop in と drop out`,chapter:5,hubId:`drop`,description:`drop in（on）は「ふらっと立ち寄る」、drop out（of）は「（学校・レース等から）中退する・脱落する」。予定外に入り込むか、枠組みの外へ落ちて出るかの違いです。`,content:`## 予定外に入り込むか、枠から落ちて出るか
+
+drop in と drop out はどちらも drop の比喩用法ですが、in の「内部へ落ちるように入る」イメージと out の「枠組みの外へ落ちて出る」イメージで、方向が正反対です。
+
+| 熟語 | 中心の意味 | 典型的な使われ方 |
+| --- | --- | --- |
+| drop **in**（on） | ふらっと立ち寄る（前触れなく） | drop in on a friend |
+| drop **out**（of） | （学校・レース等から）中退する・脱落する | drop out of college |
+
+### drop in の使い分け
+
+drop in（on someone / at a place）は「事前の約束なしに、ちょっと立ち寄る」という意味で、"Feel free to drop in on us anytime you're in the neighborhood." のように使われます。
+
+### drop out の使い分け
+
+drop out（of）は「（学校・大学・競技・活動から）最後まで続けずに離脱する」という意味で、"He dropped out of college to start his own business." のように使われます。「（社会の慣習を拒否して）ドロップアウトする」という比喩的な意味にも広がります。
+
+### 使い分けの手がかり
+
+**drop in は pay an unannounced visit に置換**でき、「予定外に、ふらっと入り込む」動作です。**drop out は quit before completion に置換**でき、「本来続けるべき枠組みから、完了前に抜け落ちる」動作です。「立ち寄る」話か「脱落する」話かで区別します。
+
+### なぜ直訳で読み解けないか
+
+in は「予定外に内部へ落ちるように入り込む」イメージなので、drop in は前触れのない気軽な訪問を表します。out は「本来いるべき枠組みの外へ落ちて出る」イメージなので、drop out は学業や競技という枠組みから完了を待たずに脱落することを表します。
+
+### よくある誤用
+
+⚠️ \`He dropped in of college during his final year.\`（誤）。中退したのは drop **out** of。drop in に「中退する」の意味はありません。
+
+⚠️ \`Feel free to drop out on us anytime.\`（誤・意味が正反対）。立ち寄るのは drop **in** on。drop out は脱落・中退の意味であり、訪問には使いません。
+
+🎯 覚え方：**in＝内部へ予定外に入り込む（立ち寄る）**、**out＝枠組みの外へ落ちて出る（中退する・脱落する）**。`,keyPoints:[`drop in（on）＝ふらっと立ち寄る（pay an unannounced visit）`,`drop out（of）＝（学校・レース等から）中退する・脱落する（quit before completion）`,`drop in は予定外の訪問、drop out は枠組みからの離脱という正反対の動き`,`in＝内部へ入り込む、out＝枠組みの外へ落ちて出る、という前置詞イメージの違い`],quiz:[{id:`q-dropin-1`,question:`空所に入る適切な語はどれですか。「Why don’t you ( ) us this weekend if you’re free?」`,options:[`drop out on`,`drop in on`,`drop off`,`drop out of`],correctAnswer:1,explanation:`ふらっと立ち寄るよう誘うのは drop in on。`},{id:`q-dropin-2`,question:`空所に入る適切な語はどれですか。「He ( ) high school in his final year to support his family.」`,options:[`dropped in`,`dropped off`,`dropped out of`,`dropped by`],correctAnswer:2,explanation:`中退したのは drop out of。`},{id:`q-dropin-3`,question:`空所に入る適切な語はどれですか。「Three runners had to ( ) the marathon due to injury.」`,options:[`drop in on`,`drop out of`,`drop by`,`drop off`],correctAnswer:1,explanation:`レースから脱落したのも drop out of。`},{id:`q-dropin-4`,question:`drop in の言い換えとして最も適切なものはどれですか。`,options:[`pay an unannounced visit`,`quit before completion`,`take someone somewhere`,`become fewer`],correctAnswer:0,explanation:`drop in は「予定外に立ち寄る」という意味です。`},{id:`q-dropin-5`,question:`drop in と drop out の違いとして正しいものはどれですか。`,options:[`in＝予定外の訪問、out＝枠組みからの離脱`,`両者に意味の違いはない`,`in の方が学業からの離脱を表す`,`out の方が訪問を表す`],correctAnswer:0,explanation:`drop in は訪問、drop out は離脱を表します。`}]},{id:`drop-off-drop-by`,title:`drop off と drop by`,chapter:5,hubId:`drop`,description:`drop off は「（人・荷物を）送り届ける／数量が減る／うたた寝する」、drop by は「ふらっと立ち寄る（drop in とほぼ同義）」。物を置いていくか、自分が立ち寄るかの違いです。`,content:`## 物を置いていくか、自分が立ち寄るか
+
+drop off と drop by はどちらも drop の比喩用法ですが、off の「本体から切り離して置いていく」イメージと by の「通りすがりに立ち寄る」イメージで、主体と対象が異なります。
+
+| 熟語 | 中心の意味 | 典型的な使われ方 |
+| --- | --- | --- |
+| drop **off** | （人・荷物を）送り届ける／（数量が）減る／うたた寝する | drop the kids off at school |
+| drop **by** | ふらっと立ち寄る（drop in とほぼ同義） | drop by the office |
+
+### drop off の使い分け
+
+drop off には複数の意味があります。1つは「（車で人や荷物を）目的地まで運んで降ろす」（I'll drop you off at the station）。2つ目は「（売上・成績などの数量が）徐々に減少する」（Sales tend to drop off in winter）。3つ目は口語で「うとうと眠りに落ちる」（He dropped off during the meeting）という意味です。
+
+### drop by の使い分け
+
+drop by は drop in とほぼ同じ意味で、「前触れなくふらっと立ち寄る」ことを表します。"Feel free to drop by the office whenever you're in town." のように使われ、drop in よりもややカジュアルで会話的な響きを持ちます。
+
+### 使い分けの手がかり
+
+**drop off は take someone/something somewhere and leave them／decrease／fall asleep に置換**でき、対象は人・荷物・数量・意識状態と幅広いです。**drop by は visit briefly and unannounced に置換**でき、drop in の言い換えとして使われます。「置いていく・減る・眠る」話か「立ち寄る」話かで区別します。
+
+### なぜ直訳で読み解けないか
+
+off は「運んでいたものを本体から切り離してその場に置いていく」イメージなので、drop off は人や荷物を届けて自分は去ることを表し、そこから数量や意識の「切り離され・低下」にも意味が広がります。by は「対象のすぐ脇を通りかかる」イメージなので、drop by は目的地に向かう途中でふらっと立ち寄ることを表します。
+
+### よくある誤用
+
+⚠️ \`I'll drop by the kids at school on my way to work.\`（誤）。子どもを送り届けるのは drop **off**。drop by に「送り届ける」の意味はありません。
+
+⚠️ \`Feel free to drop off the office anytime.\`（誤）。立ち寄るよう誘うのは drop **by**（または drop in）。drop off はこの文脈では使いません。
+
+🎯 覚え方：**off＝運んだものを切り離して置いていく（送り届ける・減る・眠る）**、**by＝通りすがりに立ち寄る（訪問する）**。`,keyPoints:[`drop off＝（人・荷物を）送り届ける／（数量が）減る／うたた寝する（幅広い意味を持つ多義語）`,`drop by＝ふらっと立ち寄る（drop in とほぼ同義）`,`drop off は「置いていく・減る・眠る」、drop by は「訪問する」という別方向の意味`,`off＝運んだものを切り離す、by＝通りすがりに立ち寄る、という前置詞イメージの違い`],quiz:[{id:`q-dropoff-1`,question:`空所に入る適切な語はどれですか。「I usually ( ) my daughter at daycare before heading to the office.」`,options:[`drop by`,`drop out`,`drop off`,`drop in`],correctAnswer:2,explanation:`子どもを送り届けるのは drop off。`},{id:`q-dropoff-2`,question:`空所に入る適切な語はどれですか。「Feel free to ( ) anytime — we’re usually home in the evenings.」`,options:[`drop off`,`drop out`,`drop by`,`drop out of`],correctAnswer:2,explanation:`ふらっと立ち寄るよう誘うのは drop by。`},{id:`q-dropoff-3`,question:`空所に入る適切な語はどれですか。「Website traffic tends to ( ) significantly during the holidays.」`,options:[`drop by`,`drop off`,`drop in`,`drop out`],correctAnswer:1,explanation:`数量が減るのも drop off。`},{id:`q-dropoff-4`,question:`drop by の言い換えとして最も適切なものはどれですか。`,options:[`visit briefly and unannounced`,`take someone somewhere and leave`,`decrease`,`fall asleep`],correctAnswer:0,explanation:`drop by は「ふらっと立ち寄る」という意味です。`},{id:`q-dropoff-5`,question:`drop off と drop by の違いとして正しいものはどれですか。`,options:[`off＝物や人を置いていく・減る・眠る、by＝立ち寄る`,`両者に意味の違いはない`,`off の方が訪問を表す`,`by の方が送り届ける意味を持つ`],correctAnswer:0,explanation:`drop off は多義的（送り届ける・減る・眠る）、drop by は訪問を表します。`}]}],c={1:`スペルが似ている語`,2:`意味が近く使い分けが難しい語`,3:`品詞・派生でまぎらわしい語`,4:`発音が似ている語`,5:`熟語・句動詞でまぎらわしいもの`},l={audience:`大学受験・TOEIC・英検の学習者、英語を学び直す社会人`,approach:`一対一の和訳暗記ではなく、意味の核と使い分けを比較表とミニ問題で身につける`},u=[{id:`take`,verb:`take`,title:`take は前置詞でどう意味が変わる？`,description:`take の中心イメージ「手を伸ばして自分の側に取り込む」が、続く前置詞・副詞でどう枝分かれするかをまとめたハブページ。`,content:`## take の中心イメージ
 
 take は「（手を伸ばして）つかむ・取る」が核となる意味です。そこから「何かを自分の領域・内側に取り込む」という比喩が幅広く枝分かれし、続く前置詞・副詞が「何を」「どこから」「どんな向きで」取り込むかを決めます。
 
@@ -8192,5 +8378,38 @@ think は「考える」が核となる意味です。単純な思考から、�
 | think through | through（最初から最後まで筋道を辿る） | 〜を最後まで筋道立てて考え抜く |
 | think back | back（過去へ思考を巻き戻す） | （過去を）振り返る・思い出す |
 
-think over は「決断の前に物事を表裏じっくり検討する」イメージで、提案や申し出への返事を保留する場面で使われます。think up は「頭の中に何もないところから新しいものを立ち上げる」イメージで、アイデアや計画を創出することを表します。think through は「最初から最後まで筋道を辿って考え抜く」イメージで、think over よりも体系的・徹底的な検討を意味し、think back は「思考を過去へ巻き戻す」イメージから、過去の記憶を振り返ることを表します。`,previewPairs:[`think over vs think up（よく考える／考え出す）`,`think through vs think back（筋道立てて考え抜く／過去を振り返る）`]}];function d(e){let t=[],n=0,r,i=/\[([^\]]+)\]\(([^)]+)\)|\*\*([^*]+)\*\*|`([^`]+)`/g;for(;(r=i.exec(e))!==null;)r.index>n&&t.push({t:`text`,v:e.slice(n,r.index)}),r[1]!==void 0&&r[2]!==void 0?t.push({t:`link`,label:r[1],url:r[2]}):r[3]===void 0?r[4]!==void 0&&t.push({t:`code`,v:r[4]}):t.push({t:`bold`,children:d(r[3])}),n=r.index+r[0].length;return n<e.length&&t.push({t:`text`,v:e.slice(n)}),t}var f=i();function p({questions:e}){let[t,n]=(0,a.useState)(0),[r,i]=(0,a.useState)(null),[o,s]=(0,a.useState)(!1),[c,l]=(0,a.useState)(0),[u,d]=(0,a.useState)(!1),p=e[t],m=t===e.length-1,h=e=>{o||(i(e),s(!0),e===p.correctAnswer&&l(e=>e+1))},g=()=>{if(m){d(!0);return}n(e=>e+1),i(null),s(!1)},_=()=>{n(0),i(null),s(!1),l(0),d(!1)};if(u){let t=Math.round(c/e.length*100),n=t>=80?`よくできました。この区別はばっちりです。`:t>=50?`あと少し。間違えた問題の解説を読み返しましょう。`:`もう一度、上の比較表と例文を見てから挑戦しましょう。`;return(0,f.jsxs)(`div`,{className:`quiz quiz-result`,children:[(0,f.jsxs)(`p`,{className:`quiz-score`,children:[e.length,`問中 `,(0,f.jsx)(`strong`,{children:c}),`問正解（`,t,`%）`]}),(0,f.jsx)(`p`,{className:`quiz-msg`,children:n}),(0,f.jsx)(`button`,{className:`btn`,onClick:_,children:`もう一度`})]})}return(0,f.jsxs)(`div`,{className:`quiz`,children:[(0,f.jsx)(`div`,{className:`quiz-head`,children:(0,f.jsxs)(`span`,{className:`quiz-count`,children:[`第 `,t+1,` / `,e.length,` 問`]})}),(0,f.jsx)(`p`,{className:`quiz-q`,children:p.question}),(0,f.jsx)(`ul`,{className:`quiz-options`,children:p.options.map((e,t)=>{let n=`quiz-option`;return o&&(t===p.correctAnswer?n+=` is-correct`:t===r&&(n+=` is-wrong`)),(0,f.jsx)(`li`,{children:(0,f.jsxs)(`button`,{className:n,onClick:()=>h(t),disabled:o,children:[(0,f.jsx)(`span`,{className:`quiz-mark`,"aria-hidden":`true`,children:o&&t===p.correctAnswer?`○`:o&&t===r?`×`:``}),(0,f.jsx)(`span`,{children:e})]})},t)})}),o&&(0,f.jsxs)(`div`,{className:`quiz-explain`,children:[(0,f.jsx)(`p`,{className:r===p.correctAnswer?`quiz-verdict ok`:`quiz-verdict ng`,children:r===p.correctAnswer?`正解`:`不正解`}),(0,f.jsx)(`p`,{children:p.explanation}),(0,f.jsx)(`button`,{className:`btn`,onClick:g,children:m?`結果を見る`:`次の問題へ`})]})]})}var m=`/eng-confusables`,h=e=>`${e}-phrasal-verbs`;function g(e){let t=e;if(t.startsWith(m)&&(t=t.slice(16)),t=t.replace(/^\/+|\/+$/g,``),t===``)return{view:`home`};if(t===`about`)return{view:`about`};if(t===`privacy`)return{view:`privacy`};let n=u.find(e=>h(e.verb)===t);if(n)return{view:`hub`,id:n.id};let r=s.find(e=>e.id===t);return r?{view:`pair`,id:r.id}:{view:`home`}}function _(e){switch(e.view){case`home`:return`${m}/`;case`pair`:return`${m}/${e.id}/`;case`hub`:{let t=u.find(t=>t.id===e.id);return`${m}/${t?h(t.verb):e.id}/`}default:return`${m}/${e.view}/`}}function v(e,t){return e.map((e,n)=>{let r=`${t}-${n}`;switch(e.t){case`text`:return(0,f.jsx)(`span`,{children:e.v},r);case`bold`:return(0,f.jsx)(`strong`,{children:v(e.children,r)},r);case`code`:return(0,f.jsx)(`code`,{children:e.v},r);case`link`:return/^https?:\/\//.test(e.url)?(0,f.jsx)(`a`,{href:e.url,target:`_blank`,rel:`noopener noreferrer`,children:e.label},r):(0,f.jsx)(`a`,{href:e.url,children:e.label},r)}})}var y=(e,t)=>v(d(e),t),b={"💡":{label:`コツ`,cls:`callout-tip`},"🎯":{label:`試験ポイント`,cls:`callout-exam`},"⚠️":{label:`注意`,cls:`callout-warn`},"📖":{label:`発展`,cls:`callout-read`}};function x(e){let t=e.split(`
+think over は「決断の前に物事を表裏じっくり検討する」イメージで、提案や申し出への返事を保留する場面で使われます。think up は「頭の中に何もないところから新しいものを立ち上げる」イメージで、アイデアや計画を創出することを表します。think through は「最初から最後まで筋道を辿って考え抜く」イメージで、think over よりも体系的・徹底的な検討を意味し、think back は「思考を過去へ巻き戻す」イメージから、過去の記憶を振り返ることを表します。`,previewPairs:[`think over vs think up（よく考える／考え出す）`,`think through vs think back（筋道立てて考え抜く／過去を振り返る）`]},{id:`fall`,verb:`fall`,title:`fall は前置詞でどう意味が変わる？`,description:`fall の中心イメージ「落ちる・崩れる」が、続く前置詞・副詞でどう枝分かれするかをまとめたハブページ。`,content:`## fall の中心イメージ
+
+fall は「落ちる」が核となる意味です。物理的な落下から、失敗・依存・不和という比喩に広がり、続く前置詞・副詞が「どこへ、どんな形で落ちるか」を決めます。
+
+| 熟語 | 前置詞・副詞のイメージ | 中心的な意味 |
+| --- | --- | --- |
+| fall back on | back on（後方の支えに倒れ込む） | （最後の手段）に頼る |
+| fall through | through（底を突き抜けて落ちる） | （計画等が）失敗に終わる・頓挫する |
+| fall out | out（枠組みの外へ落ち出る） | 仲違いする／（髪・歯等が）抜け落ちる |
+| fall for | for（相手の魅力に落ちる） | 〜に恋をする／（うそ等に）だまされる |
+
+fall back on は「前方の足場を失った人物が背後の安全網に倒れ込んで身を預ける」イメージで、他に手段がないときに頼る最後の選択肢を表します。fall through は「床が抜けて底まで落ちる」イメージから、計画や取引が実現せずに終わることを表します。fall out は「枠組みの外へ落ちる」イメージから、関係が壊れて仲違いすることにも、髪や歯が抜け落ちることにも使われ、fall for は「相手の魅力に落ちる」イメージから、恋に落ちることにも、うまい話にだまされることにも広がります。`,previewPairs:[`fall back on vs fall through（頼る／失敗に終わる）`,`fall out vs fall for（仲違いする・抜け落ちる／恋をする・だまされる）`]},{id:`clear`,verb:`clear`,title:`clear は前置詞でどう意味が変わる？`,description:`clear の中心イメージ「取り除いて澄ませる」が、続く前置詞・副詞でどう枝分かれするかをまとめたハブページ。`,content:`## clear の中心イメージ
+
+clear は「（邪魔なものを取り除いて）澄ませる・空ける」が核となる意味です。物理的な片付けから、天候の好転・立ち去り・撤去という比喩に広がり、続く前置詞・副詞が「何を、どちらへ片付けるか」を決めます。
+
+| 熟語 | 前置詞・副詞のイメージ | 中心的な意味 |
+| --- | --- | --- |
+| clear up | up（完全に向上させて晴らす） | （天候・病気・誤解が）よくなる・解消する／片付ける |
+| clear out | out（内部のものを外へ出す） | （不要な物を捨てて）空にする／立ち去る |
+| clear off | off（本体から離れて立ち去る） | 立ち去る（命令形で「あっちへ行け」） |
+| clear away | away（不要な物を取り除いて空間を作る） | （食器・物を）片付けて空間を作る |
+
+clear up は「完全に良い状態まで持ち上げて澄ませる」イメージで、天気の好転にも、体調や誤解の解消にも、部屋の片付けにも使われます。clear out は「内部にある不要な物を全て外へ出して空にする」イメージで、大掃除にも、口語で「さっさと立ち去る」ことにも使われます。clear off は「本体から離れて立ち去る」イメージで主にイギリス英語の口語表現、clear away は「使ったものを取り除いて元の空間に戻す」イメージから食後の片付けなどに使われます。`,previewPairs:[`clear up vs clear out（解消する・片付ける／空にする・立ち去る）`,`clear off vs clear away（立ち去る／片付けて空間を作る）`]},{id:`drop`,verb:`drop`,title:`drop は前置詞でどう意味が変わる？`,description:`drop の中心イメージ「ぽとりと落とす」が、続く前置詞・副詞でどう枝分かれするかをまとめたハブページ。`,content:`## drop の中心イメージ
+
+drop は「（物を）ぽとりと落とす」が核となる意味です。物理的な落下から、立ち寄り・脱落・降車という比喩に広がり、続く前置詞・副詞が「どこへ、どんな形で落とすか」を決めます。
+
+| 熟語 | 前置詞・副詞のイメージ | 中心的な意味 |
+| --- | --- | --- |
+| drop in（on） | in（内部へ落ちるように入る） | ふらっと立ち寄る（前触れなく） |
+| drop out（of） | out（枠組みの外へ落ち出る） | （学校・レース等から）中退する・脱落する |
+| drop off | off（本体から切り離して置いていく） | （人・荷物を）送り届ける／（数量が）減る／うたた寝する |
+| drop by | by（通りすがりに立ち寄る） | ふらっと立ち寄る（drop in とほぼ同義） |
+
+drop in（on）は「予定外に内部へふらりと入り込む」イメージで、前触れのない訪問を表します。drop out（of）は「本来いるべき枠組みの外へ落ちて出る」イメージで、学業や競技からの離脱を表します。drop off は「運んでいたものを本体から切り離してその場に置いていく」イメージから、人や荷物を届けることにも、数量の減少にも、うたた寝にも広がり、drop by は drop in とほぼ同じ意味で「通りすがりに立ち寄る」ことを表します。`,previewPairs:[`drop in vs drop out（ふらっと立ち寄る／中退する・脱落する）`,`drop off vs drop by（送り届ける・減る・うたた寝する／ふらっと立ち寄る）`]}];function d(e){let t=[],n=0,r,i=/\[([^\]]+)\]\(([^)]+)\)|\*\*([^*]+)\*\*|`([^`]+)`/g;for(;(r=i.exec(e))!==null;)r.index>n&&t.push({t:`text`,v:e.slice(n,r.index)}),r[1]!==void 0&&r[2]!==void 0?t.push({t:`link`,label:r[1],url:r[2]}):r[3]===void 0?r[4]!==void 0&&t.push({t:`code`,v:r[4]}):t.push({t:`bold`,children:d(r[3])}),n=r.index+r[0].length;return n<e.length&&t.push({t:`text`,v:e.slice(n)}),t}var f=i();function p({questions:e}){let[t,n]=(0,a.useState)(0),[r,i]=(0,a.useState)(null),[o,s]=(0,a.useState)(!1),[c,l]=(0,a.useState)(0),[u,d]=(0,a.useState)(!1),p=e[t],m=t===e.length-1,h=e=>{o||(i(e),s(!0),e===p.correctAnswer&&l(e=>e+1))},g=()=>{if(m){d(!0);return}n(e=>e+1),i(null),s(!1)},_=()=>{n(0),i(null),s(!1),l(0),d(!1)};if(u){let t=Math.round(c/e.length*100),n=t>=80?`よくできました。この区別はばっちりです。`:t>=50?`あと少し。間違えた問題の解説を読み返しましょう。`:`もう一度、上の比較表と例文を見てから挑戦しましょう。`;return(0,f.jsxs)(`div`,{className:`quiz quiz-result`,children:[(0,f.jsxs)(`p`,{className:`quiz-score`,children:[e.length,`問中 `,(0,f.jsx)(`strong`,{children:c}),`問正解（`,t,`%）`]}),(0,f.jsx)(`p`,{className:`quiz-msg`,children:n}),(0,f.jsx)(`button`,{className:`btn`,onClick:_,children:`もう一度`})]})}return(0,f.jsxs)(`div`,{className:`quiz`,children:[(0,f.jsx)(`div`,{className:`quiz-head`,children:(0,f.jsxs)(`span`,{className:`quiz-count`,children:[`第 `,t+1,` / `,e.length,` 問`]})}),(0,f.jsx)(`p`,{className:`quiz-q`,children:p.question}),(0,f.jsx)(`ul`,{className:`quiz-options`,children:p.options.map((e,t)=>{let n=`quiz-option`;return o&&(t===p.correctAnswer?n+=` is-correct`:t===r&&(n+=` is-wrong`)),(0,f.jsx)(`li`,{children:(0,f.jsxs)(`button`,{className:n,onClick:()=>h(t),disabled:o,children:[(0,f.jsx)(`span`,{className:`quiz-mark`,"aria-hidden":`true`,children:o&&t===p.correctAnswer?`○`:o&&t===r?`×`:``}),(0,f.jsx)(`span`,{children:e})]})},t)})}),o&&(0,f.jsxs)(`div`,{className:`quiz-explain`,children:[(0,f.jsx)(`p`,{className:r===p.correctAnswer?`quiz-verdict ok`:`quiz-verdict ng`,children:r===p.correctAnswer?`正解`:`不正解`}),(0,f.jsx)(`p`,{children:p.explanation}),(0,f.jsx)(`button`,{className:`btn`,onClick:g,children:m?`結果を見る`:`次の問題へ`})]})]})}var m=`/eng-confusables`,h=e=>`${e}-phrasal-verbs`;function g(e){let t=e;if(t.startsWith(m)&&(t=t.slice(16)),t=t.replace(/^\/+|\/+$/g,``),t===``)return{view:`home`};if(t===`about`)return{view:`about`};if(t===`privacy`)return{view:`privacy`};let n=u.find(e=>h(e.verb)===t);if(n)return{view:`hub`,id:n.id};let r=s.find(e=>e.id===t);return r?{view:`pair`,id:r.id}:{view:`home`}}function _(e){switch(e.view){case`home`:return`${m}/`;case`pair`:return`${m}/${e.id}/`;case`hub`:{let t=u.find(t=>t.id===e.id);return`${m}/${t?h(t.verb):e.id}/`}default:return`${m}/${e.view}/`}}function v(e,t){return e.map((e,n)=>{let r=`${t}-${n}`;switch(e.t){case`text`:return(0,f.jsx)(`span`,{children:e.v},r);case`bold`:return(0,f.jsx)(`strong`,{children:v(e.children,r)},r);case`code`:return(0,f.jsx)(`code`,{children:e.v},r);case`link`:return/^https?:\/\//.test(e.url)?(0,f.jsx)(`a`,{href:e.url,target:`_blank`,rel:`noopener noreferrer`,children:e.label},r):(0,f.jsx)(`a`,{href:e.url,children:e.label},r)}})}var y=(e,t)=>v(d(e),t),b={"💡":{label:`コツ`,cls:`callout-tip`},"🎯":{label:`試験ポイント`,cls:`callout-exam`},"⚠️":{label:`注意`,cls:`callout-warn`},"📖":{label:`発展`,cls:`callout-read`}};function x(e){let t=e.split(`
 `),n=[],r=0,i=0;for(;r<t.length;){let e=t[r].trim();if(e===``){r++;continue}if(/^---+$/.test(e)){n.push((0,f.jsx)(`hr`,{},i++)),r++;continue}if(e.startsWith(`### `)){n.push((0,f.jsx)(`h3`,{children:y(e.slice(4),`h${i}`)},i++)),r++;continue}if(e.startsWith(`## `)){n.push((0,f.jsx)(`h2`,{children:y(e.slice(3),`h${i}`)},i++)),r++;continue}let a=Object.keys(b).find(t=>e.startsWith(t));if(a){let{label:t,cls:o}=b[a];n.push((0,f.jsxs)(`div`,{className:`callout ${o}`,children:[(0,f.jsx)(`span`,{className:`callout-label`,children:t}),(0,f.jsx)(`p`,{children:y(e.slice(a.length).trim(),`c${i}`)})]},i++)),r++;continue}if(e.startsWith(`|`)){let e=[];for(;r<t.length&&t[r].trim().startsWith(`|`);)e.push(t[r].trim()),r++;let a=e.map(e=>e.replace(/^\||\|$/g,``).split(`|`).map(e=>e.trim())).filter(e=>!e.every(e=>/^:?-+:?$/.test(e)||e===``));if(a.length){let[e,...t]=a;n.push((0,f.jsx)(`div`,{className:`table-wrap`,children:(0,f.jsxs)(`table`,{children:[(0,f.jsx)(`thead`,{children:(0,f.jsx)(`tr`,{children:e.map((e,t)=>(0,f.jsx)(`th`,{children:y(e,`th${i}-${t}`)},t))})}),(0,f.jsx)(`tbody`,{children:t.map((e,t)=>(0,f.jsx)(`tr`,{children:e.map((e,n)=>(0,f.jsx)(`td`,{children:y(e,`td${i}-${t}-${n}`)},n))},t))})]})},i++))}continue}if(/^\d+\.\s/.test(e)){let e=[];for(;r<t.length&&/^\d+\.\s/.test(t[r].trim());)e.push(t[r].trim().replace(/^\d+\.\s/,``)),r++;n.push((0,f.jsx)(`ol`,{children:e.map((e,t)=>(0,f.jsx)(`li`,{children:y(e,`ol${i}-${t}`)},t))},i++));continue}if(/^[-*]\s/.test(e)){let e=[];for(;r<t.length&&/^[-*]\s/.test(t[r].trim());)e.push(t[r].trim().replace(/^[-*]\s/,``)),r++;n.push((0,f.jsx)(`ul`,{children:e.map((e,t)=>(0,f.jsx)(`li`,{children:y(e,`ul${i}-${t}`)},t))},i++));continue}n.push((0,f.jsx)(`p`,{children:y(e,`p${i}`)},i++)),r++}return n}var S=e=>`${e.id} ${e.title} ${e.description}`.toLowerCase();function C(){let[e,t]=(0,a.useState)(()=>g(window.location.pathname)),[n,r]=(0,a.useState)(!1),i=(0,a.useCallback)(e=>{window.history.pushState({},``,_(e)),t(e),r(!1),window.scrollTo(0,0)},[]);return(0,a.useEffect)(()=>{let e=()=>t(g(window.location.pathname));return window.addEventListener(`popstate`,e),()=>window.removeEventListener(`popstate`,e)},[]),(0,f.jsxs)(`div`,{className:`app`,children:[(0,f.jsx)(w,{route:e,navigate:i,menuOpen:n,setMenuOpen:r}),(0,f.jsxs)(`main`,{className:`main`,children:[e.view===`home`&&(0,f.jsx)(T,{navigate:i}),e.view===`pair`&&(0,f.jsx)(E,{id:e.id,navigate:i}),e.view===`hub`&&(0,f.jsx)(D,{id:e.id,navigate:i}),e.view===`about`&&(0,f.jsx)(O,{}),e.view===`privacy`&&(0,f.jsx)(k,{})]}),(0,f.jsx)(A,{navigate:i})]})}function w({route:e,navigate:t,menuOpen:n,setMenuOpen:r}){return(0,f.jsx)(`header`,{className:`site-header`,children:(0,f.jsxs)(`div`,{className:`header-inner`,children:[(0,f.jsx)(`a`,{className:`brand`,href:`${m}/`,onClick:e=>{e.preventDefault(),t({view:`home`})},children:`まぎらわしい英単語・熟語ノート`}),(0,f.jsxs)(`button`,{className:`menu-toggle`,"aria-label":`メニュー`,"aria-expanded":n,onClick:()=>r(!n),children:[(0,f.jsx)(`span`,{}),(0,f.jsx)(`span`,{}),(0,f.jsx)(`span`,{})]}),(0,f.jsxs)(`nav`,{className:`site-nav ${n?`open`:``}`,children:[(0,f.jsx)(`a`,{href:`${m}/`,onClick:e=>{e.preventDefault(),t({view:`home`})},className:e.view===`home`?`active`:``,children:`さがす`}),(0,f.jsx)(`a`,{href:`${m}/about/`,onClick:e=>{e.preventDefault(),t({view:`about`})},className:e.view===`about`?`active`:``,children:`このサイトについて`})]})]})})}function T({navigate:t}){let[r,i]=(0,a.useState)(``),[o,d]=(0,a.useState)(0),p=(0,a.useMemo)(()=>{let e=r.trim().toLowerCase();return s.filter(t=>!(o!==0&&t.chapter!==o||e&&!S(t).includes(e)))},[r,o]);return(0,f.jsxs)(`div`,{className:`home`,children:[(0,f.jsxs)(`section`,{className:`hero`,children:[(0,f.jsx)(`h1`,{children:`まぎらわしい英単語・熟語を、引いて見分ける`}),(0,f.jsxs)(`p`,{className:`hero-lead`,children:[l.approach,`。`,s.length,`組の混同ペアを、比較表とミニ問題でまとめました。`]}),(0,f.jsxs)(`div`,{className:`search-box`,children:[(0,f.jsx)(e,{size:18,"aria-hidden":`true`}),(0,f.jsx)(`input`,{type:`search`,value:r,onChange:e=>i(e.target.value),placeholder:`単語で検索（例：affect, lie, breed）`,"aria-label":`単語を検索`,autoComplete:`off`}),r&&(0,f.jsx)(`button`,{className:`search-clear`,"aria-label":`クリア`,onClick:()=>i(``),children:(0,f.jsx)(n,{size:16})})]}),(0,f.jsxs)(`div`,{className:`cat-chips`,role:`tablist`,"aria-label":`カテゴリで絞り込み`,children:[(0,f.jsx)(`button`,{className:`chip ${o===0?`active`:``}`,onClick:()=>d(0),children:`すべて`}),[1,2,3,4,5].map(e=>(0,f.jsx)(`button`,{className:`chip ${o===e?`active`:``}`,onClick:()=>d(e),children:c[e]},e))]})]}),(o===0||o===5)&&!r&&(0,f.jsxs)(`section`,{className:`results`,"aria-label":`熟語・句動詞の動詞ハブ`,children:[(0,f.jsx)(`h2`,{style:{fontSize:`1.05rem`,margin:`0 0 10px`},children:`動詞から熟語をさがす`}),(0,f.jsx)(`ul`,{className:`pair-list`,style:{listStyle:`none`,padding:0},children:u.map(e=>(0,f.jsx)(`li`,{children:(0,f.jsxs)(`a`,{href:`${m}/${h(e.verb)}/`,onClick:n=>{n.preventDefault(),t({view:`hub`,id:e.id})},children:[(0,f.jsx)(`span`,{className:`pair-title`,children:e.verb}),(0,f.jsx)(`span`,{className:`pair-desc`,children:e.description})]})},e.id))})]}),(0,f.jsxs)(`section`,{className:`results`,children:[(0,f.jsxs)(`p`,{className:`results-count`,children:[p.length,` 組`,r?`（「${r}」で検索）`:``]}),p.length===0?(0,f.jsx)(`p`,{className:`no-results`,children:`該当する単語が見つかりませんでした。スペルを変えて試してください。`}):(0,f.jsx)(`ol`,{className:`pair-list`,children:p.map(e=>(0,f.jsx)(`li`,{children:(0,f.jsxs)(`a`,{href:`${m}/${e.id}/`,onClick:n=>{n.preventDefault(),t({view:`pair`,id:e.id})},children:[(0,f.jsx)(`span`,{className:`pair-title`,children:e.title}),(0,f.jsx)(`span`,{className:`pair-cat`,children:c[e.chapter]}),(0,f.jsx)(`span`,{className:`pair-desc`,children:e.description})]})},e.id))})]})]})}function E({id:e,navigate:t}){let n=s[s.findIndex(t=>t.id===e)];if(!n)return(0,f.jsx)(`p`,{children:`ページが見つかりませんでした。`});let r=s.filter(e=>e.chapter===n.chapter),i=r.findIndex(t=>t.id===e),a=i>0?r[i-1]:null,o=i<r.length-1?r[i+1]:null;return(0,f.jsxs)(`article`,{className:`pair`,children:[(0,f.jsxs)(`nav`,{className:`breadcrumb`,children:[(0,f.jsx)(`a`,{href:`${m}/`,onClick:e=>{e.preventDefault(),t({view:`home`})},children:`さがす`}),(0,f.jsx)(`span`,{"aria-hidden":`true`,children:`/`}),(0,f.jsx)(`span`,{children:c[n.chapter]})]}),(0,f.jsxs)(`header`,{className:`pair-header`,children:[(0,f.jsx)(`p`,{className:`pair-cat-label`,children:c[n.chapter]}),(0,f.jsx)(`h1`,{children:n.title}),(0,f.jsx)(`p`,{className:`pair-lead`,children:n.description})]}),(0,f.jsx)(`div`,{className:`pair-body`,children:x(n.content)}),n.keyPoints&&n.keyPoints.length>0&&(0,f.jsxs)(`section`,{className:`keypoints`,children:[(0,f.jsx)(`h2`,{children:`まとめ`}),(0,f.jsx)(`ul`,{children:n.keyPoints.map((e,t)=>(0,f.jsx)(`li`,{children:e},t))})]}),(0,f.jsxs)(`section`,{className:`quiz-section`,children:[(0,f.jsx)(`h2`,{children:`理解度チェック（任意）`}),(0,f.jsx)(p,{questions:n.quiz})]}),(0,f.jsxs)(`nav`,{className:`pair-nav`,children:[a?(0,f.jsxs)(`button`,{className:`btn`,onClick:()=>t({view:`pair`,id:a.id}),children:[`← `,a.title]}):(0,f.jsx)(`span`,{}),o?(0,f.jsxs)(`button`,{className:`btn btn-primary`,onClick:()=>t({view:`pair`,id:o.id}),children:[o.title,` →`]}):(0,f.jsx)(`button`,{className:`btn`,onClick:()=>t({view:`home`}),children:`一覧へ戻る`})]})]})}function D({id:e,navigate:t}){let n=u.find(t=>t.id===e);if(!n)return(0,f.jsx)(`p`,{children:`ページが見つかりませんでした。`});let r=s.filter(e=>e.hubId===n.id);return(0,f.jsxs)(`article`,{className:`pair`,children:[(0,f.jsxs)(`nav`,{className:`breadcrumb`,children:[(0,f.jsx)(`a`,{href:`${m}/`,onClick:e=>{e.preventDefault(),t({view:`home`})},children:`さがす`}),(0,f.jsx)(`span`,{"aria-hidden":`true`,children:`/`}),(0,f.jsx)(`span`,{children:c[5]})]}),(0,f.jsxs)(`header`,{className:`pair-header`,children:[(0,f.jsx)(`p`,{className:`pair-cat-label`,children:`動詞ハブ`}),(0,f.jsx)(`h1`,{children:n.title}),(0,f.jsx)(`p`,{className:`pair-lead`,children:n.description})]}),(0,f.jsx)(`div`,{className:`pair-body`,children:x(n.content)}),(0,f.jsxs)(`section`,{className:`keypoints`,children:[(0,f.jsx)(`h2`,{children:r.length>0?`${n.verb} の熟語ペア一覧`:`${n.verb} で今後扱う予定の熟語ペア`}),r.length>0?(0,f.jsx)(`ul`,{className:`pair-list`,style:{listStyle:`none`,padding:0},children:r.map(e=>(0,f.jsx)(`li`,{children:(0,f.jsxs)(`a`,{href:`${m}/${e.id}/`,onClick:n=>{n.preventDefault(),t({view:`pair`,id:e.id})},children:[(0,f.jsx)(`span`,{className:`pair-title`,children:e.title}),(0,f.jsx)(`span`,{className:`pair-desc`,children:e.description})]})},e.id))}):(0,f.jsxs)(f.Fragment,{children:[(0,f.jsx)(`ul`,{children:n.previewPairs.map((e,t)=>(0,f.jsx)(`li`,{children:e},t))}),(0,f.jsx)(`p`,{style:{color:`#868d99`,fontSize:`0.9rem`},children:`各ページは準備中です。公開までこのハブページで前置詞ごとの意味の違いを先に押さえておくと、個別ページの理解が早くなります。`})]})]}),(0,f.jsx)(`nav`,{className:`pair-nav`,children:(0,f.jsx)(`button`,{className:`btn`,onClick:()=>t({view:`home`}),children:`一覧へ戻る`})})]})}function O(){return(0,f.jsxs)(`div`,{className:`about`,children:[(0,f.jsx)(`h1`,{children:`このサイトについて`}),(0,f.jsx)(`h2`,{children:`サイトの目的と対象`}),(0,f.jsxs)(`p`,{children:[`「まぎらわしい英単語・熟語ノート」は、スペル・意味・品詞・発音が似ていて混同しやすい英単語のペア、および前置詞や副詞の違いで意味が変わる紛らわしい熟語・句動詞のペアを、引いてすぐに違いと使い分けが分かるようにまとめた逆引きの比較リファレンスです。`,l.audience,`を主な対象としています。`]}),(0,f.jsx)(`h2`,{children:`コンテンツ構成`}),(0,f.jsx)(`p`,{children:`混同しやすい語を「スペルが似ている語」「意味が近い語」「品詞・派生でまぎらわしい語」「発音が似ている語」の4カテゴリに分け、1ペア（または自然な語群）を1ページにまとめています。各ページに比較表・例文・覚え方・任意の確認問題を用意しています。`}),(0,f.jsx)(`h2`,{children:`編集・制作方針`}),(0,f.jsxs)(`p`,{children:[`各語の意味・品詞・自他・発音は辞書（Cambridge・Merriam-Webster・Wiktionary など）で事実を確認したうえで、解説は`,(0,f.jsx)(`strong`,{children:`すべて運営者が自分のことばで書き起こし`}),`、例文も自作しています。辞書の定義文や例文をそのまま転載することはしていません。確認できない語法は載せていません。誤りに気づいた場合は随時修正します。`]}),(0,f.jsx)(`h2`,{children:`運営者について`}),(0,f.jsx)(`p`,{children:`個人が運営しています。広告収入はサーバー・ドメインなどの維持費に充てています。`}),(0,f.jsx)(`h2`,{children:`お問い合わせ`}),(0,f.jsxs)(`p`,{children:[`内容の誤りのご指摘やご意見は、`,(0,f.jsx)(`a`,{href:`https://forms.gle/ccMv7oKwz6ysDHBe6`,target:`_blank`,rel:`noopener noreferrer`,children:`お問い合わせフォーム`}),`よりお寄せください。`]}),(0,f.jsx)(`h2`,{children:`免責事項`}),(0,f.jsx)(`p`,{children:`本サイトは内容の正確性に努めていますが、その完全性・正確性・有用性を保証するものではありません。学習の最終的な確認は辞書や公式教材で行ってください。本サイトの利用によって生じたいかなる損害についても責任を負いかねます。`})]})}function k(){return(0,f.jsxs)(`div`,{className:`privacy`,children:[(0,f.jsx)(`h1`,{children:`プライバシーポリシー`}),(0,f.jsx)(`h2`,{children:`アクセス解析（Google Analytics）`}),(0,f.jsx)(`p`,{children:`本サイトは利用状況の把握のためGoogle Analytics（GA4）を利用しています。Cookieを用いて匿名のトラフィックデータを収集するもので、個人を特定する情報は含みません。`}),(0,f.jsx)(`h2`,{children:`広告配信（Google AdSense）`}),(0,f.jsx)(`p`,{children:`本サイトは第三者配信の広告サービスGoogle AdSenseを利用しています。第三者配信事業者はCookieを使用して、ユーザーの興味に応じた広告を表示することがあります。`}),(0,f.jsx)(`h2`,{children:`Cookieの送信と無効化`}),(0,f.jsxs)(`p`,{children:[`これらのCookieによりGoogleや広告事業者にデータが送信されます。ユーザーは`,(0,f.jsx)(`a`,{href:`https://adssettings.google.com/`,target:`_blank`,rel:`noopener noreferrer`,children:`Googleの広告設定`}),`でパーソナライズ広告を無効にでき、ブラウザの設定でCookieを無効にすることもできます。`]}),(0,f.jsx)(`h2`,{children:`免責事項`}),(0,f.jsx)(`p`,{children:`本サイトの情報の利用により生じた損害について、運営者は責任を負いません。`}),(0,f.jsx)(`h2`,{children:`お問い合わせ`}),(0,f.jsxs)(`p`,{children:[`本ポリシーに関するお問い合わせは`,(0,f.jsx)(`a`,{href:`https://forms.gle/ccMv7oKwz6ysDHBe6`,target:`_blank`,rel:`noopener noreferrer`,children:`お問い合わせフォーム`}),`よりお願いします。`]}),(0,f.jsx)(`p`,{className:`notice`,children:`最終更新日：2026年6月15日`})]})}function A({navigate:e}){return(0,f.jsx)(`footer`,{className:`site-footer`,children:(0,f.jsxs)(`div`,{className:`footer-inner`,children:[(0,f.jsxs)(`nav`,{className:`footer-nav`,children:[(0,f.jsx)(`a`,{href:`${m}/`,onClick:t=>{t.preventDefault(),e({view:`home`})},children:`さがす`}),(0,f.jsx)(`a`,{href:`${m}/about/`,onClick:t=>{t.preventDefault(),e({view:`about`})},children:`このサイトについて`}),(0,f.jsx)(`a`,{href:`${m}/privacy/`,onClick:t=>{t.preventDefault(),e({view:`privacy`})},children:`プライバシーポリシー`}),(0,f.jsx)(`a`,{href:`https://study-apps.com/editorial-policy/`,target:`_blank`,rel:`noopener noreferrer`,children:`編集方針`}),(0,f.jsx)(`a`,{href:`https://study-apps.com/`,target:`_blank`,rel:`noopener noreferrer`,children:`study-apps.com`})]}),(0,f.jsx)(`p`,{className:`footer-note`,children:`個人運営の学習支援サイトです。最終的な確認は辞書や公式教材で行ってください。`})]})})}(0,o.createRoot)(document.getElementById(`root`)).render((0,f.jsx)(a.StrictMode,{children:(0,f.jsx)(C,{})}));
