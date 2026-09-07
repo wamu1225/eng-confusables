@@ -23462,4 +23462,526 @@ through は「入口から出口まで筋道を辿って考え抜く」イメー
       },
     ],
   },
+  {
+    id: 'fall-back-on-fall-through',
+    title: 'fall back on と fall through',
+    chapter: 5,
+    hubId: 'fall',
+    description: 'fall back on は「（最後の手段）に頼る」、fall through は「（計画等が）失敗に終わる」。支えに倒れ込むか、底が抜けて落ちるかの違いです。',
+    content: `## 支えに倒れ込むか、底が抜けて落ちるか
+
+fall back on と fall through はどちらも「落ちる」の比喩ですが、back on の「後方の支えに倒れ込む」イメージと through の「底を突き抜けて落ちる」イメージで、主語も結果も異なります。
+
+| 熟語 | 中心の意味 | 典型的な主語・目的語 |
+| --- | --- | --- |
+| fall back **on** | （最後の手段）に頼る | 主語＝人・組織、目的語＝savings, a backup plan |
+| fall **through** | （計画・取引等が）失敗に終わる・頓挫する | 主語＝the plan, the deal（人は主語にならない） |
+
+### fall back on の使い分け
+
+fall back on は「他に手段がなくなったときに、蓄えていたものや慣れ親しんだ方法に頼る」という意味で、"When the primary funding fell through, the charity had to fall back on private donations." のように使われます。受動態にはしません。
+
+### fall through の使い分け
+
+fall through は「（合意・計画・取引が）実現に至らず失敗する」という意味で、"The merger fell through at the last minute due to regulatory concerns." のように使われます。主語は必ず計画や取引などの事象で、人を主語にはできません。
+
+### 使い分けの手がかり
+
+**fall back on は resort to／turn to for support に置換**でき、主語は人・組織、目的語は「頼りにする対象」です。**fall through は fail／collapse／come to nothing に置換**でき、主語は必ず「計画・取引などの事象」です。「人が頼る」話か「計画が失敗する」話かで、主語の種類から即座に判別できます。
+
+### なぜ直訳で読み解けないか
+
+back on は「前方の足場を失った人物が背後の安全網の上に倒れ込んで身を預ける」イメージなので、fall back on は他に手段がないときの最後の拠り所を表します。through は「床が破れて底を突き抜けて落下する」イメージなので、fall through は計画が土台から崩れ落ちて実現しないまま終わることを表します。
+
+### よくある誤用
+
+⚠️ \`He fell through when he lost his job and had no savings.\`（誤・主語が人）。人が主語になるのは fall back **on**。fall through の主語は計画や取引などの事象に限られます。
+
+⚠️ \`The company fell back on when the investment deal collapsed.\`（誤・意味が通じない）。取引が頓挫したのは fall **through**。fall back on は「頼る」の意味であって「頓挫する」の意味ではありません。
+
+🎯 覚え方：**back on＝後方の支えに倒れ込む（頼る）**、**through＝床を突き抜けて落ちる（失敗に終わる）**。`,
+    keyPoints: [
+      'fall back on＝（最後の手段）に頼る（resort to）。主語は人・組織、受動態にしない',
+      'fall through＝（計画・取引等が）失敗に終わる（fail/collapse）。主語は必ず事象',
+      'fall back on の主語は人、fall through の主語は計画・取引という文法的な違いで判別できる',
+      'back on＝支えに倒れ込む、through＝床を突き抜けて落ちる、という前置詞イメージの違い',
+    ],
+    quiz: [
+      {
+        id: 'q-fallback-1',
+        question: '空所に入る適切な語はどれですか。「When negotiations stalled, the company had to ( ) its original backup plan.」',
+        options: ['fall through', 'fall back on', 'fall out', 'fall for'],
+        correctAnswer: 1,
+        explanation: '最後の手段に頼ったのは fall back on。',
+      },
+      {
+        id: 'q-fallback-2',
+        question: '空所に入る適切な語はどれですか。「Unfortunately, the merger ( ) due to regulatory objections.」',
+        options: ['fell back on', 'fell for', 'fell through', 'fell out'],
+        correctAnswer: 2,
+        explanation: '合併が頓挫したのは fall through。',
+      },
+      {
+        id: 'q-fallback-3',
+        question: '空所に入る適切な語はどれですか。「If the funding falls through, the university will have to ( ) alternative sources.」',
+        options: ['fall out', 'fall for', 'fall back on', 'fall through'],
+        correctAnswer: 2,
+        explanation: '代替手段に頼るのは fall back on。',
+      },
+      {
+        id: 'q-fallback-4',
+        question: 'fall through の主語として正しいものはどれですか。',
+        options: ['人・組織のみ', '計画・取引などの事象のみ', '人と事象の両方', '物のみ'],
+        correctAnswer: 1,
+        explanation: 'fall through の主語は計画・取引などの事象に限られます。',
+      },
+      {
+        id: 'q-fallback-5',
+        question: 'fall back on と fall through の違いとして正しいものはどれですか. ',
+        options: [
+          '主語が人か事象かで判別できる',
+          '両者に意味の違いはない',
+          '両方とも人が主語になる',
+          '両方とも事象が主語になる',
+        ],
+        correctAnswer: 0,
+        explanation: 'fall back on の主語は人・組織、fall through の主語は事象です。',
+      },
+    ],
+  },
+  {
+    id: 'fall-out-fall-for',
+    title: 'fall out と fall for',
+    chapter: 5,
+    hubId: 'fall',
+    description: 'fall out は「仲違いする・（髪等が）抜け落ちる」、fall for は「〜に恋をする・だまされる」。枠から外れるか、相手の魅力に落ちるかの違いです。',
+    content: `## 枠から外れるか、相手の魅力に落ちるか
+
+fall out と fall for はどちらも fall の比喩用法ですが、out の「枠組みの外へ落ちる」イメージと for の「相手に向かって落ちる」イメージで、対象と結果が異なります。
+
+| 熟語 | 中心の意味 | 典型的な使われ方 |
+| --- | --- | --- |
+| fall **out**（with） | 仲違いする／（髪・歯等が）抜け落ちる | fall out with a friend |
+| fall **for** | 〜に恋をする／（うそ・詐欺に）だまされる | fall for someone／fall for a scam |
+
+### fall out の使い分け
+
+fall out（with）は「（それまで良好だった関係が）けんかして壊れる」という意味で、"The two brothers fell out over their father's inheritance." のように使われます。また文字どおり「（髪・歯などが）自然に抜け落ちる」（Her hair started to fall out after the treatment）という意味もあります。
+
+### fall for の使い分け
+
+fall for の1つ目の意味は「（人に）恋に落ちる」（He fell for her the moment they met）。2つ目は「（うまい話・詐欺・冗談を）真に受けてだまされる」（Don't fall for that email scam）という意味です。
+
+### 使い分けの手がかり
+
+**fall out with は have a quarrel with に置換**でき、対象は人間関係です。**fall for は fall in love with／be deceived by に置換**でき、対象は恋愛の相手か、だます側の策略です。「関係が壊れる」話か「恋に落ちる・だまされる」話かで区別します。
+
+### なぜ直訳で読み解けないか
+
+out は「良好だった枠組みの外へ関係が落ちて出る」イメージなので、fall out は友好関係が壊れることを、また髪や歯が体という枠組みから抜け落ちることを表します。for は「相手やその魅力・策略に向かって落ちていく」イメージなので、fall for は恋に落ちることにも、うまい話に引き込まれてだまされることにも広がります。
+
+### よくある誤用
+
+⚠️ \`They fell for each other over a trivial argument.\`（誤・意味が逆）。ささいな口論で仲違いしたのは fall **out**。fall for は恋に落ちる意味なので文脈が矛盾します。
+
+⚠️ \`She completely fell out for the con artist's story.\`（誤・forが必要）。だまされたのは fall **for**。fall out にだまされる意味はありません。
+
+🎯 覚え方：**out＝枠組みの外へ落ちる（仲違いする・抜け落ちる）**、**for＝相手に向かって落ちる（恋をする・だまされる）**。`,
+    keyPoints: [
+      'fall out（with）＝仲違いする（have a quarrel with）／（髪・歯等が）抜け落ちる',
+      'fall for＝〜に恋をする（fall in love with）／（うそ等に）だまされる（be deceived by）',
+      'fall out は関係の破綻、fall for は恋愛または詐欺への感情的な引き込まれ',
+      'out＝枠組みの外へ落ちる、for＝相手に向かって落ちる、という前置詞イメージの違い',
+    ],
+    quiz: [
+      {
+        id: 'q-fallout-1',
+        question: '空所に入る適切な語はどれですか。「The two former business partners ( ) over unpaid debts.」',
+        options: ['fell for', 'fell out', 'fell through', 'fell back on'],
+        correctAnswer: 1,
+        explanation: '仲違いしたのは fall out。',
+      },
+      {
+        id: 'q-fallout-2',
+        question: '空所に入る適切な語はどれですか。「Many elderly people ( ) this kind of phone scam every year.」',
+        options: ['fall out for', 'fall back on', 'fall for', 'fall through'],
+        correctAnswer: 2,
+        explanation: '詐欺にだまされるのは fall for。',
+      },
+      {
+        id: 'q-fallout-3',
+        question: '空所に入る適切な語はどれですか。「He ( ) her the very first time they spoke.」',
+        options: ['fell out with', 'fell back on', 'fell for', 'fell through'],
+        correctAnswer: 2,
+        explanation: '恋に落ちたのも fall for。',
+      },
+      {
+        id: 'q-fallout-4',
+        question: 'fall out with の言い換えとして最も適切なものはどれですか。',
+        options: ['have a quarrel with', 'fall in love with', 'be deceived by', 'resort to'],
+        correctAnswer: 0,
+        explanation: 'fall out with は「仲違いする」という意味です。',
+      },
+      {
+        id: 'q-fallout-5',
+        question: 'fall out と fall for の違いとして正しいものはどれですか。',
+        options: [
+          'out＝関係が壊れる、for＝恋に落ちる・だまされる',
+          '両者に意味の違いはない',
+          'out の方が恋愛を表す',
+          'for の方が関係の破綻を表す',
+        ],
+        correctAnswer: 0,
+        explanation: 'fall out は関係の破綻、fall for は恋愛・詐欺への感情的引き込みを表します。',
+      },
+    ],
+  },
+  {
+    id: 'clear-up-clear-out',
+    title: 'clear up と clear out',
+    chapter: 5,
+    hubId: 'clear',
+    description: 'clear up は「（天候・誤解等が）よくなる・解消する／片付ける」、clear out は「（不要な物を捨てて）空にする／立ち去る」。良い状態に向かうか、中身を空にするかの違いです。',
+    content: `## 良い状態に向かうか、中身を空にするか
+
+clear up と clear out はどちらも「片付ける」に関わりますが、up の「良い状態まで持ち上げる」イメージと out の「中身を外へ出して空にする」イメージで、対象と結果が異なります。
+
+| 熟語 | 中心の意味 | 典型的な使われ方 |
+| --- | --- | --- |
+| clear **up** | （天候・病気・誤解が）よくなる・解消する／片付ける | clear up the confusion／the weather cleared up |
+| clear **out** | （不要な物を捨てて）空にする／立ち去る | clear out the closet |
+
+### clear up の使い分け
+
+clear up には複数の意味があります。1つは「（天気が）晴れる」（The rain should clear up by noon）。2つ目は「（病気・発疹などが）治る」（Her rash cleared up within a week）。3つ目は「（誤解・疑問を）解消する、説明する」（Let me clear up any confusion）。4つ目は単純に「（部屋などを）片付ける」という意味です。
+
+### clear out の使い分け
+
+clear out は「（不要な物を全て取り除いて）空にする」という意味で、"We spent the weekend clearing out the garage." のように使われます。口語では「（人が）さっさと立ち去る」（He grabbed the cash and cleared out）という意味にもなります。
+
+### 使い分けの手がかり
+
+**clear up は improve／resolve に置換**でき、「悪い状態から良い状態へ向上する」というニュアンスが核です。**clear out は empty by removing everything に置換**でき、「中身を全て取り除いて空にする」という徹底的な除去です。「良くなる・解消する」話か「空にする」話かで区別します。
+
+### なぜ直訳で読み解けないか
+
+up は「完全に良い状態まで持ち上げる」イメージなので、clear up は天候・体調・誤解のいずれもが向上・解決する方向を表します。out は「内部にあるものを一つ残らず外へ出す」イメージなので、clear out は収納スペースなどを徹底的に空にすることを表します。
+
+### よくある誤用
+
+⚠️ \`I hope the weather clears out by the weekend.\`（誤）。天候がよくなるのは clear **up**。clear out に天候の意味はありません。
+
+⚠️ \`We need to clear up the entire garage this weekend.\`（成立するがニュアンスが弱い）。不要品を徹底的に処分するなら clear **out** の方が「空にする」ニュアンスが強く出ます。
+
+🎯 覚え方：**up＝良い状態まで持ち上げる（晴れる・治る・解消する）**、**out＝中身を全て外へ出す（空にする・立ち去る）**。`,
+    keyPoints: [
+      'clear up＝（天候・病気・誤解が）よくなる・解消する／片付ける（improve/resolve）',
+      'clear out＝（不要な物を捨てて）空にする／立ち去る（empty by removing everything）',
+      'clear up は状態の向上・解決、clear out は徹底的な除去',
+      'up＝良い状態へ持ち上げる、out＝中身を全て出す、という前置詞イメージの違い',
+    ],
+    quiz: [
+      {
+        id: 'q-clearup-1',
+        question: '空所に入る適切な語はどれですか。「Don’t worry, this skin irritation should ( ) in a few days.」',
+        options: ['clear out', 'clear up', 'clear off', 'clear away'],
+        correctAnswer: 1,
+        explanation: '症状がよくなるのは clear up。',
+      },
+      {
+        id: 'q-clearup-2',
+        question: '空所に入る適切な語はどれですか。「We finally ( ) the old boxes in the attic last weekend.」',
+        options: ['cleared up', 'cleared away', 'cleared out', 'cleared off'],
+        correctAnswer: 2,
+        explanation: '不要品を処分して空にしたのは clear out。',
+      },
+      {
+        id: 'q-clearup-3',
+        question: '空所に入る適切な語はどれですか。「Let me ( ) any misunderstanding about the new policy.」',
+        options: ['clear out', 'clear off', 'clear up', 'clear away'],
+        correctAnswer: 2,
+        explanation: '誤解を解消するのも clear up。',
+      },
+      {
+        id: 'q-clearup-4',
+        question: 'clear out の言い換えとして最も適切なものはどれですか。',
+        options: ['improve', 'resolve', 'empty by removing everything', 'become fine'],
+        correctAnswer: 2,
+        explanation: 'clear out は「中身を全て出して空にする」という意味です。',
+      },
+      {
+        id: 'q-clearup-5',
+        question: 'clear up と clear out の違いとして正しいものはどれですか。',
+        options: [
+          'up＝良い状態へ向上する、out＝中身を全て出して空にする',
+          '両者に意味の違いはない',
+          'up の方が徹底的な除去を表す',
+          'out の方が天候の好転を表す',
+        ],
+        correctAnswer: 0,
+        explanation: 'clear up は状態の向上・解決、clear out は徹底的な除去を表します。',
+      },
+    ],
+  },
+  {
+    id: 'clear-off-clear-away',
+    title: 'clear off と clear away',
+    chapter: 5,
+    hubId: 'clear',
+    description: 'clear off は「立ち去る（命令形で「あっちへ行け」）」、clear away は「（食器・物を）片付けて空間を作る」。自分が立ち去るか、物を取り除いて空間を作るかの違いです。',
+    content: `## 自分が立ち去るか、物を片付けるか
+
+clear off と clear away はどちらも「取り除く」の比喩ですが、off の「本体から離れて立ち去る」イメージと away の「不要な物を取り除いて空間を作る」イメージで、主語（人か物か）が異なります。
+
+| 熟語 | 中心の意味 | 典型的な使われ方 |
+| --- | --- | --- |
+| clear **off** | 立ち去る（命令形「あっちへ行け」） | Clear off! |
+| clear **away** | （食器・物を）片付けて空間を作る | clear away the dishes |
+
+### clear off の使い分け
+
+clear off は主にイギリス英語の口語で「（その場から）立ち去る」という意味で、"He cleared off before anyone noticed." のように使われます。命令形 "Clear off!"（あっちへ行け！）は、不法侵入者や邪魔な人を追い払う際の強い表現として頻出します。
+
+### clear away の使い分け
+
+clear away は「使い終わったもの・不要なものを取り除いて、元の空間をきれいにする」という意味で、"Let's clear away the dishes before dessert." のように、特に食事の片付けの文脈で頻出します。
+
+### 使い分けの手がかり
+
+**clear off は go away／leave に置換**でき、主語は「立ち去る人」です。**clear away は remove things to tidy a space に置換**でき、目的語は「片付けるべき物」です。「人が立ち去る」話か「物を片付ける」話かで区別します。
+
+### なぜ直訳で読み解けないか
+
+off は「本体（その場）から離れて距離を取る」イメージなので、clear off は人がその場から立ち去ることを表します。away は「不要な物を取り除いて空間を作る」イメージなので、clear away は食器や道具などを片付けて元の状態に戻すことを表します。
+
+### よくある誤用
+
+⚠️ \`Please clear off the dishes after dinner.\`（誤・意味が変わる）。食器を片付けるのは clear **away**（またはclear the dishes away）。clear off は基本的に人が立ち去る意味で使われます。
+
+⚠️ \`The trespasser cleared away when the dog barked.\`（誤）。不法侵入者が立ち去ったのは clear **off**。clear away は物を対象にするのが基本です。
+
+🎯 覚え方：**off＝本体から離れて立ち去る（人が立ち去る）**、**away＝不要な物を取り除いて空間を作る（片付ける）**。`,
+    keyPoints: [
+      'clear off＝立ち去る（go away/leave）。命令形「Clear off!」で頻出。主にイギリス英語口語',
+      'clear away＝（食器・物を）片付けて空間を作る（remove things to tidy a space）',
+      'clear off の主語は人、clear away の目的語は片付けるべき物という違い',
+      'off＝本体から離れて立ち去る、away＝不要な物を取り除く、という前置詞イメージの違い',
+    ],
+    quiz: [
+      {
+        id: 'q-clearoff-1',
+        question: '空所に入る適切な語はどれですか。「"( )!" the farmer shouted at the trespassers.」',
+        options: ['Clear away', 'Clear up', 'Clear off', 'Clear out for'],
+        correctAnswer: 2,
+        explanation: '立ち去れという命令は Clear off!。',
+      },
+      {
+        id: 'q-clearoff-2',
+        question: '空所に入る適切な語はどれですか。「Could you help me ( ) the plates before we watch the movie?」',
+        options: ['clear off', 'clear away', 'clear up', 'clear out'],
+        correctAnswer: 1,
+        explanation: '食器を片付けるのは clear away。',
+      },
+      {
+        id: 'q-clearoff-3',
+        question: '空所に入る適切な語はどれですか。「The suspect ( ) the moment he heard the sirens approaching.」',
+        options: ['cleared away', 'cleared up', 'cleared off', 'cleared out completely'],
+        correctAnswer: 2,
+        explanation: '慌てて立ち去ったのは clear off。',
+      },
+      {
+        id: 'q-clearoff-4',
+        question: 'clear away の言い換えとして最も適切なものはどれですか。',
+        options: ['go away', 'remove things to tidy a space', 'become fine', 'resolve confusion'],
+        correctAnswer: 1,
+        explanation: 'clear away は「物を片付けて空間を作る」という意味です。',
+      },
+      {
+        id: 'q-clearoff-5',
+        question: 'clear off と clear away の違いとして正しいものはどれですか。',
+        options: [
+          'off＝人が立ち去る、away＝物を片付ける',
+          '両者に意味の違いはない',
+          'off の方が物を対象にする',
+          'away の方が人の立ち去りを表す',
+        ],
+        correctAnswer: 0,
+        explanation: 'clear off は人の立ち去り、clear away は物の片付けを表します。',
+      },
+    ],
+  },
+  {
+    id: 'drop-in-drop-out',
+    title: 'drop in と drop out',
+    chapter: 5,
+    hubId: 'drop',
+    description: 'drop in（on）は「ふらっと立ち寄る」、drop out（of）は「（学校・レース等から）中退する・脱落する」。予定外に入り込むか、枠組みの外へ落ちて出るかの違いです。',
+    content: `## 予定外に入り込むか、枠から落ちて出るか
+
+drop in と drop out はどちらも drop の比喩用法ですが、in の「内部へ落ちるように入る」イメージと out の「枠組みの外へ落ちて出る」イメージで、方向が正反対です。
+
+| 熟語 | 中心の意味 | 典型的な使われ方 |
+| --- | --- | --- |
+| drop **in**（on） | ふらっと立ち寄る（前触れなく） | drop in on a friend |
+| drop **out**（of） | （学校・レース等から）中退する・脱落する | drop out of college |
+
+### drop in の使い分け
+
+drop in（on someone / at a place）は「事前の約束なしに、ちょっと立ち寄る」という意味で、"Feel free to drop in on us anytime you're in the neighborhood." のように使われます。
+
+### drop out の使い分け
+
+drop out（of）は「（学校・大学・競技・活動から）最後まで続けずに離脱する」という意味で、"He dropped out of college to start his own business." のように使われます。「（社会の慣習を拒否して）ドロップアウトする」という比喩的な意味にも広がります。
+
+### 使い分けの手がかり
+
+**drop in は pay an unannounced visit に置換**でき、「予定外に、ふらっと入り込む」動作です。**drop out は quit before completion に置換**でき、「本来続けるべき枠組みから、完了前に抜け落ちる」動作です。「立ち寄る」話か「脱落する」話かで区別します。
+
+### なぜ直訳で読み解けないか
+
+in は「予定外に内部へ落ちるように入り込む」イメージなので、drop in は前触れのない気軽な訪問を表します。out は「本来いるべき枠組みの外へ落ちて出る」イメージなので、drop out は学業や競技という枠組みから完了を待たずに脱落することを表します。
+
+### よくある誤用
+
+⚠️ \`He dropped in of college during his final year.\`（誤）。中退したのは drop **out** of。drop in に「中退する」の意味はありません。
+
+⚠️ \`Feel free to drop out on us anytime.\`（誤・意味が正反対）。立ち寄るのは drop **in** on。drop out は脱落・中退の意味であり、訪問には使いません。
+
+🎯 覚え方：**in＝内部へ予定外に入り込む（立ち寄る）**、**out＝枠組みの外へ落ちて出る（中退する・脱落する）**。`,
+    keyPoints: [
+      'drop in（on）＝ふらっと立ち寄る（pay an unannounced visit）',
+      'drop out（of）＝（学校・レース等から）中退する・脱落する（quit before completion）',
+      'drop in は予定外の訪問、drop out は枠組みからの離脱という正反対の動き',
+      'in＝内部へ入り込む、out＝枠組みの外へ落ちて出る、という前置詞イメージの違い',
+    ],
+    quiz: [
+      {
+        id: 'q-dropin-1',
+        question: '空所に入る適切な語はどれですか。「Why don’t you ( ) us this weekend if you’re free?」',
+        options: ['drop out on', 'drop in on', 'drop off', 'drop out of'],
+        correctAnswer: 1,
+        explanation: 'ふらっと立ち寄るよう誘うのは drop in on。',
+      },
+      {
+        id: 'q-dropin-2',
+        question: '空所に入る適切な語はどれですか。「He ( ) high school in his final year to support his family.」',
+        options: ['dropped in', 'dropped off', 'dropped out of', 'dropped by'],
+        correctAnswer: 2,
+        explanation: '中退したのは drop out of。',
+      },
+      {
+        id: 'q-dropin-3',
+        question: '空所に入る適切な語はどれですか。「Three runners had to ( ) the marathon due to injury.」',
+        options: ['drop in on', 'drop out of', 'drop by', 'drop off'],
+        correctAnswer: 1,
+        explanation: 'レースから脱落したのも drop out of。',
+      },
+      {
+        id: 'q-dropin-4',
+        question: 'drop in の言い換えとして最も適切なものはどれですか。',
+        options: ['pay an unannounced visit', 'quit before completion', 'take someone somewhere', 'become fewer'],
+        correctAnswer: 0,
+        explanation: 'drop in は「予定外に立ち寄る」という意味です。',
+      },
+      {
+        id: 'q-dropin-5',
+        question: 'drop in と drop out の違いとして正しいものはどれですか。',
+        options: [
+          'in＝予定外の訪問、out＝枠組みからの離脱',
+          '両者に意味の違いはない',
+          'in の方が学業からの離脱を表す',
+          'out の方が訪問を表す',
+        ],
+        correctAnswer: 0,
+        explanation: 'drop in は訪問、drop out は離脱を表します。',
+      },
+    ],
+  },
+  {
+    id: 'drop-off-drop-by',
+    title: 'drop off と drop by',
+    chapter: 5,
+    hubId: 'drop',
+    description: 'drop off は「（人・荷物を）送り届ける／数量が減る／うたた寝する」、drop by は「ふらっと立ち寄る（drop in とほぼ同義）」。物を置いていくか、自分が立ち寄るかの違いです。',
+    content: `## 物を置いていくか、自分が立ち寄るか
+
+drop off と drop by はどちらも drop の比喩用法ですが、off の「本体から切り離して置いていく」イメージと by の「通りすがりに立ち寄る」イメージで、主体と対象が異なります。
+
+| 熟語 | 中心の意味 | 典型的な使われ方 |
+| --- | --- | --- |
+| drop **off** | （人・荷物を）送り届ける／（数量が）減る／うたた寝する | drop the kids off at school |
+| drop **by** | ふらっと立ち寄る（drop in とほぼ同義） | drop by the office |
+
+### drop off の使い分け
+
+drop off には複数の意味があります。1つは「（車で人や荷物を）目的地まで運んで降ろす」（I'll drop you off at the station）。2つ目は「（売上・成績などの数量が）徐々に減少する」（Sales tend to drop off in winter）。3つ目は口語で「うとうと眠りに落ちる」（He dropped off during the meeting）という意味です。
+
+### drop by の使い分け
+
+drop by は drop in とほぼ同じ意味で、「前触れなくふらっと立ち寄る」ことを表します。"Feel free to drop by the office whenever you're in town." のように使われ、drop in よりもややカジュアルで会話的な響きを持ちます。
+
+### 使い分けの手がかり
+
+**drop off は take someone/something somewhere and leave them／decrease／fall asleep に置換**でき、対象は人・荷物・数量・意識状態と幅広いです。**drop by は visit briefly and unannounced に置換**でき、drop in の言い換えとして使われます。「置いていく・減る・眠る」話か「立ち寄る」話かで区別します。
+
+### なぜ直訳で読み解けないか
+
+off は「運んでいたものを本体から切り離してその場に置いていく」イメージなので、drop off は人や荷物を届けて自分は去ることを表し、そこから数量や意識の「切り離され・低下」にも意味が広がります。by は「対象のすぐ脇を通りかかる」イメージなので、drop by は目的地に向かう途中でふらっと立ち寄ることを表します。
+
+### よくある誤用
+
+⚠️ \`I'll drop by the kids at school on my way to work.\`（誤）。子どもを送り届けるのは drop **off**。drop by に「送り届ける」の意味はありません。
+
+⚠️ \`Feel free to drop off the office anytime.\`（誤）。立ち寄るよう誘うのは drop **by**（または drop in）。drop off はこの文脈では使いません。
+
+🎯 覚え方：**off＝運んだものを切り離して置いていく（送り届ける・減る・眠る）**、**by＝通りすがりに立ち寄る（訪問する）**。`,
+    keyPoints: [
+      'drop off＝（人・荷物を）送り届ける／（数量が）減る／うたた寝する（幅広い意味を持つ多義語）',
+      'drop by＝ふらっと立ち寄る（drop in とほぼ同義）',
+      'drop off は「置いていく・減る・眠る」、drop by は「訪問する」という別方向の意味',
+      'off＝運んだものを切り離す、by＝通りすがりに立ち寄る、という前置詞イメージの違い',
+    ],
+    quiz: [
+      {
+        id: 'q-dropoff-1',
+        question: '空所に入る適切な語はどれですか。「I usually ( ) my daughter at daycare before heading to the office.」',
+        options: ['drop by', 'drop out', 'drop off', 'drop in'],
+        correctAnswer: 2,
+        explanation: '子どもを送り届けるのは drop off。',
+      },
+      {
+        id: 'q-dropoff-2',
+        question: '空所に入る適切な語はどれですか。「Feel free to ( ) anytime — we’re usually home in the evenings.」',
+        options: ['drop off', 'drop out', 'drop by', 'drop out of'],
+        correctAnswer: 2,
+        explanation: 'ふらっと立ち寄るよう誘うのは drop by。',
+      },
+      {
+        id: 'q-dropoff-3',
+        question: '空所に入る適切な語はどれですか。「Website traffic tends to ( ) significantly during the holidays.」',
+        options: ['drop by', 'drop off', 'drop in', 'drop out'],
+        correctAnswer: 1,
+        explanation: '数量が減るのも drop off。',
+      },
+      {
+        id: 'q-dropoff-4',
+        question: 'drop by の言い換えとして最も適切なものはどれですか。',
+        options: ['visit briefly and unannounced', 'take someone somewhere and leave', 'decrease', 'fall asleep'],
+        correctAnswer: 0,
+        explanation: 'drop by は「ふらっと立ち寄る」という意味です。',
+      },
+      {
+        id: 'q-dropoff-5',
+        question: 'drop off と drop by の違いとして正しいものはどれですか。',
+        options: [
+          'off＝物や人を置いていく・減る・眠る、by＝立ち寄る',
+          '両者に意味の違いはない',
+          'off の方が訪問を表す',
+          'by の方が送り届ける意味を持つ',
+        ],
+        correctAnswer: 0,
+        explanation: 'drop off は多義的（送り届ける・減る・眠る）、drop by は訪問を表します。',
+      },
+    ],
+  },
 ];
