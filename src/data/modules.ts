@@ -23114,4 +23114,352 @@ up は「容器の底から上端まで満たす」イメージなので、fill 
       },
     ],
   },
+  {
+    id: 'see-through-see-to',
+    title: 'see through と see to',
+    chapter: 5,
+    hubId: 'see',
+    description: 'see through は「（嘘・本質）を見抜く／最後までやり遂げる」、see to は「〜の手配をする・対処する」。真実を見通すか、問題に対処するかの違いです。',
+    content: `## 真実を見通すか、問題に対処するか
+
+see through と see to はどちらも「see＋前置詞」ですが、through の「表面を突き抜けて奥を見る」イメージと to の「問題へ視線を向けて対処する」イメージで、対象が異なります。
+
+| 熟語 | 中心の意味 | 典型的な使われ方 |
+| --- | --- | --- |
+| see **through** | （嘘・本質）を見抜く／（計画等を）最後までやり遂げる | see through his lies／see the project through |
+| see **to** | 〜の手配をする・対処する | see to the arrangements |
+
+### see through の使い分け
+
+see through の1つ目の意味は「（人の嘘・ごまかし・本当の意図を）見抜く」で、"She saw through his excuses immediately." のように使われます。2つ目は「（困難な計画・約束を）投げ出さずに最後までやり遂げる」（He was determined to see the project through）という意味です。
+
+### see to の使い分け
+
+see to は「（問題・用件に）自ら対処する、手配する」という意味で、"Don't worry about the tickets — I'll see to it." のように使われます。「（故障したものを）修理に出す」（We'll have to get that door seen to）という意味にも使われます。
+
+### 使い分けの手がかり
+
+**see through は detect deception／complete despite difficulty に置換**でき、「真実を見抜く」または「最後までやり遂げる」という2つの異なる文脈で使われます。**see to は deal with／arrange に置換**でき、「用件・問題に対処する」という一貫した意味です。「見抜く・やり遂げる」話か「手配・対処する」話かで区別します。
+
+### なぜ直訳で読み解けないか
+
+through は「表面を突き抜けて奥まで見通す」イメージなので、see through は嘘の裏にある真実を見抜くことにも、困難という壁を最後まで見通して完遂することにも広がります。to は「問題に視線を向けて自ら対処する」イメージなので、see to は用件や不具合に自分で手を打つことを表します。
+
+### よくある誤用
+
+⚠️ \`I'll see through the hotel booking for our trip.\`（誤）。手配するのは see **to**。see through に「手配する」の意味はありません。
+
+⚠️ \`She could easily see to his lies.\`（誤）。嘘を見抜いたのは see **through**。see to は「見抜く」の意味を持ちません。
+
+🎯 覚え方：**through＝表面を突き抜けて奥を見る（見抜く・やり遂げる）**、**to＝問題へ視線を向けて対処する（手配する）**。`,
+    keyPoints: [
+      'see through＝（嘘・本質）を見抜く／（計画等を）最後までやり遂げる（detect deception/complete despite difficulty）',
+      'see to＝〜の手配をする・対処する（deal with/arrange）',
+      'see through は「見抜く・やり遂げる」の2文脈、see to は「対処する」で一貫',
+      'through＝奥を見通す、to＝問題へ対処する、という前置詞イメージの違い',
+    ],
+    quiz: [
+      {
+        id: 'q-seethrough-1',
+        question: '空所に入る適切な語はどれですか。「The teacher immediately ( ) the student’s excuse.」',
+        options: ['saw to', 'saw through', 'saw about', 'saw off'],
+        correctAnswer: 1,
+        explanation: '嘘を見抜いたのは see through。',
+      },
+      {
+        id: 'q-seethrough-2',
+        question: '空所に入る適切な語はどれですか。「Don’t worry about the catering — I’ll ( ) it.」',
+        options: ['see through', 'see off', 'see to', 'see about'],
+        correctAnswer: 2,
+        explanation: '手配を引き受けるのは see to。',
+      },
+      {
+        id: 'q-seethrough-3',
+        question: '空所に入る適切な語はどれですか。「Despite the setbacks, she was determined to ( ) the project ( ).」',
+        options: ['see / to', 'see / through', 'see / off', 'see / about'],
+        correctAnswer: 1,
+        explanation: '最後までやり遂げるのは see ... through。',
+      },
+      {
+        id: 'q-seethrough-4',
+        question: 'see to の言い換えとして最も適切なものはどれですか。',
+        options: ['detect deception', 'deal with', 'complete despite difficulty', 'say goodbye to'],
+        correctAnswer: 1,
+        explanation: 'see to は「対処する・手配する」という意味です。',
+      },
+      {
+        id: 'q-seethrough-5',
+        question: 'see through と see to の違いとして正しいものはどれですか。',
+        options: [
+          'through＝見抜く・やり遂げる、to＝手配・対処する',
+          '両者に意味の違いはない',
+          'through の方が手配の意味を持つ',
+          'to の方が嘘を見抜く意味を持つ',
+        ],
+        correctAnswer: 0,
+        explanation: 'see through は見抜く・完遂、see to は対処・手配を表します。',
+      },
+    ],
+  },
+  {
+    id: 'see-about-see-off',
+    title: 'see about と see off',
+    chapter: 5,
+    hubId: 'see',
+    description: 'see about は「〜を検討する・手配する」、see off は「〜を見送る／撃退する」。事情を確かめるか、去る人・敵を見届けるかの違いです。',
+    content: `## 事情を確かめるか、去る者を見届けるか
+
+see about と see off はどちらも「see＋前置詞」ですが、about の「周辺の事情を確かめる」イメージと off の「その場を離れる相手を見届ける」イメージで、意味の方向が異なります。
+
+| 熟語 | 中心の意味 | 典型的な使われ方 |
+| --- | --- | --- |
+| see **about** | 〜を検討する・手配する | see about getting a refund |
+| see **off** | 〜を見送る／撃退する | see a friend off at the airport |
+
+### see about の使い分け
+
+see about は「（まだ確定していないことについて）事情を確かめ、対応を検討する」という意味で、"I need to see about getting a replacement part." のように使われます。"We'll see about that."（それはどうかな＝相手の計画を認めない、または阻止する意図を示す）という定型句としても使われます。
+
+### see off の使い分け
+
+see off の1つ目の意味は「（出発する人を）駅や空港まで見送る」（We went to the airport to see her off）。2つ目はスポーツやビジネスの文脈で「（相手・敵を）打ち負かす、撃退する」（The team saw off their rivals 3-0）という意味です。
+
+### 使い分けの手がかり
+
+**see about は look into／arrange に置換**でき、まだ確定していない用件を検討・調整する動作です。**see off は accompany someone leaving／defeat に置換**でき、対象は「去っていく人」または「打ち負かす相手」です。「検討する」話か「見送る・撃退する」話かで区別します。
+
+### なぜ直訳で読み解けないか
+
+about は「対象の周辺事情を確かめてまわる」イメージなので、see about はまだ確定していない用件について調べて対応を決めることを表します。off は「その場から離れていく相手を最後まで見届ける」イメージなので、see off は出発する人を見送ることにも、相手を退けて場から追い払うことにも広がります。
+
+### よくある誤用
+
+⚠️ \`We went to the station to see about her before her trip.\`（誤）。見送ったのは see **off**。see about に「見送る」の意味はありません。
+
+⚠️ \`I need to see off getting my passport renewed.\`（誤）。手配を検討するのは see **about**。see off はこの文脈には使いません。
+
+🎯 覚え方：**about＝周辺事情を確かめる（検討する・手配する）**、**off＝離れる相手を見届ける（見送る・撃退する）**。`,
+    keyPoints: [
+      'see about＝〜を検討する・手配する（look into/arrange）。まだ確定していない用件',
+      'see off＝〜を見送る／撃退する（accompany someone leaving/defeat）',
+      'see about は用件の検討、see off は人の見送りまたは相手の撃退',
+      'about＝周辺事情を確かめる、off＝離れる相手を見届ける、という前置詞イメージの違い',
+    ],
+    quiz: [
+      {
+        id: 'q-seeabout-1',
+        question: '空所に入る適切な語はどれですか。「I’ll need to ( ) getting this contract reviewed by a lawyer.」',
+        options: ['see off', 'see about', 'see through', 'see to it'],
+        correctAnswer: 1,
+        explanation: '未確定の用件を検討するのは see about。',
+      },
+      {
+        id: 'q-seeabout-2',
+        question: '空所に入る適切な語はどれですか。「Hundreds of fans gathered at the airport to ( ) the band.」',
+        options: ['see about', 'see through', 'see off', 'see to'],
+        correctAnswer: 2,
+        explanation: '出発する人を見送るのは see off。',
+      },
+      {
+        id: 'q-seeabout-3',
+        question: '空所に入る適切な語はどれですか。「The home team easily ( ) their rivals in the final match.」',
+        options: ['saw about', 'saw off', 'saw through', 'saw to'],
+        correctAnswer: 1,
+        explanation: '相手を撃退した（圧勝した）のも see off。',
+      },
+      {
+        id: 'q-seeabout-4',
+        question: 'see about の言い換えとして最も適切なものはどれですか。',
+        options: ['look into', 'accompany someone leaving', 'defeat', 'detect deception'],
+        correctAnswer: 0,
+        explanation: 'see about は「検討する」という意味です。',
+      },
+      {
+        id: 'q-seeabout-5',
+        question: 'see about と see off の違いとして正しいものはどれですか。',
+        options: [
+          'about＝用件を検討する、off＝人を見送る・相手を撃退する',
+          '両者に意味の違いはない',
+          'about の方が見送りを表す',
+          'off の方が用件の検討を表す',
+        ],
+        correctAnswer: 0,
+        explanation: 'see about は検討、see off は見送り・撃退を表します。',
+      },
+    ],
+  },
+  {
+    id: 'think-over-think-up',
+    title: 'think over と think up',
+    chapter: 5,
+    hubId: 'think',
+    description: 'think over は「〜をよく考える（決断の前に）」、think up は「（アイデア等を）考え出す」。既存の選択肢を吟味するか、新しいものを生み出すかの違いです。',
+    content: `## 吟味するか、生み出すか
+
+think over と think up はどちらも「考える」の比喩ですが、over の「表裏をじっくり検討する」イメージと up の「新しく立ち上げる」イメージで、思考の性質が異なります。
+
+| 熟語 | 中心の意味 | 典型的な目的語 |
+| --- | --- | --- |
+| think **over** | 〜をよく考える（決断の前に） | an offer, a proposal, a decision |
+| think **up** | （アイデア等を）考え出す | an idea, a plan, an excuse |
+
+### think over の使い分け
+
+think over は「既に提示された提案・申し出について、決断の前にじっくり検討する」という意味で、"Let me think it over and get back to you tomorrow." のように使われます。既存の選択肢を吟味するというニュアンスが核です。
+
+### think up の使い分け
+
+think up は「（それまで存在しなかった）アイデアや言い訳を頭の中で作り出す」という意味で、"She thought up a clever solution to the problem." のように使われます。create／invent に近い、創造的な思考を表します。
+
+### 使い分けの手がかり
+
+**think over は consider carefully に置換**でき、既に存在する提案・選択肢を吟味する動作です。**think up は devise／invent に置換**でき、それまで無かったものを新たに生み出す動作です。「吟味する」か「生み出す」かで区別します。
+
+### なぜ直訳で読み解けないか
+
+over は「対象を表裏じっくりなぞって検討する」イメージなので、think over は既存の提案を多角的に吟味することを表します。up は「頭の中に何もないところから新しく立ち上げる」イメージなので、think up はアイデアを無から生み出す創造的な思考を表します。
+
+### よくある誤用
+
+⚠️ \`I need to think up your proposal before I decide.\`（誤）。提案を検討するのは think **over**。think up に「検討する」の意味はありません。
+
+⚠️ \`She thought over a clever excuse on the spot.\`（誤）。言い訳を思いついたのは think **up**。think over は既存の選択肢の吟味に使い、新しく作り出す意味では使いません。
+
+🎯 覚え方：**over＝既存のものを表裏じっくり吟味する（よく考える）**、**up＝無から新しく立ち上げる（考え出す）**。`,
+    keyPoints: [
+      'think over＝〜をよく考える（決断の前に）（consider carefully）。既存の提案を吟味',
+      'think up＝（アイデア等を）考え出す（devise/invent）。新しいものを創出',
+      'think over は既存の選択肢の吟味、think up は無からの創出という違い',
+      'over＝表裏じっくり検討する、up＝新しく立ち上げる、という前置詞イメージの違い',
+    ],
+    quiz: [
+      {
+        id: 'q-thinkover-1',
+        question: '空所に入る適切な語はどれですか。「I’ll need a few days to ( ) your job offer before deciding.」',
+        options: ['think up', 'think over', 'think back', 'think through'],
+        correctAnswer: 1,
+        explanation: '申し出をよく考えるのは think over。',
+      },
+      {
+        id: 'q-thinkover-2',
+        question: '空所に入る適切な語はどれですか。「The marketing team ( ) a brilliant slogan for the new product.」',
+        options: ['thought over', 'thought back', 'thought up', 'thought through'],
+        correctAnswer: 2,
+        explanation: 'アイデアを考え出したのは think up。',
+      },
+      {
+        id: 'q-thinkover-3',
+        question: '空所に入る適切な語はどれですか。「Take some time to ( ) my proposal — there’s no rush.」',
+        options: ['think up', 'think over', 'think back on', 'think through'],
+        correctAnswer: 1,
+        explanation: '提案を吟味するのも think over。',
+      },
+      {
+        id: 'q-thinkover-4',
+        question: 'think up の言い換えとして最も適切なものはどれですか。',
+        options: ['consider carefully', 'devise', 'recall', 'analyze thoroughly'],
+        correctAnswer: 1,
+        explanation: 'think up は「考え出す」（devise）という意味です。',
+      },
+      {
+        id: 'q-thinkover-5',
+        question: 'think over と think up の違いとして正しいものはどれですか。',
+        options: [
+          'over＝既存の提案を吟味、up＝新しいものを創出',
+          '両者に意味の違いはない',
+          'over の方が創造的な思考を表す',
+          'up の方が既存の選択肢の検討を表す',
+        ],
+        correctAnswer: 0,
+        explanation: 'think over は吟味、think up は創出を表します。',
+      },
+    ],
+  },
+  {
+    id: 'think-through-think-back',
+    title: 'think through と think back',
+    chapter: 5,
+    hubId: 'think',
+    description: 'think through は「〜を最後まで筋道立てて考え抜く」、think back は「（過去を）振り返る・思い出す」。未来に向けて考え抜くか、過去へ思考を巻き戻すかの違いです。',
+    content: `## 未来へ考え抜くか、過去へ巻き戻すか
+
+think through と think back はどちらも think の比喩用法ですが、through の「筋道を最後まで辿る」イメージと back の「思考を過去へ巻き戻す」イメージで、時間の向きが正反対です。
+
+| 熟語 | 中心の意味 | 典型的な使われ方 |
+| --- | --- | --- |
+| think **through** | 〜を最後まで筋道立てて考え抜く | think through the consequences |
+| think **back**（on/to） | （過去を）振り返る・思い出す | think back on her childhood |
+
+### think through の使い分け
+
+think through は「（計画・決定の）あらゆる可能性や結果を、体系的に最後まで検討する」という意味で、"The policy hasn't been thought through properly." のように使われます。think over よりも徹底的・体系的な検討というニュアンスが強い表現です。
+
+### think back の使い分け
+
+think back（on/to）は「過去の出来事や経験を振り返る、思い出す」という意味で、"I often think back to my university days." のように使われます。remember／recall に近い、回想の動作です。
+
+### 使い分けの手がかり
+
+**think through は consider all aspects systematically に置換**でき、未来の決定・計画に向けた徹底的な検討です。**think back は recall／reflect on the past に置換**でき、過去の記憶への回想です。「これからのことを筋道立てて考える」か「過去を振り返る」かで、through と back がそのまま時間の向きになります。
+
+### なぜ直訳で読み解けないか
+
+through は「入口から出口まで筋道を辿って考え抜く」イメージなので、think through は計画のあらゆる側面を体系的に検討し尽くすことを表します。back は「思考を過去の時点へ巻き戻す」イメージなので、think back は過去の記憶や経験を振り返ることを表します。
+
+### よくある誤用
+
+⚠️ \`I often think through my childhood summers at the beach.\`（誤）。過去を振り返るのは think **back** on/to。think through は未来の決定に向けた検討に使い、過去の回想には使いません。
+
+⚠️ \`We need to think back the consequences before signing the contract.\`（誤）。結果を考え抜くのは think **through**。think back に「筋道立てて検討する」の意味はありません。
+
+🎯 覚え方：**through＝筋道を最後まで辿って考え抜く（未来に向けた検討）**、**back＝思考を過去へ巻き戻す（回想する）**。`,
+    keyPoints: [
+      'think through＝〜を最後まで筋道立てて考え抜く（consider all aspects systematically）',
+      'think back（on/to）＝（過去を）振り返る・思い出す（recall/reflect on the past）',
+      'think through は未来の決定に向けた徹底的検討、think back は過去への回想',
+      'through＝筋道を最後まで辿る、back＝思考を過去へ巻き戻す、という前置詞イメージの違い',
+    ],
+    quiz: [
+      {
+        id: 'q-thinkthrough-1',
+        question: '空所に入る適切な語はどれですか。「Before quitting your job, you should really ( ) the financial consequences.」',
+        options: ['think back', 'think through', 'think up', 'think over quickly'],
+        correctAnswer: 1,
+        explanation: '結果を体系的に考え抜くのは think through。',
+      },
+      {
+        id: 'q-thinkthrough-2',
+        question: '空所に入る適切な語はどれですか。「Whenever I hear that song, I ( ) my high school days.」',
+        options: ['think through', 'think up', 'think back to', 'think over'],
+        correctAnswer: 2,
+        explanation: '過去を振り返るのは think back to。',
+      },
+      {
+        id: 'q-thinkthrough-3',
+        question: '空所に入る適切な語はどれですか。「The committee failed to ( ) all the possible risks before launching the project.」',
+        options: ['think back on', 'think up', 'think through', 'think back'],
+        correctAnswer: 2,
+        explanation: 'あらゆるリスクを検討し尽くすのも think through。',
+      },
+      {
+        id: 'q-thinkthrough-4',
+        question: 'think back の言い換えとして最も適切なものはどれですか。',
+        options: ['consider all aspects systematically', 'devise', 'reflect on the past', 'consider carefully'],
+        correctAnswer: 2,
+        explanation: 'think back は「過去を振り返る」という意味です。',
+      },
+      {
+        id: 'q-thinkthrough-5',
+        question: 'think through と think back の違いとして正しいものはどれですか。',
+        options: [
+          'through＝未来に向けた徹底的な検討、back＝過去への回想',
+          '両者に意味の違いはない',
+          'through の方が過去を扱う',
+          'back の方が未来の決定を扱う',
+        ],
+        correctAnswer: 0,
+        explanation: 'think through は未来志向の検討、think back は過去への回想を表します。',
+      },
+    ],
+  },
 ];
