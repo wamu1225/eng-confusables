@@ -23984,4 +23984,526 @@ off は「運んでいたものを本体から切り離してその場に置い�
       },
     ],
   },
+  {
+    id: 'head-off-head-for',
+    title: 'head off と head for',
+    chapter: 5,
+    hubId: 'head',
+    description: 'head off は「（危機等）を未然に防ぐ／出発する」、head for は「〜に向かって進む・近づいている」。危険を逸らすか、目的地へまっすぐ進むかの違いです。',
+    content: `## 危険を逸らすか、目的地へ進むか
+
+head off と head for はどちらも head の比喩用法ですが、off の「進行方向を外して逸らす」イメージと for の「目的地を目指してまっすぐ進む」イメージで、方向が異なります。
+
+| 熟語 | 中心の意味 | 典型的な使われ方 |
+| --- | --- | --- |
+| head **off** | （危機・問題等）を未然に防ぐ／出発する | head off a strike |
+| head **for** | 〜に向かって進む／（悪い結末に）近づいている | head for the exit／head for disaster |
+
+### head off の使い分け
+
+head off の1つ目の意味は「（望ましくない事態が）起こる前に手を打って防ぐ」で、"The company raised wages to head off a strike." のように使われます。2つ目は単純に「出発する」（I should head off now）という意味です。3つ目は「（人や動物の）進路を遮って向きを変えさせる」という意味もあります。
+
+### head for の使い分け
+
+head for は「（場所に）向かって進む」（He headed for the exit）という物理的な移動に加え、「（悪い結末に）向かって突き進んでいる」（The company is heading for bankruptcy）という比喩的な意味でも頻出します。
+
+### 使い分けの手がかり
+
+**head off は prevent（未然に防ぐ）または depart（出発する）に置換**でき、危機の回避か単純な出発を表します。**head for は move toward／be on course for に置換**でき、目的地や結末に向かって進み続けることを表します。「防ぐ」話か「向かって進む」話かで区別します。
+
+### なぜ直訳で読み解けないか
+
+off は「進んでいた方向を外して逸らす」イメージなので、head off は危機が本来進むはずだった道筋を逸らして防ぐことを表します。for は「目的地に向かってまっすぐ進む」イメージなので、head for は場所にも、比喩的な結末にも、まっすぐ近づいていくことを表します。
+
+### よくある誤用
+
+⚠️ \`The economy is heading off a recession.\`（誤・意味が逆になりうる）。不況に向かっているなら head **for**。head off は「防ぐ」の意味なので、文脈次第では正反対の意味になります。
+
+⚠️ \`We need to head for the strike before it happens.\`（誤）。ストを未然に防ぐのは head **off**。head for は「〜に向かって進む」意味であり、防止の意味はありません。
+
+🎯 覚え方：**off＝進路を逸らす（未然に防ぐ・出発する）**、**for＝目的地へまっすぐ進む（向かう・近づく）**。`,
+    keyPoints: [
+      'head off＝（危機等）を未然に防ぐ（prevent）／出発する（depart）',
+      'head for＝〜に向かって進む／（悪い結末に）近づいている（move toward/be on course for）',
+      'head off は危機の回避、head for は目的地・結末への接近という別方向の意味',
+      'off＝進路を逸らす、for＝目的地へまっすぐ進む、という前置詞イメージの違い',
+    ],
+    quiz: [
+      {
+        id: 'q-headoff-1',
+        question: '空所に入る適切な語はどれですか。「Management raised salaries in an attempt to ( ) a potential strike.」',
+        options: ['head for', 'head off', 'head up', 'head out'],
+        correctAnswer: 1,
+        explanation: 'ストを未然に防いだのは head off。',
+      },
+      {
+        id: 'q-headoff-2',
+        question: '空所に入る適切な語はどれですか。「Without major changes, the company is clearly ( ) bankruptcy.」',
+        options: ['heading off', 'heading up', 'heading for', 'heading out'],
+        correctAnswer: 2,
+        explanation: '悪い結末に近づいているのは head for。',
+      },
+      {
+        id: 'q-headoff-3',
+        question: '空所に入る適切な語はどれですか。「It’s getting late, so I think I’ll ( ) now.」',
+        options: ['head for', 'head off', 'head up', 'head against'],
+        correctAnswer: 1,
+        explanation: '出発するのも head off。',
+      },
+      {
+        id: 'q-headoff-4',
+        question: 'head for の言い換えとして最も適切なものはどれですか。',
+        options: ['prevent', 'depart', 'move toward', 'lead'],
+        correctAnswer: 2,
+        explanation: 'head for は「〜に向かって進む」という意味です。',
+      },
+      {
+        id: 'q-headoff-5',
+        question: 'head off と head for の違いとして正しいものはどれですか。',
+        options: [
+          'off＝進路を逸らして防ぐ、for＝目的地へまっすぐ進む',
+          '両者に意味の違いはない',
+          'off の方が結末への接近を表す',
+          'for の方が危機の防止を表す',
+        ],
+        correctAnswer: 0,
+        explanation: 'head off は防止、head for は接近を表します。',
+      },
+    ],
+  },
+  {
+    id: 'head-up-head-out',
+    title: 'head up と head out',
+    chapter: 5,
+    hubId: 'head',
+    description: 'head up は「（部門・組織を）率いる」、head out は「出発する（口語）」。組織の先頭に立つか、その場を出発するかの違いです。',
+    content: `## 組織の先頭に立つか、出発するか
+
+head up と head out はどちらも head の比喩用法ですが、up の「組織の先頭に立つ」イメージと out の「その場を出て向かう」イメージで、対象が異なります。
+
+| 熟語 | 中心の意味 | 典型的な使われ方 |
+| --- | --- | --- |
+| head **up** | （部門・組織を）率いる | head up the marketing team |
+| head **out** | 出発する（口語） | I'm heading out now |
+
+### head up の使い分け
+
+head up は「（部門・チーム・プロジェクトを）統率する立場に立つ」という意味で、"She was chosen to head up the new research division." のように使われます。組織図の先頭（トップ）に立つイメージです。
+
+### head out の使い分け
+
+head out は「その場を出発する」という意味で、head off とほぼ同義ですが、より口語的でカジュアルな響きを持ちます。"We're heading out to the beach this weekend." のように使われます。
+
+### 使い分けの手がかり
+
+**head up は lead／be in charge of に置換**でき、対象は部門・チーム・プロジェクトなどの組織です。**head out は leave／depart に置換**でき、単純な出発を表す口語表現です。「率いる」話か「出発する」話かで区別します。
+
+### なぜ直訳で読み解けないか
+
+up は「組織図の先頭・上位に立つ」イメージなので、head up はチームや部門の統率者になることを表します。out は「その場から外へ出て向かう」イメージなので、head out は単純にその場を離れて別の場所へ向かうことを表します。
+
+### よくある誤用
+
+⚠️ \`He heads out the sales department.\`（誤）。部門を率いるのは head **up**。head out は「率いる」の意味を持たず、単純な出発を表します。
+
+⚠️ \`We're heading up to the party tonight.\`（成立するが意味が変わる）。パーティーへ出発するなら head **out**。head up はここでは「率いる」の意味になり文脈が不自然です（ただし物理的に「上へ向かう」の意味で使われることもあり文脈依存）。
+
+🎯 覚え方：**up＝組織の先頭に立つ（率いる）**、**out＝その場を出て向かう（出発する）**。`,
+    keyPoints: [
+      'head up＝（部門・組織を）率いる（lead/be in charge of）',
+      'head out＝出発する（leave/depart）。口語的でhead offとほぼ同義',
+      'head up は組織の統率、head out は単純な出発という別方向の意味',
+      'up＝組織の先頭に立つ、out＝その場を出て向かう、という前置詞イメージの違い',
+    ],
+    quiz: [
+      {
+        id: 'q-headup-1',
+        question: '空所に入る適切な語はどれですか。「She was recently promoted to ( ) the entire engineering division.」',
+        options: ['head out', 'head off', 'head up', 'head for'],
+        correctAnswer: 2,
+        explanation: '部門を率いるのは head up。',
+      },
+      {
+        id: 'q-headup-2',
+        question: '空所に入る適切な語はどれですか。「It’s getting dark — we should probably ( ) soon.」',
+        options: ['head up', 'head out', 'head for', 'head at'],
+        correctAnswer: 1,
+        explanation: '出発するのは head out。',
+      },
+      {
+        id: 'q-headup-3',
+        question: '空所に入る適切な語はどれですか。「Who is going to ( ) the new project team?」',
+        options: ['head out', 'head for', 'head up', 'head off'],
+        correctAnswer: 2,
+        explanation: 'チームを率いるのも head up。',
+      },
+      {
+        id: 'q-headup-4',
+        question: 'head out の言い換えとして最も適切なものはどれですか。',
+        options: ['lead', 'be in charge of', 'depart', 'prevent'],
+        correctAnswer: 2,
+        explanation: 'head out は「出発する」という意味です。',
+      },
+      {
+        id: 'q-headup-5',
+        question: 'head up と head out の違いとして正しいものはどれですか。',
+        options: [
+          'up＝組織を率いる、out＝出発する',
+          '両者に意味の違いはない',
+          'up の方が出発を表す',
+          'out の方が組織の統率を表す',
+        ],
+        correctAnswer: 0,
+        explanation: 'head up は統率、head out は出発を表します。',
+      },
+    ],
+  },
+  {
+    id: 'pull-through-pull-off',
+    title: 'pull through と pull off',
+    chapter: 5,
+    hubId: 'pull',
+    description: 'pull through は「（病気・危機等から）回復する・乗り切る」、pull off は「（難業）を見事に成し遂げる」。生き延びるか、成し遂げるかの違いです。',
+    content: `## 生き延びるか、成し遂げるか
+
+pull through と pull off はどちらも困難な状況に関わる比喩ですが、through の「病魔のトンネルを抜ける」イメージと off の「困難から成果を引き剥がす」イメージで、結果の性質が異なります。
+
+| 熟語 | 中心の意味 | 典型的な使われ方 |
+| --- | --- | --- |
+| pull **through** | （病気・危機等から）回復する・乗り切る | pull through after surgery |
+| pull **off** | （難業）を見事に成し遂げる | pull off a difficult stunt |
+
+### pull through の使い分け
+
+pull through は「（深刻な病気・手術・危機的状況から）持ちこたえて回復する」という意味で、"Doctors say she should pull through, but it will take time." のように使われます。組織や事業が「（財政危機などを）乗り切る」という意味にも広がります。
+
+### pull off の使い分け
+
+pull off は「（多くの人が難しいと思うようなことを）見事にやってのける」という意味で、"They managed to pull off a stunning upset victory." のように使われます。「（賞などを）勝ち取る」という意味でも使われます。
+
+### 使い分けの手がかり
+
+**pull through は survive／recover from a crisis に置換**でき、対象は病気や危機からの生還です。**pull off は succeed at something difficult に置換**でき、対象は困難な課題の達成です。「生き延びる」話か「成し遂げる」話かで区別します。
+
+### なぜ直訳で読み解けないか
+
+through は「病魔というトンネルを引っ張られるように通り抜ける」イメージなので、pull through は生死に関わる危機からの回復・生還を表します。off は「困難な課題から成果を引き剥がして取り出す」イメージなので、pull off は多くの人が失敗すると思うような難しいことを見事に成功させることを表します。
+
+### よくある誤用
+
+⚠️ \`The team pulled through an incredible last-minute victory.\`（誤・意味が弱い）。見事な勝利を成し遂げたのは pull **off**。pull through は回復・生還のニュアンスが強く、勝利の達成には pull off がより自然です。
+
+⚠️ \`The patient is expected to pull off within a few weeks.\`（誤）。回復するのは pull **through**。pull off は病気の回復には使いません。
+
+🎯 覚え方：**through＝病魔のトンネルを抜ける（回復する・乗り切る）**、**off＝困難から成果を引き剥がす（見事に成し遂げる）**。`,
+    keyPoints: [
+      'pull through＝（病気・危機等から）回復する・乗り切る（survive/recover from a crisis）',
+      'pull off＝（難業）を見事に成し遂げる（succeed at something difficult）',
+      'pull through は生死・危機からの生還、pull off は困難な課題の達成という違い',
+      'through＝トンネルを抜ける、off＝成果を引き剥がす、という前置詞イメージの違い',
+    ],
+    quiz: [
+      {
+        id: 'q-pullthrough-1',
+        question: '空所に入る適切な語はどれですか。「The surgery was risky, but the doctors are confident she’ll ( ).」',
+        options: ['pull off', 'pull through', 'pull out', 'pull over'],
+        correctAnswer: 1,
+        explanation: '危機から回復するのは pull through。',
+      },
+      {
+        id: 'q-pullthrough-2',
+        question: '空所に入る適切な語はどれですか。「Nobody thought they could ( ) such a daring heist.」',
+        options: ['pull through', 'pull over', 'pull off', 'pull out'],
+        correctAnswer: 2,
+        explanation: '難しいことを成し遂げたのは pull off。',
+      },
+      {
+        id: 'q-pullthrough-3',
+        question: '空所に入る適切な語はどれですか。「Despite the financial crisis, the small business managed to ( ).」',
+        options: ['pull off', 'pull over', 'pull through', 'pull out'],
+        correctAnswer: 2,
+        explanation: '危機を乗り切ったのも pull through。',
+      },
+      {
+        id: 'q-pullthrough-4',
+        question: 'pull off の言い換えとして最も適切なものはどれですか。',
+        options: ['survive', 'recover from a crisis', 'succeed at something difficult', 'withdraw'],
+        correctAnswer: 2,
+        explanation: 'pull off は「難しいことを成し遂げる」という意味です。',
+      },
+      {
+        id: 'q-pullthrough-5',
+        question: 'pull through と pull off の違いとして正しいものはどれですか。',
+        options: [
+          'through＝危機からの生還、off＝困難な課題の達成',
+          '両者に意味の違いはない',
+          'through の方が課題の達成を表す',
+          'off の方が病気からの回復を表す',
+        ],
+        correctAnswer: 0,
+        explanation: 'pull through は生還、pull off は達成を表します。',
+      },
+    ],
+  },
+  {
+    id: 'pull-out-pull-over',
+    title: 'pull out と pull over',
+    chapter: 5,
+    hubId: 'pull',
+    description: 'pull out は「（合意・場所から）撤退する／（車が）発進する」、pull over は「（車を）道路脇に寄せて停止する」。離脱・発進するか、道端に停まるかの違いです。',
+    content: `## 離脱・発進するか、道端に停まるか
+
+pull out と pull over はどちらも車の動きに由来する比喩ですが、out の「外へ引き出て離脱する」イメージと over の「道の脇へ引き寄せて止まる」イメージで、方向と結果が異なります。
+
+| 熟語 | 中心の意味 | 典型的な使われ方 |
+| --- | --- | --- |
+| pull **out**（of） | （合意・場所から）撤退する／（車が）車線に出て発進する | pull out of a deal |
+| pull **over** | （車を）道路脇に寄せて停止する | pull over to check the map |
+
+### pull out の使い分け
+
+pull out には複数の意味があります。1つは「（車が）駐車スペースや脇道から車線へ出て走り出す」（A car suddenly pulled out in front of me）。2つ目は「（合意・契約・活動から）撤退する」（The investor pulled out of the deal at the last moment）。3つ目は「（軍隊が）撤退する」という意味です。
+
+### pull over の使い分け
+
+pull over は「（車を運転している人が）道路の脇に車を寄せて停止する」という意味で、"She pulled over to answer her phone." のように使われます。警察官がドライバーに停止を命じる場面（The officer pulled him over for speeding）でも頻出します。
+
+### 使い分けの手がかり
+
+**pull out は move into traffic／withdraw に置換**でき、「車線に出る」または「関与から離脱する」という2つの文脈で使われます。**pull over は move to the side of the road and stop に置換**でき、「道路脇での停止」という一貫した意味です。「離脱・発進する」話か「道端に停まる」話かで区別します。
+
+### なぜ直訳で読み解けないか
+
+out は「駐車スペースや合意の枠組みの外へ引き出る」イメージなので、pull out は車が車線へ出て走り出すことにも、合意から身を引くことにも広がります。over は「道の反対側・脇へ引き寄せられる」イメージなので、pull over は車を道端に寄せて止めることを表します。
+
+### よくある誤用
+
+⚠️ \`The investor pulled over the deal after reviewing the numbers.\`（誤）。契約から撤退したのは pull **out** of。pull over に「撤退する」の意味はありません。
+
+⚠️ \`The police officer pulled out the speeding driver.\`（誤）。車を停止させたのは pull **over**。pull out は撤退や発進の意味であり、停止させる意味は over 側にあります。
+
+🎯 覚え方：**out＝外へ引き出て離脱・発進する（撤退する・車線に出る）**、**over＝道の脇へ引き寄せて止まる（停車する）**。`,
+    keyPoints: [
+      'pull out（of）＝（合意・場所から）撤退する／（車が）車線に出て発進する（move into traffic/withdraw）',
+      'pull over＝（車を）道路脇に寄せて停止する（move to the side of the road and stop）',
+      'pull out は離脱・発進、pull over は道端での停止という違い',
+      'out＝外へ引き出る、over＝道の脇へ引き寄せる、という前置詞イメージの違い',
+    ],
+    quiz: [
+      {
+        id: 'q-pullout-1',
+        question: '空所に入る適切な語はどれですか。「The main investor decided to ( ) the deal after the scandal broke.」',
+        options: ['pull over', 'pull out of', 'pull through', 'pull off'],
+        correctAnswer: 1,
+        explanation: '契約から撤退したのは pull out of。',
+      },
+      {
+        id: 'q-pullout-2',
+        question: '空所に入る適切な語はどれですか。「She had to ( ) to answer an urgent phone call.」',
+        options: ['pull out', 'pull off', 'pull over', 'pull through'],
+        correctAnswer: 2,
+        explanation: '車を道端に寄せて止めたのは pull over。',
+      },
+      {
+        id: 'q-pullout-3',
+        question: '空所に入る適切な語はどれですか。「A car suddenly ( ) in front of us without signaling.」',
+        options: ['pulled over', 'pulled out', 'pulled through', 'pulled off'],
+        correctAnswer: 1,
+        explanation: '車線に出てきたのも pull out。',
+      },
+      {
+        id: 'q-pullout-4',
+        question: 'pull over の言い換えとして最も適切なものはどれですか。',
+        options: ['withdraw', 'move into traffic', 'move to the side of the road and stop', 'succeed'],
+        correctAnswer: 2,
+        explanation: 'pull over は「道路脇に停車する」という意味です。',
+      },
+      {
+        id: 'q-pullout-5',
+        question: 'pull out と pull over の違いとして正しいものはどれですか。',
+        options: [
+          'out＝離脱・発進、over＝道端での停止',
+          '両者に意味の違いはない',
+          'out の方が停止を表す',
+          'over の方が撤退を表す',
+        ],
+        correctAnswer: 0,
+        explanation: 'pull out は離脱・発進、pull over は道端での停止を表します。',
+      },
+    ],
+  },
+  {
+    id: 'step-down-step-in',
+    title: 'step down と step in',
+    chapter: 5,
+    hubId: 'step',
+    description: 'step down は「辞任する・退任する」、step in は「（争い等に）介入する・仲裁する」。役職を退くか、現場に足を踏み入れるかの違いです。',
+    content: `## 役職を退くか、現場に踏み込むか
+
+step down と step in はどちらも一歩の動きの比喩ですが、down の「段差を下りる」イメージと in の「現場に足を踏み入れる」イメージで、方向がまったく異なります。
+
+| 熟語 | 中心の意味 | 典型的な使われ方 |
+| --- | --- | --- |
+| step **down** | 辞任する・退任する | step down as CEO |
+| step **in** | （争い等に）介入する・仲裁する | step in to stop a fight |
+
+### step down の使い分け
+
+step down は「（役職・地位から）自ら身を引く」という意味で、"The CEO announced she would step down at the end of the year." のように使われます。しばしば「後任に道を譲るため」という含みを持ちます。
+
+### step in の使い分け
+
+step in は「（問題が起きている状況に）割って入り、助ける・解決する」という意味で、"A teacher had to step in to stop the argument." のように使われます。人手が足りない場面で「代わりに入る」という意味でも使われます。
+
+### 使い分けの手がかり
+
+**step down は resign／retire from a position に置換**でき、対象は自分自身の役職です。**step in は intervene／get involved to help に置換**でき、対象は他者の間で起きている困難な状況です。「自分が退く」話か「他者の間に割って入る」話かで区別します。
+
+### なぜ直訳で読み解けないか
+
+down は「役職という一段高い場所から段差を下りる」イメージなので、step down は地位を自ら降りることを表します。in は「現場の内側へ足を踏み入れる」イメージなので、step in は争いや問題が起きている場に割って入り、当事者として関わることを表します。
+
+### よくある誤用
+
+⚠️ \`The mediator decided to step down when the argument broke out.\`（誤・意味が逆）。仲裁に入ったのは step **in**。step down は「辞任する」の意味なので文脈が矛盾します。
+
+⚠️ \`The chairman will step in next month after 10 years in the role.\`（誤）。退任するのは step **down**。step in に「退任する」の意味はありません。
+
+🎯 覚え方：**down＝役職の段差を下りる（辞任する）**、**in＝現場の内側へ踏み込む（介入する・仲裁する）**。`,
+    keyPoints: [
+      'step down＝辞任する・退任する（resign/retire from a position）',
+      'step in＝（争い等に）介入する・仲裁する（intervene/get involved to help）',
+      'step down は自分の役職を退くこと、step in は他者の間の問題に割って入ること',
+      'down＝段差を下りる、in＝現場に踏み込む、という前置詞イメージの違い',
+    ],
+    quiz: [
+      {
+        id: 'q-stepdown-1',
+        question: '空所に入る適切な語はどれですか。「After 15 years as chairman, he decided to ( ).」',
+        options: ['step in', 'step down', 'step up', 'step back'],
+        correctAnswer: 1,
+        explanation: '辞任したのは step down。',
+      },
+      {
+        id: 'q-stepdown-2',
+        question: '空所に入る適切な語はどれですか。「A senior colleague had to ( ) when the negotiation turned hostile.」',
+        options: ['step down', 'step up', 'step in', 'step back'],
+        correctAnswer: 2,
+        explanation: '仲裁に入ったのは step in。',
+      },
+      {
+        id: 'q-stepdown-3',
+        question: '空所に入る適切な語はどれですか。「The coach will ( ) at the end of this season to make way for a younger manager.」',
+        options: ['step in', 'step up', 'step down', 'step back'],
+        correctAnswer: 2,
+        explanation: '後任に道を譲って退任するのも step down。',
+      },
+      {
+        id: 'q-stepdown-4',
+        question: 'step in の言い換えとして最も適切なものはどれですか。',
+        options: ['resign', 'retire', 'intervene', 'increase'],
+        correctAnswer: 2,
+        explanation: 'step in は「介入する」という意味です。',
+      },
+      {
+        id: 'q-stepdown-5',
+        question: 'step down と step in の違いとして正しいものはどれですか。',
+        options: [
+          'down＝自分の役職を退く、in＝他者の間の問題に割って入る',
+          '両者に意味の違いはない',
+          'down の方が介入を表す',
+          'in の方が辞任を表す',
+        ],
+        correctAnswer: 0,
+        explanation: 'step down は辞任、step in は介入を表します。',
+      },
+    ],
+  },
+  {
+    id: 'step-up-step-back',
+    title: 'step up と step back',
+    chapter: 5,
+    hubId: 'step',
+    description: 'step up は「（量・責任等を）増やす・引き受ける」、step back は「一歩引いて冷静になる・距離を置く」。前へ踏み出すか、後ろへ下がるかの違いです。',
+    content: `## 前へ踏み出すか、後ろへ下がるか
+
+step up と step back はどちらも一歩の動きの比喩ですが、up の「一段高い場所へ踏み出す」イメージと back の「一歩後ろに下がる」イメージで、方向が正反対です。
+
+| 熟語 | 中心の意味 | 典型的な使われ方 |
+| --- | --- | --- |
+| step **up** | （量・責任等を）増やす・引き受ける | step up production／step up to help |
+| step **back** | 一歩引いて冷静になる・距離を置く | step back and think |
+
+### step up の使い分け
+
+step up には複数の意味があります。1つは「（生産量・努力などを）増加させる」（The factory stepped up production to meet demand）。2つ目は「（求められて）進んで責任を引き受ける」（When no one else volunteered, she stepped up）という意味です。
+
+### step back の使い分け
+
+step back は「（感情的にならず）一歩引いて状況を客観的に見つめ直す」という意味で、"Let's step back and look at the bigger picture." のように使われます。文字どおり「後ろに一歩下がる」動作にも使われます。
+
+### 使い分けの手がかり
+
+**step up は increase／take on responsibility に置換**でき、「前へ、または上へ踏み出して量や責任を増やす」動作です。**step back は pause to view objectively に置換**でき、「一歩後退して距離を置き、冷静に見る」動作です。「引き受ける・増やす」話か「距離を置いて冷静になる」話かで区別します。
+
+### なぜ直訳で読み解けないか
+
+up は「一段高い場所へ自ら踏み出す」イメージなので、step up は量や責任を積極的に増やし引き受けることを表します。back は「一歩後方へ下がる」イメージなので、step back は状況の渦中から物理的・心理的に距離を取り、客観視することを表します。
+
+### よくある誤用
+
+⚠️ \`When the crisis hit, she decided to step back and take charge.\`（誤・意味が矛盾）。責任を引き受けたのは step **up**。step back は「距離を置く」の意味なので、「主導する」とは矛盾します。
+
+⚠️ \`I need to step up and calm down before responding.\`（誤）。冷静になるために距離を置くのは step **back**。step up に「冷静になる」の意味はありません。
+
+🎯 覚え方：**up＝一段高い場所へ踏み出す（引き受ける・増やす）**、**back＝一歩後ろに下がる（距離を置いて冷静になる）**。`,
+    keyPoints: [
+      'step up＝（量・責任等を）増やす・引き受ける（increase/take on responsibility）',
+      'step back＝一歩引いて冷静になる・距離を置く（pause to view objectively）',
+      'step up は前向きな引き受け、step back は距離を置いた客観視という正反対の動き',
+      'up＝一段高い場所へ踏み出す、back＝一歩後ろに下がる、という前置詞イメージの違い',
+    ],
+    quiz: [
+      {
+        id: 'q-stepup-1',
+        question: '空所に入る適切な語はどれですか。「When the manager quit unexpectedly, she ( ) to lead the team.」',
+        options: ['stepped back', 'stepped in', 'stepped up', 'stepped down'],
+        correctAnswer: 2,
+        explanation: '進んで責任を引き受けたのは step up。',
+      },
+      {
+        id: 'q-stepup-2',
+        question: '空所に入る適切な語はどれですか。「Sometimes it helps to ( ) and look at the situation objectively.」',
+        options: ['step up', 'step down', 'step back', 'step in'],
+        correctAnswer: 2,
+        explanation: '一歩引いて冷静になるのは step back。',
+      },
+      {
+        id: 'q-stepup-3',
+        question: '空所に入る適切な語はどれですか。「The factory had to ( ) production to meet the holiday demand.」',
+        options: ['step back', 'step down', 'step in', 'step up'],
+        correctAnswer: 3,
+        explanation: '生産量を増やすのも step up。',
+      },
+      {
+        id: 'q-stepup-4',
+        question: 'step back の言い換えとして最も適切なものはどれですか。',
+        options: ['increase', 'take on responsibility', 'pause to view objectively', 'resign'],
+        correctAnswer: 2,
+        explanation: 'step back は「距離を置いて客観視する」という意味です。',
+      },
+      {
+        id: 'q-stepup-5',
+        question: 'step up と step back の関係として正しいものはどれですか。',
+        options: [
+          '前向きな引き受けと距離を置いた客観視で、方向が正反対',
+          '意味がほぼ同じ',
+          '両方とも辞任を意味する',
+          'back の方が責任を引き受ける意味を持つ',
+        ],
+        correctAnswer: 0,
+        explanation: 'step up は引き受け、step back は客観視という正反対の方向です。',
+      },
+    ],
+  },
 ];
