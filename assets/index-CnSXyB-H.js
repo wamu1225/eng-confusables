@@ -6236,7 +6236,37 @@ bring up の中心は「（子どもを）養育する、しつける」で、"S
 
 ⚠️ \`Her parents brought up her allergy.\`（誤・意味不明瞭）。アレルギーを「引き起こした」なら bring **on**。bring up は基本的に子育てか話題の意味で使われます。
 
-🎯 覚え方：**on＝症状や能力を前面に押し出す（発症させる／鍛える）**、**up＝上へ引き上げて育てる（養育する／話題を持ち出す）**。`,keyPoints:[`bring on＝（望ましくない事態・病気）を引き起こす／（選手など）を指導し上達させる`,`bring up＝（子を）育てる（brought up が定番）／（話題を）持ち出す`,`症状・体調の話なら bring on、子育て・話題提起の話なら bring up`,`「育てる」意味が重なるので、目的語が「症状の原因」か「人格形成・話題」かで判別する`],quiz:[{id:`q-bringon-1`,question:`空所に入る適切な語はどれですか。「Lack of sleep can bring ( ) severe headaches.」`,options:[`up`,`on`,`about`,`around`],correctAnswer:1,explanation:`症状を引き起こすは bring on。`},{id:`q-bringon-2`,question:`空所に入る適切な語はどれですか。「She was born and brought ( ) in a small fishing village.」`,options:[`on`,`about`,`up`,`around`],correctAnswer:2,explanation:`育てられたは be brought up。`},{id:`q-bringon-3`,question:`空所に入る適切な語はどれですか。「I hate to bring this ( ), but the deadline is tomorrow.」`,options:[`on`,`up`,`about`,`over`],correctAnswer:1,explanation:`話題を持ち出すは bring up。`},{id:`q-bringon-4`,question:`bring on の対象として自然なものはどれですか。`,options:[`a child`,`a topic`,`a migraine`,`a contract`],correctAnswer:2,explanation:`bring on は症状・不快な事態を引き起こす意味で使われます。`},{id:`q-bringon-5`,question:`bring on と bring up の違いとして最も正確なものはどれですか。`,options:[`on は症状・能力を前面に出す、up は人格を育て話題を引き上げる`,`両者に意味の違いはない`,`on は話題に使う、up は病気に使う`,`on は子育てにしか使わない`],correctAnswer:0,explanation:`on は発症・訓練、up は養育・話題提起という違いがあります。`}]},{id:`call-for-call-on`,title:`call for と call on`,chapter:5,hubId:`call`,description:`call for は「〜を必要とする・要求する」、call on は「〜に働きかける・訪問する」。主語が「状況」か「人」かで見分けられます。`,content:`## 状況が求めるか、人に働きかけるか
+🎯 覚え方：**on＝症状や能力を前面に押し出す（発症させる／鍛える）**、**up＝上へ引き上げて育てる（養育する／話題を持ち出す）**。`,keyPoints:[`bring on＝（望ましくない事態・病気）を引き起こす／（選手など）を指導し上達させる`,`bring up＝（子を）育てる（brought up が定番）／（話題を）持ち出す`,`症状・体調の話なら bring on、子育て・話題提起の話なら bring up`,`「育てる」意味が重なるので、目的語が「症状の原因」か「人格形成・話題」かで判別する`],quiz:[{id:`q-bringon-1`,question:`空所に入る適切な語はどれですか。「Lack of sleep can bring ( ) severe headaches.」`,options:[`up`,`on`,`about`,`around`],correctAnswer:1,explanation:`症状を引き起こすは bring on。`},{id:`q-bringon-2`,question:`空所に入る適切な語はどれですか。「She was born and brought ( ) in a small fishing village.」`,options:[`on`,`about`,`up`,`around`],correctAnswer:2,explanation:`育てられたは be brought up。`},{id:`q-bringon-3`,question:`空所に入る適切な語はどれですか。「I hate to bring this ( ), but the deadline is tomorrow.」`,options:[`on`,`up`,`about`,`over`],correctAnswer:1,explanation:`話題を持ち出すは bring up。`},{id:`q-bringon-4`,question:`bring on の対象として自然なものはどれですか。`,options:[`a child`,`a topic`,`a migraine`,`a contract`],correctAnswer:2,explanation:`bring on は症状・不快な事態を引き起こす意味で使われます。`},{id:`q-bringon-5`,question:`bring on と bring up の違いとして最も正確なものはどれですか。`,options:[`on は症状・能力を前面に出す、up は人格を育て話題を引き上げる`,`両者に意味の違いはない`,`on は話題に使う、up は病気に使う`,`on は子育てにしか使わない`],correctAnswer:0,explanation:`on は発症・訓練、up は養育・話題提起という違いがあります。`}]},{id:`bring-back-bring-forward`,title:`bring back と bring forward`,chapter:5,hubId:`bring`,description:`同じ bring でも back は「思い出させる・復活させる」、forward は「予定を早める・提案する」。過去に戻すか、未来を手前に引き寄せるかの違いです。`,content:`## 過去に戻すのか、予定を手前に引き寄せるのか
+
+bring back と bring forward はどちらも「bring＋方向を表す副詞」ですが、時間軸上の向きが逆です。
+
+- **bring back** … 過去にあったものを**思い出させる・復活させる**。
+- **bring forward** … 予定の日時を**早める**、または議題・証拠を**提案する・提示する**。
+
+| 熟語 | 中心の意味 | 典型的な目的語 |
+| --- | --- | --- |
+| bring **back** | 思い出させる・復活させる | memories, an old fashion, a discontinued product |
+| bring **forward** | 予定を早める・提案する | a meeting, the election, new evidence |
+
+### bring back の使い分け
+
+bring back は「過去にあったものを現在へ連れ戻す」イメージで、"The photos brought back memories of our trip." のように思い出を呼び起こす場面で頻出します。流行や商品を「復活させる」（bring back an old fashion）という意味でも使われ、いずれも「一度過去に置かれたものを今に連れ戻す」という共通のイメージを持ちます。
+
+### bring forward の使い分け
+
+bring forward は「未来にある予定を現在に近い方向へ引き寄せる」イメージで、"The meeting was brought forward by three days." のように日程を早める場面で使われます。さらに「証拠や議題を人前に持ち出す」（bring forward new evidence）という意味にも広がり、こちらは「奥にあったものを前面に出す」という空間イメージから来ています。
+
+### なぜ直訳で読み解けないか
+
+back は「後ろ（過去）へ戻る」方向、forward は「前（未来・手前）へ進む」方向を運びます。bring back は「過去のものを現在へ連れ戻す」、bring forward は「未来の予定や奥にある議題を手前に引き寄せる」という、時間・空間の向きの違いがそのまま意味の違いになっています。
+
+### よくある誤用
+
+⚠️ \`Can you bring forward my old bicycle from the garage?\`（誤）。物理的に持ってくるだけなら単に bring。過去の思い出や流行を「蘇らせる」文脈でなければ bring back は使いません（この文自体は bring back も不要で、単純な bring で十分です）。
+
+⚠️ \`The company decided to bring back the deadline by two weeks.\`（誤）。締め切りを早めるなら bring **forward**。bring back は過去への回帰を表すので、期限を早める（未来方向の変更）には使えません。
+
+🎯 覚え方：**back＝過去へ戻す（思い出す・復活させる）**、**forward＝未来を手前に引き寄せる（早める・提案する）**。`,keyPoints:[`bring back＝過去の記憶や流行・商品を思い出させる・復活させる`,`bring forward＝予定の日時を早める、または議題・証拠を提案する`,`back は過去への回帰、forward は未来・奥にあるものを手前に引き寄せるイメージ`,`締め切りや日程を「早める」は bring forward、bring back ではない`],quiz:[{id:`q-bringback-1`,question:`空所に入る適切な語はどれですか。「The old photographs brought ( ) many happy memories.」`,options:[`forward`,`back`,`on`,`up`],correctAnswer:1,explanation:`思い出を呼び起こすという意味なので bring back。`},{id:`q-bringback-2`,question:`空所に入る適切な語はどれですか。「The board meeting has been brought ( ) to next Monday.」`,options:[`back`,`forward`,`about`,`around`],correctAnswer:1,explanation:`予定を早めるという意味なので bring forward。`},{id:`q-bringback-3`,question:`bring forward の意味として適切でないものはどれですか。`,options:[`予定を早める`,`証拠を提示する`,`過去の流行を復活させる`,`議題を提案する`],correctAnswer:2,explanation:`過去の流行を復活させるのは bring back の意味です。`},{id:`q-bringback-4`,question:`「その委員会は新しい証拠を提示した」を最も自然に表す文はどれですか。`,options:[`The committee brought back new evidence.`,`The committee brought forward new evidence.`,`The committee brought on new evidence.`,`The committee brought up new evidence.`],correctAnswer:1,explanation:`証拠を提示するという意味では bring forward が使われます。`},{id:`q-bringback-5`,question:`bring back と bring forward の時間の向きとして正しい説明はどれですか。`,options:[`両方とも未来方向を表す`,`back は過去へ戻る方向、forward は未来・手前へ引き寄せる方向`,`back は未来、forward は過去を表す`,`時間的な向きとは無関係`],correctAnswer:1,explanation:`back（過去へ戻る）と forward（未来・手前へ引き寄せる）は向きが逆です。`}]},{id:`call-for-call-on`,title:`call for と call on`,chapter:5,hubId:`call`,description:`call for は「〜を必要とする・要求する」、call on は「〜に働きかける・訪問する」。主語が「状況」か「人」かで見分けられます。`,content:`## 状況が求めるか、人に働きかけるか
 
 call for と call on はどちらも「求める」に訳されがちですが、主語と対象がはっきり異なります。
 
@@ -6290,7 +6320,37 @@ call up の最も日常的な意味は「電話をかける」で、"I'll call y
 
 ⚠️ \`They called off him to discuss the contract.\`（誤）。電話をかけたのは call **up**。call off は中止の意味しか持たず、人を目的語にして「連絡する」ようには使いません。
 
-🎯 覚え方：**off＝進行中のものを切り離して無効化する（中止する）**、**up＝相手や記憶を手元に呼び上げる（電話する・思い出す・招集する）**。`,keyPoints:[`call off＝（予定していたこと）を中止する。目的語は行事・計画（cancel に置換可）`,`call up＝電話をかける／記憶を呼び起こす／（予備役を）招集する`,`call off は「切り離して無効化する」、call up は「呼び上げる」という正反対のイメージ`,`軍事ニュースの call up（招集）と日常会話の call up（電話する）は同じ熟語`],quiz:[{id:`q-calloff-1`,question:`空所に入る適切な語はどれですか。「Organizers were forced to call ( ) the outdoor concert due to the storm.」`,options:[`up`,`off`,`on`,`for`],correctAnswer:1,explanation:`予定を中止するは call off。`},{id:`q-calloff-2`,question:`空所に入る適切な語はどれですか。「The old photograph called ( ) vivid memories of her hometown.」`,options:[`off`,`for`,`up`,`on`],correctAnswer:2,explanation:`記憶を呼び起こすは call up。`},{id:`q-calloff-3`,question:`空所に入る適切な語はどれですか。「Thousands of army reservists were called ( ) during the crisis.」`,options:[`off`,`up`,`for`,`on`],correctAnswer:1,explanation:`予備役を招集するは call up。`},{id:`q-calloff-4`,question:`call off の言い換えとして最も適切なものはどれですか。`,options:[`cancel`,`phone`,`evoke`,`summon`],correctAnswer:0,explanation:`call off は cancel（中止する）に置換できます。`},{id:`q-calloff-5`,question:`call off と call up のイメージの違いとして正しいものはどれですか。`,options:[`off＝切り離して無効化する、up＝呼び上げる`,`off＝呼び上げる、up＝切り離す`,`両方とも同じイメージ`,`off＝招集する、up＝中止する`],correctAnswer:0,explanation:`off は進行中のものを切り離して無効化、up は相手や記憶を呼び上げるイメージです。`}]},{id:`put-off-put-across`,title:`put off と put across`,chapter:5,hubId:`put`,description:`put off は「延期する・嫌にさせる」、put across は「（考えを）わかりやすく伝える」。同じ put でも向きがまったく違います。`,content:`## 遠ざけるか、伝え切るか
+🎯 覚え方：**off＝進行中のものを切り離して無効化する（中止する）**、**up＝相手や記憶を手元に呼び上げる（電話する・思い出す・招集する）**。`,keyPoints:[`call off＝（予定していたこと）を中止する。目的語は行事・計画（cancel に置換可）`,`call up＝電話をかける／記憶を呼び起こす／（予備役を）招集する`,`call off は「切り離して無効化する」、call up は「呼び上げる」という正反対のイメージ`,`軍事ニュースの call up（招集）と日常会話の call up（電話する）は同じ熟語`],quiz:[{id:`q-calloff-1`,question:`空所に入る適切な語はどれですか。「Organizers were forced to call ( ) the outdoor concert due to the storm.」`,options:[`up`,`off`,`on`,`for`],correctAnswer:1,explanation:`予定を中止するは call off。`},{id:`q-calloff-2`,question:`空所に入る適切な語はどれですか。「The old photograph called ( ) vivid memories of her hometown.」`,options:[`off`,`for`,`up`,`on`],correctAnswer:2,explanation:`記憶を呼び起こすは call up。`},{id:`q-calloff-3`,question:`空所に入る適切な語はどれですか。「Thousands of army reservists were called ( ) during the crisis.」`,options:[`off`,`up`,`for`,`on`],correctAnswer:1,explanation:`予備役を招集するは call up。`},{id:`q-calloff-4`,question:`call off の言い換えとして最も適切なものはどれですか。`,options:[`cancel`,`phone`,`evoke`,`summon`],correctAnswer:0,explanation:`call off は cancel（中止する）に置換できます。`},{id:`q-calloff-5`,question:`call off と call up のイメージの違いとして正しいものはどれですか。`,options:[`off＝切り離して無効化する、up＝呼び上げる`,`off＝呼び上げる、up＝切り離す`,`両方とも同じイメージ`,`off＝招集する、up＝中止する`],correctAnswer:0,explanation:`off は進行中のものを切り離して無効化、up は相手や記憶を呼び上げるイメージです。`}]},{id:`call-in-call-out`,title:`call in と call out`,chapter:5,hubId:`call`,description:`同じ call でも in は「呼び寄せる・短時間立ち寄る」、out は「大声で言う・公然と非難する」。内側に呼ぶか、外に向けて発するかの違いです。`,content:`## 内側に呼び寄せるのか、外に向けて発するのか
+
+call in と call out はどちらも call のあとに前置詞・副詞が続く形ですが、意味の向きが対照的です。
+
+- **call in** … 専門家などを**呼び寄せる**、または**短時間立ち寄る**。
+- **call out** … 大声で**言う**、または人の言動を**公然と非難する**。
+
+| 熟語 | 中心の意味 | 典型的な目的語 |
+| --- | --- | --- |
+| call **in** | 助けを呼ぶ・立ち寄る・欠勤の電話をする | the police, an expert, a friend's house |
+| call **out** | 大声で言う・公然と非難する・呼び出す | someone's name, a mistake, the army |
+
+### call in の使い分け
+
+call in は「難しい状況を解決するために専門家を呼び寄せる」という意味で、"The local police called in the FBI to help with the investigation." のように使われます。また「電話をかけて欠勤を連絡する」（call in sick）、「用事のついでに短時間立ち寄る」（call in on your way home）という意味もあり、いずれも「外から中へ何か・誰かを呼び入れる」感覚が核にあります。
+
+### call out の使い分け
+
+call out は文字通り「大声で叫ぶ」（call out someone's name）が基本の意味ですが、近年は「相手の間違った言動を人前で指摘・非難する」（call out a politician's false claim）という意味で特によく使われます。「軍や消防隊を出動させる」（call out the army）という意味もあり、どちらも「内側にとどめず外へ向けて発する」イメージで共通しています。
+
+### なぜ直訳で読み解けないか
+
+in は「外から内側へ」、out は「内から外へ」向かう方向を運びます。call in は「専門家や自分の声を内側（現場・電話口）へ呼び入れる」、call out は「言葉や部隊を内側から外側へ発する・繰り出す」という向きの違いが、そのまま意味の違いになっています。
+
+### よくある誤用
+
+⚠️ \`She called out sick and stayed home.\`（誤）。欠勤の連絡をするなら call **in** sick。call out に「欠勤を連絡する」の意味はありません。
+
+⚠️ \`He called in the mistake in front of everyone.\`（誤）。人前で間違いを指摘するなら call **out**。call in は呼び寄せる・立ち寄る意味なので、公然の指摘には使えません。
+
+🎯 覚え方：**in＝外から内側へ呼び入れる（助けを呼ぶ・立ち寄る）**、**out＝内から外へ発する（叫ぶ・公然と非難する）**。`,keyPoints:[`call in＝専門家などを呼び寄せる、短時間立ち寄る、電話で欠勤を連絡する（call in sick）`,`call out＝大声で言う、人の言動を公然と非難する、軍や消防隊を出動させる`,`in は外から内側へ呼び入れる方向、out は内から外へ発する方向`,`欠勤の連絡は call in sick、公然の批判は call out（方向が逆）`],quiz:[{id:`q-callin-1`,question:`空所に入る適切な語はどれですか。「I felt terrible, so I called ( ) sick this morning.」`,options:[`out`,`in`,`off`,`up`],correctAnswer:1,explanation:`欠勤を電話で連絡するという意味なので call in sick。`},{id:`q-callin-2`,question:`空所に入る適切な語はどれですか。「Journalists called ( ) the minister for his misleading statement.」`,options:[`in`,`out`,`off`,`on`],correctAnswer:1,explanation:`公然と非難するという意味なので call out。`},{id:`q-callin-3`,question:`「専門家を現場に呼んだ」を表す文として自然なものはどれですか。`,options:[`They called out an expert.`,`They called in an expert.`,`They called off an expert.`,`They called up an expert.`],correctAnswer:1,explanation:`助けを呼び寄せるという意味では call in が使われます。`},{id:`q-callin-4`,question:`call out の意味として適切でないものはどれですか。`,options:[`大声で名前を呼ぶ`,`公然と非難する`,`軍を出動させる`,`短時間立ち寄る`],correctAnswer:3,explanation:`短時間立ち寄るのは call in の意味です。`},{id:`q-callin-5`,question:`call in と call out の方向の違いとして正しい説明はどれですか。`,options:[`両方とも同じ方向を表す`,`in は外から内側へ呼び入れる、out は内から外へ発する`,`in は内から外へ発する、out は外から内側へ呼び入れる`,`方向のイメージとは無関係`],correctAnswer:1,explanation:`in（呼び入れる）と out（発する）は向きが逆です。`}]},{id:`put-off-put-across`,title:`put off と put across`,chapter:5,hubId:`put`,description:`put off は「延期する・嫌にさせる」、put across は「（考えを）わかりやすく伝える」。同じ put でも向きがまったく違います。`,content:`## 遠ざけるか、伝え切るか
 
 put off と put across はどちらも「put＋前置詞」ですが、off が運ぶ「遠ざける」イメージと across が運ぶ「渡す」イメージが正反対の方向を向いています。
 
@@ -6536,7 +6596,37 @@ out of は「〜の外へ出て、内部が空になる」イメージなので�
 
 ⚠️ \`My phone battery ran out of.\`（誤）。電池が切れたのは run **down**（またはrun out、目的語なし）。run out of は「〜を使い果たす」という他動詞的構文で、of の後ろに目的語が必要です。
 
-🎯 覚え方：**out of＝中身が尽きて空になる（使い果たす）**、**down＝下へ落ちていく（消耗する・けなす・ひく）**。`,keyPoints:[`run out of＝（人が）〜を使い果たす（use up）。主語は使う側、目的語は消費されるもの`,`run down＝（電池等が）消耗して止まる／（人を）けなす／（車で）ひく。文脈で意味が変わる多義語`,`run out of は他動詞的構文で of の後に目的語が必須`,`out of＝中身が尽きて空になる、down＝下方へ落ちる、という前置詞イメージの違い`],quiz:[{id:`q-runoutof-1`,question:`空所に入る適切な語はどれですか。「We ( ) gas halfway through the trip.」`,options:[`ran down`,`ran out of`,`ran into`,`ran through`],correctAnswer:1,explanation:`使い果たしたのは run out of。`},{id:`q-runoutof-2`,question:`空所に入る適切な語はどれですか。「My phone battery has completely ( ).」`,options:[`run out of`,`run down`,`run into`,`run through`],correctAnswer:1,explanation:`電池が切れたのは run down（自動詞）。`},{id:`q-runoutof-3`,question:`空所に入る適切な語はどれですか。「He’s always ( ) his colleagues behind their backs.」`,options:[`running out of`,`running through`,`running down`,`running into`],correctAnswer:2,explanation:`人をけなすのは run down（他動詞）。`},{id:`q-runoutof-4`,question:`run out of の言い換えとして最も適切なものはどれですか。`,options:[`use up`,`criticize`,`hit`,`wear out`],correctAnswer:0,explanation:`run out of は use up（使い果たす）に置換できます。`},{id:`q-runoutof-5`,question:`run out of の文型として正しいものはどれですか。`,options:[`主語＝使う側の人、目的語＝消費されるもの`,`主語＝消費されるもの、目的語＝人`,`目的語をとらない自動詞のみ`,`受動態にしかならない`],correctAnswer:0,explanation:`run out of は「人がものを使い果たす」という他動詞的構文です。`}]},{id:`turn-out-turn-into`,title:`turn out と turn into`,chapter:5,hubId:`turn`,description:`turn out は「〜だと判明する・結果として〜になる」、turn into は「（別のものに）変化する」。結果を述べるか変身を述べるかの違いです。`,content:`## 判明するか、変身するか
+🎯 覚え方：**out of＝中身が尽きて空になる（使い果たす）**、**down＝下へ落ちていく（消耗する・けなす・ひく）**。`,keyPoints:[`run out of＝（人が）〜を使い果たす（use up）。主語は使う側、目的語は消費されるもの`,`run down＝（電池等が）消耗して止まる／（人を）けなす／（車で）ひく。文脈で意味が変わる多義語`,`run out of は他動詞的構文で of の後に目的語が必須`,`out of＝中身が尽きて空になる、down＝下方へ落ちる、という前置詞イメージの違い`],quiz:[{id:`q-runoutof-1`,question:`空所に入る適切な語はどれですか。「We ( ) gas halfway through the trip.」`,options:[`ran down`,`ran out of`,`ran into`,`ran through`],correctAnswer:1,explanation:`使い果たしたのは run out of。`},{id:`q-runoutof-2`,question:`空所に入る適切な語はどれですか。「My phone battery has completely ( ).」`,options:[`run out of`,`run down`,`run into`,`run through`],correctAnswer:1,explanation:`電池が切れたのは run down（自動詞）。`},{id:`q-runoutof-3`,question:`空所に入る適切な語はどれですか。「He’s always ( ) his colleagues behind their backs.」`,options:[`running out of`,`running through`,`running down`,`running into`],correctAnswer:2,explanation:`人をけなすのは run down（他動詞）。`},{id:`q-runoutof-4`,question:`run out of の言い換えとして最も適切なものはどれですか。`,options:[`use up`,`criticize`,`hit`,`wear out`],correctAnswer:0,explanation:`run out of は use up（使い果たす）に置換できます。`},{id:`q-runoutof-5`,question:`run out of の文型として正しいものはどれですか。`,options:[`主語＝使う側の人、目的語＝消費されるもの`,`主語＝消費されるもの、目的語＝人`,`目的語をとらない自動詞のみ`,`受動態にしかならない`],correctAnswer:0,explanation:`run out of は「人がものを使い果たす」という他動詞的構文です。`}]},{id:`run-over-run-up`,title:`run over と run up`,chapter:5,hubId:`run`,description:`同じ run でも over は「車で轢く・時間を超過する・ざっと目を通す」、up は「借金を増やす・急いで近づく」。あふれ出るか、積み上がるかの違いです。`,content:`## あふれ出る方向か、積み上がる方向か
+
+run over と run up はどちらも多義的な熟語ですが、run over は「限度を超えてあふれ出る」方向、run up は「量や勢いが積み上がる」方向のイメージで整理できます。
+
+- **run over** … 車で人や物を**轢く**、予定時間を**超過する**、内容に**ざっと目を通す**。
+- **run up** … 借金や金額を**増やす・積み上げる**、人や場所に**急いで近づく**。
+
+| 熟語 | 中心の意味 | 典型的な目的語 |
+| --- | --- | --- |
+| run **over** | 轢く／時間超過する／ざっと目を通す | a pedestrian（轢く）／ time, the schedule（超過）／ one's notes（目を通す） |
+| run **up** | 借金・費用を増やす／急いで近づく | a large bill, huge debts／ a set of stairs |
+
+### run over の使い分け
+
+run over の最も基本的な意味は「車が人や物の上を通って**轢く**」で、"He was run over by a bus." のように受動態でもよく使われます。そこから「液体が容器から**あふれ出る**」、「予定時間を**超過する**」（The meeting ran over by twenty minutes.）、「原稿や台本に**ざっと目を通す**」（run over one's lines before the show）という意味に広がりました。いずれも「決められた枠を越えてあふれ出る」というイメージで共通しています。
+
+### run up の使い分け
+
+run up は「借金や請求額が積み上がっていく」という意味が代表的で、"They ran up huge debts on their credit cards." のように使われます。物理的に「駆け寄る・駆け上がる」（run up the stairs）という意味もあり、こちらは「勢いをつけて上へ・前へ進む」イメージです。どちらも「徐々に、あるいは勢いよく積み重なる・近づく」という共通点があります。
+
+### なぜ直訳で読み解けないか
+
+over は「境界・枠を越えてあふれる」イメージ、up は「下から上へ積み上がる」イメージを運びます。run over は「決められた枠（時間・道路の上）を越えてあふれ出る」、run up は「金額や勢いが下から上へ積み上がっていく」という、あふれる方向と積み上がる方向の違いがそのまま意味の違いになっています。
+
+### よくある誤用
+
+⚠️ \`The meeting ran up by twenty minutes.\`（誤）。会議が時間超過したなら run **over**。run up は借金や勢いが積み上がる意味なので、時間超過には使いません。
+
+⚠️ \`He ran over a huge phone bill while traveling abroad.\`（誤）。高額請求を積み上げたなら run **up**。run over に「費用を増やす」の意味はありません。
+
+🎯 覚え方：**over＝枠を越えてあふれる（轢く・時間超過・ざっと目を通す）**、**up＝下から上へ積み上がる（借金が増える・駆け上がる）**。`,keyPoints:[`run over＝車で轢く、予定時間を超過する、原稿などにざっと目を通す`,`run up＝借金・費用を積み上げる、階段などを駆け上がる・急いで近づく`,`over は枠を越えてあふれるイメージ、up は下から上へ積み上がるイメージ`,`時間超過は run over、借金の増加は run up（混同しやすいので要注意）`],quiz:[{id:`q-runover-1`,question:`空所に入る適切な語はどれですか。「Sorry, the interview ran ( ) by ten minutes.」`,options:[`up`,`over`,`into`,`through`],correctAnswer:1,explanation:`予定時間を超過するという意味なので run over。`},{id:`q-runover-2`,question:`空所に入る適切な語はどれですか。「They ran ( ) a huge bill during their vacation abroad.」`,options:[`over`,`up`,`out of`,`down`],correctAnswer:1,explanation:`費用・請求額を積み上げるという意味なので run up。`},{id:`q-runover-3`,question:`run over の意味として適切でないものはどれですか。`,options:[`車で轢く`,`予定時間を超過する`,`借金を積み上げる`,`原稿にざっと目を通す`],correctAnswer:2,explanation:`借金を積み上げるのは run up の意味です。`},{id:`q-runover-4`,question:`「本番前に台本にざっと目を通した」を最も自然に表す文はどれですか。`,options:[`She ran up her lines before the show.`,`She ran over her lines before the show.`,`She ran out of her lines before the show.`,`She ran into her lines before the show.`],correctAnswer:1,explanation:`内容にざっと目を通すという意味では run over が使われます。`},{id:`q-runover-5`,question:`run over と run up のイメージの違いとして正しい説明はどれですか。`,options:[`両方とも同じ方向のイメージ`,`over は枠を越えてあふれる、up は下から上へ積み上がる`,`over は積み上がる、up は枠を越えてあふれる`,`イメージの違いとは無関係`],correctAnswer:1,explanation:`over（あふれる）と up（積み上がる）は方向が異なります。`}]},{id:`turn-out-turn-into`,title:`turn out と turn into`,chapter:5,hubId:`turn`,description:`turn out は「〜だと判明する・結果として〜になる」、turn into は「（別のものに）変化する」。結果を述べるか変身を述べるかの違いです。`,content:`## 判明するか、変身するか
 
 turn out と turn into はどちらも「結果として〜になる」という訳になりがちですが、視点がまったく異なります。turn out は**もともとの正体・結果が明らかになる**こと、turn into は**別のものへ姿を変える**ことを表します。
 
@@ -6598,7 +6688,37 @@ down は「下方に押し下げる」イメージなので、turn down は相�
 
 ⚠️ \`My lost wallet finally turned down in the sofa.\`（誤）。見つかったのは turn **up**。turn down に「見つかる」の意味はありません。
 
-🎯 覚え方：**down＝低い位置へ退ける（断る・音量を下げる）**、**up＝表に浮かび上がらせる（見つかる・現れる・音量を上げる）**。`,keyPoints:[`turn down＝（申し出等）を断る（reject）／音量・温度等を下げる（decrease）`,`turn up＝（なくしたものが）見つかる／（人が）現れる／音量・温度等を上げる（increase）`,`turn down と turn up は音量・温度の文脈では対義語`,`down＝低い位置へ退ける、up＝表に浮かび上がらせる、という前置詞イメージの違い`],quiz:[{id:`q-turndown-1`,question:`空所に入る適切な語はどれですか。「He politely ( ) the invitation to the gala.」`,options:[`turned up`,`turned down`,`turned into`,`turned out`],correctAnswer:1,explanation:`招待を断ったのは turn down。`},{id:`q-turndown-2`,question:`空所に入る適切な語はどれですか。「Don’t worry, your missing glove will probably ( ) somewhere.」`,options:[`turn down`,`turn up`,`turn into`,`turn out`],correctAnswer:1,explanation:`なくしたものが見つかるのは turn up。`},{id:`q-turndown-3`,question:`空所に入る適切な語はどれですか。「Could you ( ) the air conditioner? It’s freezing in here.」`,options:[`turn up`,`turn down`,`turn out`,`turn into`],correctAnswer:1,explanation:`温度・音量を下げるのは turn down。`},{id:`q-turndown-4`,question:`「彼女は会議に現れなかった」を表す文はどれですか。`,options:[`She never turned down for the meeting.`,`She never turned up for the meeting.`,`She never turned into the meeting.`,`She never turned out for the meeting.`],correctAnswer:1,explanation:`人が現れる・到着するは turn up。`},{id:`q-turndown-5`,question:`turn down と turn up が対義語になる文脈はどれですか。`,options:[`音量・温度の調整`,`判明する話`,`変身の話`,`人間関係の話`],correctAnswer:0,explanation:`音量や温度を上げる・下げるという文脈で、turn up と turn down は対義語になります。`}]},{id:`hold-off-hold-out`,title:`hold off と hold out`,chapter:5,hubId:`hold`,description:`hold off は「（好ましくないこと）を先延ばしにする・食い止める」、hold out は「持ちこたえる・差し出す」。距離を置くか、手を伸ばして耐えるかの違いです。`,content:`## 距離を置いて防ぐか、伸ばして耐えるか
+🎯 覚え方：**down＝低い位置へ退ける（断る・音量を下げる）**、**up＝表に浮かび上がらせる（見つかる・現れる・音量を上げる）**。`,keyPoints:[`turn down＝（申し出等）を断る（reject）／音量・温度等を下げる（decrease）`,`turn up＝（なくしたものが）見つかる／（人が）現れる／音量・温度等を上げる（increase）`,`turn down と turn up は音量・温度の文脈では対義語`,`down＝低い位置へ退ける、up＝表に浮かび上がらせる、という前置詞イメージの違い`],quiz:[{id:`q-turndown-1`,question:`空所に入る適切な語はどれですか。「He politely ( ) the invitation to the gala.」`,options:[`turned up`,`turned down`,`turned into`,`turned out`],correctAnswer:1,explanation:`招待を断ったのは turn down。`},{id:`q-turndown-2`,question:`空所に入る適切な語はどれですか。「Don’t worry, your missing glove will probably ( ) somewhere.」`,options:[`turn down`,`turn up`,`turn into`,`turn out`],correctAnswer:1,explanation:`なくしたものが見つかるのは turn up。`},{id:`q-turndown-3`,question:`空所に入る適切な語はどれですか。「Could you ( ) the air conditioner? It’s freezing in here.」`,options:[`turn up`,`turn down`,`turn out`,`turn into`],correctAnswer:1,explanation:`温度・音量を下げるのは turn down。`},{id:`q-turndown-4`,question:`「彼女は会議に現れなかった」を表す文はどれですか。`,options:[`She never turned down for the meeting.`,`She never turned up for the meeting.`,`She never turned into the meeting.`,`She never turned out for the meeting.`],correctAnswer:1,explanation:`人が現れる・到着するは turn up。`},{id:`q-turndown-5`,question:`turn down と turn up が対義語になる文脈はどれですか。`,options:[`音量・温度の調整`,`判明する話`,`変身の話`,`人間関係の話`],correctAnswer:0,explanation:`音量や温度を上げる・下げるという文脈で、turn up と turn down は対義語になります。`}]},{id:`turn-on-turn-off`,title:`turn on と turn off`,chapter:5,hubId:`turn`,description:`同じ turn でも on は「電源を入れる・急に牙をむく」、off は「電源を切る・興味を失わせる」。スイッチのon/offだけでなく、人間関係や興味にも使われます。`,content:`## スイッチだけでなく、人の態度や興味にも使われる
+
+turn on と turn off は電気製品のスイッチ操作としてよく知られていますが、そこから人間関係や興味・関心にまで意味が広がる典型的な熟語ペアです。
+
+- **turn on** … 電源を**入れる**、味方だった相手に急に**牙をむく**、興味や欲求を**刺激する**。
+- **turn off** … 電源を**切る**、興味を**失わせる**、道を**外れる**。
+
+| 熟語 | 中心の意味 | 典型的な目的語 |
+| --- | --- | --- |
+| turn **on** | 電源を入れる／急に攻撃する／興奮させる | a light, the TV／ a friend／ a fan base |
+| turn **off** | 電源を切る／興味を失わせる／道を外れる | a light, the engine／ a customer／ the highway |
+
+### turn on の使い分け
+
+turn on の基本は「スイッチを入れて電気を流す」（turn on the lights）ですが、比喩的に「それまで味方だった人が急に敵対的になる」（The dog suddenly turned on its owner.）という意味にも使われます。また「人を興奮させる・その気にさせる」（turn someone on）という意味もあり、いずれも「それまで無かった反応・状態が急にオンになる」という共通イメージを持ちます。
+
+### turn off の使い分け
+
+turn off は「スイッチを切って電気を止める」（turn off the engine）が基本ですが、比喩的に「相手の興味・関心を失わせる」（The long queue turned off many customers.）という意味でも頻出します。さらに「走っている道から別の道へ外れる」（turn off the highway at the next exit）という意味もあり、どちらも「今まで続いていた流れ・接続が絶たれる」イメージで説明できます。
+
+### なぜ直訳で読み解けないか
+
+on は「接続してスイッチが入った状態」、off は「接続が切れた状態」を運びます。turn on は「関心・敵意・電流のスイッチを入れる」、turn off は「関心・電流・進路のつながりを断つ」という接続の有無が、電気にも感情にも共通して当てはまる比喩の土台になっています。
+
+### よくある誤用
+
+⚠️ \`The high prices turned on many potential customers.\`（誤）。興味を失わせたなら turn **off**。turn on は興奮・関心を刺激する方向なので、意味が正反対になります。
+
+⚠️ \`My cat suddenly turned off on me and scratched my hand.\`（誤）。急に攻撃的になったなら turn **on**。turn off は接続を切る意味なので「牙をむく」の意味にはなりません。
+
+🎯 覚え方：**on＝スイッチが入る（電源・興味・敵意が生まれる）**、**off＝スイッチが切れる（電源・興味・道のつながりが絶たれる）**。`,keyPoints:[`turn on＝電源を入れる、味方だった相手が急に攻撃的になる、興味・欲求を刺激する`,`turn off＝電源を切る、興味を失わせる、走行中の道から外れる`,`on は接続・スイッチが入る方向、off は接続が断たれる方向`,`「興味をなくさせる」は turn off、「興奮させる」は turn on（正反対の意味）`],quiz:[{id:`q-turnonoff-1`,question:`空所に入る適切な語はどれですか。「The dog suddenly turned ( ) its own owner and bit him.」`,options:[`off`,`on`,`down`,`up`],correctAnswer:1,explanation:`急に攻撃的になるという意味なので turn on。`},{id:`q-turnonoff-2`,question:`空所に入る適切な語はどれですか。「The rude service really turned ( ) the customers.」`,options:[`on`,`off`,`over`,`into`],correctAnswer:1,explanation:`興味・好意を失わせるという意味なので turn off。`},{id:`q-turnonoff-3`,question:`turn on の意味として適切でないものはどれですか。`,options:[`電源を入れる`,`興味を失わせる`,`味方が急に攻撃的になる`,`興奮させる`],correctAnswer:1,explanation:`興味を失わせるのは turn off の意味です。`},{id:`q-turnonoff-4`,question:`「次の出口で高速道路を降りてください」を最も自然に表す文はどれですか。`,options:[`Please turn on the highway at the next exit.`,`Please turn off the highway at the next exit.`,`Please turn over the highway at the next exit.`,`Please turn up the highway at the next exit.`],correctAnswer:1,explanation:`道から外れるという意味では turn off が使われます。`},{id:`q-turnonoff-5`,question:`turn on と turn off の関係として正しい説明はどれですか。`,options:[`両方とも「興味を失わせる」という同じ意味`,`on は接続・興味が生まれる方向、off は接続・興味が絶たれる方向`,`on は道から外れる、off はスイッチを入れる`,`意味の違いはなく完全に置き換え可能`],correctAnswer:1,explanation:`on（接続が入る）と off（接続が切れる）は方向が逆です。`}]},{id:`hold-off-hold-out`,title:`hold off と hold out`,chapter:5,hubId:`hold`,description:`hold off は「（好ましくないこと）を先延ばしにする・食い止める」、hold out は「持ちこたえる・差し出す」。距離を置くか、手を伸ばして耐えるかの違いです。`,content:`## 距離を置いて防ぐか、伸ばして耐えるか
 
 hold off と hold out はどちらも「困難な状況で持ちこたえる」ニュアンスを持ちますが、off の「距離を置く」イメージと out の「外へ伸ばす」イメージで意味の方向が異なります。
 
@@ -6660,7 +6780,37 @@ up は「その場に立ち止まらせる」イメージなので、hold up は
 
 ⚠️ \`We were held back in traffic for an hour.\`（不自然）。渋滞で足止めされたのは hold **up**。hold back を渋滞の文脈で使うことは通常ありません。
 
-🎯 覚え方：**up＝その場に立ち止まらせる（遅延・強盗・耐久性）**、**back＝後方に押しとどめる（感情・情報・人混みを抑える）**。`,keyPoints:[`hold up＝遅らせる（be held up in traffic）／強盗する／持ちこたえる・耐久性を保つ／例として示す`,`hold back＝（進行・感情・情報）を抑える・開示しない（delay/conceal/suppress）`,`hold up は文脈依存の多義語、hold back は「抑える」で一貫している`,`up＝その場に立ち止まらせる、back＝後方に押しとどめる、という前置詞イメージの違い`],quiz:[{id:`q-holdup-1`,question:`空所に入る適切な語はどれですか。「Sorry I’m late — I was ( ) in traffic for almost an hour.」`,options:[`held back`,`held up`,`held out`,`held off`],correctAnswer:1,explanation:`渋滞で遅れたのは be held up。`},{id:`q-holdup-2`,question:`空所に入る適切な語はどれですか。「She struggled to ( ) her tears during the farewell speech.」`,options:[`hold up`,`hold off`,`hold back`,`hold out`],correctAnswer:2,explanation:`涙をこらえるのは hold back。`},{id:`q-holdup-3`,question:`空所に入る適切な語はどれですか。「Two masked men tried to ( ) the convenience store last night.」`,options:[`hold back`,`hold out`,`hold up`,`hold off`],correctAnswer:2,explanation:`強盗するのは hold up。`},{id:`q-holdup-4`,question:`空所に入る適切な語はどれですか。「Police had to ( ) the crowd to let the ambulance through.」`,options:[`hold up`,`hold back`,`hold out`,`hold off`],correctAnswer:1,explanation:`人混みを押しとどめるのは hold back。`},{id:`q-holdup-5`,question:`hold up と hold back の違いとして正しいものはどれですか。`,options:[`up は文脈で意味が大きく変わる多義語、back は「抑える」で一貫している`,`両者に意味の違いはない`,`up は感情専用、back は渋滞専用`,`back の方が意味の種類が多い`],correctAnswer:0,explanation:`hold up は遅延・強盗・耐久性など多義、hold back は抑制の意味で一貫しています。`}]},{id:`set-out-set-back`,title:`set out と set back`,chapter:5,hubId:`set`,description:`set out は「出発する・着手する・述べる」、set back は「（進捗）を遅らせる・費用がかかる」。前へ踏み出すか、後ろへ押し戻されるかの違いです。`,content:`## 踏み出すか、押し戻されるか
+🎯 覚え方：**up＝その場に立ち止まらせる（遅延・強盗・耐久性）**、**back＝後方に押しとどめる（感情・情報・人混みを抑える）**。`,keyPoints:[`hold up＝遅らせる（be held up in traffic）／強盗する／持ちこたえる・耐久性を保つ／例として示す`,`hold back＝（進行・感情・情報）を抑える・開示しない（delay/conceal/suppress）`,`hold up は文脈依存の多義語、hold back は「抑える」で一貫している`,`up＝その場に立ち止まらせる、back＝後方に押しとどめる、という前置詞イメージの違い`],quiz:[{id:`q-holdup-1`,question:`空所に入る適切な語はどれですか。「Sorry I’m late — I was ( ) in traffic for almost an hour.」`,options:[`held back`,`held up`,`held out`,`held off`],correctAnswer:1,explanation:`渋滞で遅れたのは be held up。`},{id:`q-holdup-2`,question:`空所に入る適切な語はどれですか。「She struggled to ( ) her tears during the farewell speech.」`,options:[`hold up`,`hold off`,`hold back`,`hold out`],correctAnswer:2,explanation:`涙をこらえるのは hold back。`},{id:`q-holdup-3`,question:`空所に入る適切な語はどれですか。「Two masked men tried to ( ) the convenience store last night.」`,options:[`hold back`,`hold out`,`hold up`,`hold off`],correctAnswer:2,explanation:`強盗するのは hold up。`},{id:`q-holdup-4`,question:`空所に入る適切な語はどれですか。「Police had to ( ) the crowd to let the ambulance through.」`,options:[`hold up`,`hold back`,`hold out`,`hold off`],correctAnswer:1,explanation:`人混みを押しとどめるのは hold back。`},{id:`q-holdup-5`,question:`hold up と hold back の違いとして正しいものはどれですか。`,options:[`up は文脈で意味が大きく変わる多義語、back は「抑える」で一貫している`,`両者に意味の違いはない`,`up は感情専用、back は渋滞専用`,`back の方が意味の種類が多い`],correctAnswer:0,explanation:`hold up は遅延・強盗・耐久性など多義、hold back は抑制の意味で一貫しています。`}]},{id:`hold-on-hold-over`,title:`hold on と hold over`,chapter:5,hubId:`hold`,description:`同じ hold でも on は「待つ・つかまる・持ちこたえる」、over は「延期する・上映期間を延長する」。今その場で持ちこたえるか、あとの時点へ持ち越すかの違いです。`,content:`## その場で持ちこたえるのか、あとへ持ち越すのか
+
+hold on と hold over はどちらも「保持する」という hold の核から出ていますが、時間の使い方が異なります。
+
+- **hold on** … 電話を切らずに**待つ**、しっかり**つかまる**、苦しい状況で**持ちこたえる**。
+- **hold over** … 予定を**延期する**、好評の公演・上映を**延長する**。
+
+| 熟語 | 中心の意味 | 典型的な文脈 |
+| --- | --- | --- |
+| hold **on** | 待つ・つかまる・持ちこたえる | on the phone, to a rope, in a crisis |
+| hold **over** | 延期する・上映期間を延長する | a decision, a hit movie, a court case |
+
+### hold on の使い分け
+
+hold on は電話口で「そのまま待ってください」（Hold on, I'll check.）という定型表現として非常によく使われます。物理的に「しっかりつかまる」（hold on to the railing）、苦しい状況で「持ちこたえる・耐える」（The rescue team told them to hold on until help arrived.）という意味にも広がり、いずれも「今この瞬間の状態を保ち続ける」という共通イメージがあります。
+
+### hold over の使い分け
+
+hold over は「決定や案件を今すぐ扱わず、あとの時点まで持ち越す」という意味で、"The decision was held over until the next meeting." のように使われます。また、興行の世界では「好評の映画や公演の上映・公演期間を延長する」（The film was held over for a third week due to its popularity.）という意味でも使われ、こちらも「本来の期限を越えて先へ持ち越す」イメージです。
+
+### なぜ直訳で読み解けないか
+
+on は「今の状態に接触し続ける」イメージ、over は「本来の期限・範囲を越えて先へ運ぶ」イメージを運びます。hold on は「今の状態をそのまま保持し続ける」、hold over は「決定や上映を本来の期限の向こう側まで持ち越す」という、時間の扱い方の違いがそのまま意味の違いになっています。
+
+### よくある誤用
+
+⚠️ \`Please hold over while I transfer your call.\`（誤）。電話口で待ってもらうなら hold **on**。hold over は決定や興行の延期を表すので、電話の保留には使いません。
+
+⚠️ \`The committee decided to hold on the vote until next month.\`（誤・意図不明瞭）。採決を来月まで持ち越すなら hold **over**。hold on は「待つ・つかまる」の意味なので、決定を先送りする文脈では不自然です。
+
+🎯 覚え方：**on＝今の状態を保ち続ける（待つ・つかまる・耐える）**、**over＝期限の向こうへ持ち越す（延期する・上映延長する）**。`,keyPoints:[`hold on＝電話で待つ、しっかりつかまる、苦しい状況で持ちこたえる`,`hold over＝決定や案件をあとの時点まで延期する、好評の上映・公演を延長する`,`on は今の状態を保ち続けるイメージ、over は期限の向こうへ持ち越すイメージ`,`電話の保留は hold on、決定の先送りは hold over（混同しやすいので要注意）`],quiz:[{id:`q-holdon-1`,question:`空所に入る適切な語はどれですか。「Could you hold ( ) a moment while I get the file?」`,options:[`over`,`on`,`off`,`up`],correctAnswer:1,explanation:`電話や会話で待ってもらうという意味なので hold on。`},{id:`q-holdon-2`,question:`空所に入る適切な語はどれですか。「The final decision was held ( ) until the board could review it.」`,options:[`on`,`over`,`out`,`back`],correctAnswer:1,explanation:`決定を後の時点まで延期するという意味なので hold over。`},{id:`q-holdon-3`,question:`hold over の意味として最も適切なものはどれですか。`,options:[`しっかりつかまる`,`決定や上映をあとに持ち越す`,`電話で待つ`,`苦しい状況で耐える`],correctAnswer:1,explanation:`hold over は決定や興行を後の時点まで持ち越す意味です。`},{id:`q-holdon-4`,question:`「その映画は好評につき上映が延長された」を最も自然に表す文はどれですか。`,options:[`The film was held on for another week.`,`The film was held over for another week.`,`The film was held up for another week.`,`The film was held back for another week.`],correctAnswer:1,explanation:`上映期間を延長するという意味では hold over が使われます。`},{id:`q-holdon-5`,question:`hold on と hold over の違いとして正しい説明はどれですか。`,options:[`両方とも同じ意味で置き換え可能`,`hold on は今の状態を保ち続ける、hold over はあとの時点まで持ち越す`,`hold on はあとの時点まで持ち越す、hold over は今の状態を保ち続ける`,`意味の違いとは無関係`],correctAnswer:1,explanation:`今を保持するのが hold on、期限の先へ持ち越すのが hold over です。`}]},{id:`set-out-set-back`,title:`set out と set back`,chapter:5,hubId:`set`,description:`set out は「出発する・着手する・述べる」、set back は「（進捗）を遅らせる・費用がかかる」。前へ踏み出すか、後ろへ押し戻されるかの違いです。`,content:`## 踏み出すか、押し戻されるか
 
 set out と set back は set の後に続く前置詞の向きが正反対で、意味も「前進」と「後退」に分かれます。
 
@@ -8416,8 +8566,10 @@ bring は「（物や人を）持ってくる・連れてくる」が核です�
 | bring around | around（円を描いて向きを変える） | 説得する・意識を回復させる |
 | bring on | on（前方へ押し出す） | （望ましくない事態）をもたらす |
 | bring up | up（上へ引き上げる） | 育てる・話題に挙げる |
+| bring back | back（過去へ戻す） | 思い出させる・復活させる |
+| bring forward | forward（未来・奥を手前へ） | 予定を早める・提案する |
 
-bring about は「周囲の現実世界に、今まで無かった事象を発生させる」イメージで、主語には政策や技術革新のような抽象的な原因が来ます。bring around は「相手の意識をぐるりと回転させて、自分の立場へ向かわせる」イメージで、説得の場面と、気絶した人を正気に戻す場面の両方で使われます。`,previewPairs:[`bring about vs bring around（引き起こす／説得する）`,`bring on vs bring up（もたらす／育てる・話題に挙げる）`]},{id:`call`,verb:`call`,title:`call は前置詞でどう意味が変わる？`,description:`call の中心イメージ「声を出して呼ぶ」が、続く前置詞・副詞でどう枝分かれするかをまとめたハブページ。`,content:`## call の中心イメージ
+bring about は「周囲の現実世界に、今まで無かった事象を発生させる」イメージで、主語には政策や技術革新のような抽象的な原因が来ます。bring around は「相手の意識をぐるりと回転させて、自分の立場へ向かわせる」イメージで、説得の場面と、気絶した人を正気に戻す場面の両方で使われます。bring back は「過去にあったものを現在へ連れ戻す」イメージから思い出や流行の復活を表し、bring forward は「未来の予定や奥にある議題を手前に引き寄せる」イメージから日程を早める・議題を提示する意味になります。`,previewPairs:[`bring about vs bring around（引き起こす／説得する）`,`bring on vs bring up（もたらす／育てる・話題に挙げる）`,`bring back vs bring forward（思い出させる・復活させる／早める・提案する）`]},{id:`call`,verb:`call`,title:`call は前置詞でどう意味が変わる？`,description:`call の中心イメージ「声を出して呼ぶ」が、続く前置詞・副詞でどう枝分かれするかをまとめたハブページ。`,content:`## call の中心イメージ
 
 call は「呼ぶ・叫ぶ」が核です。人や物事に対して声（あるいはそれに相当する働きかけ）を向けるという原義から、要求・指名・取り消し・電話といった意味が分かれます。
 
@@ -8427,8 +8579,10 @@ call は「呼ぶ・叫ぶ」が核です。人や物事に対して声（ある
 | call on | on（対象に接触・働きかける） | ～を指名する・訪問する |
 | call off | off（離脱・無効化） | ～を取り消す |
 | call up | up（上方へ呼び上げる） | 電話で呼び出す・徴兵する |
+| call in | in（外から内側へ呼び入れる） | 助けを呼ぶ・立ち寄る・欠勤を連絡する |
+| call out | out（内から外へ発する） | 大声で言う・公然と非難する |
 
-call for は「状況が～を求めている」という無生物主語でよく使われ、call on は「特定の人に狙いを定めて働きかける」という指名・訪問の意味になります。call off は「進行中の予定を切り離して無効にする」イメージで、call up は「相手を呼び出して手元に引き上げる」ことから電話にも軍への招集にも使われます。`,previewPairs:[`call for vs call on（要求する／指名する・訪問する）`,`call off vs call up（取り消す／電話で呼び出す）`]},{id:`put`,verb:`put`,title:`put は前置詞でどう意味が変わる？`,description:`put の中心イメージ「ある場所に置く」が、続く前置詞・副詞でどう枝分かれするかをまとめたハブページ。`,content:`## put の中心イメージ
+call for は「状況が～を求めている」という無生物主語でよく使われ、call on は「特定の人に狙いを定めて働きかける」という指名・訪問の意味になります。call off は「進行中の予定を切り離して無効にする」イメージで、call up は「相手を呼び出して手元に引き上げる」ことから電話にも軍への招集にも使われます。call in は「専門家や自分の声を外から内側へ呼び入れる」イメージで助けを呼ぶ・立ち寄る・欠勤連絡を表し、call out は「内側にとどめず外へ向けて発する」イメージで大声で言う・公然と非難する意味になります。`,previewPairs:[`call for vs call on（要求する／指名する・訪問する）`,`call off vs call up（取り消す／電話で呼び出す）`,`call in vs call out（助けを呼ぶ・立ち寄る／公然と非難する）`]},{id:`put`,verb:`put`,title:`put は前置詞でどう意味が変わる？`,description:`put の中心イメージ「ある場所に置く」が、続く前置詞・副詞でどう枝分かれするかをまとめたハブページ。`,content:`## put の中心イメージ
 
 put は「（物を）ある場所に置く」が核です。物理的な配置から、時間軸上に「置く」（延期する）、負担を「置く」（我慢する）といった比喩に広がります。
 
@@ -8464,8 +8618,10 @@ run は「走る」が核ですが、「勢いよく連続的に進む・流れ�
 | run through | through（始めから終わりまで通過） | 急いで復習する・費やす |
 | run out of | out of（枯渇して外へ出る） | ～を使い果たす |
 | run down | down（低下・倒れるまで追う） | 車でひく・酷評する |
+| run over | over（枠を越えてあふれる） | 車で轢く・時間超過する・ざっと目を通す |
+| run up | up（下から上へ積み上がる） | 借金・費用を積み上げる・急いで近づく |
 
-run into は「走っていて何かにぶつかる」イメージから、人との偶然の遭遇にも、問題への衝突にも使われます。run through は「最初から最後まで一気に走り抜ける」イメージで、資金を使い切る場合と、台本を通しで確認する場合の両方に使われます。run out of は「中身が尽きて外に流れ出る」イメージで在庫や時間の枯渇を、run down は「勢いのまま相手を低い位置まで追い詰める」イメージから、車でひく・人を酷評するという2つの意味に分かれます。`,previewPairs:[`run into vs run through（偶然出会う／急いで復習する・費やす）`,`run out of vs run down（使い果たす／車でひく・酷評する）`]},{id:`turn`,verb:`turn`,title:`turn は前置詞でどう意味が変わる？`,description:`turn の中心イメージ「向きを変える」が、続く前置詞・副詞でどう枝分かれするかをまとめたハブページ。`,content:`## turn の中心イメージ
+run into は「走っていて何かにぶつかる」イメージから、人との偶然の遭遇にも、問題への衝突にも使われます。run through は「最初から最後まで一気に走り抜ける」イメージで、資金を使い切る場合と、台本を通しで確認する場合の両方に使われます。run out of は「中身が尽きて外に流れ出る」イメージで在庫や時間の枯渇を、run down は「勢いのまま相手を低い位置まで追い詰める」イメージから、車でひく・人を酷評するという2つの意味に分かれます。run over は「決められた枠を越えてあふれ出る」イメージで車で轢く・時間超過・ざっと目を通す意味に広がり、run up は「下から上へ積み上がる」イメージで借金の増加や駆け上がる動作を表します。`,previewPairs:[`run into vs run through（偶然出会う／急いで復習する・費やす）`,`run out of vs run down（使い果たす／車でひく・酷評する）`,`run over vs run up（轢く・時間超過する／借金を積み上げる・急いで近づく）`]},{id:`turn`,verb:`turn`,title:`turn は前置詞でどう意味が変わる？`,description:`turn の中心イメージ「向きを変える」が、続く前置詞・副詞でどう枝分かれするかをまとめたハブページ。`,content:`## turn の中心イメージ
 
 turn は「回る・向きを変える」が核です。物理的な回転から、状態の変化・態度の転換という比喩に広がります。
 
@@ -8475,8 +8631,10 @@ turn は「回る・向きを変える」が核です。物理的な回転から
 | turn into | into（別の状態の内部へ入る） | ～に変形・変化する |
 | turn down | down（下方に下げる・退ける） | （提案等）を断る |
 | turn up | up（上方へ出現・増大する） | 現れる・（音量等）を上げる |
+| turn on | on（接続してスイッチが入る） | 電源を入れる・急に攻撃する・興奮させる |
+| turn off | off（接続が切れる） | 電源を切る・興味を失わせる・道を外れる |
 
-turn out は「隠れていたものが向きを変えて外に現れる」イメージで、結果が判明する場面に使われます。turn into は「向きを変えて別の状態の中に入り込む」ことから完全な変化・変身を表し、turn down は「相手からの申し出を低い位置に押し下げて退ける」ことから断ることを表します。turn up は「不意に姿を現す」「つまみを上げる」の両方に使われ、turn down（音量を下げる）と対になる語としても頻出です。`,previewPairs:[`turn out vs turn into（判明する・産出する／変化する）`,`turn down vs turn up（断る／現れる・上げる）`]},{id:`hold`,verb:`hold`,title:`hold は前置詞でどう意味が変わる？`,description:`hold の中心イメージ「しっかりつかんで保つ」が、続く前置詞・副詞でどう枝分かれするかをまとめたハブページ。`,content:`## hold の中心イメージ
+turn out は「隠れていたものが向きを変えて外に現れる」イメージで、結果が判明する場面に使われます。turn into は「向きを変えて別の状態の中に入り込む」ことから完全な変化・変身を表し、turn down は「相手からの申し出を低い位置に押し下げて退ける」ことから断ることを表します。turn up は「不意に姿を現す」「つまみを上げる」の両方に使われ、turn down（音量を下げる）と対になる語としても頻出です。turn on は「接続のスイッチが入る」イメージから電源・興味・敵意が生まれることを表し、turn off は「接続が切れる」イメージから電源を切る・興味を失わせる・道を外れる意味に広がります。`,previewPairs:[`turn out vs turn into（判明する・産出する／変化する）`,`turn down vs turn up（断る／現れる・上げる）`,`turn on vs turn off（電源を入れる・攻撃する／電源を切る・興味を失わせる）`]},{id:`hold`,verb:`hold`,title:`hold は前置詞でどう意味が変わる？`,description:`hold の中心イメージ「しっかりつかんで保つ」が、続く前置詞・副詞でどう枝分かれするかをまとめたハブページ。`,content:`## hold の中心イメージ
 
 hold は「（手や力で）つかんで保持する」が核です。物理的な保持から、時間的な保留・忍耐・秘匿という比喩に広がります。
 
@@ -8486,8 +8644,10 @@ hold は「（手や力で）つかんで保持する」が核です。物理的
 | hold out | out（中心から外側への伸長） | 持ちこたえる・差し出す |
 | hold up | up（垂直方向への停止と支持） | 遅らせる・強盗に入る・耐久性を保つ |
 | hold back | back（後方に押しとどめる） | （感情・情報）を抑える・開示しない |
+| hold on | on（今の状態を保ち続ける） | 待つ・つかまる・持ちこたえる |
+| hold over | over（期限の向こうへ持ち越す） | 延期する・上映期間を延長する |
 
-hold off は「相手を自分から距離を置いた場所に留め置く」イメージで、決断の先延ばしにも敵の足止めにも使われます。hold out は「限界まで手を伸ばして持ちこたえる」イメージで、包囲されても抵抗を続ける場面が典型例です。hold up は「その場に立ち止まらせる」イメージから交通渋滞による遅延を表す一方、強盗が「動くな」と相手を止める場面（held up at gunpoint）にも使われる語です。`,previewPairs:[`hold off vs hold out vs hold up（延期する・防ぐ／持ちこたえる／遅らせる・強盗に入る）`,`hold up vs hold back（遅らせる／感情や情報を抑える）`]},{id:`set`,verb:`set`,title:`set は前置詞でどう意味が変わる？`,description:`set の中心イメージ「ある位置・状態に据える」が、続く前置詞・副詞でどう枝分かれするかをまとめたハブページ。`,content:`## set の中心イメージ
+hold off は「相手を自分から距離を置いた場所に留め置く」イメージで、決断の先延ばしにも敵の足止めにも使われます。hold out は「限界まで手を伸ばして持ちこたえる」イメージで、包囲されても抵抗を続ける場面が典型例です。hold up は「その場に立ち止まらせる」イメージから交通渋滞による遅延を表す一方、強盗が「動くな」と相手を止める場面（held up at gunpoint）にも使われる語です。hold on は「今の状態をそのまま保ち続ける」イメージで電話の保留やしがみつく・耐える場面に使われ、hold over は「本来の期限の向こうへ持ち越す」イメージで決定の延期や上映期間の延長を表します。`,previewPairs:[`hold off vs hold out vs hold up（延期する・防ぐ／持ちこたえる／遅らせる・強盗に入る）`,`hold up vs hold back（遅らせる／感情や情報を抑える）`,`hold on vs hold over（待つ・つかまる／延期する・上映延長する）`]},{id:`set`,verb:`set`,title:`set は前置詞でどう意味が変わる？`,description:`set の中心イメージ「ある位置・状態に据える」が、続く前置詞・副詞でどう枝分かれするかをまとめたハブページ。`,content:`## set の中心イメージ
 
 set は「（物を）ある位置に据え置く」「（状態を）固定する」が核です。据える対象や向きによって、出発・妨害・設立などの意味に分かれます。
 
