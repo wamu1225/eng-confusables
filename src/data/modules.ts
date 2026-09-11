@@ -22231,6 +22231,92 @@ out は「内部に潜んでいたものが外部へ突発的に噴き出す」�
     ],
   },
   {
+    id: 'break-away-break-through',
+    title: 'break away と break through',
+    chapter: 5,
+    hubId: 'break',
+    description: '同じ break でも away は「集団から離脱する」、through は「障壁を突破する」。逃れて離れるか、押し進んで抜けるかの違いです。',
+    content: `## 逃れて離れるのか、押し進んで抜けるのか
+
+break away と break through はどちらも「break＋方向を表す副詞」ですが、動く向きが異なります。
+
+- **break away** … 押さえつけている相手や所属していた集団から**逃れる・離脱する**。
+- **break through** … 立ちはだかる障壁を**突破する**、または画期的な**発見をする**。
+
+| 熟語 | 中心の意味 | 典型的な文脈 |
+| --- | --- | --- |
+| break **away** | 逃れる・離脱する | from someone's grip, from a group, from an independence movement |
+| break **through** | 突破する・画期的な発見をする | a barrier, a record, a discovery in research |
+
+### break away の使い分け
+
+break away は「自分を押さえつけているものから力ずくで逃れる」という物理的な意味（He grabbed her, but she managed to break away.）から、「意見の合わない集団から離脱する」という比喩的な意味（Some members broke away to form a new political party.）に広がります。政治団体や独立運動の分裂を報じるニュースで頻出する語です。
+
+### break through の使い分け
+
+break through は「行く手を阻む障壁を力ずくで突破する」という物理的な意味（Protesters broke through the barriers.）から、「これまで超えられなかった水準を突破する」（Sales finally broke through the $1 million barrier.）、「研究で画期的な発見をする」という意味に広がります。名詞形 breakthrough（大発見・突破口）としても頻出します。
+
+### なぜ直訳で読み解けないか
+
+away は「本体から離れた場所へ」向かう方向、through は「障害物を貫いて反対側へ」向かう方向を運びます。break away は「集団や拘束から離れた場所へ逃れる」、break through は「立ちはだかる壁を貫いて先へ進む」という、対象との関わり方の違いがそのまま意味の違いになっています。
+
+### よくある誤用
+
+⚠️ \`The protesters broke away the police barriers.\`（誤）。バリケードを突破したなら break **through**。break away は集団や拘束から離れる意味なので、障壁を突破する文脈には使いません。
+
+⚠️ \`Some members broke through the party to form a new group.\`（誤）。党から離脱したなら break **away** from the party。break through は障壁の突破・発見の意味なので、組織からの離脱には使えません。
+
+🎯 覚え方：**away＝拘束や集団から離れた場所へ逃れる（離脱する）**、**through＝立ちはだかる壁を貫いて先へ進む（突破する）**。`,
+    keyPoints: [
+      'break away＝押さえつける相手や所属していた集団から力ずくで逃れる・離脱する',
+      'break through＝立ちはだかる障壁を突破する、画期的な発見をする（名詞形 breakthrough）',
+      'away は拘束や集団から離れる方向、through は障害物を貫いて先へ進む方向',
+      '組織からの離脱は break away、記録や壁の突破は break through（混同しやすいので要注意）',
+    ],
+    quiz: [
+      {
+        id: 'q-breakaway-1',
+        question: '空所に入る適切な語はどれですか。「Some members broke ( ) from the party to form a new group.」',
+        options: ['through', 'away', 'out', 'down'],
+        correctAnswer: 1,
+        explanation: '集団から離脱するという意味なので break away。',
+      },
+      {
+        id: 'q-breakaway-2',
+        question: '空所に入る適切な語はどれですか。「Sales finally broke ( ) the $1 million barrier this year.」',
+        options: ['away', 'through', 'up', 'off'],
+        correctAnswer: 1,
+        explanation: '水準・記録を突破するという意味なので break through。',
+      },
+      {
+        id: 'q-breakaway-3',
+        question: 'break away の意味として最も適切なものはどれですか。',
+        options: ['障壁を突破する', '集団や拘束から逃れる', '画期的な発見をする', 'まとまりが解消する'],
+        correctAnswer: 1,
+        explanation: 'break away は拘束や集団から力ずくで逃れる・離脱する意味です。',
+      },
+      {
+        id: 'q-breakaway-4',
+        question: '「研究チームは重要な発見に至った」を最も自然に表す文はどれですか。',
+        options: ['The research team broke away in their work.', 'The research team broke through in their work.', 'The research team broke up in their work.', 'The research team broke off in their work.'],
+        correctAnswer: 1,
+        explanation: '画期的な発見をするという意味では break through が使われます。',
+      },
+      {
+        id: 'q-breakaway-5',
+        question: 'break away と break through の違いとして正しい説明はどれですか。',
+        options: [
+          '両方とも同じ意味で置き換え可能',
+          'break away は集団・拘束から離脱する、break through は障壁を突破する',
+          'break away は障壁を突破する、break through は集団から離脱する',
+          '意味の違いとは無関係',
+        ],
+        correctAnswer: 1,
+        explanation: '離脱が break away、突破・発見が break through です。',
+      },
+    ],
+  },
+  {
     id: 'come-across-come-up-with',
     title: 'come across と come up with',
     chapter: 5,
@@ -22665,6 +22751,92 @@ without は「〜が無い状態のまま進む」イメージなので、go wit
     ],
   },
   {
+    id: 'go-off-go-under',
+    title: 'go off と go under',
+    chapter: 5,
+    hubId: 'go',
+    description: '同じ go でも off は「爆発する・鳴る・腐る」、under は「沈む・倒産する」。突発的に作動するか、下方向へ屈するかの違いです。',
+    content: `## 突発的に作動するのか、下方向へ屈するのか
+
+go off と go under はどちらも go のあとに副詞が続く形ですが、表すイメージが対照的です。
+
+- **go off** … 爆弾や銃が**爆発する・発射する**、アラームが**鳴る**、食べ物が**腐る**。
+- **go under** … 船が**沈む**、会社が**倒産する**。
+
+| 熟語 | 中心の意味 | 典型的な主語 |
+| --- | --- | --- |
+| go **off** | 爆発する・鳴る・腐る | a bomb, an alarm, milk |
+| go **under** | 沈む・倒産する | a ship, a company, a business |
+
+### go off の使い分け
+
+go off は文脈によって意味が大きく変わる多義語です。爆弾や銃が「爆発する・発射する」（The bomb went off in the middle of the night.）、目覚まし時計やアラームが「鳴る」（My alarm didn't go off this morning.）、牛乳や食べ物が古くなって「腐る・傷む」（This milk has gone off.）という3つの意味が特によく使われます。いずれも「静かだったものが突然作動し始める・状態が変化する」という共通のイメージがあります。
+
+### go under の使い分け
+
+go under は「水面より下へ沈む」という物理的な意味（The ship went under just minutes after the last passenger had been rescued.）から、「会社や事業が経営破綻する」という比喩的な意味（The charity will go under unless a generous donor can be found.）に広がります。どちらも「本来の水準・状態を維持できずに下へ落ちていく」というイメージで共通しています。
+
+### なぜ直訳で読み解けないか
+
+off は「静止状態が切り替わって作動する」イメージ、under は「基準となる水面・水準の下へ沈む」イメージを運びます。go off は「それまで静かだったものが突然作動する・変化する」、go under は「水面や経営基準の下に沈み込む」という、変化の方向の違いがそのまま意味の違いになっています。
+
+### よくある誤用
+
+⚠️ \`The small company went off due to the recession.\`（誤）。不況で倒産したなら go **under**。go off に「倒産する」の意味はありません。
+
+⚠️ \`The fire alarm went under during the drill.\`（誤）。避難訓練でアラームが鳴ったなら go **off**。go under は沈む・倒産する意味なので、アラームには使いません。
+
+🎯 覚え方：**off＝静止状態から突然作動する（爆発する・鳴る・腐る）**、**under＝基準の下へ沈み込む（沈没する・倒産する）**。`,
+    keyPoints: [
+      'go off＝爆弾や銃が爆発する、アラームが鳴る、食べ物が腐る（多義語なので文脈判断が必要）',
+      'go under＝船が沈む、会社が倒産する',
+      'off は静止状態から突然作動するイメージ、under は基準の下へ沈み込むイメージ',
+      '倒産は go under、アラームが鳴るのは go off（混同しやすいので要注意）',
+    ],
+    quiz: [
+      {
+        id: 'q-goundr-1',
+        question: '空所に入る適切な語はどれですか。「The fire alarm suddenly went ( ) in the middle of the night.」',
+        options: ['under', 'off', 'through', 'down'],
+        correctAnswer: 1,
+        explanation: 'アラームが鳴るという意味なので go off。',
+      },
+      {
+        id: 'q-goundr-2',
+        question: '空所に入る適切な語はどれですか。「Many small businesses went ( ) during the economic crisis.」',
+        options: ['off', 'under', 'over', 'without'],
+        correctAnswer: 1,
+        explanation: '会社が倒産するという意味なので go under。',
+      },
+      {
+        id: 'q-goundr-3',
+        question: 'go off の意味として適切でないものはどれですか。',
+        options: ['爆発する', '(食べ物が)腐る', '倒産する', 'アラームが鳴る'],
+        correctAnswer: 2,
+        explanation: '倒産するのは go under の意味です。',
+      },
+      {
+        id: 'q-goundr-4',
+        question: '「この牛乳は腐っている」を最も自然に表す文はどれですか。',
+        options: ['This milk has gone under.', 'This milk has gone off.', 'This milk has gone through.', 'This milk has gone without.'],
+        correctAnswer: 1,
+        explanation: '食べ物が腐るという意味では go off が使われます。',
+      },
+      {
+        id: 'q-goundr-5',
+        question: 'go off と go under のイメージの違いとして正しい説明はどれですか。',
+        options: [
+          '両方とも同じ方向のイメージ',
+          'off は静止状態から突然作動する、under は基準の下へ沈み込む',
+          'off は基準の下へ沈み込む、under は突然作動する',
+          'イメージの違いとは無関係',
+        ],
+        correctAnswer: 1,
+        explanation: 'off（突然の作動・変化）と under（下方向への沈み込み）は方向性が異なります。',
+      },
+    ],
+  },
+  {
     id: 'keep-up-with-keep-off',
     title: 'keep up with と keep off',
     chapter: 5,
@@ -22835,6 +23007,92 @@ on は「同じ状態のまま前へ持ち続ける」イメージなので、ke
         ],
         correctAnswer: 0,
         explanation: 'keep on は継続、keep to は枠からの逸脱を防ぐという違いがあります。',
+      },
+    ],
+  },
+  {
+    id: 'keep-back-keep-down',
+    title: 'keep back と keep down',
+    chapter: 5,
+    hubId: 'keep',
+    description: '同じ keep でも back は「情報を隠す・距離を保つ」、down は「増加を抑える・低く保つ」。手元に留めるか、低い水準に押さえるかの違いです。',
+    content: `## 手元に留めるのか、低い水準に押さえるのか
+
+keep back と keep down はどちらも「抑える」という点で似ていますが、抑える対象と方向が異なります。
+
+- **keep back** … 情報を**隠す**、人や水を一定の場所より**近づけない**。
+- **keep down** … 費用や数量の**増加を抑える**、声などを**低く保つ**。
+
+| 熟語 | 中心の意味 | 典型的な目的語 |
+| --- | --- | --- |
+| keep **back** | 隠す・近づけない | information, the crowd, flood water |
+| keep **down** | 増加を抑える・低く保つ | costs, prices, one's voice |
+
+### keep back の使い分け
+
+keep back は「知っていることをすべて話さず、一部を自分の手元に留めておく」という意味（I suspect she's keeping something back.）で使われます。また「人や水などを、ある場所より先に進ませない」という物理的な意味（Barriers were built to keep back the flood water.）にも使われ、群衆整理の場面でも頻出します。
+
+### keep down の使い分け
+
+keep down は「費用や物価などが増加しないよう抑える」という意味（We need to keep our costs down.）が代表的です。「声の大きさを低く保つ」（Please keep your voice down.）という意味にも使われ、さらに「食べた物を吐かずに胃に留めておく」（She couldn't keep anything down after the operation.）という体調に関する意味もあります。
+
+### なぜ直訳で読み解けないか
+
+back は「本来出てくるはずのものを後ろに留め置く」イメージ、down は「本来上がっていくはずのものを低い位置に押さえつける」イメージを運びます。keep back は「情報や人を自分の手元・一定の場所より先に出さない」、keep down は「数値や声を低い水準に押さえ込む」という、抑える方向の違いがそのまま意味の違いになっています。
+
+### よくある誤用
+
+⚠️ \`We need to keep back our costs this year.\`（誤）。費用の増加を抑えるなら keep **down**。keep back は情報を隠す・距離を保つ意味なので、費用の抑制には使いません。
+
+⚠️ \`I suspect she's keeping something down about the accident.\`（誤）。情報を隠しているなら keep **back**。keep down は数量や声を低く保つ意味なので、情報の秘匿には使えません。
+
+🎯 覚え方：**back＝手元に留めて先に出さない（隠す・近づけない）**、**down＝低い水準に押さえ込む（増加を抑える・声を低くする）**。`,
+    keyPoints: [
+      'keep back＝知っている情報の一部を隠す、人や水を一定の場所より近づけない',
+      'keep down＝費用・物価などの増加を抑える、声を低く保つ、食べた物を吐かずにいる',
+      'back は手元に留めて先に出さないイメージ、down は低い水準に押さえ込むイメージ',
+      '費用の抑制は keep down、情報の秘匿は keep back（混同しやすいので要注意）',
+    ],
+    quiz: [
+      {
+        id: 'q-keepback-1',
+        question: '空所に入る適切な語はどれですか。「I think he is keeping something ( ) about what really happened.」',
+        options: ['down', 'back', 'off', 'up'],
+        correctAnswer: 1,
+        explanation: '情報を隠しているという意味なので keep back。',
+      },
+      {
+        id: 'q-keepback-2',
+        question: '空所に入る適切な語はどれですか。「The company is working hard to keep its prices ( ).」',
+        options: ['back', 'down', 'off', 'to'],
+        correctAnswer: 1,
+        explanation: '価格の上昇を抑えるという意味なので keep down。',
+      },
+      {
+        id: 'q-keepback-3',
+        question: 'keep back の意味として最も適切なものはどれですか。',
+        options: ['費用の増加を抑える', '情報を隠す・人を近づけない', '声を低く保つ', '食べ物を吐かずにいる'],
+        correctAnswer: 1,
+        explanation: 'keep back は情報を隠す、人や水を近づけないという意味です。',
+      },
+      {
+        id: 'q-keepback-4',
+        question: '「静かにして。声を落として」を最も自然に表す文はどれですか。',
+        options: ['Please keep your voice back.', 'Please keep your voice down.', 'Please keep your voice off.', 'Please keep your voice up.'],
+        correctAnswer: 1,
+        explanation: '声を低く保つという意味では keep down が使われます。',
+      },
+      {
+        id: 'q-keepback-5',
+        question: 'keep back と keep down の違いとして正しい説明はどれですか。',
+        options: [
+          '両方とも同じ意味で置き換え可能',
+          'keep back は情報や人を手元に留める、keep down は数値や声を低く抑える',
+          'keep back は数値を低く抑える、keep down は情報を隠す',
+          '意味の違いとは無関係',
+        ],
+        correctAnswer: 1,
+        explanation: '手元に留めるのが keep back、低い水準に押さえるのが keep down です。',
       },
     ],
   },
@@ -23013,6 +23271,92 @@ back は「後方へ引き戻す」イメージなので、draw back は驚き�
     ],
   },
   {
+    id: 'draw-in-draw-near',
+    title: 'draw in と draw near',
+    chapter: 5,
+    hubId: 'draw',
+    description: '同じ draw でも in は「日が短くなる・人を巻き込む」、near は「時間・空間的に近づく」。似た「近づく」系の意味に見えて使える対象が違います。',
+    content: `## どちらも「近づく」系だが、使える対象が違う
+
+draw in と draw near はどちらも「何かが近づいてくる」感覚を持つ熟語ですが、主語にできるものが異なります。
+
+- **draw in** … 秋・冬が近づき、日が**短くなる**。人を**巻き込む**。
+- **draw near** … 時間的・空間的に**近づく**（行事・出来事・人など）。
+
+| 熟語 | 中心の意味 | 典型的な主語 |
+| --- | --- | --- |
+| draw **in** | 日が短くなる／人を巻き込む | the evenings, the nights／ a person, someone reluctant |
+| draw **near** | 時間・空間的に近づく | the exam, the wedding, a traveller |
+
+### draw in の使い分け
+
+draw in は季節の変化を表す定型表現として、"The evenings are drawing in." （秋が近づき、夕方が早く暗くなってきた）のように使われます。主語には evenings や nights のような「日照時間に関わる語」が来るのが特徴です。もう1つの意味として、乗り気でない人を「話や活動に巻き込む」（The salesman tried to draw her in.）という使い方もあります。
+
+### draw near の使い分け
+
+draw near は「行事や時期、人などが時間的・空間的に近づいてくる」という意味で、"As the exam draws near, students start to panic." のように使われます。draw in とは異なり、季節限定の表現ではなく、試験・結婚式・出来事など幅広い対象に使えるのが特徴です。
+
+### なぜ直訳で読み解けないか
+
+in は「内側へ入り込む・縮こまる」イメージで、日照時間が内側へ縮んでいく様子を表します。near は「距離や時間の隔たりが縮まる」イメージで、対象そのものが近づいてくる様子を表します。同じ「近づく」感覚でも、draw in は「日照という特定の現象」、draw near は「出来事や人という一般的な対象」に使うという住み分けがあります。
+
+### よくある誤用
+
+⚠️ \`The wedding day is drawing in.\`（誤・用法が不自然）。結婚式の日が近づいているなら draw **near**。draw in は日照時間が短くなる意味・人を巻き込む意味に限られ、一般的な出来事の接近には使いません。
+
+⚠️ \`The nights are drawing near in autumn.\`（誤・用法が不自然）。秋に日が短くなる現象なら draw **in**。draw near は出来事や人が近づく意味なので、季節特有の日照変化の表現としては不自然です。
+
+🎯 覚え方：**in＝日照時間が内側へ縮む（秋冬が近づく・巻き込む）**、**near＝出来事や人との隔たりが縮まる（一般的に近づく）**。`,
+    keyPoints: [
+      'draw in＝秋冬が近づき日が短くなる（The evenings are drawing in.）、人を話や活動に巻き込む',
+      'draw near＝行事・出来事・人などが時間的・空間的に近づく（幅広い対象に使える）',
+      'in は日照時間が縮むイメージに限定、near は一般的な「近づく」を表す',
+      '結婚式や試験が近づくのは draw near、秋が近づき日が短くなるのは draw in',
+    ],
+    quiz: [
+      {
+        id: 'q-drawin-1',
+        question: '空所に入る適切な語はどれですか。「As autumn arrives, the evenings are drawing ( ).」',
+        options: ['near', 'in', 'out', 'up'],
+        correctAnswer: 1,
+        explanation: '秋が近づき日が短くなるという意味なので draw in。',
+      },
+      {
+        id: 'q-drawin-2',
+        question: '空所に入る適切な語はどれですか。「As the exam draws ( ), students start to feel nervous.」',
+        options: ['in', 'near', 'back', 'on'],
+        correctAnswer: 1,
+        explanation: '試験の日が近づくという意味なので draw near。',
+      },
+      {
+        id: 'q-drawin-3',
+        question: 'draw in の主語として自然なものはどれですか。',
+        options: ['the wedding', 'the exam', 'the evenings', 'a traveller'],
+        correctAnswer: 2,
+        explanation: 'draw in は日照時間に関わる語（evenings, nights）が主語になります。',
+      },
+      {
+        id: 'q-drawin-4',
+        question: '「販売員は彼女を話に引き込もうとした」を最も自然に表す文はどれですか。',
+        options: ['The salesman tried to draw her near.', 'The salesman tried to draw her in.', 'The salesman tried to draw her out.', 'The salesman tried to draw her back.'],
+        correctAnswer: 1,
+        explanation: '人を巻き込むという意味では draw in が使われます。',
+      },
+      {
+        id: 'q-drawin-5',
+        question: 'draw in と draw near の違いとして正しい説明はどれですか。',
+        options: [
+          '両方とも全く同じ対象に使える',
+          'draw in は日照時間の変化・人を巻き込む意味に限定、draw near は幅広い対象の接近を表す',
+          'draw in は幅広い対象の接近、draw near は日照時間の変化に限定',
+          '意味の違いとは無関係',
+        ],
+        correctAnswer: 1,
+        explanation: 'draw in は季節・巻き込みに限定的、draw near は一般的な「近づく」を表します。',
+      },
+    ],
+  },
+  {
     id: 'give-in-give-way-to',
     title: 'give in と give way to',
     chapter: 5,
@@ -23183,6 +23527,92 @@ up は「持っていたものをすべて差し出して手放す」イメー�
         ],
         correctAnswer: 0,
         explanation: 'give up は放棄、give away は譲渡・漏洩を表します。',
+      },
+    ],
+  },
+  {
+    id: 'give-off-give-out',
+    title: 'give off と give out',
+    chapter: 5,
+    hubId: 'give',
+    description: '同じ give でも off は「匂い・熱・光を発する」、out は「配る・尽きる・止まる」。自然に発するか、外へ出し切って尽きるかの違いです。',
+    content: `## 自然に発するのか、出し切って尽きるのか
+
+give off と give out はどちらも「give＋副詞」ですが、対象と方向が異なります。
+
+- **give off** … 匂い・熱・光・ガスなどを**発する**。
+- **give out** … 物を**配る**、機械や体力が**尽きる・止まる**、情報を**公表する**。
+
+| 熟語 | 中心の意味 | 典型的な目的語・主語 |
+| --- | --- | --- |
+| give **off** | 匂い・熱・光・ガスを発する | smoke, heat, a strange smell |
+| give **out** | 配る／尽きる・止まる／公表する | free tickets（配る）／ a battery, one's legs（尽きる）／ information（公表） |
+
+### give off の使い分け
+
+give off は「物質そのものが匂い・熱・光・ガスなどを外に向けて発する」という意味で、"The forest fire gave off thick black smoke." のように使われます。主語は人ではなく、火・化学物質・装置など「何かを発する源」になるのが特徴です。
+
+### give out の使い分け
+
+give out には主に3つの意味があります。1つ目は「大勢の人に物を配る」（They're giving out free tickets to the circus.）、2つ目は機械や体の一部が「働かなくなる・尽きる」（Her legs finally gave out after the marathon.）、3つ目は情報や物資が「尽きる・なくなる」（Food supplies will give out by the end of the week.）です。いずれも「持っていたものを外へ出し切って、それ以上出せなくなる」という共通のイメージがあります。
+
+### なぜ直訳で読み解けないか
+
+off は「物の表面から立ち上るように発する」イメージ、out は「内側にあるものを外へ出し切る」イメージを運びます。give off は「発生源から自然に立ち上る」、give out は「持っていた分を配り尽くす・出し尽くして空になる」という、対象の性質の違いがそのまま意味の違いになっています。
+
+### よくある誤用
+
+⚠️ \`The volunteers gave off free water bottles to runners.\`（誤）。水を配ったなら give **out**。give off は匂いや熱などを発する意味なので、物を配る文脈には使いません。
+
+⚠️ \`The chemical gave out a strange smell.\`（誤・意図不明瞭）。化学物質が匂いを発したなら give **off**。give out は配る・尽きるの意味なので、匂いの発生源には使いません。
+
+🎯 覚え方：**off＝発生源から自然に立ち上る（匂い・熱・光を発する）**、**out＝内側の分を外へ出し切る（配る・尽きる・公表する）**。`,
+    keyPoints: [
+      'give off＝匂い・熱・光・ガスなどを発する（火や化学物質などが主語）',
+      'give out＝大勢に配る、機械や体力が尽きる・止まる、情報が尽きる・公表される',
+      'off は発生源から自然に立ち上るイメージ、out は持っている分を出し切るイメージ',
+      '物を配るのは give out、匂いや熱を発するのは give off（混同しやすいので要注意）',
+    ],
+    quiz: [
+      {
+        id: 'q-giveoff-1',
+        question: '空所に入る適切な語はどれですか。「The burning wood gave ( ) a strong smell of smoke.」',
+        options: ['out', 'off', 'up', 'away'],
+        correctAnswer: 1,
+        explanation: '匂いを発するという意味なので give off。',
+      },
+      {
+        id: 'q-giveoff-2',
+        question: '空所に入る適切な語はどれですか。「Volunteers gave ( ) free water bottles to all the runners.」',
+        options: ['off', 'out', 'up', 'in'],
+        correctAnswer: 1,
+        explanation: '物を配るという意味なので give out。',
+      },
+      {
+        id: 'q-giveoff-3',
+        question: 'give off の主語として自然なものはどれですか。',
+        options: ['volunteers', 'a battery', 'burning wood', 'free tickets'],
+        correctAnswer: 2,
+        explanation: 'give off は匂い・熱・光などの発生源が主語になります。',
+      },
+      {
+        id: 'q-giveoff-4',
+        question: '「マラソンの後、彼女の脚はついに限界を迎えた」を最も自然に表す文はどれですか。',
+        options: ['Her legs finally gave off after the marathon.', 'Her legs finally gave out after the marathon.', 'Her legs finally gave up after the marathon.', 'Her legs finally gave away after the marathon.'],
+        correctAnswer: 1,
+        explanation: '体の一部が働かなくなるという意味では give out が使われます。',
+      },
+      {
+        id: 'q-giveoff-5',
+        question: 'give off と give out の違いとして正しい説明はどれですか。',
+        options: [
+          '両方とも「配る」という同じ意味',
+          'give off は匂い・熱・光を発する、give out は配る・尽きる・公表する',
+          'give off は配る、give out は匂いを発する',
+          '意味の違いとは無関係',
+        ],
+        correctAnswer: 1,
+        explanation: '発生源から発するのが give off、出し切る・配るのが give out です。',
       },
     ],
   },
