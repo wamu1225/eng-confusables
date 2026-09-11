@@ -7424,7 +7424,37 @@ out は「内部に潜んでいたものが外部へ突発的に噴き出す」�
 
 ⚠️ \`They broke out after five years together.\`（誤）。恋人同士が別れたのは break **up**。break out に「別れる」の意味はありません。
 
-🎯 覚え方：**out＝内部から突発的に噴き出す（発生する・脱出する）**、**up＝全体が破片に砕ける（別れる・解散する）**。`,keyPoints:[`break out＝（戦争・火事等が）突発的に発生する／脱出する（start suddenly/escape）`,`break up＝別れる／（集団・会議が）解散する／粉々になる（end a relationship/disperse）`,`break out は突発的な発生・脱出、break up はまとまりの解消・分散`,`out＝内部から突発的に噴き出す、up＝全体が破片に砕ける、という前置詞イメージの違い`],quiz:[{id:`q-breakout-1`,question:`空所に入る適切な語はどれですか。「A massive fire ( ) in the warehouse district last night.」`,options:[`broke up`,`broke out`,`broke off`,`broke down`],correctAnswer:1,explanation:`火事が発生したのは break out。`},{id:`q-breakout-2`,question:`空所に入る適切な語はどれですか。「After years of arguing, they finally decided to ( ).」`,options:[`break out`,`break up`,`break down`,`break off relations`],correctAnswer:1,explanation:`恋人同士が別れたのは break up。`},{id:`q-breakout-3`,question:`空所に入る適切な語はどれですか。「Three inmates ( ) of the maximum-security prison overnight.」`,options:[`broke up`,`broke down`,`broke out`,`broke off`],correctAnswer:2,explanation:`刑務所から脱出したのは break out。`},{id:`q-breakout-4`,question:`break up の言い換えとして最も適切なものはどれですか。`,options:[`start suddenly`,`escape`,`disperse`,`malfunction`],correctAnswer:2,explanation:`break up は「ばらばらに分かれる・解散する」という意味です。`},{id:`q-breakout-5`,question:`break out と break up の違いとして正しいものはどれですか。`,options:[`out＝内部から突発的に発生する・脱出する、up＝まとまりが分かれる`,`両者に意味の違いはない`,`out＝別れる、up＝発生する`,`up は必ず物理的な破壊にしか使わない`],correctAnswer:0,explanation:`break out は突発的な発生・脱出、break up はまとまりの解消・分散を表します。`}]},{id:`come-across-come-up-with`,title:`come across と come up with`,chapter:5,hubId:`come`,description:`come across は「〜に偶然出くわす・〜という印象を与える」、come up with は「（考え・答えを）思いつく」。偶然の遭遇か、内側から生み出すかの違いです。`,content:`## 偶然出くわすか、思いつくか
+🎯 覚え方：**out＝内部から突発的に噴き出す（発生する・脱出する）**、**up＝全体が破片に砕ける（別れる・解散する）**。`,keyPoints:[`break out＝（戦争・火事等が）突発的に発生する／脱出する（start suddenly/escape）`,`break up＝別れる／（集団・会議が）解散する／粉々になる（end a relationship/disperse）`,`break out は突発的な発生・脱出、break up はまとまりの解消・分散`,`out＝内部から突発的に噴き出す、up＝全体が破片に砕ける、という前置詞イメージの違い`],quiz:[{id:`q-breakout-1`,question:`空所に入る適切な語はどれですか。「A massive fire ( ) in the warehouse district last night.」`,options:[`broke up`,`broke out`,`broke off`,`broke down`],correctAnswer:1,explanation:`火事が発生したのは break out。`},{id:`q-breakout-2`,question:`空所に入る適切な語はどれですか。「After years of arguing, they finally decided to ( ).」`,options:[`break out`,`break up`,`break down`,`break off relations`],correctAnswer:1,explanation:`恋人同士が別れたのは break up。`},{id:`q-breakout-3`,question:`空所に入る適切な語はどれですか。「Three inmates ( ) of the maximum-security prison overnight.」`,options:[`broke up`,`broke down`,`broke out`,`broke off`],correctAnswer:2,explanation:`刑務所から脱出したのは break out。`},{id:`q-breakout-4`,question:`break up の言い換えとして最も適切なものはどれですか。`,options:[`start suddenly`,`escape`,`disperse`,`malfunction`],correctAnswer:2,explanation:`break up は「ばらばらに分かれる・解散する」という意味です。`},{id:`q-breakout-5`,question:`break out と break up の違いとして正しいものはどれですか。`,options:[`out＝内部から突発的に発生する・脱出する、up＝まとまりが分かれる`,`両者に意味の違いはない`,`out＝別れる、up＝発生する`,`up は必ず物理的な破壊にしか使わない`],correctAnswer:0,explanation:`break out は突発的な発生・脱出、break up はまとまりの解消・分散を表します。`}]},{id:`break-away-break-through`,title:`break away と break through`,chapter:5,hubId:`break`,description:`同じ break でも away は「集団から離脱する」、through は「障壁を突破する」。逃れて離れるか、押し進んで抜けるかの違いです。`,content:`## 逃れて離れるのか、押し進んで抜けるのか
+
+break away と break through はどちらも「break＋方向を表す副詞」ですが、動く向きが異なります。
+
+- **break away** … 押さえつけている相手や所属していた集団から**逃れる・離脱する**。
+- **break through** … 立ちはだかる障壁を**突破する**、または画期的な**発見をする**。
+
+| 熟語 | 中心の意味 | 典型的な文脈 |
+| --- | --- | --- |
+| break **away** | 逃れる・離脱する | from someone's grip, from a group, from an independence movement |
+| break **through** | 突破する・画期的な発見をする | a barrier, a record, a discovery in research |
+
+### break away の使い分け
+
+break away は「自分を押さえつけているものから力ずくで逃れる」という物理的な意味（He grabbed her, but she managed to break away.）から、「意見の合わない集団から離脱する」という比喩的な意味（Some members broke away to form a new political party.）に広がります。政治団体や独立運動の分裂を報じるニュースで頻出する語です。
+
+### break through の使い分け
+
+break through は「行く手を阻む障壁を力ずくで突破する」という物理的な意味（Protesters broke through the barriers.）から、「これまで超えられなかった水準を突破する」（Sales finally broke through the $1 million barrier.）、「研究で画期的な発見をする」という意味に広がります。名詞形 breakthrough（大発見・突破口）としても頻出します。
+
+### なぜ直訳で読み解けないか
+
+away は「本体から離れた場所へ」向かう方向、through は「障害物を貫いて反対側へ」向かう方向を運びます。break away は「集団や拘束から離れた場所へ逃れる」、break through は「立ちはだかる壁を貫いて先へ進む」という、対象との関わり方の違いがそのまま意味の違いになっています。
+
+### よくある誤用
+
+⚠️ \`The protesters broke away the police barriers.\`（誤）。バリケードを突破したなら break **through**。break away は集団や拘束から離れる意味なので、障壁を突破する文脈には使いません。
+
+⚠️ \`Some members broke through the party to form a new group.\`（誤）。党から離脱したなら break **away** from the party。break through は障壁の突破・発見の意味なので、組織からの離脱には使えません。
+
+🎯 覚え方：**away＝拘束や集団から離れた場所へ逃れる（離脱する）**、**through＝立ちはだかる壁を貫いて先へ進む（突破する）**。`,keyPoints:[`break away＝押さえつける相手や所属していた集団から力ずくで逃れる・離脱する`,`break through＝立ちはだかる障壁を突破する、画期的な発見をする（名詞形 breakthrough）`,`away は拘束や集団から離れる方向、through は障害物を貫いて先へ進む方向`,`組織からの離脱は break away、記録や壁の突破は break through（混同しやすいので要注意）`],quiz:[{id:`q-breakaway-1`,question:`空所に入る適切な語はどれですか。「Some members broke ( ) from the party to form a new group.」`,options:[`through`,`away`,`out`,`down`],correctAnswer:1,explanation:`集団から離脱するという意味なので break away。`},{id:`q-breakaway-2`,question:`空所に入る適切な語はどれですか。「Sales finally broke ( ) the $1 million barrier this year.」`,options:[`away`,`through`,`up`,`off`],correctAnswer:1,explanation:`水準・記録を突破するという意味なので break through。`},{id:`q-breakaway-3`,question:`break away の意味として最も適切なものはどれですか。`,options:[`障壁を突破する`,`集団や拘束から逃れる`,`画期的な発見をする`,`まとまりが解消する`],correctAnswer:1,explanation:`break away は拘束や集団から力ずくで逃れる・離脱する意味です。`},{id:`q-breakaway-4`,question:`「研究チームは重要な発見に至った」を最も自然に表す文はどれですか。`,options:[`The research team broke away in their work.`,`The research team broke through in their work.`,`The research team broke up in their work.`,`The research team broke off in their work.`],correctAnswer:1,explanation:`画期的な発見をするという意味では break through が使われます。`},{id:`q-breakaway-5`,question:`break away と break through の違いとして正しい説明はどれですか。`,options:[`両方とも同じ意味で置き換え可能`,`break away は集団・拘束から離脱する、break through は障壁を突破する`,`break away は障壁を突破する、break through は集団から離脱する`,`意味の違いとは無関係`],correctAnswer:1,explanation:`離脱が break away、突破・発見が break through です。`}]},{id:`come-across-come-up-with`,title:`come across と come up with`,chapter:5,hubId:`come`,description:`come across は「〜に偶然出くわす・〜という印象を与える」、come up with は「（考え・答えを）思いつく」。偶然の遭遇か、内側から生み出すかの違いです。`,content:`## 偶然出くわすか、思いつくか
 
 come across と come up with はどちらも「見つかる・出てくる」に関わる比喩ですが、across の「向こうから視界に入る」イメージと up with の「内側から持ち上げる」イメージで、主体的な行動の有無が異なります。
 
@@ -7578,7 +7608,37 @@ without は「〜が無い状態のまま進む」イメージなので、go wit
 
 ⚠️ \`I'll go for lunch today; I'm not very hungry.\`（誤・意味が逆）。食事を抜くのは go **without** lunch。go for lunch は「昼食を取りに行く」という意味になってしまいます。
 
-🎯 覚え方：**without＝〜が無いまま進む（我慢する）**、**for＝目標に向かって突き進む（取りに行く・好み・挑む）**。`,keyPoints:[`go without＝〜なしで済ませる・我慢する（manage without）`,`go for＝〜を取りに行く／〜が好み・魅力を感じる／〜に挑む（fetch/be attracted to/attempt）`,`go without は欠乏の受容、go for は目標への積極的な追求`,`without＝〜が無いまま進む、for＝目標に向かって進む、という前置詞イメージの違い`],quiz:[{id:`q-gowithout-1`,question:`空所に入る適切な語はどれですか。「During the shortage, many households had to ( ) fresh vegetables.」`,options:[`go for`,`go without`,`go over`,`go through`],correctAnswer:1,explanation:`欠乏を受け入れるのは go without。`},{id:`q-gowithout-2`,question:`空所に入る適切な語はどれですか。「If you want that promotion, you should really ( ) it.」`,options:[`go without`,`go over`,`go for`,`go through`],correctAnswer:2,explanation:`積極的に挑むのは go for。`},{id:`q-gowithout-3`,question:`空所に入る適切な語はどれですか。「When it comes to music, she really ( ) jazz and blues.」`,options:[`goes without`,`goes for`,`goes over`,`goes through`],correctAnswer:1,explanation:`好みを表すのも go for。`},{id:`q-gowithout-4`,question:`go without の言い換えとして最も適切なものはどれですか。`,options:[`manage without something needed`,`fetch`,`be attracted to`,`attempt`],correctAnswer:0,explanation:`go without は「必要なものなしで済ませる」という意味です。`},{id:`q-gowithout-5`,question:`go without と go for の関係として正しいものはどれですか。`,options:[`欠乏の受容と積極的な追求で、対照的な方向を持つ`,`意味がほぼ同じ`,`両方とも「取りに行く」を意味する`,`go without の方が積極的な意味を持つ`],correctAnswer:0,explanation:`go without は消極的な欠乏の受容、go for は積極的な追求という対照的な意味です。`}]},{id:`keep-up-with-keep-off`,title:`keep up with と keep off`,chapter:5,hubId:`keep`,description:`keep up with は「〜に遅れずについていく」、keep off は「〜を避ける・近づけない」。並走し続けるか、距離を保つかの違いです。`,content:`## 並走し続けるか、距離を保つか
+🎯 覚え方：**without＝〜が無いまま進む（我慢する）**、**for＝目標に向かって突き進む（取りに行く・好み・挑む）**。`,keyPoints:[`go without＝〜なしで済ませる・我慢する（manage without）`,`go for＝〜を取りに行く／〜が好み・魅力を感じる／〜に挑む（fetch/be attracted to/attempt）`,`go without は欠乏の受容、go for は目標への積極的な追求`,`without＝〜が無いまま進む、for＝目標に向かって進む、という前置詞イメージの違い`],quiz:[{id:`q-gowithout-1`,question:`空所に入る適切な語はどれですか。「During the shortage, many households had to ( ) fresh vegetables.」`,options:[`go for`,`go without`,`go over`,`go through`],correctAnswer:1,explanation:`欠乏を受け入れるのは go without。`},{id:`q-gowithout-2`,question:`空所に入る適切な語はどれですか。「If you want that promotion, you should really ( ) it.」`,options:[`go without`,`go over`,`go for`,`go through`],correctAnswer:2,explanation:`積極的に挑むのは go for。`},{id:`q-gowithout-3`,question:`空所に入る適切な語はどれですか。「When it comes to music, she really ( ) jazz and blues.」`,options:[`goes without`,`goes for`,`goes over`,`goes through`],correctAnswer:1,explanation:`好みを表すのも go for。`},{id:`q-gowithout-4`,question:`go without の言い換えとして最も適切なものはどれですか。`,options:[`manage without something needed`,`fetch`,`be attracted to`,`attempt`],correctAnswer:0,explanation:`go without は「必要なものなしで済ませる」という意味です。`},{id:`q-gowithout-5`,question:`go without と go for の関係として正しいものはどれですか。`,options:[`欠乏の受容と積極的な追求で、対照的な方向を持つ`,`意味がほぼ同じ`,`両方とも「取りに行く」を意味する`,`go without の方が積極的な意味を持つ`],correctAnswer:0,explanation:`go without は消極的な欠乏の受容、go for は積極的な追求という対照的な意味です。`}]},{id:`go-off-go-under`,title:`go off と go under`,chapter:5,hubId:`go`,description:`同じ go でも off は「爆発する・鳴る・腐る」、under は「沈む・倒産する」。突発的に作動するか、下方向へ屈するかの違いです。`,content:`## 突発的に作動するのか、下方向へ屈するのか
+
+go off と go under はどちらも go のあとに副詞が続く形ですが、表すイメージが対照的です。
+
+- **go off** … 爆弾や銃が**爆発する・発射する**、アラームが**鳴る**、食べ物が**腐る**。
+- **go under** … 船が**沈む**、会社が**倒産する**。
+
+| 熟語 | 中心の意味 | 典型的な主語 |
+| --- | --- | --- |
+| go **off** | 爆発する・鳴る・腐る | a bomb, an alarm, milk |
+| go **under** | 沈む・倒産する | a ship, a company, a business |
+
+### go off の使い分け
+
+go off は文脈によって意味が大きく変わる多義語です。爆弾や銃が「爆発する・発射する」（The bomb went off in the middle of the night.）、目覚まし時計やアラームが「鳴る」（My alarm didn't go off this morning.）、牛乳や食べ物が古くなって「腐る・傷む」（This milk has gone off.）という3つの意味が特によく使われます。いずれも「静かだったものが突然作動し始める・状態が変化する」という共通のイメージがあります。
+
+### go under の使い分け
+
+go under は「水面より下へ沈む」という物理的な意味（The ship went under just minutes after the last passenger had been rescued.）から、「会社や事業が経営破綻する」という比喩的な意味（The charity will go under unless a generous donor can be found.）に広がります。どちらも「本来の水準・状態を維持できずに下へ落ちていく」というイメージで共通しています。
+
+### なぜ直訳で読み解けないか
+
+off は「静止状態が切り替わって作動する」イメージ、under は「基準となる水面・水準の下へ沈む」イメージを運びます。go off は「それまで静かだったものが突然作動する・変化する」、go under は「水面や経営基準の下に沈み込む」という、変化の方向の違いがそのまま意味の違いになっています。
+
+### よくある誤用
+
+⚠️ \`The small company went off due to the recession.\`（誤）。不況で倒産したなら go **under**。go off に「倒産する」の意味はありません。
+
+⚠️ \`The fire alarm went under during the drill.\`（誤）。避難訓練でアラームが鳴ったなら go **off**。go under は沈む・倒産する意味なので、アラームには使いません。
+
+🎯 覚え方：**off＝静止状態から突然作動する（爆発する・鳴る・腐る）**、**under＝基準の下へ沈み込む（沈没する・倒産する）**。`,keyPoints:[`go off＝爆弾や銃が爆発する、アラームが鳴る、食べ物が腐る（多義語なので文脈判断が必要）`,`go under＝船が沈む、会社が倒産する`,`off は静止状態から突然作動するイメージ、under は基準の下へ沈み込むイメージ`,`倒産は go under、アラームが鳴るのは go off（混同しやすいので要注意）`],quiz:[{id:`q-goundr-1`,question:`空所に入る適切な語はどれですか。「The fire alarm suddenly went ( ) in the middle of the night.」`,options:[`under`,`off`,`through`,`down`],correctAnswer:1,explanation:`アラームが鳴るという意味なので go off。`},{id:`q-goundr-2`,question:`空所に入る適切な語はどれですか。「Many small businesses went ( ) during the economic crisis.」`,options:[`off`,`under`,`over`,`without`],correctAnswer:1,explanation:`会社が倒産するという意味なので go under。`},{id:`q-goundr-3`,question:`go off の意味として適切でないものはどれですか。`,options:[`爆発する`,`(食べ物が)腐る`,`倒産する`,`アラームが鳴る`],correctAnswer:2,explanation:`倒産するのは go under の意味です。`},{id:`q-goundr-4`,question:`「この牛乳は腐っている」を最も自然に表す文はどれですか。`,options:[`This milk has gone under.`,`This milk has gone off.`,`This milk has gone through.`,`This milk has gone without.`],correctAnswer:1,explanation:`食べ物が腐るという意味では go off が使われます。`},{id:`q-goundr-5`,question:`go off と go under のイメージの違いとして正しい説明はどれですか。`,options:[`両方とも同じ方向のイメージ`,`off は静止状態から突然作動する、under は基準の下へ沈み込む`,`off は基準の下へ沈み込む、under は突然作動する`,`イメージの違いとは無関係`],correctAnswer:1,explanation:`off（突然の作動・変化）と under（下方向への沈み込み）は方向性が異なります。`}]},{id:`keep-up-with-keep-off`,title:`keep up with と keep off`,chapter:5,hubId:`keep`,description:`keep up with は「〜に遅れずについていく」、keep off は「〜を避ける・近づけない」。並走し続けるか、距離を保つかの違いです。`,content:`## 並走し続けるか、距離を保つか
 
 keep up with と keep off はどちらも「keep＋前置詞」ですが、up with の「同じ高さで並ぶ」イメージと off の「接触せず離れる」イメージで、対象との関わり方が正反対です。
 
@@ -7640,7 +7700,37 @@ on は「同じ状態のまま前へ持ち続ける」イメージなので、ke
 
 ⚠️ \`He kept to complaining about the weather all day.\`（誤）。文句を言い続けたのは keep **on**（complaining）。keep to は動作の反復には使いません。
 
-🎯 覚え方：**on＝そのまま前へ持続する（続ける）**、**to＝決められた枠とのつながりを保つ（外れない・守る）**。`,keyPoints:[`keep on＝続ける（continue/go on doing）。同じ動作の単純な継続`,`keep to＝（道・話題・約束・予定）から外れない（stick to/not deviate from）`,`keep on は動作の継続、keep to は決められた枠の遵守という違いがある`,`on＝そのまま前へ持続する、to＝枠とのつながりを保つ、という前置詞イメージの違い`],quiz:[{id:`q-keepon-1`,question:`空所に入る適切な語はどれですか。「Even after several failures, she ( ) trying.」`,options:[`kept to`,`kept off`,`kept on`,`kept up with`],correctAnswer:2,explanation:`動作を続けたのは keep on。`},{id:`q-keepon-2`,question:`空所に入る適切な語はどれですか。「During the meeting, please ( ) the agenda items only.」`,options:[`keep on`,`keep to`,`keep off`,`keep up with`],correctAnswer:1,explanation:`話題から外れないよう求めるのは keep to。`},{id:`q-keepon-3`,question:`空所に入る適切な語はどれですか。「Hikers are advised to ( ) the marked trail at all times.」`,options:[`keep on`,`keep off`,`keep to`,`keep up with`],correctAnswer:2,explanation:`決められた道から外れないよう求めるのも keep to。`},{id:`q-keepon-4`,question:`keep on の言い換えとして最も適切なものはどれですか。`,options:[`continue`,`stick to`,`avoid`,`not deviate from`],correctAnswer:0,explanation:`keep on は「続ける」（continue）という意味です。`},{id:`q-keepon-5`,question:`keep on と keep to の違いとして正しいものはどれですか。`,options:[`on＝動作の単純な継続、to＝決められた枠の遵守`,`両者に意味の違いはない`,`on＝枠を守る、to＝動作を続ける`,`keep to は doing の形を伴う`],correctAnswer:0,explanation:`keep on は継続、keep to は枠からの逸脱を防ぐという違いがあります。`}]},{id:`draw-on-draw-up`,title:`draw on と draw up`,chapter:5,hubId:`draw`,description:`draw on は「（知識・経験・資金）を利用する」、draw up は「（契約書等）を作成する・停車する」。資質を引き出すか、組み上げて完成させるかの違いです。`,content:`## 資質を引き出すか、組み上げるか
+🎯 覚え方：**on＝そのまま前へ持続する（続ける）**、**to＝決められた枠とのつながりを保つ（外れない・守る）**。`,keyPoints:[`keep on＝続ける（continue/go on doing）。同じ動作の単純な継続`,`keep to＝（道・話題・約束・予定）から外れない（stick to/not deviate from）`,`keep on は動作の継続、keep to は決められた枠の遵守という違いがある`,`on＝そのまま前へ持続する、to＝枠とのつながりを保つ、という前置詞イメージの違い`],quiz:[{id:`q-keepon-1`,question:`空所に入る適切な語はどれですか。「Even after several failures, she ( ) trying.」`,options:[`kept to`,`kept off`,`kept on`,`kept up with`],correctAnswer:2,explanation:`動作を続けたのは keep on。`},{id:`q-keepon-2`,question:`空所に入る適切な語はどれですか。「During the meeting, please ( ) the agenda items only.」`,options:[`keep on`,`keep to`,`keep off`,`keep up with`],correctAnswer:1,explanation:`話題から外れないよう求めるのは keep to。`},{id:`q-keepon-3`,question:`空所に入る適切な語はどれですか。「Hikers are advised to ( ) the marked trail at all times.」`,options:[`keep on`,`keep off`,`keep to`,`keep up with`],correctAnswer:2,explanation:`決められた道から外れないよう求めるのも keep to。`},{id:`q-keepon-4`,question:`keep on の言い換えとして最も適切なものはどれですか。`,options:[`continue`,`stick to`,`avoid`,`not deviate from`],correctAnswer:0,explanation:`keep on は「続ける」（continue）という意味です。`},{id:`q-keepon-5`,question:`keep on と keep to の違いとして正しいものはどれですか。`,options:[`on＝動作の単純な継続、to＝決められた枠の遵守`,`両者に意味の違いはない`,`on＝枠を守る、to＝動作を続ける`,`keep to は doing の形を伴う`],correctAnswer:0,explanation:`keep on は継続、keep to は枠からの逸脱を防ぐという違いがあります。`}]},{id:`keep-back-keep-down`,title:`keep back と keep down`,chapter:5,hubId:`keep`,description:`同じ keep でも back は「情報を隠す・距離を保つ」、down は「増加を抑える・低く保つ」。手元に留めるか、低い水準に押さえるかの違いです。`,content:`## 手元に留めるのか、低い水準に押さえるのか
+
+keep back と keep down はどちらも「抑える」という点で似ていますが、抑える対象と方向が異なります。
+
+- **keep back** … 情報を**隠す**、人や水を一定の場所より**近づけない**。
+- **keep down** … 費用や数量の**増加を抑える**、声などを**低く保つ**。
+
+| 熟語 | 中心の意味 | 典型的な目的語 |
+| --- | --- | --- |
+| keep **back** | 隠す・近づけない | information, the crowd, flood water |
+| keep **down** | 増加を抑える・低く保つ | costs, prices, one's voice |
+
+### keep back の使い分け
+
+keep back は「知っていることをすべて話さず、一部を自分の手元に留めておく」という意味（I suspect she's keeping something back.）で使われます。また「人や水などを、ある場所より先に進ませない」という物理的な意味（Barriers were built to keep back the flood water.）にも使われ、群衆整理の場面でも頻出します。
+
+### keep down の使い分け
+
+keep down は「費用や物価などが増加しないよう抑える」という意味（We need to keep our costs down.）が代表的です。「声の大きさを低く保つ」（Please keep your voice down.）という意味にも使われ、さらに「食べた物を吐かずに胃に留めておく」（She couldn't keep anything down after the operation.）という体調に関する意味もあります。
+
+### なぜ直訳で読み解けないか
+
+back は「本来出てくるはずのものを後ろに留め置く」イメージ、down は「本来上がっていくはずのものを低い位置に押さえつける」イメージを運びます。keep back は「情報や人を自分の手元・一定の場所より先に出さない」、keep down は「数値や声を低い水準に押さえ込む」という、抑える方向の違いがそのまま意味の違いになっています。
+
+### よくある誤用
+
+⚠️ \`We need to keep back our costs this year.\`（誤）。費用の増加を抑えるなら keep **down**。keep back は情報を隠す・距離を保つ意味なので、費用の抑制には使いません。
+
+⚠️ \`I suspect she's keeping something down about the accident.\`（誤）。情報を隠しているなら keep **back**。keep down は数量や声を低く保つ意味なので、情報の秘匿には使えません。
+
+🎯 覚え方：**back＝手元に留めて先に出さない（隠す・近づけない）**、**down＝低い水準に押さえ込む（増加を抑える・声を低くする）**。`,keyPoints:[`keep back＝知っている情報の一部を隠す、人や水を一定の場所より近づけない`,`keep down＝費用・物価などの増加を抑える、声を低く保つ、食べた物を吐かずにいる`,`back は手元に留めて先に出さないイメージ、down は低い水準に押さえ込むイメージ`,`費用の抑制は keep down、情報の秘匿は keep back（混同しやすいので要注意）`],quiz:[{id:`q-keepback-1`,question:`空所に入る適切な語はどれですか。「I think he is keeping something ( ) about what really happened.」`,options:[`down`,`back`,`off`,`up`],correctAnswer:1,explanation:`情報を隠しているという意味なので keep back。`},{id:`q-keepback-2`,question:`空所に入る適切な語はどれですか。「The company is working hard to keep its prices ( ).」`,options:[`back`,`down`,`off`,`to`],correctAnswer:1,explanation:`価格の上昇を抑えるという意味なので keep down。`},{id:`q-keepback-3`,question:`keep back の意味として最も適切なものはどれですか。`,options:[`費用の増加を抑える`,`情報を隠す・人を近づけない`,`声を低く保つ`,`食べ物を吐かずにいる`],correctAnswer:1,explanation:`keep back は情報を隠す、人や水を近づけないという意味です。`},{id:`q-keepback-4`,question:`「静かにして。声を落として」を最も自然に表す文はどれですか。`,options:[`Please keep your voice back.`,`Please keep your voice down.`,`Please keep your voice off.`,`Please keep your voice up.`],correctAnswer:1,explanation:`声を低く保つという意味では keep down が使われます。`},{id:`q-keepback-5`,question:`keep back と keep down の違いとして正しい説明はどれですか。`,options:[`両方とも同じ意味で置き換え可能`,`keep back は情報や人を手元に留める、keep down は数値や声を低く抑える`,`keep back は数値を低く抑える、keep down は情報を隠す`,`意味の違いとは無関係`],correctAnswer:1,explanation:`手元に留めるのが keep back、低い水準に押さえるのが keep down です。`}]},{id:`draw-on-draw-up`,title:`draw on と draw up`,chapter:5,hubId:`draw`,description:`draw on は「（知識・経験・資金）を利用する」、draw up は「（契約書等）を作成する・停車する」。資質を引き出すか、組み上げて完成させるかの違いです。`,content:`## 資質を引き出すか、組み上げるか
 
 draw on と draw up はどちらも「引く」の比喩ですが、on の「対象に乗って引き出す」イメージと up の「引っ張り上げて組み上げる」イメージで、対象と結果がまったく異なります。
 
@@ -7702,7 +7792,37 @@ back は「後方へ引き戻す」イメージなので、draw back は驚き�
 
 ⚠️ \`She drew out in disgust when she saw the insect.\`（誤）。後ずさりしたのは draw **back**。draw out は後退の意味を持ちません。
 
-🎯 覚え方：**back＝後方へ引き戻す（後ずさりする・ためらう）**、**out＝外へ引き伸ばす（長引かせる・引き出す）**。`,keyPoints:[`draw back＝後ずさりする／ためらって手を引く（retreat/hesitate）`,`draw out＝長引かせる／人の本音・才能を引き出す（prolong/encourage to talk）`,`draw back は後方への自己防衛的な動き、draw out は対象を外へ引き伸ばす動き`,`back＝後方へ引く、out＝外へ引き伸ばす、という前置詞イメージの違い`],quiz:[{id:`q-drawback-1`,question:`空所に入る適切な語はどれですか。「She ( ) in alarm when the dog suddenly barked at her.」`,options:[`drew out`,`drew back`,`drew up`,`drew on`],correctAnswer:1,explanation:`驚いて後ずさりしたのは draw back。`},{id:`q-drawback-2`,question:`空所に入る適切な語はどれですか。「The negotiations were deliberately ( ) to pressure the other side.」`,options:[`drawn back`,`drawn on`,`drawn out`,`drawn up`],correctAnswer:2,explanation:`交渉をわざと長引かせたのは draw out。`},{id:`q-drawback-3`,question:`空所に入る適切な語はどれですか。「A skilled counselor knows how to ( ) a reluctant client.」`,options:[`draw back`,`draw up`,`draw out`,`draw on`],correctAnswer:2,explanation:`本音を引き出すのも draw out。`},{id:`q-drawback-4`,question:`draw back の言い換えとして最も適切なものはどれですか。`,options:[`prolong`,`retreat`,`draft`,`make use of`],correctAnswer:1,explanation:`draw back は「後退する」（retreat）という意味です。`},{id:`q-drawback-5`,question:`draw back と draw out の違いとして正しいものはどれですか。`,options:[`back＝後方へ引く、out＝外へ引き伸ばす`,`両者に意味の違いはない`,`back＝長引かせる、out＝後ずさりする`,`両方とも同じ方向の動きを表す`],correctAnswer:0,explanation:`draw back は後退、draw out は引き伸ばし・引き出しを表します。`}]},{id:`give-in-give-way-to`,title:`give in と give way to`,chapter:5,hubId:`give`,description:`give in は「屈する・要求を受け入れる」、give way to は「〜に道を譲る・取って代わられる」。抵抗をやめるか、場所や立場を明け渡すかの違いです。`,content:`## 抵抗をやめるか、場所を明け渡すか
+🎯 覚え方：**back＝後方へ引き戻す（後ずさりする・ためらう）**、**out＝外へ引き伸ばす（長引かせる・引き出す）**。`,keyPoints:[`draw back＝後ずさりする／ためらって手を引く（retreat/hesitate）`,`draw out＝長引かせる／人の本音・才能を引き出す（prolong/encourage to talk）`,`draw back は後方への自己防衛的な動き、draw out は対象を外へ引き伸ばす動き`,`back＝後方へ引く、out＝外へ引き伸ばす、という前置詞イメージの違い`],quiz:[{id:`q-drawback-1`,question:`空所に入る適切な語はどれですか。「She ( ) in alarm when the dog suddenly barked at her.」`,options:[`drew out`,`drew back`,`drew up`,`drew on`],correctAnswer:1,explanation:`驚いて後ずさりしたのは draw back。`},{id:`q-drawback-2`,question:`空所に入る適切な語はどれですか。「The negotiations were deliberately ( ) to pressure the other side.」`,options:[`drawn back`,`drawn on`,`drawn out`,`drawn up`],correctAnswer:2,explanation:`交渉をわざと長引かせたのは draw out。`},{id:`q-drawback-3`,question:`空所に入る適切な語はどれですか。「A skilled counselor knows how to ( ) a reluctant client.」`,options:[`draw back`,`draw up`,`draw out`,`draw on`],correctAnswer:2,explanation:`本音を引き出すのも draw out。`},{id:`q-drawback-4`,question:`draw back の言い換えとして最も適切なものはどれですか。`,options:[`prolong`,`retreat`,`draft`,`make use of`],correctAnswer:1,explanation:`draw back は「後退する」（retreat）という意味です。`},{id:`q-drawback-5`,question:`draw back と draw out の違いとして正しいものはどれですか。`,options:[`back＝後方へ引く、out＝外へ引き伸ばす`,`両者に意味の違いはない`,`back＝長引かせる、out＝後ずさりする`,`両方とも同じ方向の動きを表す`],correctAnswer:0,explanation:`draw back は後退、draw out は引き伸ばし・引き出しを表します。`}]},{id:`draw-in-draw-near`,title:`draw in と draw near`,chapter:5,hubId:`draw`,description:`同じ draw でも in は「日が短くなる・人を巻き込む」、near は「時間・空間的に近づく」。似た「近づく」系の意味に見えて使える対象が違います。`,content:`## どちらも「近づく」系だが、使える対象が違う
+
+draw in と draw near はどちらも「何かが近づいてくる」感覚を持つ熟語ですが、主語にできるものが異なります。
+
+- **draw in** … 秋・冬が近づき、日が**短くなる**。人を**巻き込む**。
+- **draw near** … 時間的・空間的に**近づく**（行事・出来事・人など）。
+
+| 熟語 | 中心の意味 | 典型的な主語 |
+| --- | --- | --- |
+| draw **in** | 日が短くなる／人を巻き込む | the evenings, the nights／ a person, someone reluctant |
+| draw **near** | 時間・空間的に近づく | the exam, the wedding, a traveller |
+
+### draw in の使い分け
+
+draw in は季節の変化を表す定型表現として、"The evenings are drawing in." （秋が近づき、夕方が早く暗くなってきた）のように使われます。主語には evenings や nights のような「日照時間に関わる語」が来るのが特徴です。もう1つの意味として、乗り気でない人を「話や活動に巻き込む」（The salesman tried to draw her in.）という使い方もあります。
+
+### draw near の使い分け
+
+draw near は「行事や時期、人などが時間的・空間的に近づいてくる」という意味で、"As the exam draws near, students start to panic." のように使われます。draw in とは異なり、季節限定の表現ではなく、試験・結婚式・出来事など幅広い対象に使えるのが特徴です。
+
+### なぜ直訳で読み解けないか
+
+in は「内側へ入り込む・縮こまる」イメージで、日照時間が内側へ縮んでいく様子を表します。near は「距離や時間の隔たりが縮まる」イメージで、対象そのものが近づいてくる様子を表します。同じ「近づく」感覚でも、draw in は「日照という特定の現象」、draw near は「出来事や人という一般的な対象」に使うという住み分けがあります。
+
+### よくある誤用
+
+⚠️ \`The wedding day is drawing in.\`（誤・用法が不自然）。結婚式の日が近づいているなら draw **near**。draw in は日照時間が短くなる意味・人を巻き込む意味に限られ、一般的な出来事の接近には使いません。
+
+⚠️ \`The nights are drawing near in autumn.\`（誤・用法が不自然）。秋に日が短くなる現象なら draw **in**。draw near は出来事や人が近づく意味なので、季節特有の日照変化の表現としては不自然です。
+
+🎯 覚え方：**in＝日照時間が内側へ縮む（秋冬が近づく・巻き込む）**、**near＝出来事や人との隔たりが縮まる（一般的に近づく）**。`,keyPoints:[`draw in＝秋冬が近づき日が短くなる（The evenings are drawing in.）、人を話や活動に巻き込む`,`draw near＝行事・出来事・人などが時間的・空間的に近づく（幅広い対象に使える）`,`in は日照時間が縮むイメージに限定、near は一般的な「近づく」を表す`,`結婚式や試験が近づくのは draw near、秋が近づき日が短くなるのは draw in`],quiz:[{id:`q-drawin-1`,question:`空所に入る適切な語はどれですか。「As autumn arrives, the evenings are drawing ( ).」`,options:[`near`,`in`,`out`,`up`],correctAnswer:1,explanation:`秋が近づき日が短くなるという意味なので draw in。`},{id:`q-drawin-2`,question:`空所に入る適切な語はどれですか。「As the exam draws ( ), students start to feel nervous.」`,options:[`in`,`near`,`back`,`on`],correctAnswer:1,explanation:`試験の日が近づくという意味なので draw near。`},{id:`q-drawin-3`,question:`draw in の主語として自然なものはどれですか。`,options:[`the wedding`,`the exam`,`the evenings`,`a traveller`],correctAnswer:2,explanation:`draw in は日照時間に関わる語（evenings, nights）が主語になります。`},{id:`q-drawin-4`,question:`「販売員は彼女を話に引き込もうとした」を最も自然に表す文はどれですか。`,options:[`The salesman tried to draw her near.`,`The salesman tried to draw her in.`,`The salesman tried to draw her out.`,`The salesman tried to draw her back.`],correctAnswer:1,explanation:`人を巻き込むという意味では draw in が使われます。`},{id:`q-drawin-5`,question:`draw in と draw near の違いとして正しい説明はどれですか。`,options:[`両方とも全く同じ対象に使える`,`draw in は日照時間の変化・人を巻き込む意味に限定、draw near は幅広い対象の接近を表す`,`draw in は幅広い対象の接近、draw near は日照時間の変化に限定`,`意味の違いとは無関係`],correctAnswer:1,explanation:`draw in は季節・巻き込みに限定的、draw near は一般的な「近づく」を表します。`}]},{id:`give-in-give-way-to`,title:`give in と give way to`,chapter:5,hubId:`give`,description:`give in は「屈する・要求を受け入れる」、give way to は「〜に道を譲る・取って代わられる」。抵抗をやめるか、場所や立場を明け渡すかの違いです。`,content:`## 抵抗をやめるか、場所を明け渡すか
 
 give in と give way to はどちらも「屈する」という意味で重なりますが、in の「内側へ入り込む」イメージと way to の「道を譲る」イメージで、ニュアンスが微妙に異なります。
 
@@ -7764,7 +7884,37 @@ up は「持っていたものをすべて差し出して手放す」イメー�
 
 ⚠️ \`Please don't give up the ending of the movie.\`（誤）。結末を明かさないよう求めるのは give **away**。give up は秘密を漏らす意味を持ちません。
 
-🎯 覚え方：**up＝持っていたものを全て差し出す（あきらめる・やめる）**、**away＝自分から離れた場所へ渡す（譲る・漏らす）**。`,keyPoints:[`give up＝あきらめる・やめる（stop trying/abandon）。対象は習慣・希望・努力`,`give away＝無料で譲る・配る／（秘密を）漏らす（give for free/reveal）`,`give up は「やめる」対象、give away は「渡す・漏らす」対象という違い`,`up＝すべて差し出す、away＝自分から離れた所へ渡す、という前置詞イメージの違い`],quiz:[{id:`q-giveup-1`,question:`空所に入る適切な語はどれですか。「After the doctor’s warning, she finally ( ) smoking.」`,options:[`gave away`,`gave up`,`gave way to`,`gave in`],correctAnswer:1,explanation:`習慣をやめたのは give up。`},{id:`q-giveup-2`,question:`空所に入る適切な語はどれですか。「The bakery is ( ) free samples of its new bread today.」`,options:[`giving up`,`giving away`,`giving in`,`giving way to`],correctAnswer:1,explanation:`無料で配っているのは give away。`},{id:`q-giveup-3`,question:`空所に入る適切な語はどれですか。「His nervous laughter ( ) that he was lying.」`,options:[`gave up`,`gave way to`,`gave away`,`gave in`],correctAnswer:2,explanation:`正体・本心を漏らしたのも give away。`},{id:`q-giveup-4`,question:`give up の言い換えとして最も適切なものはどれですか。`,options:[`stop trying`,`give for free`,`reveal`,`yield the right of way`],correctAnswer:0,explanation:`give up は stop trying（あきらめる）という意味です。`},{id:`q-giveup-5`,question:`give up と give away の違いとして正しいものはどれですか。`,options:[`up＝やめる対象、away＝渡す・漏らす対象`,`両者に意味の違いはない`,`up＝渡す、away＝やめる`,`両方とも秘密の話にしか使わない`],correctAnswer:0,explanation:`give up は放棄、give away は譲渡・漏洩を表します。`}]},{id:`work-out-work-on`,title:`work out と work on`,chapter:5,hubId:`work`,description:`work out は「解決する・鍛える・うまくいく」、work on は「〜に取り組む・改善に努める」。答えを導き出すか、対象に働きかけ続けるかの違いです。`,content:`## 答えを導き出すか、働きかけ続けるか
+🎯 覚え方：**up＝持っていたものを全て差し出す（あきらめる・やめる）**、**away＝自分から離れた場所へ渡す（譲る・漏らす）**。`,keyPoints:[`give up＝あきらめる・やめる（stop trying/abandon）。対象は習慣・希望・努力`,`give away＝無料で譲る・配る／（秘密を）漏らす（give for free/reveal）`,`give up は「やめる」対象、give away は「渡す・漏らす」対象という違い`,`up＝すべて差し出す、away＝自分から離れた所へ渡す、という前置詞イメージの違い`],quiz:[{id:`q-giveup-1`,question:`空所に入る適切な語はどれですか。「After the doctor’s warning, she finally ( ) smoking.」`,options:[`gave away`,`gave up`,`gave way to`,`gave in`],correctAnswer:1,explanation:`習慣をやめたのは give up。`},{id:`q-giveup-2`,question:`空所に入る適切な語はどれですか。「The bakery is ( ) free samples of its new bread today.」`,options:[`giving up`,`giving away`,`giving in`,`giving way to`],correctAnswer:1,explanation:`無料で配っているのは give away。`},{id:`q-giveup-3`,question:`空所に入る適切な語はどれですか。「His nervous laughter ( ) that he was lying.」`,options:[`gave up`,`gave way to`,`gave away`,`gave in`],correctAnswer:2,explanation:`正体・本心を漏らしたのも give away。`},{id:`q-giveup-4`,question:`give up の言い換えとして最も適切なものはどれですか。`,options:[`stop trying`,`give for free`,`reveal`,`yield the right of way`],correctAnswer:0,explanation:`give up は stop trying（あきらめる）という意味です。`},{id:`q-giveup-5`,question:`give up と give away の違いとして正しいものはどれですか。`,options:[`up＝やめる対象、away＝渡す・漏らす対象`,`両者に意味の違いはない`,`up＝渡す、away＝やめる`,`両方とも秘密の話にしか使わない`],correctAnswer:0,explanation:`give up は放棄、give away は譲渡・漏洩を表します。`}]},{id:`give-off-give-out`,title:`give off と give out`,chapter:5,hubId:`give`,description:`同じ give でも off は「匂い・熱・光を発する」、out は「配る・尽きる・止まる」。自然に発するか、外へ出し切って尽きるかの違いです。`,content:`## 自然に発するのか、出し切って尽きるのか
+
+give off と give out はどちらも「give＋副詞」ですが、対象と方向が異なります。
+
+- **give off** … 匂い・熱・光・ガスなどを**発する**。
+- **give out** … 物を**配る**、機械や体力が**尽きる・止まる**、情報を**公表する**。
+
+| 熟語 | 中心の意味 | 典型的な目的語・主語 |
+| --- | --- | --- |
+| give **off** | 匂い・熱・光・ガスを発する | smoke, heat, a strange smell |
+| give **out** | 配る／尽きる・止まる／公表する | free tickets（配る）／ a battery, one's legs（尽きる）／ information（公表） |
+
+### give off の使い分け
+
+give off は「物質そのものが匂い・熱・光・ガスなどを外に向けて発する」という意味で、"The forest fire gave off thick black smoke." のように使われます。主語は人ではなく、火・化学物質・装置など「何かを発する源」になるのが特徴です。
+
+### give out の使い分け
+
+give out には主に3つの意味があります。1つ目は「大勢の人に物を配る」（They're giving out free tickets to the circus.）、2つ目は機械や体の一部が「働かなくなる・尽きる」（Her legs finally gave out after the marathon.）、3つ目は情報や物資が「尽きる・なくなる」（Food supplies will give out by the end of the week.）です。いずれも「持っていたものを外へ出し切って、それ以上出せなくなる」という共通のイメージがあります。
+
+### なぜ直訳で読み解けないか
+
+off は「物の表面から立ち上るように発する」イメージ、out は「内側にあるものを外へ出し切る」イメージを運びます。give off は「発生源から自然に立ち上る」、give out は「持っていた分を配り尽くす・出し尽くして空になる」という、対象の性質の違いがそのまま意味の違いになっています。
+
+### よくある誤用
+
+⚠️ \`The volunteers gave off free water bottles to runners.\`（誤）。水を配ったなら give **out**。give off は匂いや熱などを発する意味なので、物を配る文脈には使いません。
+
+⚠️ \`The chemical gave out a strange smell.\`（誤・意図不明瞭）。化学物質が匂いを発したなら give **off**。give out は配る・尽きるの意味なので、匂いの発生源には使いません。
+
+🎯 覚え方：**off＝発生源から自然に立ち上る（匂い・熱・光を発する）**、**out＝内側の分を外へ出し切る（配る・尽きる・公表する）**。`,keyPoints:[`give off＝匂い・熱・光・ガスなどを発する（火や化学物質などが主語）`,`give out＝大勢に配る、機械や体力が尽きる・止まる、情報が尽きる・公表される`,`off は発生源から自然に立ち上るイメージ、out は持っている分を出し切るイメージ`,`物を配るのは give out、匂いや熱を発するのは give off（混同しやすいので要注意）`],quiz:[{id:`q-giveoff-1`,question:`空所に入る適切な語はどれですか。「The burning wood gave ( ) a strong smell of smoke.」`,options:[`out`,`off`,`up`,`away`],correctAnswer:1,explanation:`匂いを発するという意味なので give off。`},{id:`q-giveoff-2`,question:`空所に入る適切な語はどれですか。「Volunteers gave ( ) free water bottles to all the runners.」`,options:[`off`,`out`,`up`,`in`],correctAnswer:1,explanation:`物を配るという意味なので give out。`},{id:`q-giveoff-3`,question:`give off の主語として自然なものはどれですか。`,options:[`volunteers`,`a battery`,`burning wood`,`free tickets`],correctAnswer:2,explanation:`give off は匂い・熱・光などの発生源が主語になります。`},{id:`q-giveoff-4`,question:`「マラソンの後、彼女の脚はついに限界を迎えた」を最も自然に表す文はどれですか。`,options:[`Her legs finally gave off after the marathon.`,`Her legs finally gave out after the marathon.`,`Her legs finally gave up after the marathon.`,`Her legs finally gave away after the marathon.`],correctAnswer:1,explanation:`体の一部が働かなくなるという意味では give out が使われます。`},{id:`q-giveoff-5`,question:`give off と give out の違いとして正しい説明はどれですか。`,options:[`両方とも「配る」という同じ意味`,`give off は匂い・熱・光を発する、give out は配る・尽きる・公表する`,`give off は配る、give out は匂いを発する`,`意味の違いとは無関係`],correctAnswer:1,explanation:`発生源から発するのが give off、出し切る・配るのが give out です。`}]},{id:`work-out-work-on`,title:`work out と work on`,chapter:5,hubId:`work`,description:`work out は「解決する・鍛える・うまくいく」、work on は「〜に取り組む・改善に努める」。答えを導き出すか、対象に働きかけ続けるかの違いです。`,content:`## 答えを導き出すか、働きかけ続けるか
 
 work out と work on はどちらも「取り組む」に関わりますが、out の「計算して答えを外へ導く」イメージと on の「対象に接触し続ける」イメージで、完了の有無が異なります。
 
@@ -8885,8 +9035,10 @@ break は「壊れる・砕ける」が核となる意味です。物理的な�
 | break off | off（接続を断ち切って切り離す） | （交渉・婚約等）を中断する・打ち切る |
 | break out | out（内部から外部へ突発的に噴き出す） | （戦争・火事等が）突発的に発生する・脱出する |
 | break up | up（全体がばらばらに砕ける） | 別れる・（集団が）解散する・粉々になる |
+| break away | away（拘束や集団から離れる） | 逃れる・離脱する |
+| break through | through（障壁を貫いて先へ進む） | 突破する・画期的な発見をする |
 
-break down は「構造そのものが崩れ落ちる」イメージで、機械の故障にも交渉の決裂にも使われます。break off は「つながっていたものを断ち切って切り離す」イメージで、婚約や外交関係のような継続していた関係の中断を表します。break out は「内部に閉じ込められていたものが外部へ突発的に噴き出す」イメージで、戦争・火事・発疹などの突然の発生や、監獄からの脱出に使われます。break up は「1つのまとまりがばらばらの破片に砕ける」イメージで、恋愛関係の終わりや集団の解散を表します。`,previewPairs:[`break down vs break off（故障する・決裂する／中断する・打ち切る）`,`break out vs break up（突発的に発生する・脱出する／別れる・解散する）`]},{id:`come`,verb:`come`,title:`come は前置詞でどう意味が変わる？`,description:`come の中心イメージ「（自分の方へ）来る・生じる」が、続く前置詞・副詞でどう枝分かれするかをまとめたハブページ。`,content:`## come の中心イメージ
+break down は「構造そのものが崩れ落ちる」イメージで、機械の故障にも交渉の決裂にも使われます。break off は「つながっていたものを断ち切って切り離す」イメージで、婚約や外交関係のような継続していた関係の中断を表します。break out は「内部に閉じ込められていたものが外部へ突発的に噴き出す」イメージで、戦争・火事・発疹などの突然の発生や、監獄からの脱出に使われます。break up は「1つのまとまりがばらばらの破片に砕ける」イメージで、恋愛関係の終わりや集団の解散を表します。break away は「拘束や集団から離れた場所へ逃れる」イメージで組織からの離脱を表し、break through は「立ちはだかる壁を貫いて先へ進む」イメージで突破・発見を表します。`,previewPairs:[`break down vs break off（故障する・決裂する／中断する・打ち切る）`,`break out vs break up（突発的に発生する・脱出する／別れる・解散する）`,`break away vs break through（離脱する／突破する・発見する）`]},{id:`come`,verb:`come`,title:`come は前置詞でどう意味が変わる？`,description:`come の中心イメージ「（自分の方へ）来る・生じる」が、続く前置詞・副詞でどう枝分かれするかをまとめたハブページ。`,content:`## come の中心イメージ
 
 come は「（話し手の方へ）来る」が核となる意味です。物理的な接近から、偶然の遭遇・事象の発生・獲得という比喩に広がり、続く前置詞・副詞が「何が」「どんな経緯で」やって来るかを決めます。
 
@@ -8909,8 +9061,10 @@ go は「（その場から）離れて進む」が核となる意味です。�
 | go through | through（始めから終わりまで通過する） | （つらい経験）をする／（手続きが）成立する |
 | go without | without（〜が無いまま進む） | 〜なしで済ませる |
 | go for | for（目標に向かって進む） | 〜を取りに行く／〜が好み／〜に挑む |
+| go off | off（静止状態から突然作動する） | 爆発する・鳴る・（食べ物が）腐る |
+| go under | under（基準の下へ沈み込む） | 沈む・倒産する |
 
-go over は「対象の表面を一通りなぞって見渡す」イメージで、資料の見直しや説明の反復に使われます。go through は「入口から出口まで通り抜ける」イメージで、つらい経験を通り抜けることにも、法案などの手続きが成立することにも使われます。go without は「あるべきものが無いまま前進する」イメージで欠乏への耐性を表し、go for は「目標に向かって突き進む」イメージから、物を取りに行く・好みである・挑戦するという意味に広がります。`,previewPairs:[`go over vs go through（見直す・復習する／つらい経験をする・手続きが通る）`,`go without vs go for（なしで済ませる／取りに行く・好み・挑む）`]},{id:`keep`,verb:`keep`,title:`keep は前置詞でどう意味が変わる？`,description:`keep の中心イメージ「（ある状態を）保ち続ける」が、続く前置詞・副詞でどう枝分かれするかをまとめたハブページ。`,content:`## keep の中心イメージ
+go over は「対象の表面を一通りなぞって見渡す」イメージで、資料の見直しや説明の反復に使われます。go through は「入口から出口まで通り抜ける」イメージで、つらい経験を通り抜けることにも、法案などの手続きが成立することにも使われます。go without は「あるべきものが無いまま前進する」イメージで欠乏への耐性を表し、go for は「目標に向かって突き進む」イメージから、物を取りに行く・好みである・挑戦するという意味に広がります。go off は「静止状態から突然作動する」イメージで爆発・アラーム・食べ物の劣化を表し、go under は「基準の下へ沈み込む」イメージで沈没・倒産を表します。`,previewPairs:[`go over vs go through（見直す・復習する／つらい経験をする・手続きが通る）`,`go without vs go for（なしで済ませる／取りに行く・好み・挑む）`,`go off vs go under（爆発する・鳴る・腐る／沈む・倒産する）`]},{id:`keep`,verb:`keep`,title:`keep は前置詞でどう意味が変わる？`,description:`keep の中心イメージ「（ある状態を）保ち続ける」が、続く前置詞・副詞でどう枝分かれするかをまとめたハブページ。`,content:`## keep の中心イメージ
 
 keep は「（状態や動作を）保ち続ける」が核となる意味です。継続の意味から、並走・回避・遵守という比喩に広がり、続く前置詞・副詞が「何と、どんな関係を保ち続けるか」を決めます。
 
@@ -8920,8 +9074,10 @@ keep は「（状態や動作を）保ち続ける」が核となる意味です
 | keep off | off（接触せず距離を保つ） | 〜を避ける・近づけない |
 | keep on | on（そのまま前へ持続する） | 続ける |
 | keep to | to（対象の枠内に留まる） | （道・話題・約束）から外れない |
+| keep back | back（手元に留めて先に出さない） | 情報を隠す・人や水を近づけない |
+| keep down | down（低い水準に押さえ込む） | 増加を抑える・声を低く保つ |
 
-keep up with は「相手と同じ高さで並走し続ける」イメージで、流行や進度に遅れずついていく場面に使われます。keep off は「対象に接触せず距離を保つ」イメージで、食べ物を控えることにも、話題を避けることにも、人や動物を近づけないことにも使われます。keep on は「同じ動作をそのまま持続する」イメージで単純な継続を表し、keep to は「決められた枠の中に留まり続ける」イメージから、道を外れない・約束を守るという意味に広がります。`,previewPairs:[`keep up with vs keep off（遅れずについていく／避ける・近づけない）`,`keep on vs keep to（続ける／外れない・守る）`]},{id:`draw`,verb:`draw`,title:`draw は前置詞でどう意味が変わる？`,description:`draw の中心イメージ「引っ張り出す」が、続く前置詞・副詞でどう枝分かれするかをまとめたハブページ。`,content:`## draw の中心イメージ
+keep up with は「相手と同じ高さで並走し続ける」イメージで、流行や進度に遅れずついていく場面に使われます。keep off は「対象に接触せず距離を保つ」イメージで、食べ物を控えることにも、話題を避けることにも、人や動物を近づけないことにも使われます。keep on は「同じ動作をそのまま持続する」イメージで単純な継続を表し、keep to は「決められた枠の中に留まり続ける」イメージから、道を外れない・約束を守るという意味に広がります。keep back は「情報や人を手元に留めて先に出さない」イメージで秘匿や距離の確保を表し、keep down は「低い水準に押さえ込む」イメージで費用の抑制や声の抑制を表します。`,previewPairs:[`keep up with vs keep off（遅れずについていく／避ける・近づけない）`,`keep on vs keep to（続ける／外れない・守る）`,`keep back vs keep down（隠す・近づけない／増加を抑える・声を低くする）`]},{id:`draw`,verb:`draw`,title:`draw は前置詞でどう意味が変わる？`,description:`draw の中心イメージ「引っ張り出す」が、続く前置詞・副詞でどう枝分かれするかをまとめたハブページ。`,content:`## draw の中心イメージ
 
 draw は「（力を加えて）引く・引っ張り出す」が核となる意味です。物理的に引く動作から、資源の活用・書類の作成・感情の反応という比喩に広がり、続く前置詞・副詞が「何を、どちらの向きに引くか」を決めます。
 
@@ -8931,8 +9087,10 @@ draw は「（力を加えて）引く・引っ張り出す」が核となる意
 | draw up | up（引っ張り上げて組み上げる） | （契約書等）を作成する／停車する |
 | draw back | back（後方へ引く） | 後ずさりする／ためらって手を引く |
 | draw out | out（外へ引き伸ばす） | 長引かせる／人の本音を引き出す |
+| draw in | in（日照時間が内側へ縮む） | 秋冬が近づき日が短くなる／人を巻き込む |
+| draw near | near（隔たりが縮まる） | 出来事や人が時間・空間的に近づく |
 
-draw on は「蓄積された資質の上に手を伸ばして力を引き出す」イメージで、知識や経験を活用する場面に使われます。draw up は「散在する条項を組み上げて文書化する」イメージから契約書の作成に、また「車が引かれるように止まる」イメージから停車にも使われます。draw back は「驚きや恐れで後ろに引く」動作、draw out は「言葉や時間を外へ引き伸ばす」イメージから、話を長引かせることにも、人の内気な本音を引き出すことにも使われます。`,previewPairs:[`draw on vs draw up（利用する／作成する・停車する）`,`draw back vs draw out（後ずさりする／長引かせる・引き出す）`]},{id:`give`,verb:`give`,title:`give は前置詞でどう意味が変わる？`,description:`give の中心イメージ「相手に渡す」が、続く前置詞・副詞でどう枝分かれするかをまとめたハブページ。`,content:`## give の中心イメージ
+draw on は「蓄積された資質の上に手を伸ばして力を引き出す」イメージで、知識や経験を活用する場面に使われます。draw up は「散在する条項を組み上げて文書化する」イメージから契約書の作成に、また「車が引かれるように止まる」イメージから停車にも使われます。draw back は「驚きや恐れで後ろに引く」動作、draw out は「言葉や時間を外へ引き伸ばす」イメージから、話を長引かせることにも、人の内気な本音を引き出すことにも使われます。draw in は「日照時間が内側へ縮む」イメージで秋冬の接近を表す限定的な表現、draw near は「隔たりが縮まる」イメージで出来事や人の接近全般を表します。`,previewPairs:[`draw on vs draw up（利用する／作成する・停車する）`,`draw back vs draw out（後ずさりする／長引かせる・引き出す）`,`draw in vs draw near（秋冬が近づく・巻き込む／出来事や人が近づく）`]},{id:`give`,verb:`give`,title:`give は前置詞でどう意味が変わる？`,description:`give の中心イメージ「相手に渡す」が、続く前置詞・副詞でどう枝分かれするかをまとめたハブページ。`,content:`## give の中心イメージ
 
 give は「（自分から相手へ）渡す」が核となる意味です。物を渡す動作から、抵抗の放棄・秘密の暴露・習慣の放棄という比喩に広がり、続く前置詞・副詞が「何を、どこへ渡すか」を決めます。
 
@@ -8942,8 +9100,10 @@ give は「（自分から相手へ）渡す」が核となる意味です。物
 | give way to | way to（道を譲って進ませる） | 〜に取って代わられる／屈する |
 | give up | up（すべて手放して差し出す） | あきらめる・やめる |
 | give away | away（自分から離して渡す） | 無料で譲る・（秘密を）漏らす |
+| give off | off（発生源から自然に立ち上る） | 匂い・熱・光・ガスを発する |
+| give out | out（内側の分を出し切る） | 配る・尽きる・止まる・公表する |
 
-give in は「抵抗をやめて内側へ入り込むように降伏する」イメージで、要求や圧力に屈する場面に使われます。give way to は「自分の場所を譲って相手を先に通す」イメージから、道を譲ることにも、感情や別のものに取って代わられることにも広がります。give up は「持っていたものを全て手放す」イメージからあきらめる・やめるを表し、give away は「自分の手から離れた場所へ渡す」イメージから、無料で譲ることにも、秘密をうっかり漏らすことにも使われます。`,previewPairs:[`give in vs give way to（屈する／取って代わられる・屈する）`,`give up vs give away（あきらめる／無料で譲る・秘密を漏らす）`]},{id:`work`,verb:`work`,title:`work は前置詞でどう意味が変わる？`,description:`work の中心イメージ「働きかける」が、続く前置詞・副詞でどう枝分かれするかをまとめたハブページ。`,content:`## work の中心イメージ
+give in は「抵抗をやめて内側へ入り込むように降伏する」イメージで、要求や圧力に屈する場面に使われます。give way to は「自分の場所を譲って相手を先に通す」イメージから、道を譲ることにも、感情や別のものに取って代わられることにも広がります。give up は「持っていたものを全て手放す」イメージからあきらめる・やめるを表し、give away は「自分の手から離れた場所へ渡す」イメージから、無料で譲ることにも、秘密をうっかり漏らすことにも使われます。give off は「発生源から自然に立ち上る」イメージで匂いや熱の発生を表し、give out は「内側にある分を出し切る」イメージで配布・枯渇・公表を表します。`,previewPairs:[`give in vs give way to（屈する／取って代わられる・屈する）`,`give up vs give away（あきらめる／無料で譲る・秘密を漏らす）`,`give off vs give out（匂い・熱を発する／配る・尽きる・公表する）`]},{id:`work`,verb:`work`,title:`work は前置詞でどう意味が変わる？`,description:`work の中心イメージ「働きかける」が、続く前置詞・副詞でどう枝分かれするかをまとめたハブページ。`,content:`## work の中心イメージ
 
 work は「（対象に力を加えて）働きかける」が核となる意味です。労働の意味から、解決・改善・鍛錬という比喩に広がり、続く前置詞・副詞が「働きかけた結果どうなるか」を決めます。
 
