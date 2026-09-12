@@ -24225,6 +24225,92 @@ up は「隙間や傷口を詰めて閉じる」イメージなので、close up
     ],
   },
   {
+    id: 'close-out-close-on',
+    title: 'close out と close on',
+    chapter: 5,
+    hubId: 'close',
+    description: '同じ close でも out は「最後までやり切る・在庫を売り切る」、on は「取引を成立させる・差を詰める」。終わらせる方向か、近づいて成立させる方向かの違いです。',
+    content: `## 終わらせるのか、近づいて成立させるのか
+
+close out と close on はどちらも close のあとに副詞・前置詞が続く形ですが、向かう方向が異なります。
+
+- **close out** … 物事を**最後までやり切って終える**、在庫を**売り切る**。
+- **close on** … 取引を**成立させる**、相手との差を**詰める**。
+
+| 熟語 | 中心の意味 | 典型的な文脈 |
+| --- | --- | --- |
+| close **out** | 締めくくる・在庫処分する | the season, the year（締めくくる）／ merchandise（売り切る） |
+| close **on** | 取引を成立させる／差を詰める | a house purchase（成立させる）／ the leaders in a race（詰める） |
+
+### close out の使い分け
+
+close out は「必要な最後の一手を打って物事を完了させる」という意味で、"They closed out the season by winning three of their final five games." のように使われます。主にアメリカ英語で「在庫を安く売り切る」（close out merchandise）という意味でも使われ、名詞形 closeout（在庫処分セール）としても定着しています。
+
+### close on の使い分け
+
+close on はアメリカ英語で「不動産購入などの重要な金銭契約を正式に完了させる」（We're going to close on our house next Friday.）という意味で頻出します。もう1つ、レースや競争で「先頭との差を詰める」（He began to close on the race leaders.）という意味もあり、どちらも「対象に向かって最終段階まで近づき、そこで区切りをつける」イメージで共通しています。
+
+### なぜ直訳で読み解けないか
+
+out は「内側にあるものを最後まで出し切って終わらせる」イメージ、on は「対象に接触するところまで近づいて留まる」イメージを運びます。close out は「シーズンや在庫を出し切って締めくくる」、close on は「契約や競争相手に接触するところまで近づいて成立・接近させる」という、終わらせる方向と近づく方向の違いが意味の違いになっています。
+
+### よくある誤用
+
+⚠️ \`We're going to close out our house next Friday.\`（誤・意図不明瞭）。住宅購入の契約を完了するなら close **on**（close on our house）。close out は締めくくる・売り切る意味なので、契約成立には使いません。
+
+⚠️ \`The runner closed out the leader in the final lap.\`（誤）。首位との差を詰めたなら close **on** the leader。close out はシーズンや在庫を終わらせる意味なので、追い上げる文脈には使えません。
+
+🎯 覚え方：**out＝最後まで出し切って締めくくる（終える・売り切る）**、**on＝対象に接触するところまで近づく（契約を成立させる・差を詰める）**。`,
+    keyPoints: [
+      'close out＝シーズンや年を締めくくる、在庫を安く売り切る（米語のcloseoutセール）',
+      'close on＝不動産などの契約を成立させる（米語）、レースで先頭との差を詰める',
+      'out は出し切って終わらせるイメージ、on は対象に接触するところまで近づくイメージ',
+      '契約成立は close on、シーズンの締めくくりや在庫処分は close out',
+    ],
+    quiz: [
+      {
+        id: 'q-closeout-1',
+        question: '空所に入る適切な語はどれですか。「The team closed ( ) the season with three straight wins.」',
+        options: ['on', 'out', 'up', 'down'],
+        correctAnswer: 1,
+        explanation: 'シーズンを締めくくるという意味なので close out。',
+      },
+      {
+        id: 'q-closeout-2',
+        question: '空所に入る適切な語はどれですか。「We are going to close ( ) our new house next Friday.」',
+        options: ['out', 'on', 'off', 'up'],
+        correctAnswer: 1,
+        explanation: '住宅購入契約を成立させるという意味なので close on。',
+      },
+      {
+        id: 'q-closeout-3',
+        question: 'close out の意味として適切でないものはどれですか。',
+        options: ['シーズンを締めくくる', '在庫を売り切る', '契約を成立させる', '物事を完了させる'],
+        correctAnswer: 2,
+        explanation: '契約を成立させるのは close on の意味です。',
+      },
+      {
+        id: 'q-closeout-4',
+        question: '「彼はレースの終盤で首位との差を詰めた」を最も自然に表す文はどれですか。',
+        options: ['He closed out the leaders in the final stretch.', 'He closed on the leaders in the final stretch.', 'He closed off the leaders in the final stretch.', 'He closed up the leaders in the final stretch.'],
+        correctAnswer: 1,
+        explanation: '差を詰めるという意味では close on が使われます。',
+      },
+      {
+        id: 'q-closeout-5',
+        question: 'close out と close on の違いとして正しい説明はどれですか。',
+        options: [
+          '両方とも同じ意味で置き換え可能',
+          'close out は最後までやり切って終える、close on は契約成立・差を詰める',
+          'close out は差を詰める、close on は最後までやり切って終える',
+          '意味の違いとは無関係',
+        ],
+        correctAnswer: 1,
+        explanation: '締めくくりが close out、成立・接近が close on です。',
+      },
+    ],
+  },
+  {
     id: 'count-on-count-out',
     title: 'count on と count out',
     chapter: 5,
@@ -25787,6 +25873,92 @@ out は「良好だった枠組みの外へ関係が落ちて出る」イメー�
     ],
   },
   {
+    id: 'fall-behind-fall-apart',
+    title: 'fall behind と fall apart',
+    chapter: 5,
+    hubId: 'fall',
+    description: '同じ fall でも behind は「遅れる」、apart は「バラバラに崩れる」。進度で後れを取るか、全体が崩壊するかの違いです。',
+    content: `## 進度で後れを取るのか、全体が崩れるのか
+
+fall behind と fall apart はどちらも「良くない状態に陥る」点で似ていますが、陥り方が異なります。
+
+- **fall behind** … 予定・進度・支払いなどで**遅れる**。
+- **fall apart** … 物が**バラバラに壊れる**、組織や関係が**崩壊する**、人が精神的に**取り乱す**。
+
+| 熟語 | 中心の意味 | 典型的な文脈 |
+| --- | --- | --- |
+| fall **behind** | 遅れる | schedule, work, mortgage payments |
+| fall **apart** | 壊れる・崩壊する・取り乱す | old boots（物）／ an agreement（組織）／ a person after a loss（精神） |
+
+### fall behind の使い分け
+
+fall behind は「決められたペースや期限に間に合わなくなる」という意味で、"We fell behind schedule because of the storm." のように使われます。仕事や勉強の遅れ（fall behind with schoolwork）、住宅ローンなどの支払いの滞納（fall behind on the mortgage payments）にも使われ、いずれも「本来のペースより後方に位置してしまう」イメージです。
+
+### fall apart の使い分け
+
+fall apart は文字通り「古い物が壊れてバラバラになる」（My old boots are falling apart.）という意味から、「組織・計画・合意がうまく機能しなくなる」（The agreement fell apart after months of negotiation.）、「人が精神的に立ち直れなくなる」（He fell apart when his wife died.）という意味に広がります。いずれも「一つにまとまっていたものが崩れて機能しなくなる」イメージで共通しています。
+
+### なぜ直訳で読み解けないか
+
+behind は「本来いるべき位置より後ろに取り残される」イメージ、apart は「一つだったものがバラバラの部分に分かれる」イメージを運びます。fall behind は「ペースについていけず後方に落ちる」、fall apart は「まとまりを保てず崩れ落ちる」という、位置関係の遅れと構造の崩壊という違いが意味の違いになっています。
+
+### よくある誤用
+
+⚠️ \`Their relationship fell behind after they moved to another city.\`（誤・意図不明瞭）。関係が壊れたなら fall **apart**。fall behind は進度の遅れを表すので、関係の破綻には使いません。
+
+⚠️ \`I've fallen apart on my rent payments this month.\`（誤）。家賃の支払いが遅れているなら fall **behind**（fall behind on rent payments）。fall apart は崩壊・取り乱しの意味なので、支払いの遅延には使えません。
+
+🎯 覚え方：**behind＝ペースより後ろに取り残される（遅れる）**、**apart＝まとまりが崩れてバラバラになる（壊れる・崩壊する）**。`,
+    keyPoints: [
+      'fall behind＝予定・仕事・支払いなどで遅れる（fall behind on/with 〜 の形が多い）',
+      'fall apart＝物が壊れる、組織や合意が機能しなくなる、人が精神的に取り乱す',
+      'behind はペースより後ろに取り残されるイメージ、apart はまとまりが崩れるイメージ',
+      '支払いの滞納は fall behind、関係や物の崩壊は fall apart（混同しやすいので要注意）',
+    ],
+    quiz: [
+      {
+        id: 'q-fallbehind-1',
+        question: '空所に入る適切な語はどれですか。「We fell ( ) schedule because of the bad weather.」',
+        options: ['apart', 'behind', 'through', 'for'],
+        correctAnswer: 1,
+        explanation: '予定より遅れるという意味なので fall behind。',
+      },
+      {
+        id: 'q-fallbehind-2',
+        question: '空所に入る適切な語はどれですか。「The negotiations fell ( ) after months of disagreement.」',
+        options: ['behind', 'apart', 'out', 'back on'],
+        correctAnswer: 1,
+        explanation: '交渉が決裂する・機能しなくなるという意味なので fall apart。',
+      },
+      {
+        id: 'q-fallbehind-3',
+        question: 'fall behind の意味として最も適切なものはどれですか。',
+        options: ['バラバラに壊れる', '予定・進度で遅れる', '恋に落ちる', '精神的に取り乱す'],
+        correctAnswer: 1,
+        explanation: 'fall behind は進度や予定で遅れることを表します。',
+      },
+      {
+        id: 'q-fallbehind-4',
+        question: '「彼は妻を亡くしたあと、すっかり取り乱してしまった」を最も自然に表す文はどれですか。',
+        options: ['He fell behind when his wife died.', 'He fell apart when his wife died.', 'He fell for when his wife died.', 'He fell out when his wife died.'],
+        correctAnswer: 1,
+        explanation: '精神的に取り乱すという意味では fall apart が使われます。',
+      },
+      {
+        id: 'q-fallbehind-5',
+        question: 'fall behind と fall apart の違いとして正しい説明はどれですか。',
+        options: [
+          '両方とも同じ意味で置き換え可能',
+          'fall behind は進度で遅れる、fall apart はまとまりが崩れる・壊れる',
+          'fall behind はまとまりが崩れる、fall apart は進度で遅れる',
+          '意味の違いとは無関係',
+        ],
+        correctAnswer: 1,
+        explanation: '遅れが fall behind、崩壊が fall apart です。',
+      },
+    ],
+  },
+  {
     id: 'clear-up-clear-out',
     title: 'clear up と clear out',
     chapter: 5,
@@ -26131,6 +26303,92 @@ off は「運んでいたものを本体から切り離してその場に置い�
         ],
         correctAnswer: 0,
         explanation: 'drop off は多義的（送り届ける・減る・眠る）、drop by は訪問を表します。',
+      },
+    ],
+  },
+  {
+    id: 'drop-back-drop-away',
+    title: 'drop back と drop away',
+    chapter: 5,
+    hubId: 'drop',
+    description: '同じ drop でも back は「後方の順位に下がる」、away は「徐々に少なくなる・消えていく」。位置が後ろへ落ちるか、量や勢いが目減りしていくかの違いです。',
+    content: `## 位置が後ろへ落ちるのか、量が目減りしていくのか
+
+drop back と drop away はどちらも drop のあとに副詞が続く形ですが、対象への働き方が異なります。
+
+- **drop back** … レースや順位で**後方に下がる**、後ろへ**下がって位置を取る**。
+- **drop away** … 数量・支持・音などが**徐々に少なくなる・消えていく**。
+
+| 熟語 | 中心の意味 | 典型的な主語 |
+| --- | --- | --- |
+| drop **back** | 後方に下がる | a runner, a value（値が元の水準に戻る） |
+| drop **away** | 徐々に減って消える | support, sales, land（傾斜する） |
+
+### drop back の使い分け
+
+drop back は「集団の中で先頭から後方の位置へ下がる」という意味で、"I was at the front of the race, but I dropped back when I got tired." のように使われます。アメリカンフットボールでは「パスを投げるために数歩後ろに下がる」動作を指す専門的な用法もあり、いずれも「前にいた位置から後方へ移動する」イメージです。
+
+### drop away の使い分け
+
+drop away は「数量や勢いが少しずつ、しかし着実に減っていく」という意味で、"Support for the policy has begun to drop away." のように使われます。「地面が急に傾斜して低くなる」（The land drops away sharply behind the house.）という物理的な意味もあり、どちらも「それまであったものが徐々に失われていく」イメージで共通しています。
+
+### なぜ直訳で読み解けないか
+
+back は「元いた場所より後ろの位置へ」向かう方向、away は「本体から離れて徐々に消えていく」方向を運びます。drop back は「集団内での相対的な位置が後ろへ下がる」、drop away は「量や勢いが本体から少しずつ離れて失われていく」という、位置の後退と量の減少という違いが意味の違いになっています。
+
+### よくある誤用
+
+⚠️ \`Public support for the plan dropped back sharply.\`（誤・意図不明瞭）。支持が徐々に失われたなら drop **away**。drop back は順位・位置が後方に下がる意味なので、支持率の減少には不自然です。
+
+⚠️ \`The tired runner dropped away to last place.\`（誤）。順位が後方に下がったなら drop **back**。drop away は量が徐々に消えていく意味なので、順位の後退には使いません。
+
+🎯 覚え方：**back＝集団内で後ろの位置へ下がる（順位が落ちる）**、**away＝本体から少しずつ離れて消えていく（支持や量が減る）**。`,
+    keyPoints: [
+      'drop back＝レースや順位で後方に下がる、後ろへ下がって位置を取る',
+      'drop away＝支持・数量・音などが徐々に少なくなる・消えていく、地面が急に傾斜する',
+      'back は集団内での位置の後退を表し、away は量や勢いの目減りを表す',
+      '順位が下がるのは drop back、支持や売上が減るのは drop away',
+    ],
+    quiz: [
+      {
+        id: 'q-dropback-1',
+        question: '空所に入る適切な語はどれですか。「He was leading the race but dropped ( ) in the final lap.」',
+        options: ['away', 'back', 'off', 'out'],
+        correctAnswer: 1,
+        explanation: '順位が後方に下がるという意味なので drop back。',
+      },
+      {
+        id: 'q-dropback-2',
+        question: '空所に入る適切な語はどれですか。「Public support for the reform gradually dropped ( ).」',
+        options: ['back', 'away', 'in', 'by'],
+        correctAnswer: 1,
+        explanation: '支持が徐々に失われるという意味なので drop away。',
+      },
+      {
+        id: 'q-dropback-3',
+        question: 'drop back の意味として最も適切なものはどれですか。',
+        options: ['支持が徐々に減る', 'レースや順位で後方に下がる', '地面が傾斜する', '眠りに落ちる'],
+        correctAnswer: 1,
+        explanation: 'drop back は集団内で後方の位置へ下がることを表します。',
+      },
+      {
+        id: 'q-dropback-4',
+        question: '「その家の裏の土地は急に傾斜している」を最も自然に表す文はどれですか。',
+        options: ['The land drops back sharply behind the house.', 'The land drops away sharply behind the house.', 'The land drops off sharply behind the house.', 'The land drops out sharply behind the house.'],
+        correctAnswer: 1,
+        explanation: '地面が傾斜するという意味では drop away が使われます。',
+      },
+      {
+        id: 'q-dropback-5',
+        question: 'drop back と drop away の違いとして正しい説明はどれですか。',
+        options: [
+          '両方とも同じ意味で置き換え可能',
+          'drop back は集団内で位置が後退する、drop away は量や勢いが徐々に減って消える',
+          'drop back は量が減る、drop away は位置が後退する',
+          '意味の違いとは無関係',
+        ],
+        correctAnswer: 1,
+        explanation: '位置の後退が drop back、量・勢いの目減りが drop away です。',
       },
     ],
   },
@@ -26483,6 +26741,92 @@ out は「駐車スペースや合意の枠組みの外へ引き出る」イメ�
     ],
   },
   {
+    id: 'pull-up-pull-together',
+    title: 'pull up と pull together',
+    chapter: 5,
+    hubId: 'pull',
+    description: '同じ pull でも up は「車が停止する・叱責する」、together は「協力する・立ち直る」。その場で止まるか、力を合わせるかの違いです。',
+    content: `## その場で止まるのか、力を合わせるのか
+
+pull up と pull together はどちらも pull のあとに副詞が続く形ですが、対象の動きがまったく異なります。
+
+- **pull up** … 車などが**停止する**、椅子を**引き寄せる**、人の言動を**叱責する**。
+- **pull together** … 集団が力を合わせて**協力する**、人が**立ち直る・冷静さを取り戻す**。
+
+| 熟語 | 中心の意味 | 典型的な主語・目的語 |
+| --- | --- | --- |
+| pull **up** | 停止する／叱責する | a car（停止）／ a chair（引き寄せる）／ an employee（叱責） |
+| pull together | 協力する／立ち直る | a team（協力）／ oneself（立ち直る） |
+
+### pull up の使い分け
+
+pull up の基本は「走っていた車がその場で停止する」（A car pulled up outside the bank.）です。「椅子を近くへ引き寄せる」（Pull up a chair and join us.）という意味もあり、さらに「相手の間違いを指摘して叱る」（The manager pulled him up for being late again.）という意味にも広がります。
+
+### pull together の使い分け
+
+pull together は「複数の人がバラバラに動くのをやめ、力を合わせて共通の目標に取り組む」という意味で、"The whole team pulled together to finish the project on time." のように使われます。再帰代名詞を伴う **pull yourself together**（自分を落ち着かせる・取り乱すのをやめる）という定型表現もよく使われ、感情的に動揺した人が冷静さを取り戻す場面で使われます。
+
+### なぜ直訳で読み解けないか
+
+up は「動きを引き上げて止める」イメージ、together は「バラバラなものを1つに引き寄せる」イメージを運びます。pull up は「進んでいた動きをその場で引き止める」、pull together は「バラバラだった力や心を1つにまとめる」という、停止させるかまとめるかの違いが意味の違いになっています。
+
+### よくある誤用
+
+⚠️ \`The whole team pulled up to finish the project on time.\`（誤・意図不明瞭）。チームが力を合わせたなら pull **together**。pull up は停止・叱責の意味なので、協力の文脈には使いません。
+
+⚠️ \`The car pulled together outside the bank.\`（誤）。車が停止したなら pull **up**。pull together は協力・立ち直りの意味なので、車の停止には使えません。
+
+🎯 覚え方：**up＝動きを引き上げて止める（停止する・叱責する）**、**together＝バラバラなものを1つにまとめる（協力する・立ち直る）**。`,
+    keyPoints: [
+      'pull up＝車などが停止する、椅子を引き寄せる、人の言動を叱責する',
+      'pull together＝集団が協力する、pull yourself together で自分を落ち着かせる・立ち直る',
+      'up は動きを引き止めるイメージ、together はバラバラなものを1つにまとめるイメージ',
+      'チームの協力は pull together、車の停止は pull up（混同しやすいので要注意）',
+    ],
+    quiz: [
+      {
+        id: 'q-pullup-1',
+        question: '空所に入る適切な語はどれですか。「A taxi pulled ( ) right in front of the hotel.」',
+        options: ['together', 'up', 'out', 'over'],
+        correctAnswer: 1,
+        explanation: '車が停止するという意味なので pull up。',
+      },
+      {
+        id: 'q-pullup-2',
+        question: '空所に入る適切な語はどれですか。「The whole department pulled ( ) to meet the deadline.」',
+        options: ['up', 'together', 'out', 'through'],
+        correctAnswer: 1,
+        explanation: '力を合わせて協力するという意味なので pull together。',
+      },
+      {
+        id: 'q-pullup-3',
+        question: '"Pull yourself together!" の意味として最も適切なものはどれですか。',
+        options: ['車を停めて', '落ち着いて・取り乱すのをやめて', '椅子を持ってきて', '一緒に来て'],
+        correctAnswer: 1,
+        explanation: 'pull yourself together は動揺した人を落ち着かせる定型表現です。',
+      },
+      {
+        id: 'q-pullup-4',
+        question: '「上司は彼の遅刻を叱った」を最も自然に表す文はどれですか。',
+        options: ['His boss pulled him together for being late.', 'His boss pulled him up for being late.', 'His boss pulled him out for being late.', 'His boss pulled him over for being late.'],
+        correctAnswer: 1,
+        explanation: '叱責するという意味では pull up が使われます。',
+      },
+      {
+        id: 'q-pullup-5',
+        question: 'pull up と pull together の違いとして正しい説明はどれですか。',
+        options: [
+          '両方とも同じ意味で置き換え可能',
+          'pull up は停止する・叱責する、pull together は協力する・立ち直る',
+          'pull up は協力する、pull together は停止する',
+          '意味の違いとは無関係',
+        ],
+        correctAnswer: 1,
+        explanation: '停止・叱責が pull up、協力・立ち直りが pull together です。',
+      },
+    ],
+  },
+  {
     id: 'step-down-step-in',
     title: 'step down と step in',
     chapter: 5,
@@ -26653,6 +26997,92 @@ up は「一段高い場所へ自ら踏み出す」イメージなので、step 
         ],
         correctAnswer: 0,
         explanation: 'step up は引き受け、step back は客観視という正反対の方向です。',
+      },
+    ],
+  },
+  {
+    id: 'step-aside-step-out',
+    title: 'step aside と step out',
+    chapter: 5,
+    hubId: 'step',
+    description: '同じ step でも aside は「道を譲る・地位を退く」、out は「少しの間外へ出る」。人に場所を譲るか、自分がその場を離れるかの違いです。',
+    content: `## 人に場所を譲るのか、自分がその場を離れるのか
+
+step aside と step out はどちらも一時的・部分的な離脱を表しますが、誰のために動くかが異なります。
+
+- **step aside** … 脇へよける、重要な地位を**他人に譲って退く**。
+- **step out** … その場を**少しの間離れる**。
+
+| 熟語 | 中心の意味 | 典型的な文脈 |
+| --- | --- | --- |
+| step **aside** | 脇へよける／地位を退いて譲る | to let someone pass／ as leader, in favor of a younger person |
+| step **out** | 少しの間外へ出る | for a few minutes, to get some fresh air |
+
+### step aside の使い分け
+
+step aside は文字通り「体を横にずらして道を空ける」（Step aside, please - this lady needs a doctor.）という物理的な意味から、「重要な仕事や地位を、他の人に譲るために自ら退く」（He is unwilling to step aside in favor of a younger person.）という比喩的な意味に広がります。後者は step down とほぼ同じ場面で使われますが、step aside は「後任に道を譲る」という含みがより強く出ます。
+
+### step out の使い分け
+
+step out は「今いる場所から、短時間だけ離れる」という意味で、"She stepped out for a few minutes to get some fresh air." のように使われます。オフィスなどで少し席を外すことを丁寧に伝える場面で頻出する表現です。
+
+### なぜ直訳で読み解けないか
+
+aside は「本流の脇へ身を引いて他者に道を譲る」イメージ、out は「今いる場所の外へ一時的に出る」イメージを運びます。step aside は「自分の場所や地位を他人のために空ける」、step out は「自分がその場を一時的に離れる」という、他人に譲るか自分が離れるかの違いが意味の違いになっています。
+
+### よくある誤用
+
+⚠️ \`She stepped aside for a few minutes to get some coffee.\`（誤・意図不明瞭）。少しの間席を外したなら step **out**。step aside は地位や場所を他人に譲る意味合いが強く、単なる一時退席には不自然です。
+
+⚠️ \`The chairman decided to step out in favor of his deputy.\`（誤）。後任に道を譲って退任したなら step **aside**。step out は一時的に外へ出る意味なので、地位の譲渡には使いません。
+
+🎯 覚え方：**aside＝本流の脇へ身を引いて他人に道を譲る（地位を譲る）**、**out＝自分がその場を一時的に離れる（少し外へ出る）**。`,
+    keyPoints: [
+      'step aside＝物理的に脇へよける、重要な地位を他人に譲って自ら退く',
+      'step out＝今いる場所から短時間だけ離れる（少し席を外す）',
+      'aside は他人のために場所や地位を空けるイメージ、out は自分が一時的に場を離れるイメージ',
+      '後任に道を譲るのは step aside、少し席を外すのは step out',
+    ],
+    quiz: [
+      {
+        id: 'q-stepaside-1',
+        question: '空所に入る適切な語はどれですか。「The CEO decided to step ( ) in favor of a younger successor.」',
+        options: ['out', 'aside', 'up', 'back'],
+        correctAnswer: 1,
+        explanation: '後任に道を譲って退くという意味なので step aside。',
+      },
+      {
+        id: 'q-stepaside-2',
+        question: '空所に入る適切な語はどれですか。「I need to step ( ) for a moment to take this call.」',
+        options: ['aside', 'out', 'down', 'in'],
+        correctAnswer: 1,
+        explanation: '少しの間その場を離れるという意味なので step out。',
+      },
+      {
+        id: 'q-stepaside-3',
+        question: 'step aside の意味として最も適切なものはどれですか。',
+        options: ['少しの間外へ出る', '脇へよける・地位を他人に譲る', '前に進み出て引き受ける', '一歩下がって客観視する'],
+        correctAnswer: 1,
+        explanation: 'step aside は道を譲る、または地位を他人に譲って退く意味です。',
+      },
+      {
+        id: 'q-stepaside-4',
+        question: '「彼女は新鮮な空気を吸いに少し外に出た」を最も自然に表す文はどれですか。',
+        options: ['She stepped aside to get some fresh air.', 'She stepped out to get some fresh air.', 'She stepped up to get some fresh air.', 'She stepped down to get some fresh air.'],
+        correctAnswer: 1,
+        explanation: '短時間その場を離れるという意味では step out が使われます。',
+      },
+      {
+        id: 'q-stepaside-5',
+        question: 'step aside と step out の違いとして正しい説明はどれですか。',
+        options: [
+          '両方とも同じ意味で置き換え可能',
+          'step aside は他人のために場所・地位を譲る、step out は自分が一時的に場を離れる',
+          'step aside は自分が一時的に場を離れる、step out は他人に地位を譲る',
+          '意味の違いとは無関係',
+        ],
+        correctAnswer: 1,
+        explanation: '他人への譲歩が step aside、自分の一時離席が step out です。',
       },
     ],
   },
