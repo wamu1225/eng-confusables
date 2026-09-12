@@ -23791,6 +23791,92 @@ through は「入口から出口まで障害を貫通する」イメージなの
     ],
   },
   {
+    id: 'work-off-work-in',
+    title: 'work off と work in',
+    chapter: 5,
+    hubId: 'work',
+    description: '同じ work でも off は「運動などで発散する・働いて返す」、in は「混ぜ込む・組み込む」。何かを外へ出すか、中へ取り込むかの違いです。',
+    content: `## 外へ発散するのか、中へ組み込むのか
+
+work off と work in はどちらも work のあとに副詞が続く形ですが、動く向きが逆です。
+
+- **work off** … ストレスなどを運動で**発散する**、借金を働いて**返す**。
+- **work in** … 材料を**混ぜ込む**、要素を**組み込む・含める**。
+
+| 熟語 | 中心の意味 | 典型的な目的語 |
+| --- | --- | --- |
+| work **off** | 発散する・働いて返す | stress, anger, a debt |
+| work **in** | 混ぜ込む・組み込む | butter into the dough, a joke into a speech |
+
+### work off の使い分け
+
+work off は「体を動かすことで、たまった感情やエネルギーを外へ出す」という意味で、"She works off stress by running every day." のように使われます。もう1つ「借金を、お金でなく労働によって返済する」（work off a debt）という意味もあり、どちらも「内側にたまったものを働くことで消化する」イメージです。
+
+### work in の使い分け
+
+work in は「別の材料や要素を、既存のものの中へ混ぜ込む・組み込む」という意味で、料理では"Gradually work in the butter."（バターを少しずつ混ぜ込む）のように使われます。比喩的にはスピーチや文章に「要素を盛り込む」（work a few more jokes into your speech）という意味にも広がります。
+
+### なぜ直訳で読み解けないか
+
+off は「本体から切り離して外へ出す」イメージ、in は「別のものを内側へ取り込む」イメージを運びます。work off は「たまった感情や負債を働くことで外へ出し切る」、work in は「新しい要素を働きかけて内側に取り込む」という、対象を外に出すか内に入れるかの向きの違いが意味の違いになっています。
+
+### よくある誤用
+
+⚠️ \`Try to work off a few jokes into your speech.\`（誤）。スピーチに冗談を盛り込むなら work **in**（work jokes into your speech）。work off は発散・返済の意味なので、要素を組み込む文脈には使いません。
+
+⚠️ \`She works in her frustration by going for a run.\`（誤）。運動でイライラを発散するなら work **off**。work in は混ぜ込む・組み込む意味なので、感情の発散には使えません。
+
+🎯 覚え方：**off＝内側にたまったものを外へ出し切る（発散する・働いて返す）**、**in＝新しい要素を内側へ取り込む（混ぜ込む・盛り込む）**。`,
+    keyPoints: [
+      'work off＝運動などでストレスや怒りを発散する、借金を働いて返す',
+      'work in＝材料を混ぜ込む、スピーチや文章に要素を組み込む・盛り込む',
+      'off は内側から外へ出し切るイメージ、in は新しい要素を内側へ取り込むイメージ',
+      'ストレス発散は work off、要素を盛り込むのは work in（方向が逆）',
+    ],
+    quiz: [
+      {
+        id: 'q-workoff-1',
+        question: '空所に入る適切な語はどれですか。「He works ( ) his stress by playing basketball on weekends.」',
+        options: ['in', 'off', 'out', 'up'],
+        correctAnswer: 1,
+        explanation: '運動でストレスを発散するという意味なので work off。',
+      },
+      {
+        id: 'q-workoff-2',
+        question: '空所に入る適切な語はどれですか。「Gradually work ( ) the butter until the mixture is smooth.」',
+        options: ['off', 'in', 'through', 'on'],
+        correctAnswer: 1,
+        explanation: '材料を混ぜ込むという意味なので work in。',
+      },
+      {
+        id: 'q-workoff-3',
+        question: 'work off の意味として最も適切なものはどれですか。',
+        options: ['要素を組み込む', '運動などで発散する・働いて返す', '材料を混ぜる', '問題を解決する'],
+        correctAnswer: 1,
+        explanation: 'work off はたまったものを発散する・働いて返す意味です。',
+      },
+      {
+        id: 'q-workoff-4',
+        question: '「スピーチにもう少し冗談を盛り込んだら？」を最も自然に表す文はどれですか。',
+        options: ['Can\'t you work off a few more jokes into your speech?', 'Can\'t you work in a few more jokes into your speech?', 'Can\'t you work up a few more jokes into your speech?', 'Can\'t you work through a few more jokes into your speech?'],
+        correctAnswer: 1,
+        explanation: '要素を盛り込むという意味では work in が使われます。',
+      },
+      {
+        id: 'q-workoff-5',
+        question: 'work off と work in の違いとして正しい説明はどれですか。',
+        options: [
+          '両方とも同じ意味で置き換え可能',
+          'work off は内側のものを外へ発散する、work in は新しい要素を内側へ取り込む',
+          'work off は新しい要素を取り込む、work in は発散する',
+          '意味の違いとは無関係',
+        ],
+        correctAnswer: 1,
+        explanation: '発散・返済が work off、混ぜ込む・盛り込むのが work in です。',
+      },
+    ],
+  },
+  {
     id: 'back-up-back-down',
     title: 'back up と back down',
     chapter: 5,
@@ -24313,6 +24399,92 @@ toward は「目標に向かって近づいていく」イメージなので、c
     ],
   },
   {
+    id: 'count-in-count-off',
+    title: 'count in と count off',
+    chapter: 5,
+    hubId: 'count',
+    description: '同じ count でも in は「仲間に入れる」、off は「順に数え上げる」。数に加えるか、数えて分けるかの違いです。',
+    content: `## 数に加えるのか、数えて分けるのか
+
+count in と count off はどちらも count のあとに副詞が続く形ですが、扱う対象が異なります。
+
+- **count in** … 人を仲間・参加者として**数に入れる**。
+- **count off** … 一定の間隔で**数え上げる**、人数を数えながら**分ける・脱落させる**。
+
+| 熟語 | 中心の意味 | 典型的な文脈 |
+| --- | --- | --- |
+| count **in** | 参加者として数に入れる | a plan, an activity |
+| count **off** | 順に数え上げる・数えて分ける | soldiers counting off by twos, items on a list |
+
+### count in の使い分け
+
+count in は「自分や誰かを、これから行う活動の参加者に含める」という意味で、会話でよく使われる定型表現です。友人に "Do you want to go swimming tomorrow?" と誘われたときの返事 "Count me in!"（参加する！）が典型例で、乗り気であることを簡潔に伝えます。
+
+### count off の使い分け
+
+count off は「1, 2, 3…と順番に声に出して数える」という意味で、軍隊や集団行動で"The soldiers counted off by twos."（2人ずつの組に分かれるよう番号を数えた）のように使われます。比喩的に、リストの項目を「1つずつ数え上げる・列挙する」（She counted off all the things she wanted to do.）という意味にも広がります。
+
+### なぜ直訳で読み解けないか
+
+in は「集団の内側へ加わる」イメージ、off は「一定の間隔で区切って離していく」イメージを運びます。count in は「自分を仲間の内側に数え入れる」、count off は「順番に数えながら区切って分けていく」という、対象を集団に加えるか、順序立てて分けていくかの違いが意味の違いになっています。
+
+### よくある誤用
+
+⚠️ \`The soldiers counted in by twos to form groups.\`（誤）。2人ずつ組を作るために番号を数えたなら count **off**。count in は参加者に含める意味なので、順番に数え上げる文脈には使いません。
+
+⚠️ \`If you're going to the party, count off me!\`（誤）。パーティーに参加したいという意思表示なら count **in**（Count me in!）。count off は数え上げる意味なので、この定型表現には使えません。
+
+🎯 覚え方：**in＝集団の内側に自分や誰かを数え入れる（参加する）**、**off＝順番に区切って数える（数え上げる・分ける）**。`,
+    keyPoints: [
+      'count in＝人を活動の参加者として数に入れる（Count me in! が定型表現）',
+      'count off＝1,2,3…と順に声に出して数える、人数を数えて組に分ける、項目を列挙する',
+      'in は集団の内側へ加わるイメージ、off は順に区切って分けるイメージ',
+      '参加の意思表示は count in、番号を数えて分けるのは count off',
+    ],
+    quiz: [
+      {
+        id: 'q-countin-1',
+        question: '空所に入る適切な語はどれですか。「A picnic this weekend? Count me ( )!」',
+        options: ['off', 'in', 'on', 'out'],
+        correctAnswer: 1,
+        explanation: '参加するという意味の定型表現なので count in。',
+      },
+      {
+        id: 'q-countin-2',
+        question: '空所に入る適切な語はどれですか。「The coach asked the players to count ( ) by threes to form teams.」',
+        options: ['in', 'off', 'on', 'toward'],
+        correctAnswer: 1,
+        explanation: '順に数えて組に分けるという意味なので count off。',
+      },
+      {
+        id: 'q-countin-3',
+        question: '"Count me in!" の意味として最も適切なものはどれですか。',
+        options: ['私を数えないで', '私も参加します', '私は脱落します', '私が数えます'],
+        correctAnswer: 1,
+        explanation: 'Count me in! は参加の意思表示を表す定型表現です。',
+      },
+      {
+        id: 'q-countin-4',
+        question: '「彼女はやりたいことを1つずつ数え上げた」を最も自然に表す文はどれですか。',
+        options: ['She counted in all the things she wanted to do.', 'She counted off all the things she wanted to do.', 'She counted on all the things she wanted to do.', 'She counted toward all the things she wanted to do.'],
+        correctAnswer: 1,
+        explanation: '項目を1つずつ列挙するという意味では count off が使われます。',
+      },
+      {
+        id: 'q-countin-5',
+        question: 'count in と count off の違いとして正しい説明はどれですか。',
+        options: [
+          '両方とも同じ意味で置き換え可能',
+          'count in は参加者として数に入れる、count off は順に数え上げる・分ける',
+          'count in は順に数え上げる、count off は参加者として数に入れる',
+          '意味の違いとは無関係',
+        ],
+        correctAnswer: 1,
+        explanation: '参加を表すのが count in、順序立てて数えるのが count off です。',
+      },
+    ],
+  },
+  {
     id: 'blow-up-blow-over',
     title: 'blow up と blow over',
     chapter: 5,
@@ -24487,6 +24659,92 @@ off は「表面に乗っていた予定や義務を吹き払って無かった�
     ],
   },
   {
+    id: 'blow-out-blow-through',
+    title: 'blow out と blow through',
+    chapter: 5,
+    hubId: 'blow',
+    description: '同じ blow でも out は「吹き消す・パンクする・圧勝する」、through は「お金を短期間で使い果たす」。息や勢いを外へ出すか、資源を一気に消費するかの違いです。',
+    content: `## 息や勢いを外へ出すのか、資源を一気に使い果たすのか
+
+blow out と blow through はどちらも多義的な熟語ですが、blow out は「一瞬の強い勢い」、blow through は「短期間での使い果たし」というイメージで整理できます。
+
+- **blow out** … 火を**吹き消す**、タイヤが**パンクする**、相手に**圧勝する**。
+- **blow through** … お金や予算を**あっという間に使い果たす**。
+
+| 熟語 | 中心の意味 | 典型的な目的語・主語 |
+| --- | --- | --- |
+| blow **out** | 吹き消す／パンクする／圧勝する | a candle（吹き消す）／ a tire（パンク）／ an opponent（圧勝） |
+| blow **through** | 資金・予算を使い果たす | money, a budget |
+
+### blow out の使い分け
+
+blow out の最も基本的な意味は「ろうそくなどの火を吹いて消す」（blow out the candles）です。そこから「タイヤが破裂する」（The tire blew out on the highway.）、アメリカ英語で口語的に「相手に圧勝する」（The home team blew out their rivals 10 to 1.）という意味に広がります。いずれも「一瞬で強く息や勢いが外に噴き出す」イメージで共通しています。
+
+### blow through の使い分け
+
+blow through は主にアメリカ英語で使われ、「お金や予算を、あっという間に使い果たす」という意味です。"The actor was infamous for recklessly blowing through money." のように、浪費を批判的に述べる文脈でよく使われます。「風が吹き抜ける」という物理的なイメージから、「資源が手元を吹き抜けるように無くなっていく」という比喩に転じたものです。
+
+### なぜ直訳で読み解けないか
+
+out は「内側にあったものが一気に外へ出る」イメージ、through は「一方から他方へ吹き抜けていく」イメージを運びます。blow out は「火や空気が一瞬で外に押し出される」、blow through は「資金が手元を通過して吹き抜けていく」という、勢いの一瞬性と資源の通過という違いが意味の違いになっています。
+
+### よくある誤用
+
+⚠️ \`The actor blew out his entire fortune within a year.\`（誤・意図不明瞭）。財産を使い果たしたなら blow **through**。blow out は一瞬の勢い（吹き消す・パンクする・圧勝する）を表すので、資産の浪費には使いません。
+
+⚠️ \`The tire blew through on the highway.\`（誤）。タイヤがパンクしたなら blow **out**。blow through は資金を使い果たす意味なので、物理的な破裂には使えません。
+
+🎯 覚え方：**out＝一瞬で強く外に噴き出す（吹き消す・パンクする・圧勝する）**、**through＝資源が手元を吹き抜けて無くなる（使い果たす）**。`,
+    keyPoints: [
+      'blow out＝火を吹き消す、タイヤがパンクする、（米口語で）相手に圧勝する',
+      'blow through＝お金や予算をあっという間に使い果たす（主に米語）',
+      'out は一瞬で強く外に噴き出すイメージ、through は資源が吹き抜けて無くなるイメージ',
+      '財産の浪費は blow through、タイヤの破裂は blow out（混同しやすいので要注意）',
+    ],
+    quiz: [
+      {
+        id: 'q-blowout-1',
+        question: '空所に入る適切な語はどれですか。「Make a wish and blow ( ) the candles!」',
+        options: ['through', 'out', 'off', 'away'],
+        correctAnswer: 1,
+        explanation: '火を吹き消すという意味なので blow out。',
+      },
+      {
+        id: 'q-blowout-2',
+        question: '空所に入る適切な語はどれですか。「He blew ( ) his entire savings within a few months.」',
+        options: ['out', 'through', 'off', 'up'],
+        correctAnswer: 1,
+        explanation: '貯金をあっという間に使い果たすという意味なので blow through。',
+      },
+      {
+        id: 'q-blowout-3',
+        question: 'blow out の意味として適切でないものはどれですか。',
+        options: ['火を吹き消す', 'タイヤがパンクする', '予算を使い果たす', '相手に圧勝する'],
+        correctAnswer: 2,
+        explanation: '予算を使い果たすのは blow through の意味です。',
+      },
+      {
+        id: 'q-blowout-4',
+        question: '「高速道路でタイヤがパンクした」を最も自然に表す文はどれですか。',
+        options: ['The tire blew through on the highway.', 'The tire blew out on the highway.', 'The tire blew off on the highway.', 'The tire blew up on the highway.'],
+        correctAnswer: 1,
+        explanation: 'タイヤが破裂するという意味では blow out が使われます。',
+      },
+      {
+        id: 'q-blowout-5',
+        question: 'blow out と blow through の違いとして正しい説明はどれですか。',
+        options: [
+          '両方とも同じ意味で置き換え可能',
+          'blow out は一瞬の強い勢い（吹き消す・パンク・圧勝）、blow through は資金を使い果たす',
+          'blow out は資金を使い果たす、blow through は一瞬の勢いを表す',
+          '意味の違いとは無関係',
+        ],
+        correctAnswer: 1,
+        explanation: '一瞬の勢いが blow out、資源の使い果たしが blow through です。',
+      },
+    ],
+  },
+  {
     id: 'cut-off-cut-down-on',
     title: 'cut off と cut down on',
     chapter: 5,
@@ -24657,6 +24915,92 @@ in は「列や会話の内側に刃を入れるように割り込む」イメ�
         ],
         correctAnswer: 0,
         explanation: 'cut in は割り込み、cut out は除去・停止を表します。',
+      },
+    ],
+  },
+  {
+    id: 'cut-back-cut-through',
+    title: 'cut back と cut through',
+    chapter: 5,
+    hubId: 'cut',
+    description: '同じ cut でも back は「支出や量を減らす」、through は「近道する・本質を突く」。量を減らす方向か、障害を突き抜ける方向かの違いです。',
+    content: `## 量を減らす方向か、突き抜ける方向か
+
+cut back と cut through はどちらも「cut＋副詞」ですが、動く方向がまったく異なります。
+
+- **cut back** … 支出・活動の量を**減らす**。
+- **cut through** … 近道して**通り抜ける**、複雑な問題の本質を**素早く突く**。
+
+| 熟語 | 中心の意味 | 典型的な文脈 |
+| --- | --- | --- |
+| cut **back** | 支出・量を減らす | spending, costs, on sugar |
+| cut **through** | 近道する／本質を突く | a park as a shortcut／ legal jargon, the noise |
+
+### cut back の使い分け
+
+cut back は「予算・消費・活動量などを削減する」という意味で、"The government announced plans to cut back on defense spending." のように使われます。目的語を取らずに単独でも使え（If exercise causes pain, you should cut back.）、「量を減らして元に戻す」という縮小のイメージが核です。
+
+### cut through の使い分け
+
+cut through は「物理的な障害物を突っ切って近道する」（cut through the park to save time）という意味から、「複雑でわかりにくいものを素早く理解し、本質に到達する」（cut through the legal jargon）という比喩に広がります。「音が騒音を突き抜けて聞こえる」（Her voice cut through the noise.）という意味でも使われ、いずれも「障害物を突き抜けて向こう側・核心に達する」イメージで共通しています。
+
+### なぜ直訳で読み解けないか
+
+back は「元の状態・低い水準へ戻す」イメージ、through は「一方から他方へ突き抜ける」イメージを運びます。cut back は「増えすぎたものを元の低い水準へ切り戻す」、cut through は「立ちはだかる障害物を突き抜けて本質・目的地に到達する」という、縮小の方向と貫通の方向の違いが意味の違いになっています。
+
+### よくある誤用
+
+⚠️ \`We need to cut through our spending this year.\`（誤）。支出を削減するなら cut **back**（cut back on spending）。cut through は近道・本質を突く意味なので、支出削減には使いません。
+
+⚠️ \`Could you cut back all this confusing paperwork and explain it simply?\`（誤）。複雑な書類の本質を分かりやすく説明してほしいなら cut **through**。cut back は量を減らす意味なので、理解の助けを求める文脈には不自然です。
+
+🎯 覚え方：**back＝増えすぎたものを元の水準へ切り戻す（削減する）**、**through＝障害物を突き抜けて核心に達する（近道する・本質を突く）**。`,
+    keyPoints: [
+      'cut back＝支出・活動の量を減らす（cut back on 〜 の形が多い）',
+      'cut through＝近道して通り抜ける、複雑な問題の本質を素早く突く',
+      'back は元の低い水準へ戻すイメージ、through は障害物を突き抜けるイメージ',
+      '支出削減は cut back、本質を突くのは cut through（混同しやすいので要注意）',
+    ],
+    quiz: [
+      {
+        id: 'q-cutback-1',
+        question: '空所に入る適切な語はどれですか。「The company decided to cut ( ) on unnecessary travel expenses.」',
+        options: ['through', 'back', 'in', 'out'],
+        correctAnswer: 1,
+        explanation: '支出を削減するという意味なので cut back。',
+      },
+      {
+        id: 'q-cutback-2',
+        question: '空所に入る適切な語はどれですか。「Her clear explanation cut ( ) all the confusing jargon.」',
+        options: ['back', 'through', 'off', 'down'],
+        correctAnswer: 1,
+        explanation: '複雑な内容の本質を突くという意味なので cut through。',
+      },
+      {
+        id: 'q-cutback-3',
+        question: 'cut back の意味として最も適切なものはどれですか。',
+        options: ['近道する', '支出や量を減らす', '本質を突く', '割り込む'],
+        correctAnswer: 1,
+        explanation: 'cut back は支出や活動量を削減する意味です。',
+      },
+      {
+        id: 'q-cutback-4',
+        question: '「彼は近道するために公園を突っ切った」を最も自然に表す文はどれですか。',
+        options: ['He cut back the park to save time.', 'He cut through the park to save time.', 'He cut off the park to save time.', 'He cut down the park to save time.'],
+        correctAnswer: 1,
+        explanation: '近道して通り抜けるという意味では cut through が使われます。',
+      },
+      {
+        id: 'q-cutback-5',
+        question: 'cut back と cut through の違いとして正しい説明はどれですか。',
+        options: [
+          '両方とも同じ意味で置き換え可能',
+          'cut back は量を減らす、cut through は障害物を突き抜けて本質に達する',
+          'cut back は本質を突く、cut through は量を減らす',
+          '意味の違いとは無関係',
+        ],
+        correctAnswer: 1,
+        explanation: '削減が cut back、貫通・本質理解が cut through です。',
       },
     ],
   },
@@ -25005,6 +25349,92 @@ about は「対象の周辺事情を確かめてまわる」イメージなの�
         ],
         correctAnswer: 0,
         explanation: 'see about は検討、see off は見送り・撃退を表します。',
+      },
+    ],
+  },
+  {
+    id: 'see-out-see-in',
+    title: 'see out と see in',
+    chapter: 5,
+    hubId: 'see',
+    description: '同じ see でも out は「客を戸口まで見送る・最後までやり通す」、in は「新年の到来を祝って迎える」。終わりに立ち会うか、始まりに立ち会うかの違いです。',
+    content: `## 終わりに付き添うのか、始まりを祝うのか
+
+see out と see in はどちらも「立ち会う」という点で似ていますが、立ち会うタイミングが正反対です。
+
+- **see out** … 客を出口・戸口まで**見送る**、期間や状況を**最後までやり通す**。
+- **see in** … 新年などの**到来を祝って迎える**。
+
+| 熟語 | 中心の意味 | 典型的な目的語 |
+| --- | --- | --- |
+| see **out** | 見送る／最後までやり通す | a guest, the year（見送る・やり過ごす） |
+| see **in** | 到来を祝って迎える | the New Year |
+
+### see out の使い分け
+
+see out は「訪問客を玄関まで送っていく」という日常的な意味（"Don't worry, I'll see myself out."＝お構いなく、自分で出ますので）から、「苦しい期間や状況を最後まで耐え抜く」（The besieged town didn't have enough food to see the month out.）という意味に広がります。どちらも「終わりの地点までともに付き添う」イメージです。
+
+### see in の使い分け
+
+see in は主に "see in the New Year"（新年を迎える）という決まった形で使われ、真夜中まで起きて年明けを祝うことを表します。花火を見たり、カウントダウンをしたりしながら新しい年の始まりに立ち会うというニュアンスです。
+
+### なぜ直訳で読み解けないか
+
+out は「終わりの地点まで一緒に出て行く」イメージ、in は「新しく始まるものを内側へ迎え入れる」イメージを運びます。see out は「客や期間の終わりに付き添って送り出す」、see in は「新しく始まる年を迎え入れる」という、終わりに立ち会うか始まりに立ち会うかの違いが意味の違いになっています。
+
+### よくある誤用
+
+⚠️ \`We stayed up all night to see out the New Year.\`（誤・意図不明瞭）。新年を祝って迎えたなら see **in** the New Year。see out は見送る・やり過ごす意味なので、新年を迎える祝賀のニュアンスには使いません（「今年を見送る」という意味であれば see out the year は成立します）。
+
+⚠️ \`Let me see you in to the door.\`（誤）。客を戸口まで見送るなら see **out**（see you out）。see in は新年など特定の到来を迎える意味に限られ、人を送り出す場面には使いません。
+
+🎯 覚え方：**out＝終わりの地点まで付き添う（見送る・やり過ごす）**、**in＝新しい始まりを迎え入れる（新年を迎える）**。`,
+    keyPoints: [
+      'see out＝客を戸口まで見送る、苦しい期間や状況を最後までやり過ごす',
+      'see in＝新年などの到来を祝って迎える（see in the New Year が定型）',
+      'out は終わりに付き添うイメージ、in は新しい始まりを迎え入れるイメージ',
+      '新年を祝うのは see in、客を見送る・期間をやり過ごすのは see out',
+    ],
+    quiz: [
+      {
+        id: 'q-seeout-1',
+        question: '空所に入る適切な語はどれですか。「Thanks for coming. Let me see you ( ).」',
+        options: ['in', 'out', 'about', 'to'],
+        correctAnswer: 1,
+        explanation: '客を戸口まで見送るという意味なので see out。',
+      },
+      {
+        id: 'q-seeout-2',
+        question: '空所に入る適切な語はどれですか。「We stayed up until midnight to see ( ) the New Year with fireworks.」',
+        options: ['out', 'in', 'off', 'through'],
+        correctAnswer: 1,
+        explanation: '新年の到来を祝って迎えるという意味なので see in。',
+      },
+      {
+        id: 'q-seeout-3',
+        question: 'see out の意味として適切でないものはどれですか。',
+        options: ['客を戸口まで見送る', '苦しい期間を最後までやり過ごす', '新年の到来を祝う', '状況を最後までやり抜く'],
+        correctAnswer: 2,
+        explanation: '新年の到来を祝うのは see in の意味です。',
+      },
+      {
+        id: 'q-seeout-4',
+        question: '「その町は食料が足りず、その月を持ちこたえられなかった」を最も自然に表す文はどれですか。',
+        options: ['The town had no food left to see in the month.', 'The town had no food left to see out the month.', 'The town had no food left to see off the month.', 'The town had no food left to see about the month.'],
+        correctAnswer: 1,
+        explanation: '期間を最後までやり過ごすという意味では see out が使われます。',
+      },
+      {
+        id: 'q-seeout-5',
+        question: 'see out と see in の違いとして正しい説明はどれですか。',
+        options: [
+          '両方とも同じ意味で置き換え可能',
+          'see out は終わりに付き添う（見送る・やり過ごす）、see in は新しい始まりを迎える',
+          'see out は新しい始まりを迎える、see in は終わりに付き添う',
+          '意味の違いとは無関係',
+        ],
+        correctAnswer: 1,
+        explanation: '終わりへの付き添いが see out、始まりを迎えるのが see in です。',
       },
     ],
   },
