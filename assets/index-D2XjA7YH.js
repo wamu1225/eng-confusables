@@ -6296,7 +6296,37 @@ back は「後ろ（過去）へ戻る」方向、forward は「前（未来・�
 
 ⚠️ \`The company decided to bring back the deadline by two weeks.\`（誤）。締め切りを早めるなら bring **forward**。bring back は過去への回帰を表すので、期限を早める（未来方向の変更）には使えません。
 
-🎯 覚え方：**back＝過去へ戻す（思い出す・復活させる）**、**forward＝未来を手前に引き寄せる（早める・提案する）**。`,keyPoints:[`bring back＝過去の記憶や流行・商品を思い出させる・復活させる`,`bring forward＝予定の日時を早める、または議題・証拠を提案する`,`back は過去への回帰、forward は未来・奥にあるものを手前に引き寄せるイメージ`,`締め切りや日程を「早める」は bring forward、bring back ではない`],quiz:[{id:`q-bringback-1`,question:`空所に入る適切な語はどれですか。「The old photographs brought ( ) many happy memories.」`,options:[`forward`,`back`,`on`,`up`],correctAnswer:1,explanation:`思い出を呼び起こすという意味なので bring back。`},{id:`q-bringback-2`,question:`空所に入る適切な語はどれですか。「The board meeting has been brought ( ) to next Monday.」`,options:[`back`,`forward`,`about`,`around`],correctAnswer:1,explanation:`予定を早めるという意味なので bring forward。`},{id:`q-bringback-3`,question:`bring forward の意味として適切でないものはどれですか。`,options:[`予定を早める`,`証拠を提示する`,`過去の流行を復活させる`,`議題を提案する`],correctAnswer:2,explanation:`過去の流行を復活させるのは bring back の意味です。`},{id:`q-bringback-4`,question:`「その委員会は新しい証拠を提示した」を最も自然に表す文はどれですか。`,options:[`The committee brought back new evidence.`,`The committee brought forward new evidence.`,`The committee brought on new evidence.`,`The committee brought up new evidence.`],correctAnswer:1,explanation:`証拠を提示するという意味では bring forward が使われます。`},{id:`q-bringback-5`,question:`bring back と bring forward の時間の向きとして正しい説明はどれですか。`,options:[`両方とも未来方向を表す`,`back は過去へ戻る方向、forward は未来・手前へ引き寄せる方向`,`back は未来、forward は過去を表す`,`時間的な向きとは無関係`],correctAnswer:1,explanation:`back（過去へ戻る）と forward（未来・手前へ引き寄せる）は向きが逆です。`}]},{id:`call-for-call-on`,title:`call for と call on`,chapter:5,hubId:`call`,description:`call for は「〜を必要とする・要求する」、call on は「〜に働きかける・訪問する」。主語が「状況」か「人」かで見分けられます。`,content:`## 状況が求めるか、人に働きかけるか
+🎯 覚え方：**back＝過去へ戻す（思い出す・復活させる）**、**forward＝未来を手前に引き寄せる（早める・提案する）**。`,keyPoints:[`bring back＝過去の記憶や流行・商品を思い出させる・復活させる`,`bring forward＝予定の日時を早める、または議題・証拠を提案する`,`back は過去への回帰、forward は未来・奥にあるものを手前に引き寄せるイメージ`,`締め切りや日程を「早める」は bring forward、bring back ではない`],quiz:[{id:`q-bringback-1`,question:`空所に入る適切な語はどれですか。「The old photographs brought ( ) many happy memories.」`,options:[`forward`,`back`,`on`,`up`],correctAnswer:1,explanation:`思い出を呼び起こすという意味なので bring back。`},{id:`q-bringback-2`,question:`空所に入る適切な語はどれですか。「The board meeting has been brought ( ) to next Monday.」`,options:[`back`,`forward`,`about`,`around`],correctAnswer:1,explanation:`予定を早めるという意味なので bring forward。`},{id:`q-bringback-3`,question:`bring forward の意味として適切でないものはどれですか。`,options:[`予定を早める`,`証拠を提示する`,`過去の流行を復活させる`,`議題を提案する`],correctAnswer:2,explanation:`過去の流行を復活させるのは bring back の意味です。`},{id:`q-bringback-4`,question:`「その委員会は新しい証拠を提示した」を最も自然に表す文はどれですか。`,options:[`The committee brought back new evidence.`,`The committee brought forward new evidence.`,`The committee brought on new evidence.`,`The committee brought up new evidence.`],correctAnswer:1,explanation:`証拠を提示するという意味では bring forward が使われます。`},{id:`q-bringback-5`,question:`bring back と bring forward の時間の向きとして正しい説明はどれですか。`,options:[`両方とも未来方向を表す`,`back は過去へ戻る方向、forward は未来・手前へ引き寄せる方向`,`back は未来、forward は過去を表す`,`時間的な向きとは無関係`],correctAnswer:1,explanation:`back（過去へ戻る）と forward（未来・手前へ引き寄せる）は向きが逆です。`}]},{id:`bring-down-bring-in`,title:`bring down と bring in`,chapter:5,hubId:`bring`,description:`同じ bring でも down は「権力を倒す・水準を下げる」、in は「新しく導入する・収益を得る」。押し下げるか、新たに持ち込むかの違いです。`,content:`## 押し下げるのか、新たに持ち込むのか
+
+bring down と bring in はどちらも bring のあとに副詞が続く形ですが、動く方向が異なります。
+
+- **bring down** … 政権などを**倒す**、価格や水準を**下げる**。
+- **bring in** … 新しい制度・人を**導入する**、収益を**もたらす**。
+
+| 熟語 | 中心の意味 | 典型的な目的語 |
+| --- | --- | --- |
+| bring **down** | 倒す・下げる | a government（倒す）／ prices, blood pressure（下げる） |
+| bring **in** | 導入する・稼ぐ・招く | a new law（導入）／ money（稼ぐ）／ an expert（招く） |
+
+### bring down の使い分け
+
+bring down は「政権や権力者を失脚させる」という意味で、"An economic crisis could bring down the government." のように使われます。また「価格や血圧などの水準を下げる」（bring down prices）という意味にも使われ、どちらも「高い位置にあったものを引き下ろす」イメージです。
+
+### bring in の使い分け
+
+bring in は「新しい法律や制度を導入する」（New safety regulations were brought in last year.）という意味から、「事業や作品が収益を生む」（The film has brought in millions of dollars.）、「専門家を仕事のために招く」（We need to bring in an expert.）という意味に広がります。いずれも「それまで無かったものを新たに持ち込む」イメージで共通しています。
+
+### なぜ直訳で読み解けないか
+
+down は「高い位置から低い位置へ落とす」イメージ、in は「外にあったものを内側へ持ち込む」イメージを運びます。bring down は「権力や水準を高い位置から引き下ろす」、bring in は「制度・人・お金を外から内側へ新たに持ち込む」という、下げる方向と持ち込む方向の違いが意味の違いになっています。
+
+### よくある誤用
+
+⚠️ \`The new safety regulations were brought down last year.\`（誤）。新しい規制を導入したなら bring **in**。bring down は倒す・下げる意味なので、制度の導入には使いません。
+
+⚠️ \`The scandal brought in the minister.\`（誤・意図不明瞭）。スキャンダルで大臣が失脚したなら bring **down** the minister。bring in は導入・招聘の意味なので、失脚には使えません。
+
+🎯 覚え方：**down＝高い位置から引き下ろす（倒す・下げる）**、**in＝外から新たに持ち込む（導入する・稼ぐ・招く）**。`,keyPoints:[`bring down＝政権や権力者を倒す、価格や血圧などの水準を下げる`,`bring in＝新しい法律や制度を導入する、収益をもたらす、専門家を招く`,`down は高い位置から引き下ろすイメージ、in は外から新たに持ち込むイメージ`,`政権の失脚は bring down、制度の導入や収益は bring in（混同しやすいので要注意）`],quiz:[{id:`q-bringdownin-1`,question:`空所に入る適切な語はどれですか。「The scandal eventually brought ( ) the entire cabinet.」`,options:[`in`,`down`,`about`,`on`],correctAnswer:1,explanation:`政権を倒すという意味なので bring down。`},{id:`q-bringdownin-2`,question:`空所に入る適切な語はどれですか。「The new tax law will be brought ( ) next April.」`,options:[`down`,`in`,`back`,`up`],correctAnswer:1,explanation:`新しい制度を導入するという意味なので bring in。`},{id:`q-bringdownin-3`,question:`bring down の意味として最も適切なものはどれですか。`,options:[`新しい制度を導入する`,`政権や水準を下げる・倒す`,`収益をもたらす`,`専門家を招く`],correctAnswer:1,explanation:`bring down は権力や水準を引き下ろす意味です。`},{id:`q-bringdownin-4`,question:`「その映画は数百万ドルの収益をもたらした」を最も自然に表す文はどれですか。`,options:[`The film brought down millions of dollars.`,`The film brought in millions of dollars.`,`The film brought back millions of dollars.`,`The film brought about millions of dollars.`],correctAnswer:1,explanation:`収益を稼ぐという意味では bring in が使われます。`},{id:`q-bringdownin-5`,question:`bring down と bring in の違いとして正しい説明はどれですか。`,options:[`両方とも同じ意味で置き換え可能`,`bring down は権力や水準を引き下ろす、bring in は新たに導入する・稼ぐ`,`bring down は新たに導入する、bring in は引き下ろす`,`意味の違いとは無関係`],correctAnswer:1,explanation:`引き下ろしが bring down、新規導入・収益が bring in です。`}]},{id:`call-for-call-on`,title:`call for と call on`,chapter:5,hubId:`call`,description:`call for は「〜を必要とする・要求する」、call on は「〜に働きかける・訪問する」。主語が「状況」か「人」かで見分けられます。`,content:`## 状況が求めるか、人に働きかけるか
 
 call for と call on はどちらも「求める」に訳されがちですが、主語と対象がはっきり異なります。
 
@@ -6380,7 +6410,37 @@ in は「外から内側へ」、out は「内から外へ」向かう方向を�
 
 ⚠️ \`He called in the mistake in front of everyone.\`（誤）。人前で間違いを指摘するなら call **out**。call in は呼び寄せる・立ち寄る意味なので、公然の指摘には使えません。
 
-🎯 覚え方：**in＝外から内側へ呼び入れる（助けを呼ぶ・立ち寄る）**、**out＝内から外へ発する（叫ぶ・公然と非難する）**。`,keyPoints:[`call in＝専門家などを呼び寄せる、短時間立ち寄る、電話で欠勤を連絡する（call in sick）`,`call out＝大声で言う、人の言動を公然と非難する、軍や消防隊を出動させる`,`in は外から内側へ呼び入れる方向、out は内から外へ発する方向`,`欠勤の連絡は call in sick、公然の批判は call out（方向が逆）`],quiz:[{id:`q-callin-1`,question:`空所に入る適切な語はどれですか。「I felt terrible, so I called ( ) sick this morning.」`,options:[`out`,`in`,`off`,`up`],correctAnswer:1,explanation:`欠勤を電話で連絡するという意味なので call in sick。`},{id:`q-callin-2`,question:`空所に入る適切な語はどれですか。「Journalists called ( ) the minister for his misleading statement.」`,options:[`in`,`out`,`off`,`on`],correctAnswer:1,explanation:`公然と非難するという意味なので call out。`},{id:`q-callin-3`,question:`「専門家を現場に呼んだ」を表す文として自然なものはどれですか。`,options:[`They called out an expert.`,`They called in an expert.`,`They called off an expert.`,`They called up an expert.`],correctAnswer:1,explanation:`助けを呼び寄せるという意味では call in が使われます。`},{id:`q-callin-4`,question:`call out の意味として適切でないものはどれですか。`,options:[`大声で名前を呼ぶ`,`公然と非難する`,`軍を出動させる`,`短時間立ち寄る`],correctAnswer:3,explanation:`短時間立ち寄るのは call in の意味です。`},{id:`q-callin-5`,question:`call in と call out の方向の違いとして正しい説明はどれですか。`,options:[`両方とも同じ方向を表す`,`in は外から内側へ呼び入れる、out は内から外へ発する`,`in は内から外へ発する、out は外から内側へ呼び入れる`,`方向のイメージとは無関係`],correctAnswer:1,explanation:`in（呼び入れる）と out（発する）は向きが逆です。`}]},{id:`put-off-put-across`,title:`put off と put across`,chapter:5,hubId:`put`,description:`put off は「延期する・嫌にさせる」、put across は「（考えを）わかりやすく伝える」。同じ put でも向きがまったく違います。`,content:`## 遠ざけるか、伝え切るか
+🎯 覚え方：**in＝外から内側へ呼び入れる（助けを呼ぶ・立ち寄る）**、**out＝内から外へ発する（叫ぶ・公然と非難する）**。`,keyPoints:[`call in＝専門家などを呼び寄せる、短時間立ち寄る、電話で欠勤を連絡する（call in sick）`,`call out＝大声で言う、人の言動を公然と非難する、軍や消防隊を出動させる`,`in は外から内側へ呼び入れる方向、out は内から外へ発する方向`,`欠勤の連絡は call in sick、公然の批判は call out（方向が逆）`],quiz:[{id:`q-callin-1`,question:`空所に入る適切な語はどれですか。「I felt terrible, so I called ( ) sick this morning.」`,options:[`out`,`in`,`off`,`up`],correctAnswer:1,explanation:`欠勤を電話で連絡するという意味なので call in sick。`},{id:`q-callin-2`,question:`空所に入る適切な語はどれですか。「Journalists called ( ) the minister for his misleading statement.」`,options:[`in`,`out`,`off`,`on`],correctAnswer:1,explanation:`公然と非難するという意味なので call out。`},{id:`q-callin-3`,question:`「専門家を現場に呼んだ」を表す文として自然なものはどれですか。`,options:[`They called out an expert.`,`They called in an expert.`,`They called off an expert.`,`They called up an expert.`],correctAnswer:1,explanation:`助けを呼び寄せるという意味では call in が使われます。`},{id:`q-callin-4`,question:`call out の意味として適切でないものはどれですか。`,options:[`大声で名前を呼ぶ`,`公然と非難する`,`軍を出動させる`,`短時間立ち寄る`],correctAnswer:3,explanation:`短時間立ち寄るのは call in の意味です。`},{id:`q-callin-5`,question:`call in と call out の方向の違いとして正しい説明はどれですか。`,options:[`両方とも同じ方向を表す`,`in は外から内側へ呼び入れる、out は内から外へ発する`,`in は内から外へ発する、out は外から内側へ呼び入れる`,`方向のイメージとは無関係`],correctAnswer:1,explanation:`in（呼び入れる）と out（発する）は向きが逆です。`}]},{id:`call-back-call-away`,title:`call back と call away`,chapter:5,hubId:`call`,description:`同じ call でも back は「折り返し電話する」、away は「呼び出されてその場を離れる」。相手に応答するか、自分がその場を離れるかの違いです。`,content:`## 相手に応答するのか、その場を離れるのか
+
+call back と call away はどちらも予定外の中断を表しますが、誰が何をするかが異なります。
+
+- **call back** … かかってきた電話に**折り返し電話する**。
+- **call away** … 用事のために呼び出されて**その場を離れる**（多くは受動態）。
+
+| 熟語 | 中心の意味 | 典型的な文脈 |
+| --- | --- | --- |
+| call **back** | 折り返し電話する | a missed call, a message |
+| be called **away** | 呼び出されてその場を離れる | from a meeting, to an emergency |
+
+### call back の使い分け
+
+call back は「かかってきた電話に対して、あとで折り返し連絡する」という意味で、"She said she'd call back later to pick up the report." のように使われます。「もう一度電話をかける」というシンプルな意味でも使われ、電話対応の場面で最も基本的な表現の1つです。
+
+### call away の使い分け
+
+call away は多くの場合 **be called away** という受動態の形で使われ、「今いる場所や会議から、別の用事のために呼び出されて離れる」という意味を表します。"She was called away from the meeting to attend to an urgent matter." のように、緊急の用事で中座する場面によく使われます。
+
+### なぜ直訳で読み解けないか
+
+back は「相手からの働きかけに対して、同じ経路を通って応答を返す」イメージ、away は「今いる場所から遠くへ引き離される」イメージを運びます。call back は「かかってきた電話という働きかけに折り返し応じる」、call away は「今いる場所から呼び出されて引き離される」という、応答するか場を離れるかの違いが意味の違いになっています。
+
+### よくある誤用
+
+⚠️ \`I'm sorry, I was called back from the meeting for an emergency.\`（誤）。会議から呼び出されて中座したなら was called **away**。call back は電話をかけ直す意味なので、会議からの中座には使いません。
+
+⚠️ \`Could you call away later? I missed your call.\`（誤）。折り返し電話してほしいなら call **back**。call away は呼び出されて場を離れる意味なので、電話を頼む文脈には使えません。
+
+🎯 覚え方：**back＝電話という働きかけに折り返し応じる（かけ直す）**、**away＝その場から呼び出されて引き離される（中座する）**。`,keyPoints:[`call back＝かかってきた電話に折り返し電話する`,`be called away＝別の用事のために今いる場所（会議など）から呼び出されて離れる`,`back は電話という働きかけへの応答、away は場からの引き離しを表す`,`電話のかけ直しは call back、会議からの中座は be called away`],quiz:[{id:`q-callbackaway-1`,question:`空所に入る適切な語はどれですか。「I missed her call, so I will call her ( ) after lunch.」`,options:[`away`,`back`,`off`,`out`],correctAnswer:1,explanation:`折り返し電話するという意味なので call back。`},{id:`q-callbackaway-2`,question:`空所に入る適切な語はどれですか。「The doctor was called ( ) to deal with an emergency.」`,options:[`back`,`away`,`for`,`on`],correctAnswer:1,explanation:`呼び出されてその場を離れるという意味なので called away。`},{id:`q-callbackaway-3`,question:`be called away の意味として最も適切なものはどれですか。`,options:[`折り返し電話する`,`用事のために呼び出されてその場を離れる`,`電話を取り次ぐ`,`大声で呼ぶ`],correctAnswer:1,explanation:`be called away は緊急の用事などで中座することを表します。`},{id:`q-callbackaway-4`,question:`「彼女はあとで折り返すと言った」を最も自然に表す文はどれですか。`,options:[`She said she would call away later.`,`She said she would call back later.`,`She said she would call off later.`,`She said she would call on later.`],correctAnswer:1,explanation:`折り返し電話するという意味では call back が使われます。`},{id:`q-callbackaway-5`,question:`call back と call away の違いとして正しい説明はどれですか。`,options:[`両方とも同じ意味で置き換え可能`,`call back は電話に折り返し応じる、call away は用事で場を離れる`,`call back は場を離れる、call away は電話に応じる`,`意味の違いとは無関係`],correctAnswer:1,explanation:`電話の応答が call back、場からの引き離しが call away です。`}]},{id:`put-off-put-across`,title:`put off と put across`,chapter:5,hubId:`put`,description:`put off は「延期する・嫌にさせる」、put across は「（考えを）わかりやすく伝える」。同じ put でも向きがまったく違います。`,content:`## 遠ざけるか、伝え切るか
 
 put off と put across はどちらも「put＋前置詞」ですが、off が運ぶ「遠ざける」イメージと across が運ぶ「渡す」イメージが正反対の方向を向いています。
 
@@ -6716,7 +6776,37 @@ over は「境界・枠を越えてあふれる」イメージ、up は「下か
 
 ⚠️ \`He ran over a huge phone bill while traveling abroad.\`（誤）。高額請求を積み上げたなら run **up**。run over に「費用を増やす」の意味はありません。
 
-🎯 覚え方：**over＝枠を越えてあふれる（轢く・時間超過・ざっと目を通す）**、**up＝下から上へ積み上がる（借金が増える・駆け上がる）**。`,keyPoints:[`run over＝車で轢く、予定時間を超過する、原稿などにざっと目を通す`,`run up＝借金・費用を積み上げる、階段などを駆け上がる・急いで近づく`,`over は枠を越えてあふれるイメージ、up は下から上へ積み上がるイメージ`,`時間超過は run over、借金の増加は run up（混同しやすいので要注意）`],quiz:[{id:`q-runover-1`,question:`空所に入る適切な語はどれですか。「Sorry, the interview ran ( ) by ten minutes.」`,options:[`up`,`over`,`into`,`through`],correctAnswer:1,explanation:`予定時間を超過するという意味なので run over。`},{id:`q-runover-2`,question:`空所に入る適切な語はどれですか。「They ran ( ) a huge bill during their vacation abroad.」`,options:[`over`,`up`,`out of`,`down`],correctAnswer:1,explanation:`費用・請求額を積み上げるという意味なので run up。`},{id:`q-runover-3`,question:`run over の意味として適切でないものはどれですか。`,options:[`車で轢く`,`予定時間を超過する`,`借金を積み上げる`,`原稿にざっと目を通す`],correctAnswer:2,explanation:`借金を積み上げるのは run up の意味です。`},{id:`q-runover-4`,question:`「本番前に台本にざっと目を通した」を最も自然に表す文はどれですか。`,options:[`She ran up her lines before the show.`,`She ran over her lines before the show.`,`She ran out of her lines before the show.`,`She ran into her lines before the show.`],correctAnswer:1,explanation:`内容にざっと目を通すという意味では run over が使われます。`},{id:`q-runover-5`,question:`run over と run up のイメージの違いとして正しい説明はどれですか。`,options:[`両方とも同じ方向のイメージ`,`over は枠を越えてあふれる、up は下から上へ積み上がる`,`over は積み上がる、up は枠を越えてあふれる`,`イメージの違いとは無関係`],correctAnswer:1,explanation:`over（あふれる）と up（積み上がる）は方向が異なります。`}]},{id:`turn-out-turn-into`,title:`turn out と turn into`,chapter:5,hubId:`turn`,description:`turn out は「〜だと判明する・結果として〜になる」、turn into は「（別のものに）変化する」。結果を述べるか変身を述べるかの違いです。`,content:`## 判明するか、変身するか
+🎯 覚え方：**over＝枠を越えてあふれる（轢く・時間超過・ざっと目を通す）**、**up＝下から上へ積み上がる（借金が増える・駆け上がる）**。`,keyPoints:[`run over＝車で轢く、予定時間を超過する、原稿などにざっと目を通す`,`run up＝借金・費用を積み上げる、階段などを駆け上がる・急いで近づく`,`over は枠を越えてあふれるイメージ、up は下から上へ積み上がるイメージ`,`時間超過は run over、借金の増加は run up（混同しやすいので要注意）`],quiz:[{id:`q-runover-1`,question:`空所に入る適切な語はどれですか。「Sorry, the interview ran ( ) by ten minutes.」`,options:[`up`,`over`,`into`,`through`],correctAnswer:1,explanation:`予定時間を超過するという意味なので run over。`},{id:`q-runover-2`,question:`空所に入る適切な語はどれですか。「They ran ( ) a huge bill during their vacation abroad.」`,options:[`over`,`up`,`out of`,`down`],correctAnswer:1,explanation:`費用・請求額を積み上げるという意味なので run up。`},{id:`q-runover-3`,question:`run over の意味として適切でないものはどれですか。`,options:[`車で轢く`,`予定時間を超過する`,`借金を積み上げる`,`原稿にざっと目を通す`],correctAnswer:2,explanation:`借金を積み上げるのは run up の意味です。`},{id:`q-runover-4`,question:`「本番前に台本にざっと目を通した」を最も自然に表す文はどれですか。`,options:[`She ran up her lines before the show.`,`She ran over her lines before the show.`,`She ran out of her lines before the show.`,`She ran into her lines before the show.`],correctAnswer:1,explanation:`内容にざっと目を通すという意味では run over が使われます。`},{id:`q-runover-5`,question:`run over と run up のイメージの違いとして正しい説明はどれですか。`,options:[`両方とも同じ方向のイメージ`,`over は枠を越えてあふれる、up は下から上へ積み上がる`,`over は積み上がる、up は枠を越えてあふれる`,`イメージの違いとは無関係`],correctAnswer:1,explanation:`over（あふれる）と up（積み上がる）は方向が異なります。`}]},{id:`run-by-run-off`,title:`run something by と run off`,chapter:5,hubId:`run`,description:`同じ run でも by は「意見を聞くために伝える」、off は「逃げる・大量に印刷する」。相手の判断を仰ぐか、その場を去る・複製するかの違いです。`,content:`## 相手の判断を仰ぐのか、その場を去る・複製するのか
+
+run something by someone と run off はどちらも run を使いますが、向かう対象がまったく異なります。
+
+- **run something by someone** … 案や考えを伝えて**意見をもらう**。
+- **run off** … 突然その場を**去る**、大量に**印刷する**、液体が**流れ出る**。
+
+| 熟語 | 中心の意味 | 典型的な目的語 |
+| --- | --- | --- |
+| run something **by** someone | 意見を聞くために伝える | an idea, a plan |
+| run **off** | 逃げる／印刷する／流れ出る | （逃げる：主語のみ）／ copies（印刷）／ water（液体） |
+
+### run something by someone の使い分け
+
+run something by someone は「考えたことを相手に話して、感想や承認をもらう」という意味で、"Can I run something by you?" のように、本題に入る前の前置きとしてよく使われます。run something past someone とほぼ同じ意味で置き換え可能です。
+
+### run off の使い分け
+
+run off は「その場から突然走り去る」という基本の意味（人が主語）から、「大量の印刷物・コピーを作る」（I want 500 copies run off at once.）、「run off with で駆け落ちする・持ち逃げする」、「液体が流れ出る」という意味に広がります。いずれも「本体から離れて、外へ流れ出ていく・去っていく」イメージで共通しています。
+
+### なぜ直訳で読み解けないか
+
+by は「相手の脇を通過させて確認してもらう」イメージ、off は「本体から離れて外へ出ていく」イメージを運びます。run something by someone は「案を相手の脇を通して意見を求める」、run off は「人・印刷物・液体が本体から離れて外へ出ていく」という、確認のための経由と離脱という違いが意味の違いになっています。
+
+### よくある誤用
+
+⚠️ \`Let me run off this idea before we finalize it.\`（誤・意図不明瞭）。アイデアについて意見を聞きたいなら run this idea **by** you。run off は逃げる・印刷する意味なので、意見を求める文脈には使いません。
+
+⚠️ \`I need 500 copies run by at once.\`（誤）。大量に印刷してほしいなら run **off** 500 copies。run by は意見を求める意味なので、印刷の依頼には使えません。
+
+🎯 覚え方：**by＝相手の脇を通して確認してもらう（意見を聞く）**、**off＝本体から離れて外へ出ていく（去る・印刷する・流れ出る）**。`,keyPoints:[`run something by someone＝案や考えを伝えて意見をもらう（run past とほぼ同義）`,`run off＝突然その場を去る、大量に印刷する、run off with で駆け落ちする・持ち逃げする`,`by は相手を経由して確認してもらうイメージ、off は本体から離れて出ていくイメージ`,`意見を求めるのは run by、印刷や逃亡は run off（混同しやすいので要注意）`],quiz:[{id:`q-runbyoff-1`,question:`空所に入る適切な語はどれですか。「Can I run an idea ( ) you before the meeting?」`,options:[`off`,`by`,`over`,`through`],correctAnswer:1,explanation:`意見を聞くために伝えるという意味なので run by。`},{id:`q-runbyoff-2`,question:`空所に入る適切な語はどれですか。「Could you run ( ) fifty more copies of this handout?」`,options:[`by`,`off`,`into`,`through`],correctAnswer:1,explanation:`大量に印刷するという意味なので run off。`},{id:`q-runbyoff-3`,question:`run something by someone の意味として最も適切なものはどれですか。`,options:[`大量に印刷する`,`案を伝えて意見をもらう`,`突然逃げる`,`液体が流れ出る`],correctAnswer:1,explanation:`run by は相手の意見を求める意味です。`},{id:`q-runbyoff-4`,question:`「彼は妻の親友と駆け落ちした」を最も自然に表す文はどれですか。`,options:[`He ran by with his wife's best friend.`,`He ran off with his wife's best friend.`,`He ran through with his wife's best friend.`,`He ran into his wife's best friend.`],correctAnswer:1,explanation:`run off with で駆け落ちする・持ち逃げするという意味になります。`},{id:`q-runbyoff-5`,question:`run something by someone と run off の違いとして正しい説明はどれですか。`,options:[`両方とも同じ意味で置き換え可能`,`run by は相手の意見を求める、run off は去る・印刷する・流れ出る`,`run by は印刷する、run off は意見を求める`,`意味の違いとは無関係`],correctAnswer:1,explanation:`意見を求めるのが run by、離脱・複製・流出が run off です。`}]},{id:`turn-out-turn-into`,title:`turn out と turn into`,chapter:5,hubId:`turn`,description:`turn out は「〜だと判明する・結果として〜になる」、turn into は「（別のものに）変化する」。結果を述べるか変身を述べるかの違いです。`,content:`## 判明するか、変身するか
 
 turn out と turn into はどちらも「結果として〜になる」という訳になりがちですが、視点がまったく異なります。turn out は**もともとの正体・結果が明らかになる**こと、turn into は**別のものへ姿を変える**ことを表します。
 
@@ -6808,7 +6898,37 @@ on は「接続してスイッチが入った状態」、off は「接続が切�
 
 ⚠️ \`My cat suddenly turned off on me and scratched my hand.\`（誤）。急に攻撃的になったなら turn **on**。turn off は接続を切る意味なので「牙をむく」の意味にはなりません。
 
-🎯 覚え方：**on＝スイッチが入る（電源・興味・敵意が生まれる）**、**off＝スイッチが切れる（電源・興味・道のつながりが絶たれる）**。`,keyPoints:[`turn on＝電源を入れる、味方だった相手が急に攻撃的になる、興味・欲求を刺激する`,`turn off＝電源を切る、興味を失わせる、走行中の道から外れる`,`on は接続・スイッチが入る方向、off は接続が断たれる方向`,`「興味をなくさせる」は turn off、「興奮させる」は turn on（正反対の意味）`],quiz:[{id:`q-turnonoff-1`,question:`空所に入る適切な語はどれですか。「The dog suddenly turned ( ) its own owner and bit him.」`,options:[`off`,`on`,`down`,`up`],correctAnswer:1,explanation:`急に攻撃的になるという意味なので turn on。`},{id:`q-turnonoff-2`,question:`空所に入る適切な語はどれですか。「The rude service really turned ( ) the customers.」`,options:[`on`,`off`,`over`,`into`],correctAnswer:1,explanation:`興味・好意を失わせるという意味なので turn off。`},{id:`q-turnonoff-3`,question:`turn on の意味として適切でないものはどれですか。`,options:[`電源を入れる`,`興味を失わせる`,`味方が急に攻撃的になる`,`興奮させる`],correctAnswer:1,explanation:`興味を失わせるのは turn off の意味です。`},{id:`q-turnonoff-4`,question:`「次の出口で高速道路を降りてください」を最も自然に表す文はどれですか。`,options:[`Please turn on the highway at the next exit.`,`Please turn off the highway at the next exit.`,`Please turn over the highway at the next exit.`,`Please turn up the highway at the next exit.`],correctAnswer:1,explanation:`道から外れるという意味では turn off が使われます。`},{id:`q-turnonoff-5`,question:`turn on と turn off の関係として正しい説明はどれですか。`,options:[`両方とも「興味を失わせる」という同じ意味`,`on は接続・興味が生まれる方向、off は接続・興味が絶たれる方向`,`on は道から外れる、off はスイッチを入れる`,`意味の違いはなく完全に置き換え可能`],correctAnswer:1,explanation:`on（接続が入る）と off（接続が切れる）は方向が逆です。`}]},{id:`hold-off-hold-out`,title:`hold off と hold out`,chapter:5,hubId:`hold`,description:`hold off は「（好ましくないこと）を先延ばしにする・食い止める」、hold out は「持ちこたえる・差し出す」。距離を置くか、手を伸ばして耐えるかの違いです。`,content:`## 距離を置いて防ぐか、伸ばして耐えるか
+🎯 覚え方：**on＝スイッチが入る（電源・興味・敵意が生まれる）**、**off＝スイッチが切れる（電源・興味・道のつながりが絶たれる）**。`,keyPoints:[`turn on＝電源を入れる、味方だった相手が急に攻撃的になる、興味・欲求を刺激する`,`turn off＝電源を切る、興味を失わせる、走行中の道から外れる`,`on は接続・スイッチが入る方向、off は接続が断たれる方向`,`「興味をなくさせる」は turn off、「興奮させる」は turn on（正反対の意味）`],quiz:[{id:`q-turnonoff-1`,question:`空所に入る適切な語はどれですか。「The dog suddenly turned ( ) its own owner and bit him.」`,options:[`off`,`on`,`down`,`up`],correctAnswer:1,explanation:`急に攻撃的になるという意味なので turn on。`},{id:`q-turnonoff-2`,question:`空所に入る適切な語はどれですか。「The rude service really turned ( ) the customers.」`,options:[`on`,`off`,`over`,`into`],correctAnswer:1,explanation:`興味・好意を失わせるという意味なので turn off。`},{id:`q-turnonoff-3`,question:`turn on の意味として適切でないものはどれですか。`,options:[`電源を入れる`,`興味を失わせる`,`味方が急に攻撃的になる`,`興奮させる`],correctAnswer:1,explanation:`興味を失わせるのは turn off の意味です。`},{id:`q-turnonoff-4`,question:`「次の出口で高速道路を降りてください」を最も自然に表す文はどれですか。`,options:[`Please turn on the highway at the next exit.`,`Please turn off the highway at the next exit.`,`Please turn over the highway at the next exit.`,`Please turn up the highway at the next exit.`],correctAnswer:1,explanation:`道から外れるという意味では turn off が使われます。`},{id:`q-turnonoff-5`,question:`turn on と turn off の関係として正しい説明はどれですか。`,options:[`両方とも「興味を失わせる」という同じ意味`,`on は接続・興味が生まれる方向、off は接続・興味が絶たれる方向`,`on は道から外れる、off はスイッチを入れる`,`意味の違いはなく完全に置き換え可能`],correctAnswer:1,explanation:`on（接続が入る）と off（接続が切れる）は方向が逆です。`}]},{id:`turn-over-turn-away`,title:`turn over と turn away`,chapter:5,hubId:`turn`,description:`同じ turn でも over は「警察に引き渡す・売上を上げる」、away は「入場を断る・追い返す」。相手に渡すか、拒んで遠ざけるかの違いです。`,content:`## 相手に渡すのか、拒んで遠ざけるのか
+
+turn over と turn away はどちらも人や物の扱いを表しますが、向かう方向が異なります。
+
+- **turn over** … 犯人などを**警察に引き渡す**、事業が一定の**売上を上げる**。
+- **turn away** … 入場や要求を**拒む・追い返す**。
+
+| 熟語 | 中心の意味 | 典型的な目的語 |
+| --- | --- | --- |
+| turn **over** | 引き渡す・売上を上げる | a suspect to the police（引き渡す）／ $340 million（売上） |
+| turn **away** | 入場を拒む・追い返す | people at the door, a request |
+
+### turn over の使い分け
+
+turn over は「容疑者や物を、権限のある人・組織へ引き渡す」（They turned the suspect over to the police.）という意味の他に、ビジネスの文脈で「一定期間にどれだけの売上を計上したか」（The company turned over $340 million last year.）を表す語としても使われます。名詞形 turnover（売上高・離職率）としても定着しています。
+
+### turn away の使い分け
+
+turn away は「満員などの理由で人を入場させない」（The club was turning people away at the door.）という意味で使われます。比喩的に「支援や興味の対象から離れる」という意味にも広がりますが、中心は「相手を拒んで自分から遠ざける」ことです。
+
+### なぜ直訳で読み解けないか
+
+over は「自分の手にあるものを相手の手へ渡す」イメージ、away は「相手を自分から遠ざける」イメージを運びます。turn over は「対象を権限のある相手へ渡す、または売上として計上する」、turn away は「入場希望者を拒んで遠ざける」という、渡す方向と遠ざける方向の違いが意味の違いになっています。
+
+### よくある誤用
+
+⚠️ \`The bouncer turned over several people at the door.\`（誤・意図不明瞭）。入場を断ったなら turned **away**。turn over は引き渡す・売上を上げる意味なので、入場拒否には使いません。
+
+⚠️ \`They turned away the suspect to the police.\`（誤）。容疑者を警察に引き渡したなら turned **over**。turn away は拒む・追い返す意味なので、引き渡しには使えません。
+
+🎯 覚え方：**over＝自分の手から相手の手へ渡す（引き渡す・売上を上げる）**、**away＝相手を自分から遠ざける（入場を拒む・追い返す）**。`,keyPoints:[`turn over＝容疑者や物を権限のある相手に引き渡す、事業が一定の売上を計上する（名詞形turnover）`,`turn away＝満員などを理由に人の入場を拒む・追い返す`,`over は相手へ渡すイメージ、away は相手を遠ざけるイメージ`,`容疑者の引き渡しは turn over、入場拒否は turn away（混同しやすいので要注意）`],quiz:[{id:`q-turnoveraway-1`,question:`空所に入る適切な語はどれですか。「The witness turned the evidence ( ) to the police.」`,options:[`away`,`over`,`off`,`down`],correctAnswer:1,explanation:`証拠を引き渡すという意味なので turn over。`},{id:`q-turnoveraway-2`,question:`空所に入る適切な語はどれですか。「The concert was sold out, so hundreds of fans were turned ( ).」`,options:[`over`,`away`,`on`,`up`],correctAnswer:1,explanation:`入場を断られるという意味なので turned away。`},{id:`q-turnoveraway-3`,question:`turn over の意味として適切でないものはどれですか。`,options:[`権限のある相手に引き渡す`,`事業が売上を計上する`,`入場を拒む`,`責任を移譲する`],correctAnswer:2,explanation:`入場を拒むのは turn away の意味です。`},{id:`q-turnoveraway-4`,question:`「その会社は昨年3億ドルの売上を上げた」を最も自然に表す文はどれですか。`,options:[`The company turned away $300 million last year.`,`The company turned over $300 million last year.`,`The company turned out $300 million last year.`,`The company turned down $300 million last year.`],correctAnswer:1,explanation:`売上を計上するという意味では turn over が使われます。`},{id:`q-turnoveraway-5`,question:`turn over と turn away の違いとして正しい説明はどれですか。`,options:[`両方とも同じ意味で置き換え可能`,`turn over は相手に渡す・売上を計上する、turn away は入場を拒む・追い返す`,`turn over は入場を拒む、turn away は相手に渡す`,`意味の違いとは無関係`],correctAnswer:1,explanation:`引き渡し・売上が turn over、拒絶・追い返しが turn away です。`}]},{id:`hold-off-hold-out`,title:`hold off と hold out`,chapter:5,hubId:`hold`,description:`hold off は「（好ましくないこと）を先延ばしにする・食い止める」、hold out は「持ちこたえる・差し出す」。距離を置くか、手を伸ばして耐えるかの違いです。`,content:`## 距離を置いて防ぐか、伸ばして耐えるか
 
 hold off と hold out はどちらも「困難な状況で持ちこたえる」ニュアンスを持ちますが、off の「距離を置く」イメージと out の「外へ伸ばす」イメージで意味の方向が異なります。
 
@@ -6900,7 +7020,37 @@ on は「今の状態に接触し続ける」イメージ、over は「本来の
 
 ⚠️ \`The committee decided to hold on the vote until next month.\`（誤・意図不明瞭）。採決を来月まで持ち越すなら hold **over**。hold on は「待つ・つかまる」の意味なので、決定を先送りする文脈では不自然です。
 
-🎯 覚え方：**on＝今の状態を保ち続ける（待つ・つかまる・耐える）**、**over＝期限の向こうへ持ち越す（延期する・上映延長する）**。`,keyPoints:[`hold on＝電話で待つ、しっかりつかまる、苦しい状況で持ちこたえる`,`hold over＝決定や案件をあとの時点まで延期する、好評の上映・公演を延長する`,`on は今の状態を保ち続けるイメージ、over は期限の向こうへ持ち越すイメージ`,`電話の保留は hold on、決定の先送りは hold over（混同しやすいので要注意）`],quiz:[{id:`q-holdon-1`,question:`空所に入る適切な語はどれですか。「Could you hold ( ) a moment while I get the file?」`,options:[`over`,`on`,`off`,`up`],correctAnswer:1,explanation:`電話や会話で待ってもらうという意味なので hold on。`},{id:`q-holdon-2`,question:`空所に入る適切な語はどれですか。「The final decision was held ( ) until the board could review it.」`,options:[`on`,`over`,`out`,`back`],correctAnswer:1,explanation:`決定を後の時点まで延期するという意味なので hold over。`},{id:`q-holdon-3`,question:`hold over の意味として最も適切なものはどれですか。`,options:[`しっかりつかまる`,`決定や上映をあとに持ち越す`,`電話で待つ`,`苦しい状況で耐える`],correctAnswer:1,explanation:`hold over は決定や興行を後の時点まで持ち越す意味です。`},{id:`q-holdon-4`,question:`「その映画は好評につき上映が延長された」を最も自然に表す文はどれですか。`,options:[`The film was held on for another week.`,`The film was held over for another week.`,`The film was held up for another week.`,`The film was held back for another week.`],correctAnswer:1,explanation:`上映期間を延長するという意味では hold over が使われます。`},{id:`q-holdon-5`,question:`hold on と hold over の違いとして正しい説明はどれですか。`,options:[`両方とも同じ意味で置き換え可能`,`hold on は今の状態を保ち続ける、hold over はあとの時点まで持ち越す`,`hold on はあとの時点まで持ち越す、hold over は今の状態を保ち続ける`,`意味の違いとは無関係`],correctAnswer:1,explanation:`今を保持するのが hold on、期限の先へ持ち越すのが hold over です。`}]},{id:`set-out-set-back`,title:`set out と set back`,chapter:5,hubId:`set`,description:`set out は「出発する・着手する・述べる」、set back は「（進捗）を遅らせる・費用がかかる」。前へ踏み出すか、後ろへ押し戻されるかの違いです。`,content:`## 踏み出すか、押し戻されるか
+🎯 覚え方：**on＝今の状態を保ち続ける（待つ・つかまる・耐える）**、**over＝期限の向こうへ持ち越す（延期する・上映延長する）**。`,keyPoints:[`hold on＝電話で待つ、しっかりつかまる、苦しい状況で持ちこたえる`,`hold over＝決定や案件をあとの時点まで延期する、好評の上映・公演を延長する`,`on は今の状態を保ち続けるイメージ、over は期限の向こうへ持ち越すイメージ`,`電話の保留は hold on、決定の先送りは hold over（混同しやすいので要注意）`],quiz:[{id:`q-holdon-1`,question:`空所に入る適切な語はどれですか。「Could you hold ( ) a moment while I get the file?」`,options:[`over`,`on`,`off`,`up`],correctAnswer:1,explanation:`電話や会話で待ってもらうという意味なので hold on。`},{id:`q-holdon-2`,question:`空所に入る適切な語はどれですか。「The final decision was held ( ) until the board could review it.」`,options:[`on`,`over`,`out`,`back`],correctAnswer:1,explanation:`決定を後の時点まで延期するという意味なので hold over。`},{id:`q-holdon-3`,question:`hold over の意味として最も適切なものはどれですか。`,options:[`しっかりつかまる`,`決定や上映をあとに持ち越す`,`電話で待つ`,`苦しい状況で耐える`],correctAnswer:1,explanation:`hold over は決定や興行を後の時点まで持ち越す意味です。`},{id:`q-holdon-4`,question:`「その映画は好評につき上映が延長された」を最も自然に表す文はどれですか。`,options:[`The film was held on for another week.`,`The film was held over for another week.`,`The film was held up for another week.`,`The film was held back for another week.`],correctAnswer:1,explanation:`上映期間を延長するという意味では hold over が使われます。`},{id:`q-holdon-5`,question:`hold on と hold over の違いとして正しい説明はどれですか。`,options:[`両方とも同じ意味で置き換え可能`,`hold on は今の状態を保ち続ける、hold over はあとの時点まで持ち越す`,`hold on はあとの時点まで持ち越す、hold over は今の状態を保ち続ける`,`意味の違いとは無関係`],correctAnswer:1,explanation:`今を保持するのが hold on、期限の先へ持ち越すのが hold over です。`}]},{id:`hold-together-hold-against`,title:`hold together と hold against`,chapter:5,hubId:`hold`,description:`同じ hold でも together は「バラバラにならず団結・一体を保つ」、against は「過去の過ちを理由に悪印象を持ち続ける」。まとまりを保つか、悪材料として握り続けるかの違いです。`,content:`## まとまりを保つのか、悪材料として握り続けるのか
+
+hold together と hold against はどちらも「保持する」という hold の核から出ていますが、保持する対象が異なります。
+
+- **hold together** … 集団やまとまりが**バラバラにならず一体を保つ**。
+- **hold something against someone** … 相手の過去の過ちを**悪材料として持ち続け、評価を下げる**。
+
+| 熟語 | 中心の意味 | 典型的な主語・目的語 |
+| --- | --- | --- |
+| hold together | 団結を保つ・崩れずにいる | a team, a family, an argument |
+| hold ... against ... | 過去の過ちを理由に悪く思う | a mistake against someone |
+
+### hold together の使い分け
+
+hold together は「複数の部分やメンバーが分裂せず、1つのまとまりを保ち続ける」という意味で、"It's usually the drummer who holds the band together." のように使われます。議論や理論が「筋が通っている・一貫している」（The argument doesn't hold together.）という意味にも使われ、いずれも「バラバラになる力に逆らって一体性を保つ」イメージです。
+
+### hold against の使い分け
+
+hold something against someone は「相手が過去にした過ちを理由に、今もその人を悪く評価し続ける」という意味で、"He made a mistake, but I don't hold it against him — we all make mistakes." のように、多くは否定文で「根に持たない」ことを表す際に使われます。
+
+### なぜ直訳で読み解けないか
+
+together は「複数のものを1つに保つ」イメージ、against は「相手に不利な材料を突き付け続ける」イメージを運びます。hold together は「分裂しそうなものを1つにまとめ続ける」、hold against は「過去の過ちという材料を相手に対して持ち続ける」という、まとめる対象と向ける対象の違いが意味の違いになっています。
+
+### よくある誤用
+
+⚠️ \`I don't hold together his mistake.\`（誤・意図不明瞭）。彼の過ちを根に持たないなら don't hold it **against** him。hold together はまとまりを保つ意味なので、個人への評価には使いません。
+
+⚠️ \`It's the mother who usually holds the family against.\`（誤）。家族の結束を保っているなら holds the family **together**。hold against は悪印象を持ち続ける意味なので、結束を表すには使えません。
+
+🎯 覚え方：**together＝バラバラになる力に逆らって1つに保つ（団結を保つ）**、**against＝過去の過ちを相手に対して持ち続ける（根に持つ）**。`,keyPoints:[`hold together＝集団や議論がバラバラにならず一体性・一貫性を保つ`,`hold something against someone＝相手の過去の過ちを理由に悪く思い続ける（多くは否定文）`,`together は複数のものを1つにまとめるイメージ、against は相手に不利な材料を向け続けるイメージ`,`結束を保つのは hold together、根に持つのは hold against（対象がまったく異なる）`],quiz:[{id:`q-holdtogetheragainst-1`,question:`空所に入る適切な語はどれですか。「It was the captain who held the team ( ) during the crisis.」`,options:[`against`,`together`,`over`,`back`],correctAnswer:1,explanation:`チームの結束を保つという意味なので hold together。`},{id:`q-holdtogetheragainst-2`,question:`空所に入る適切な語はどれですか。「He made a mistake, but I do not hold it ( ) him.」`,options:[`together`,`against`,`on`,`out`],correctAnswer:1,explanation:`過去の過ちを根に持たないという意味なので hold against。`},{id:`q-holdtogetheragainst-3`,question:`hold together の意味として最も適切なものはどれですか。`,options:[`過去の過ちを根に持つ`,`集団や議論がまとまりを保つ`,`折り返し電話する`,`手元に隠しておく`],correctAnswer:1,explanation:`hold together は分裂せず一体性を保つ意味です。`},{id:`q-holdtogetheragainst-4`,question:`「その議論は筋が通っていない」を最も自然に表す文はどれですか。`,options:[`The argument does not hold against.`,`The argument does not hold together.`,`The argument does not hold on.`,`The argument does not hold up together against.`],correctAnswer:1,explanation:`議論が一貫しているという意味では hold together が使われます。`},{id:`q-holdtogetheragainst-5`,question:`hold together と hold against の違いとして正しい説明はどれですか。`,options:[`両方とも同じ意味で置き換え可能`,`hold together はまとまりを保つ、hold against は過去の過ちを理由に悪く思い続ける`,`hold together は過去の過ちを理由に悪く思う、hold against はまとまりを保つ`,`意味の違いとは無関係`],correctAnswer:1,explanation:`団結の維持が hold together、根に持つことが hold against です。`}]},{id:`set-out-set-back`,title:`set out と set back`,chapter:5,hubId:`set`,description:`set out は「出発する・着手する・述べる」、set back は「（進捗）を遅らせる・費用がかかる」。前へ踏み出すか、後ろへ押し戻されるかの違いです。`,content:`## 踏み出すか、押し戻されるか
 
 set out と set back は set の後に続く前置詞の向きが正反対で、意味も「前進」と「後退」に分かれます。
 
@@ -6992,7 +7142,37 @@ aside は「本筋から外れた脇」、about は「対象の周りに関わ�
 
 ⚠️ \`She set aside cooking dinner as soon as she got home.\`（誤）。夕食作りに取り掛かったなら set **about**。set aside は後回しにする意味なので、「すぐに始めた」という文脈とは矛盾します。
 
-🎯 覚え方：**aside＝本筋の脇に置く（取っておく・後回しにする）**、**about＝対象の周りに関わり始める（取り掛かる）**。`,keyPoints:[`set aside＝時間やお金を特定の目的のために取っておく、対立を脇に置いて後回しにする`,`set about＝何かに取り掛かる・着手する（set about doing something の形が典型）`,`aside は本筋の脇に置くイメージ、about は対象の周囲に関わり始めるイメージ`,`set aside は保留・確保、set about は開始という正反対の向き`],quiz:[{id:`q-setaside-1`,question:`空所に入る適切な語はどれですか。「We need to set ( ) our differences and work together.」`,options:[`about`,`aside`,`off`,`up`],correctAnswer:1,explanation:`対立を脇に置いて後回しにするという意味なので set aside。`},{id:`q-setaside-2`,question:`空所に入る適切な語はどれですか。「As soon as she got home, she set ( ) preparing dinner.」`,options:[`aside`,`about`,`back`,`out`],correctAnswer:1,explanation:`作業に取り掛かるという意味なので set about。`},{id:`q-setaside-3`,question:`set aside の目的語として自然なものはどれですか。`,options:[`the housework`,`some money for travel`,`a new project`,`a difficult task`],correctAnswer:1,explanation:`set aside はお金や時間を取っておく際に使われます。`},{id:`q-setaside-4`,question:`「彼はテントを張ったあと、すぐに火をおこす作業に取り掛かった」を表す文として自然なものはどれですか。`,options:[`He set aside making a fire.`,`He set about making a fire.`,`He set off making a fire.`,`He set up making a fire.`],correctAnswer:1,explanation:`作業に着手するという意味では set about が使われます。`},{id:`q-setaside-5`,question:`set aside と set about の違いとして正しい説明はどれですか。`,options:[`両方とも「取り掛かる」という同じ意味`,`set aside は取っておく・後回しにする、set about は取り掛かる`,`set aside は取り掛かる、set about は取っておく`,`意味の違いとは無関係`],correctAnswer:1,explanation:`保留・確保が set aside、着手が set about です。`}]},{id:`make-up-for-make-do-with`,title:`make up for と make do with`,chapter:5,hubId:`make`,description:`make up for は「（不足・損失）を埋め合わせる」、make do with は「（不本意ながら）で済ませる」。埋め合わせるか妥協するかの違いです。`,content:`## 埋め合わせるか、妥協するか
+🎯 覚え方：**aside＝本筋の脇に置く（取っておく・後回しにする）**、**about＝対象の周りに関わり始める（取り掛かる）**。`,keyPoints:[`set aside＝時間やお金を特定の目的のために取っておく、対立を脇に置いて後回しにする`,`set about＝何かに取り掛かる・着手する（set about doing something の形が典型）`,`aside は本筋の脇に置くイメージ、about は対象の周囲に関わり始めるイメージ`,`set aside は保留・確保、set about は開始という正反対の向き`],quiz:[{id:`q-setaside-1`,question:`空所に入る適切な語はどれですか。「We need to set ( ) our differences and work together.」`,options:[`about`,`aside`,`off`,`up`],correctAnswer:1,explanation:`対立を脇に置いて後回しにするという意味なので set aside。`},{id:`q-setaside-2`,question:`空所に入る適切な語はどれですか。「As soon as she got home, she set ( ) preparing dinner.」`,options:[`aside`,`about`,`back`,`out`],correctAnswer:1,explanation:`作業に取り掛かるという意味なので set about。`},{id:`q-setaside-3`,question:`set aside の目的語として自然なものはどれですか。`,options:[`the housework`,`some money for travel`,`a new project`,`a difficult task`],correctAnswer:1,explanation:`set aside はお金や時間を取っておく際に使われます。`},{id:`q-setaside-4`,question:`「彼はテントを張ったあと、すぐに火をおこす作業に取り掛かった」を表す文として自然なものはどれですか。`,options:[`He set aside making a fire.`,`He set about making a fire.`,`He set off making a fire.`,`He set up making a fire.`],correctAnswer:1,explanation:`作業に着手するという意味では set about が使われます。`},{id:`q-setaside-5`,question:`set aside と set about の違いとして正しい説明はどれですか。`,options:[`両方とも「取り掛かる」という同じ意味`,`set aside は取っておく・後回しにする、set about は取り掛かる`,`set aside は取り掛かる、set about は取っておく`,`意味の違いとは無関係`],correctAnswer:1,explanation:`保留・確保が set aside、着手が set about です。`}]},{id:`set-apart-set-forth`,title:`set apart と set forth`,chapter:5,hubId:`set`,description:`同じ set でも apart は「際立たせる・区別する」、forth は「出発する・詳しく説明する」。他と分けて置くか、前に押し出すかの違いです。`,content:`## 他と分けて置くのか、前へ押し出すのか
+
+set apart と set forth はどちらも set のあとに副詞が続く形ですが、動く方向が異なります。
+
+- **set ... apart** … 他と**区別する・際立たせる**。
+- **set forth** … 旅に**出発する**、内容を**詳しく説明する**（やや形式的）。
+
+| 熟語 | 中心の意味 | 典型的な目的語 |
+| --- | --- | --- |
+| set ... apart | 際立たせる・区別する | a candidate from others, a brand |
+| set forth | 出発する／説明する | （出発：主語のみ）／ the terms, the plan（説明） |
+
+### set apart の使い分け
+
+set apart は「ある特徴が、対象を同種の他のものより際立たせる・優れて見せる」という意味で、"What set her apart from the other candidates was her original ideas." のように使われます。「他と分けて特別な場所に置く」というイメージが核にあります。
+
+### set forth の使い分け
+
+set forth はやや格式ばった表現で、「旅に出発する」という意味（物語や旅行記の文体でよく見られる）から、「契約書や規則の内容を、整理して詳しく説明する」（The terms are set forth in Section 3.）という意味に広がります。日常会話よりも法律文書や正式な文章で使われる傾向があります。
+
+### なぜ直訳で読み解けないか
+
+apart は「本体から離れた特別な場所へ置く」イメージ、forth は「前方へ押し出す」イメージを運びます。set apart は「対象を他から離れた特別な位置に置いて際立たせる」、set forth は「自分の身や説明内容を前方へ押し出して展開する」という、離して置くか前へ出すかの違いが意味の違いになっています。
+
+### よくある誤用
+
+⚠️ \`The contract sets apart the terms of employment in Section 3.\`（誤）。契約書が条件を説明しているなら sets **forth**。set apart は際立たせる・区別する意味なので、条文の説明には使いません。
+
+⚠️ \`Her original ideas set her forth from the other candidates.\`（誤）。他の候補者と違って際立ったなら set her **apart**。set forth は出発・説明の意味なので、人を際立たせる文脈には使えません。
+
+🎯 覚え方：**apart＝他から離れた特別な場所に置く（際立たせる）**、**forth＝前方へ押し出す（出発する・説明する）**。`,keyPoints:[`set ... apart＝ある特徴が対象を他と区別し際立たせる`,`set forth＝旅に出発する、契約・規則の内容を整理して詳しく説明する（形式的な表現）`,`apart は他から離れた特別な位置に置くイメージ、forth は前方へ押し出すイメージ`,`候補者を際立たせるのは set apart、契約条件の説明は set forth`],quiz:[{id:`q-setapartforth-1`,question:`空所に入る適切な語はどれですか。「What set him ( ) from the other applicants was his experience abroad.」`,options:[`forth`,`apart`,`about`,`aside`],correctAnswer:1,explanation:`他と区別し際立たせるという意味なので set apart。`},{id:`q-setapartforth-2`,question:`空所に入る適切な語はどれですか。「The rules of the competition are set ( ) in the official handbook.」`,options:[`apart`,`forth`,`aside`,`about`],correctAnswer:1,explanation:`規則の内容を詳しく説明するという意味なので set forth。`},{id:`q-setapartforth-3`,question:`set apart の意味として最も適切なものはどれですか。`,options:[`旅に出発する`,`他と区別し際立たせる`,`内容を詳しく説明する`,`取り掛かる`],correctAnswer:1,explanation:`set apart は他との違いを際立たせる意味です。`},{id:`q-setapartforth-4`,question:`「その契約書には支払い条件が詳しく記されている」を最も自然に表す文はどれですか。`,options:[`The payment terms are set apart in the contract.`,`The payment terms are set forth in the contract.`,`The payment terms are set aside in the contract.`,`The payment terms are set about in the contract.`],correctAnswer:1,explanation:`契約内容を詳しく説明するという意味では set forth が使われます。`},{id:`q-setapartforth-5`,question:`set apart と set forth の違いとして正しい説明はどれですか。`,options:[`両方とも同じ意味で置き換え可能`,`set apart は他と区別し際立たせる、set forth は出発する・詳しく説明する`,`set apart は出発する、set forth は他と区別する`,`意味の違いとは無関係`],correctAnswer:1,explanation:`区別・際立たせが set apart、出発・説明が set forth です。`}]},{id:`make-up-for-make-do-with`,title:`make up for と make do with`,chapter:5,hubId:`make`,description:`make up for は「（不足・損失）を埋め合わせる」、make do with は「（不本意ながら）で済ませる」。埋め合わせるか妥協するかの違いです。`,content:`## 埋め合わせるか、妥協するか
 
 make up for と make do with はどちらも「理想どおりではない状況への対応」を表しますが、up for の「不足を積み増す」イメージと do with の「今あるもので処理する」イメージが異なります。
 
@@ -7084,7 +7264,37 @@ up は「バラバラなものを引き上げてひとまとまりにする」�
 
 ⚠️ \`Women make off with more than half of the staff.\`（誤・意図不明瞭）。構成するという意味なら make **up**。make off with は窃盗の文脈でしか使わないので、統計の説明には不自然です。
 
-🎯 覚え方：**up＝バラバラなものをまとめ上げる（仲直りする・作り話・構成する）**、**off with＝何かを伴ってその場を去る（盗んで逃げる）**。`,keyPoints:[`make up＝喧嘩のあと仲直りする、話をでっち上げる、全体を構成する`,`make off with＝何かを盗んで急いで持ち去る`,`up はバラバラなものをまとめ上げるイメージ、off with はその場を離れる＋何かを伴う組み合わせ`,`窃盗のニュースで頻出するのは make off with（make up と混同しない）`],quiz:[{id:`q-makeupoff-1`,question:`空所に入る適切な語はどれですか。「They had a huge argument but made ( ) the next morning.」`,options:[`off`,`up`,`out`,`for`],correctAnswer:1,explanation:`仲直りするという意味なので make up。`},{id:`q-makeupoff-2`,question:`空所に入る適切な語はどれですか。「The thief made ( ) with a bag full of cash.」`,options:[`up`,`off`,`out`,`for`],correctAnswer:1,explanation:`盗んで逃げるという意味なので make off with。`},{id:`q-makeupoff-3`,question:`make up の意味として適切でないものはどれですか。`,options:[`仲直りする`,`話をでっち上げる`,`盗んで逃げる`,`全体を構成する`],correctAnswer:2,explanation:`盗んで逃げるのは make off with の意味です。`},{id:`q-makeupoff-4`,question:`「彼は遅刻の言い訳をでっち上げた」を最も自然に表す文はどれですか。`,options:[`He made off with an excuse for being late.`,`He made up an excuse for being late.`,`He made for an excuse for being late.`,`He made out an excuse for being late.`],correctAnswer:1,explanation:`話をでっち上げるという意味では make up が使われます。`},{id:`q-makeupoff-5`,question:`make up と make off with の関係として正しい説明はどれですか。`,options:[`両方とも「盗む」という同じ意味`,`make up はまとめ上げる（仲直り・作り話・構成）、make off with は盗んで逃げる`,`make up は盗んで逃げる、make off with はまとめ上げる`,`意味の違いとは無関係`],correctAnswer:1,explanation:`make up（まとめ上げる）と make off with（盗んで逃げる）は全く別の意味です。`}]},{id:`pass-for-pass-off-as`,title:`pass for と pass off as`,chapter:5,hubId:`pass`,description:`pass for は「〜として通用する」、pass off as は「（偽物）を〜だと偽って通用させる」。悪意を伴わない自動詞と、意図的にだます他動詞の違いです。`,content:`## 通用するか、偽って通用させるか
+🎯 覚え方：**up＝バラバラなものをまとめ上げる（仲直りする・作り話・構成する）**、**off with＝何かを伴ってその場を去る（盗んで逃げる）**。`,keyPoints:[`make up＝喧嘩のあと仲直りする、話をでっち上げる、全体を構成する`,`make off with＝何かを盗んで急いで持ち去る`,`up はバラバラなものをまとめ上げるイメージ、off with はその場を離れる＋何かを伴う組み合わせ`,`窃盗のニュースで頻出するのは make off with（make up と混同しない）`],quiz:[{id:`q-makeupoff-1`,question:`空所に入る適切な語はどれですか。「They had a huge argument but made ( ) the next morning.」`,options:[`off`,`up`,`out`,`for`],correctAnswer:1,explanation:`仲直りするという意味なので make up。`},{id:`q-makeupoff-2`,question:`空所に入る適切な語はどれですか。「The thief made ( ) with a bag full of cash.」`,options:[`up`,`off`,`out`,`for`],correctAnswer:1,explanation:`盗んで逃げるという意味なので make off with。`},{id:`q-makeupoff-3`,question:`make up の意味として適切でないものはどれですか。`,options:[`仲直りする`,`話をでっち上げる`,`盗んで逃げる`,`全体を構成する`],correctAnswer:2,explanation:`盗んで逃げるのは make off with の意味です。`},{id:`q-makeupoff-4`,question:`「彼は遅刻の言い訳をでっち上げた」を最も自然に表す文はどれですか。`,options:[`He made off with an excuse for being late.`,`He made up an excuse for being late.`,`He made for an excuse for being late.`,`He made out an excuse for being late.`],correctAnswer:1,explanation:`話をでっち上げるという意味では make up が使われます。`},{id:`q-makeupoff-5`,question:`make up と make off with の関係として正しい説明はどれですか。`,options:[`両方とも「盗む」という同じ意味`,`make up はまとめ上げる（仲直り・作り話・構成）、make off with は盗んで逃げる`,`make up は盗んで逃げる、make off with はまとめ上げる`,`意味の違いとは無関係`],correctAnswer:1,explanation:`make up（まとめ上げる）と make off with（盗んで逃げる）は全く別の意味です。`}]},{id:`make-over-make-of`,title:`make over と make of`,chapter:5,hubId:`make`,description:`同じ make でも over は「財産を正式に譲渡する・作り変える」、of は「〜をどう思うか・理解する」。所有権や姿を変えるか、評価や理解を問うかの違いです。`,content:`## 所有権や姿を変えるのか、評価や理解を問うのか
+
+make over と make of はどちらも make のあとに前置詞が続く形ですが、扱う対象がまったく異なります。
+
+- **make ... over** … 財産などを**正式に譲渡する**、外見や部屋を**作り変える**。
+- **make of** … 人や物事を**どう思うか・どう理解するか**を表す（多くは疑問文）。
+
+| 熟語 | 中心の意味 | 典型的な目的語 |
+| --- | --- | --- |
+| make ... over | 譲渡する・作り変える | property, money（譲渡）／ a room, one's appearance（作り変え） |
+| make ... of | 〜への評価・理解 | What do you make of him?（評価）／ I cannot make anything of this.（理解） |
+
+### make over の使い分け
+
+make over は「財産やお金を、法的に正式に相手の所有に移す」（He made over the property to his eldest son.）という意味と、「見た目や空間を大きく作り変える」（The plastic surgeon made her face over.）という意味の2つを持ちます。名詞形 makeover（イメージチェンジ）としても広く定着しています。
+
+### make of の使い分け
+
+make of は多くの場合 "What do you make of ...?" という疑問文の形で使われ、「〜についてどう思うか・どう解釈するか」を尋ねる表現です。"What do you make of the new manager?" のように、相手の印象や評価を聞く場面で頻出します。否定文では「〜が理解できない」（I couldn't make anything of his explanation.）という意味にもなります。
+
+### なぜ直訳で読み解けないか
+
+over は「対象を相手側へそっくり渡す・上から作り替える」イメージ、of は「対象について自分の中で意味づけをする」イメージを運びます。make over は「所有権や見た目を相手側・新しい形へ作り替える」、make of は「対象について自分なりの評価や理解を形作る」という、対象を変えるか対象への評価を形作るかの違いが意味の違いになっています。
+
+### よくある誤用
+
+⚠️ \`What do you make over the new policy?\`（誤）。新しい方針をどう思うか尋ねるなら What do you make **of** the new policy?。make over は譲渡・作り変えの意味なので、意見を尋ねる疑問文には使いません。
+
+⚠️ \`He made of the family business to his daughter.\`（誤）。事業を娘に譲渡したなら made **over** the family business。make of は評価・理解の意味なので、譲渡には使えません。
+
+🎯 覚え方：**over＝そっくり相手側・新しい形へ渡す（譲渡する・作り変える）**、**of＝対象について自分なりの意味づけをする（どう思うか・理解する）**。`,keyPoints:[`make ... over＝財産やお金を正式に譲渡する、外見や部屋を作り変える（名詞形 makeover）`,`make of＝「What do you make of ...?」の形で意見・解釈を尋ねる、否定文で「理解できない」`,`over は対象を相手側・新しい形へ作り替えるイメージ、of は対象への意味づけ・評価のイメージ`,`財産の譲渡は make over、意見を尋ねるのは make of（混同しやすいので要注意）`],quiz:[{id:`q-makeoverof-1`,question:`空所に入る適切な語はどれですか。「Before his death, he made ( ) most of his fortune to charity.」`,options:[`of`,`over`,`up`,`out`],correctAnswer:1,explanation:`財産を正式に譲渡するという意味なので make over。`},{id:`q-makeoverof-2`,question:`空所に入る適切な語はどれですか。「What do you make ( ) the new marketing strategy?」`,options:[`over`,`of`,`up`,`for`],correctAnswer:1,explanation:`意見や解釈を尋ねる定型表現なので make of。`},{id:`q-makeoverof-3`,question:`"I could not make anything of his explanation." の意味として最も適切なものはどれですか。`,options:[`彼の説明を書き留められなかった`,`彼の説明が理解できなかった`,`彼の説明を譲り受けた`,`彼の説明を作り変えた`],correctAnswer:1,explanation:`否定文の make of は理解できないという意味を表します。`},{id:`q-makeoverof-4`,question:`「その美容整形外科医は彼女の顔を作り変えた」を最も自然に表す文はどれですか。`,options:[`The surgeon made her face of.`,`The surgeon made her face over.`,`The surgeon made her face up for.`,`The surgeon made her face out.`],correctAnswer:1,explanation:`外見を作り変えるという意味では make over が使われます。`},{id:`q-makeoverof-5`,question:`make over と make of の違いとして正しい説明はどれですか。`,options:[`両方とも同じ意味で置き換え可能`,`make over は譲渡する・作り変える、make of は意見・理解を表す`,`make over は意見を表す、make of は譲渡する`,`意味の違いとは無関係`],correctAnswer:1,explanation:`譲渡・作り替えが make over、評価・理解が make of です。`}]},{id:`pass-for-pass-off-as`,title:`pass for と pass off as`,chapter:5,hubId:`pass`,description:`pass for は「〜として通用する」、pass off as は「（偽物）を〜だと偽って通用させる」。悪意を伴わない自動詞と、意図的にだます他動詞の違いです。`,content:`## 通用するか、偽って通用させるか
 
 pass for と pass off as は「本物ではないのに〜として扱われる」という点で似ていますが、主語が「通用する側」か「だます側」かで文型と意図がまったく異なります。
 
@@ -7176,7 +7386,37 @@ on は「対象に接触したまま先へ送る」イメージ、up は「差�
 
 ⚠️ \`He passed on the chance to join the project.\`（誤・意図不明瞭）。せっかくの機会を断ったなら pass **up**。pass on だと「機会を誰かに譲った・伝えた」という別の意味に読めます。
 
-🎯 覚え方：**on＝受け取ったものを次へ送る（伝える・うつす）**、**up＝差し出されたものを手に取らない（機会を逃す・断る）**。`,keyPoints:[`pass on＝情報・物・病気などを次の人に伝える・回す、死の婉曲表現としても使う`,`pass up＝機会や申し出を逃す・断る（chance, offer が典型的な目的語）`,`on は受け取ったものを次へ送るイメージ、up は差し出されたものを受け取らないイメージ`,`伝言を伝えるのは pass on、チャンスを断るのは pass up（方向が逆）`],quiz:[{id:`q-passon-1`,question:`空所に入る適切な語はどれですか。「Could you pass ( ) this message to the whole team?」`,options:[`up`,`on`,`off`,`out`],correctAnswer:1,explanation:`伝言を次の人に伝えるという意味なので pass on。`},{id:`q-passon-2`,question:`空所に入る適切な語はどれですか。「He later regretted passing ( ) such a great opportunity.」`,options:[`on`,`up`,`for`,`away`],correctAnswer:1,explanation:`機会を逃したという意味なので pass up。`},{id:`q-passon-3`,question:`pass up の目的語として自然なものはどれですか。`,options:[`a cold`,`a message`,`a great offer`,`the family business`],correctAnswer:2,explanation:`pass up は機会や申し出を逃す・断る際に使われます。`},{id:`q-passon-4`,question:`「彼女はその病気を家族にうつしてしまった」を最も自然に表す文はどれですか。`,options:[`She passed up the illness to her family.`,`She passed on the illness to her family.`,`She passed out the illness to her family.`,`She passed for the illness to her family.`],correctAnswer:1,explanation:`病気をうつすという意味では pass on が使われます。`},{id:`q-passon-5`,question:`pass on と pass up の違いとして正しい説明はどれですか。`,options:[`両方とも「機会を逃す」という同じ意味`,`pass on は次へ伝える・回す、pass up は機会を逃す・断る`,`pass on は機会を逃す、pass up は次へ伝える`,`意味の違いとは無関係`],correctAnswer:1,explanation:`伝達・継承が pass on、機会を見送るのが pass up です。`}]},{id:`stand-for-stand-by`,title:`stand for と stand by`,chapter:5,hubId:`stand`,description:`stand for は「〜を表す・支持する・（否定文で）我慢しない」、stand by は「待機する・傍観する・支え続ける」。代表するか、そばに居続けるかの違いです。`,content:`## 代表するか、そばに居続けるか
+🎯 覚え方：**on＝受け取ったものを次へ送る（伝える・うつす）**、**up＝差し出されたものを手に取らない（機会を逃す・断る）**。`,keyPoints:[`pass on＝情報・物・病気などを次の人に伝える・回す、死の婉曲表現としても使う`,`pass up＝機会や申し出を逃す・断る（chance, offer が典型的な目的語）`,`on は受け取ったものを次へ送るイメージ、up は差し出されたものを受け取らないイメージ`,`伝言を伝えるのは pass on、チャンスを断るのは pass up（方向が逆）`],quiz:[{id:`q-passon-1`,question:`空所に入る適切な語はどれですか。「Could you pass ( ) this message to the whole team?」`,options:[`up`,`on`,`off`,`out`],correctAnswer:1,explanation:`伝言を次の人に伝えるという意味なので pass on。`},{id:`q-passon-2`,question:`空所に入る適切な語はどれですか。「He later regretted passing ( ) such a great opportunity.」`,options:[`on`,`up`,`for`,`away`],correctAnswer:1,explanation:`機会を逃したという意味なので pass up。`},{id:`q-passon-3`,question:`pass up の目的語として自然なものはどれですか。`,options:[`a cold`,`a message`,`a great offer`,`the family business`],correctAnswer:2,explanation:`pass up は機会や申し出を逃す・断る際に使われます。`},{id:`q-passon-4`,question:`「彼女はその病気を家族にうつしてしまった」を最も自然に表す文はどれですか。`,options:[`She passed up the illness to her family.`,`She passed on the illness to her family.`,`She passed out the illness to her family.`,`She passed for the illness to her family.`],correctAnswer:1,explanation:`病気をうつすという意味では pass on が使われます。`},{id:`q-passon-5`,question:`pass on と pass up の違いとして正しい説明はどれですか。`,options:[`両方とも「機会を逃す」という同じ意味`,`pass on は次へ伝える・回す、pass up は機会を逃す・断る`,`pass on は機会を逃す、pass up は次へ伝える`,`意味の違いとは無関係`],correctAnswer:1,explanation:`伝達・継承が pass on、機会を見送るのが pass up です。`}]},{id:`pass-around-pass-over`,title:`pass around と pass over`,chapter:5,hubId:`pass`,description:`同じ pass でも around は「順番に回して共有する」、over は「無視する・見過ごす・昇進で飛ばす」。行き渡らせるか、素通りさせるかの違いです。`,content:`## 行き渡らせるのか、素通りさせるのか
+
+pass around と pass over はどちらも pass のあとに前置詞・副詞が続く形ですが、対象への向き合い方が逆です。
+
+- **pass around（round）** … 物や情報を集団の中で**順に回して共有する**。
+- **pass over** … 人や話題を**無視する・見過ごす**、昇進で**飛ばす**。
+
+| 熟語 | 中心の意味 | 典型的な目的語 |
+| --- | --- | --- |
+| pass **around** | 順に回して共有する | a document, a link, snacks |
+| pass **over** | 無視する・見過ごす・昇進で飛ばす | a topic（見過ごす）／ someone for promotion（昇進で飛ばす） |
+
+### pass around の使い分け
+
+pass around（イギリス英語では pass round）は「集団の中で1人ずつに物や情報を手渡していく」という意味で、"Journalists had been passing around the link to the photo all week." のように使われます。会議で資料を「回覧する」場面の定番表現です。
+
+### pass over の使い分け
+
+pass over は「本来注目・評価すべき人や話題を、素通りするように無視する」という意味で、特に「昇進の対象から外す」（They passed Sal over for promotion.）という人事の文脈で頻出します。話題を「あえて取り上げずに済ませる」という意味にも使われます。
+
+### なぜ直訳で読み解けないか
+
+around は「対象の周りをぐるりと回して全員に行き渡らせる」イメージ、over は「対象の上を素通りして先へ進む」イメージを運びます。pass around は「物や情報を集団の中でぐるりと回して共有する」、pass over は「本来止まって評価すべき対象の上を素通りして無視する」という、行き渡らせるか素通りさせるかの違いが意味の違いになっています。
+
+### よくある誤用
+
+⚠️ \`She was passed around for the manager position again.\`（誤）。昇進で見過ごされたなら was passed **over**。pass around は物や情報を回す意味なので、人事評価の見過ごしには使いません。
+
+⚠️ \`Could you pass this handout over to everyone?\`（誤・意図不明瞭）。資料を回覧してほしいなら pass this handout **around**。pass over は無視する・見過ごす意味なので、資料の回覧には不自然です。
+
+🎯 覚え方：**around＝周りをぐるりと回して行き渡らせる（共有する）**、**over＝対象の上を素通りする（無視する・見過ごす）**。`,keyPoints:[`pass around（round）＝物や情報を集団の中で順に回して共有する`,`pass over＝人や話題を無視する・見過ごす、特に昇進の対象から外す`,`around は行き渡らせるイメージ、over は素通りして無視するイメージ`,`資料の回覧は pass around、昇進の見送りは pass over（混同しやすいので要注意）`],quiz:[{id:`q-passaroundover-1`,question:`空所に入る適切な語はどれですか。「Could you pass the photos ( ) so everyone can see them?」`,options:[`over`,`around`,`up`,`for`],correctAnswer:1,explanation:`順に回して共有するという意味なので pass around。`},{id:`q-passaroundover-2`,question:`空所に入る適切な語はどれですか。「She was passed ( ) for the promotion three times.」`,options:[`around`,`over`,`up`,`on`],correctAnswer:1,explanation:`昇進で見過ごされるという意味なので pass over。`},{id:`q-passaroundover-3`,question:`pass over の意味として最も適切なものはどれですか。`,options:[`順に回して共有する`,`無視する・見過ごす・昇進で飛ばす`,`機会を逃す`,`亡くなる`],correctAnswer:1,explanation:`pass over は評価すべき対象を素通りする・無視する意味です。`},{id:`q-passaroundover-4`,question:`「編集長はその原稿をスタッフに回してコメントをもらった」を最も自然に表す文はどれですか。`,options:[`The editor passed the copy over to get feedback.`,`The editor passed the copy around to get feedback.`,`The editor passed the copy up to get feedback.`,`The editor passed the copy on to get feedback.`],correctAnswer:1,explanation:`順に回して共有するという意味では pass around が使われます。`},{id:`q-passaroundover-5`,question:`pass around と pass over の違いとして正しい説明はどれですか。`,options:[`両方とも同じ意味で置き換え可能`,`pass around は順に回して共有する、pass over は無視する・見過ごす`,`pass around は無視する、pass over は共有する`,`意味の違いとは無関係`],correctAnswer:1,explanation:`共有が pass around、無視・見過ごしが pass over です。`}]},{id:`stand-for-stand-by`,title:`stand for と stand by`,chapter:5,hubId:`stand`,description:`stand for は「〜を表す・支持する・（否定文で）我慢しない」、stand by は「待機する・傍観する・支え続ける」。代表するか、そばに居続けるかの違いです。`,content:`## 代表するか、そばに居続けるか
 
 stand for と stand by はどちらも「立場を示す」比喩に関わりますが、for の「代わりに立つ」イメージと by の「脇に立ち続ける」イメージで意味の方向が異なります。
 
@@ -7268,7 +7508,37 @@ down は「地位から低い位置へ下がる」イメージ、in for は「�
 
 ⚠️ \`The vice president stood down for the president during his absence.\`（誤）。不在中の代理を務めたなら stand in **for**。stand down は退任の意味なので、代理を表すことはできません。
 
-🎯 覚え方：**down＝自分の立場を下ろす（辞任する・退く）**、**in for＝他人のために空いた枠に入る（代理を務める）**。`,keyPoints:[`stand down＝役職・任務・証言台などから自ら退く（辞任のニュースで頻出）`,`stand in for＝出席できない人の代理を務める（名詞形 stand-in は映画の代役）`,`down は自分の立場を下ろすイメージ、in for は他人のために空いた枠に入るイメージ`,`自分が辞めるのは stand down、他人の代わりを務めるのは stand in for（主語の向きが逆）`],quiz:[{id:`q-standdown-1`,question:`空所に入る適切な語はどれですか。「The minister decided to stand ( ) after the scandal.」`,options:[`in for`,`down`,`up for`,`by`],correctAnswer:1,explanation:`自ら役職を退くという意味なので stand down。`},{id:`q-standdown-2`,question:`空所に入る適切な語はどれですか。「Paula agreed to stand ( ) her manager while he was on sick leave.」`,options:[`down`,`in for`,`for`,`out`],correctAnswer:1,explanation:`代理を務めるという意味なので stand in for。`},{id:`q-standdown-3`,question:`stand down の意味として最も適切なものはどれですか。`,options:[`他人の代理を務める`,`役職や任務から自ら退く`,`目立つ`,`擁護する`],correctAnswer:1,explanation:`stand down は自分が就いていた立場から退くことを表します。`},{id:`q-standdown-4`,question:`「彼は病気の同僚の代わりに講義を担当した」を最も自然に表す文はどれですか。`,options:[`He stood down for his sick colleague's lecture.`,`He stood in for his sick colleague's lecture.`,`He stood up for his sick colleague's lecture.`,`He stood out for his sick colleague's lecture.`],correctAnswer:1,explanation:`代理を務めるという意味では stand in for が使われます。`},{id:`q-standdown-5`,question:`stand down と stand in for の違いとして正しい説明はどれですか。`,options:[`両方とも「代理を務める」という同じ意味`,`stand down は自分が役職から退く、stand in for は他人の代理を務める`,`stand down は他人の代理を務める、stand in for は自分が役職から退く`,`意味の違いとは無関係`],correctAnswer:1,explanation:`自ら退くのが stand down、他人のために代理を務めるのが stand in for です。`}]},{id:`carry-out-carry-through`,title:`carry out と carry through`,chapter:5,hubId:`carry`,description:`carry out は「（計画・命令）を実行する」、carry through は「困難を伴う事業をやり遂げる・人を支えて乗り切らせる」。実行するか、困難を貫いてやり遂げるかの違いです。`,content:`## 実行するか、困難を貫いてやり遂げるか
+🎯 覚え方：**down＝自分の立場を下ろす（辞任する・退く）**、**in for＝他人のために空いた枠に入る（代理を務める）**。`,keyPoints:[`stand down＝役職・任務・証言台などから自ら退く（辞任のニュースで頻出）`,`stand in for＝出席できない人の代理を務める（名詞形 stand-in は映画の代役）`,`down は自分の立場を下ろすイメージ、in for は他人のために空いた枠に入るイメージ`,`自分が辞めるのは stand down、他人の代わりを務めるのは stand in for（主語の向きが逆）`],quiz:[{id:`q-standdown-1`,question:`空所に入る適切な語はどれですか。「The minister decided to stand ( ) after the scandal.」`,options:[`in for`,`down`,`up for`,`by`],correctAnswer:1,explanation:`自ら役職を退くという意味なので stand down。`},{id:`q-standdown-2`,question:`空所に入る適切な語はどれですか。「Paula agreed to stand ( ) her manager while he was on sick leave.」`,options:[`down`,`in for`,`for`,`out`],correctAnswer:1,explanation:`代理を務めるという意味なので stand in for。`},{id:`q-standdown-3`,question:`stand down の意味として最も適切なものはどれですか。`,options:[`他人の代理を務める`,`役職や任務から自ら退く`,`目立つ`,`擁護する`],correctAnswer:1,explanation:`stand down は自分が就いていた立場から退くことを表します。`},{id:`q-standdown-4`,question:`「彼は病気の同僚の代わりに講義を担当した」を最も自然に表す文はどれですか。`,options:[`He stood down for his sick colleague's lecture.`,`He stood in for his sick colleague's lecture.`,`He stood up for his sick colleague's lecture.`,`He stood out for his sick colleague's lecture.`],correctAnswer:1,explanation:`代理を務めるという意味では stand in for が使われます。`},{id:`q-standdown-5`,question:`stand down と stand in for の違いとして正しい説明はどれですか。`,options:[`両方とも「代理を務める」という同じ意味`,`stand down は自分が役職から退く、stand in for は他人の代理を務める`,`stand down は他人の代理を務める、stand in for は自分が役職から退く`,`意味の違いとは無関係`],correctAnswer:1,explanation:`自ら退くのが stand down、他人のために代理を務めるのが stand in for です。`}]},{id:`stand-against-stand-over`,title:`stand against と stand over`,chapter:5,hubId:`stand`,description:`同じ stand でも against は「公然と反対する・対立候補として立つ」、over は「そばに立って監視する」。正面から対立するか、真上から見張るかの違いです。`,content:`## 正面から対立するのか、真上から見張るのか
+
+stand against と stand over はどちらも「立つ」イメージから来ていますが、相手との位置関係が異なります。
+
+- **stand against** … 何かに**公然と反対する**、選挙で**対立候補として立つ**。
+- **stand over** … 人のそばに立って**監視する・見張る**。
+
+| 熟語 | 中心の意味 | 典型的な目的語 |
+| --- | --- | --- |
+| stand **against** | 反対する・対立候補になる | unpopular legislation（反対）／ the party leader（対立候補） |
+| stand **over** | そばに立って監視する | an employee, a child doing homework |
+
+### stand against の使い分け
+
+stand against は「不人気な法律や政策に公然と反対の立場を取る」（More and more people are standing against the unpopular legislation.）という意味と、「選挙で現職や特定の候補に対抗して立候補する」（He was persuaded to stand against the party leader.）という意味の2つを持ちます。どちらも「相手と正面から向き合って対立する」イメージです。
+
+### stand over の使い分け
+
+stand over は「人のすぐそばに立って、その人の行動を逐一見張る」という意味で、"Standing over someone all the time makes them nervous." のように、監視されるプレッシャーを表す文脈でよく使われます。上司が部下の作業を真上から監視するような、心理的な圧迫感を伴う場面に典型的です。
+
+### なぜ直訳で読み解けないか
+
+against は「相手と正面から向き合い、押し返す」イメージ、over は「対象の真上に位置して見下ろす」イメージを運びます。stand against は「相手の主張や立場と正面から対立する」、stand over は「対象の真上に立って監視する」という、対立の向きと監視の位置関係の違いが意味の違いになっています。
+
+### よくある誤用
+
+⚠️ \`The manager stood against the new employee to check her work.\`（誤・意図不明瞭）。作業を監視したなら stood **over** the new employee。stand against は反対する・対立候補になる意味なので、監視には使いません。
+
+⚠️ \`Thousands of citizens stood over the controversial bill.\`（誤）。法案に反対したなら stood **against** the bill。stand over は監視する意味なので、政策への反対表明には使えません。
+
+🎯 覚え方：**against＝相手と正面から向き合い押し返す（反対する・対立候補になる）**、**over＝対象の真上に立って見下ろす（監視する）**。`,keyPoints:[`stand against＝法律や政策に公然と反対する、選挙で対立候補として立つ`,`stand over＝人のそばに立ってその行動を逐一監視する（心理的圧迫を伴う）`,`against は正面から対立するイメージ、over は真上から見下ろして監視するイメージ`,`政策への反対は stand against、作業の監視は stand over（混同しやすいので要注意）`],quiz:[{id:`q-standagainstover-1`,question:`空所に入る適切な語はどれですか。「Thousands of people stood ( ) the new tax law.」`,options:[`over`,`against`,`down`,`in for`],correctAnswer:1,explanation:`法律に反対するという意味なので stand against。`},{id:`q-standagainstover-2`,question:`空所に入る適切な語はどれですか。「She hates it when her boss stands ( ) her while she works.」`,options:[`against`,`over`,`for`,`by`],correctAnswer:1,explanation:`そばに立って監視するという意味なので stand over。`},{id:`q-standagainstover-3`,question:`stand against の意味として適切でないものはどれですか。`,options:[`政策に公然と反対する`,`選挙で対立候補として立つ`,`そばに立って監視する`,`不人気な法律に異を唱える`],correctAnswer:2,explanation:`監視するのは stand over の意味です。`},{id:`q-standagainstover-4`,question:`「彼は党首に対抗して立候補するよう説得された」を最も自然に表す文はどれですか。`,options:[`He was persuaded to stand over the party leader.`,`He was persuaded to stand against the party leader.`,`He was persuaded to stand in for the party leader.`,`He was persuaded to stand down the party leader.`],correctAnswer:1,explanation:`対立候補として立つという意味では stand against が使われます。`},{id:`q-standagainstover-5`,question:`stand against と stand over の違いとして正しい説明はどれですか。`,options:[`両方とも同じ意味で置き換え可能`,`stand against は正面から反対・対立する、stand over はそばに立って監視する`,`stand against は監視する、stand over は反対する`,`意味の違いとは無関係`],correctAnswer:1,explanation:`対立が stand against、監視が stand over です。`}]},{id:`carry-out-carry-through`,title:`carry out と carry through`,chapter:5,hubId:`carry`,description:`carry out は「（計画・命令）を実行する」、carry through は「困難を伴う事業をやり遂げる・人を支えて乗り切らせる」。実行するか、困難を貫いてやり遂げるかの違いです。`,content:`## 実行するか、困難を貫いてやり遂げるか
 
 carry out と carry through はどちらも「実行する」に訳されがちですが、through が運ぶ「障害を貫通する」イメージの有無で、想定する困難さの度合いが異なります。
 
@@ -8218,7 +8488,37 @@ out は「合意という枠組みの外側へ後ろ向きに抜け出る」イ�
 
 ⚠️ \`He backed out from the barking dog.\`（誤・前置詞が不自然）。危険から後ずさりするのは back **away** from。back out of は具体的な約束・契約に使います。
 
-🎯 覚え方：**out＝合意の外へ抜け出る（約束から手を引く）**、**away＝危険から遠ざかる（後ずさりする・関与をやめる）**。`,keyPoints:[`back out（of）＝（既に合意・約束したことから）手を引く（withdraw from a prior commitment）`,`back away（from）＝後ずさりする（物理的）／関与をやめる（比喩的）（retreat/distance oneself）`,`back out の対象は既成の約束・契約、back away の対象は危険や緩やかな関与`,`out＝合意の外へ抜ける、away＝危険から遠ざかる、という前置詞イメージの違い`],quiz:[{id:`q-backout-1`,question:`空所に入る適切な語はどれですか。「The buyer ( ) the deal after discovering hidden damage.」`,options:[`backed away from`,`backed out of`,`backed up`,`backed down`],correctAnswer:1,explanation:`既に合意していた取引から手を引いたのは back out of。`},{id:`q-backout-2`,question:`空所に入る適切な語はどれですか。「Slowly, she ( ) the growling dog.」`,options:[`backed out of`,`backed away from`,`backed up`,`backed down from`],correctAnswer:1,explanation:`物理的に後ずさりしたのは back away from。`},{id:`q-backout-3`,question:`空所に入る適切な語はどれですか。「The government appears to be ( ) its original tax proposal.」`,options:[`backing out of`,`backing away from`,`backing up`,`backing down`],correctAnswer:1,explanation:`まだ確定していない立場から距離を置くのは back away from。`},{id:`q-backout-4`,question:`back out of の言い換えとして最も適切なものはどれですか。`,options:[`withdraw from a prior commitment`,`retreat physically`,`support`,`make a copy`],correctAnswer:0,explanation:`back out of は「既成の約束から離脱する」という意味です。`},{id:`q-backout-5`,question:`back out と back away の違いとして正しいものはどれですか。`,options:[`out＝既成の約束からの離脱、away＝物理的後退や緩やかな関与からの距離`,`両者に意味の違いはない`,`out の方が物理的な動作を表す`,`away は必ず契約に使う`],correctAnswer:0,explanation:`back out は約束からの離脱、back away は後退・距離を置くことを表します。`}]},{id:`close-down-close-in-on`,title:`close down と close in on`,chapter:5,hubId:`close`,description:`close down は「（事業等が）永久に閉鎖する」、close in on は「〜に迫る・追い詰める」。完全に閉じるか、包囲を狭めるかの違いです。`,content:`## 完全に閉じるか、包囲を狭めるか
+🎯 覚え方：**out＝合意の外へ抜け出る（約束から手を引く）**、**away＝危険から遠ざかる（後ずさりする・関与をやめる）**。`,keyPoints:[`back out（of）＝（既に合意・約束したことから）手を引く（withdraw from a prior commitment）`,`back away（from）＝後ずさりする（物理的）／関与をやめる（比喩的）（retreat/distance oneself）`,`back out の対象は既成の約束・契約、back away の対象は危険や緩やかな関与`,`out＝合意の外へ抜ける、away＝危険から遠ざかる、という前置詞イメージの違い`],quiz:[{id:`q-backout-1`,question:`空所に入る適切な語はどれですか。「The buyer ( ) the deal after discovering hidden damage.」`,options:[`backed away from`,`backed out of`,`backed up`,`backed down`],correctAnswer:1,explanation:`既に合意していた取引から手を引いたのは back out of。`},{id:`q-backout-2`,question:`空所に入る適切な語はどれですか。「Slowly, she ( ) the growling dog.」`,options:[`backed out of`,`backed away from`,`backed up`,`backed down from`],correctAnswer:1,explanation:`物理的に後ずさりしたのは back away from。`},{id:`q-backout-3`,question:`空所に入る適切な語はどれですか。「The government appears to be ( ) its original tax proposal.」`,options:[`backing out of`,`backing away from`,`backing up`,`backing down`],correctAnswer:1,explanation:`まだ確定していない立場から距離を置くのは back away from。`},{id:`q-backout-4`,question:`back out of の言い換えとして最も適切なものはどれですか。`,options:[`withdraw from a prior commitment`,`retreat physically`,`support`,`make a copy`],correctAnswer:0,explanation:`back out of は「既成の約束から離脱する」という意味です。`},{id:`q-backout-5`,question:`back out と back away の違いとして正しいものはどれですか。`,options:[`out＝既成の約束からの離脱、away＝物理的後退や緩やかな関与からの距離`,`両者に意味の違いはない`,`out の方が物理的な動作を表す`,`away は必ず契約に使う`],correctAnswer:0,explanation:`back out は約束からの離脱、back away は後退・距離を置くことを表します。`}]},{id:`back-off-back-onto`,title:`back off と back onto`,chapter:5,hubId:`back`,description:`同じ back でも off は「引き下がる・追及をやめる」、onto は「建物の裏側が～に面する」。人が退くか、建物の向きを表すかの違いです。`,content:`## 人が引き下がるのか、建物の向きを表すのか
+
+back off と back onto はどちらも back を使いますが、主語になるものがまったく異なります。
+
+- **back off** … 人が**引き下がる・追及や圧力をやめる**。
+- **back onto** … 建物の裏側が**ある場所に面している**。
+
+| 熟語 | 中心の意味 | 典型的な主語 |
+| --- | --- | --- |
+| back **off** | 引き下がる・追及をやめる | a person（人が主語） |
+| back **onto** | 裏側が～に面する | a house, a garden（建物・土地が主語） |
+
+### back off の使い分け
+
+back off は「相手を怖がって物理的に後ずさりする」（He backed off when the dog growled.）という意味から、「相手への批判・要求・干渉をやめて手を引く」（The critics finally backed off after the public apology.）という比喩的な意味に広がります。しばしば命令形 "Back off!"（引っ込んでろ）としても使われます。
+
+### back onto の使い分け
+
+back onto は不動産の説明などで使われる表現で、「建物や土地の裏側が、特定の場所に接している」ことを表します。"The house backs onto a narrow alley." のように、庭や裏手が公園・川・路地などに面している位置関係を説明する際に使われます。
+
+### なぜ直訳で読み解けないか
+
+off は「圧力や接触を切り離して離れる」イメージ、onto は「背中の部分が対象に接触している」イメージを運びます。back off は「人が相手への圧力を切り離して後ろに引く」、back onto は「建物の背面が特定の場所に接している」という、動作主体（人）と位置関係（建物）という主語の性質の違いが意味の違いになっています。
+
+### よくある誤用
+
+⚠️ \`The house backed off a quiet park.\`（誤）。家の裏が公園に面しているなら backs **onto** a quiet park。back off は人が引き下がる意味なので、建物の位置関係には使いません。
+
+⚠️ \`Please back onto me, I did not do anything wrong.\`（誤）。追及をやめてほしいなら back **off**。back onto は建物の向きを表す表現なので、人への要求には使えません。
+
+🎯 覚え方：**off＝人が圧力を切り離して引き下がる（追及をやめる）**、**onto＝建物の背面が対象に接している（裏が～に面する）**。`,keyPoints:[`back off＝人が物理的に後ずさりする、批判や要求への圧力をやめて手を引く`,`back onto＝建物や土地の裏側が特定の場所（公園・路地など）に面している（不動産表現）`,`off は人が圧力を切り離すイメージ、onto は建物の背面が対象に接するイメージ`,`主語が人なら back off、主語が建物・土地なら back onto`],quiz:[{id:`q-backoffonto-1`,question:`空所に入る適切な語はどれですか。「The reporters finally backed ( ) after his lawyer intervened.」`,options:[`onto`,`off`,`out`,`away`],correctAnswer:1,explanation:`追及や圧力をやめるという意味なので back off。`},{id:`q-backoffonto-2`,question:`空所に入る適切な語はどれですか。「Our cottage backs ( ) a small lake.」`,options:[`off`,`onto`,`out`,`up`],correctAnswer:1,explanation:`建物の裏が湖に面しているという意味なので back onto。`},{id:`q-backoffonto-3`,question:`back onto の主語として自然なものはどれですか。`,options:[`a critic`,`a manager`,`a house`,`a reporter`],correctAnswer:2,explanation:`back onto は建物や土地が主語になる位置関係の表現です。`},{id:`q-backoffonto-4`,question:`「その犬がうなったので彼は後ずさりした」を最も自然に表す文はどれですか。`,options:[`He backed onto when the dog growled.`,`He backed off when the dog growled.`,`He backed out when the dog growled.`,`He backed up when the dog growled.`],correctAnswer:1,explanation:`物理的に後ずさりするという意味では back off が使われます。`},{id:`q-backoffonto-5`,question:`back off と back onto の違いとして正しい説明はどれですか。`,options:[`両方とも同じ意味で置き換え可能`,`back off は人が引き下がる、back onto は建物の裏が特定の場所に面する`,`back off は建物の位置関係、back onto は人が引き下がる`,`意味の違いとは無関係`],correctAnswer:1,explanation:`人の後退が back off、建物の向きが back onto です。`}]},{id:`close-down-close-in-on`,title:`close down と close in on`,chapter:5,hubId:`close`,description:`close down は「（事業等が）永久に閉鎖する」、close in on は「〜に迫る・追い詰める」。完全に閉じるか、包囲を狭めるかの違いです。`,content:`## 完全に閉じるか、包囲を狭めるか
 
 close down と close in on はどちらも close の比喩用法ですが、down の「シャッターを完全に下ろす」イメージと in on の「包囲網を狭める」イメージで、対象と結果が異なります。
 
@@ -9322,8 +9622,10 @@ bring は「（物や人を）持ってくる・連れてくる」が核です�
 | bring up | up（上へ引き上げる） | 育てる・話題に挙げる |
 | bring back | back（過去へ戻す） | 思い出させる・復活させる |
 | bring forward | forward（未来・奥を手前へ） | 予定を早める・提案する |
+| bring down | down（高い位置から引き下ろす） | 倒す・下げる |
+| bring in | in（外から新たに持ち込む） | 導入する・稼ぐ・招く |
 
-bring about は「周囲の現実世界に、今まで無かった事象を発生させる」イメージで、主語には政策や技術革新のような抽象的な原因が来ます。bring around は「相手の意識をぐるりと回転させて、自分の立場へ向かわせる」イメージで、説得の場面と、気絶した人を正気に戻す場面の両方で使われます。bring back は「過去にあったものを現在へ連れ戻す」イメージから思い出や流行の復活を表し、bring forward は「未来の予定や奥にある議題を手前に引き寄せる」イメージから日程を早める・議題を提示する意味になります。`,previewPairs:[`bring about vs bring around（引き起こす／説得する）`,`bring on vs bring up（もたらす／育てる・話題に挙げる）`,`bring back vs bring forward（思い出させる・復活させる／早める・提案する）`]},{id:`call`,verb:`call`,title:`call は前置詞でどう意味が変わる？`,description:`call の中心イメージ「声を出して呼ぶ」が、続く前置詞・副詞でどう枝分かれするかをまとめたハブページ。`,content:`## call の中心イメージ
+bring about は「周囲の現実世界に、今まで無かった事象を発生させる」イメージで、主語には政策や技術革新のような抽象的な原因が来ます。bring around は「相手の意識をぐるりと回転させて、自分の立場へ向かわせる」イメージで、説得の場面と、気絶した人を正気に戻す場面の両方で使われます。bring back は「過去にあったものを現在へ連れ戻す」イメージから思い出や流行の復活を表し、bring forward は「未来の予定や奥にある議題を手前に引き寄せる」イメージから日程を早める・議題を提示する意味になります。bring down は「高い位置にあるものを引き下ろす」イメージで政権の失脚や水準の低下を表し、bring in は「外にあったものを新たに内側へ持ち込む」イメージで制度の導入や収益を表します。`,previewPairs:[`bring about vs bring around（引き起こす／説得する）`,`bring on vs bring up（もたらす／育てる・話題に挙げる）`,`bring back vs bring forward（思い出させる・復活させる／早める・提案する）`,`bring down vs bring in（倒す・下げる／導入する・稼ぐ）`]},{id:`call`,verb:`call`,title:`call は前置詞でどう意味が変わる？`,description:`call の中心イメージ「声を出して呼ぶ」が、続く前置詞・副詞でどう枝分かれするかをまとめたハブページ。`,content:`## call の中心イメージ
 
 call は「呼ぶ・叫ぶ」が核です。人や物事に対して声（あるいはそれに相当する働きかけ）を向けるという原義から、要求・指名・取り消し・電話といった意味が分かれます。
 
@@ -9335,8 +9637,10 @@ call は「呼ぶ・叫ぶ」が核です。人や物事に対して声（ある
 | call up | up（上方へ呼び上げる） | 電話で呼び出す・徴兵する |
 | call in | in（外から内側へ呼び入れる） | 助けを呼ぶ・立ち寄る・欠勤を連絡する |
 | call out | out（内から外へ発する） | 大声で言う・公然と非難する |
+| call back | back（働きかけに折り返し応じる） | 折り返し電話する |
+| call away | away（場から引き離される） | 呼び出されてその場を離れる |
 
-call for は「状況が～を求めている」という無生物主語でよく使われ、call on は「特定の人に狙いを定めて働きかける」という指名・訪問の意味になります。call off は「進行中の予定を切り離して無効にする」イメージで、call up は「相手を呼び出して手元に引き上げる」ことから電話にも軍への招集にも使われます。call in は「専門家や自分の声を外から内側へ呼び入れる」イメージで助けを呼ぶ・立ち寄る・欠勤連絡を表し、call out は「内側にとどめず外へ向けて発する」イメージで大声で言う・公然と非難する意味になります。`,previewPairs:[`call for vs call on（要求する／指名する・訪問する）`,`call off vs call up（取り消す／電話で呼び出す）`,`call in vs call out（助けを呼ぶ・立ち寄る／公然と非難する）`]},{id:`put`,verb:`put`,title:`put は前置詞でどう意味が変わる？`,description:`put の中心イメージ「ある場所に置く」が、続く前置詞・副詞でどう枝分かれするかをまとめたハブページ。`,content:`## put の中心イメージ
+call for は「状況が～を求めている」という無生物主語でよく使われ、call on は「特定の人に狙いを定めて働きかける」という指名・訪問の意味になります。call off は「進行中の予定を切り離して無効にする」イメージで、call up は「相手を呼び出して手元に引き上げる」ことから電話にも軍への招集にも使われます。call in は「専門家や自分の声を外から内側へ呼び入れる」イメージで助けを呼ぶ・立ち寄る・欠勤連絡を表し、call out は「内側にとどめず外へ向けて発する」イメージで大声で言う・公然と非難する意味になります。call back は「電話という働きかけに折り返し応じる」イメージで、call away は「今いる場所から呼び出されて引き離される」イメージで中座を表します。`,previewPairs:[`call for vs call on（要求する／指名する・訪問する）`,`call off vs call up（取り消す／電話で呼び出す）`,`call in vs call out（助けを呼ぶ・立ち寄る／公然と非難する）`,`call back vs call away（折り返し電話する／呼び出されて場を離れる）`]},{id:`put`,verb:`put`,title:`put は前置詞でどう意味が変わる？`,description:`put の中心イメージ「ある場所に置く」が、続く前置詞・副詞でどう枝分かれするかをまとめたハブページ。`,content:`## put の中心イメージ
 
 put は「（物を）ある場所に置く」が核です。物理的な配置から、時間軸上に「置く」（延期する）、負担を「置く」（我慢する）といった比喩に広がります。
 
@@ -9378,8 +9682,10 @@ run は「走る」が核ですが、「勢いよく連続的に進む・流れ�
 | run down | down（低下・倒れるまで追う） | 車でひく・酷評する |
 | run over | over（枠を越えてあふれる） | 車で轢く・時間超過する・ざっと目を通す |
 | run up | up（下から上へ積み上がる） | 借金・費用を積み上げる・急いで近づく |
+| run ... by | by（相手を経由して確認してもらう） | 意見を聞くために伝える |
+| run off | off（本体から離れて出ていく） | 逃げる・大量に印刷する・流れ出る |
 
-run into は「走っていて何かにぶつかる」イメージから、人との偶然の遭遇にも、問題への衝突にも使われます。run through は「最初から最後まで一気に走り抜ける」イメージで、資金を使い切る場合と、台本を通しで確認する場合の両方に使われます。run out of は「中身が尽きて外に流れ出る」イメージで在庫や時間の枯渇を、run down は「勢いのまま相手を低い位置まで追い詰める」イメージから、車でひく・人を酷評するという2つの意味に分かれます。run over は「決められた枠を越えてあふれ出る」イメージで車で轢く・時間超過・ざっと目を通す意味に広がり、run up は「下から上へ積み上がる」イメージで借金の増加や駆け上がる動作を表します。`,previewPairs:[`run into vs run through（偶然出会う／急いで復習する・費やす）`,`run out of vs run down（使い果たす／車でひく・酷評する）`,`run over vs run up（轢く・時間超過する／借金を積み上げる・急いで近づく）`]},{id:`turn`,verb:`turn`,title:`turn は前置詞でどう意味が変わる？`,description:`turn の中心イメージ「向きを変える」が、続く前置詞・副詞でどう枝分かれするかをまとめたハブページ。`,content:`## turn の中心イメージ
+run into は「走っていて何かにぶつかる」イメージから、人との偶然の遭遇にも、問題への衝突にも使われます。run through は「最初から最後まで一気に走り抜ける」イメージで、資金を使い切る場合と、台本を通しで確認する場合の両方に使われます。run out of は「中身が尽きて外に流れ出る」イメージで在庫や時間の枯渇を、run down は「勢いのまま相手を低い位置まで追い詰める」イメージから、車でひく・人を酷評するという2つの意味に分かれます。run over は「決められた枠を越えてあふれ出る」イメージで車で轢く・時間超過・ざっと目を通す意味に広がり、run up は「下から上へ積み上がる」イメージで借金の増加や駆け上がる動作を表します。run something by someone は「案を相手の脇を通して確認してもらう」イメージで意見を求める意味を表し、run off は「本体から離れて外へ出ていく」イメージで逃走・印刷・液体の流出を表します。`,previewPairs:[`run into vs run through（偶然出会う／急いで復習する・費やす）`,`run out of vs run down（使い果たす／車でひく・酷評する）`,`run over vs run up（轢く・時間超過する／借金を積み上げる・急いで近づく）`,`run by vs run off（意見を求める／去る・印刷する・流れ出る）`]},{id:`turn`,verb:`turn`,title:`turn は前置詞でどう意味が変わる？`,description:`turn の中心イメージ「向きを変える」が、続く前置詞・副詞でどう枝分かれするかをまとめたハブページ。`,content:`## turn の中心イメージ
 
 turn は「回る・向きを変える」が核です。物理的な回転から、状態の変化・態度の転換という比喩に広がります。
 
@@ -9391,8 +9697,10 @@ turn は「回る・向きを変える」が核です。物理的な回転から
 | turn up | up（上方へ出現・増大する） | 現れる・（音量等）を上げる |
 | turn on | on（接続してスイッチが入る） | 電源を入れる・急に攻撃する・興奮させる |
 | turn off | off（接続が切れる） | 電源を切る・興味を失わせる・道を外れる |
+| turn over | over（自分の手から相手の手へ渡す） | 引き渡す・売上を計上する |
+| turn away | away（相手を自分から遠ざける） | 入場を拒む・追い返す |
 
-turn out は「隠れていたものが向きを変えて外に現れる」イメージで、結果が判明する場面に使われます。turn into は「向きを変えて別の状態の中に入り込む」ことから完全な変化・変身を表し、turn down は「相手からの申し出を低い位置に押し下げて退ける」ことから断ることを表します。turn up は「不意に姿を現す」「つまみを上げる」の両方に使われ、turn down（音量を下げる）と対になる語としても頻出です。turn on は「接続のスイッチが入る」イメージから電源・興味・敵意が生まれることを表し、turn off は「接続が切れる」イメージから電源を切る・興味を失わせる・道を外れる意味に広がります。`,previewPairs:[`turn out vs turn into（判明する・産出する／変化する）`,`turn down vs turn up（断る／現れる・上げる）`,`turn on vs turn off（電源を入れる・攻撃する／電源を切る・興味を失わせる）`]},{id:`hold`,verb:`hold`,title:`hold は前置詞でどう意味が変わる？`,description:`hold の中心イメージ「しっかりつかんで保つ」が、続く前置詞・副詞でどう枝分かれするかをまとめたハブページ。`,content:`## hold の中心イメージ
+turn out は「隠れていたものが向きを変えて外に現れる」イメージで、結果が判明する場面に使われます。turn into は「向きを変えて別の状態の中に入り込む」ことから完全な変化・変身を表し、turn down は「相手からの申し出を低い位置に押し下げて退ける」ことから断ることを表します。turn up は「不意に姿を現す」「つまみを上げる」の両方に使われ、turn down（音量を下げる）と対になる語としても頻出です。turn on は「接続のスイッチが入る」イメージから電源・興味・敵意が生まれることを表し、turn off は「接続が切れる」イメージから電源を切る・興味を失わせる・道を外れる意味に広がります。turn over は「自分の手にあるものを相手の手へ渡す」イメージで引き渡しや売上計上を表し、turn away は「相手を自分から遠ざける」イメージで入場拒否を表します。`,previewPairs:[`turn out vs turn into（判明する・産出する／変化する）`,`turn down vs turn up（断る／現れる・上げる）`,`turn on vs turn off（電源を入れる・攻撃する／電源を切る・興味を失わせる）`,`turn over vs turn away（引き渡す・売上を計上する／入場を拒む）`]},{id:`hold`,verb:`hold`,title:`hold は前置詞でどう意味が変わる？`,description:`hold の中心イメージ「しっかりつかんで保つ」が、続く前置詞・副詞でどう枝分かれするかをまとめたハブページ。`,content:`## hold の中心イメージ
 
 hold は「（手や力で）つかんで保持する」が核です。物理的な保持から、時間的な保留・忍耐・秘匿という比喩に広がります。
 
@@ -9404,8 +9712,10 @@ hold は「（手や力で）つかんで保持する」が核です。物理的
 | hold back | back（後方に押しとどめる） | （感情・情報）を抑える・開示しない |
 | hold on | on（今の状態を保ち続ける） | 待つ・つかまる・持ちこたえる |
 | hold over | over（期限の向こうへ持ち越す） | 延期する・上映期間を延長する |
+| hold together | together（複数のものを1つに保つ） | 団結を保つ・崩れずにいる |
+| hold ... against ... | against（相手に不利な材料を向け続ける） | 過去の過ちを理由に悪く思い続ける |
 
-hold off は「相手を自分から距離を置いた場所に留め置く」イメージで、決断の先延ばしにも敵の足止めにも使われます。hold out は「限界まで手を伸ばして持ちこたえる」イメージで、包囲されても抵抗を続ける場面が典型例です。hold up は「その場に立ち止まらせる」イメージから交通渋滞による遅延を表す一方、強盗が「動くな」と相手を止める場面（held up at gunpoint）にも使われる語です。hold on は「今の状態をそのまま保ち続ける」イメージで電話の保留やしがみつく・耐える場面に使われ、hold over は「本来の期限の向こうへ持ち越す」イメージで決定の延期や上映期間の延長を表します。`,previewPairs:[`hold off vs hold out vs hold up（延期する・防ぐ／持ちこたえる／遅らせる・強盗に入る）`,`hold up vs hold back（遅らせる／感情や情報を抑える）`,`hold on vs hold over（待つ・つかまる／延期する・上映延長する）`]},{id:`set`,verb:`set`,title:`set は前置詞でどう意味が変わる？`,description:`set の中心イメージ「ある位置・状態に据える」が、続く前置詞・副詞でどう枝分かれするかをまとめたハブページ。`,content:`## set の中心イメージ
+hold off は「相手を自分から距離を置いた場所に留め置く」イメージで、決断の先延ばしにも敵の足止めにも使われます。hold out は「限界まで手を伸ばして持ちこたえる」イメージで、包囲されても抵抗を続ける場面が典型例です。hold up は「その場に立ち止まらせる」イメージから交通渋滞による遅延を表す一方、強盗が「動くな」と相手を止める場面（held up at gunpoint）にも使われる語です。hold on は「今の状態をそのまま保ち続ける」イメージで電話の保留やしがみつく・耐える場面に使われ、hold over は「本来の期限の向こうへ持ち越す」イメージで決定の延期や上映期間の延長を表します。hold together は「複数のものが分裂せず1つにまとまる」イメージで団結や一貫性を表し、hold against は「過去の過ちという材料を相手に向け続ける」イメージで根に持つことを表します。`,previewPairs:[`hold off vs hold out vs hold up（延期する・防ぐ／持ちこたえる／遅らせる・強盗に入る）`,`hold up vs hold back（遅らせる／感情や情報を抑える）`,`hold on vs hold over（待つ・つかまる／延期する・上映延長する）`,`hold together vs hold against（団結を保つ／根に持つ）`]},{id:`set`,verb:`set`,title:`set は前置詞でどう意味が変わる？`,description:`set の中心イメージ「ある位置・状態に据える」が、続く前置詞・副詞でどう枝分かれするかをまとめたハブページ。`,content:`## set の中心イメージ
 
 set は「（物を）ある位置に据え置く」「（状態を）固定する」が核です。据える対象や向きによって、出発・妨害・設立などの意味に分かれます。
 
@@ -9417,8 +9727,10 @@ set は「（物を）ある位置に据え置く」「（状態を）固定す�
 | set up | up（基盤の上に組み立てる） | ～を設立する・準備する |
 | set aside | aside（本筋の脇に置く） | 取っておく・後回しにする |
 | set about | about（対象の周りに関わり始める） | 取り掛かる・着手する |
+| set apart | apart（他から離れた特別な場所に置く） | 他と区別し際立たせる |
+| set forth | forth（前方へ押し出す） | 出発する・詳しく説明する |
 
-set out と set off はどちらも「出発する」の意味を持ちますが、set out は目的地に向けた具体的な着手（プロジェクトの開始等）にも使え、set off は物理的な出発や、連鎖反応（警報・議論）を引き起こす意味でよく使われます。set back は「進んでいたものを後方へ押し戻す」ことから遅延と、費用の意味（それにはいくらかかったか、を婉曲に表す口語表現）の両方を持ちます。set up は「土台の上に組み立てる」イメージで、組織の設立から機材の準備まで幅広く使われます。set aside は「対象を本筋の脇に置いて保管・後回しにする」イメージでお金や対立を取っておく意味を表し、set about は「対象の周囲に自分を置いて関わり始める」イメージで作業への着手を表します。`,previewPairs:[`set out vs set back（出発する・着手する／遅らせる）`,`set off vs set up（出発する・引き起こす／設立する・準備する）`,`set aside vs set about（取っておく・後回しにする／取り掛かる）`]},{id:`make`,verb:`make`,title:`make は前置詞でどう意味が変わる？`,description:`make の中心イメージ「作り出す」が、続く前置詞・副詞でどう枝分かれするかをまとめたハブページ。`,content:`## make の中心イメージ
+set out と set off はどちらも「出発する」の意味を持ちますが、set out は目的地に向けた具体的な着手（プロジェクトの開始等）にも使え、set off は物理的な出発や、連鎖反応（警報・議論）を引き起こす意味でよく使われます。set back は「進んでいたものを後方へ押し戻す」ことから遅延と、費用の意味（それにはいくらかかったか、を婉曲に表す口語表現）の両方を持ちます。set up は「土台の上に組み立てる」イメージで、組織の設立から機材の準備まで幅広く使われます。set aside は「対象を本筋の脇に置いて保管・後回しにする」イメージでお金や対立を取っておく意味を表し、set about は「対象の周囲に自分を置いて関わり始める」イメージで作業への着手を表します。set apart は「対象を他から離れた特別な場所に置く」イメージで際立たせる意味を表し、set forth は「前方へ押し出す」イメージで出発・説明を表します。`,previewPairs:[`set out vs set back（出発する・着手する／遅らせる）`,`set off vs set up（出発する・引き起こす／設立する・準備する）`,`set aside vs set about（取っておく・後回しにする／取り掛かる）`,`set apart vs set forth（際立たせる／出発する・説明する）`]},{id:`make`,verb:`make`,title:`make は前置詞でどう意味が変わる？`,description:`make の中心イメージ「作り出す」が、続く前置詞・副詞でどう枝分かれするかをまとめたハブページ。`,content:`## make の中心イメージ
 
 make は「（何かを）作り出す」が核です。物理的な製作から、埋め合わせ・判別・到達という比喩の広がりを持ちます。
 
@@ -9430,8 +9742,10 @@ make は「（何かを）作り出す」が核です。物理的な製作から
 | make for | for（方向を目指して向かう） | ～へ向かって進む・貢献する |
 | make up | up（バラバラなものをまとめ上げる） | 仲直りする・作り話をする・構成する |
 | make off with | off with（何かを伴って場を去る） | 盗んで逃げる |
+| make over | over（対象を相手側・新しい形へ渡す） | 譲渡する・作り変える |
+| make of | of（対象への意味づけ） | どう思うか・理解する |
 
-make up for は「不足していた分を新たに作り出して埋め合わせる」イメージで、失われたものの補償を表します。make do with は「理想ではないが今あるもので何とかする」という妥協のニュアンスを持ち、make out は「ぼんやりしたものの輪郭を作り出して判別する」ことから、視覚的・意味的な理解の両方に使われます。make up は「バラバラなものをまとめ上げる」イメージから仲直り・作り話・構成という3つの意味に分かれ、make off with は「その場を離れる＋何かを伴う」の組み合わせで窃盗を表します。`,previewPairs:[`make up for vs make do with（補う／代用してすませる）`,`make out vs make for（理解する・判別する／向かって進む）`,`make up vs make off with（仲直りする・構成する／盗んで逃げる）`]},{id:`pass`,verb:`pass`,title:`pass は前置詞でどう意味が変わる？`,description:`pass の中心イメージ「通り過ぎる」が、続く前置詞・副詞でどう枝分かれするかをまとめたハブページ。`,content:`## pass の中心イメージ
+make up for は「不足していた分を新たに作り出して埋め合わせる」イメージで、失われたものの補償を表します。make do with は「理想ではないが今あるもので何とかする」という妥協のニュアンスを持ち、make out は「ぼんやりしたものの輪郭を作り出して判別する」ことから、視覚的・意味的な理解の両方に使われます。make up は「バラバラなものをまとめ上げる」イメージから仲直り・作り話・構成という3つの意味に分かれ、make off with は「その場を離れる＋何かを伴う」の組み合わせで窃盗を表します。make over は「対象を相手側・新しい形へそっくり渡す」イメージで譲渡・作り変えを表し、make of は「対象について自分なりの意味づけをする」イメージで意見・理解を表します。`,previewPairs:[`make up for vs make do with（補う／代用してすませる）`,`make out vs make for（理解する・判別する／向かって進む）`,`make up vs make off with（仲直りする・構成する／盗んで逃げる）`,`make over vs make of（譲渡する・作り変える／意見を表す・理解する）`]},{id:`pass`,verb:`pass`,title:`pass は前置詞でどう意味が変わる？`,description:`pass の中心イメージ「通り過ぎる」が、続く前置詞・副詞でどう枝分かれするかをまとめたハブページ。`,content:`## pass の中心イメージ
 
 pass は「通り過ぎる・通過する」が核です。物理的な通過から、評価としての通用・意識の通過（気絶）・生命の通過（死の婉曲表現）という比喩に広がります。
 
@@ -9443,8 +9757,10 @@ pass は「通り過ぎる・通過する」が核です。物理的な通過か
 | pass out | out（意識の外へ脱落する） | 意識を失う・気絶する |
 | pass on | on（受け取ったものを次へ送る） | 伝える・回す・うつす |
 | pass up | up（差し出されたものを受け取らない） | 機会を逃す・断る |
+| pass around | around（周りをぐるりと回す） | 順に回して共有する |
+| pass over | over（対象の上を素通りする） | 無視する・見過ごす・昇進で飛ばす |
 
-pass for は自分自身が評価として「通用する」ことを表す自動詞的な使い方で、悪意を必ずしも伴いません。一方 pass off as は「偽物を本物だと偽って他人に押し付ける」という意図的な詐欺を表す他動詞構文で、主語が「騙す側」になる点が pass for と正反対です。pass away は「この世から遠くへ去っていく」という婉曲表現、pass out は「意識が体の外へ抜け落ちる」イメージから気絶を表します。pass on は「受け取ったものに接触したまま次へ送る」イメージで情報や病気を伝える意味を表し、pass up は「差し出されたものを手に取らずそのままにする」イメージで機会を逃す・断る意味を表します。`,previewPairs:[`pass for vs pass off as（通用する／偽って通用させる）`,`pass away vs pass out（亡くなる／気絶する）`,`pass on vs pass up（伝える・回す／機会を逃す・断る）`]},{id:`stand`,verb:`stand`,title:`stand は前置詞でどう意味が変わる？`,description:`stand の中心イメージ「立つ」が、続く前置詞・副詞でどう枝分かれするかをまとめたハブページ。`,content:`## stand の中心イメージ
+pass for は自分自身が評価として「通用する」ことを表す自動詞的な使い方で、悪意を必ずしも伴いません。一方 pass off as は「偽物を本物だと偽って他人に押し付ける」という意図的な詐欺を表す他動詞構文で、主語が「騙す側」になる点が pass for と正反対です。pass away は「この世から遠くへ去っていく」という婉曲表現、pass out は「意識が体の外へ抜け落ちる」イメージから気絶を表します。pass on は「受け取ったものに接触したまま次へ送る」イメージで情報や病気を伝える意味を表し、pass up は「差し出されたものを手に取らずそのままにする」イメージで機会を逃す・断る意味を表します。pass around は「対象の周りをぐるりと回して行き渡らせる」イメージで共有を表し、pass over は「対象の上を素通りする」イメージで無視・見過ごしを表します。`,previewPairs:[`pass for vs pass off as（通用する／偽って通用させる）`,`pass away vs pass out（亡くなる／気絶する）`,`pass on vs pass up（伝える・回す／機会を逃す・断る）`,`pass around vs pass over（共有する／無視する・見過ごす）`]},{id:`stand`,verb:`stand`,title:`stand は前置詞でどう意味が変わる？`,description:`stand の中心イメージ「立つ」が、続く前置詞・副詞でどう枝分かれするかをまとめたハブページ。`,content:`## stand の中心イメージ
 
 stand は「立つ・立っている」が核です。物理的な直立から、代表・支持・忍耐・突出という比喩に広がります。
 
@@ -9456,8 +9772,10 @@ stand は「立つ・立っている」が核です。物理的な直立から�
 | stand up for | up for（起立して擁護側に立つ） | ～を擁護する・支持する |
 | stand down | down（自分の立場を下ろす） | 役職・任務から自ら退く |
 | stand in for | in for（他人のために空いた枠に入る） | 他人の代理を務める |
+| stand against | against（相手と正面から向き合う） | 反対する・対立候補になる |
+| stand over | over（対象の真上に立って見下ろす） | そばに立って監視する |
 
-stand for は「何かの代わりに、その象徴として立つ」イメージで、略語が指す正式名称や、団体が掲げる理念を表す場面で使われます。stand by は「すぐ脇に立って動かない」イメージから、約束を守り続ける場合と、何もせず傍観する場合という一見矛盾する2つの意味を持ちます。stand out は「背景から一歩前に出て立つ」ことで際立つ様子を、stand up for は「立ち上がって相手の側に立つ」ことで擁護・支持を表します。stand down は「自分の立場を下ろす」イメージで役職や任務から自ら退くことを表し、stand in for は「他人のために空いた枠に自分を入れる」イメージで代理を務めることを表します。`,previewPairs:[`stand for vs stand by（表象する・支持する／守る・傍観する・待機する）`,`stand out vs stand up for（目立つ／擁護する・支持する）`,`stand down vs stand in for（自ら退く／他人の代理を務める）`]},{id:`carry`,verb:`carry`,title:`carry は前置詞でどう意味が変わる？`,description:`carry の中心イメージ「持ち運ぶ・支え続ける」が、続く前置詞・副詞でどう枝分かれするかをまとめたハブページ。`,content:`## carry の中心イメージ
+stand for は「何かの代わりに、その象徴として立つ」イメージで、略語が指す正式名称や、団体が掲げる理念を表す場面で使われます。stand by は「すぐ脇に立って動かない」イメージから、約束を守り続ける場合と、何もせず傍観する場合という一見矛盾する2つの意味を持ちます。stand out は「背景から一歩前に出て立つ」ことで際立つ様子を、stand up for は「立ち上がって相手の側に立つ」ことで擁護・支持を表します。stand down は「自分の立場を下ろす」イメージで役職や任務から自ら退くことを表し、stand in for は「他人のために空いた枠に自分を入れる」イメージで代理を務めることを表します。stand against は「相手と正面から向き合う」イメージで反対・対立候補を表し、stand over は「対象の真上に立って見下ろす」イメージで監視を表します。`,previewPairs:[`stand for vs stand by（表象する・支持する／守る・傍観する・待機する）`,`stand out vs stand up for（目立つ／擁護する・支持する）`,`stand down vs stand in for（自ら退く／他人の代理を務める）`,`stand against vs stand over（反対する・対立候補になる／監視する）`]},{id:`carry`,verb:`carry`,title:`carry は前置詞でどう意味が変わる？`,description:`carry の中心イメージ「持ち運ぶ・支え続ける」が、続く前置詞・副詞でどう枝分かれするかをまとめたハブページ。`,content:`## carry の中心イメージ
 
 carry は「（物を）持ち運ぶ」「（責任・作業を）支え続ける」が核となる意味です。そこから「計画や作業を最後までやり通す」という比喩に広がり、続く前置詞・副詞が「どこまで運ぶか」「どんな困難を伴うか」を決めます。
 
@@ -9588,8 +9906,10 @@ back は「後ろ・元の位置」が核となる意味です。物理的な後
 | back down | down（姿勢を低くして引く） | 主張・要求を撤回する |
 | back out | out（合意の外へ抜け出る） | （合意・計画から）手を引く |
 | back away | away（危険から離れて後退する） | 後ずさりする／関与をやめる |
+| back off | off（圧力を切り離して引く） | 引き下がる・追及をやめる |
+| back onto | onto（背面が対象に接する） | 建物の裏が～に面する |
 
-back up は「背後から相手を押し上げて支える」イメージで、人の主張を裏付けることにも、データの複製保存にも使われます。back down は「姿勢を低くして引き下がる」イメージから、それまでの強い主張を撤回することを表します。back out は「合意という枠の外へ後ろ向きに抜け出る」イメージで、既に決めたことから土壇場で手を引くことを表し、back away は「危険や不快なものから物理的・比喩的に後退する」イメージで、その場を離れることにも、関与そのものをやめることにも使われます。`,previewPairs:[`back up vs back down（支持する・裏付ける／撤回する）`,`back out vs back away（手を引く／後ずさりする・関与をやめる）`]},{id:`close`,verb:`close`,title:`close は前置詞でどう意味が変わる？`,description:`close の中心イメージ「閉じる」が、続く前置詞・副詞でどう枝分かれするかをまとめたハブページ。`,content:`## close の中心イメージ
+back up は「背後から相手を押し上げて支える」イメージで、人の主張を裏付けることにも、データの複製保存にも使われます。back down は「姿勢を低くして引き下がる」イメージから、それまでの強い主張を撤回することを表します。back out は「合意という枠の外へ後ろ向きに抜け出る」イメージで、既に決めたことから土壇場で手を引くことを表し、back away は「危険や不快なものから物理的・比喩的に後退する」イメージで、その場を離れることにも、関与そのものをやめることにも使われます。back off は「人が圧力を切り離して引き下がる」イメージで追及や批判をやめることを表し、back onto は「建物の背面が対象に接している」イメージで不動産の位置関係を表します。`,previewPairs:[`back up vs back down（支持する・裏付ける／撤回する）`,`back out vs back away（手を引く／後ずさりする・関与をやめる）`,`back off vs back onto（引き下がる／裏が～に面する）`]},{id:`close`,verb:`close`,title:`close は前置詞でどう意味が変わる？`,description:`close の中心イメージ「閉じる」が、続く前置詞・副詞でどう枝分かれするかをまとめたハブページ。`,content:`## close の中心イメージ
 
 close は「閉じる」が核となる意味です。物理的に閉じる動作から、事業の終了・包囲・遮断という比喩に広がり、続く前置詞・副詞が「何が、どのように閉じるか」を決めます。
 
