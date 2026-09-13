@@ -18689,6 +18689,92 @@ to は「対象に向かって近づく」方向、apart は「ひとまとま�
     ],
   },
   {
+    id: 'take-back-take-down',
+    title: 'take back と take down',
+    chapter: 5,
+    hubId: 'take',
+    description: '同じ take でも back は「発言を撤回する・返品する」、down は「書き留める・取り壊す」。過去へ引き戻すか、下へ落とすかの違いです。',
+    content: `## 過去へ引き戻すのか、下へ落とすのか
+
+take back と take down はどちらも take のあとに副詞が続く形ですが、動く方向がまったく異なります。
+
+- **take back** … 発言を**撤回する**、買った物を**返品する**。
+- **take down** … 内容を**書き留める**、掲示物を**取り外す**、相手を**打ち負かす**。
+
+| 熟語 | 中心の意味 | 典型的な目的語 |
+| --- | --- | --- |
+| take **back** | 撤回する・返品する | a statement, an opinion（撤回）／ a faulty product（返品） |
+| take **down** | 書き留める・取り外す・打ち負かす | a phone number, a name（記録）／ a poster, a tent（撤去）／ an opponent（打倒） |
+
+### take back の使い分け
+
+take back は「言ったことが誤りだったと認めて発言を取り消す」という意味で、"I take back everything I said about him." のように使われます。また「買った商品を店に返しに行く」（Take it back and get a refund.）という日常的な意味もあり、どちらも「一度出したもの・受け取ったものを元の状態に引き戻す」イメージです。
+
+### take down の使い分け
+
+take down は「話された内容や情報を書き留める」（She took down my name and address.）という意味から、「壁の掲示物やテントなどを取り外す・解体する」（They were taking down the circus tent.）、さらに「相手を打ち負かす・無力化する」という意味にも広がります。いずれも「上や表にあったものを下へ落とす・書き記す」イメージで共通しています。
+
+### なぜ直訳で読み解けないか
+
+back は「出したものを元の場所へ引き戻す」イメージ、down は「上にあるものを下へ落とす・記録として下に残す」イメージを運びます。take back は「発言や商品を元の状態へ引き戻す」、take down は「情報を紙の上に落とし込む、あるいは物や人を下に倒す」という、引き戻す方向と落とす方向の違いが意味の違いになっています。
+
+### よくある誤用
+
+⚠️ \`Could you take down this faulty blender to the shop?\`（誤・意図不明瞭）。不良品を返品するなら take **back**。take down は記録する・取り外す・打倒する意味なので、返品には使いません。
+
+⚠️ \`Let me take back your phone number.\`（誤）。電話番号を書き留めるなら take **down**。take back は撤回・返品の意味なので、情報の記録には使えません。
+
+🎯 覚え方：**back＝出したものを元へ引き戻す（撤回する・返品する）**、**down＝上のものを下へ落とす（書き留める・取り外す・打倒する）**。`,
+    keyPoints: [
+      'take back＝発言や意見を撤回する、購入した商品を店に返品する',
+      'take down＝話の内容を書き留める、掲示物やテントを取り外す、相手を打ち負かす',
+      'back は元の状態へ引き戻すイメージ、down は上のものを下へ落とすイメージ',
+      '発言の撤回は take back、情報の記録や取り外しは take down（混同しやすいので要注意）',
+    ],
+    quiz: [
+      {
+        id: 'q-takebackdown-1',
+        question: '空所に入る適切な語はどれですか。「You were right, I take ( ) everything I said earlier.」',
+        options: ['down', 'back', 'off', 'apart'],
+        correctAnswer: 1,
+        explanation: '発言を撤回するという意味なので take back。',
+      },
+      {
+        id: 'q-takebackdown-2',
+        question: '空所に入る適切な語はどれですか。「Could you take ( ) her phone number for me?」',
+        options: ['back', 'down', 'apart', 'over'],
+        correctAnswer: 1,
+        explanation: '情報を書き留めるという意味なので take down。',
+      },
+      {
+        id: 'q-takebackdown-3',
+        question: 'take back の意味として最も適切なものはどれですか。',
+        options: ['書き留める', '発言を撤回する・返品する', '取り外す', '打ち負かす'],
+        correctAnswer: 1,
+        explanation: 'take back は撤回・返品の意味です。',
+      },
+      {
+        id: 'q-takebackdown-4',
+        question: '「彼らはサーカスのテントを解体していた」を最も自然に表す文はどれですか。',
+        options: ['They were taking back the circus tent.', 'They were taking down the circus tent.', 'They were taking apart the circus tent.', 'They were taking after the circus tent.'],
+        correctAnswer: 1,
+        explanation: '取り外す・解体するという意味では take down が使われます。',
+      },
+      {
+        id: 'q-takebackdown-5',
+        question: 'take back と take down の違いとして正しい説明はどれですか。',
+        options: [
+          '両方とも同じ意味で置き換え可能',
+          'take back は撤回する・返品する、take down は記録する・取り外す・打ち負かす',
+          'take back は記録する、take down は撤回する',
+          '意味の違いとは無関係',
+        ],
+        correctAnswer: 1,
+        explanation: '撤回・返品が take back、記録・撤去・打倒が take down です。',
+      },
+    ],
+  },
+  {
     id: 'bring-about-bring-around',
     title: 'bring about と bring around',
     chapter: 5,
@@ -19447,6 +19533,92 @@ down は「上から下へ抑え込む」イメージ、out は「内から外�
     ],
   },
   {
+    id: 'put-in-put-through',
+    title: 'put in と put through',
+    chapter: 5,
+    hubId: 'put',
+    description: '同じ put でも in は「時間や労力を注ぐ・申請する」、through は「電話をつなぐ・つらい経験をさせる・計画を成立させる」。注ぎ込むか、通過させるかの違いです。',
+    content: `## 注ぎ込むのか、通過させるのか
+
+put in と put through はどちらも put のあとに前置詞が続く形ですが、対象の動き方が異なります。
+
+- **put in** … 時間や労力を**注ぎ込む**、正式に**申請する**。
+- **put through** … 電話を**つなぐ**、つらい経験を**させる**、計画を**成立させる**。
+
+| 熟語 | 中心の意味 | 典型的な目的語 |
+| --- | --- | --- |
+| put **in** | 労力を注ぐ・申請する | a lot of effort, extra hours（労力）／ a request, an application（申請） |
+| put through | つなぐ・経験させる・成立させる | a caller（電話）／ a difficult time（経験）／ a deal, a plan（成立） |
+
+### put in の使い分け
+
+put in は「目標達成のために時間や労力を注ぎ込む」という意味で、"She put in a lot of extra hours to finish the project." のように使われます。また put in for something で「正式な申請をする」（I'm putting in for a job at the hospital.）という意味にもなり、いずれも「対象の中へ自分の力や意思を入れ込む」イメージです。
+
+### put through の使い分け
+
+put through は「電話をかけている相手を、話したい相手につなぐ」（Can you put me through to customer service?）という意味が代表的です。「人につらい経験をさせる」（You have put your family through a lot.）、「計画や取引を最後までやり遂げて成立させる」（We managed to put the deal through.）という意味にも広がり、どちらも「対象を一方の状態から他方の状態へ通過させる」イメージで共通しています。
+
+### なぜ直訳で読み解けないか
+
+in は「対象の内側へ力や意思を注ぎ込む」イメージ、through は「一方の側から他方の側へ通過させる」イメージを運びます。put in は「労力や申請を対象の中へ入れ込む」、put through は「電話・経験・計画を一方から他方へ通過させて完結させる」という、注入と通過という違いが意味の違いになっています。
+
+### よくある誤用
+
+⚠️ \`Could you put me in to customer service, please?\`（誤）。電話をつないでほしいなら put me **through** to customer service。put in は労力を注ぐ・申請する意味なので、電話の取り次ぎには使いません。
+
+⚠️ \`She put through a lot of extra hours to finish the project.\`（誤）。労力を注ぎ込んだなら put **in** a lot of extra hours。put through は電話・経験・成立の意味なので、労力を注ぐ文脈には不自然です。
+
+🎯 覚え方：**in＝対象の内側へ力を注ぎ込む（努力する・申請する）**、**through＝一方から他方へ通過させる（電話をつなぐ・経験させる・成立させる）**。`,
+    keyPoints: [
+      'put in＝時間や労力を注ぎ込む、正式に申請する（put in for 〜）',
+      'put through＝電話をつなぐ、人につらい経験をさせる、計画・取引を成立させる',
+      'in は対象の内側へ力を注ぎ込むイメージ、through は一方から他方へ通過させるイメージ',
+      '電話の取り次ぎは put through、労力を注ぐのは put in（混同しやすいので要注意）',
+    ],
+    quiz: [
+      {
+        id: 'q-putinthrough-1',
+        question: '空所に入る適切な語はどれですか。「She put ( ) a lot of effort to finish the report on time.」',
+        options: ['through', 'in', 'off', 'down'],
+        correctAnswer: 1,
+        explanation: '労力を注ぎ込むという意味なので put in。',
+      },
+      {
+        id: 'q-putinthrough-2',
+        question: '空所に入る適切な語はどれですか。「Could you put me ( ) to the sales department, please?」',
+        options: ['in', 'through', 'up', 'out'],
+        correctAnswer: 1,
+        explanation: '電話をつなぐという意味なので put through。',
+      },
+      {
+        id: 'q-putinthrough-3',
+        question: 'put in for の意味として最も適切なものはどれですか。',
+        options: ['〜を正式に申請する', '〜に電話をつなぐ', '〜をつらい目に遭わせる', '〜を成立させる'],
+        correctAnswer: 0,
+        explanation: 'put in for は正式な申請をする意味です。',
+      },
+      {
+        id: 'q-putinthrough-4',
+        question: '「彼らは何とかその契約を成立させた」を最も自然に表す文はどれですか。',
+        options: ['They managed to put in the deal.', 'They managed to put through the deal.', 'They managed to put down the deal.', 'They managed to put off the deal.'],
+        correctAnswer: 1,
+        explanation: '取引を成立させるという意味では put through が使われます。',
+      },
+      {
+        id: 'q-putinthrough-5',
+        question: 'put in と put through の違いとして正しい説明はどれですか。',
+        options: [
+          '両方とも同じ意味で置き換え可能',
+          'put in は労力を注ぐ・申請する、put through は電話をつなぐ・経験させる・成立させる',
+          'put in は電話をつなぐ、put through は労力を注ぐ',
+          '意味の違いとは無関係',
+        ],
+        correctAnswer: 1,
+        explanation: '注入が put in、通過・完結が put through です。',
+      },
+    ],
+  },
+  {
     id: 'get-over-get-through',
     title: 'get over と get through',
     chapter: 5,
@@ -19698,6 +19870,92 @@ with は「〜を伴って」、of は「〜から離れて」というイメー
         ],
         correctAnswer: 1,
         explanation: '罰を逃れるのが get away with、義務を回避するのが get out of です。',
+      },
+    ],
+  },
+  {
+    id: 'get-by-get-down-to',
+    title: 'get by と get down to',
+    chapter: 5,
+    hubId: 'get',
+    description: '同じ get でも by は「何とかやりくりする」、down to は「本腰を入れて取り掛かる」。最低限で乗り切るか、真剣に着手するかの違いです。',
+    content: `## 最低限で乗り切るのか、本腰を入れて取り掛かるのか
+
+get by と get down to はどちらも状況への向き合い方を表しますが、力の入れ方が正反対です。
+
+- **get by** … 十分ではない状況で**何とかやりくりする・生き延びる**。
+- **get down to** … 本腰を入れて**真剣に取り掛かる**。
+
+| 熟語 | 中心の意味 | 典型的な文脈 |
+| --- | --- | --- |
+| get **by** | 何とかやりくりする | on very little money, with limited resources |
+| get down **to** | 本腰を入れて取り掛かる | business, work, the task at hand |
+
+### get by の使い分け
+
+get by は「十分でない資源（お金・時間・道具など）で、何とか生活や仕事を成り立たせる」という意味で、"How can he get by on so little money?" のように使われます。「かろうじて間に合わせる」というニュアンスが核で、余裕のなさを前提とした表現です。
+
+### get down to の使い分け
+
+get down to は「それまで後回しにしていたことに、真剣に集中して取り組み始める」という意味で、"Before we get down to business, I'd like to thank you all for coming today." のように、会議の冒頭で本題に入る場面などで頻出します。get down to work（仕事に本腰を入れる）のように動名詞を伴うことも多い表現です。
+
+### なぜ直訳で読み解けないか
+
+by は「対象の脇をすり抜けるように、最低限で通過する」イメージ、down to は「表面から核心の部分まで身を沈めて向き合う」イメージを運びます。get by は「必要最低限で何とかやり過ごす」、get down to は「本題の核心まで自分を落とし込んで真剣に向き合う」という、力を抜くか入れるかの違いが意味の違いになっています。
+
+### よくある誤用
+
+⚠️ \`Let's get by to business.\`（誤）。本題に取り掛かろうという意味なら get down **to** business。get by は「何とかやりくりする」意味なので、着手の宣言には使いません。
+
+⚠️ \`We managed to get down to on very little money during the trip.\`（誤）。少ないお金で何とかやりくりしたなら get **by**。get down to は本腰を入れて取り掛かる意味なので、節約生活の文脈には使えません。
+
+🎯 覚え方：**by＝最低限で脇をすり抜ける（何とかやりくりする）**、**down to＝核心まで身を沈めて向き合う（本腰を入れる）**。`,
+    keyPoints: [
+      'get by＝十分でない資源で何とかやりくりする・生き延びる（get by on/with 〜）',
+      'get down to＝後回しにしていたことに本腰を入れて真剣に取り掛かる（get down to business/work）',
+      'by は最低限で通過するイメージ、down to は核心まで身を沈めて向き合うイメージ',
+      '節約生活のやりくりは get by、本題への着手は get down to',
+    ],
+    quiz: [
+      {
+        id: 'q-getbydownto-1',
+        question: '空所に入る適切な語はどれですか。「We can get ( ) with just four computers for now.」',
+        options: ['down to', 'by', 'away with', 'out of'],
+        correctAnswer: 1,
+        explanation: '限られた資源で何とかやりくりするという意味なので get by。',
+      },
+      {
+        id: 'q-getbydownto-2',
+        question: '空所に入る適切な語はどれですか。「We should stop chatting and get down ( ) work.」',
+        options: ['by', 'to', 'with', 'on'],
+        correctAnswer: 1,
+        explanation: '本腰を入れて取り掛かるという意味なので get down to。',
+      },
+      {
+        id: 'q-getbydownto-3',
+        question: 'get by の意味として最も適切なものはどれですか。',
+        options: ['本腰を入れて取り掛かる', '十分でない資源で何とかやりくりする', '罰を逃れる', '義務を回避する'],
+        correctAnswer: 1,
+        explanation: 'get by は限られた資源で何とか生活・対処する意味です。',
+      },
+      {
+        id: 'q-getbydownto-4',
+        question: '「本題に入る前に、皆様に感謝申し上げます」を最も自然に表す文はどれですか。',
+        options: ['Before we get by business, I would like to thank you all.', 'Before we get down to business, I would like to thank you all.', 'Before we get away with business, I would like to thank you all.', 'Before we get out of business, I would like to thank you all.'],
+        correctAnswer: 1,
+        explanation: '本題に取り掛かるという意味では get down to が使われます。',
+      },
+      {
+        id: 'q-getbydownto-5',
+        question: 'get by と get down to の違いとして正しい説明はどれですか。',
+        options: [
+          '両方とも同じ意味で置き換え可能',
+          'get by は最低限でやりくりする、get down to は本腰を入れて取り掛かる',
+          'get by は本腰を入れて取り掛かる、get down to は最低限でやりくりする',
+          '意味の違いとは無関係',
+        ],
+        correctAnswer: 1,
+        explanation: '最低限のやりくりが get by、本気の着手が get down to です。',
       },
     ],
   },
@@ -22057,6 +22315,92 @@ after は「後ろについて見守る」イメージ、out for は「外側に
     ],
   },
   {
+    id: 'look-forward-to-look-back-on',
+    title: 'look forward to と look back on',
+    chapter: 5,
+    hubId: 'look',
+    description: '同じ look でも forward to は「これからのことを楽しみにする」、back on は「過去を振り返る」。未来に視線を向けるか、過去に向けるかの違いです。',
+    content: `## 未来に視線を向けるのか、過去に向けるのか
+
+look forward to と look back on はどちらも時間の流れに沿った視線の向け方を表しますが、向かう方向が正反対です。
+
+- **look forward to** … これから起こることを**楽しみに待つ**。
+- **look back on** … 過去に起きたことを**振り返る**。
+
+| 熟語 | 中心の意味 | 典型的な目的語 |
+| --- | --- | --- |
+| look forward **to** | 楽しみに待つ | the holidays, seeing you, doing something |
+| look back **on** | 過去を振り返る | one's childhood, a decision, an experience |
+
+### look forward to の使い分け
+
+look forward to は「これから起こることを嬉しく思いながら待つ」という意味で、"I'm looking forward to the holidays." のように使われます。to は前置詞なので、あとに動詞が続く場合は必ず -ing 形（doing something）になる点が文法的な注意点です。ビジネスメールの結びで「お返事をお待ちしております」という定型表現としても頻出します。
+
+### look back on の使い分け
+
+look back on は「過去にあった出来事を、今の時点から振り返って考える」という意味で、"He looked back on his time as president with pride." のように使われます。「振り返ってみれば、それほど悪い経験ではなかった」（It wasn't such a bad experience when I look back on it.）のように、当時の印象と今の評価の違いを語る場面でよく使われます。
+
+### なぜ直訳で読み解けないか
+
+forward to は「まだ来ていない未来の方向へ視線を向ける」イメージ、back on は「既に過ぎ去った過去の方向へ視線を戻す」イメージを運びます。look forward to は「これから起こることに期待の視線を向ける」、look back on は「既に起きたことに評価の視線を戻す」という、未来と過去という時間軸の向きの違いが意味の違いになっています。
+
+### よくある誤用
+
+⚠️ \`I'm looking back on seeing you next week.\`（誤）。来週会うのを楽しみにしているなら look forward **to** seeing you。look back on は過去を振り返る意味なので、まだ起きていない未来には使えません。
+
+⚠️ \`She looked forward to her childhood with a smile.\`（誤）。子ども時代を懐かしく振り返ったなら look back **on** her childhood。look forward to は未来への期待を表すので、過去の回想には使いません。
+
+🎯 覚え方：**forward to＝まだ来ていない未来へ視線を向ける（楽しみに待つ）**、**back on＝既に過ぎた過去へ視線を戻す（振り返る）**。`,
+    keyPoints: [
+      'look forward to＝これから起こることを楽しみに待つ（to のあとは -ing 形）',
+      'look back on＝過去の出来事を今の時点から振り返って評価する',
+      'forward to は未来への視線、back on は過去への視線という正反対の方向',
+      '来週の予定を楽しみにするのは look forward to、昔を懐かしむのは look back on',
+    ],
+    quiz: [
+      {
+        id: 'q-lookforwardback-1',
+        question: '空所に入る適切な語はどれですか。「We are really looking forward ( ) seeing you next month.」',
+        options: ['on', 'to', 'back', 'for'],
+        correctAnswer: 1,
+        explanation: '楽しみに待つという意味なので look forward to。',
+      },
+      {
+        id: 'q-lookforwardback-2',
+        question: '空所に入る適切な語はどれですか。「Looking back ( ) it, moving abroad was the best decision I ever made.」',
+        options: ['to', 'on', 'for', 'after'],
+        correctAnswer: 1,
+        explanation: '過去を振り返るという意味なので look back on。',
+      },
+      {
+        id: 'q-lookforwardback-3',
+        question: 'look forward to のあとに動詞が続く場合、正しい形はどれですか。',
+        options: ['原形', '-ing形', 'to不定詞', '過去形'],
+        correctAnswer: 1,
+        explanation: 'to は前置詞なので、動詞が続く場合は -ing形になります。',
+      },
+      {
+        id: 'q-lookforwardback-4',
+        question: '「彼は誇りを持って大統領時代を振り返った」を最も自然に表す文はどれですか。',
+        options: ['He looked forward to his time as president with pride.', 'He looked back on his time as president with pride.', 'He looked after his time as president with pride.', 'He looked into his time as president with pride.'],
+        correctAnswer: 1,
+        explanation: '過去を振り返るという意味では look back on が使われます。',
+      },
+      {
+        id: 'q-lookforwardback-5',
+        question: 'look forward to と look back on の違いとして正しい説明はどれですか。',
+        options: [
+          '両方とも同じ意味で置き換え可能',
+          'look forward to は未来を楽しみに待つ、look back on は過去を振り返る',
+          'look forward to は過去を振り返る、look back on は未来を楽しみに待つ',
+          '意味の違いとは無関係',
+        ],
+        correctAnswer: 1,
+        explanation: '未来への期待が look forward to、過去の回想が look back on です。',
+      },
+    ],
+  },
+  {
     id: 'break-down-break-off',
     title: 'break down と break off',
     chapter: 5,
@@ -22573,6 +22917,92 @@ down with は「下方向へ、〜を伴って落ちていく」イメージで�
         ],
         correctAnswer: 1,
         explanation: '病気にかかるのが come down with、進捗・同行・出現を表すのが come along です。',
+      },
+    ],
+  },
+  {
+    id: 'come-into-come-off',
+    title: 'come into と come off',
+    chapter: 5,
+    hubId: 'come',
+    description: '同じ come でも into は「財産を相続する・関わってくる」、off は「計画通りに成功する・外れる・薬をやめる」。新たに手に入るか、離れて結果が出るかの違いです。',
+    content: `## 新たに手に入るのか、離れて結果が出るのか
+
+come into と come off はどちらも come のあとに前置詞・副詞が続く形ですが、対象への関わり方が異なります。
+
+- **come into** … 財産や権利を**相続する**、ある要素が状況に**関わってくる**。
+- **come off** … 計画通りに**成功する**、物が**外れる**、薬の使用を**やめる**。
+
+| 熟語 | 中心の意味 | 典型的な目的語 |
+| --- | --- | --- |
+| come **into** | 相続する・関わってくる | money, a fortune（相続）／ a plan, a situation（関与） |
+| come **off** | 成功する／外れる／薬をやめる | a party, an attempt（成功）／ a button（外れる）／ medication（服薬中止） |
+
+### come into の使い分け
+
+come into の代表的な意味は「親族の死去などにより財産や権利を受け継ぐ」（She came into a bit of money when her grandfather died.）です。もう1つ、「ある要素が状況に影響を及ぼし始める」（Love didn't come into it.）という意味もあり、否定文でよく使われます。いずれも「それまで自分の外にあったものが、自分の内側・状況の中へ入ってくる」イメージです。
+
+### come off の使い分け
+
+come off は「計画やイベントが予定通りにうまくいく」（I thought the party came off really well.）という意味から、「ボタンや部品が本体から外れる」（This button keeps coming off.）、「服用していた薬をやめる」（He's come off the tablets because they were making him dizzy.）という意味に広がります。また "Come off it!"（いい加減にして・信じられない）という口語の決まり文句もあります。
+
+### なぜ直訳で読み解けないか
+
+into は「外にあったものが内側へ入り込む」イメージ、off は「くっついていたものが本体から離れる」イメージを運びます。come into は「財産や影響力が自分の内側へ入ってくる」、come off は「計画が離陸して結果が出る、あるいは部品や薬が本体から離れる」という、内側へ入るか外へ離れるかの違いが意味の違いになっています。
+
+### よくある誤用
+
+⚠️ \`He came off a large inheritance from his uncle.\`（誤）。遺産を相続したなら come **into** a large inheritance。come off は成功する・外れる・服薬中止の意味なので、相続には使いません。
+
+⚠️ \`I think the party came into really well.\`（誤）。パーティーがうまくいったなら come **off** really well。come into は相続・関与の意味なので、成功を表す文脈には使えません。
+
+🎯 覚え方：**into＝外にあったものが自分の内側へ入ってくる（相続する・関わってくる）**、**off＝くっついていたものが本体から離れる（成功する・外れる・薬をやめる）**。`,
+    keyPoints: [
+      'come into＝財産や権利を相続する、ある要素が状況に関わってくる（否定文で頻出）',
+      'come off＝計画やイベントが予定通り成功する、部品が外れる、薬の服用をやめる',
+      'into は外から内側へ入ってくるイメージ、off は本体から離れるイメージ',
+      '遺産の相続は come into、計画の成功や部品の脱落は come off（混同しやすいので要注意）',
+    ],
+    quiz: [
+      {
+        id: 'q-comeintooff-1',
+        question: '空所に入る適切な語はどれですか。「She came ( ) a small fortune when her aunt passed away.」',
+        options: ['off', 'into', 'along', 'about'],
+        correctAnswer: 1,
+        explanation: '財産を相続するという意味なので come into。',
+      },
+      {
+        id: 'q-comeintooff-2',
+        question: '空所に入る適切な語はどれですか。「The surprise party came ( ) better than we expected.」',
+        options: ['into', 'off', 'across', 'down with'],
+        correctAnswer: 1,
+        explanation: '計画通りにうまくいくという意味なので come off。',
+      },
+      {
+        id: 'q-comeintooff-3',
+        question: 'come into の意味として適切でないものはどれですか。',
+        options: ['財産を相続する', '状況に関わってくる（多くは否定文で）', '計画が成功する', '権利を得る'],
+        correctAnswer: 2,
+        explanation: '計画が成功するのは come off の意味です。',
+      },
+      {
+        id: 'q-comeintooff-4',
+        question: '「彼はめまいがするのでその薬をやめた」を最も自然に表す文はどれですか。',
+        options: ['He came into the tablets because they were making him dizzy.', 'He came off the tablets because they were making him dizzy.', 'He came along the tablets because they were making him dizzy.', 'He came about the tablets because they were making him dizzy.'],
+        correctAnswer: 1,
+        explanation: '薬の服用をやめるという意味では come off が使われます。',
+      },
+      {
+        id: 'q-comeintooff-5',
+        question: 'come into と come off の違いとして正しい説明はどれですか。',
+        options: [
+          '両方とも同じ意味で置き換え可能',
+          'come into は財産や影響力を得る、come off は成功する・外れる・服薬をやめる',
+          'come into は成功する、come off は財産を得る',
+          '意味の違いとは無関係',
+        ],
+        correctAnswer: 1,
+        explanation: '相続・関与が come into、成功・脱落・服薬中止が come off です。',
       },
     ],
   },
