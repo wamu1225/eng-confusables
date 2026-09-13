@@ -19031,6 +19031,92 @@ back は「後ろ（過去）へ戻る」方向、forward は「前（未来・�
     ],
   },
   {
+    id: 'bring-down-bring-in',
+    title: 'bring down と bring in',
+    chapter: 5,
+    hubId: 'bring',
+    description: '同じ bring でも down は「権力を倒す・水準を下げる」、in は「新しく導入する・収益を得る」。押し下げるか、新たに持ち込むかの違いです。',
+    content: `## 押し下げるのか、新たに持ち込むのか
+
+bring down と bring in はどちらも bring のあとに副詞が続く形ですが、動く方向が異なります。
+
+- **bring down** … 政権などを**倒す**、価格や水準を**下げる**。
+- **bring in** … 新しい制度・人を**導入する**、収益を**もたらす**。
+
+| 熟語 | 中心の意味 | 典型的な目的語 |
+| --- | --- | --- |
+| bring **down** | 倒す・下げる | a government（倒す）／ prices, blood pressure（下げる） |
+| bring **in** | 導入する・稼ぐ・招く | a new law（導入）／ money（稼ぐ）／ an expert（招く） |
+
+### bring down の使い分け
+
+bring down は「政権や権力者を失脚させる」という意味で、"An economic crisis could bring down the government." のように使われます。また「価格や血圧などの水準を下げる」（bring down prices）という意味にも使われ、どちらも「高い位置にあったものを引き下ろす」イメージです。
+
+### bring in の使い分け
+
+bring in は「新しい法律や制度を導入する」（New safety regulations were brought in last year.）という意味から、「事業や作品が収益を生む」（The film has brought in millions of dollars.）、「専門家を仕事のために招く」（We need to bring in an expert.）という意味に広がります。いずれも「それまで無かったものを新たに持ち込む」イメージで共通しています。
+
+### なぜ直訳で読み解けないか
+
+down は「高い位置から低い位置へ落とす」イメージ、in は「外にあったものを内側へ持ち込む」イメージを運びます。bring down は「権力や水準を高い位置から引き下ろす」、bring in は「制度・人・お金を外から内側へ新たに持ち込む」という、下げる方向と持ち込む方向の違いが意味の違いになっています。
+
+### よくある誤用
+
+⚠️ \`The new safety regulations were brought down last year.\`（誤）。新しい規制を導入したなら bring **in**。bring down は倒す・下げる意味なので、制度の導入には使いません。
+
+⚠️ \`The scandal brought in the minister.\`（誤・意図不明瞭）。スキャンダルで大臣が失脚したなら bring **down** the minister。bring in は導入・招聘の意味なので、失脚には使えません。
+
+🎯 覚え方：**down＝高い位置から引き下ろす（倒す・下げる）**、**in＝外から新たに持ち込む（導入する・稼ぐ・招く）**。`,
+    keyPoints: [
+      'bring down＝政権や権力者を倒す、価格や血圧などの水準を下げる',
+      'bring in＝新しい法律や制度を導入する、収益をもたらす、専門家を招く',
+      'down は高い位置から引き下ろすイメージ、in は外から新たに持ち込むイメージ',
+      '政権の失脚は bring down、制度の導入や収益は bring in（混同しやすいので要注意）',
+    ],
+    quiz: [
+      {
+        id: 'q-bringdownin-1',
+        question: '空所に入る適切な語はどれですか。「The scandal eventually brought ( ) the entire cabinet.」',
+        options: ['in', 'down', 'about', 'on'],
+        correctAnswer: 1,
+        explanation: '政権を倒すという意味なので bring down。',
+      },
+      {
+        id: 'q-bringdownin-2',
+        question: '空所に入る適切な語はどれですか。「The new tax law will be brought ( ) next April.」',
+        options: ['down', 'in', 'back', 'up'],
+        correctAnswer: 1,
+        explanation: '新しい制度を導入するという意味なので bring in。',
+      },
+      {
+        id: 'q-bringdownin-3',
+        question: 'bring down の意味として最も適切なものはどれですか。',
+        options: ['新しい制度を導入する', '政権や水準を下げる・倒す', '収益をもたらす', '専門家を招く'],
+        correctAnswer: 1,
+        explanation: 'bring down は権力や水準を引き下ろす意味です。',
+      },
+      {
+        id: 'q-bringdownin-4',
+        question: '「その映画は数百万ドルの収益をもたらした」を最も自然に表す文はどれですか。',
+        options: ['The film brought down millions of dollars.', 'The film brought in millions of dollars.', 'The film brought back millions of dollars.', 'The film brought about millions of dollars.'],
+        correctAnswer: 1,
+        explanation: '収益を稼ぐという意味では bring in が使われます。',
+      },
+      {
+        id: 'q-bringdownin-5',
+        question: 'bring down と bring in の違いとして正しい説明はどれですか。',
+        options: [
+          '両方とも同じ意味で置き換え可能',
+          'bring down は権力や水準を引き下ろす、bring in は新たに導入する・稼ぐ',
+          'bring down は新たに導入する、bring in は引き下ろす',
+          '意味の違いとは無関係',
+        ],
+        correctAnswer: 1,
+        explanation: '引き下ろしが bring down、新規導入・収益が bring in です。',
+      },
+    ],
+  },
+  {
     id: 'call-for-call-on',
     title: 'call for と call on',
     chapter: 5,
@@ -19274,6 +19360,92 @@ in は「外から内側へ」、out は「内から外へ」向かう方向を�
         ],
         correctAnswer: 1,
         explanation: 'in（呼び入れる）と out（発する）は向きが逆です。',
+      },
+    ],
+  },
+  {
+    id: 'call-back-call-away',
+    title: 'call back と call away',
+    chapter: 5,
+    hubId: 'call',
+    description: '同じ call でも back は「折り返し電話する」、away は「呼び出されてその場を離れる」。相手に応答するか、自分がその場を離れるかの違いです。',
+    content: `## 相手に応答するのか、その場を離れるのか
+
+call back と call away はどちらも予定外の中断を表しますが、誰が何をするかが異なります。
+
+- **call back** … かかってきた電話に**折り返し電話する**。
+- **call away** … 用事のために呼び出されて**その場を離れる**（多くは受動態）。
+
+| 熟語 | 中心の意味 | 典型的な文脈 |
+| --- | --- | --- |
+| call **back** | 折り返し電話する | a missed call, a message |
+| be called **away** | 呼び出されてその場を離れる | from a meeting, to an emergency |
+
+### call back の使い分け
+
+call back は「かかってきた電話に対して、あとで折り返し連絡する」という意味で、"She said she'd call back later to pick up the report." のように使われます。「もう一度電話をかける」というシンプルな意味でも使われ、電話対応の場面で最も基本的な表現の1つです。
+
+### call away の使い分け
+
+call away は多くの場合 **be called away** という受動態の形で使われ、「今いる場所や会議から、別の用事のために呼び出されて離れる」という意味を表します。"She was called away from the meeting to attend to an urgent matter." のように、緊急の用事で中座する場面によく使われます。
+
+### なぜ直訳で読み解けないか
+
+back は「相手からの働きかけに対して、同じ経路を通って応答を返す」イメージ、away は「今いる場所から遠くへ引き離される」イメージを運びます。call back は「かかってきた電話という働きかけに折り返し応じる」、call away は「今いる場所から呼び出されて引き離される」という、応答するか場を離れるかの違いが意味の違いになっています。
+
+### よくある誤用
+
+⚠️ \`I'm sorry, I was called back from the meeting for an emergency.\`（誤）。会議から呼び出されて中座したなら was called **away**。call back は電話をかけ直す意味なので、会議からの中座には使いません。
+
+⚠️ \`Could you call away later? I missed your call.\`（誤）。折り返し電話してほしいなら call **back**。call away は呼び出されて場を離れる意味なので、電話を頼む文脈には使えません。
+
+🎯 覚え方：**back＝電話という働きかけに折り返し応じる（かけ直す）**、**away＝その場から呼び出されて引き離される（中座する）**。`,
+    keyPoints: [
+      'call back＝かかってきた電話に折り返し電話する',
+      'be called away＝別の用事のために今いる場所（会議など）から呼び出されて離れる',
+      'back は電話という働きかけへの応答、away は場からの引き離しを表す',
+      '電話のかけ直しは call back、会議からの中座は be called away',
+    ],
+    quiz: [
+      {
+        id: 'q-callbackaway-1',
+        question: '空所に入る適切な語はどれですか。「I missed her call, so I will call her ( ) after lunch.」',
+        options: ['away', 'back', 'off', 'out'],
+        correctAnswer: 1,
+        explanation: '折り返し電話するという意味なので call back。',
+      },
+      {
+        id: 'q-callbackaway-2',
+        question: '空所に入る適切な語はどれですか。「The doctor was called ( ) to deal with an emergency.」',
+        options: ['back', 'away', 'for', 'on'],
+        correctAnswer: 1,
+        explanation: '呼び出されてその場を離れるという意味なので called away。',
+      },
+      {
+        id: 'q-callbackaway-3',
+        question: 'be called away の意味として最も適切なものはどれですか。',
+        options: ['折り返し電話する', '用事のために呼び出されてその場を離れる', '電話を取り次ぐ', '大声で呼ぶ'],
+        correctAnswer: 1,
+        explanation: 'be called away は緊急の用事などで中座することを表します。',
+      },
+      {
+        id: 'q-callbackaway-4',
+        question: '「彼女はあとで折り返すと言った」を最も自然に表す文はどれですか。',
+        options: ['She said she would call away later.', 'She said she would call back later.', 'She said she would call off later.', 'She said she would call on later.'],
+        correctAnswer: 1,
+        explanation: '折り返し電話するという意味では call back が使われます。',
+      },
+      {
+        id: 'q-callbackaway-5',
+        question: 'call back と call away の違いとして正しい説明はどれですか。',
+        options: [
+          '両方とも同じ意味で置き換え可能',
+          'call back は電話に折り返し応じる、call away は用事で場を離れる',
+          'call back は場を離れる、call away は電話に応じる',
+          '意味の違いとは無関係',
+        ],
+        correctAnswer: 1,
+        explanation: '電話の応答が call back、場からの引き離しが call away です。',
       },
     ],
   },
@@ -20220,6 +20392,92 @@ over は「境界・枠を越えてあふれる」イメージ、up は「下か
     ],
   },
   {
+    id: 'run-by-run-off',
+    title: 'run something by と run off',
+    chapter: 5,
+    hubId: 'run',
+    description: '同じ run でも by は「意見を聞くために伝える」、off は「逃げる・大量に印刷する」。相手の判断を仰ぐか、その場を去る・複製するかの違いです。',
+    content: `## 相手の判断を仰ぐのか、その場を去る・複製するのか
+
+run something by someone と run off はどちらも run を使いますが、向かう対象がまったく異なります。
+
+- **run something by someone** … 案や考えを伝えて**意見をもらう**。
+- **run off** … 突然その場を**去る**、大量に**印刷する**、液体が**流れ出る**。
+
+| 熟語 | 中心の意味 | 典型的な目的語 |
+| --- | --- | --- |
+| run something **by** someone | 意見を聞くために伝える | an idea, a plan |
+| run **off** | 逃げる／印刷する／流れ出る | （逃げる：主語のみ）／ copies（印刷）／ water（液体） |
+
+### run something by someone の使い分け
+
+run something by someone は「考えたことを相手に話して、感想や承認をもらう」という意味で、"Can I run something by you?" のように、本題に入る前の前置きとしてよく使われます。run something past someone とほぼ同じ意味で置き換え可能です。
+
+### run off の使い分け
+
+run off は「その場から突然走り去る」という基本の意味（人が主語）から、「大量の印刷物・コピーを作る」（I want 500 copies run off at once.）、「run off with で駆け落ちする・持ち逃げする」、「液体が流れ出る」という意味に広がります。いずれも「本体から離れて、外へ流れ出ていく・去っていく」イメージで共通しています。
+
+### なぜ直訳で読み解けないか
+
+by は「相手の脇を通過させて確認してもらう」イメージ、off は「本体から離れて外へ出ていく」イメージを運びます。run something by someone は「案を相手の脇を通して意見を求める」、run off は「人・印刷物・液体が本体から離れて外へ出ていく」という、確認のための経由と離脱という違いが意味の違いになっています。
+
+### よくある誤用
+
+⚠️ \`Let me run off this idea before we finalize it.\`（誤・意図不明瞭）。アイデアについて意見を聞きたいなら run this idea **by** you。run off は逃げる・印刷する意味なので、意見を求める文脈には使いません。
+
+⚠️ \`I need 500 copies run by at once.\`（誤）。大量に印刷してほしいなら run **off** 500 copies。run by は意見を求める意味なので、印刷の依頼には使えません。
+
+🎯 覚え方：**by＝相手の脇を通して確認してもらう（意見を聞く）**、**off＝本体から離れて外へ出ていく（去る・印刷する・流れ出る）**。`,
+    keyPoints: [
+      'run something by someone＝案や考えを伝えて意見をもらう（run past とほぼ同義）',
+      'run off＝突然その場を去る、大量に印刷する、run off with で駆け落ちする・持ち逃げする',
+      'by は相手を経由して確認してもらうイメージ、off は本体から離れて出ていくイメージ',
+      '意見を求めるのは run by、印刷や逃亡は run off（混同しやすいので要注意）',
+    ],
+    quiz: [
+      {
+        id: 'q-runbyoff-1',
+        question: '空所に入る適切な語はどれですか。「Can I run an idea ( ) you before the meeting?」',
+        options: ['off', 'by', 'over', 'through'],
+        correctAnswer: 1,
+        explanation: '意見を聞くために伝えるという意味なので run by。',
+      },
+      {
+        id: 'q-runbyoff-2',
+        question: '空所に入る適切な語はどれですか。「Could you run ( ) fifty more copies of this handout?」',
+        options: ['by', 'off', 'into', 'through'],
+        correctAnswer: 1,
+        explanation: '大量に印刷するという意味なので run off。',
+      },
+      {
+        id: 'q-runbyoff-3',
+        question: 'run something by someone の意味として最も適切なものはどれですか。',
+        options: ['大量に印刷する', '案を伝えて意見をもらう', '突然逃げる', '液体が流れ出る'],
+        correctAnswer: 1,
+        explanation: 'run by は相手の意見を求める意味です。',
+      },
+      {
+        id: 'q-runbyoff-4',
+        question: '「彼は妻の親友と駆け落ちした」を最も自然に表す文はどれですか。',
+        options: ['He ran by with his wife\'s best friend.', 'He ran off with his wife\'s best friend.', 'He ran through with his wife\'s best friend.', 'He ran into his wife\'s best friend.'],
+        correctAnswer: 1,
+        explanation: 'run off with で駆け落ちする・持ち逃げするという意味になります。',
+      },
+      {
+        id: 'q-runbyoff-5',
+        question: 'run something by someone と run off の違いとして正しい説明はどれですか。',
+        options: [
+          '両方とも同じ意味で置き換え可能',
+          'run by は相手の意見を求める、run off は去る・印刷する・流れ出る',
+          'run by は印刷する、run off は意見を求める',
+          '意味の違いとは無関係',
+        ],
+        correctAnswer: 1,
+        explanation: '意見を求めるのが run by、離脱・複製・流出が run off です。',
+      },
+    ],
+  },
+  {
     id: 'turn-out-turn-into',
     title: 'turn out と turn into',
     chapter: 5,
@@ -20485,6 +20743,92 @@ on は「接続してスイッチが入った状態」、off は「接続が切�
     ],
   },
   {
+    id: 'turn-over-turn-away',
+    title: 'turn over と turn away',
+    chapter: 5,
+    hubId: 'turn',
+    description: '同じ turn でも over は「警察に引き渡す・売上を上げる」、away は「入場を断る・追い返す」。相手に渡すか、拒んで遠ざけるかの違いです。',
+    content: `## 相手に渡すのか、拒んで遠ざけるのか
+
+turn over と turn away はどちらも人や物の扱いを表しますが、向かう方向が異なります。
+
+- **turn over** … 犯人などを**警察に引き渡す**、事業が一定の**売上を上げる**。
+- **turn away** … 入場や要求を**拒む・追い返す**。
+
+| 熟語 | 中心の意味 | 典型的な目的語 |
+| --- | --- | --- |
+| turn **over** | 引き渡す・売上を上げる | a suspect to the police（引き渡す）／ $340 million（売上） |
+| turn **away** | 入場を拒む・追い返す | people at the door, a request |
+
+### turn over の使い分け
+
+turn over は「容疑者や物を、権限のある人・組織へ引き渡す」（They turned the suspect over to the police.）という意味の他に、ビジネスの文脈で「一定期間にどれだけの売上を計上したか」（The company turned over $340 million last year.）を表す語としても使われます。名詞形 turnover（売上高・離職率）としても定着しています。
+
+### turn away の使い分け
+
+turn away は「満員などの理由で人を入場させない」（The club was turning people away at the door.）という意味で使われます。比喩的に「支援や興味の対象から離れる」という意味にも広がりますが、中心は「相手を拒んで自分から遠ざける」ことです。
+
+### なぜ直訳で読み解けないか
+
+over は「自分の手にあるものを相手の手へ渡す」イメージ、away は「相手を自分から遠ざける」イメージを運びます。turn over は「対象を権限のある相手へ渡す、または売上として計上する」、turn away は「入場希望者を拒んで遠ざける」という、渡す方向と遠ざける方向の違いが意味の違いになっています。
+
+### よくある誤用
+
+⚠️ \`The bouncer turned over several people at the door.\`（誤・意図不明瞭）。入場を断ったなら turned **away**。turn over は引き渡す・売上を上げる意味なので、入場拒否には使いません。
+
+⚠️ \`They turned away the suspect to the police.\`（誤）。容疑者を警察に引き渡したなら turned **over**。turn away は拒む・追い返す意味なので、引き渡しには使えません。
+
+🎯 覚え方：**over＝自分の手から相手の手へ渡す（引き渡す・売上を上げる）**、**away＝相手を自分から遠ざける（入場を拒む・追い返す）**。`,
+    keyPoints: [
+      'turn over＝容疑者や物を権限のある相手に引き渡す、事業が一定の売上を計上する（名詞形turnover）',
+      'turn away＝満員などを理由に人の入場を拒む・追い返す',
+      'over は相手へ渡すイメージ、away は相手を遠ざけるイメージ',
+      '容疑者の引き渡しは turn over、入場拒否は turn away（混同しやすいので要注意）',
+    ],
+    quiz: [
+      {
+        id: 'q-turnoveraway-1',
+        question: '空所に入る適切な語はどれですか。「The witness turned the evidence ( ) to the police.」',
+        options: ['away', 'over', 'off', 'down'],
+        correctAnswer: 1,
+        explanation: '証拠を引き渡すという意味なので turn over。',
+      },
+      {
+        id: 'q-turnoveraway-2',
+        question: '空所に入る適切な語はどれですか。「The concert was sold out, so hundreds of fans were turned ( ).」',
+        options: ['over', 'away', 'on', 'up'],
+        correctAnswer: 1,
+        explanation: '入場を断られるという意味なので turned away。',
+      },
+      {
+        id: 'q-turnoveraway-3',
+        question: 'turn over の意味として適切でないものはどれですか。',
+        options: ['権限のある相手に引き渡す', '事業が売上を計上する', '入場を拒む', '責任を移譲する'],
+        correctAnswer: 2,
+        explanation: '入場を拒むのは turn away の意味です。',
+      },
+      {
+        id: 'q-turnoveraway-4',
+        question: '「その会社は昨年3億ドルの売上を上げた」を最も自然に表す文はどれですか。',
+        options: ['The company turned away $300 million last year.', 'The company turned over $300 million last year.', 'The company turned out $300 million last year.', 'The company turned down $300 million last year.'],
+        correctAnswer: 1,
+        explanation: '売上を計上するという意味では turn over が使われます。',
+      },
+      {
+        id: 'q-turnoveraway-5',
+        question: 'turn over と turn away の違いとして正しい説明はどれですか。',
+        options: [
+          '両方とも同じ意味で置き換え可能',
+          'turn over は相手に渡す・売上を計上する、turn away は入場を拒む・追い返す',
+          'turn over は入場を拒む、turn away は相手に渡す',
+          '意味の違いとは無関係',
+        ],
+        correctAnswer: 1,
+        explanation: '引き渡し・売上が turn over、拒絶・追い返しが turn away です。',
+      },
+    ],
+  },
+  {
     id: 'hold-off-hold-out',
     title: 'hold off と hold out',
     chapter: 5,
@@ -20741,6 +21085,92 @@ on は「今の状態に接触し続ける」イメージ、over は「本来の
         ],
         correctAnswer: 1,
         explanation: '今を保持するのが hold on、期限の先へ持ち越すのが hold over です。',
+      },
+    ],
+  },
+  {
+    id: 'hold-together-hold-against',
+    title: 'hold together と hold against',
+    chapter: 5,
+    hubId: 'hold',
+    description: '同じ hold でも together は「バラバラにならず団結・一体を保つ」、against は「過去の過ちを理由に悪印象を持ち続ける」。まとまりを保つか、悪材料として握り続けるかの違いです。',
+    content: `## まとまりを保つのか、悪材料として握り続けるのか
+
+hold together と hold against はどちらも「保持する」という hold の核から出ていますが、保持する対象が異なります。
+
+- **hold together** … 集団やまとまりが**バラバラにならず一体を保つ**。
+- **hold something against someone** … 相手の過去の過ちを**悪材料として持ち続け、評価を下げる**。
+
+| 熟語 | 中心の意味 | 典型的な主語・目的語 |
+| --- | --- | --- |
+| hold together | 団結を保つ・崩れずにいる | a team, a family, an argument |
+| hold ... against ... | 過去の過ちを理由に悪く思う | a mistake against someone |
+
+### hold together の使い分け
+
+hold together は「複数の部分やメンバーが分裂せず、1つのまとまりを保ち続ける」という意味で、"It's usually the drummer who holds the band together." のように使われます。議論や理論が「筋が通っている・一貫している」（The argument doesn't hold together.）という意味にも使われ、いずれも「バラバラになる力に逆らって一体性を保つ」イメージです。
+
+### hold against の使い分け
+
+hold something against someone は「相手が過去にした過ちを理由に、今もその人を悪く評価し続ける」という意味で、"He made a mistake, but I don't hold it against him — we all make mistakes." のように、多くは否定文で「根に持たない」ことを表す際に使われます。
+
+### なぜ直訳で読み解けないか
+
+together は「複数のものを1つに保つ」イメージ、against は「相手に不利な材料を突き付け続ける」イメージを運びます。hold together は「分裂しそうなものを1つにまとめ続ける」、hold against は「過去の過ちという材料を相手に対して持ち続ける」という、まとめる対象と向ける対象の違いが意味の違いになっています。
+
+### よくある誤用
+
+⚠️ \`I don't hold together his mistake.\`（誤・意図不明瞭）。彼の過ちを根に持たないなら don't hold it **against** him。hold together はまとまりを保つ意味なので、個人への評価には使いません。
+
+⚠️ \`It's the mother who usually holds the family against.\`（誤）。家族の結束を保っているなら holds the family **together**。hold against は悪印象を持ち続ける意味なので、結束を表すには使えません。
+
+🎯 覚え方：**together＝バラバラになる力に逆らって1つに保つ（団結を保つ）**、**against＝過去の過ちを相手に対して持ち続ける（根に持つ）**。`,
+    keyPoints: [
+      'hold together＝集団や議論がバラバラにならず一体性・一貫性を保つ',
+      'hold something against someone＝相手の過去の過ちを理由に悪く思い続ける（多くは否定文）',
+      'together は複数のものを1つにまとめるイメージ、against は相手に不利な材料を向け続けるイメージ',
+      '結束を保つのは hold together、根に持つのは hold against（対象がまったく異なる）',
+    ],
+    quiz: [
+      {
+        id: 'q-holdtogetheragainst-1',
+        question: '空所に入る適切な語はどれですか。「It was the captain who held the team ( ) during the crisis.」',
+        options: ['against', 'together', 'over', 'back'],
+        correctAnswer: 1,
+        explanation: 'チームの結束を保つという意味なので hold together。',
+      },
+      {
+        id: 'q-holdtogetheragainst-2',
+        question: '空所に入る適切な語はどれですか。「He made a mistake, but I do not hold it ( ) him.」',
+        options: ['together', 'against', 'on', 'out'],
+        correctAnswer: 1,
+        explanation: '過去の過ちを根に持たないという意味なので hold against。',
+      },
+      {
+        id: 'q-holdtogetheragainst-3',
+        question: 'hold together の意味として最も適切なものはどれですか。',
+        options: ['過去の過ちを根に持つ', '集団や議論がまとまりを保つ', '折り返し電話する', '手元に隠しておく'],
+        correctAnswer: 1,
+        explanation: 'hold together は分裂せず一体性を保つ意味です。',
+      },
+      {
+        id: 'q-holdtogetheragainst-4',
+        question: '「その議論は筋が通っていない」を最も自然に表す文はどれですか。',
+        options: ['The argument does not hold against.', 'The argument does not hold together.', 'The argument does not hold on.', 'The argument does not hold up together against.'],
+        correctAnswer: 1,
+        explanation: '議論が一貫しているという意味では hold together が使われます。',
+      },
+      {
+        id: 'q-holdtogetheragainst-5',
+        question: 'hold together と hold against の違いとして正しい説明はどれですか。',
+        options: [
+          '両方とも同じ意味で置き換え可能',
+          'hold together はまとまりを保つ、hold against は過去の過ちを理由に悪く思い続ける',
+          'hold together は過去の過ちを理由に悪く思う、hold against はまとまりを保つ',
+          '意味の違いとは無関係',
+        ],
+        correctAnswer: 1,
+        explanation: '団結の維持が hold together、根に持つことが hold against です。',
       },
     ],
   },
