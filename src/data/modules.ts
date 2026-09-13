@@ -21445,6 +21445,92 @@ aside は「本筋から外れた脇」、about は「対象の周りに関わ�
     ],
   },
   {
+    id: 'set-apart-set-forth',
+    title: 'set apart と set forth',
+    chapter: 5,
+    hubId: 'set',
+    description: '同じ set でも apart は「際立たせる・区別する」、forth は「出発する・詳しく説明する」。他と分けて置くか、前に押し出すかの違いです。',
+    content: `## 他と分けて置くのか、前へ押し出すのか
+
+set apart と set forth はどちらも set のあとに副詞が続く形ですが、動く方向が異なります。
+
+- **set ... apart** … 他と**区別する・際立たせる**。
+- **set forth** … 旅に**出発する**、内容を**詳しく説明する**（やや形式的）。
+
+| 熟語 | 中心の意味 | 典型的な目的語 |
+| --- | --- | --- |
+| set ... apart | 際立たせる・区別する | a candidate from others, a brand |
+| set forth | 出発する／説明する | （出発：主語のみ）／ the terms, the plan（説明） |
+
+### set apart の使い分け
+
+set apart は「ある特徴が、対象を同種の他のものより際立たせる・優れて見せる」という意味で、"What set her apart from the other candidates was her original ideas." のように使われます。「他と分けて特別な場所に置く」というイメージが核にあります。
+
+### set forth の使い分け
+
+set forth はやや格式ばった表現で、「旅に出発する」という意味（物語や旅行記の文体でよく見られる）から、「契約書や規則の内容を、整理して詳しく説明する」（The terms are set forth in Section 3.）という意味に広がります。日常会話よりも法律文書や正式な文章で使われる傾向があります。
+
+### なぜ直訳で読み解けないか
+
+apart は「本体から離れた特別な場所へ置く」イメージ、forth は「前方へ押し出す」イメージを運びます。set apart は「対象を他から離れた特別な位置に置いて際立たせる」、set forth は「自分の身や説明内容を前方へ押し出して展開する」という、離して置くか前へ出すかの違いが意味の違いになっています。
+
+### よくある誤用
+
+⚠️ \`The contract sets apart the terms of employment in Section 3.\`（誤）。契約書が条件を説明しているなら sets **forth**。set apart は際立たせる・区別する意味なので、条文の説明には使いません。
+
+⚠️ \`Her original ideas set her forth from the other candidates.\`（誤）。他の候補者と違って際立ったなら set her **apart**。set forth は出発・説明の意味なので、人を際立たせる文脈には使えません。
+
+🎯 覚え方：**apart＝他から離れた特別な場所に置く（際立たせる）**、**forth＝前方へ押し出す（出発する・説明する）**。`,
+    keyPoints: [
+      'set ... apart＝ある特徴が対象を他と区別し際立たせる',
+      'set forth＝旅に出発する、契約・規則の内容を整理して詳しく説明する（形式的な表現）',
+      'apart は他から離れた特別な位置に置くイメージ、forth は前方へ押し出すイメージ',
+      '候補者を際立たせるのは set apart、契約条件の説明は set forth',
+    ],
+    quiz: [
+      {
+        id: 'q-setapartforth-1',
+        question: '空所に入る適切な語はどれですか。「What set him ( ) from the other applicants was his experience abroad.」',
+        options: ['forth', 'apart', 'about', 'aside'],
+        correctAnswer: 1,
+        explanation: '他と区別し際立たせるという意味なので set apart。',
+      },
+      {
+        id: 'q-setapartforth-2',
+        question: '空所に入る適切な語はどれですか。「The rules of the competition are set ( ) in the official handbook.」',
+        options: ['apart', 'forth', 'aside', 'about'],
+        correctAnswer: 1,
+        explanation: '規則の内容を詳しく説明するという意味なので set forth。',
+      },
+      {
+        id: 'q-setapartforth-3',
+        question: 'set apart の意味として最も適切なものはどれですか。',
+        options: ['旅に出発する', '他と区別し際立たせる', '内容を詳しく説明する', '取り掛かる'],
+        correctAnswer: 1,
+        explanation: 'set apart は他との違いを際立たせる意味です。',
+      },
+      {
+        id: 'q-setapartforth-4',
+        question: '「その契約書には支払い条件が詳しく記されている」を最も自然に表す文はどれですか。',
+        options: ['The payment terms are set apart in the contract.', 'The payment terms are set forth in the contract.', 'The payment terms are set aside in the contract.', 'The payment terms are set about in the contract.'],
+        correctAnswer: 1,
+        explanation: '契約内容を詳しく説明するという意味では set forth が使われます。',
+      },
+      {
+        id: 'q-setapartforth-5',
+        question: 'set apart と set forth の違いとして正しい説明はどれですか。',
+        options: [
+          '両方とも同じ意味で置き換え可能',
+          'set apart は他と区別し際立たせる、set forth は出発する・詳しく説明する',
+          'set apart は出発する、set forth は他と区別する',
+          '意味の違いとは無関係',
+        ],
+        correctAnswer: 1,
+        explanation: '区別・際立たせが set apart、出発・説明が set forth です。',
+      },
+    ],
+  },
+  {
     id: 'make-up-for-make-do-with',
     title: 'make up for と make do with',
     chapter: 5,
@@ -21696,6 +21782,92 @@ up は「バラバラなものを引き上げてひとまとまりにする」�
         ],
         correctAnswer: 1,
         explanation: 'make up（まとめ上げる）と make off with（盗んで逃げる）は全く別の意味です。',
+      },
+    ],
+  },
+  {
+    id: 'make-over-make-of',
+    title: 'make over と make of',
+    chapter: 5,
+    hubId: 'make',
+    description: '同じ make でも over は「財産を正式に譲渡する・作り変える」、of は「〜をどう思うか・理解する」。所有権や姿を変えるか、評価や理解を問うかの違いです。',
+    content: `## 所有権や姿を変えるのか、評価や理解を問うのか
+
+make over と make of はどちらも make のあとに前置詞が続く形ですが、扱う対象がまったく異なります。
+
+- **make ... over** … 財産などを**正式に譲渡する**、外見や部屋を**作り変える**。
+- **make of** … 人や物事を**どう思うか・どう理解するか**を表す（多くは疑問文）。
+
+| 熟語 | 中心の意味 | 典型的な目的語 |
+| --- | --- | --- |
+| make ... over | 譲渡する・作り変える | property, money（譲渡）／ a room, one's appearance（作り変え） |
+| make ... of | 〜への評価・理解 | What do you make of him?（評価）／ I cannot make anything of this.（理解） |
+
+### make over の使い分け
+
+make over は「財産やお金を、法的に正式に相手の所有に移す」（He made over the property to his eldest son.）という意味と、「見た目や空間を大きく作り変える」（The plastic surgeon made her face over.）という意味の2つを持ちます。名詞形 makeover（イメージチェンジ）としても広く定着しています。
+
+### make of の使い分け
+
+make of は多くの場合 "What do you make of ...?" という疑問文の形で使われ、「〜についてどう思うか・どう解釈するか」を尋ねる表現です。"What do you make of the new manager?" のように、相手の印象や評価を聞く場面で頻出します。否定文では「〜が理解できない」（I couldn't make anything of his explanation.）という意味にもなります。
+
+### なぜ直訳で読み解けないか
+
+over は「対象を相手側へそっくり渡す・上から作り替える」イメージ、of は「対象について自分の中で意味づけをする」イメージを運びます。make over は「所有権や見た目を相手側・新しい形へ作り替える」、make of は「対象について自分なりの評価や理解を形作る」という、対象を変えるか対象への評価を形作るかの違いが意味の違いになっています。
+
+### よくある誤用
+
+⚠️ \`What do you make over the new policy?\`（誤）。新しい方針をどう思うか尋ねるなら What do you make **of** the new policy?。make over は譲渡・作り変えの意味なので、意見を尋ねる疑問文には使いません。
+
+⚠️ \`He made of the family business to his daughter.\`（誤）。事業を娘に譲渡したなら made **over** the family business。make of は評価・理解の意味なので、譲渡には使えません。
+
+🎯 覚え方：**over＝そっくり相手側・新しい形へ渡す（譲渡する・作り変える）**、**of＝対象について自分なりの意味づけをする（どう思うか・理解する）**。`,
+    keyPoints: [
+      'make ... over＝財産やお金を正式に譲渡する、外見や部屋を作り変える（名詞形 makeover）',
+      'make of＝「What do you make of ...?」の形で意見・解釈を尋ねる、否定文で「理解できない」',
+      'over は対象を相手側・新しい形へ作り替えるイメージ、of は対象への意味づけ・評価のイメージ',
+      '財産の譲渡は make over、意見を尋ねるのは make of（混同しやすいので要注意）',
+    ],
+    quiz: [
+      {
+        id: 'q-makeoverof-1',
+        question: '空所に入る適切な語はどれですか。「Before his death, he made ( ) most of his fortune to charity.」',
+        options: ['of', 'over', 'up', 'out'],
+        correctAnswer: 1,
+        explanation: '財産を正式に譲渡するという意味なので make over。',
+      },
+      {
+        id: 'q-makeoverof-2',
+        question: '空所に入る適切な語はどれですか。「What do you make ( ) the new marketing strategy?」',
+        options: ['over', 'of', 'up', 'for'],
+        correctAnswer: 1,
+        explanation: '意見や解釈を尋ねる定型表現なので make of。',
+      },
+      {
+        id: 'q-makeoverof-3',
+        question: '"I could not make anything of his explanation." の意味として最も適切なものはどれですか。',
+        options: ['彼の説明を書き留められなかった', '彼の説明が理解できなかった', '彼の説明を譲り受けた', '彼の説明を作り変えた'],
+        correctAnswer: 1,
+        explanation: '否定文の make of は理解できないという意味を表します。',
+      },
+      {
+        id: 'q-makeoverof-4',
+        question: '「その美容整形外科医は彼女の顔を作り変えた」を最も自然に表す文はどれですか。',
+        options: ['The surgeon made her face of.', 'The surgeon made her face over.', 'The surgeon made her face up for.', 'The surgeon made her face out.'],
+        correctAnswer: 1,
+        explanation: '外見を作り変えるという意味では make over が使われます。',
+      },
+      {
+        id: 'q-makeoverof-5',
+        question: 'make over と make of の違いとして正しい説明はどれですか。',
+        options: [
+          '両方とも同じ意味で置き換え可能',
+          'make over は譲渡する・作り変える、make of は意見・理解を表す',
+          'make over は意見を表す、make of は譲渡する',
+          '意味の違いとは無関係',
+        ],
+        correctAnswer: 1,
+        explanation: '譲渡・作り替えが make over、評価・理解が make of です。',
       },
     ],
   },
@@ -21965,6 +22137,92 @@ on は「対象に接触したまま先へ送る」イメージ、up は「差�
     ],
   },
   {
+    id: 'pass-around-pass-over',
+    title: 'pass around と pass over',
+    chapter: 5,
+    hubId: 'pass',
+    description: '同じ pass でも around は「順番に回して共有する」、over は「無視する・見過ごす・昇進で飛ばす」。行き渡らせるか、素通りさせるかの違いです。',
+    content: `## 行き渡らせるのか、素通りさせるのか
+
+pass around と pass over はどちらも pass のあとに前置詞・副詞が続く形ですが、対象への向き合い方が逆です。
+
+- **pass around（round）** … 物や情報を集団の中で**順に回して共有する**。
+- **pass over** … 人や話題を**無視する・見過ごす**、昇進で**飛ばす**。
+
+| 熟語 | 中心の意味 | 典型的な目的語 |
+| --- | --- | --- |
+| pass **around** | 順に回して共有する | a document, a link, snacks |
+| pass **over** | 無視する・見過ごす・昇進で飛ばす | a topic（見過ごす）／ someone for promotion（昇進で飛ばす） |
+
+### pass around の使い分け
+
+pass around（イギリス英語では pass round）は「集団の中で1人ずつに物や情報を手渡していく」という意味で、"Journalists had been passing around the link to the photo all week." のように使われます。会議で資料を「回覧する」場面の定番表現です。
+
+### pass over の使い分け
+
+pass over は「本来注目・評価すべき人や話題を、素通りするように無視する」という意味で、特に「昇進の対象から外す」（They passed Sal over for promotion.）という人事の文脈で頻出します。話題を「あえて取り上げずに済ませる」という意味にも使われます。
+
+### なぜ直訳で読み解けないか
+
+around は「対象の周りをぐるりと回して全員に行き渡らせる」イメージ、over は「対象の上を素通りして先へ進む」イメージを運びます。pass around は「物や情報を集団の中でぐるりと回して共有する」、pass over は「本来止まって評価すべき対象の上を素通りして無視する」という、行き渡らせるか素通りさせるかの違いが意味の違いになっています。
+
+### よくある誤用
+
+⚠️ \`She was passed around for the manager position again.\`（誤）。昇進で見過ごされたなら was passed **over**。pass around は物や情報を回す意味なので、人事評価の見過ごしには使いません。
+
+⚠️ \`Could you pass this handout over to everyone?\`（誤・意図不明瞭）。資料を回覧してほしいなら pass this handout **around**。pass over は無視する・見過ごす意味なので、資料の回覧には不自然です。
+
+🎯 覚え方：**around＝周りをぐるりと回して行き渡らせる（共有する）**、**over＝対象の上を素通りする（無視する・見過ごす）**。`,
+    keyPoints: [
+      'pass around（round）＝物や情報を集団の中で順に回して共有する',
+      'pass over＝人や話題を無視する・見過ごす、特に昇進の対象から外す',
+      'around は行き渡らせるイメージ、over は素通りして無視するイメージ',
+      '資料の回覧は pass around、昇進の見送りは pass over（混同しやすいので要注意）',
+    ],
+    quiz: [
+      {
+        id: 'q-passaroundover-1',
+        question: '空所に入る適切な語はどれですか。「Could you pass the photos ( ) so everyone can see them?」',
+        options: ['over', 'around', 'up', 'for'],
+        correctAnswer: 1,
+        explanation: '順に回して共有するという意味なので pass around。',
+      },
+      {
+        id: 'q-passaroundover-2',
+        question: '空所に入る適切な語はどれですか。「She was passed ( ) for the promotion three times.」',
+        options: ['around', 'over', 'up', 'on'],
+        correctAnswer: 1,
+        explanation: '昇進で見過ごされるという意味なので pass over。',
+      },
+      {
+        id: 'q-passaroundover-3',
+        question: 'pass over の意味として最も適切なものはどれですか。',
+        options: ['順に回して共有する', '無視する・見過ごす・昇進で飛ばす', '機会を逃す', '亡くなる'],
+        correctAnswer: 1,
+        explanation: 'pass over は評価すべき対象を素通りする・無視する意味です。',
+      },
+      {
+        id: 'q-passaroundover-4',
+        question: '「編集長はその原稿をスタッフに回してコメントをもらった」を最も自然に表す文はどれですか。',
+        options: ['The editor passed the copy over to get feedback.', 'The editor passed the copy around to get feedback.', 'The editor passed the copy up to get feedback.', 'The editor passed the copy on to get feedback.'],
+        correctAnswer: 1,
+        explanation: '順に回して共有するという意味では pass around が使われます。',
+      },
+      {
+        id: 'q-passaroundover-5',
+        question: 'pass around と pass over の違いとして正しい説明はどれですか。',
+        options: [
+          '両方とも同じ意味で置き換え可能',
+          'pass around は順に回して共有する、pass over は無視する・見過ごす',
+          'pass around は無視する、pass over は共有する',
+          '意味の違いとは無関係',
+        ],
+        correctAnswer: 1,
+        explanation: '共有が pass around、無視・見過ごしが pass over です。',
+      },
+    ],
+  },
+  {
     id: 'stand-for-stand-by',
     title: 'stand for と stand by',
     chapter: 5,
@@ -22216,6 +22474,92 @@ down は「地位から低い位置へ下がる」イメージ、in for は「�
         ],
         correctAnswer: 1,
         explanation: '自ら退くのが stand down、他人のために代理を務めるのが stand in for です。',
+      },
+    ],
+  },
+  {
+    id: 'stand-against-stand-over',
+    title: 'stand against と stand over',
+    chapter: 5,
+    hubId: 'stand',
+    description: '同じ stand でも against は「公然と反対する・対立候補として立つ」、over は「そばに立って監視する」。正面から対立するか、真上から見張るかの違いです。',
+    content: `## 正面から対立するのか、真上から見張るのか
+
+stand against と stand over はどちらも「立つ」イメージから来ていますが、相手との位置関係が異なります。
+
+- **stand against** … 何かに**公然と反対する**、選挙で**対立候補として立つ**。
+- **stand over** … 人のそばに立って**監視する・見張る**。
+
+| 熟語 | 中心の意味 | 典型的な目的語 |
+| --- | --- | --- |
+| stand **against** | 反対する・対立候補になる | unpopular legislation（反対）／ the party leader（対立候補） |
+| stand **over** | そばに立って監視する | an employee, a child doing homework |
+
+### stand against の使い分け
+
+stand against は「不人気な法律や政策に公然と反対の立場を取る」（More and more people are standing against the unpopular legislation.）という意味と、「選挙で現職や特定の候補に対抗して立候補する」（He was persuaded to stand against the party leader.）という意味の2つを持ちます。どちらも「相手と正面から向き合って対立する」イメージです。
+
+### stand over の使い分け
+
+stand over は「人のすぐそばに立って、その人の行動を逐一見張る」という意味で、"Standing over someone all the time makes them nervous." のように、監視されるプレッシャーを表す文脈でよく使われます。上司が部下の作業を真上から監視するような、心理的な圧迫感を伴う場面に典型的です。
+
+### なぜ直訳で読み解けないか
+
+against は「相手と正面から向き合い、押し返す」イメージ、over は「対象の真上に位置して見下ろす」イメージを運びます。stand against は「相手の主張や立場と正面から対立する」、stand over は「対象の真上に立って監視する」という、対立の向きと監視の位置関係の違いが意味の違いになっています。
+
+### よくある誤用
+
+⚠️ \`The manager stood against the new employee to check her work.\`（誤・意図不明瞭）。作業を監視したなら stood **over** the new employee。stand against は反対する・対立候補になる意味なので、監視には使いません。
+
+⚠️ \`Thousands of citizens stood over the controversial bill.\`（誤）。法案に反対したなら stood **against** the bill。stand over は監視する意味なので、政策への反対表明には使えません。
+
+🎯 覚え方：**against＝相手と正面から向き合い押し返す（反対する・対立候補になる）**、**over＝対象の真上に立って見下ろす（監視する）**。`,
+    keyPoints: [
+      'stand against＝法律や政策に公然と反対する、選挙で対立候補として立つ',
+      'stand over＝人のそばに立ってその行動を逐一監視する（心理的圧迫を伴う）',
+      'against は正面から対立するイメージ、over は真上から見下ろして監視するイメージ',
+      '政策への反対は stand against、作業の監視は stand over（混同しやすいので要注意）',
+    ],
+    quiz: [
+      {
+        id: 'q-standagainstover-1',
+        question: '空所に入る適切な語はどれですか。「Thousands of people stood ( ) the new tax law.」',
+        options: ['over', 'against', 'down', 'in for'],
+        correctAnswer: 1,
+        explanation: '法律に反対するという意味なので stand against。',
+      },
+      {
+        id: 'q-standagainstover-2',
+        question: '空所に入る適切な語はどれですか。「She hates it when her boss stands ( ) her while she works.」',
+        options: ['against', 'over', 'for', 'by'],
+        correctAnswer: 1,
+        explanation: 'そばに立って監視するという意味なので stand over。',
+      },
+      {
+        id: 'q-standagainstover-3',
+        question: 'stand against の意味として適切でないものはどれですか。',
+        options: ['政策に公然と反対する', '選挙で対立候補として立つ', 'そばに立って監視する', '不人気な法律に異を唱える'],
+        correctAnswer: 2,
+        explanation: '監視するのは stand over の意味です。',
+      },
+      {
+        id: 'q-standagainstover-4',
+        question: '「彼は党首に対抗して立候補するよう説得された」を最も自然に表す文はどれですか。',
+        options: ['He was persuaded to stand over the party leader.', 'He was persuaded to stand against the party leader.', 'He was persuaded to stand in for the party leader.', 'He was persuaded to stand down the party leader.'],
+        correctAnswer: 1,
+        explanation: '対立候補として立つという意味では stand against が使われます。',
+      },
+      {
+        id: 'q-standagainstover-5',
+        question: 'stand against と stand over の違いとして正しい説明はどれですか。',
+        options: [
+          '両方とも同じ意味で置き換え可能',
+          'stand against は正面から反対・対立する、stand over はそばに立って監視する',
+          'stand against は監視する、stand over は反対する',
+          '意味の違いとは無関係',
+        ],
+        correctAnswer: 1,
+        explanation: '対立が stand against、監視が stand over です。',
       },
     ],
   },
@@ -24907,6 +25251,92 @@ out は「合意という枠組みの外側へ後ろ向きに抜け出る」イ�
         ],
         correctAnswer: 0,
         explanation: 'back out は約束からの離脱、back away は後退・距離を置くことを表します。',
+      },
+    ],
+  },
+  {
+    id: 'back-off-back-onto',
+    title: 'back off と back onto',
+    chapter: 5,
+    hubId: 'back',
+    description: '同じ back でも off は「引き下がる・追及をやめる」、onto は「建物の裏側が～に面する」。人が退くか、建物の向きを表すかの違いです。',
+    content: `## 人が引き下がるのか、建物の向きを表すのか
+
+back off と back onto はどちらも back を使いますが、主語になるものがまったく異なります。
+
+- **back off** … 人が**引き下がる・追及や圧力をやめる**。
+- **back onto** … 建物の裏側が**ある場所に面している**。
+
+| 熟語 | 中心の意味 | 典型的な主語 |
+| --- | --- | --- |
+| back **off** | 引き下がる・追及をやめる | a person（人が主語） |
+| back **onto** | 裏側が～に面する | a house, a garden（建物・土地が主語） |
+
+### back off の使い分け
+
+back off は「相手を怖がって物理的に後ずさりする」（He backed off when the dog growled.）という意味から、「相手への批判・要求・干渉をやめて手を引く」（The critics finally backed off after the public apology.）という比喩的な意味に広がります。しばしば命令形 "Back off!"（引っ込んでろ）としても使われます。
+
+### back onto の使い分け
+
+back onto は不動産の説明などで使われる表現で、「建物や土地の裏側が、特定の場所に接している」ことを表します。"The house backs onto a narrow alley." のように、庭や裏手が公園・川・路地などに面している位置関係を説明する際に使われます。
+
+### なぜ直訳で読み解けないか
+
+off は「圧力や接触を切り離して離れる」イメージ、onto は「背中の部分が対象に接触している」イメージを運びます。back off は「人が相手への圧力を切り離して後ろに引く」、back onto は「建物の背面が特定の場所に接している」という、動作主体（人）と位置関係（建物）という主語の性質の違いが意味の違いになっています。
+
+### よくある誤用
+
+⚠️ \`The house backed off a quiet park.\`（誤）。家の裏が公園に面しているなら backs **onto** a quiet park。back off は人が引き下がる意味なので、建物の位置関係には使いません。
+
+⚠️ \`Please back onto me, I did not do anything wrong.\`（誤）。追及をやめてほしいなら back **off**。back onto は建物の向きを表す表現なので、人への要求には使えません。
+
+🎯 覚え方：**off＝人が圧力を切り離して引き下がる（追及をやめる）**、**onto＝建物の背面が対象に接している（裏が～に面する）**。`,
+    keyPoints: [
+      'back off＝人が物理的に後ずさりする、批判や要求への圧力をやめて手を引く',
+      'back onto＝建物や土地の裏側が特定の場所（公園・路地など）に面している（不動産表現）',
+      'off は人が圧力を切り離すイメージ、onto は建物の背面が対象に接するイメージ',
+      '主語が人なら back off、主語が建物・土地なら back onto',
+    ],
+    quiz: [
+      {
+        id: 'q-backoffonto-1',
+        question: '空所に入る適切な語はどれですか。「The reporters finally backed ( ) after his lawyer intervened.」',
+        options: ['onto', 'off', 'out', 'away'],
+        correctAnswer: 1,
+        explanation: '追及や圧力をやめるという意味なので back off。',
+      },
+      {
+        id: 'q-backoffonto-2',
+        question: '空所に入る適切な語はどれですか。「Our cottage backs ( ) a small lake.」',
+        options: ['off', 'onto', 'out', 'up'],
+        correctAnswer: 1,
+        explanation: '建物の裏が湖に面しているという意味なので back onto。',
+      },
+      {
+        id: 'q-backoffonto-3',
+        question: 'back onto の主語として自然なものはどれですか。',
+        options: ['a critic', 'a manager', 'a house', 'a reporter'],
+        correctAnswer: 2,
+        explanation: 'back onto は建物や土地が主語になる位置関係の表現です。',
+      },
+      {
+        id: 'q-backoffonto-4',
+        question: '「その犬がうなったので彼は後ずさりした」を最も自然に表す文はどれですか。',
+        options: ['He backed onto when the dog growled.', 'He backed off when the dog growled.', 'He backed out when the dog growled.', 'He backed up when the dog growled.'],
+        correctAnswer: 1,
+        explanation: '物理的に後ずさりするという意味では back off が使われます。',
+      },
+      {
+        id: 'q-backoffonto-5',
+        question: 'back off と back onto の違いとして正しい説明はどれですか。',
+        options: [
+          '両方とも同じ意味で置き換え可能',
+          'back off は人が引き下がる、back onto は建物の裏が特定の場所に面する',
+          'back off は建物の位置関係、back onto は人が引き下がる',
+          '意味の違いとは無関係',
+        ],
+        correctAnswer: 1,
+        explanation: '人の後退が back off、建物の向きが back onto です。',
       },
     ],
   },
