@@ -23435,6 +23435,92 @@ away は「本体から離れた場所へ」向かう方向、through は「障�
     ],
   },
   {
+    id: 'break-in-break-into',
+    title: 'break in と break into',
+    chapter: 5,
+    hubId: 'break',
+    description: '同じ break でも in は「押し入る・新品を慣らす・口を挟む」、into は「不法侵入する・突然～し始める・新分野に参入する」。似た響きだが目的語の取り方が違います。',
+    content: `## 目的語を取らないか、取るかで意味の幅が変わる
+
+break in と break into はどちらも「force を使って中へ入る」イメージを共有していますが、break in は目的語を取らない自動詞的な使い方が中心で、break into はそこから比喩がさらに広がります。
+
+- **break in** … 泥棒が**押し入る**、靴などを**慣らす**、会話に**口を挟む**。
+- **break into** … 建物・車に**不法侵入する**、突然その動作を**し始める**、新しい市場・業界に**参入する**。
+
+| 熟語 | 中心の意味 | 典型的な目的語・文脈 |
+| --- | --- | --- |
+| break in | 押し入る（自動詞）／慣らす／口を挟む | burglars broke in（目的語なし）／ new shoes（慣らす） |
+| break into | 不法侵入する／突然し始める／参入する | a house, a car（侵入）／ a run, tears（突然～し始める）／ the market（参入） |
+
+### break in の使い分け
+
+break in は「泥棒が力ずくで建物に押し入る」（The burglars broke in through the kitchen window.）という自動詞的な使い方が基本です。また「新しい靴や道具を使い込んで自分に馴染ませる」（I'm still breaking in this new pair of shoes.）、「人の会話に割り込む」という意味にも使われます。
+
+### break into の使い分け
+
+break into は「建物や車に力ずくで押し入る」（His apartment was broken into twice.）という break in とほぼ同じ意味を、目的語を伴う形で表します。さらに「突然その動作を始める」（He broke into a run.）、「新しい業界・市場に参入する」（She wanted to break into the advertising business.）という比喩に広がります。
+
+### なぜ直訳で読み解けないか
+
+in は「内側へ入る」動作そのものに焦点があり目的語を必要としない自動詞的な使い方が中心、into は「特定の対象の内側へ」という到達点を明示するため目的語を伴います。break in は「押し入るという行為自体」を、break into は「何に押し入るか・何を突然始めるか」という対象を明確にする点が意味の違いになっています。
+
+### よくある誤用
+
+⚠️ \`Burglars broke into last night.\`（誤・文法不備）。目的語なしで「泥棒が押し入った」なら Burglars broke **in** last night。break into は目的語を必要とするので、対象を示さずには使えません。
+
+⚠️ \`She wanted to break in the advertising business.\`（誤）。広告業界に参入したいなら break **into** the advertising business。break in は目的語を取らない自動詞的用法が基本なので、業界参入には break into を使います。
+
+🎯 覚え方：**in＝押し入るという行為そのもの（目的語なし）**、**into＝何に押し入るか・何を始めるかを明示する（目的語を伴う）**。`,
+    keyPoints: [
+      'break in＝（自動詞的に）泥棒が押し入る、新品を慣らす、会話に口を挟む',
+      'break into＝建物・車に不法侵入する、突然～し始める（break into a run）、新市場・業界に参入する',
+      'break in は目的語を取らない行為そのもの、break into は目的語で対象を明示する',
+      '業界参入や突然の動作開始には break into を使う（break in ではなく）',
+    ],
+    quiz: [
+      {
+        id: 'q-breakinto-1',
+        question: '空所に入る適切な語はどれですか。「Someone broke ( ) while we were on vacation.」',
+        options: ['into', 'in', 'away', 'through'],
+        correctAnswer: 1,
+        explanation: '目的語なしで「押し入った」という意味なので break in。',
+      },
+      {
+        id: 'q-breakinto-2',
+        question: '空所に入る適切な語はどれですか。「He wanted to break ( ) the music industry.」',
+        options: ['in', 'into', 'away', 'up'],
+        correctAnswer: 1,
+        explanation: '業界に参入するという意味で目的語を伴うので break into。',
+      },
+      {
+        id: 'q-breakinto-3',
+        question: '「彼は突然走り出した」を最も自然に表す文はどれですか。',
+        options: ['He broke in a run.', 'He broke into a run.', 'He broke away a run.', 'He broke through a run.'],
+        correctAnswer: 1,
+        explanation: '突然その動作を始めるという意味では break into が使われます。',
+      },
+      {
+        id: 'q-breakinto-4',
+        question: 'break in の用法として正しいものはどれですか。',
+        options: ['break in the house', 'break in（目的語なし）', 'break in the market', 'break in the industry'],
+        correctAnswer: 1,
+        explanation: 'break in は目的語を取らない自動詞的な使い方が基本です。',
+      },
+      {
+        id: 'q-breakinto-5',
+        question: 'break in と break into の違いとして正しい説明はどれですか。',
+        options: [
+          '両方とも全く同じ意味で完全に置き換え可能',
+          'break in は目的語を取らない行為そのもの、break into は目的語で対象を明示する',
+          'break in は目的語を必要とし、break into は目的語を取らない',
+          '意味の違いとは無関係',
+        ],
+        correctAnswer: 1,
+        explanation: '目的語の有無が break in と break into の使い分けの鍵です。',
+      },
+    ],
+  },
+  {
     id: 'come-across-come-up-with',
     title: 'come across と come up with',
     chapter: 5,
@@ -26989,6 +27075,92 @@ through は「入口から出口まで筋道を辿って考え抜く」イメー
     ],
   },
   {
+    id: 'think-of-think-out',
+    title: 'think of と think out',
+    chapter: 5,
+    hubId: 'think',
+    description: '同じ think でも of は「思いつく・意見を持つ」、out は「細部まで考え抜く」。頭に浮かぶかどうかと、考え抜いて完成させるかの違いです。',
+    content: `## 頭に浮かぶのか、考え抜いて完成させるのか
+
+think of と think out はどちらも think のあとに前置詞・副詞が続く形ですが、思考の深さが異なります。
+
+- **think of** … 考えや案が**頭に浮かぶ**、〜について**意見を持つ**。
+- **think out** … 計画や考えの**細部まで考え抜く**。
+
+| 熟語 | 中心の意味 | 典型的な目的語 |
+| --- | --- | --- |
+| think **of** | 思いつく・意見を持つ・思い出す | an idea, what to say／What do you think of it? |
+| think **out** | 細部まで考え抜く | a plan, a strategy |
+
+### think of の使い分け
+
+think of は「新しい考えや案がふと頭に浮かぶ」（I can't think of anything to say.）という意味から、「〜についてどう思うか」（What do you think of my new dress?）という意見を尋ねる定型表現、「〜を思い出す」（I thought of you when they mentioned English speakers.）という意味まで幅広く使われます。
+
+### think out の使い分け
+
+think out は「計画や戦略を、細部まで漏れなく考え抜く」という意味で、過去分詞形 thought out が特によく使われます。"The scheme was well thought out." のように、「よく練られている」ことを評価する場面で頻出します。
+
+### なぜ直訳で読み解けないか
+
+of は「対象について頭の中に浮かぶ・関わる」イメージ、out は「考えを最後まで外へ引き出し切る」イメージを運びます。think of は「対象がふと頭に浮かぶ・意見を持つ」という比較的軽い思考、think out は「計画の細部まで考えを引き出し切って完成させる」という深く周到な思考を表し、この思考の深さの違いが意味の違いになっています。
+
+### よくある誤用
+
+⚠️ \`Their strategy was very carefully thought of.\`（誤・意図不明瞭）。戦略が入念に練られていたなら thought **out**。think of は思いつく・意見を持つ意味なので、周到さの評価には使いません。
+
+⚠️ \`I can't think out anything to say.\`（誤）。言うことが思いつかないなら can't think **of** anything to say。think out は細部まで考え抜く意味なので、単に思いつかない状況には使いません。
+
+🎯 覚え方：**of＝対象がふと頭に浮かぶ（思いつく・意見を持つ）**、**out＝考えを最後まで引き出し切る（練り上げる）**。`,
+    keyPoints: [
+      'think of＝考えが頭に浮かぶ、〜についてどう思うか意見を持つ、思い出す',
+      'think out＝計画や戦略を細部まで考え抜く（過去分詞 thought out が頻出）',
+      'of は考えがふと頭に浮かぶイメージ、out は考えを最後まで引き出し切るイメージ',
+      '思いつきは think of、周到に練られた計画は think out',
+    ],
+    quiz: [
+      {
+        id: 'q-thinkofout-1',
+        question: '空所に入る適切な語はどれですか。「What do you think ( ) the new proposal?」',
+        options: ['out', 'of', 'over', 'up'],
+        correctAnswer: 1,
+        explanation: '意見を尋ねる定型表現なので think of。',
+      },
+      {
+        id: 'q-thinkofout-2',
+        question: '空所に入る適切な語はどれですか。「Their marketing plan was very carefully thought ( ).」',
+        options: ['of', 'out', 'back', 'over'],
+        correctAnswer: 1,
+        explanation: '細部まで考え抜かれたという意味なので thought out。',
+      },
+      {
+        id: 'q-thinkofout-3',
+        question: 'think of の意味として適切でないものはどれですか。',
+        options: ['考えが頭に浮かぶ', '意見を持つ', '計画を細部まで練り上げる', '思い出す'],
+        correctAnswer: 2,
+        explanation: '計画を細部まで練り上げるのは think out の意味です。',
+      },
+      {
+        id: 'q-thinkofout-4',
+        question: '「彼らに言われてすぐあなたのことを思い出した」を最も自然に表す文はどれですか。',
+        options: ['I thought out you when they mentioned it.', 'I thought of you when they mentioned it.', 'I thought over you when they mentioned it.', 'I thought back you when they mentioned it.'],
+        correctAnswer: 1,
+        explanation: '人を思い出すという意味では think of が使われます。',
+      },
+      {
+        id: 'q-thinkofout-5',
+        question: 'think of と think out の違いとして正しい説明はどれですか。',
+        options: [
+          '両方とも同じ意味で置き換え可能',
+          'think of は考えがふと浮かぶ・意見を持つ、think out は細部まで考え抜く',
+          'think of は細部まで考え抜く、think out は考えがふと浮かぶ',
+          '意味の違いとは無関係',
+        ],
+        correctAnswer: 1,
+        explanation: '軽い思考が think of、周到な検討が think out です。',
+      },
+    ],
+  },
+  {
     id: 'fall-back-on-fall-through',
     title: 'fall back on と fall through',
     chapter: 5,
@@ -27423,6 +27595,92 @@ off は「本体（その場）から離れて距離を取る」イメージな�
     ],
   },
   {
+    id: 'clear-with-clear-of',
+    title: 'clear something with と clear someone of',
+    chapter: 5,
+    hubId: 'clear',
+    description: '同じ clear でも with は「相手から許可を得る」、of は「容疑を晴らす」。事前の承認を得るか、疑いを取り除くかの違いです。',
+    content: `## 事前の承認を得るのか、疑いを取り除くのか
+
+clear something with someone と clear someone of something はどちらも clear の「取り除いて澄ませる」イメージから来ていますが、取り除く対象が異なります。
+
+- **clear something with someone** … 行動する前に相手から**許可を得る**。
+- **clear someone of something** … 容疑や非難から**無実を証明する**。
+
+| 熟語 | 中心の意味 | 典型的な目的語 |
+| --- | --- | --- |
+| clear ... with ... | 許可を得る | a plan, an absence with the boss |
+| clear ... of ... | 容疑を晴らす | a suspect of murder, someone of wrongdoing |
+
+### clear with の使い分け
+
+clear something with someone は「計画や行動について、実行する前に責任者から許可・了承を取る」という意味で、"You need to clear this expense with your manager first." のように、職場での事前承認を表す場面でよく使われます。
+
+### clear of の使い分け
+
+clear someone of something は「裁判や調査の結果、その人が疑われていたことをしていないと証明する」という意味で、"The jury cleared him of murder." のように使われます。「疑いという曇りを取り除いて、相手を潔白な状態にする」というイメージです。
+
+### なぜ直訳で読み解けないか
+
+with は「相手を伴って確認を取る」イメージ、of は「対象から疑いという要素を取り除く」イメージを運びます。clear with は「行動を起こす前に相手を伴って了承を取り付ける」、clear of は「対象から疑惑という曇りを取り除いて潔白にする」という、事前の承認取得と事後の疑い晴らしという時系列の違いが意味の違いになっています。
+
+### よくある誤用
+
+⚠️ \`The jury cleared him with the murder charge.\`（誤）。殺人容疑が晴れたなら cleared him **of** the murder charge。clear with は許可を得る意味なので、無罪証明には使いません。
+
+⚠️ \`You should clear this expense of your manager first.\`（誤）。上司から了承を得るべきなら clear this expense **with** your manager。clear of は疑いを晴らす意味なので、事前の許可取得には使えません。
+
+🎯 覚え方：**with＝相手を伴って事前に了承を取る（許可を得る）**、**of＝対象から疑いという曇りを取り除く（容疑を晴らす）**。`,
+    keyPoints: [
+      'clear something with someone＝行動を起こす前に責任者から許可・了承を得る',
+      'clear someone of something＝調査や裁判で容疑・疑いを晴らし無実を証明する',
+      'with は事前の許可取得、of は事後の疑い晴らしという時系列の違い',
+      '経費の事前承認は clear with、無罪の証明は clear of（混同しやすいので要注意）',
+    ],
+    quiz: [
+      {
+        id: 'q-clearwithof-1',
+        question: '空所に入る適切な語はどれですか。「Make sure you clear your absence ( ) the manager before you leave.」',
+        options: ['of', 'with', 'up', 'out'],
+        correctAnswer: 1,
+        explanation: '事前に許可を得るという意味なので clear with。',
+      },
+      {
+        id: 'q-clearwithof-2',
+        question: '空所に入る適切な語はどれですか。「New evidence finally cleared her ( ) the theft charge.」',
+        options: ['with', 'of', 'away', 'up'],
+        correctAnswer: 1,
+        explanation: '容疑を晴らすという意味なので clear of。',
+      },
+      {
+        id: 'q-clearwithof-3',
+        question: 'clear something with someone の意味として最も適切なものはどれですか。',
+        options: ['容疑を晴らす', '行動前に許可を得る', '物を片付ける', '天候が回復する'],
+        correctAnswer: 1,
+        explanation: 'clear with は事前に相手の了承を得る意味です。',
+      },
+      {
+        id: 'q-clearwithof-4',
+        question: '「陪審は彼を殺人罪から無罪とした」を最も自然に表す文はどれですか。',
+        options: ['The jury cleared him with murder.', 'The jury cleared him of murder.', 'The jury cleared him up murder.', 'The jury cleared him out murder.'],
+        correctAnswer: 1,
+        explanation: '容疑を晴らすという意味では clear of が使われます。',
+      },
+      {
+        id: 'q-clearwithof-5',
+        question: 'clear with と clear of の違いとして正しい説明はどれですか。',
+        options: [
+          '両方とも同じ意味で置き換え可能',
+          'clear with は事前に許可を得る、clear of は容疑を晴らす',
+          'clear with は容疑を晴らす、clear of は許可を得る',
+          '意味の違いとは無関係',
+        ],
+        correctAnswer: 1,
+        explanation: '事前承認が clear with、疑い晴らしが clear of です。',
+      },
+    ],
+  },
+  {
     id: 'drop-in-drop-out',
     title: 'drop in と drop out',
     chapter: 5,
@@ -27853,6 +28111,92 @@ up は「組織図の先頭・上位に立つ」イメージなので、head up 
         ],
         correctAnswer: 0,
         explanation: 'head up は統率、head out は出発を表します。',
+      },
+    ],
+  },
+  {
+    id: 'head-back-head-down',
+    title: 'head back と head down',
+    chapter: 5,
+    hubId: 'head',
+    description: '同じ head でも back は「元いた場所へ戻る」、down は「南へ向かう・値下がりする」。出発点へ戻るか、下方向・南方向へ進むかの違いです。',
+    content: `## 出発点へ戻るのか、下方向・南方向へ進むのか
+
+head back と head down はどちらも head のあとに副詞が続く形ですが、向かう方向が異なります。
+
+- **head back** … 出発した場所へ**引き返す・戻る**。
+- **head down** … 南の方角へ**向かう**、価格や株価などが**下落する**。
+
+| 熟語 | 中心の意味 | 典型的な文脈 |
+| --- | --- | --- |
+| head **back** | 引き返す・戻る | home, to the office |
+| head **down** | 南へ向かう／値下がりする | south, to the coast／ share prices, the currency |
+
+### head back の使い分け
+
+head back は「出発した場所や元の場所へ方向転換して戻る」という意味で、"I think we ought to head back now, before it gets too dark." のように使われます。「そろそろ帰ろう」という提案の場面で頻出する表現です。
+
+### head down の使い分け
+
+head down は「地図上で南の方角へ移動する」（We're heading down to the coast this weekend.）という意味と、「株価や通貨の価値が下落し続ける」（Share prices headed down sharply after the announcement.）という金融の文脈での意味を持ちます。
+
+### なぜ直訳で読み解けないか
+
+back は「出発点という過去の位置へ戻る」イメージ、down は「地図上・グラフ上で下方向（南・低い値）へ進む」イメージを運びます。head back は「時間的に元の場所へ引き返す」、head down は「空間的・数値的に下方向へ進む」という、戻る方向と下へ進む方向の違いが意味の違いになっています。
+
+### よくある誤用
+
+⚠️ \`Share prices headed back sharply after the scandal.\`（誤・意図不明瞭）。株価が下落したなら headed **down**。head back は元の場所へ戻る意味なので、価格の下落には使いません。
+
+⚠️ \`It's getting dark, so we should head down now.\`（誤・意図不明瞭）。帰宅を提案するなら head **back** now。head down は南へ向かう・値下がりする意味なので、帰路につく提案にはやや不自然です。
+
+🎯 覚え方：**back＝出発点という過去の位置へ戻る（引き返す）**、**down＝地図やグラフの下方向へ進む（南下する・値下がりする）**。`,
+    keyPoints: [
+      'head back＝出発した場所へ引き返す・戻る（帰宅の提案でよく使われる）',
+      'head down＝地図上で南の方角へ向かう、株価や通貨の価値が下落する',
+      'back は出発点という過去の位置へ戻るイメージ、down は地図・グラフの下方向へ進むイメージ',
+      '帰路につくのは head back、株価の下落は head down（対象がまったく異なる）',
+    ],
+    quiz: [
+      {
+        id: 'q-headbackdown-1',
+        question: '空所に入る適切な語はどれですか。「It is getting late, so we should head ( ) to the hotel.」',
+        options: ['down', 'back', 'off', 'for'],
+        correctAnswer: 1,
+        explanation: '元の場所へ戻るという意味なので head back。',
+      },
+      {
+        id: 'q-headbackdown-2',
+        question: '空所に入る適切な語はどれですか。「The currency headed ( ) sharply after the announcement.」',
+        options: ['back', 'down', 'up', 'out'],
+        correctAnswer: 1,
+        explanation: '通貨の価値が下落するという意味なので head down。',
+      },
+      {
+        id: 'q-headbackdown-3',
+        question: 'head back の意味として最も適切なものはどれですか。',
+        options: ['南へ向かう', '出発した場所へ引き返す', '価格が下落する', '組織を率いる'],
+        correctAnswer: 1,
+        explanation: 'head back は元いた場所へ戻ることを表します。',
+      },
+      {
+        id: 'q-headbackdown-4',
+        question: '「今週末は海岸のほうへ向かう予定だ」を最も自然に表す文はどれですか。',
+        options: ['We are heading back to the coast this weekend.', 'We are heading down to the coast this weekend.', 'We are heading up to the coast this weekend.', 'We are heading off to the coast this weekend.'],
+        correctAnswer: 1,
+        explanation: '南や特定方向へ向かうという意味では head down が使われます。',
+      },
+      {
+        id: 'q-headbackdown-5',
+        question: 'head back と head down の違いとして正しい説明はどれですか。',
+        options: [
+          '両方とも同じ意味で置き換え可能',
+          'head back は出発点へ戻る、head down は南へ向かう・値下がりする',
+          'head back は南へ向かう、head down は出発点へ戻る',
+          '意味の違いとは無関係',
+        ],
+        correctAnswer: 1,
+        explanation: '帰還が head back、南下・下落が head down です。',
       },
     ],
   },
