@@ -7844,7 +7844,37 @@ away は「本体から離れた場所へ」向かう方向、through は「障�
 
 ⚠️ \`Some members broke through the party to form a new group.\`（誤）。党から離脱したなら break **away** from the party。break through は障壁の突破・発見の意味なので、組織からの離脱には使えません。
 
-🎯 覚え方：**away＝拘束や集団から離れた場所へ逃れる（離脱する）**、**through＝立ちはだかる壁を貫いて先へ進む（突破する）**。`,keyPoints:[`break away＝押さえつける相手や所属していた集団から力ずくで逃れる・離脱する`,`break through＝立ちはだかる障壁を突破する、画期的な発見をする（名詞形 breakthrough）`,`away は拘束や集団から離れる方向、through は障害物を貫いて先へ進む方向`,`組織からの離脱は break away、記録や壁の突破は break through（混同しやすいので要注意）`],quiz:[{id:`q-breakaway-1`,question:`空所に入る適切な語はどれですか。「Some members broke ( ) from the party to form a new group.」`,options:[`through`,`away`,`out`,`down`],correctAnswer:1,explanation:`集団から離脱するという意味なので break away。`},{id:`q-breakaway-2`,question:`空所に入る適切な語はどれですか。「Sales finally broke ( ) the $1 million barrier this year.」`,options:[`away`,`through`,`up`,`off`],correctAnswer:1,explanation:`水準・記録を突破するという意味なので break through。`},{id:`q-breakaway-3`,question:`break away の意味として最も適切なものはどれですか。`,options:[`障壁を突破する`,`集団や拘束から逃れる`,`画期的な発見をする`,`まとまりが解消する`],correctAnswer:1,explanation:`break away は拘束や集団から力ずくで逃れる・離脱する意味です。`},{id:`q-breakaway-4`,question:`「研究チームは重要な発見に至った」を最も自然に表す文はどれですか。`,options:[`The research team broke away in their work.`,`The research team broke through in their work.`,`The research team broke up in their work.`,`The research team broke off in their work.`],correctAnswer:1,explanation:`画期的な発見をするという意味では break through が使われます。`},{id:`q-breakaway-5`,question:`break away と break through の違いとして正しい説明はどれですか。`,options:[`両方とも同じ意味で置き換え可能`,`break away は集団・拘束から離脱する、break through は障壁を突破する`,`break away は障壁を突破する、break through は集団から離脱する`,`意味の違いとは無関係`],correctAnswer:1,explanation:`離脱が break away、突破・発見が break through です。`}]},{id:`come-across-come-up-with`,title:`come across と come up with`,chapter:5,hubId:`come`,description:`come across は「〜に偶然出くわす・〜という印象を与える」、come up with は「（考え・答えを）思いつく」。偶然の遭遇か、内側から生み出すかの違いです。`,content:`## 偶然出くわすか、思いつくか
+🎯 覚え方：**away＝拘束や集団から離れた場所へ逃れる（離脱する）**、**through＝立ちはだかる壁を貫いて先へ進む（突破する）**。`,keyPoints:[`break away＝押さえつける相手や所属していた集団から力ずくで逃れる・離脱する`,`break through＝立ちはだかる障壁を突破する、画期的な発見をする（名詞形 breakthrough）`,`away は拘束や集団から離れる方向、through は障害物を貫いて先へ進む方向`,`組織からの離脱は break away、記録や壁の突破は break through（混同しやすいので要注意）`],quiz:[{id:`q-breakaway-1`,question:`空所に入る適切な語はどれですか。「Some members broke ( ) from the party to form a new group.」`,options:[`through`,`away`,`out`,`down`],correctAnswer:1,explanation:`集団から離脱するという意味なので break away。`},{id:`q-breakaway-2`,question:`空所に入る適切な語はどれですか。「Sales finally broke ( ) the $1 million barrier this year.」`,options:[`away`,`through`,`up`,`off`],correctAnswer:1,explanation:`水準・記録を突破するという意味なので break through。`},{id:`q-breakaway-3`,question:`break away の意味として最も適切なものはどれですか。`,options:[`障壁を突破する`,`集団や拘束から逃れる`,`画期的な発見をする`,`まとまりが解消する`],correctAnswer:1,explanation:`break away は拘束や集団から力ずくで逃れる・離脱する意味です。`},{id:`q-breakaway-4`,question:`「研究チームは重要な発見に至った」を最も自然に表す文はどれですか。`,options:[`The research team broke away in their work.`,`The research team broke through in their work.`,`The research team broke up in their work.`,`The research team broke off in their work.`],correctAnswer:1,explanation:`画期的な発見をするという意味では break through が使われます。`},{id:`q-breakaway-5`,question:`break away と break through の違いとして正しい説明はどれですか。`,options:[`両方とも同じ意味で置き換え可能`,`break away は集団・拘束から離脱する、break through は障壁を突破する`,`break away は障壁を突破する、break through は集団から離脱する`,`意味の違いとは無関係`],correctAnswer:1,explanation:`離脱が break away、突破・発見が break through です。`}]},{id:`break-in-break-into`,title:`break in と break into`,chapter:5,hubId:`break`,description:`同じ break でも in は「押し入る・新品を慣らす・口を挟む」、into は「不法侵入する・突然～し始める・新分野に参入する」。似た響きだが目的語の取り方が違います。`,content:`## 目的語を取らないか、取るかで意味の幅が変わる
+
+break in と break into はどちらも「force を使って中へ入る」イメージを共有していますが、break in は目的語を取らない自動詞的な使い方が中心で、break into はそこから比喩がさらに広がります。
+
+- **break in** … 泥棒が**押し入る**、靴などを**慣らす**、会話に**口を挟む**。
+- **break into** … 建物・車に**不法侵入する**、突然その動作を**し始める**、新しい市場・業界に**参入する**。
+
+| 熟語 | 中心の意味 | 典型的な目的語・文脈 |
+| --- | --- | --- |
+| break in | 押し入る（自動詞）／慣らす／口を挟む | burglars broke in（目的語なし）／ new shoes（慣らす） |
+| break into | 不法侵入する／突然し始める／参入する | a house, a car（侵入）／ a run, tears（突然～し始める）／ the market（参入） |
+
+### break in の使い分け
+
+break in は「泥棒が力ずくで建物に押し入る」（The burglars broke in through the kitchen window.）という自動詞的な使い方が基本です。また「新しい靴や道具を使い込んで自分に馴染ませる」（I'm still breaking in this new pair of shoes.）、「人の会話に割り込む」という意味にも使われます。
+
+### break into の使い分け
+
+break into は「建物や車に力ずくで押し入る」（His apartment was broken into twice.）という break in とほぼ同じ意味を、目的語を伴う形で表します。さらに「突然その動作を始める」（He broke into a run.）、「新しい業界・市場に参入する」（She wanted to break into the advertising business.）という比喩に広がります。
+
+### なぜ直訳で読み解けないか
+
+in は「内側へ入る」動作そのものに焦点があり目的語を必要としない自動詞的な使い方が中心、into は「特定の対象の内側へ」という到達点を明示するため目的語を伴います。break in は「押し入るという行為自体」を、break into は「何に押し入るか・何を突然始めるか」という対象を明確にする点が意味の違いになっています。
+
+### よくある誤用
+
+⚠️ \`Burglars broke into last night.\`（誤・文法不備）。目的語なしで「泥棒が押し入った」なら Burglars broke **in** last night。break into は目的語を必要とするので、対象を示さずには使えません。
+
+⚠️ \`She wanted to break in the advertising business.\`（誤）。広告業界に参入したいなら break **into** the advertising business。break in は目的語を取らない自動詞的用法が基本なので、業界参入には break into を使います。
+
+🎯 覚え方：**in＝押し入るという行為そのもの（目的語なし）**、**into＝何に押し入るか・何を始めるかを明示する（目的語を伴う）**。`,keyPoints:[`break in＝（自動詞的に）泥棒が押し入る、新品を慣らす、会話に口を挟む`,`break into＝建物・車に不法侵入する、突然～し始める（break into a run）、新市場・業界に参入する`,`break in は目的語を取らない行為そのもの、break into は目的語で対象を明示する`,`業界参入や突然の動作開始には break into を使う（break in ではなく）`],quiz:[{id:`q-breakinto-1`,question:`空所に入る適切な語はどれですか。「Someone broke ( ) while we were on vacation.」`,options:[`into`,`in`,`away`,`through`],correctAnswer:1,explanation:`目的語なしで「押し入った」という意味なので break in。`},{id:`q-breakinto-2`,question:`空所に入る適切な語はどれですか。「He wanted to break ( ) the music industry.」`,options:[`in`,`into`,`away`,`up`],correctAnswer:1,explanation:`業界に参入するという意味で目的語を伴うので break into。`},{id:`q-breakinto-3`,question:`「彼は突然走り出した」を最も自然に表す文はどれですか。`,options:[`He broke in a run.`,`He broke into a run.`,`He broke away a run.`,`He broke through a run.`],correctAnswer:1,explanation:`突然その動作を始めるという意味では break into が使われます。`},{id:`q-breakinto-4`,question:`break in の用法として正しいものはどれですか。`,options:[`break in the house`,`break in（目的語なし）`,`break in the market`,`break in the industry`],correctAnswer:1,explanation:`break in は目的語を取らない自動詞的な使い方が基本です。`},{id:`q-breakinto-5`,question:`break in と break into の違いとして正しい説明はどれですか。`,options:[`両方とも全く同じ意味で完全に置き換え可能`,`break in は目的語を取らない行為そのもの、break into は目的語で対象を明示する`,`break in は目的語を必要とし、break into は目的語を取らない`,`意味の違いとは無関係`],correctAnswer:1,explanation:`目的語の有無が break in と break into の使い分けの鍵です。`}]},{id:`come-across-come-up-with`,title:`come across と come up with`,chapter:5,hubId:`come`,description:`come across は「〜に偶然出くわす・〜という印象を与える」、come up with は「（考え・答えを）思いつく」。偶然の遭遇か、内側から生み出すかの違いです。`,content:`## 偶然出くわすか、思いつくか
 
 come across と come up with はどちらも「見つかる・出てくる」に関わる比喩ですが、across の「向こうから視界に入る」イメージと up with の「内側から持ち上げる」イメージで、主体的な行動の有無が異なります。
 
@@ -9102,7 +9132,37 @@ through は「入口から出口まで筋道を辿って考え抜く」イメー
 
 ⚠️ \`We need to think back the consequences before signing the contract.\`（誤）。結果を考え抜くのは think **through**。think back に「筋道立てて検討する」の意味はありません。
 
-🎯 覚え方：**through＝筋道を最後まで辿って考え抜く（未来に向けた検討）**、**back＝思考を過去へ巻き戻す（回想する）**。`,keyPoints:[`think through＝〜を最後まで筋道立てて考え抜く（consider all aspects systematically）`,`think back（on/to）＝（過去を）振り返る・思い出す（recall/reflect on the past）`,`think through は未来の決定に向けた徹底的検討、think back は過去への回想`,`through＝筋道を最後まで辿る、back＝思考を過去へ巻き戻す、という前置詞イメージの違い`],quiz:[{id:`q-thinkthrough-1`,question:`空所に入る適切な語はどれですか。「Before quitting your job, you should really ( ) the financial consequences.」`,options:[`think back`,`think through`,`think up`,`think over quickly`],correctAnswer:1,explanation:`結果を体系的に考え抜くのは think through。`},{id:`q-thinkthrough-2`,question:`空所に入る適切な語はどれですか。「Whenever I hear that song, I ( ) my high school days.」`,options:[`think through`,`think up`,`think back to`,`think over`],correctAnswer:2,explanation:`過去を振り返るのは think back to。`},{id:`q-thinkthrough-3`,question:`空所に入る適切な語はどれですか。「The committee failed to ( ) all the possible risks before launching the project.」`,options:[`think back on`,`think up`,`think through`,`think back`],correctAnswer:2,explanation:`あらゆるリスクを検討し尽くすのも think through。`},{id:`q-thinkthrough-4`,question:`think back の言い換えとして最も適切なものはどれですか。`,options:[`consider all aspects systematically`,`devise`,`reflect on the past`,`consider carefully`],correctAnswer:2,explanation:`think back は「過去を振り返る」という意味です。`},{id:`q-thinkthrough-5`,question:`think through と think back の違いとして正しいものはどれですか。`,options:[`through＝未来に向けた徹底的な検討、back＝過去への回想`,`両者に意味の違いはない`,`through の方が過去を扱う`,`back の方が未来の決定を扱う`],correctAnswer:0,explanation:`think through は未来志向の検討、think back は過去への回想を表します。`}]},{id:`fall-back-on-fall-through`,title:`fall back on と fall through`,chapter:5,hubId:`fall`,description:`fall back on は「（最後の手段）に頼る」、fall through は「（計画等が）失敗に終わる」。支えに倒れ込むか、底が抜けて落ちるかの違いです。`,content:`## 支えに倒れ込むか、底が抜けて落ちるか
+🎯 覚え方：**through＝筋道を最後まで辿って考え抜く（未来に向けた検討）**、**back＝思考を過去へ巻き戻す（回想する）**。`,keyPoints:[`think through＝〜を最後まで筋道立てて考え抜く（consider all aspects systematically）`,`think back（on/to）＝（過去を）振り返る・思い出す（recall/reflect on the past）`,`think through は未来の決定に向けた徹底的検討、think back は過去への回想`,`through＝筋道を最後まで辿る、back＝思考を過去へ巻き戻す、という前置詞イメージの違い`],quiz:[{id:`q-thinkthrough-1`,question:`空所に入る適切な語はどれですか。「Before quitting your job, you should really ( ) the financial consequences.」`,options:[`think back`,`think through`,`think up`,`think over quickly`],correctAnswer:1,explanation:`結果を体系的に考え抜くのは think through。`},{id:`q-thinkthrough-2`,question:`空所に入る適切な語はどれですか。「Whenever I hear that song, I ( ) my high school days.」`,options:[`think through`,`think up`,`think back to`,`think over`],correctAnswer:2,explanation:`過去を振り返るのは think back to。`},{id:`q-thinkthrough-3`,question:`空所に入る適切な語はどれですか。「The committee failed to ( ) all the possible risks before launching the project.」`,options:[`think back on`,`think up`,`think through`,`think back`],correctAnswer:2,explanation:`あらゆるリスクを検討し尽くすのも think through。`},{id:`q-thinkthrough-4`,question:`think back の言い換えとして最も適切なものはどれですか。`,options:[`consider all aspects systematically`,`devise`,`reflect on the past`,`consider carefully`],correctAnswer:2,explanation:`think back は「過去を振り返る」という意味です。`},{id:`q-thinkthrough-5`,question:`think through と think back の違いとして正しいものはどれですか。`,options:[`through＝未来に向けた徹底的な検討、back＝過去への回想`,`両者に意味の違いはない`,`through の方が過去を扱う`,`back の方が未来の決定を扱う`],correctAnswer:0,explanation:`think through は未来志向の検討、think back は過去への回想を表します。`}]},{id:`think-of-think-out`,title:`think of と think out`,chapter:5,hubId:`think`,description:`同じ think でも of は「思いつく・意見を持つ」、out は「細部まで考え抜く」。頭に浮かぶかどうかと、考え抜いて完成させるかの違いです。`,content:`## 頭に浮かぶのか、考え抜いて完成させるのか
+
+think of と think out はどちらも think のあとに前置詞・副詞が続く形ですが、思考の深さが異なります。
+
+- **think of** … 考えや案が**頭に浮かぶ**、〜について**意見を持つ**。
+- **think out** … 計画や考えの**細部まで考え抜く**。
+
+| 熟語 | 中心の意味 | 典型的な目的語 |
+| --- | --- | --- |
+| think **of** | 思いつく・意見を持つ・思い出す | an idea, what to say／What do you think of it? |
+| think **out** | 細部まで考え抜く | a plan, a strategy |
+
+### think of の使い分け
+
+think of は「新しい考えや案がふと頭に浮かぶ」（I can't think of anything to say.）という意味から、「〜についてどう思うか」（What do you think of my new dress?）という意見を尋ねる定型表現、「〜を思い出す」（I thought of you when they mentioned English speakers.）という意味まで幅広く使われます。
+
+### think out の使い分け
+
+think out は「計画や戦略を、細部まで漏れなく考え抜く」という意味で、過去分詞形 thought out が特によく使われます。"The scheme was well thought out." のように、「よく練られている」ことを評価する場面で頻出します。
+
+### なぜ直訳で読み解けないか
+
+of は「対象について頭の中に浮かぶ・関わる」イメージ、out は「考えを最後まで外へ引き出し切る」イメージを運びます。think of は「対象がふと頭に浮かぶ・意見を持つ」という比較的軽い思考、think out は「計画の細部まで考えを引き出し切って完成させる」という深く周到な思考を表し、この思考の深さの違いが意味の違いになっています。
+
+### よくある誤用
+
+⚠️ \`Their strategy was very carefully thought of.\`（誤・意図不明瞭）。戦略が入念に練られていたなら thought **out**。think of は思いつく・意見を持つ意味なので、周到さの評価には使いません。
+
+⚠️ \`I can't think out anything to say.\`（誤）。言うことが思いつかないなら can't think **of** anything to say。think out は細部まで考え抜く意味なので、単に思いつかない状況には使いません。
+
+🎯 覚え方：**of＝対象がふと頭に浮かぶ（思いつく・意見を持つ）**、**out＝考えを最後まで引き出し切る（練り上げる）**。`,keyPoints:[`think of＝考えが頭に浮かぶ、〜についてどう思うか意見を持つ、思い出す`,`think out＝計画や戦略を細部まで考え抜く（過去分詞 thought out が頻出）`,`of は考えがふと頭に浮かぶイメージ、out は考えを最後まで引き出し切るイメージ`,`思いつきは think of、周到に練られた計画は think out`],quiz:[{id:`q-thinkofout-1`,question:`空所に入る適切な語はどれですか。「What do you think ( ) the new proposal?」`,options:[`out`,`of`,`over`,`up`],correctAnswer:1,explanation:`意見を尋ねる定型表現なので think of。`},{id:`q-thinkofout-2`,question:`空所に入る適切な語はどれですか。「Their marketing plan was very carefully thought ( ).」`,options:[`of`,`out`,`back`,`over`],correctAnswer:1,explanation:`細部まで考え抜かれたという意味なので thought out。`},{id:`q-thinkofout-3`,question:`think of の意味として適切でないものはどれですか。`,options:[`考えが頭に浮かぶ`,`意見を持つ`,`計画を細部まで練り上げる`,`思い出す`],correctAnswer:2,explanation:`計画を細部まで練り上げるのは think out の意味です。`},{id:`q-thinkofout-4`,question:`「彼らに言われてすぐあなたのことを思い出した」を最も自然に表す文はどれですか。`,options:[`I thought out you when they mentioned it.`,`I thought of you when they mentioned it.`,`I thought over you when they mentioned it.`,`I thought back you when they mentioned it.`],correctAnswer:1,explanation:`人を思い出すという意味では think of が使われます。`},{id:`q-thinkofout-5`,question:`think of と think out の違いとして正しい説明はどれですか。`,options:[`両方とも同じ意味で置き換え可能`,`think of は考えがふと浮かぶ・意見を持つ、think out は細部まで考え抜く`,`think of は細部まで考え抜く、think out は考えがふと浮かぶ`,`意味の違いとは無関係`],correctAnswer:1,explanation:`軽い思考が think of、周到な検討が think out です。`}]},{id:`fall-back-on-fall-through`,title:`fall back on と fall through`,chapter:5,hubId:`fall`,description:`fall back on は「（最後の手段）に頼る」、fall through は「（計画等が）失敗に終わる」。支えに倒れ込むか、底が抜けて落ちるかの違いです。`,content:`## 支えに倒れ込むか、底が抜けて落ちるか
 
 fall back on と fall through はどちらも「落ちる」の比喩ですが、back on の「後方の支えに倒れ込む」イメージと through の「底を突き抜けて落ちる」イメージで、主語も結果も異なります。
 
@@ -9256,7 +9316,37 @@ off は「本体（その場）から離れて距離を取る」イメージな�
 
 ⚠️ \`The trespasser cleared away when the dog barked.\`（誤）。不法侵入者が立ち去ったのは clear **off**。clear away は物を対象にするのが基本です。
 
-🎯 覚え方：**off＝本体から離れて立ち去る（人が立ち去る）**、**away＝不要な物を取り除いて空間を作る（片付ける）**。`,keyPoints:[`clear off＝立ち去る（go away/leave）。命令形「Clear off!」で頻出。主にイギリス英語口語`,`clear away＝（食器・物を）片付けて空間を作る（remove things to tidy a space）`,`clear off の主語は人、clear away の目的語は片付けるべき物という違い`,`off＝本体から離れて立ち去る、away＝不要な物を取り除く、という前置詞イメージの違い`],quiz:[{id:`q-clearoff-1`,question:`空所に入る適切な語はどれですか。「"( )!" the farmer shouted at the trespassers.」`,options:[`Clear away`,`Clear up`,`Clear off`,`Clear out for`],correctAnswer:2,explanation:`立ち去れという命令は Clear off!。`},{id:`q-clearoff-2`,question:`空所に入る適切な語はどれですか。「Could you help me ( ) the plates before we watch the movie?」`,options:[`clear off`,`clear away`,`clear up`,`clear out`],correctAnswer:1,explanation:`食器を片付けるのは clear away。`},{id:`q-clearoff-3`,question:`空所に入る適切な語はどれですか。「The suspect ( ) the moment he heard the sirens approaching.」`,options:[`cleared away`,`cleared up`,`cleared off`,`cleared out completely`],correctAnswer:2,explanation:`慌てて立ち去ったのは clear off。`},{id:`q-clearoff-4`,question:`clear away の言い換えとして最も適切なものはどれですか。`,options:[`go away`,`remove things to tidy a space`,`become fine`,`resolve confusion`],correctAnswer:1,explanation:`clear away は「物を片付けて空間を作る」という意味です。`},{id:`q-clearoff-5`,question:`clear off と clear away の違いとして正しいものはどれですか。`,options:[`off＝人が立ち去る、away＝物を片付ける`,`両者に意味の違いはない`,`off の方が物を対象にする`,`away の方が人の立ち去りを表す`],correctAnswer:0,explanation:`clear off は人の立ち去り、clear away は物の片付けを表します。`}]},{id:`drop-in-drop-out`,title:`drop in と drop out`,chapter:5,hubId:`drop`,description:`drop in（on）は「ふらっと立ち寄る」、drop out（of）は「（学校・レース等から）中退する・脱落する」。予定外に入り込むか、枠組みの外へ落ちて出るかの違いです。`,content:`## 予定外に入り込むか、枠から落ちて出るか
+🎯 覚え方：**off＝本体から離れて立ち去る（人が立ち去る）**、**away＝不要な物を取り除いて空間を作る（片付ける）**。`,keyPoints:[`clear off＝立ち去る（go away/leave）。命令形「Clear off!」で頻出。主にイギリス英語口語`,`clear away＝（食器・物を）片付けて空間を作る（remove things to tidy a space）`,`clear off の主語は人、clear away の目的語は片付けるべき物という違い`,`off＝本体から離れて立ち去る、away＝不要な物を取り除く、という前置詞イメージの違い`],quiz:[{id:`q-clearoff-1`,question:`空所に入る適切な語はどれですか。「"( )!" the farmer shouted at the trespassers.」`,options:[`Clear away`,`Clear up`,`Clear off`,`Clear out for`],correctAnswer:2,explanation:`立ち去れという命令は Clear off!。`},{id:`q-clearoff-2`,question:`空所に入る適切な語はどれですか。「Could you help me ( ) the plates before we watch the movie?」`,options:[`clear off`,`clear away`,`clear up`,`clear out`],correctAnswer:1,explanation:`食器を片付けるのは clear away。`},{id:`q-clearoff-3`,question:`空所に入る適切な語はどれですか。「The suspect ( ) the moment he heard the sirens approaching.」`,options:[`cleared away`,`cleared up`,`cleared off`,`cleared out completely`],correctAnswer:2,explanation:`慌てて立ち去ったのは clear off。`},{id:`q-clearoff-4`,question:`clear away の言い換えとして最も適切なものはどれですか。`,options:[`go away`,`remove things to tidy a space`,`become fine`,`resolve confusion`],correctAnswer:1,explanation:`clear away は「物を片付けて空間を作る」という意味です。`},{id:`q-clearoff-5`,question:`clear off と clear away の違いとして正しいものはどれですか。`,options:[`off＝人が立ち去る、away＝物を片付ける`,`両者に意味の違いはない`,`off の方が物を対象にする`,`away の方が人の立ち去りを表す`],correctAnswer:0,explanation:`clear off は人の立ち去り、clear away は物の片付けを表します。`}]},{id:`clear-with-clear-of`,title:`clear something with と clear someone of`,chapter:5,hubId:`clear`,description:`同じ clear でも with は「相手から許可を得る」、of は「容疑を晴らす」。事前の承認を得るか、疑いを取り除くかの違いです。`,content:`## 事前の承認を得るのか、疑いを取り除くのか
+
+clear something with someone と clear someone of something はどちらも clear の「取り除いて澄ませる」イメージから来ていますが、取り除く対象が異なります。
+
+- **clear something with someone** … 行動する前に相手から**許可を得る**。
+- **clear someone of something** … 容疑や非難から**無実を証明する**。
+
+| 熟語 | 中心の意味 | 典型的な目的語 |
+| --- | --- | --- |
+| clear ... with ... | 許可を得る | a plan, an absence with the boss |
+| clear ... of ... | 容疑を晴らす | a suspect of murder, someone of wrongdoing |
+
+### clear with の使い分け
+
+clear something with someone は「計画や行動について、実行する前に責任者から許可・了承を取る」という意味で、"You need to clear this expense with your manager first." のように、職場での事前承認を表す場面でよく使われます。
+
+### clear of の使い分け
+
+clear someone of something は「裁判や調査の結果、その人が疑われていたことをしていないと証明する」という意味で、"The jury cleared him of murder." のように使われます。「疑いという曇りを取り除いて、相手を潔白な状態にする」というイメージです。
+
+### なぜ直訳で読み解けないか
+
+with は「相手を伴って確認を取る」イメージ、of は「対象から疑いという要素を取り除く」イメージを運びます。clear with は「行動を起こす前に相手を伴って了承を取り付ける」、clear of は「対象から疑惑という曇りを取り除いて潔白にする」という、事前の承認取得と事後の疑い晴らしという時系列の違いが意味の違いになっています。
+
+### よくある誤用
+
+⚠️ \`The jury cleared him with the murder charge.\`（誤）。殺人容疑が晴れたなら cleared him **of** the murder charge。clear with は許可を得る意味なので、無罪証明には使いません。
+
+⚠️ \`You should clear this expense of your manager first.\`（誤）。上司から了承を得るべきなら clear this expense **with** your manager。clear of は疑いを晴らす意味なので、事前の許可取得には使えません。
+
+🎯 覚え方：**with＝相手を伴って事前に了承を取る（許可を得る）**、**of＝対象から疑いという曇りを取り除く（容疑を晴らす）**。`,keyPoints:[`clear something with someone＝行動を起こす前に責任者から許可・了承を得る`,`clear someone of something＝調査や裁判で容疑・疑いを晴らし無実を証明する`,`with は事前の許可取得、of は事後の疑い晴らしという時系列の違い`,`経費の事前承認は clear with、無罪の証明は clear of（混同しやすいので要注意）`],quiz:[{id:`q-clearwithof-1`,question:`空所に入る適切な語はどれですか。「Make sure you clear your absence ( ) the manager before you leave.」`,options:[`of`,`with`,`up`,`out`],correctAnswer:1,explanation:`事前に許可を得るという意味なので clear with。`},{id:`q-clearwithof-2`,question:`空所に入る適切な語はどれですか。「New evidence finally cleared her ( ) the theft charge.」`,options:[`with`,`of`,`away`,`up`],correctAnswer:1,explanation:`容疑を晴らすという意味なので clear of。`},{id:`q-clearwithof-3`,question:`clear something with someone の意味として最も適切なものはどれですか。`,options:[`容疑を晴らす`,`行動前に許可を得る`,`物を片付ける`,`天候が回復する`],correctAnswer:1,explanation:`clear with は事前に相手の了承を得る意味です。`},{id:`q-clearwithof-4`,question:`「陪審は彼を殺人罪から無罪とした」を最も自然に表す文はどれですか。`,options:[`The jury cleared him with murder.`,`The jury cleared him of murder.`,`The jury cleared him up murder.`,`The jury cleared him out murder.`],correctAnswer:1,explanation:`容疑を晴らすという意味では clear of が使われます。`},{id:`q-clearwithof-5`,question:`clear with と clear of の違いとして正しい説明はどれですか。`,options:[`両方とも同じ意味で置き換え可能`,`clear with は事前に許可を得る、clear of は容疑を晴らす`,`clear with は容疑を晴らす、clear of は許可を得る`,`意味の違いとは無関係`],correctAnswer:1,explanation:`事前承認が clear with、疑い晴らしが clear of です。`}]},{id:`drop-in-drop-out`,title:`drop in と drop out`,chapter:5,hubId:`drop`,description:`drop in（on）は「ふらっと立ち寄る」、drop out（of）は「（学校・レース等から）中退する・脱落する」。予定外に入り込むか、枠組みの外へ落ちて出るかの違いです。`,content:`## 予定外に入り込むか、枠から落ちて出るか
 
 drop in と drop out はどちらも drop の比喩用法ですが、in の「内部へ落ちるように入る」イメージと out の「枠組みの外へ落ちて出る」イメージで、方向が正反対です。
 
@@ -9410,7 +9500,37 @@ up は「組織図の先頭・上位に立つ」イメージなので、head up 
 
 ⚠️ \`We're heading up to the party tonight.\`（成立するが意味が変わる）。パーティーへ出発するなら head **out**。head up はここでは「率いる」の意味になり文脈が不自然です（ただし物理的に「上へ向かう」の意味で使われることもあり文脈依存）。
 
-🎯 覚え方：**up＝組織の先頭に立つ（率いる）**、**out＝その場を出て向かう（出発する）**。`,keyPoints:[`head up＝（部門・組織を）率いる（lead/be in charge of）`,`head out＝出発する（leave/depart）。口語的でhead offとほぼ同義`,`head up は組織の統率、head out は単純な出発という別方向の意味`,`up＝組織の先頭に立つ、out＝その場を出て向かう、という前置詞イメージの違い`],quiz:[{id:`q-headup-1`,question:`空所に入る適切な語はどれですか。「She was recently promoted to ( ) the entire engineering division.」`,options:[`head out`,`head off`,`head up`,`head for`],correctAnswer:2,explanation:`部門を率いるのは head up。`},{id:`q-headup-2`,question:`空所に入る適切な語はどれですか。「It’s getting dark — we should probably ( ) soon.」`,options:[`head up`,`head out`,`head for`,`head at`],correctAnswer:1,explanation:`出発するのは head out。`},{id:`q-headup-3`,question:`空所に入る適切な語はどれですか。「Who is going to ( ) the new project team?」`,options:[`head out`,`head for`,`head up`,`head off`],correctAnswer:2,explanation:`チームを率いるのも head up。`},{id:`q-headup-4`,question:`head out の言い換えとして最も適切なものはどれですか。`,options:[`lead`,`be in charge of`,`depart`,`prevent`],correctAnswer:2,explanation:`head out は「出発する」という意味です。`},{id:`q-headup-5`,question:`head up と head out の違いとして正しいものはどれですか。`,options:[`up＝組織を率いる、out＝出発する`,`両者に意味の違いはない`,`up の方が出発を表す`,`out の方が組織の統率を表す`],correctAnswer:0,explanation:`head up は統率、head out は出発を表します。`}]},{id:`pull-through-pull-off`,title:`pull through と pull off`,chapter:5,hubId:`pull`,description:`pull through は「（病気・危機等から）回復する・乗り切る」、pull off は「（難業）を見事に成し遂げる」。生き延びるか、成し遂げるかの違いです。`,content:`## 生き延びるか、成し遂げるか
+🎯 覚え方：**up＝組織の先頭に立つ（率いる）**、**out＝その場を出て向かう（出発する）**。`,keyPoints:[`head up＝（部門・組織を）率いる（lead/be in charge of）`,`head out＝出発する（leave/depart）。口語的でhead offとほぼ同義`,`head up は組織の統率、head out は単純な出発という別方向の意味`,`up＝組織の先頭に立つ、out＝その場を出て向かう、という前置詞イメージの違い`],quiz:[{id:`q-headup-1`,question:`空所に入る適切な語はどれですか。「She was recently promoted to ( ) the entire engineering division.」`,options:[`head out`,`head off`,`head up`,`head for`],correctAnswer:2,explanation:`部門を率いるのは head up。`},{id:`q-headup-2`,question:`空所に入る適切な語はどれですか。「It’s getting dark — we should probably ( ) soon.」`,options:[`head up`,`head out`,`head for`,`head at`],correctAnswer:1,explanation:`出発するのは head out。`},{id:`q-headup-3`,question:`空所に入る適切な語はどれですか。「Who is going to ( ) the new project team?」`,options:[`head out`,`head for`,`head up`,`head off`],correctAnswer:2,explanation:`チームを率いるのも head up。`},{id:`q-headup-4`,question:`head out の言い換えとして最も適切なものはどれですか。`,options:[`lead`,`be in charge of`,`depart`,`prevent`],correctAnswer:2,explanation:`head out は「出発する」という意味です。`},{id:`q-headup-5`,question:`head up と head out の違いとして正しいものはどれですか。`,options:[`up＝組織を率いる、out＝出発する`,`両者に意味の違いはない`,`up の方が出発を表す`,`out の方が組織の統率を表す`],correctAnswer:0,explanation:`head up は統率、head out は出発を表します。`}]},{id:`head-back-head-down`,title:`head back と head down`,chapter:5,hubId:`head`,description:`同じ head でも back は「元いた場所へ戻る」、down は「南へ向かう・値下がりする」。出発点へ戻るか、下方向・南方向へ進むかの違いです。`,content:`## 出発点へ戻るのか、下方向・南方向へ進むのか
+
+head back と head down はどちらも head のあとに副詞が続く形ですが、向かう方向が異なります。
+
+- **head back** … 出発した場所へ**引き返す・戻る**。
+- **head down** … 南の方角へ**向かう**、価格や株価などが**下落する**。
+
+| 熟語 | 中心の意味 | 典型的な文脈 |
+| --- | --- | --- |
+| head **back** | 引き返す・戻る | home, to the office |
+| head **down** | 南へ向かう／値下がりする | south, to the coast／ share prices, the currency |
+
+### head back の使い分け
+
+head back は「出発した場所や元の場所へ方向転換して戻る」という意味で、"I think we ought to head back now, before it gets too dark." のように使われます。「そろそろ帰ろう」という提案の場面で頻出する表現です。
+
+### head down の使い分け
+
+head down は「地図上で南の方角へ移動する」（We're heading down to the coast this weekend.）という意味と、「株価や通貨の価値が下落し続ける」（Share prices headed down sharply after the announcement.）という金融の文脈での意味を持ちます。
+
+### なぜ直訳で読み解けないか
+
+back は「出発点という過去の位置へ戻る」イメージ、down は「地図上・グラフ上で下方向（南・低い値）へ進む」イメージを運びます。head back は「時間的に元の場所へ引き返す」、head down は「空間的・数値的に下方向へ進む」という、戻る方向と下へ進む方向の違いが意味の違いになっています。
+
+### よくある誤用
+
+⚠️ \`Share prices headed back sharply after the scandal.\`（誤・意図不明瞭）。株価が下落したなら headed **down**。head back は元の場所へ戻る意味なので、価格の下落には使いません。
+
+⚠️ \`It's getting dark, so we should head down now.\`（誤・意図不明瞭）。帰宅を提案するなら head **back** now。head down は南へ向かう・値下がりする意味なので、帰路につく提案にはやや不自然です。
+
+🎯 覚え方：**back＝出発点という過去の位置へ戻る（引き返す）**、**down＝地図やグラフの下方向へ進む（南下する・値下がりする）**。`,keyPoints:[`head back＝出発した場所へ引き返す・戻る（帰宅の提案でよく使われる）`,`head down＝地図上で南の方角へ向かう、株価や通貨の価値が下落する`,`back は出発点という過去の位置へ戻るイメージ、down は地図・グラフの下方向へ進むイメージ`,`帰路につくのは head back、株価の下落は head down（対象がまったく異なる）`],quiz:[{id:`q-headbackdown-1`,question:`空所に入る適切な語はどれですか。「It is getting late, so we should head ( ) to the hotel.」`,options:[`down`,`back`,`off`,`for`],correctAnswer:1,explanation:`元の場所へ戻るという意味なので head back。`},{id:`q-headbackdown-2`,question:`空所に入る適切な語はどれですか。「The currency headed ( ) sharply after the announcement.」`,options:[`back`,`down`,`up`,`out`],correctAnswer:1,explanation:`通貨の価値が下落するという意味なので head down。`},{id:`q-headbackdown-3`,question:`head back の意味として最も適切なものはどれですか。`,options:[`南へ向かう`,`出発した場所へ引き返す`,`価格が下落する`,`組織を率いる`],correctAnswer:1,explanation:`head back は元いた場所へ戻ることを表します。`},{id:`q-headbackdown-4`,question:`「今週末は海岸のほうへ向かう予定だ」を最も自然に表す文はどれですか。`,options:[`We are heading back to the coast this weekend.`,`We are heading down to the coast this weekend.`,`We are heading up to the coast this weekend.`,`We are heading off to the coast this weekend.`],correctAnswer:1,explanation:`南や特定方向へ向かうという意味では head down が使われます。`},{id:`q-headbackdown-5`,question:`head back と head down の違いとして正しい説明はどれですか。`,options:[`両方とも同じ意味で置き換え可能`,`head back は出発点へ戻る、head down は南へ向かう・値下がりする`,`head back は南へ向かう、head down は出発点へ戻る`,`意味の違いとは無関係`],correctAnswer:1,explanation:`帰還が head back、南下・下落が head down です。`}]},{id:`pull-through-pull-off`,title:`pull through と pull off`,chapter:5,hubId:`pull`,description:`pull through は「（病気・危機等から）回復する・乗り切る」、pull off は「（難業）を見事に成し遂げる」。生き延びるか、成し遂げるかの違いです。`,content:`## 生き延びるか、成し遂げるか
 
 pull through と pull off はどちらも困難な状況に関わる比喩ですが、through の「病魔のトンネルを抜ける」イメージと off の「困難から成果を引き剥がす」イメージで、結果の性質が異なります。
 
@@ -9815,8 +9935,10 @@ break は「壊れる・砕ける」が核となる意味です。物理的な�
 | break up | up（全体がばらばらに砕ける） | 別れる・（集団が）解散する・粉々になる |
 | break away | away（拘束や集団から離れる） | 逃れる・離脱する |
 | break through | through（障壁を貫いて先へ進む） | 突破する・画期的な発見をする |
+| break in | in（押し入るという行為そのもの・目的語なし） | 押し入る・新品を慣らす・口を挟む |
+| break into | into（何に押し入るかを明示・目的語を伴う） | 不法侵入する・突然～し始める・参入する |
 
-break down は「構造そのものが崩れ落ちる」イメージで、機械の故障にも交渉の決裂にも使われます。break off は「つながっていたものを断ち切って切り離す」イメージで、婚約や外交関係のような継続していた関係の中断を表します。break out は「内部に閉じ込められていたものが外部へ突発的に噴き出す」イメージで、戦争・火事・発疹などの突然の発生や、監獄からの脱出に使われます。break up は「1つのまとまりがばらばらの破片に砕ける」イメージで、恋愛関係の終わりや集団の解散を表します。break away は「拘束や集団から離れた場所へ逃れる」イメージで組織からの離脱を表し、break through は「立ちはだかる壁を貫いて先へ進む」イメージで突破・発見を表します。`,previewPairs:[`break down vs break off（故障する・決裂する／中断する・打ち切る）`,`break out vs break up（突発的に発生する・脱出する／別れる・解散する）`,`break away vs break through（離脱する／突破する・発見する）`]},{id:`come`,verb:`come`,title:`come は前置詞でどう意味が変わる？`,description:`come の中心イメージ「（自分の方へ）来る・生じる」が、続く前置詞・副詞でどう枝分かれするかをまとめたハブページ。`,content:`## come の中心イメージ
+break down は「構造そのものが崩れ落ちる」イメージで、機械の故障にも交渉の決裂にも使われます。break off は「つながっていたものを断ち切って切り離す」イメージで、婚約や外交関係のような継続していた関係の中断を表します。break out は「内部に閉じ込められていたものが外部へ突発的に噴き出す」イメージで、戦争・火事・発疹などの突然の発生や、監獄からの脱出に使われます。break up は「1つのまとまりがばらばらの破片に砕ける」イメージで、恋愛関係の終わりや集団の解散を表します。break away は「拘束や集団から離れた場所へ逃れる」イメージで組織からの離脱を表し、break through は「立ちはだかる壁を貫いて先へ進む」イメージで突破・発見を表します。break in は目的語を取らず「押し入るという行為そのもの」を表し、break into は目的語を伴って「何に押し入るか・何を突然始めるか」を明示します。`,previewPairs:[`break down vs break off（故障する・決裂する／中断する・打ち切る）`,`break out vs break up（突発的に発生する・脱出する／別れる・解散する）`,`break away vs break through（離脱する／突破する・発見する）`,`break in vs break into（押し入る〈目的語なし〉／侵入する・参入する〈目的語あり〉）`]},{id:`come`,verb:`come`,title:`come は前置詞でどう意味が変わる？`,description:`come の中心イメージ「（自分の方へ）来る・生じる」が、続く前置詞・副詞でどう枝分かれするかをまとめたハブページ。`,content:`## come の中心イメージ
 
 come は「（話し手の方へ）来る」が核となる意味です。物理的な接近から、偶然の遭遇・事象の発生・獲得という比喩に広がり、続く前置詞・副詞が「何が」「どんな経緯で」やって来るかを決めます。
 
@@ -9995,8 +10117,10 @@ think は「考える」が核となる意味です。単純な思考から、�
 | think up | up（頭の中に新しく立ち上げる） | （アイデア等を）考え出す |
 | think through | through（最初から最後まで筋道を辿る） | 〜を最後まで筋道立てて考え抜く |
 | think back | back（過去へ思考を巻き戻す） | （過去を）振り返る・思い出す |
+| think of | of（対象がふと頭に浮かぶ） | 思いつく・意見を持つ |
+| think out | out（考えを最後まで引き出し切る） | 細部まで考え抜く |
 
-think over は「決断の前に物事を表裏じっくり検討する」イメージで、提案や申し出への返事を保留する場面で使われます。think up は「頭の中に何もないところから新しいものを立ち上げる」イメージで、アイデアや計画を創出することを表します。think through は「最初から最後まで筋道を辿って考え抜く」イメージで、think over よりも体系的・徹底的な検討を意味し、think back は「思考を過去へ巻き戻す」イメージから、過去の記憶を振り返ることを表します。`,previewPairs:[`think over vs think up（よく考える／考え出す）`,`think through vs think back（筋道立てて考え抜く／過去を振り返る）`]},{id:`fall`,verb:`fall`,title:`fall は前置詞でどう意味が変わる？`,description:`fall の中心イメージ「落ちる・崩れる」が、続く前置詞・副詞でどう枝分かれするかをまとめたハブページ。`,content:`## fall の中心イメージ
+think over は「決断の前に物事を表裏じっくり検討する」イメージで、提案や申し出への返事を保留する場面で使われます。think up は「頭の中に何もないところから新しいものを立ち上げる」イメージで、アイデアや計画を創出することを表します。think through は「最初から最後まで筋道を辿って考え抜く」イメージで、think over よりも体系的・徹底的な検討を意味し、think back は「思考を過去へ巻き戻す」イメージから、過去の記憶を振り返ることを表します。think of は「対象がふと頭に浮かぶ」イメージで思いつき・意見を表し、think out は「考えを最後まで引き出し切る」イメージで周到な検討を表します。`,previewPairs:[`think over vs think up（よく考える／考え出す）`,`think through vs think back（筋道立てて考え抜く／過去を振り返る）`,`think of vs think out（思いつく・意見を持つ／細部まで考え抜く）`]},{id:`fall`,verb:`fall`,title:`fall は前置詞でどう意味が変わる？`,description:`fall の中心イメージ「落ちる・崩れる」が、続く前置詞・副詞でどう枝分かれするかをまとめたハブページ。`,content:`## fall の中心イメージ
 
 fall は「落ちる」が核となる意味です。物理的な落下から、失敗・依存・不和という比喩に広がり、続く前置詞・副詞が「どこへ、どんな形で落ちるか」を決めます。
 
@@ -10019,8 +10143,10 @@ clear は「（邪魔なものを取り除いて）澄ませる・空ける」�
 | clear out | out（内部のものを外へ出す） | （不要な物を捨てて）空にする／立ち去る |
 | clear off | off（本体から離れて立ち去る） | 立ち去る（命令形で「あっちへ行け」） |
 | clear away | away（不要な物を取り除いて空間を作る） | （食器・物を）片付けて空間を作る |
+| clear ... with ... | with（相手を伴って事前に了承を取る） | 行動前に許可を得る |
+| clear ... of ... | of（対象から疑いを取り除く） | 容疑を晴らす |
 
-clear up は「完全に良い状態まで持ち上げて澄ませる」イメージで、天気の好転にも、体調や誤解の解消にも、部屋の片付けにも使われます。clear out は「内部にある不要な物を全て外へ出して空にする」イメージで、大掃除にも、口語で「さっさと立ち去る」ことにも使われます。clear off は「本体から離れて立ち去る」イメージで主にイギリス英語の口語表現、clear away は「使ったものを取り除いて元の空間に戻す」イメージから食後の片付けなどに使われます。`,previewPairs:[`clear up vs clear out（解消する・片付ける／空にする・立ち去る）`,`clear off vs clear away（立ち去る／片付けて空間を作る）`]},{id:`drop`,verb:`drop`,title:`drop は前置詞でどう意味が変わる？`,description:`drop の中心イメージ「ぽとりと落とす」が、続く前置詞・副詞でどう枝分かれするかをまとめたハブページ。`,content:`## drop の中心イメージ
+clear up は「完全に良い状態まで持ち上げて澄ませる」イメージで、天気の好転にも、体調や誤解の解消にも、部屋の片付けにも使われます。clear out は「内部にある不要な物を全て外へ出して空にする」イメージで、大掃除にも、口語で「さっさと立ち去る」ことにも使われます。clear off は「本体から離れて立ち去る」イメージで主にイギリス英語の口語表現、clear away は「使ったものを取り除いて元の空間に戻す」イメージから食後の片付けなどに使われます。clear with は「相手を伴って事前に了承を取る」イメージで許可取得を表し、clear of は「対象から疑いという曇りを取り除く」イメージで容疑を晴らすことを表します。`,previewPairs:[`clear up vs clear out（解消する・片付ける／空にする・立ち去る）`,`clear off vs clear away（立ち去る／片付けて空間を作る）`,`clear with vs clear of（許可を得る／容疑を晴らす）`]},{id:`drop`,verb:`drop`,title:`drop は前置詞でどう意味が変わる？`,description:`drop の中心イメージ「ぽとりと落とす」が、続く前置詞・副詞でどう枝分かれするかをまとめたハブページ。`,content:`## drop の中心イメージ
 
 drop は「（物を）ぽとりと落とす」が核となる意味です。物理的な落下から、立ち寄り・脱落・降車という比喩に広がり、続く前置詞・副詞が「どこへ、どんな形で落とすか」を決めます。
 
@@ -10043,8 +10169,10 @@ head は「（先頭に立って、あるいは頭を向けて）進む」が核
 | head for | for（目的地を目指して進む） | 〜に向かって進む／（悪い結末に）近づいている |
 | head up | up（組織の先頭に立つ） | （部門・組織を）率いる |
 | head out | out（その場を出て向かう） | 出発する（口語） |
+| head back | back（出発点という過去の位置へ戻る） | 引き返す・戻る |
+| head down | down（地図・グラフの下方向へ進む） | 南へ向かう・値下がりする |
 
-head off の1つ目の意味は「望ましくない事態が起きる前に、進む先を逸らして防ぐ」ことで、head for は「目的地や結末に向かってまっすぐ進む」ことを表し、良い意味にも悪い結末（危機・災難）にも使われます。head up は「組織の先頭に立って率いる」イメージから部門長やチームリーダーの役割を表し、head out は head off の「出発する」の意味と重なる、より口語的な言い方です。`,previewPairs:[`head off vs head for（未然に防ぐ・出発する／向かって進む・近づく）`,`head up vs head out（率いる／出発する）`]},{id:`pull`,verb:`pull`,title:`pull は前置詞でどう意味が変わる？`,description:`pull の中心イメージ「引っ張る」が、続く前置詞・副詞でどう枝分かれするかをまとめたハブページ。`,content:`## pull の中心イメージ
+head off の1つ目の意味は「望ましくない事態が起きる前に、進む先を逸らして防ぐ」ことで、head for は「目的地や結末に向かってまっすぐ進む」ことを表し、良い意味にも悪い結末（危機・災難）にも使われます。head up は「組織の先頭に立って率いる」イメージから部門長やチームリーダーの役割を表し、head out は head off の「出発する」の意味と重なる、より口語的な言い方です。head back は「出発点という過去の位置へ戻る」イメージで帰路を表し、head down は「地図・グラフの下方向へ進む」イメージで南下や値下がりを表します。`,previewPairs:[`head off vs head for（未然に防ぐ・出発する／向かって進む・近づく）`,`head up vs head out（率いる／出発する）`,`head back vs head down（引き返す／南へ向かう・値下がりする）`]},{id:`pull`,verb:`pull`,title:`pull は前置詞でどう意味が変わる？`,description:`pull の中心イメージ「引っ張る」が、続く前置詞・副詞でどう枝分かれするかをまとめたハブページ。`,content:`## pull の中心イメージ
 
 pull は「（力を加えて）引っ張る」が核となる意味です。物理的に引く動作から、回復・達成・離脱・停止という比喩に広がり、続く前置詞・副詞が「どちらの方向に、何を引くか」を決めます。
 
