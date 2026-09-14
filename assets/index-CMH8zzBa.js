@@ -8088,7 +8088,37 @@ off は「静止状態が切り替わって作動する」イメージ、under �
 
 ⚠️ \`The fire alarm went under during the drill.\`（誤）。避難訓練でアラームが鳴ったなら go **off**。go under は沈む・倒産する意味なので、アラームには使いません。
 
-🎯 覚え方：**off＝静止状態から突然作動する（爆発する・鳴る・腐る）**、**under＝基準の下へ沈み込む（沈没する・倒産する）**。`,keyPoints:[`go off＝爆弾や銃が爆発する、アラームが鳴る、食べ物が腐る（多義語なので文脈判断が必要）`,`go under＝船が沈む、会社が倒産する`,`off は静止状態から突然作動するイメージ、under は基準の下へ沈み込むイメージ`,`倒産は go under、アラームが鳴るのは go off（混同しやすいので要注意）`],quiz:[{id:`q-goundr-1`,question:`空所に入る適切な語はどれですか。「The fire alarm suddenly went ( ) in the middle of the night.」`,options:[`under`,`off`,`through`,`down`],correctAnswer:1,explanation:`アラームが鳴るという意味なので go off。`},{id:`q-goundr-2`,question:`空所に入る適切な語はどれですか。「Many small businesses went ( ) during the economic crisis.」`,options:[`off`,`under`,`over`,`without`],correctAnswer:1,explanation:`会社が倒産するという意味なので go under。`},{id:`q-goundr-3`,question:`go off の意味として適切でないものはどれですか。`,options:[`爆発する`,`(食べ物が)腐る`,`倒産する`,`アラームが鳴る`],correctAnswer:2,explanation:`倒産するのは go under の意味です。`},{id:`q-goundr-4`,question:`「この牛乳は腐っている」を最も自然に表す文はどれですか。`,options:[`This milk has gone under.`,`This milk has gone off.`,`This milk has gone through.`,`This milk has gone without.`],correctAnswer:1,explanation:`食べ物が腐るという意味では go off が使われます。`},{id:`q-goundr-5`,question:`go off と go under のイメージの違いとして正しい説明はどれですか。`,options:[`両方とも同じ方向のイメージ`,`off は静止状態から突然作動する、under は基準の下へ沈み込む`,`off は基準の下へ沈み込む、under は突然作動する`,`イメージの違いとは無関係`],correctAnswer:1,explanation:`off（突然の作動・変化）と under（下方向への沈み込み）は方向性が異なります。`}]},{id:`keep-up-with-keep-off`,title:`keep up with と keep off`,chapter:5,hubId:`keep`,description:`keep up with は「〜に遅れずについていく」、keep off は「〜を避ける・近づけない」。並走し続けるか、距離を保つかの違いです。`,content:`## 並走し続けるか、距離を保つか
+🎯 覚え方：**off＝静止状態から突然作動する（爆発する・鳴る・腐る）**、**under＝基準の下へ沈み込む（沈没する・倒産する）**。`,keyPoints:[`go off＝爆弾や銃が爆発する、アラームが鳴る、食べ物が腐る（多義語なので文脈判断が必要）`,`go under＝船が沈む、会社が倒産する`,`off は静止状態から突然作動するイメージ、under は基準の下へ沈み込むイメージ`,`倒産は go under、アラームが鳴るのは go off（混同しやすいので要注意）`],quiz:[{id:`q-goundr-1`,question:`空所に入る適切な語はどれですか。「The fire alarm suddenly went ( ) in the middle of the night.」`,options:[`under`,`off`,`through`,`down`],correctAnswer:1,explanation:`アラームが鳴るという意味なので go off。`},{id:`q-goundr-2`,question:`空所に入る適切な語はどれですか。「Many small businesses went ( ) during the economic crisis.」`,options:[`off`,`under`,`over`,`without`],correctAnswer:1,explanation:`会社が倒産するという意味なので go under。`},{id:`q-goundr-3`,question:`go off の意味として適切でないものはどれですか。`,options:[`爆発する`,`(食べ物が)腐る`,`倒産する`,`アラームが鳴る`],correctAnswer:2,explanation:`倒産するのは go under の意味です。`},{id:`q-goundr-4`,question:`「この牛乳は腐っている」を最も自然に表す文はどれですか。`,options:[`This milk has gone under.`,`This milk has gone off.`,`This milk has gone through.`,`This milk has gone without.`],correctAnswer:1,explanation:`食べ物が腐るという意味では go off が使われます。`},{id:`q-goundr-5`,question:`go off と go under のイメージの違いとして正しい説明はどれですか。`,options:[`両方とも同じ方向のイメージ`,`off は静止状態から突然作動する、under は基準の下へ沈み込む`,`off は基準の下へ沈み込む、under は突然作動する`,`イメージの違いとは無関係`],correctAnswer:1,explanation:`off（突然の作動・変化）と under（下方向への沈み込み）は方向性が異なります。`}]},{id:`go-along-with-go-back-on`,title:`go along with と go back on`,chapter:5,hubId:`go`,description:`同じ go でも along with は「相手の案に同調する」、back on は「約束を破る」。同じ方向へ進むか、来た道を戻って裏切るかの違いです。`,content:`## 同じ方向へ進むのか、来た道を戻って裏切るのか
+
+go along with と go back on はどちらも「合意」に関わる熟語ですが、時系列上の向きが逆です。
+
+- **go along with** … 相手の考えや計画に**同調する・従う**。
+- **go back on** … 一度した約束を**破る・反故にする**。
+
+| 熟語 | 中心の意味 | 典型的な目的語 |
+| --- | --- | --- |
+| go along **with** | 同調する・従う | a plan, someone's suggestion |
+| go back **on** | 約束を破る | one's word, a promise, a decision |
+
+### go along with の使い分け
+
+go along with は「相手が提案したことに、積極的でなくても賛成して受け入れる」という意味で、"Kate's already agreed, but it's going to be harder persuading Mike to go along with it." のように使われます。「同じ方向へ一緒に進む」というイメージがそのまま同調・協力の意味になっています。
+
+### go back on の使い分け
+
+go back on something は「一度取り決めた約束や決定を、あとになって破る」という意味で、"She's gone back on her word and decided not to give me the job after all." のように、信頼を裏切る場面で使われます。go back on one's word（約束を破る）が定型表現です。
+
+### なぜ直訳で読み解けないか
+
+along with は「相手と同じ道を並んで一緒に進む」イメージ、back on は「一度進んだ道を後戻りして、そこに置いてきたはずの約束を踏みにじる」イメージを運びます。go along with は「相手の方向性に自分を合わせて進む」、go back on は「自分が交わした約束のところまで引き返して破棄する」という、同調と裏切りという正反対の意味がこの方向の違いから生まれています。
+
+### よくある誤用
+
+⚠️ \`He decided to go back on the group's decision, even though he had doubts.\`（誤・意図不明瞭）。渋々ながら同調したなら go along **with** the group's decision。go back on は約束を破る意味なので、同調には使いません。
+
+⚠️ \`She went along with her promise to help us.\`（誤）。約束を破ったなら went back **on** her promise。go along with は同調する意味なので、約束の破棄には使えません。
+
+🎯 覚え方：**along with＝相手と同じ道を並んで進む（同調する）**、**back on＝来た道を戻って約束を踏みにじる（破る）**。`,keyPoints:[`go along with＝乗り気でなくても相手の考えや計画に同調する・従う`,`go back on＝一度した約束や決定を後になって破る（go back on your word が定型）`,`along with は相手と同じ方向へ進むイメージ、back on は来た道を戻って約束を破棄するイメージ`,`渋々の同調は go along with、約束の反故は go back on（正反対の意味）`],quiz:[{id:`q-goalongback-1`,question:`空所に入る適切な語はどれですか。「Although he had doubts, he decided to go ( ) with the plan.」`,options:[`back on`,`along`,`off`,`under`],correctAnswer:1,explanation:`渋々ながら同調するという意味なので go along with。`},{id:`q-goalongback-2`,question:`空所に入る適切な語はどれですか。「The company went ( ) on its promise to keep all employees.」`,options:[`along`,`back`,`off`,`through`],correctAnswer:1,explanation:`約束を破るという意味なので go back on。`},{id:`q-goalongback-3`,question:`go along with の意味として最も適切なものはどれですか。`,options:[`約束を破る`,`相手の考えに同調する・従う`,`突然始める`,`倒産する`],correctAnswer:1,explanation:`go along with は同調・協力を表します。`},{id:`q-goalongback-4`,question:`「彼女は約束を破り、結局仕事を与えなかった」を最も自然に表す文はどれですか。`,options:[`She went along with her word and decided not to give me the job.`,`She went back on her word and decided not to give me the job.`,`She went off her word and decided not to give me the job.`,`She went under her word and decided not to give me the job.`],correctAnswer:1,explanation:`約束を破るという意味では go back on が使われます。`},{id:`q-goalongback-5`,question:`go along with と go back on の違いとして正しい説明はどれですか。`,options:[`両方とも同じ意味で置き換え可能`,`go along with は同調する、go back on は約束を破る`,`go along with は約束を破る、go back on は同調する`,`意味の違いとは無関係`],correctAnswer:1,explanation:`同調が go along with、破棄が go back on です。`}]},{id:`keep-up-with-keep-off`,title:`keep up with と keep off`,chapter:5,hubId:`keep`,description:`keep up with は「〜に遅れずについていく」、keep off は「〜を避ける・近づけない」。並走し続けるか、距離を保つかの違いです。`,content:`## 並走し続けるか、距離を保つか
 
 keep up with と keep off はどちらも「keep＋前置詞」ですが、up with の「同じ高さで並ぶ」イメージと off の「接触せず離れる」イメージで、対象との関わり方が正反対です。
 
@@ -8180,7 +8210,37 @@ back は「本来出てくるはずのものを後ろに留め置く」イメー
 
 ⚠️ \`I suspect she's keeping something down about the accident.\`（誤）。情報を隠しているなら keep **back**。keep down は数量や声を低く保つ意味なので、情報の秘匿には使えません。
 
-🎯 覚え方：**back＝手元に留めて先に出さない（隠す・近づけない）**、**down＝低い水準に押さえ込む（増加を抑える・声を低くする）**。`,keyPoints:[`keep back＝知っている情報の一部を隠す、人や水を一定の場所より近づけない`,`keep down＝費用・物価などの増加を抑える、声を低く保つ、食べた物を吐かずにいる`,`back は手元に留めて先に出さないイメージ、down は低い水準に押さえ込むイメージ`,`費用の抑制は keep down、情報の秘匿は keep back（混同しやすいので要注意）`],quiz:[{id:`q-keepback-1`,question:`空所に入る適切な語はどれですか。「I think he is keeping something ( ) about what really happened.」`,options:[`down`,`back`,`off`,`up`],correctAnswer:1,explanation:`情報を隠しているという意味なので keep back。`},{id:`q-keepback-2`,question:`空所に入る適切な語はどれですか。「The company is working hard to keep its prices ( ).」`,options:[`back`,`down`,`off`,`to`],correctAnswer:1,explanation:`価格の上昇を抑えるという意味なので keep down。`},{id:`q-keepback-3`,question:`keep back の意味として最も適切なものはどれですか。`,options:[`費用の増加を抑える`,`情報を隠す・人を近づけない`,`声を低く保つ`,`食べ物を吐かずにいる`],correctAnswer:1,explanation:`keep back は情報を隠す、人や水を近づけないという意味です。`},{id:`q-keepback-4`,question:`「静かにして。声を落として」を最も自然に表す文はどれですか。`,options:[`Please keep your voice back.`,`Please keep your voice down.`,`Please keep your voice off.`,`Please keep your voice up.`],correctAnswer:1,explanation:`声を低く保つという意味では keep down が使われます。`},{id:`q-keepback-5`,question:`keep back と keep down の違いとして正しい説明はどれですか。`,options:[`両方とも同じ意味で置き換え可能`,`keep back は情報や人を手元に留める、keep down は数値や声を低く抑える`,`keep back は数値を低く抑える、keep down は情報を隠す`,`意味の違いとは無関係`],correctAnswer:1,explanation:`手元に留めるのが keep back、低い水準に押さえるのが keep down です。`}]},{id:`draw-on-draw-up`,title:`draw on と draw up`,chapter:5,hubId:`draw`,description:`draw on は「（知識・経験・資金）を利用する」、draw up は「（契約書等）を作成する・停車する」。資質を引き出すか、組み上げて完成させるかの違いです。`,content:`## 資質を引き出すか、組み上げるか
+🎯 覚え方：**back＝手元に留めて先に出さない（隠す・近づけない）**、**down＝低い水準に押さえ込む（増加を抑える・声を低くする）**。`,keyPoints:[`keep back＝知っている情報の一部を隠す、人や水を一定の場所より近づけない`,`keep down＝費用・物価などの増加を抑える、声を低く保つ、食べた物を吐かずにいる`,`back は手元に留めて先に出さないイメージ、down は低い水準に押さえ込むイメージ`,`費用の抑制は keep down、情報の秘匿は keep back（混同しやすいので要注意）`],quiz:[{id:`q-keepback-1`,question:`空所に入る適切な語はどれですか。「I think he is keeping something ( ) about what really happened.」`,options:[`down`,`back`,`off`,`up`],correctAnswer:1,explanation:`情報を隠しているという意味なので keep back。`},{id:`q-keepback-2`,question:`空所に入る適切な語はどれですか。「The company is working hard to keep its prices ( ).」`,options:[`back`,`down`,`off`,`to`],correctAnswer:1,explanation:`価格の上昇を抑えるという意味なので keep down。`},{id:`q-keepback-3`,question:`keep back の意味として最も適切なものはどれですか。`,options:[`費用の増加を抑える`,`情報を隠す・人を近づけない`,`声を低く保つ`,`食べ物を吐かずにいる`],correctAnswer:1,explanation:`keep back は情報を隠す、人や水を近づけないという意味です。`},{id:`q-keepback-4`,question:`「静かにして。声を落として」を最も自然に表す文はどれですか。`,options:[`Please keep your voice back.`,`Please keep your voice down.`,`Please keep your voice off.`,`Please keep your voice up.`],correctAnswer:1,explanation:`声を低く保つという意味では keep down が使われます。`},{id:`q-keepback-5`,question:`keep back と keep down の違いとして正しい説明はどれですか。`,options:[`両方とも同じ意味で置き換え可能`,`keep back は情報や人を手元に留める、keep down は数値や声を低く抑える`,`keep back は数値を低く抑える、keep down は情報を隠す`,`意味の違いとは無関係`],correctAnswer:1,explanation:`手元に留めるのが keep back、低い水準に押さえるのが keep down です。`}]},{id:`keep-from-keep-up`,title:`keep from と keep up`,chapter:5,hubId:`keep`,description:`同じ keep でも from は「〜させない・自制する」、up（with無し）は「良い状態を保つ」。行動を抑え込むか、水準を維持するかの違いです。`,content:`## 行動を抑え込むのか、良い水準を保つのか
+
+keep from と keep up（with を伴わない単独の形）はどちらも「保つ」という keep の核から来ていますが、保つ対象が異なります。
+
+- **keep ... from ...** … 人や自分自身が、ある行動を**しないよう抑える**。
+- **keep ... up**（目的語のみ・比較対象なし） … 良い状態・水準を**維持し続ける**。
+
+| 熟語 | 中心の意味 | 典型的な文脈 |
+| --- | --- | --- |
+| keep ... from ... | 〜させない・〜するのを自制する | keep the children from making noise |
+| keep ... up（withなし） | 良い状態・勢いを維持する | Keep up the good work! |
+
+### keep from の使い分け
+
+keep from は「自分自身、または他人が、ある行動をしてしまうのを抑える」という意味で、"I couldn't keep from laughing." （笑いをこらえられなかった）のように、否定的な文脈（can't keep from doing）でよく使われます。他動詞的に「子どもが騒ぐのを抑える」（keep the children from making noise）という使い方もあります。
+
+### keep up の使い分け（with を伴わない）
+
+keep up は、比較対象を示す with を伴わずに単独で使うと、「今すでに良い・強い状態にあるものを、そのレベルのまま保ち続ける」という意味になります。"Keep up the good work!"（その調子で頑張って！）という励ましの定型表現が代表例です。既存の keep up with（〜に遅れずについていく）とは異なり、比較する相手を必要としません。
+
+### なぜ直訳で読み解けないか
+
+from は「望ましくない行動から距離を保って離れさせる」イメージ、up（withなし）は「今の高い水準をそのまま支え続ける」イメージを運びます。keep from は「行動をその手前で食い止める」、keep up（単独）は「既にある良い状態を落とさず支え続ける」という、抑制と維持という異なる対象への働きかけが意味の違いになっています。
+
+### よくある誤用
+
+⚠️ \`Keep up the noise from the children!\`（誤・意図不明瞭）。子どもの騒ぎを抑えたいなら keep the children **from** making noise。keep up は良い状態を保つ意味なので、望ましくない行動の抑制には使いません。
+
+⚠️ \`I couldn't keep up laughing.\`（誤・意図不明瞭）。笑いをこらえられなかったなら couldn't keep **from** laughing。keep up（withなし）は良い状態の維持を表すので、感情の抑制には使えません。
+
+🎯 覚え方：**from＝望ましくない行動を手前で食い止める（自制する）**、**up（withなし）＝既にある良い状態を支え続ける（その調子を保つ）**。`,keyPoints:[`keep ... from ...＝自分や他人がある行動をしてしまうのを抑える（cannot keep from doing が頻出）`,`keep ... up（withなし）＝既に良い状態にあるものをそのまま維持する（Keep up the good work! が定型）`,`from は望ましくない行動を手前で食い止めるイメージ、up は良い状態を支え続けるイメージ`,`keep up with（既存・遅れずについていく）とは異なり、単独の keep up は比較相手を必要としない`],quiz:[{id:`q-keepfromup-1`,question:`空所に入る適切な語はどれですか。「I could not keep ( ) laughing when he told the joke.」`,options:[`up`,`from`,`off`,`back`],correctAnswer:1,explanation:`笑いをこらえられなかったという意味なので keep from。`},{id:`q-keepfromup-2`,question:`空所に入る適切な語はどれですか。「Your presentation was excellent — keep ( ) the good work!」`,options:[`from`,`up`,`off`,`back`],correctAnswer:1,explanation:`良い調子を保ってほしいという意味なので keep up。`},{id:`q-keepfromup-3`,question:`keep ... from ... の意味として最も適切なものはどれですか。`,options:[`良い状態を維持する`,`行動をしないよう抑える`,`遅れずについていく`,`低い水準に抑える`],correctAnswer:1,explanation:`keep from は望ましくない行動を抑える意味です。`},{id:`q-keepfromup-4`,question:`「先生は子どもたちが騒ぐのを抑えようとした」を最も自然に表す文はどれですか。`,options:[`The teacher tried to keep up the children making noise.`,`The teacher tried to keep the children from making noise.`,`The teacher tried to keep the children back making noise.`,`The teacher tried to keep off the children making noise.`],correctAnswer:1,explanation:`行動を抑えるという意味では keep ... from ... が使われます。`},{id:`q-keepfromup-5`,question:`keep from と（withを伴わない）keep up の違いとして正しい説明はどれですか。`,options:[`両方とも同じ意味で置き換え可能`,`keep from は望ましくない行動を抑える、keep up は良い状態を維持する`,`keep from は良い状態を維持する、keep up は行動を抑える`,`意味の違いとは無関係`],correctAnswer:1,explanation:`行動の抑制が keep from、状態の維持が keep up です。`}]},{id:`draw-on-draw-up`,title:`draw on と draw up`,chapter:5,hubId:`draw`,description:`draw on は「（知識・経験・資金）を利用する」、draw up は「（契約書等）を作成する・停車する」。資質を引き出すか、組み上げて完成させるかの違いです。`,content:`## 資質を引き出すか、組み上げるか
 
 draw on と draw up はどちらも「引く」の比喩ですが、on の「対象に乗って引き出す」イメージと up の「引っ張り上げて組み上げる」イメージで、対象と結果がまったく異なります。
 
@@ -9965,8 +10025,10 @@ go は「（その場から）離れて進む」が核となる意味です。�
 | go for | for（目標に向かって進む） | 〜を取りに行く／〜が好み／〜に挑む |
 | go off | off（静止状態から突然作動する） | 爆発する・鳴る・（食べ物が）腐る |
 | go under | under（基準の下へ沈み込む） | 沈む・倒産する |
+| go along with | along with（相手と同じ道を並んで進む） | 同調する・従う |
+| go back on | back on（来た道を戻って約束を破棄する） | 約束を破る |
 
-go over は「対象の表面を一通りなぞって見渡す」イメージで、資料の見直しや説明の反復に使われます。go through は「入口から出口まで通り抜ける」イメージで、つらい経験を通り抜けることにも、法案などの手続きが成立することにも使われます。go without は「あるべきものが無いまま前進する」イメージで欠乏への耐性を表し、go for は「目標に向かって突き進む」イメージから、物を取りに行く・好みである・挑戦するという意味に広がります。go off は「静止状態から突然作動する」イメージで爆発・アラーム・食べ物の劣化を表し、go under は「基準の下へ沈み込む」イメージで沈没・倒産を表します。`,previewPairs:[`go over vs go through（見直す・復習する／つらい経験をする・手続きが通る）`,`go without vs go for（なしで済ませる／取りに行く・好み・挑む）`,`go off vs go under（爆発する・鳴る・腐る／沈む・倒産する）`]},{id:`keep`,verb:`keep`,title:`keep は前置詞でどう意味が変わる？`,description:`keep の中心イメージ「（ある状態を）保ち続ける」が、続く前置詞・副詞でどう枝分かれするかをまとめたハブページ。`,content:`## keep の中心イメージ
+go over は「対象の表面を一通りなぞって見渡す」イメージで、資料の見直しや説明の反復に使われます。go through は「入口から出口まで通り抜ける」イメージで、つらい経験を通り抜けることにも、法案などの手続きが成立することにも使われます。go without は「あるべきものが無いまま前進する」イメージで欠乏への耐性を表し、go for は「目標に向かって突き進む」イメージから、物を取りに行く・好みである・挑戦するという意味に広がります。go off は「静止状態から突然作動する」イメージで爆発・アラーム・食べ物の劣化を表し、go under は「基準の下へ沈み込む」イメージで沈没・倒産を表します。go along with は「相手と同じ道を並んで進む」イメージで同調・協力を表し、go back on は「来た道を戻って約束を踏みにじる」イメージで約束の破棄を表します。`,previewPairs:[`go over vs go through（見直す・復習する／つらい経験をする・手続きが通る）`,`go without vs go for（なしで済ませる／取りに行く・好み・挑む）`,`go off vs go under（爆発する・鳴る・腐る／沈む・倒産する）`,`go along with vs go back on（同調する／約束を破る）`]},{id:`keep`,verb:`keep`,title:`keep は前置詞でどう意味が変わる？`,description:`keep の中心イメージ「（ある状態を）保ち続ける」が、続く前置詞・副詞でどう枝分かれするかをまとめたハブページ。`,content:`## keep の中心イメージ
 
 keep は「（状態や動作を）保ち続ける」が核となる意味です。継続の意味から、並走・回避・遵守という比喩に広がり、続く前置詞・副詞が「何と、どんな関係を保ち続けるか」を決めます。
 
@@ -9978,8 +10040,10 @@ keep は「（状態や動作を）保ち続ける」が核となる意味です
 | keep to | to（対象の枠内に留まる） | （道・話題・約束）から外れない |
 | keep back | back（手元に留めて先に出さない） | 情報を隠す・人や水を近づけない |
 | keep down | down（低い水準に押さえ込む） | 増加を抑える・声を低く保つ |
+| keep ... from ... | from（望ましくない行動を手前で食い止める） | 〜させない・自制する |
+| keep ... up（withなし） | up（良い状態を支え続ける） | 良い状態・勢いを維持する |
 
-keep up with は「相手と同じ高さで並走し続ける」イメージで、流行や進度に遅れずついていく場面に使われます。keep off は「対象に接触せず距離を保つ」イメージで、食べ物を控えることにも、話題を避けることにも、人や動物を近づけないことにも使われます。keep on は「同じ動作をそのまま持続する」イメージで単純な継続を表し、keep to は「決められた枠の中に留まり続ける」イメージから、道を外れない・約束を守るという意味に広がります。keep back は「情報や人を手元に留めて先に出さない」イメージで秘匿や距離の確保を表し、keep down は「低い水準に押さえ込む」イメージで費用の抑制や声の抑制を表します。`,previewPairs:[`keep up with vs keep off（遅れずについていく／避ける・近づけない）`,`keep on vs keep to（続ける／外れない・守る）`,`keep back vs keep down（隠す・近づけない／増加を抑える・声を低くする）`]},{id:`draw`,verb:`draw`,title:`draw は前置詞でどう意味が変わる？`,description:`draw の中心イメージ「引っ張り出す」が、続く前置詞・副詞でどう枝分かれするかをまとめたハブページ。`,content:`## draw の中心イメージ
+keep up with は「相手と同じ高さで並走し続ける」イメージで、流行や進度に遅れずついていく場面に使われます。keep off は「対象に接触せず距離を保つ」イメージで、食べ物を控えることにも、話題を避けることにも、人や動物を近づけないことにも使われます。keep on は「同じ動作をそのまま持続する」イメージで単純な継続を表し、keep to は「決められた枠の中に留まり続ける」イメージから、道を外れない・約束を守るという意味に広がります。keep back は「情報や人を手元に留めて先に出さない」イメージで秘匿や距離の確保を表し、keep down は「低い水準に押さえ込む」イメージで費用の抑制や声の抑制を表します。keep from は「望ましくない行動を手前で食い止める」イメージで自制を表し、keep up（withなし）は「良い状態を支え続ける」イメージで維持を表します。`,previewPairs:[`keep up with vs keep off（遅れずについていく／避ける・近づけない）`,`keep on vs keep to（続ける／外れない・守る）`,`keep back vs keep down（隠す・近づけない／増加を抑える・声を低くする）`,`keep from vs keep up（自制する／良い状態を保つ）`]},{id:`draw`,verb:`draw`,title:`draw は前置詞でどう意味が変わる？`,description:`draw の中心イメージ「引っ張り出す」が、続く前置詞・副詞でどう枝分かれするかをまとめたハブページ。`,content:`## draw の中心イメージ
 
 draw は「（力を加えて）引く・引っ張り出す」が核となる意味です。物理的に引く動作から、資源の活用・書類の作成・感情の反応という比喩に広がり、続く前置詞・副詞が「何を、どちらの向きに引くか」を決めます。
 
