@@ -24127,6 +24127,92 @@ off は「静止状態が切り替わって作動する」イメージ、under �
     ],
   },
   {
+    id: 'go-along-with-go-back-on',
+    title: 'go along with と go back on',
+    chapter: 5,
+    hubId: 'go',
+    description: '同じ go でも along with は「相手の案に同調する」、back on は「約束を破る」。同じ方向へ進むか、来た道を戻って裏切るかの違いです。',
+    content: `## 同じ方向へ進むのか、来た道を戻って裏切るのか
+
+go along with と go back on はどちらも「合意」に関わる熟語ですが、時系列上の向きが逆です。
+
+- **go along with** … 相手の考えや計画に**同調する・従う**。
+- **go back on** … 一度した約束を**破る・反故にする**。
+
+| 熟語 | 中心の意味 | 典型的な目的語 |
+| --- | --- | --- |
+| go along **with** | 同調する・従う | a plan, someone's suggestion |
+| go back **on** | 約束を破る | one's word, a promise, a decision |
+
+### go along with の使い分け
+
+go along with は「相手が提案したことに、積極的でなくても賛成して受け入れる」という意味で、"Kate's already agreed, but it's going to be harder persuading Mike to go along with it." のように使われます。「同じ方向へ一緒に進む」というイメージがそのまま同調・協力の意味になっています。
+
+### go back on の使い分け
+
+go back on something は「一度取り決めた約束や決定を、あとになって破る」という意味で、"She's gone back on her word and decided not to give me the job after all." のように、信頼を裏切る場面で使われます。go back on one's word（約束を破る）が定型表現です。
+
+### なぜ直訳で読み解けないか
+
+along with は「相手と同じ道を並んで一緒に進む」イメージ、back on は「一度進んだ道を後戻りして、そこに置いてきたはずの約束を踏みにじる」イメージを運びます。go along with は「相手の方向性に自分を合わせて進む」、go back on は「自分が交わした約束のところまで引き返して破棄する」という、同調と裏切りという正反対の意味がこの方向の違いから生まれています。
+
+### よくある誤用
+
+⚠️ \`He decided to go back on the group's decision, even though he had doubts.\`（誤・意図不明瞭）。渋々ながら同調したなら go along **with** the group's decision。go back on は約束を破る意味なので、同調には使いません。
+
+⚠️ \`She went along with her promise to help us.\`（誤）。約束を破ったなら went back **on** her promise。go along with は同調する意味なので、約束の破棄には使えません。
+
+🎯 覚え方：**along with＝相手と同じ道を並んで進む（同調する）**、**back on＝来た道を戻って約束を踏みにじる（破る）**。`,
+    keyPoints: [
+      'go along with＝乗り気でなくても相手の考えや計画に同調する・従う',
+      'go back on＝一度した約束や決定を後になって破る（go back on your word が定型）',
+      'along with は相手と同じ方向へ進むイメージ、back on は来た道を戻って約束を破棄するイメージ',
+      '渋々の同調は go along with、約束の反故は go back on（正反対の意味）',
+    ],
+    quiz: [
+      {
+        id: 'q-goalongback-1',
+        question: '空所に入る適切な語はどれですか。「Although he had doubts, he decided to go ( ) with the plan.」',
+        options: ['back on', 'along', 'off', 'under'],
+        correctAnswer: 1,
+        explanation: '渋々ながら同調するという意味なので go along with。',
+      },
+      {
+        id: 'q-goalongback-2',
+        question: '空所に入る適切な語はどれですか。「The company went ( ) on its promise to keep all employees.」',
+        options: ['along', 'back', 'off', 'through'],
+        correctAnswer: 1,
+        explanation: '約束を破るという意味なので go back on。',
+      },
+      {
+        id: 'q-goalongback-3',
+        question: 'go along with の意味として最も適切なものはどれですか。',
+        options: ['約束を破る', '相手の考えに同調する・従う', '突然始める', '倒産する'],
+        correctAnswer: 1,
+        explanation: 'go along with は同調・協力を表します。',
+      },
+      {
+        id: 'q-goalongback-4',
+        question: '「彼女は約束を破り、結局仕事を与えなかった」を最も自然に表す文はどれですか。',
+        options: ['She went along with her word and decided not to give me the job.', 'She went back on her word and decided not to give me the job.', 'She went off her word and decided not to give me the job.', 'She went under her word and decided not to give me the job.'],
+        correctAnswer: 1,
+        explanation: '約束を破るという意味では go back on が使われます。',
+      },
+      {
+        id: 'q-goalongback-5',
+        question: 'go along with と go back on の違いとして正しい説明はどれですか。',
+        options: [
+          '両方とも同じ意味で置き換え可能',
+          'go along with は同調する、go back on は約束を破る',
+          'go along with は約束を破る、go back on は同調する',
+          '意味の違いとは無関係',
+        ],
+        correctAnswer: 1,
+        explanation: '同調が go along with、破棄が go back on です。',
+      },
+    ],
+  },
+  {
     id: 'keep-up-with-keep-off',
     title: 'keep up with と keep off',
     chapter: 5,
@@ -24383,6 +24469,92 @@ back は「本来出てくるはずのものを後ろに留め置く」イメー
         ],
         correctAnswer: 1,
         explanation: '手元に留めるのが keep back、低い水準に押さえるのが keep down です。',
+      },
+    ],
+  },
+  {
+    id: 'keep-from-keep-up',
+    title: 'keep from と keep up',
+    chapter: 5,
+    hubId: 'keep',
+    description: '同じ keep でも from は「〜させない・自制する」、up（with無し）は「良い状態を保つ」。行動を抑え込むか、水準を維持するかの違いです。',
+    content: `## 行動を抑え込むのか、良い水準を保つのか
+
+keep from と keep up（with を伴わない単独の形）はどちらも「保つ」という keep の核から来ていますが、保つ対象が異なります。
+
+- **keep ... from ...** … 人や自分自身が、ある行動を**しないよう抑える**。
+- **keep ... up**（目的語のみ・比較対象なし） … 良い状態・水準を**維持し続ける**。
+
+| 熟語 | 中心の意味 | 典型的な文脈 |
+| --- | --- | --- |
+| keep ... from ... | 〜させない・〜するのを自制する | keep the children from making noise |
+| keep ... up（withなし） | 良い状態・勢いを維持する | Keep up the good work! |
+
+### keep from の使い分け
+
+keep from は「自分自身、または他人が、ある行動をしてしまうのを抑える」という意味で、"I couldn't keep from laughing." （笑いをこらえられなかった）のように、否定的な文脈（can't keep from doing）でよく使われます。他動詞的に「子どもが騒ぐのを抑える」（keep the children from making noise）という使い方もあります。
+
+### keep up の使い分け（with を伴わない）
+
+keep up は、比較対象を示す with を伴わずに単独で使うと、「今すでに良い・強い状態にあるものを、そのレベルのまま保ち続ける」という意味になります。"Keep up the good work!"（その調子で頑張って！）という励ましの定型表現が代表例です。既存の keep up with（〜に遅れずについていく）とは異なり、比較する相手を必要としません。
+
+### なぜ直訳で読み解けないか
+
+from は「望ましくない行動から距離を保って離れさせる」イメージ、up（withなし）は「今の高い水準をそのまま支え続ける」イメージを運びます。keep from は「行動をその手前で食い止める」、keep up（単独）は「既にある良い状態を落とさず支え続ける」という、抑制と維持という異なる対象への働きかけが意味の違いになっています。
+
+### よくある誤用
+
+⚠️ \`Keep up the noise from the children!\`（誤・意図不明瞭）。子どもの騒ぎを抑えたいなら keep the children **from** making noise。keep up は良い状態を保つ意味なので、望ましくない行動の抑制には使いません。
+
+⚠️ \`I couldn't keep up laughing.\`（誤・意図不明瞭）。笑いをこらえられなかったなら couldn't keep **from** laughing。keep up（withなし）は良い状態の維持を表すので、感情の抑制には使えません。
+
+🎯 覚え方：**from＝望ましくない行動を手前で食い止める（自制する）**、**up（withなし）＝既にある良い状態を支え続ける（その調子を保つ）**。`,
+    keyPoints: [
+      'keep ... from ...＝自分や他人がある行動をしてしまうのを抑える（cannot keep from doing が頻出）',
+      'keep ... up（withなし）＝既に良い状態にあるものをそのまま維持する（Keep up the good work! が定型）',
+      'from は望ましくない行動を手前で食い止めるイメージ、up は良い状態を支え続けるイメージ',
+      'keep up with（既存・遅れずについていく）とは異なり、単独の keep up は比較相手を必要としない',
+    ],
+    quiz: [
+      {
+        id: 'q-keepfromup-1',
+        question: '空所に入る適切な語はどれですか。「I could not keep ( ) laughing when he told the joke.」',
+        options: ['up', 'from', 'off', 'back'],
+        correctAnswer: 1,
+        explanation: '笑いをこらえられなかったという意味なので keep from。',
+      },
+      {
+        id: 'q-keepfromup-2',
+        question: '空所に入る適切な語はどれですか。「Your presentation was excellent — keep ( ) the good work!」',
+        options: ['from', 'up', 'off', 'back'],
+        correctAnswer: 1,
+        explanation: '良い調子を保ってほしいという意味なので keep up。',
+      },
+      {
+        id: 'q-keepfromup-3',
+        question: 'keep ... from ... の意味として最も適切なものはどれですか。',
+        options: ['良い状態を維持する', '行動をしないよう抑える', '遅れずについていく', '低い水準に抑える'],
+        correctAnswer: 1,
+        explanation: 'keep from は望ましくない行動を抑える意味です。',
+      },
+      {
+        id: 'q-keepfromup-4',
+        question: '「先生は子どもたちが騒ぐのを抑えようとした」を最も自然に表す文はどれですか。',
+        options: ['The teacher tried to keep up the children making noise.', 'The teacher tried to keep the children from making noise.', 'The teacher tried to keep the children back making noise.', 'The teacher tried to keep off the children making noise.'],
+        correctAnswer: 1,
+        explanation: '行動を抑えるという意味では keep ... from ... が使われます。',
+      },
+      {
+        id: 'q-keepfromup-5',
+        question: 'keep from と（withを伴わない）keep up の違いとして正しい説明はどれですか。',
+        options: [
+          '両方とも同じ意味で置き換え可能',
+          'keep from は望ましくない行動を抑える、keep up は良い状態を維持する',
+          'keep from は良い状態を維持する、keep up は行動を抑える',
+          '意味の違いとは無関係',
+        ],
+        correctAnswer: 1,
+        explanation: '行動の抑制が keep from、状態の維持が keep up です。',
       },
     ],
   },
