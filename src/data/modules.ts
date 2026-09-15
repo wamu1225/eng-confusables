@@ -24819,6 +24819,92 @@ in は「内側へ入り込む・縮こまる」イメージで、日照時間�
     ],
   },
   {
+    id: 'draw-together-draw-level',
+    title: 'draw together と draw level',
+    chapter: 5,
+    hubId: 'draw',
+    description: '同じ draw でも together は「複数の人・要素を1つにまとめる」、level は「相手と同じ位置・得点に追いつく」。結びつけるか、追いつくかの違いです。',
+    content: `## 結びつけるのか、追いつくのか
+
+draw together と draw level はどちらも draw のあとに副詞・形容詞が続く形ですが、対象への働き方が異なります。
+
+- **draw together** … 人や情報を**1つにまとめる・結びつける**。
+- **draw level（with）** … 相手と**同じ位置・得点に追いつく**。
+
+| 熟語 | 中心の意味 | 典型的な目的語 |
+| --- | --- | --- |
+| draw together | 結びつける・まとめる | people, information |
+| draw level（with） | 追いつく・同点になる | a rival, the leader |
+
+### draw together の使い分け
+
+draw together は「バラバラだった人や情報を引き寄せて1つにまとめる」という意味で、"A shared grief drew the sisters together again." のように、共通の経験が人々の心を結びつける場面や、"The new project aims to draw together the information of millions of citizens." のように、散らばった情報を集約する場面で使われます。
+
+### draw level の使い分け
+
+draw level（with）は「競争相手に追いついて同じ位置・得点になる」という意味で、レースやスポーツの実況でよく使われます。"He needed to win the final stage in order to draw level with the leader in the standings." のように、それまで差があった相手との差を完全に無くすことを表します。
+
+### なぜ直訳で読み解けないか
+
+together は「複数のものを1点に引き寄せて1つにする」イメージ、level は「相手と同じ高さの位置まで引き上げる」イメージを運びます。draw together は「人や情報をまとめて結びつける」、draw level は「遅れていた自分を相手と同じ水準まで引き上げて並ぶ」という、結合と追いつきという異なる対象への働きかけが意味の違いになっています。
+
+### よくある誤用
+
+⚠️ \`The cyclist drew together with the leader in the final lap.\`（誤）。最終周に首位に追いついたなら drew **level** with the leader。draw together は人や情報を結びつける意味なので、順位への追いつきには使いません。
+
+⚠️ \`Shared grief drew the sisters level again.\`（誤）。悲しみが姉妹の心を結びつけたなら drew the sisters **together**。draw level は追いつく意味なので、心理的な結びつきには使えません。
+
+🎯 覚え方：**together＝複数のものを1点に引き寄せて結びつける（まとめる）**、**level＝相手と同じ高さまで引き上げて並ぶ（追いつく）**。`,
+    keyPoints: [
+      'draw together＝バラバラだった人や情報を引き寄せて1つにまとめる・結びつける',
+      'draw level（with）＝競争相手に追いついて同じ位置・得点になる',
+      'together は複数のものを結びつけるイメージ、level は相手と同じ高さまで引き上げるイメージ',
+      '心理的な結びつきは draw together、順位・得点の追いつきは draw level',
+    ],
+    quiz: [
+      {
+        id: 'q-drawtogetherlevel-1',
+        question: '空所に入る適切な語はどれですか。「A shared tragedy drew the whole community ( ).」',
+        options: ['level', 'together', 'near', 'up'],
+        correctAnswer: 1,
+        explanation: '人々の心を結びつけるという意味なので draw together。',
+      },
+      {
+        id: 'q-drawtogetherlevel-2',
+        question: '空所に入る適切な語はどれですか。「The runner needed a strong finish to draw ( ) with the leader.」',
+        options: ['together', 'level', 'near', 'out'],
+        correctAnswer: 1,
+        explanation: '首位に追いつくという意味なので draw level。',
+      },
+      {
+        id: 'q-drawtogetherlevel-3',
+        question: 'draw level with の意味として最も適切なものはどれですか。',
+        options: ['人々を結びつける', '相手に追いついて同じ得点になる', '情報を集約する', '日が短くなる'],
+        correctAnswer: 1,
+        explanation: 'draw level with は競争で追いつくことを表します。',
+      },
+      {
+        id: 'q-drawtogetherlevel-4',
+        question: '「その新プロジェクトは市民の情報を1つに集約することを目指す」を最も自然に表す文はどれですか。',
+        options: ['The new project aims to draw level the information of citizens.', 'The new project aims to draw together the information of citizens.', 'The new project aims to draw near the information of citizens.', 'The new project aims to draw out the information of citizens.'],
+        correctAnswer: 1,
+        explanation: '情報を集約するという意味では draw together が使われます。',
+      },
+      {
+        id: 'q-drawtogetherlevel-5',
+        question: 'draw together と draw level の違いとして正しい説明はどれですか。',
+        options: [
+          '両方とも同じ意味で置き換え可能',
+          'draw together は結びつける・まとめる、draw level は追いつく・同点になる',
+          'draw together は追いつく、draw level は結びつける',
+          '意味の違いとは無関係',
+        ],
+        correctAnswer: 1,
+        explanation: '結合が draw together、追いつきが draw level です。',
+      },
+    ],
+  },
+  {
     id: 'give-in-give-way-to',
     title: 'give in と give way to',
     chapter: 5,
@@ -25079,6 +25165,92 @@ off は「物の表面から立ち上るように発する」イメージ、out 
     ],
   },
   {
+    id: 'give-over-give-onto',
+    title: 'give over と give onto',
+    chapter: 5,
+    hubId: 'give',
+    description: '同じ give でも over は「（英口語で）迷惑な行為をやめる」、onto は「窓や扉がある場所に面している」。人に行動をやめさせるか、建物の向きを表すかの違いです。',
+    content: `## 行動をやめさせるのか、建物の向きを表すのか
+
+give over と give onto はどちらも give を使いますが、主語になるものが対照的です。
+
+- **give over** … 迷惑な行為を**やめる**（主にイギリス英語の口語・命令形）。
+- **give onto** … 窓や扉が**ある場所に面している・そこへ通じている**。
+
+| 熟語 | 中心の意味 | 典型的な主語 |
+| --- | --- | --- |
+| give over | （迷惑な行為を）やめる | a person（人が主語・命令形が多い） |
+| give onto | ある場所に面している | a door, a window（建物の構造が主語） |
+
+### give over の使い分け
+
+give over はイギリス英語の口語表現で、「うるさい・迷惑な行為をやめるよう相手に求める」という意味です。"Give over, Chris! You are hurting me." のように命令形で使われることが多く、"Give over complaining!"（文句を言うのはやめて！）のように動名詞を伴うこともあります。相手の発言を「そんなばかな」と受け流す間投詞としても使われます。
+
+### give onto の使い分け
+
+give onto something は「窓・扉・通路が、ある場所へ向けて開いている・面している」という意味で、"The patio doors give onto a small courtyard." のように、建物の構造を説明する場面で使われます。back onto（建物の裏側が面する）と似ていますが、give onto は主に「窓や扉が直接その場所へ通じている」ことに焦点があります。
+
+### なぜ直訳で読み解けないか
+
+over は「相手に行為を明け渡す＝やめさせる」というやや慣用的なイメージ、onto は「窓や扉の先が対象の上に接している」イメージを運びます。give over は「人に迷惑行為をやめるよう求める」口語表現、give onto は「建物の開口部が特定の場所へ通じている」という構造描写であり、主語が人か建物かという根本的な違いが意味の違いになっています。
+
+### よくある誤用
+
+⚠️ \`The kitchen window gives over the garden.\`（誤）。台所の窓が庭に面しているなら gives **onto** the garden。give over は人に行為をやめさせる意味なので、建物の構造描写には使いません。
+
+⚠️ \`Give onto complaining, please!\`（誤）。文句を言うのをやめてほしいなら Give **over** complaining!。give onto は建物の位置関係を表す表現なので、人への要求には使えません。
+
+🎯 覚え方：**over＝迷惑な行為を相手に明け渡す＝やめさせる（人が主語）**、**onto＝開口部の先が対象に接している（建物が主語）**。`,
+    keyPoints: [
+      'give over＝（英口語・命令形で）迷惑な行為をやめる（Give over complaining!）',
+      'give onto＝窓・扉・通路がある場所に面している・通じている（建物の構造描写）',
+      'give over は人への要求、give onto は建物の開口部の向きという主語の性質の違い',
+      '文句を言うのをやめさせるのは give over、窓が庭に面するのは give onto',
+    ],
+    quiz: [
+      {
+        id: 'q-giveoveronto-1',
+        question: '空所に入る適切な語はどれですか。「( ) complaining, Chris! It is not that bad.」',
+        options: ['Give onto', 'Give over', 'Give out', 'Give off'],
+        correctAnswer: 1,
+        explanation: '迷惑な行為をやめてほしいという意味なので give over。',
+      },
+      {
+        id: 'q-giveoveronto-2',
+        question: '空所に入る適切な語はどれですか。「The bedroom windows give ( ) a quiet street.」',
+        options: ['over', 'onto', 'off', 'out'],
+        correctAnswer: 1,
+        explanation: '窓がある場所に面しているという意味なので give onto。',
+      },
+      {
+        id: 'q-giveoveronto-3',
+        question: 'give onto の主語として自然なものはどれですか。',
+        options: ['a complaining friend', 'a door', 'a noisy child', 'a manager'],
+        correctAnswer: 1,
+        explanation: 'give onto は窓や扉など建物の開口部が主語になります。',
+      },
+      {
+        id: 'q-giveoveronto-4',
+        question: '「もう文句を言うのはやめて！」を最も自然に表す文はどれですか。',
+        options: ['Give onto complaining!', 'Give over complaining!', 'Give out complaining!', 'Give off complaining!'],
+        correctAnswer: 1,
+        explanation: '迷惑な行為をやめてほしいという意味では give over が使われます。',
+      },
+      {
+        id: 'q-giveoveronto-5',
+        question: 'give over と give onto の違いとして正しい説明はどれですか。',
+        options: [
+          '両方とも同じ意味で置き換え可能',
+          'give over は人に行為をやめさせる、give onto は建物の開口部が場所に面する',
+          'give over は建物の開口部が場所に面する、give onto は人に行為をやめさせる',
+          '意味の違いとは無関係',
+        ],
+        correctAnswer: 1,
+        explanation: '人への要求が give over、建物の位置関係が give onto です。',
+      },
+    ],
+  },
+  {
     id: 'work-out-work-on',
     title: 'work out と work on',
     chapter: 5,
@@ -25335,6 +25507,92 @@ off は「本体から切り離して外へ出す」イメージ、in は「別�
         ],
         correctAnswer: 1,
         explanation: '発散・返済が work off、混ぜ込む・盛り込むのが work in です。',
+      },
+    ],
+  },
+  {
+    id: 'work-at-work-against',
+    title: 'work at と work against',
+    chapter: 5,
+    hubId: 'work',
+    description: '同じ work でも at は「努力して改善しようと働きかける」、against は「不利に働く」。自分から努力するか、状況が不利に作用するかの違いです。',
+    content: `## 自分から努力するのか、状況が不利に作用するのか
+
+work at と work against はどちらも work のあとに前置詞が続く形ですが、主語と方向がまったく異なります。
+
+- **work at** … 目標達成のために**努力し続ける**。
+- **work against** … ある要因が人にとって**不利に働く**。
+
+| 熟語 | 中心の意味 | 典型的な主語・目的語 |
+| --- | --- | --- |
+| work **at** | 努力する（人が主語） | a marriage, a skill, a problem |
+| work **against** | 不利に働く（要因が主語） | inexperience, age, the weather |
+
+### work at の使い分け
+
+work at は「うまくいかせるために、粘り強く努力を続ける」という意味で、"For a marriage to succeed, both parties have to work at it." のように使われます。work on と似ていますが、work at はより「困難に立ち向かって努力を継続する」ニュアンスが強く出ます。
+
+### work against の使い分け
+
+work against は「ある性質や状況が、人にとって不利な方向に作用する」という意味で、"Inexperience can work against you when looking for a job." のように、人ではなく要因（経験不足・年齢・天候など）が主語になるのが特徴です。
+
+### なぜ直訳で読み解けないか
+
+at は「対象に向けて力を集中して働きかける」イメージ、against は「対象に逆らう方向で作用する」イメージを運びます。work at は「人が目標に向けて努力を集中する」、work against は「要因が人の目標達成を妨げる方向に作用する」という、努力する主体と不利に働く要因という主語の違いが意味の違いになっています。
+
+### よくある誤用
+
+⚠️ \`His lack of experience worked at him during the interview.\`（誤）。経験不足が不利に働いたなら worked **against** him。work at は人が努力する意味なので、要因が主語の不利な作用には使いません。
+
+⚠️ \`You need to work against your Spanish if you want to improve.\`（誤）。スペイン語の習得に努力するなら work **at** your Spanish。work against は不利に働く意味なので、自己研鑽の文脈には使えません。
+
+🎯 覚え方：**at＝対象に力を集中して努力する（人が主語）**、**against＝対象に逆らう方向で作用する（不利な要因が主語）**。`,
+    keyPoints: [
+      'work at＝目標達成のために粘り強く努力する（work at a marriage/skill）',
+      'work against＝経験不足・年齢・天候などの要因が人にとって不利に働く',
+      'at は人が努力を集中させるイメージ、against は要因が逆らう方向に作用するイメージ',
+      '主語が人なら work at、主語が不利な要因なら work against',
+    ],
+    quiz: [
+      {
+        id: 'q-workatagainst-1',
+        question: '空所に入る適切な語はどれですか。「You will never learn to play well unless you work ( ) it every day.」',
+        options: ['against', 'at', 'off', 'in'],
+        correctAnswer: 1,
+        explanation: '努力を続けるという意味なので work at。',
+      },
+      {
+        id: 'q-workatagainst-2',
+        question: '空所に入る適切な語はどれですか。「His young age worked ( ) him in the interview for the manager position.」',
+        options: ['at', 'against', 'on', 'through'],
+        correctAnswer: 1,
+        explanation: '不利に働くという意味なので work against。',
+      },
+      {
+        id: 'q-workatagainst-3',
+        question: 'work against の主語として自然なものはどれですか。',
+        options: ['a determined student', 'a hard-working employee', 'bad weather conditions', 'a skilled musician'],
+        correctAnswer: 2,
+        explanation: 'work against は不利に働く要因が主語になります。',
+      },
+      {
+        id: 'q-workatagainst-4',
+        question: '「夫婦関係がうまくいくには、両者が努力する必要がある」を最も自然に表す文はどれですか。',
+        options: ['Both parties have to work against the marriage.', 'Both parties have to work at the marriage.', 'Both parties have to work off the marriage.', 'Both parties have to work through the marriage.'],
+        correctAnswer: 1,
+        explanation: '努力し続けるという意味では work at が使われます。',
+      },
+      {
+        id: 'q-workatagainst-5',
+        question: 'work at と work against の違いとして正しい説明はどれですか。',
+        options: [
+          '両方とも同じ意味で置き換え可能',
+          'work at は人が努力する、work against は要因が不利に働く',
+          'work at は要因が不利に働く、work against は人が努力する',
+          '意味の違いとは無関係',
+        ],
+        correctAnswer: 1,
+        explanation: '努力の主体が work at、不利な要因が work against です。',
       },
     ],
   },
@@ -26119,6 +26377,92 @@ in は「集団の内側へ加わる」イメージ、off は「一定の間隔�
     ],
   },
   {
+    id: 'count-down-count-up',
+    title: 'count down と count up',
+    chapter: 5,
+    hubId: 'count',
+    description: '同じ count でも down は「ゼロに向けて数を減らしながら待つ」、up は「合計を求めて数を足し上げる」。数を減らして待つか、数を積み上げて合計するかの違いです。',
+    content: `## 数を減らして待つのか、積み上げて合計するのか
+
+count down と count up はどちらも count のあとに副詞が続く形ですが、数える方向が正反対です。
+
+- **count down** … ゼロに向けて数を**減らしながら待つ**。
+- **count up** … 個々の数を**足し上げて合計を出す**。
+
+| 熟語 | 中心の意味 | 典型的な文脈 |
+| --- | --- | --- |
+| count down | ゼロへ向けて数を減らしながら待つ | to a launch, to a big day |
+| count up | 足し上げて合計を出す | votes, items in a group |
+
+### count down の使い分け
+
+count down は「重要な出来事に向けて、残りの日数・秒数を数えながら期待して待つ」という意味で、ロケットの打ち上げやニューイヤーのカウントダウンが典型例です。"She's already counting down to the big day." のように、心待ちにしている様子を表すのにも使われます。
+
+### count up の使い分け
+
+count up は「グループの中の人や物を1つずつ数えて、最終的な合計を出す」という意味で、"Count up the votes and tell me the total." のように使われます。目的語を伴って count the votes up の形にもなります。
+
+### なぜ直訳で読み解けないか
+
+down は「大きい数からゼロへ向かって下りていく」イメージ、up は「小さい数から積み上げて大きくしていく」イメージを運びます。count down は「残り時間がゼロに近づいていく期待感」、count up は「個々の数を積み上げて総計を作り出す」という、数の増減の向きの違いがそのまま意味の違いになっています。
+
+### よくある誤用
+
+⚠️ \`Let's count up to the New Year together!\`（誤）。新年までのカウントダウンをするなら count **down** to the New Year。count up は合計を出す意味なので、期待して待つ文脈には使いません。
+
+⚠️ \`Could you count down all the votes and tell me the total?\`（誤）。投票を数えて合計を出してほしいなら count **up** all the votes。count down はゼロへ向かう意味なので、合計を求める作業には使えません。
+
+🎯 覚え方：**down＝ゼロへ向けて数が減っていく（期待して待つ）**、**up＝数を積み上げて合計を出す（集計する）**。`,
+    keyPoints: [
+      'count down＝重要な出来事に向けてゼロへ数を減らしながら期待して待つ',
+      'count up＝グループ内の人や物を1つずつ数えて合計を出す（count the votes up）',
+      'down はゼロへ向かって数が減るイメージ、up は数が積み上がって合計になるイメージ',
+      '打ち上げ前のカウントダウンは count down、投票の集計は count up（方向が逆）',
+    ],
+    quiz: [
+      {
+        id: 'q-countdownup-1',
+        question: '空所に入る適切な語はどれですか。「The whole crowd began to count ( ) from ten before the launch.」',
+        options: ['up', 'down', 'in', 'off'],
+        correctAnswer: 1,
+        explanation: 'ゼロに向けて数えるという意味なので count down。',
+      },
+      {
+        id: 'q-countdownup-2',
+        question: '空所に入る適切な語はどれですか。「Could you count ( ) all the tickets sold and tell me the total?」',
+        options: ['down', 'up', 'in', 'toward'],
+        correctAnswer: 1,
+        explanation: '合計を出すという意味なので count up。',
+      },
+      {
+        id: 'q-countdownup-3',
+        question: 'count down の意味として最も適切なものはどれですか。',
+        options: ['合計を出す', 'ゼロへ向けて数を減らしながら待つ', '参加者として数に入れる', '順に数え上げる'],
+        correctAnswer: 1,
+        explanation: 'count down は重要な出来事を期待して待つ意味です。',
+      },
+      {
+        id: 'q-countdownup-4',
+        question: '「彼女はもう誕生日を指折り数えて待っている」を最も自然に表す文はどれですか。',
+        options: ['She is already counting up to her birthday.', 'She is already counting down to her birthday.', 'She is already counting in to her birthday.', 'She is already counting off to her birthday.'],
+        correctAnswer: 1,
+        explanation: '期待して待つという意味では count down が使われます。',
+      },
+      {
+        id: 'q-countdownup-5',
+        question: 'count down と count up の違いとして正しい説明はどれですか。',
+        options: [
+          '両方とも同じ意味で置き換え可能',
+          'count down はゼロへ向けて減らしながら待つ、count up は足し上げて合計を出す',
+          'count down は合計を出す、count up はゼロへ向けて待つ',
+          '意味の違いとは無関係',
+        ],
+        correctAnswer: 1,
+        explanation: '減少しながらの期待が count down、加算しての集計が count up です。',
+      },
+    ],
+  },
+  {
     id: 'blow-up-blow-over',
     title: 'blow up と blow over',
     chapter: 5,
@@ -26375,6 +26719,92 @@ out は「内側にあったものが一気に外へ出る」イメージ、thro
         ],
         correctAnswer: 1,
         explanation: '一瞬の勢いが blow out、資源の使い果たしが blow through です。',
+      },
+    ],
+  },
+  {
+    id: 'blow-in-blow-down',
+    title: 'blow in と blow down',
+    chapter: 5,
+    hubId: 'blow',
+    description: '同じ blow でも in は「人がふらっと突然やってくる（インフォーマル）」、down は「風が物を倒す」。主語が人か風かで意味がまったく違います。',
+    content: `## 人が来るのか、風が倒すのか
+
+blow in と blow down はどちらも風にまつわる語感を持ちますが、主語と対象が異なります。
+
+- **blow in** … 人が**予告なくふらっと現れる**（インフォーマル）。天候・嵐が「吹き込む」意味でも使う。
+- **blow down** … 風の力で木や柵などが**倒れる／倒す**。
+
+| 熟語 | 中心の意味 | 典型的な主語 |
+| --- | --- | --- |
+| blow in | 予告なくふらっと現れる／嵐が吹き込む | 人／天候 |
+| blow down | 風の力で倒れる・倒す | 木・柵・看板 |
+
+### blow in の使い分け
+
+blow in はくだけた言い方で、「誰かが前触れもなくひょっこり現れる」ことを表します。"He just blew in from nowhere and expected dinner." のように、驚きや呆れのニュアンスを伴うことが多い表現です。天候について使うと、"A storm blew in from the coast." のように「嵐が吹き込んできた」という意味にもなります。
+
+### blow down の使い分け
+
+blow down は「強風が木や柵、看板などを倒す」という意味で、"The old fence was blown down in last night's storm." のように受け身でよく使われます。倒れる対象は常に物で、人には使いません。
+
+### なぜ直訳で読み解けないか
+
+in は「中へ入ってくる」動き、down は「下へ倒れる」動きを表します。blow in は人や天候が場に「入り込んでくる」突然さ、blow down は物が風の力で「下に倒れる」結果を指しており、同じ blow でも主語（人・嵐 vs. 風の力）と結果（現れる vs. 倒れる）の向きがまったく違います。
+
+### よくある誤用
+
+⚠️ \`The old tree was blown in during the typhoon.\`（誤）。台風で木が倒れたなら blown **down**。blow in は人や嵐が現れる意味なので、木が倒れる結果には使いません。
+
+⚠️ \`My cousin just blew down from out of town without calling.\`（誤）。連絡もなくふらっと来たなら blew **in**。blow down は物が倒れる意味なので、人の来訪には使えません。
+
+🎯 覚え方：**in＝人や嵐がふらっと入り込んでくる**、**down＝風の力で物が下に倒れる**。`,
+    keyPoints: [
+      'blow in＝人が予告なくふらっと現れる（インフォーマル）／嵐が吹き込む',
+      'blow down＝強風で木や柵などが倒れる・倒す',
+      'in は場に入り込んでくる突然さ、down は風の力で倒れる結果',
+      '人の来訪は blow in、物が倒れる話は blow down（主語も対象も別物）',
+    ],
+    quiz: [
+      {
+        id: 'q-blowindown-1',
+        question: '空所に入る適切な語はどれですか。「He just blew ( ) from out of town without any warning.」',
+        options: ['down', 'in', 'out', 'through'],
+        correctAnswer: 1,
+        explanation: '予告なくふらっと現れるという意味なので blow in。',
+      },
+      {
+        id: 'q-blowindown-2',
+        question: '空所に入る適切な語はどれですか。「The old fence was blown ( ) in last night\'s storm.」',
+        options: ['in', 'down', 'up', 'off'],
+        correctAnswer: 1,
+        explanation: '強風で倒れるという意味なので blow down。',
+      },
+      {
+        id: 'q-blowindown-3',
+        question: 'blow in の意味として最も適切なものはどれですか。',
+        options: ['風で物が倒れる', '人が予告なくふらっと現れる', '予算を使い果たす', 'タイヤがパンクする'],
+        correctAnswer: 1,
+        explanation: 'blow in はくだけた言い方で突然の来訪を表します。',
+      },
+      {
+        id: 'q-blowindown-4',
+        question: '「その古い看板は台風で倒された」を最も自然に表す文はどれですか。',
+        options: ['The old sign was blown in by the typhoon.', 'The old sign was blown down by the typhoon.', 'The old sign was blown out by the typhoon.', 'The old sign was blown through by the typhoon.'],
+        correctAnswer: 1,
+        explanation: '風の力で物が倒れる意味では blow down が使われます。',
+      },
+      {
+        id: 'q-blowindown-5',
+        question: 'blow in と blow down の違いとして正しい説明はどれですか。',
+        options: [
+          '両方とも同じ意味で置き換え可能',
+          'blow in は人や嵐が予告なく現れる、blow down は風で物が倒れる',
+          'blow in は風で物が倒れる、blow down は人が現れる',
+          '意味の違いとは無関係',
+        ],
+        correctAnswer: 1,
+        explanation: '人・嵐の到来が blow in、物の転倒が blow down です。',
       },
     ],
   },
