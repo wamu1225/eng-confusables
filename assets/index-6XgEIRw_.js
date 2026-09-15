@@ -8332,7 +8332,37 @@ in は「内側へ入り込む・縮こまる」イメージで、日照時間�
 
 ⚠️ \`The nights are drawing near in autumn.\`（誤・用法が不自然）。秋に日が短くなる現象なら draw **in**。draw near は出来事や人が近づく意味なので、季節特有の日照変化の表現としては不自然です。
 
-🎯 覚え方：**in＝日照時間が内側へ縮む（秋冬が近づく・巻き込む）**、**near＝出来事や人との隔たりが縮まる（一般的に近づく）**。`,keyPoints:[`draw in＝秋冬が近づき日が短くなる（The evenings are drawing in.）、人を話や活動に巻き込む`,`draw near＝行事・出来事・人などが時間的・空間的に近づく（幅広い対象に使える）`,`in は日照時間が縮むイメージに限定、near は一般的な「近づく」を表す`,`結婚式や試験が近づくのは draw near、秋が近づき日が短くなるのは draw in`],quiz:[{id:`q-drawin-1`,question:`空所に入る適切な語はどれですか。「As autumn arrives, the evenings are drawing ( ).」`,options:[`near`,`in`,`out`,`up`],correctAnswer:1,explanation:`秋が近づき日が短くなるという意味なので draw in。`},{id:`q-drawin-2`,question:`空所に入る適切な語はどれですか。「As the exam draws ( ), students start to feel nervous.」`,options:[`in`,`near`,`back`,`on`],correctAnswer:1,explanation:`試験の日が近づくという意味なので draw near。`},{id:`q-drawin-3`,question:`draw in の主語として自然なものはどれですか。`,options:[`the wedding`,`the exam`,`the evenings`,`a traveller`],correctAnswer:2,explanation:`draw in は日照時間に関わる語（evenings, nights）が主語になります。`},{id:`q-drawin-4`,question:`「販売員は彼女を話に引き込もうとした」を最も自然に表す文はどれですか。`,options:[`The salesman tried to draw her near.`,`The salesman tried to draw her in.`,`The salesman tried to draw her out.`,`The salesman tried to draw her back.`],correctAnswer:1,explanation:`人を巻き込むという意味では draw in が使われます。`},{id:`q-drawin-5`,question:`draw in と draw near の違いとして正しい説明はどれですか。`,options:[`両方とも全く同じ対象に使える`,`draw in は日照時間の変化・人を巻き込む意味に限定、draw near は幅広い対象の接近を表す`,`draw in は幅広い対象の接近、draw near は日照時間の変化に限定`,`意味の違いとは無関係`],correctAnswer:1,explanation:`draw in は季節・巻き込みに限定的、draw near は一般的な「近づく」を表します。`}]},{id:`give-in-give-way-to`,title:`give in と give way to`,chapter:5,hubId:`give`,description:`give in は「屈する・要求を受け入れる」、give way to は「〜に道を譲る・取って代わられる」。抵抗をやめるか、場所や立場を明け渡すかの違いです。`,content:`## 抵抗をやめるか、場所を明け渡すか
+🎯 覚え方：**in＝日照時間が内側へ縮む（秋冬が近づく・巻き込む）**、**near＝出来事や人との隔たりが縮まる（一般的に近づく）**。`,keyPoints:[`draw in＝秋冬が近づき日が短くなる（The evenings are drawing in.）、人を話や活動に巻き込む`,`draw near＝行事・出来事・人などが時間的・空間的に近づく（幅広い対象に使える）`,`in は日照時間が縮むイメージに限定、near は一般的な「近づく」を表す`,`結婚式や試験が近づくのは draw near、秋が近づき日が短くなるのは draw in`],quiz:[{id:`q-drawin-1`,question:`空所に入る適切な語はどれですか。「As autumn arrives, the evenings are drawing ( ).」`,options:[`near`,`in`,`out`,`up`],correctAnswer:1,explanation:`秋が近づき日が短くなるという意味なので draw in。`},{id:`q-drawin-2`,question:`空所に入る適切な語はどれですか。「As the exam draws ( ), students start to feel nervous.」`,options:[`in`,`near`,`back`,`on`],correctAnswer:1,explanation:`試験の日が近づくという意味なので draw near。`},{id:`q-drawin-3`,question:`draw in の主語として自然なものはどれですか。`,options:[`the wedding`,`the exam`,`the evenings`,`a traveller`],correctAnswer:2,explanation:`draw in は日照時間に関わる語（evenings, nights）が主語になります。`},{id:`q-drawin-4`,question:`「販売員は彼女を話に引き込もうとした」を最も自然に表す文はどれですか。`,options:[`The salesman tried to draw her near.`,`The salesman tried to draw her in.`,`The salesman tried to draw her out.`,`The salesman tried to draw her back.`],correctAnswer:1,explanation:`人を巻き込むという意味では draw in が使われます。`},{id:`q-drawin-5`,question:`draw in と draw near の違いとして正しい説明はどれですか。`,options:[`両方とも全く同じ対象に使える`,`draw in は日照時間の変化・人を巻き込む意味に限定、draw near は幅広い対象の接近を表す`,`draw in は幅広い対象の接近、draw near は日照時間の変化に限定`,`意味の違いとは無関係`],correctAnswer:1,explanation:`draw in は季節・巻き込みに限定的、draw near は一般的な「近づく」を表します。`}]},{id:`draw-together-draw-level`,title:`draw together と draw level`,chapter:5,hubId:`draw`,description:`同じ draw でも together は「複数の人・要素を1つにまとめる」、level は「相手と同じ位置・得点に追いつく」。結びつけるか、追いつくかの違いです。`,content:`## 結びつけるのか、追いつくのか
+
+draw together と draw level はどちらも draw のあとに副詞・形容詞が続く形ですが、対象への働き方が異なります。
+
+- **draw together** … 人や情報を**1つにまとめる・結びつける**。
+- **draw level（with）** … 相手と**同じ位置・得点に追いつく**。
+
+| 熟語 | 中心の意味 | 典型的な目的語 |
+| --- | --- | --- |
+| draw together | 結びつける・まとめる | people, information |
+| draw level（with） | 追いつく・同点になる | a rival, the leader |
+
+### draw together の使い分け
+
+draw together は「バラバラだった人や情報を引き寄せて1つにまとめる」という意味で、"A shared grief drew the sisters together again." のように、共通の経験が人々の心を結びつける場面や、"The new project aims to draw together the information of millions of citizens." のように、散らばった情報を集約する場面で使われます。
+
+### draw level の使い分け
+
+draw level（with）は「競争相手に追いついて同じ位置・得点になる」という意味で、レースやスポーツの実況でよく使われます。"He needed to win the final stage in order to draw level with the leader in the standings." のように、それまで差があった相手との差を完全に無くすことを表します。
+
+### なぜ直訳で読み解けないか
+
+together は「複数のものを1点に引き寄せて1つにする」イメージ、level は「相手と同じ高さの位置まで引き上げる」イメージを運びます。draw together は「人や情報をまとめて結びつける」、draw level は「遅れていた自分を相手と同じ水準まで引き上げて並ぶ」という、結合と追いつきという異なる対象への働きかけが意味の違いになっています。
+
+### よくある誤用
+
+⚠️ \`The cyclist drew together with the leader in the final lap.\`（誤）。最終周に首位に追いついたなら drew **level** with the leader。draw together は人や情報を結びつける意味なので、順位への追いつきには使いません。
+
+⚠️ \`Shared grief drew the sisters level again.\`（誤）。悲しみが姉妹の心を結びつけたなら drew the sisters **together**。draw level は追いつく意味なので、心理的な結びつきには使えません。
+
+🎯 覚え方：**together＝複数のものを1点に引き寄せて結びつける（まとめる）**、**level＝相手と同じ高さまで引き上げて並ぶ（追いつく）**。`,keyPoints:[`draw together＝バラバラだった人や情報を引き寄せて1つにまとめる・結びつける`,`draw level（with）＝競争相手に追いついて同じ位置・得点になる`,`together は複数のものを結びつけるイメージ、level は相手と同じ高さまで引き上げるイメージ`,`心理的な結びつきは draw together、順位・得点の追いつきは draw level`],quiz:[{id:`q-drawtogetherlevel-1`,question:`空所に入る適切な語はどれですか。「A shared tragedy drew the whole community ( ).」`,options:[`level`,`together`,`near`,`up`],correctAnswer:1,explanation:`人々の心を結びつけるという意味なので draw together。`},{id:`q-drawtogetherlevel-2`,question:`空所に入る適切な語はどれですか。「The runner needed a strong finish to draw ( ) with the leader.」`,options:[`together`,`level`,`near`,`out`],correctAnswer:1,explanation:`首位に追いつくという意味なので draw level。`},{id:`q-drawtogetherlevel-3`,question:`draw level with の意味として最も適切なものはどれですか。`,options:[`人々を結びつける`,`相手に追いついて同じ得点になる`,`情報を集約する`,`日が短くなる`],correctAnswer:1,explanation:`draw level with は競争で追いつくことを表します。`},{id:`q-drawtogetherlevel-4`,question:`「その新プロジェクトは市民の情報を1つに集約することを目指す」を最も自然に表す文はどれですか。`,options:[`The new project aims to draw level the information of citizens.`,`The new project aims to draw together the information of citizens.`,`The new project aims to draw near the information of citizens.`,`The new project aims to draw out the information of citizens.`],correctAnswer:1,explanation:`情報を集約するという意味では draw together が使われます。`},{id:`q-drawtogetherlevel-5`,question:`draw together と draw level の違いとして正しい説明はどれですか。`,options:[`両方とも同じ意味で置き換え可能`,`draw together は結びつける・まとめる、draw level は追いつく・同点になる`,`draw together は追いつく、draw level は結びつける`,`意味の違いとは無関係`],correctAnswer:1,explanation:`結合が draw together、追いつきが draw level です。`}]},{id:`give-in-give-way-to`,title:`give in と give way to`,chapter:5,hubId:`give`,description:`give in は「屈する・要求を受け入れる」、give way to は「〜に道を譲る・取って代わられる」。抵抗をやめるか、場所や立場を明け渡すかの違いです。`,content:`## 抵抗をやめるか、場所を明け渡すか
 
 give in と give way to はどちらも「屈する」という意味で重なりますが、in の「内側へ入り込む」イメージと way to の「道を譲る」イメージで、ニュアンスが微妙に異なります。
 
@@ -8424,7 +8454,37 @@ off は「物の表面から立ち上るように発する」イメージ、out 
 
 ⚠️ \`The chemical gave out a strange smell.\`（誤・意図不明瞭）。化学物質が匂いを発したなら give **off**。give out は配る・尽きるの意味なので、匂いの発生源には使いません。
 
-🎯 覚え方：**off＝発生源から自然に立ち上る（匂い・熱・光を発する）**、**out＝内側の分を外へ出し切る（配る・尽きる・公表する）**。`,keyPoints:[`give off＝匂い・熱・光・ガスなどを発する（火や化学物質などが主語）`,`give out＝大勢に配る、機械や体力が尽きる・止まる、情報が尽きる・公表される`,`off は発生源から自然に立ち上るイメージ、out は持っている分を出し切るイメージ`,`物を配るのは give out、匂いや熱を発するのは give off（混同しやすいので要注意）`],quiz:[{id:`q-giveoff-1`,question:`空所に入る適切な語はどれですか。「The burning wood gave ( ) a strong smell of smoke.」`,options:[`out`,`off`,`up`,`away`],correctAnswer:1,explanation:`匂いを発するという意味なので give off。`},{id:`q-giveoff-2`,question:`空所に入る適切な語はどれですか。「Volunteers gave ( ) free water bottles to all the runners.」`,options:[`off`,`out`,`up`,`in`],correctAnswer:1,explanation:`物を配るという意味なので give out。`},{id:`q-giveoff-3`,question:`give off の主語として自然なものはどれですか。`,options:[`volunteers`,`a battery`,`burning wood`,`free tickets`],correctAnswer:2,explanation:`give off は匂い・熱・光などの発生源が主語になります。`},{id:`q-giveoff-4`,question:`「マラソンの後、彼女の脚はついに限界を迎えた」を最も自然に表す文はどれですか。`,options:[`Her legs finally gave off after the marathon.`,`Her legs finally gave out after the marathon.`,`Her legs finally gave up after the marathon.`,`Her legs finally gave away after the marathon.`],correctAnswer:1,explanation:`体の一部が働かなくなるという意味では give out が使われます。`},{id:`q-giveoff-5`,question:`give off と give out の違いとして正しい説明はどれですか。`,options:[`両方とも「配る」という同じ意味`,`give off は匂い・熱・光を発する、give out は配る・尽きる・公表する`,`give off は配る、give out は匂いを発する`,`意味の違いとは無関係`],correctAnswer:1,explanation:`発生源から発するのが give off、出し切る・配るのが give out です。`}]},{id:`work-out-work-on`,title:`work out と work on`,chapter:5,hubId:`work`,description:`work out は「解決する・鍛える・うまくいく」、work on は「〜に取り組む・改善に努める」。答えを導き出すか、対象に働きかけ続けるかの違いです。`,content:`## 答えを導き出すか、働きかけ続けるか
+🎯 覚え方：**off＝発生源から自然に立ち上る（匂い・熱・光を発する）**、**out＝内側の分を外へ出し切る（配る・尽きる・公表する）**。`,keyPoints:[`give off＝匂い・熱・光・ガスなどを発する（火や化学物質などが主語）`,`give out＝大勢に配る、機械や体力が尽きる・止まる、情報が尽きる・公表される`,`off は発生源から自然に立ち上るイメージ、out は持っている分を出し切るイメージ`,`物を配るのは give out、匂いや熱を発するのは give off（混同しやすいので要注意）`],quiz:[{id:`q-giveoff-1`,question:`空所に入る適切な語はどれですか。「The burning wood gave ( ) a strong smell of smoke.」`,options:[`out`,`off`,`up`,`away`],correctAnswer:1,explanation:`匂いを発するという意味なので give off。`},{id:`q-giveoff-2`,question:`空所に入る適切な語はどれですか。「Volunteers gave ( ) free water bottles to all the runners.」`,options:[`off`,`out`,`up`,`in`],correctAnswer:1,explanation:`物を配るという意味なので give out。`},{id:`q-giveoff-3`,question:`give off の主語として自然なものはどれですか。`,options:[`volunteers`,`a battery`,`burning wood`,`free tickets`],correctAnswer:2,explanation:`give off は匂い・熱・光などの発生源が主語になります。`},{id:`q-giveoff-4`,question:`「マラソンの後、彼女の脚はついに限界を迎えた」を最も自然に表す文はどれですか。`,options:[`Her legs finally gave off after the marathon.`,`Her legs finally gave out after the marathon.`,`Her legs finally gave up after the marathon.`,`Her legs finally gave away after the marathon.`],correctAnswer:1,explanation:`体の一部が働かなくなるという意味では give out が使われます。`},{id:`q-giveoff-5`,question:`give off と give out の違いとして正しい説明はどれですか。`,options:[`両方とも「配る」という同じ意味`,`give off は匂い・熱・光を発する、give out は配る・尽きる・公表する`,`give off は配る、give out は匂いを発する`,`意味の違いとは無関係`],correctAnswer:1,explanation:`発生源から発するのが give off、出し切る・配るのが give out です。`}]},{id:`give-over-give-onto`,title:`give over と give onto`,chapter:5,hubId:`give`,description:`同じ give でも over は「（英口語で）迷惑な行為をやめる」、onto は「窓や扉がある場所に面している」。人に行動をやめさせるか、建物の向きを表すかの違いです。`,content:`## 行動をやめさせるのか、建物の向きを表すのか
+
+give over と give onto はどちらも give を使いますが、主語になるものが対照的です。
+
+- **give over** … 迷惑な行為を**やめる**（主にイギリス英語の口語・命令形）。
+- **give onto** … 窓や扉が**ある場所に面している・そこへ通じている**。
+
+| 熟語 | 中心の意味 | 典型的な主語 |
+| --- | --- | --- |
+| give over | （迷惑な行為を）やめる | a person（人が主語・命令形が多い） |
+| give onto | ある場所に面している | a door, a window（建物の構造が主語） |
+
+### give over の使い分け
+
+give over はイギリス英語の口語表現で、「うるさい・迷惑な行為をやめるよう相手に求める」という意味です。"Give over, Chris! You are hurting me." のように命令形で使われることが多く、"Give over complaining!"（文句を言うのはやめて！）のように動名詞を伴うこともあります。相手の発言を「そんなばかな」と受け流す間投詞としても使われます。
+
+### give onto の使い分け
+
+give onto something は「窓・扉・通路が、ある場所へ向けて開いている・面している」という意味で、"The patio doors give onto a small courtyard." のように、建物の構造を説明する場面で使われます。back onto（建物の裏側が面する）と似ていますが、give onto は主に「窓や扉が直接その場所へ通じている」ことに焦点があります。
+
+### なぜ直訳で読み解けないか
+
+over は「相手に行為を明け渡す＝やめさせる」というやや慣用的なイメージ、onto は「窓や扉の先が対象の上に接している」イメージを運びます。give over は「人に迷惑行為をやめるよう求める」口語表現、give onto は「建物の開口部が特定の場所へ通じている」という構造描写であり、主語が人か建物かという根本的な違いが意味の違いになっています。
+
+### よくある誤用
+
+⚠️ \`The kitchen window gives over the garden.\`（誤）。台所の窓が庭に面しているなら gives **onto** the garden。give over は人に行為をやめさせる意味なので、建物の構造描写には使いません。
+
+⚠️ \`Give onto complaining, please!\`（誤）。文句を言うのをやめてほしいなら Give **over** complaining!。give onto は建物の位置関係を表す表現なので、人への要求には使えません。
+
+🎯 覚え方：**over＝迷惑な行為を相手に明け渡す＝やめさせる（人が主語）**、**onto＝開口部の先が対象に接している（建物が主語）**。`,keyPoints:[`give over＝（英口語・命令形で）迷惑な行為をやめる（Give over complaining!）`,`give onto＝窓・扉・通路がある場所に面している・通じている（建物の構造描写）`,`give over は人への要求、give onto は建物の開口部の向きという主語の性質の違い`,`文句を言うのをやめさせるのは give over、窓が庭に面するのは give onto`],quiz:[{id:`q-giveoveronto-1`,question:`空所に入る適切な語はどれですか。「( ) complaining, Chris! It is not that bad.」`,options:[`Give onto`,`Give over`,`Give out`,`Give off`],correctAnswer:1,explanation:`迷惑な行為をやめてほしいという意味なので give over。`},{id:`q-giveoveronto-2`,question:`空所に入る適切な語はどれですか。「The bedroom windows give ( ) a quiet street.」`,options:[`over`,`onto`,`off`,`out`],correctAnswer:1,explanation:`窓がある場所に面しているという意味なので give onto。`},{id:`q-giveoveronto-3`,question:`give onto の主語として自然なものはどれですか。`,options:[`a complaining friend`,`a door`,`a noisy child`,`a manager`],correctAnswer:1,explanation:`give onto は窓や扉など建物の開口部が主語になります。`},{id:`q-giveoveronto-4`,question:`「もう文句を言うのはやめて！」を最も自然に表す文はどれですか。`,options:[`Give onto complaining!`,`Give over complaining!`,`Give out complaining!`,`Give off complaining!`],correctAnswer:1,explanation:`迷惑な行為をやめてほしいという意味では give over が使われます。`},{id:`q-giveoveronto-5`,question:`give over と give onto の違いとして正しい説明はどれですか。`,options:[`両方とも同じ意味で置き換え可能`,`give over は人に行為をやめさせる、give onto は建物の開口部が場所に面する`,`give over は建物の開口部が場所に面する、give onto は人に行為をやめさせる`,`意味の違いとは無関係`],correctAnswer:1,explanation:`人への要求が give over、建物の位置関係が give onto です。`}]},{id:`work-out-work-on`,title:`work out と work on`,chapter:5,hubId:`work`,description:`work out は「解決する・鍛える・うまくいく」、work on は「〜に取り組む・改善に努める」。答えを導き出すか、対象に働きかけ続けるかの違いです。`,content:`## 答えを導き出すか、働きかけ続けるか
 
 work out と work on はどちらも「取り組む」に関わりますが、out の「計算して答えを外へ導く」イメージと on の「対象に接触し続ける」イメージで、完了の有無が異なります。
 
@@ -8516,7 +8576,37 @@ off は「本体から切り離して外へ出す」イメージ、in は「別�
 
 ⚠️ \`She works in her frustration by going for a run.\`（誤）。運動でイライラを発散するなら work **off**。work in は混ぜ込む・組み込む意味なので、感情の発散には使えません。
 
-🎯 覚え方：**off＝内側にたまったものを外へ出し切る（発散する・働いて返す）**、**in＝新しい要素を内側へ取り込む（混ぜ込む・盛り込む）**。`,keyPoints:[`work off＝運動などでストレスや怒りを発散する、借金を働いて返す`,`work in＝材料を混ぜ込む、スピーチや文章に要素を組み込む・盛り込む`,`off は内側から外へ出し切るイメージ、in は新しい要素を内側へ取り込むイメージ`,`ストレス発散は work off、要素を盛り込むのは work in（方向が逆）`],quiz:[{id:`q-workoff-1`,question:`空所に入る適切な語はどれですか。「He works ( ) his stress by playing basketball on weekends.」`,options:[`in`,`off`,`out`,`up`],correctAnswer:1,explanation:`運動でストレスを発散するという意味なので work off。`},{id:`q-workoff-2`,question:`空所に入る適切な語はどれですか。「Gradually work ( ) the butter until the mixture is smooth.」`,options:[`off`,`in`,`through`,`on`],correctAnswer:1,explanation:`材料を混ぜ込むという意味なので work in。`},{id:`q-workoff-3`,question:`work off の意味として最も適切なものはどれですか。`,options:[`要素を組み込む`,`運動などで発散する・働いて返す`,`材料を混ぜる`,`問題を解決する`],correctAnswer:1,explanation:`work off はたまったものを発散する・働いて返す意味です。`},{id:`q-workoff-4`,question:`「スピーチにもう少し冗談を盛り込んだら？」を最も自然に表す文はどれですか。`,options:[`Can't you work off a few more jokes into your speech?`,`Can't you work in a few more jokes into your speech?`,`Can't you work up a few more jokes into your speech?`,`Can't you work through a few more jokes into your speech?`],correctAnswer:1,explanation:`要素を盛り込むという意味では work in が使われます。`},{id:`q-workoff-5`,question:`work off と work in の違いとして正しい説明はどれですか。`,options:[`両方とも同じ意味で置き換え可能`,`work off は内側のものを外へ発散する、work in は新しい要素を内側へ取り込む`,`work off は新しい要素を取り込む、work in は発散する`,`意味の違いとは無関係`],correctAnswer:1,explanation:`発散・返済が work off、混ぜ込む・盛り込むのが work in です。`}]},{id:`back-up-back-down`,title:`back up と back down`,chapter:5,hubId:`back`,description:`back up は「支持する・裏付ける／データを複製保存する」、back down は「主張・要求を撤回する」。押し上げて支えるか、引き下がるかの違いです。`,content:`## 押し上げて支えるか、引き下がるか
+🎯 覚え方：**off＝内側にたまったものを外へ出し切る（発散する・働いて返す）**、**in＝新しい要素を内側へ取り込む（混ぜ込む・盛り込む）**。`,keyPoints:[`work off＝運動などでストレスや怒りを発散する、借金を働いて返す`,`work in＝材料を混ぜ込む、スピーチや文章に要素を組み込む・盛り込む`,`off は内側から外へ出し切るイメージ、in は新しい要素を内側へ取り込むイメージ`,`ストレス発散は work off、要素を盛り込むのは work in（方向が逆）`],quiz:[{id:`q-workoff-1`,question:`空所に入る適切な語はどれですか。「He works ( ) his stress by playing basketball on weekends.」`,options:[`in`,`off`,`out`,`up`],correctAnswer:1,explanation:`運動でストレスを発散するという意味なので work off。`},{id:`q-workoff-2`,question:`空所に入る適切な語はどれですか。「Gradually work ( ) the butter until the mixture is smooth.」`,options:[`off`,`in`,`through`,`on`],correctAnswer:1,explanation:`材料を混ぜ込むという意味なので work in。`},{id:`q-workoff-3`,question:`work off の意味として最も適切なものはどれですか。`,options:[`要素を組み込む`,`運動などで発散する・働いて返す`,`材料を混ぜる`,`問題を解決する`],correctAnswer:1,explanation:`work off はたまったものを発散する・働いて返す意味です。`},{id:`q-workoff-4`,question:`「スピーチにもう少し冗談を盛り込んだら？」を最も自然に表す文はどれですか。`,options:[`Can't you work off a few more jokes into your speech?`,`Can't you work in a few more jokes into your speech?`,`Can't you work up a few more jokes into your speech?`,`Can't you work through a few more jokes into your speech?`],correctAnswer:1,explanation:`要素を盛り込むという意味では work in が使われます。`},{id:`q-workoff-5`,question:`work off と work in の違いとして正しい説明はどれですか。`,options:[`両方とも同じ意味で置き換え可能`,`work off は内側のものを外へ発散する、work in は新しい要素を内側へ取り込む`,`work off は新しい要素を取り込む、work in は発散する`,`意味の違いとは無関係`],correctAnswer:1,explanation:`発散・返済が work off、混ぜ込む・盛り込むのが work in です。`}]},{id:`work-at-work-against`,title:`work at と work against`,chapter:5,hubId:`work`,description:`同じ work でも at は「努力して改善しようと働きかける」、against は「不利に働く」。自分から努力するか、状況が不利に作用するかの違いです。`,content:`## 自分から努力するのか、状況が不利に作用するのか
+
+work at と work against はどちらも work のあとに前置詞が続く形ですが、主語と方向がまったく異なります。
+
+- **work at** … 目標達成のために**努力し続ける**。
+- **work against** … ある要因が人にとって**不利に働く**。
+
+| 熟語 | 中心の意味 | 典型的な主語・目的語 |
+| --- | --- | --- |
+| work **at** | 努力する（人が主語） | a marriage, a skill, a problem |
+| work **against** | 不利に働く（要因が主語） | inexperience, age, the weather |
+
+### work at の使い分け
+
+work at は「うまくいかせるために、粘り強く努力を続ける」という意味で、"For a marriage to succeed, both parties have to work at it." のように使われます。work on と似ていますが、work at はより「困難に立ち向かって努力を継続する」ニュアンスが強く出ます。
+
+### work against の使い分け
+
+work against は「ある性質や状況が、人にとって不利な方向に作用する」という意味で、"Inexperience can work against you when looking for a job." のように、人ではなく要因（経験不足・年齢・天候など）が主語になるのが特徴です。
+
+### なぜ直訳で読み解けないか
+
+at は「対象に向けて力を集中して働きかける」イメージ、against は「対象に逆らう方向で作用する」イメージを運びます。work at は「人が目標に向けて努力を集中する」、work against は「要因が人の目標達成を妨げる方向に作用する」という、努力する主体と不利に働く要因という主語の違いが意味の違いになっています。
+
+### よくある誤用
+
+⚠️ \`His lack of experience worked at him during the interview.\`（誤）。経験不足が不利に働いたなら worked **against** him。work at は人が努力する意味なので、要因が主語の不利な作用には使いません。
+
+⚠️ \`You need to work against your Spanish if you want to improve.\`（誤）。スペイン語の習得に努力するなら work **at** your Spanish。work against は不利に働く意味なので、自己研鑽の文脈には使えません。
+
+🎯 覚え方：**at＝対象に力を集中して努力する（人が主語）**、**against＝対象に逆らう方向で作用する（不利な要因が主語）**。`,keyPoints:[`work at＝目標達成のために粘り強く努力する（work at a marriage/skill）`,`work against＝経験不足・年齢・天候などの要因が人にとって不利に働く`,`at は人が努力を集中させるイメージ、against は要因が逆らう方向に作用するイメージ`,`主語が人なら work at、主語が不利な要因なら work against`],quiz:[{id:`q-workatagainst-1`,question:`空所に入る適切な語はどれですか。「You will never learn to play well unless you work ( ) it every day.」`,options:[`against`,`at`,`off`,`in`],correctAnswer:1,explanation:`努力を続けるという意味なので work at。`},{id:`q-workatagainst-2`,question:`空所に入る適切な語はどれですか。「His young age worked ( ) him in the interview for the manager position.」`,options:[`at`,`against`,`on`,`through`],correctAnswer:1,explanation:`不利に働くという意味なので work against。`},{id:`q-workatagainst-3`,question:`work against の主語として自然なものはどれですか。`,options:[`a determined student`,`a hard-working employee`,`bad weather conditions`,`a skilled musician`],correctAnswer:2,explanation:`work against は不利に働く要因が主語になります。`},{id:`q-workatagainst-4`,question:`「夫婦関係がうまくいくには、両者が努力する必要がある」を最も自然に表す文はどれですか。`,options:[`Both parties have to work against the marriage.`,`Both parties have to work at the marriage.`,`Both parties have to work off the marriage.`,`Both parties have to work through the marriage.`],correctAnswer:1,explanation:`努力し続けるという意味では work at が使われます。`},{id:`q-workatagainst-5`,question:`work at と work against の違いとして正しい説明はどれですか。`,options:[`両方とも同じ意味で置き換え可能`,`work at は人が努力する、work against は要因が不利に働く`,`work at は要因が不利に働く、work against は人が努力する`,`意味の違いとは無関係`],correctAnswer:1,explanation:`努力の主体が work at、不利な要因が work against です。`}]},{id:`back-up-back-down`,title:`back up と back down`,chapter:5,hubId:`back`,description:`back up は「支持する・裏付ける／データを複製保存する」、back down は「主張・要求を撤回する」。押し上げて支えるか、引き下がるかの違いです。`,content:`## 押し上げて支えるか、引き下がるか
 
 back up と back down はどちらも「back＋前置詞」ですが、up の「背後から押し上げる」イメージと down の「姿勢を低くする」イメージで、対応がまったく逆方向です。
 
@@ -8792,7 +8882,37 @@ in は「集団の内側へ加わる」イメージ、off は「一定の間隔�
 
 ⚠️ \`If you're going to the party, count off me!\`（誤）。パーティーに参加したいという意思表示なら count **in**（Count me in!）。count off は数え上げる意味なので、この定型表現には使えません。
 
-🎯 覚え方：**in＝集団の内側に自分や誰かを数え入れる（参加する）**、**off＝順番に区切って数える（数え上げる・分ける）**。`,keyPoints:[`count in＝人を活動の参加者として数に入れる（Count me in! が定型表現）`,`count off＝1,2,3…と順に声に出して数える、人数を数えて組に分ける、項目を列挙する`,`in は集団の内側へ加わるイメージ、off は順に区切って分けるイメージ`,`参加の意思表示は count in、番号を数えて分けるのは count off`],quiz:[{id:`q-countin-1`,question:`空所に入る適切な語はどれですか。「A picnic this weekend? Count me ( )!」`,options:[`off`,`in`,`on`,`out`],correctAnswer:1,explanation:`参加するという意味の定型表現なので count in。`},{id:`q-countin-2`,question:`空所に入る適切な語はどれですか。「The coach asked the players to count ( ) by threes to form teams.」`,options:[`in`,`off`,`on`,`toward`],correctAnswer:1,explanation:`順に数えて組に分けるという意味なので count off。`},{id:`q-countin-3`,question:`"Count me in!" の意味として最も適切なものはどれですか。`,options:[`私を数えないで`,`私も参加します`,`私は脱落します`,`私が数えます`],correctAnswer:1,explanation:`Count me in! は参加の意思表示を表す定型表現です。`},{id:`q-countin-4`,question:`「彼女はやりたいことを1つずつ数え上げた」を最も自然に表す文はどれですか。`,options:[`She counted in all the things she wanted to do.`,`She counted off all the things she wanted to do.`,`She counted on all the things she wanted to do.`,`She counted toward all the things she wanted to do.`],correctAnswer:1,explanation:`項目を1つずつ列挙するという意味では count off が使われます。`},{id:`q-countin-5`,question:`count in と count off の違いとして正しい説明はどれですか。`,options:[`両方とも同じ意味で置き換え可能`,`count in は参加者として数に入れる、count off は順に数え上げる・分ける`,`count in は順に数え上げる、count off は参加者として数に入れる`,`意味の違いとは無関係`],correctAnswer:1,explanation:`参加を表すのが count in、順序立てて数えるのが count off です。`}]},{id:`blow-up-blow-over`,title:`blow up と blow over`,chapter:5,hubId:`blow`,description:`blow up は「爆発する・激怒する・膨らませる」、blow over は「（嵐・騒動が）自然に収まる」。圧力が高まって破裂するか、吹き抜けて過ぎ去るかの違いです。`,content:`## 破裂するか、吹き抜けて過ぎ去るか
+🎯 覚え方：**in＝集団の内側に自分や誰かを数え入れる（参加する）**、**off＝順番に区切って数える（数え上げる・分ける）**。`,keyPoints:[`count in＝人を活動の参加者として数に入れる（Count me in! が定型表現）`,`count off＝1,2,3…と順に声に出して数える、人数を数えて組に分ける、項目を列挙する`,`in は集団の内側へ加わるイメージ、off は順に区切って分けるイメージ`,`参加の意思表示は count in、番号を数えて分けるのは count off`],quiz:[{id:`q-countin-1`,question:`空所に入る適切な語はどれですか。「A picnic this weekend? Count me ( )!」`,options:[`off`,`in`,`on`,`out`],correctAnswer:1,explanation:`参加するという意味の定型表現なので count in。`},{id:`q-countin-2`,question:`空所に入る適切な語はどれですか。「The coach asked the players to count ( ) by threes to form teams.」`,options:[`in`,`off`,`on`,`toward`],correctAnswer:1,explanation:`順に数えて組に分けるという意味なので count off。`},{id:`q-countin-3`,question:`"Count me in!" の意味として最も適切なものはどれですか。`,options:[`私を数えないで`,`私も参加します`,`私は脱落します`,`私が数えます`],correctAnswer:1,explanation:`Count me in! は参加の意思表示を表す定型表現です。`},{id:`q-countin-4`,question:`「彼女はやりたいことを1つずつ数え上げた」を最も自然に表す文はどれですか。`,options:[`She counted in all the things she wanted to do.`,`She counted off all the things she wanted to do.`,`She counted on all the things she wanted to do.`,`She counted toward all the things she wanted to do.`],correctAnswer:1,explanation:`項目を1つずつ列挙するという意味では count off が使われます。`},{id:`q-countin-5`,question:`count in と count off の違いとして正しい説明はどれですか。`,options:[`両方とも同じ意味で置き換え可能`,`count in は参加者として数に入れる、count off は順に数え上げる・分ける`,`count in は順に数え上げる、count off は参加者として数に入れる`,`意味の違いとは無関係`],correctAnswer:1,explanation:`参加を表すのが count in、順序立てて数えるのが count off です。`}]},{id:`count-down-count-up`,title:`count down と count up`,chapter:5,hubId:`count`,description:`同じ count でも down は「ゼロに向けて数を減らしながら待つ」、up は「合計を求めて数を足し上げる」。数を減らして待つか、数を積み上げて合計するかの違いです。`,content:`## 数を減らして待つのか、積み上げて合計するのか
+
+count down と count up はどちらも count のあとに副詞が続く形ですが、数える方向が正反対です。
+
+- **count down** … ゼロに向けて数を**減らしながら待つ**。
+- **count up** … 個々の数を**足し上げて合計を出す**。
+
+| 熟語 | 中心の意味 | 典型的な文脈 |
+| --- | --- | --- |
+| count down | ゼロへ向けて数を減らしながら待つ | to a launch, to a big day |
+| count up | 足し上げて合計を出す | votes, items in a group |
+
+### count down の使い分け
+
+count down は「重要な出来事に向けて、残りの日数・秒数を数えながら期待して待つ」という意味で、ロケットの打ち上げやニューイヤーのカウントダウンが典型例です。"She's already counting down to the big day." のように、心待ちにしている様子を表すのにも使われます。
+
+### count up の使い分け
+
+count up は「グループの中の人や物を1つずつ数えて、最終的な合計を出す」という意味で、"Count up the votes and tell me the total." のように使われます。目的語を伴って count the votes up の形にもなります。
+
+### なぜ直訳で読み解けないか
+
+down は「大きい数からゼロへ向かって下りていく」イメージ、up は「小さい数から積み上げて大きくしていく」イメージを運びます。count down は「残り時間がゼロに近づいていく期待感」、count up は「個々の数を積み上げて総計を作り出す」という、数の増減の向きの違いがそのまま意味の違いになっています。
+
+### よくある誤用
+
+⚠️ \`Let's count up to the New Year together!\`（誤）。新年までのカウントダウンをするなら count **down** to the New Year。count up は合計を出す意味なので、期待して待つ文脈には使いません。
+
+⚠️ \`Could you count down all the votes and tell me the total?\`（誤）。投票を数えて合計を出してほしいなら count **up** all the votes。count down はゼロへ向かう意味なので、合計を求める作業には使えません。
+
+🎯 覚え方：**down＝ゼロへ向けて数が減っていく（期待して待つ）**、**up＝数を積み上げて合計を出す（集計する）**。`,keyPoints:[`count down＝重要な出来事に向けてゼロへ数を減らしながら期待して待つ`,`count up＝グループ内の人や物を1つずつ数えて合計を出す（count the votes up）`,`down はゼロへ向かって数が減るイメージ、up は数が積み上がって合計になるイメージ`,`打ち上げ前のカウントダウンは count down、投票の集計は count up（方向が逆）`],quiz:[{id:`q-countdownup-1`,question:`空所に入る適切な語はどれですか。「The whole crowd began to count ( ) from ten before the launch.」`,options:[`up`,`down`,`in`,`off`],correctAnswer:1,explanation:`ゼロに向けて数えるという意味なので count down。`},{id:`q-countdownup-2`,question:`空所に入る適切な語はどれですか。「Could you count ( ) all the tickets sold and tell me the total?」`,options:[`down`,`up`,`in`,`toward`],correctAnswer:1,explanation:`合計を出すという意味なので count up。`},{id:`q-countdownup-3`,question:`count down の意味として最も適切なものはどれですか。`,options:[`合計を出す`,`ゼロへ向けて数を減らしながら待つ`,`参加者として数に入れる`,`順に数え上げる`],correctAnswer:1,explanation:`count down は重要な出来事を期待して待つ意味です。`},{id:`q-countdownup-4`,question:`「彼女はもう誕生日を指折り数えて待っている」を最も自然に表す文はどれですか。`,options:[`She is already counting up to her birthday.`,`She is already counting down to her birthday.`,`She is already counting in to her birthday.`,`She is already counting off to her birthday.`],correctAnswer:1,explanation:`期待して待つという意味では count down が使われます。`},{id:`q-countdownup-5`,question:`count down と count up の違いとして正しい説明はどれですか。`,options:[`両方とも同じ意味で置き換え可能`,`count down はゼロへ向けて減らしながら待つ、count up は足し上げて合計を出す`,`count down は合計を出す、count up はゼロへ向けて待つ`,`意味の違いとは無関係`],correctAnswer:1,explanation:`減少しながらの期待が count down、加算しての集計が count up です。`}]},{id:`blow-up-blow-over`,title:`blow up と blow over`,chapter:5,hubId:`blow`,description:`blow up は「爆発する・激怒する・膨らませる」、blow over は「（嵐・騒動が）自然に収まる」。圧力が高まって破裂するか、吹き抜けて過ぎ去るかの違いです。`,content:`## 破裂するか、吹き抜けて過ぎ去るか
 
 blow up と blow over はどちらも風・爆発に関わる比喩ですが、up の「内部圧力が高まる」イメージと over の「頭上を通り過ぎる」イメージで、結末が正反対です。
 
@@ -8884,7 +9004,37 @@ out は「内側にあったものが一気に外へ出る」イメージ、thro
 
 ⚠️ \`The tire blew through on the highway.\`（誤）。タイヤがパンクしたなら blow **out**。blow through は資金を使い果たす意味なので、物理的な破裂には使えません。
 
-🎯 覚え方：**out＝一瞬で強く外に噴き出す（吹き消す・パンクする・圧勝する）**、**through＝資源が手元を吹き抜けて無くなる（使い果たす）**。`,keyPoints:[`blow out＝火を吹き消す、タイヤがパンクする、（米口語で）相手に圧勝する`,`blow through＝お金や予算をあっという間に使い果たす（主に米語）`,`out は一瞬で強く外に噴き出すイメージ、through は資源が吹き抜けて無くなるイメージ`,`財産の浪費は blow through、タイヤの破裂は blow out（混同しやすいので要注意）`],quiz:[{id:`q-blowout-1`,question:`空所に入る適切な語はどれですか。「Make a wish and blow ( ) the candles!」`,options:[`through`,`out`,`off`,`away`],correctAnswer:1,explanation:`火を吹き消すという意味なので blow out。`},{id:`q-blowout-2`,question:`空所に入る適切な語はどれですか。「He blew ( ) his entire savings within a few months.」`,options:[`out`,`through`,`off`,`up`],correctAnswer:1,explanation:`貯金をあっという間に使い果たすという意味なので blow through。`},{id:`q-blowout-3`,question:`blow out の意味として適切でないものはどれですか。`,options:[`火を吹き消す`,`タイヤがパンクする`,`予算を使い果たす`,`相手に圧勝する`],correctAnswer:2,explanation:`予算を使い果たすのは blow through の意味です。`},{id:`q-blowout-4`,question:`「高速道路でタイヤがパンクした」を最も自然に表す文はどれですか。`,options:[`The tire blew through on the highway.`,`The tire blew out on the highway.`,`The tire blew off on the highway.`,`The tire blew up on the highway.`],correctAnswer:1,explanation:`タイヤが破裂するという意味では blow out が使われます。`},{id:`q-blowout-5`,question:`blow out と blow through の違いとして正しい説明はどれですか。`,options:[`両方とも同じ意味で置き換え可能`,`blow out は一瞬の強い勢い（吹き消す・パンク・圧勝）、blow through は資金を使い果たす`,`blow out は資金を使い果たす、blow through は一瞬の勢いを表す`,`意味の違いとは無関係`],correctAnswer:1,explanation:`一瞬の勢いが blow out、資源の使い果たしが blow through です。`}]},{id:`cut-off-cut-down-on`,title:`cut off と cut down on`,chapter:5,hubId:`cut`,description:`cut off は「（供給・連絡を）遮断する」、cut down on は「（量・頻度を）減らす」。完全に断つか、少しずつ減らすかの違いです。`,content:`## 完全に断つか、少しずつ減らすか
+🎯 覚え方：**out＝一瞬で強く外に噴き出す（吹き消す・パンクする・圧勝する）**、**through＝資源が手元を吹き抜けて無くなる（使い果たす）**。`,keyPoints:[`blow out＝火を吹き消す、タイヤがパンクする、（米口語で）相手に圧勝する`,`blow through＝お金や予算をあっという間に使い果たす（主に米語）`,`out は一瞬で強く外に噴き出すイメージ、through は資源が吹き抜けて無くなるイメージ`,`財産の浪費は blow through、タイヤの破裂は blow out（混同しやすいので要注意）`],quiz:[{id:`q-blowout-1`,question:`空所に入る適切な語はどれですか。「Make a wish and blow ( ) the candles!」`,options:[`through`,`out`,`off`,`away`],correctAnswer:1,explanation:`火を吹き消すという意味なので blow out。`},{id:`q-blowout-2`,question:`空所に入る適切な語はどれですか。「He blew ( ) his entire savings within a few months.」`,options:[`out`,`through`,`off`,`up`],correctAnswer:1,explanation:`貯金をあっという間に使い果たすという意味なので blow through。`},{id:`q-blowout-3`,question:`blow out の意味として適切でないものはどれですか。`,options:[`火を吹き消す`,`タイヤがパンクする`,`予算を使い果たす`,`相手に圧勝する`],correctAnswer:2,explanation:`予算を使い果たすのは blow through の意味です。`},{id:`q-blowout-4`,question:`「高速道路でタイヤがパンクした」を最も自然に表す文はどれですか。`,options:[`The tire blew through on the highway.`,`The tire blew out on the highway.`,`The tire blew off on the highway.`,`The tire blew up on the highway.`],correctAnswer:1,explanation:`タイヤが破裂するという意味では blow out が使われます。`},{id:`q-blowout-5`,question:`blow out と blow through の違いとして正しい説明はどれですか。`,options:[`両方とも同じ意味で置き換え可能`,`blow out は一瞬の強い勢い（吹き消す・パンク・圧勝）、blow through は資金を使い果たす`,`blow out は資金を使い果たす、blow through は一瞬の勢いを表す`,`意味の違いとは無関係`],correctAnswer:1,explanation:`一瞬の勢いが blow out、資源の使い果たしが blow through です。`}]},{id:`blow-in-blow-down`,title:`blow in と blow down`,chapter:5,hubId:`blow`,description:`同じ blow でも in は「人がふらっと突然やってくる（インフォーマル）」、down は「風が物を倒す」。主語が人か風かで意味がまったく違います。`,content:`## 人が来るのか、風が倒すのか
+
+blow in と blow down はどちらも風にまつわる語感を持ちますが、主語と対象が異なります。
+
+- **blow in** … 人が**予告なくふらっと現れる**（インフォーマル）。天候・嵐が「吹き込む」意味でも使う。
+- **blow down** … 風の力で木や柵などが**倒れる／倒す**。
+
+| 熟語 | 中心の意味 | 典型的な主語 |
+| --- | --- | --- |
+| blow in | 予告なくふらっと現れる／嵐が吹き込む | 人／天候 |
+| blow down | 風の力で倒れる・倒す | 木・柵・看板 |
+
+### blow in の使い分け
+
+blow in はくだけた言い方で、「誰かが前触れもなくひょっこり現れる」ことを表します。"He just blew in from nowhere and expected dinner." のように、驚きや呆れのニュアンスを伴うことが多い表現です。天候について使うと、"A storm blew in from the coast." のように「嵐が吹き込んできた」という意味にもなります。
+
+### blow down の使い分け
+
+blow down は「強風が木や柵、看板などを倒す」という意味で、"The old fence was blown down in last night's storm." のように受け身でよく使われます。倒れる対象は常に物で、人には使いません。
+
+### なぜ直訳で読み解けないか
+
+in は「中へ入ってくる」動き、down は「下へ倒れる」動きを表します。blow in は人や天候が場に「入り込んでくる」突然さ、blow down は物が風の力で「下に倒れる」結果を指しており、同じ blow でも主語（人・嵐 vs. 風の力）と結果（現れる vs. 倒れる）の向きがまったく違います。
+
+### よくある誤用
+
+⚠️ \`The old tree was blown in during the typhoon.\`（誤）。台風で木が倒れたなら blown **down**。blow in は人や嵐が現れる意味なので、木が倒れる結果には使いません。
+
+⚠️ \`My cousin just blew down from out of town without calling.\`（誤）。連絡もなくふらっと来たなら blew **in**。blow down は物が倒れる意味なので、人の来訪には使えません。
+
+🎯 覚え方：**in＝人や嵐がふらっと入り込んでくる**、**down＝風の力で物が下に倒れる**。`,keyPoints:[`blow in＝人が予告なくふらっと現れる（インフォーマル）／嵐が吹き込む`,`blow down＝強風で木や柵などが倒れる・倒す`,`in は場に入り込んでくる突然さ、down は風の力で倒れる結果`,`人の来訪は blow in、物が倒れる話は blow down（主語も対象も別物）`],quiz:[{id:`q-blowindown-1`,question:`空所に入る適切な語はどれですか。「He just blew ( ) from out of town without any warning.」`,options:[`down`,`in`,`out`,`through`],correctAnswer:1,explanation:`予告なくふらっと現れるという意味なので blow in。`},{id:`q-blowindown-2`,question:`空所に入る適切な語はどれですか。「The old fence was blown ( ) in last night's storm.」`,options:[`in`,`down`,`up`,`off`],correctAnswer:1,explanation:`強風で倒れるという意味なので blow down。`},{id:`q-blowindown-3`,question:`blow in の意味として最も適切なものはどれですか。`,options:[`風で物が倒れる`,`人が予告なくふらっと現れる`,`予算を使い果たす`,`タイヤがパンクする`],correctAnswer:1,explanation:`blow in はくだけた言い方で突然の来訪を表します。`},{id:`q-blowindown-4`,question:`「その古い看板は台風で倒された」を最も自然に表す文はどれですか。`,options:[`The old sign was blown in by the typhoon.`,`The old sign was blown down by the typhoon.`,`The old sign was blown out by the typhoon.`,`The old sign was blown through by the typhoon.`],correctAnswer:1,explanation:`風の力で物が倒れる意味では blow down が使われます。`},{id:`q-blowindown-5`,question:`blow in と blow down の違いとして正しい説明はどれですか。`,options:[`両方とも同じ意味で置き換え可能`,`blow in は人や嵐が予告なく現れる、blow down は風で物が倒れる`,`blow in は風で物が倒れる、blow down は人が現れる`,`意味の違いとは無関係`],correctAnswer:1,explanation:`人・嵐の到来が blow in、物の転倒が blow down です。`}]},{id:`cut-off-cut-down-on`,title:`cut off と cut down on`,chapter:5,hubId:`cut`,description:`cut off は「（供給・連絡を）遮断する」、cut down on は「（量・頻度を）減らす」。完全に断つか、少しずつ減らすかの違いです。`,content:`## 完全に断つか、少しずつ減らすか
 
 cut off と cut down on はどちらも「減らす」に関わりますが、off の「本体から切り離す」イメージと down on の「量を少しずつ削る」イメージで、削減の度合いが正反対です。
 
@@ -10055,8 +10205,10 @@ draw は「（力を加えて）引く・引っ張り出す」が核となる意
 | draw out | out（外へ引き伸ばす） | 長引かせる／人の本音を引き出す |
 | draw in | in（日照時間が内側へ縮む） | 秋冬が近づき日が短くなる／人を巻き込む |
 | draw near | near（隔たりが縮まる） | 出来事や人が時間・空間的に近づく |
+| draw together | together（複数が引き寄せ合う） | 結束させる・関係を近づける |
+| draw level | level（差が引き寄せられて並ぶ） | 追いついて同点・並走になる |
 
-draw on は「蓄積された資質の上に手を伸ばして力を引き出す」イメージで、知識や経験を活用する場面に使われます。draw up は「散在する条項を組み上げて文書化する」イメージから契約書の作成に、また「車が引かれるように止まる」イメージから停車にも使われます。draw back は「驚きや恐れで後ろに引く」動作、draw out は「言葉や時間を外へ引き伸ばす」イメージから、話を長引かせることにも、人の内気な本音を引き出すことにも使われます。draw in は「日照時間が内側へ縮む」イメージで秋冬の接近を表す限定的な表現、draw near は「隔たりが縮まる」イメージで出来事や人の接近全般を表します。`,previewPairs:[`draw on vs draw up（利用する／作成する・停車する）`,`draw back vs draw out（後ずさりする／長引かせる・引き出す）`,`draw in vs draw near（秋冬が近づく・巻き込む／出来事や人が近づく）`]},{id:`give`,verb:`give`,title:`give は前置詞でどう意味が変わる？`,description:`give の中心イメージ「相手に渡す」が、続く前置詞・副詞でどう枝分かれするかをまとめたハブページ。`,content:`## give の中心イメージ
+draw on は「蓄積された資質の上に手を伸ばして力を引き出す」イメージで、知識や経験を活用する場面に使われます。draw up は「散在する条項を組み上げて文書化する」イメージから契約書の作成に、また「車が引かれるように止まる」イメージから停車にも使われます。draw back は「驚きや恐れで後ろに引く」動作、draw out は「言葉や時間を外へ引き伸ばす」イメージから、話を長引かせることにも、人の内気な本音を引き出すことにも使われます。draw in は「日照時間が内側へ縮む」イメージで秋冬の接近を表す限定的な表現、draw near は「隔たりが縮まる」イメージで出来事や人の接近全般を表します。draw together は「複数の存在が互いに引き寄せ合う」イメージで人間関係や組織の結束を表し、draw level は「開いていた差が引き寄せられて並ぶ」イメージでスポーツの追いつき・同点化を表します。`,previewPairs:[`draw on vs draw up（利用する／作成する・停車する）`,`draw back vs draw out（後ずさりする／長引かせる・引き出す）`,`draw in vs draw near（秋冬が近づく・巻き込む／出来事や人が近づく）`,`draw together vs draw level（結束させる／追いついて同点になる）`]},{id:`give`,verb:`give`,title:`give は前置詞でどう意味が変わる？`,description:`give の中心イメージ「相手に渡す」が、続く前置詞・副詞でどう枝分かれするかをまとめたハブページ。`,content:`## give の中心イメージ
 
 give は「（自分から相手へ）渡す」が核となる意味です。物を渡す動作から、抵抗の放棄・秘密の暴露・習慣の放棄という比喩に広がり、続く前置詞・副詞が「何を、どこへ渡すか」を決めます。
 
@@ -10068,8 +10220,10 @@ give は「（自分から相手へ）渡す」が核となる意味です。物
 | give away | away（自分から離して渡す） | 無料で譲る・（秘密を）漏らす |
 | give off | off（発生源から自然に立ち上る） | 匂い・熱・光・ガスを発する |
 | give out | out（内側の分を出し切る） | 配る・尽きる・止まる・公表する |
+| give over | over（丸ごと相手に明け渡す） | （英・口語）やめる／場所・時間を用途に充てる |
+| give onto | onto（面が対象に接する） | （窓・ドアが）～に面する |
 
-give in は「抵抗をやめて内側へ入り込むように降伏する」イメージで、要求や圧力に屈する場面に使われます。give way to は「自分の場所を譲って相手を先に通す」イメージから、道を譲ることにも、感情や別のものに取って代わられることにも広がります。give up は「持っていたものを全て手放す」イメージからあきらめる・やめるを表し、give away は「自分の手から離れた場所へ渡す」イメージから、無料で譲ることにも、秘密をうっかり漏らすことにも使われます。give off は「発生源から自然に立ち上る」イメージで匂いや熱の発生を表し、give out は「内側にある分を出し切る」イメージで配布・枯渇・公表を表します。`,previewPairs:[`give in vs give way to（屈する／取って代わられる・屈する）`,`give up vs give away（あきらめる／無料で譲る・秘密を漏らす）`,`give off vs give out（匂い・熱を発する／配る・尽きる・公表する）`]},{id:`work`,verb:`work`,title:`work は前置詞でどう意味が変わる？`,description:`work の中心イメージ「働きかける」が、続く前置詞・副詞でどう枝分かれするかをまとめたハブページ。`,content:`## work の中心イメージ
+give in は「抵抗をやめて内側へ入り込むように降伏する」イメージで、要求や圧力に屈する場面に使われます。give way to は「自分の場所を譲って相手を先に通す」イメージから、道を譲ることにも、感情や別のものに取って代わられることにも広がります。give up は「持っていたものを全て手放す」イメージからあきらめる・やめるを表し、give away は「自分の手から離れた場所へ渡す」イメージから、無料で譲ることにも、秘密をうっかり漏らすことにも使われます。give off は「発生源から自然に立ち上る」イメージで匂いや熱の発生を表し、give out は「内側にある分を出し切る」イメージで配布・枯渇・公表を表します。give over はイギリス口語で「丸ごと明け渡す」イメージからやめるよう求める言い方や、空間・時間をある用途に充てる意味を表し、give onto は「面が対象に接している」イメージで窓やドアが特定の場所に面していることを表します。`,previewPairs:[`give in vs give way to（屈する／取って代わられる・屈する）`,`give up vs give away（あきらめる／無料で譲る・秘密を漏らす）`,`give off vs give out（匂い・熱を発する／配る・尽きる・公表する）`,`give over vs give onto（やめる・用途に充てる／～に面する）`]},{id:`work`,verb:`work`,title:`work は前置詞でどう意味が変わる？`,description:`work の中心イメージ「働きかける」が、続く前置詞・副詞でどう枝分かれするかをまとめたハブページ。`,content:`## work の中心イメージ
 
 work は「（対象に力を加えて）働きかける」が核となる意味です。労働の意味から、解決・改善・鍛錬という比喩に広がり、続く前置詞・副詞が「働きかけた結果どうなるか」を決めます。
 
@@ -10081,8 +10235,10 @@ work は「（対象に力を加えて）働きかける」が核となる意味
 | work up | up（労力を積み上げて生み出す） | （食欲・計画等を）作り上げる／興奮させる |
 | work off | off（内側から外へ出し切る） | 発散する・（借金を）働いて返す |
 | work in | in（新しい要素を内側へ取り込む） | 混ぜ込む・（話に）組み込む |
+| work at | at（対象の一点に力を向け続ける） | ～に努力を注ぐ・打ち込む |
+| work against | against（相手に逆らって働く） | ～にとって不利に働く |
 
-work out は「問題を計算して答えを外へ導き出す」イメージで、解決策を見つけることにも、体を鍛えることにも、物事がうまく運ぶことにも使われます。work on は「対象に接触し続けて働きかける」イメージで、改善やスキルの向上に取り組む場面の定番です。work through は「障害を最初から最後まで貫通して進む」イメージから、複雑な問題や悲しみの感情を段階的に処理することを表し、work up は「労力を積み上げて何かを生み出す」イメージから、食欲を作り上げることにも、人を興奮状態にまで高めることにも使われます。work off は「内側にたまったものを外へ出し切る」イメージでストレス発散や借金返済を表し、work in は「新しい要素を内側へ取り込む」イメージで材料を混ぜ込む・話に盛り込む意味を表します。`,previewPairs:[`work out vs work on（解決する・鍛える／取り組む）`,`work through vs work up（段階的に処理する／作り上げる・興奮させる）`,`work off vs work in（発散する・返す／混ぜ込む・盛り込む）`]},{id:`back`,verb:`back`,title:`back は前置詞でどう意味が変わる？`,description:`back の中心イメージ「後方・元の位置」が、続く前置詞・副詞でどう枝分かれするかをまとめたハブページ。`,content:`## back の中心イメージ
+work out は「問題を計算して答えを外へ導き出す」イメージで、解決策を見つけることにも、体を鍛えることにも、物事がうまく運ぶことにも使われます。work on は「対象に接触し続けて働きかける」イメージで、改善やスキルの向上に取り組む場面の定番です。work through は「障害を最初から最後まで貫通して進む」イメージから、複雑な問題や悲しみの感情を段階的に処理することを表し、work up は「労力を積み上げて何かを生み出す」イメージから、食欲を作り上げることにも、人を興奮状態にまで高めることにも使われます。work off は「内側にたまったものを外へ出し切る」イメージでストレス発散や借金返済を表し、work in は「新しい要素を内側へ取り込む」イメージで材料を混ぜ込む・話に盛り込む意味を表します。work at は「対象の一点に力を向け続ける」イメージで、人が努力して打ち込む場面に使われ、work against は「相手に逆らう方向へ力が働く」イメージで、時間や状況が不利に働くことを表します。`,previewPairs:[`work out vs work on（解決する・鍛える／取り組む）`,`work through vs work up（段階的に処理する／作り上げる・興奮させる）`,`work off vs work in（発散する・返す／混ぜ込む・盛り込む）`,`work at vs work against（努力を注ぐ／不利に働く）`]},{id:`back`,verb:`back`,title:`back は前置詞でどう意味が変わる？`,description:`back の中心イメージ「後方・元の位置」が、続く前置詞・副詞でどう枝分かれするかをまとめたハブページ。`,content:`## back の中心イメージ
 
 back は「後ろ・元の位置」が核となる意味です。物理的な後退から、支持・撤回・回避という比喩に広がり、続く前置詞・副詞が「何を、どちらの方向へ後ろに動かすか」を決めます。
 
@@ -10120,8 +10276,10 @@ count は「数える」が核となる意味です。数を数える動作か�
 | count against | against（相手に不利に働きかける） | ～にとって不利に働く |
 | count in | in（集団の内側へ加わる） | 参加者として数に入れる |
 | count off | off（順に区切って分ける） | 順に数え上げる・数えて分ける |
+| count down | down（ゼロへ向けて数が減る） | ゼロへ向けて数を減らしながら待つ |
+| count up | up（個々を積み上げて合計） | 足し上げて合計を出す |
 
-count on は「相手の存在の上に自分の期待を置く」イメージで、頼りにする・当てにするという信頼を表します。count out は「対象を数え終えて輪の外に出す」イメージから、人を仲間はずれにする（除外する）ことにも、お金を1枚ずつ数えて手渡すことにも使われます。count toward は「目標に向かって数値が積み上がっていく」イメージで、単位や成績が加算される場面に、count against は「数えた結果が相手に不利な方向へ働く」イメージで、評価やマイナス材料になる場面に使われます。count in は「集団の内側へ自分や誰かを数え入れる」イメージで参加の意思表示（Count me in!）を表し、count off は「順番に区切って数える」イメージで号令や項目の列挙を表します。`,previewPairs:[`count on vs count out（頼りにする／除外する・数えて出す）`,`count toward vs count against（加算される／不利に働く）`,`count in vs count off（参加する／順に数え上げる・分ける）`]},{id:`blow`,verb:`blow`,title:`blow は前置詞でどう意味が変わる？`,description:`blow の中心イメージ「風で吹く」が、続く前置詞・副詞でどう枝分かれするかをまとめたハブページ。`,content:`## blow の中心イメージ
+count on は「相手の存在の上に自分の期待を置く」イメージで、頼りにする・当てにするという信頼を表します。count out は「対象を数え終えて輪の外に出す」イメージから、人を仲間はずれにする（除外する）ことにも、お金を1枚ずつ数えて手渡すことにも使われます。count toward は「目標に向かって数値が積み上がっていく」イメージで、単位や成績が加算される場面に、count against は「数えた結果が相手に不利な方向へ働く」イメージで、評価やマイナス材料になる場面に使われます。count in は「集団の内側へ自分や誰かを数え入れる」イメージで参加の意思表示（Count me in!）を表し、count off は「順番に区切って数える」イメージで号令や項目の列挙を表します。count down は「ゼロへ向けて数が減っていく」イメージで、重要な出来事を期待して待つ場面を表し、count up は「個々の数を積み上げて合計を出す」イメージで、投票や在庫の集計に使われます。`,previewPairs:[`count on vs count out（頼りにする／除外する・数えて出す）`,`count toward vs count against（加算される／不利に働く）`,`count in vs count off（参加する／順に数え上げる・分ける）`,`count down vs count up（ゼロへ向けて待つ／足し上げて合計する）`]},{id:`blow`,verb:`blow`,title:`blow は前置詞でどう意味が変わる？`,description:`blow の中心イメージ「風で吹く」が、続く前置詞・副詞でどう枝分かれするかをまとめたハブページ。`,content:`## blow の中心イメージ
 
 blow は「風が吹く・息を吹く」が核となる意味です。物理的な風の動きから、爆発・感情の高ぶり・軽視・驚嘆という比喩に広がり、続く前置詞・副詞が「吹いた結果どうなるか」を決めます。
 
@@ -10133,8 +10291,10 @@ blow は「風が吹く・息を吹く」が核となる意味です。物理的
 | blow away | away（吹き飛ばして遠ざける） | 撃ち殺す（俗）／感嘆させる／圧勝する |
 | blow out | out（一瞬で強く外に噴き出す） | 吹き消す・パンクする・圧勝する |
 | blow through | through（資源が吹き抜けて無くなる） | 資金・予算を使い果たす |
+| blow in | in（人や嵐が場に入り込む） | ふらっと現れる（口語）／嵐が吹き込む |
+| blow down | down（風の力で下に倒れる） | 強風で物が倒れる・倒す |
 
-blow up は「内部の圧力が限界まで高まって破裂する」イメージで、爆発にも、風船を膨らませることにも、怒りが爆発することにも使われます。blow over は「嵐が吹き抜けて頭上を通り過ぎていく」イメージで、騒動やスキャンダルが時間とともに自然に収まることを表します。blow off は「表面に乗っていたものを吹き払って無かったことにする」イメージから、約束や義務を無視することを表し、blow away は「対象を吹き飛ばして遠くへやる」イメージから、驚くほど感心させることにも、相手に圧勝することにも広がります。blow out は「一瞬で強く外に噴き出す」イメージで火を消す・タイヤの破裂・圧勝を表し、blow through は「資源が手元を吹き抜けていく」イメージで資金や予算を使い果たす意味を表します。`,previewPairs:[`blow up vs blow over（爆発する・激怒する／自然に収まる）`,`blow off vs blow away（すっぽかす・無視する／感嘆させる・圧勝する）`,`blow out vs blow through（吹き消す・パンクする／資金を使い果たす）`]},{id:`cut`,verb:`cut`,title:`cut は前置詞でどう意味が変わる？`,description:`cut の中心イメージ「刃物で切る」が、続く前置詞・副詞でどう枝分かれするかをまとめたハブページ。`,content:`## cut の中心イメージ
+blow up は「内部の圧力が限界まで高まって破裂する」イメージで、爆発にも、風船を膨らませることにも、怒りが爆発することにも使われます。blow over は「嵐が吹き抜けて頭上を通り過ぎていく」イメージで、騒動やスキャンダルが時間とともに自然に収まることを表します。blow off は「表面に乗っていたものを吹き払って無かったことにする」イメージから、約束や義務を無視することを表し、blow away は「対象を吹き飛ばして遠くへやる」イメージから、驚くほど感心させることにも、相手に圧勝することにも広がります。blow out は「一瞬で強く外に噴き出す」イメージで火を消す・タイヤの破裂・圧勝を表し、blow through は「資源が手元を吹き抜けていく」イメージで資金や予算を使い果たす意味を表します。blow in は「人や嵐が場に予告なく入り込んでくる」イメージでくだけた来訪や天候の到来を表し、blow down は「風の力が物を下に倒す」イメージで木や柵の倒壊を表します。`,previewPairs:[`blow up vs blow over（爆発する・激怒する／自然に収まる）`,`blow off vs blow away（すっぽかす・無視する／感嘆させる・圧勝する）`,`blow out vs blow through（吹き消す・パンクする／資金を使い果たす）`,`blow in vs blow down（ふらっと現れる／風で倒れる）`]},{id:`cut`,verb:`cut`,title:`cut は前置詞でどう意味が変わる？`,description:`cut の中心イメージ「刃物で切る」が、続く前置詞・副詞でどう枝分かれするかをまとめたハブページ。`,content:`## cut の中心イメージ
 
 cut は「（刃物で）切る」が核となる意味です。物を切り分ける動作から、供給の遮断・削減・割り込みという比喩に広がり、続く前置詞・副詞が「どこを、どう切るか」を決めます。
 
