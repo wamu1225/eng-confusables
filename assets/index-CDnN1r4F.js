@@ -9126,7 +9126,37 @@ back は「元の状態・低い水準へ戻す」イメージ、through は「�
 
 ⚠️ \`Could you cut back all this confusing paperwork and explain it simply?\`（誤）。複雑な書類の本質を分かりやすく説明してほしいなら cut **through**。cut back は量を減らす意味なので、理解の助けを求める文脈には不自然です。
 
-🎯 覚え方：**back＝増えすぎたものを元の水準へ切り戻す（削減する）**、**through＝障害物を突き抜けて核心に達する（近道する・本質を突く）**。`,keyPoints:[`cut back＝支出・活動の量を減らす（cut back on 〜 の形が多い）`,`cut through＝近道して通り抜ける、複雑な問題の本質を素早く突く`,`back は元の低い水準へ戻すイメージ、through は障害物を突き抜けるイメージ`,`支出削減は cut back、本質を突くのは cut through（混同しやすいので要注意）`],quiz:[{id:`q-cutback-1`,question:`空所に入る適切な語はどれですか。「The company decided to cut ( ) on unnecessary travel expenses.」`,options:[`through`,`back`,`in`,`out`],correctAnswer:1,explanation:`支出を削減するという意味なので cut back。`},{id:`q-cutback-2`,question:`空所に入る適切な語はどれですか。「Her clear explanation cut ( ) all the confusing jargon.」`,options:[`back`,`through`,`off`,`down`],correctAnswer:1,explanation:`複雑な内容の本質を突くという意味なので cut through。`},{id:`q-cutback-3`,question:`cut back の意味として最も適切なものはどれですか。`,options:[`近道する`,`支出や量を減らす`,`本質を突く`,`割り込む`],correctAnswer:1,explanation:`cut back は支出や活動量を削減する意味です。`},{id:`q-cutback-4`,question:`「彼は近道するために公園を突っ切った」を最も自然に表す文はどれですか。`,options:[`He cut back the park to save time.`,`He cut through the park to save time.`,`He cut off the park to save time.`,`He cut down the park to save time.`],correctAnswer:1,explanation:`近道して通り抜けるという意味では cut through が使われます。`},{id:`q-cutback-5`,question:`cut back と cut through の違いとして正しい説明はどれですか。`,options:[`両方とも同じ意味で置き換え可能`,`cut back は量を減らす、cut through は障害物を突き抜けて本質に達する`,`cut back は本質を突く、cut through は量を減らす`,`意味の違いとは無関係`],correctAnswer:1,explanation:`削減が cut back、貫通・本質理解が cut through です。`}]},{id:`fill-in-fill-out`,title:`fill in と fill out`,chapter:5,hubId:`fill`,description:`fill in は「空欄に記入する・欠けた情報を補う」、fill out は「（書類全体に）記入する（主に米語）」。個別の空欄を埋めるか、全体を埋め尽くすかの違いです。`,content:`## 個別の空欄を埋めるか、全体を埋め尽くすか
+🎯 覚え方：**back＝増えすぎたものを元の水準へ切り戻す（削減する）**、**through＝障害物を突き抜けて核心に達する（近道する・本質を突く）**。`,keyPoints:[`cut back＝支出・活動の量を減らす（cut back on 〜 の形が多い）`,`cut through＝近道して通り抜ける、複雑な問題の本質を素早く突く`,`back は元の低い水準へ戻すイメージ、through は障害物を突き抜けるイメージ`,`支出削減は cut back、本質を突くのは cut through（混同しやすいので要注意）`],quiz:[{id:`q-cutback-1`,question:`空所に入る適切な語はどれですか。「The company decided to cut ( ) on unnecessary travel expenses.」`,options:[`through`,`back`,`in`,`out`],correctAnswer:1,explanation:`支出を削減するという意味なので cut back。`},{id:`q-cutback-2`,question:`空所に入る適切な語はどれですか。「Her clear explanation cut ( ) all the confusing jargon.」`,options:[`back`,`through`,`off`,`down`],correctAnswer:1,explanation:`複雑な内容の本質を突くという意味なので cut through。`},{id:`q-cutback-3`,question:`cut back の意味として最も適切なものはどれですか。`,options:[`近道する`,`支出や量を減らす`,`本質を突く`,`割り込む`],correctAnswer:1,explanation:`cut back は支出や活動量を削減する意味です。`},{id:`q-cutback-4`,question:`「彼は近道するために公園を突っ切った」を最も自然に表す文はどれですか。`,options:[`He cut back the park to save time.`,`He cut through the park to save time.`,`He cut off the park to save time.`,`He cut down the park to save time.`],correctAnswer:1,explanation:`近道して通り抜けるという意味では cut through が使われます。`},{id:`q-cutback-5`,question:`cut back と cut through の違いとして正しい説明はどれですか。`,options:[`両方とも同じ意味で置き換え可能`,`cut back は量を減らす、cut through は障害物を突き抜けて本質に達する`,`cut back は本質を突く、cut through は量を減らす`,`意味の違いとは無関係`],correctAnswer:1,explanation:`削減が cut back、貫通・本質理解が cut through です。`}]},{id:`cut-across-cut-up`,title:`cut across と cut up`,chapter:5,hubId:`cut`,description:`同じ cut でも across は「複数の分野・集団の境界を越えて影響する（または近道で突っ切る）」、up は「細かく切り分ける」「（be cut up で）深く傷つく」。境界を横断するか、対象を切り分けるかの違いです。`,content:`## 境界を横断するのか、対象を切り分けるのか
+
+cut across と cut up はどちらも「cut＋副詞」ですが、切る対象と方向がまったく異なります。
+
+- **cut across** … 本来別々の**分野・集団の境界を越えて**共通に影響する、または近道として場所を**突っ切る**。
+- **cut up** … 対象を**細かく切り分ける**、（be/get cut up で）**深く傷つく・打ちのめされる**。
+
+| 熟語 | 中心の意味 | 典型的な文脈 |
+| --- | --- | --- |
+| cut **across** | 分野・集団の境界を越えて影響する／近道で突っ切る | party lines, generations, social groups／a field, a park |
+| cut **up** | 細かく切り分ける／（be cut up で）深く傷つく | vegetables, meat／be cut up about the news |
+
+### cut across の使い分け
+
+cut across は「本来は別々に区切られているはずの分野やグループの境界を越えて、共通して影響を及ぼす」という意味で、"The debate over remote work cuts across generations and industries." のように政治・社会問題の議論で頻出します。もう一つ、文字通り「回り道をせず、ある場所を突っ切って近道する」という意味もあり、"If we cut across the field, we'll save ten minutes." のように使われます。
+
+### cut up の使い分け
+
+cut up は最も基本的には「（食材などを）小さく切り分ける」という意味で、"Cut the chicken up into bite-sized pieces before cooking." のように使われます。そこから派生して、主にイギリス英語のくだけた表現で **be/get cut up**（受動態）は「（つらい知らせなどで）深く傷つく・打ちのめされる」という感情面の意味を持ち、"She was really cut up when she heard the news." のように使われます。
+
+### なぜ直訳で読み解けないか
+
+across は「境界線を横切る」イメージを運び、複数のグループにまたがって影響することや、回り道をせず場所を横切ることを表します。up は「対象をバラバラの断片に仕上げる」イメージを運び、物理的に切り分けることにも、（受動態で）心が粉々に打ちのめされる比喩にも使われます。同じ cut でも、across は境界を越えて広がる方向、up は対象を細かく分解する方向という違いが意味の違いになっています。
+
+### よくある誤用
+
+⚠️ \`The policy issue cuts up party lines.\`（誤）。政党の境界を越えて共通の関心事になっているなら cuts **across** party lines。cut up は切り刻む・傷つくという意味なので、境界を横断する意味では使いません。
+
+⚠️ \`He was really cut across when he heard about the layoffs.\`（誤）。つらい知らせに深く傷ついたなら **cut up**（was cut up）。cut across は境界の横断・近道の意味なので、感情が傷つく場面には使いません。
+
+🎯 覚え方：**across＝境界・分野をまたいで影響する、または近道で突っ切る**、**up＝対象を細かく切り分ける（比喩的には心が打ちのめされる）**。`,keyPoints:[`cut across＝分野・集団の境界を越えて共通に影響する。回り道せず場所を突っ切る近道の意味も持つ`,`cut up＝食材などを細かく切り分ける。be/get cut up（受動態・英口語）はつらい知らせで深く傷つく意味`,`across は境界を横切るイメージ、up は対象を断片に分解するイメージ`,`政党や世代を横断する話題は cuts across、感情的に傷ついたのは was cut up（混同しやすいので要注意）`],quiz:[{id:`q-cutacross-1`,question:`空所に入る適切な語はどれですか。「Support for the proposal cuts ( ) traditional party lines.」`,options:[`up`,`across`,`back`,`out`],correctAnswer:1,explanation:`政党の境界を越えて共通に支持されるという意味なので cuts across。`},{id:`q-cutacross-2`,question:`空所に入る適切な語はどれですか。「She was terribly cut ( ) when she found out about the accident.」`,options:[`up`,`across`,`back`,`through`],correctAnswer:0,explanation:`つらい知らせで深く傷ついたという意味なので cut up。`},{id:`q-cutacross-3`,question:`cut across の意味として最も適切なものはどれですか。`,options:[`分野・集団の境界を越えて影響する・近道で突っ切る`,`細かく切り分ける`,`支出や量を減らす`,`割り込む`],correctAnswer:0,explanation:`cut across は境界を越えて共通に影響する、または近道する意味です。`},{id:`q-cutacross-4`,question:`「その野菜を小さく切り分けてください」を最も自然に表す文はどれですか。`,options:[`Please cut across the vegetables.`,`Please cut up the vegetables.`,`Please cut back the vegetables.`,`Please cut off the vegetables.`],correctAnswer:1,explanation:`細かく切り分けるという意味では cut up が使われます。`},{id:`q-cutacross-5`,question:`cut across と cut up の違いとして正しい説明はどれですか。`,options:[`両方とも同じ意味で置き換え可能`,`cut across は境界を越えて影響する・近道する、cut up は切り分ける・深く傷つく`,`cut across は切り分ける、cut up は境界を越えて影響する`,`意味の違いとは無関係`],correctAnswer:1,explanation:`境界の横断が cut across、切り分け・感情の傷つきが cut up です。`}]},{id:`fill-in-fill-out`,title:`fill in と fill out`,chapter:5,hubId:`fill`,description:`fill in は「空欄に記入する・欠けた情報を補う」、fill out は「（書類全体に）記入する（主に米語）」。個別の空欄を埋めるか、全体を埋め尽くすかの違いです。`,content:`## 個別の空欄を埋めるか、全体を埋め尽くすか
 
 fill in と fill out はどちらも「（書類に）記入する」という意味で重なり、実際の場面では入れ替え可能なことも多いですが、in の「個別の空欄」イメージと out の「全体の輪郭」イメージという違いがあります。
 
@@ -9464,7 +9494,37 @@ behind は「本来いるべき位置より後ろに取り残される」イメ�
 
 ⚠️ \`I've fallen apart on my rent payments this month.\`（誤）。家賃の支払いが遅れているなら fall **behind**（fall behind on rent payments）。fall apart は崩壊・取り乱しの意味なので、支払いの遅延には使えません。
 
-🎯 覚え方：**behind＝ペースより後ろに取り残される（遅れる）**、**apart＝まとまりが崩れてバラバラになる（壊れる・崩壊する）**。`,keyPoints:[`fall behind＝予定・仕事・支払いなどで遅れる（fall behind on/with 〜 の形が多い）`,`fall apart＝物が壊れる、組織や合意が機能しなくなる、人が精神的に取り乱す`,`behind はペースより後ろに取り残されるイメージ、apart はまとまりが崩れるイメージ`,`支払いの滞納は fall behind、関係や物の崩壊は fall apart（混同しやすいので要注意）`],quiz:[{id:`q-fallbehind-1`,question:`空所に入る適切な語はどれですか。「We fell ( ) schedule because of the bad weather.」`,options:[`apart`,`behind`,`through`,`for`],correctAnswer:1,explanation:`予定より遅れるという意味なので fall behind。`},{id:`q-fallbehind-2`,question:`空所に入る適切な語はどれですか。「The negotiations fell ( ) after months of disagreement.」`,options:[`behind`,`apart`,`out`,`back on`],correctAnswer:1,explanation:`交渉が決裂する・機能しなくなるという意味なので fall apart。`},{id:`q-fallbehind-3`,question:`fall behind の意味として最も適切なものはどれですか。`,options:[`バラバラに壊れる`,`予定・進度で遅れる`,`恋に落ちる`,`精神的に取り乱す`],correctAnswer:1,explanation:`fall behind は進度や予定で遅れることを表します。`},{id:`q-fallbehind-4`,question:`「彼は妻を亡くしたあと、すっかり取り乱してしまった」を最も自然に表す文はどれですか。`,options:[`He fell behind when his wife died.`,`He fell apart when his wife died.`,`He fell for when his wife died.`,`He fell out when his wife died.`],correctAnswer:1,explanation:`精神的に取り乱すという意味では fall apart が使われます。`},{id:`q-fallbehind-5`,question:`fall behind と fall apart の違いとして正しい説明はどれですか。`,options:[`両方とも同じ意味で置き換え可能`,`fall behind は進度で遅れる、fall apart はまとまりが崩れる・壊れる`,`fall behind はまとまりが崩れる、fall apart は進度で遅れる`,`意味の違いとは無関係`],correctAnswer:1,explanation:`遅れが fall behind、崩壊が fall apart です。`}]},{id:`clear-up-clear-out`,title:`clear up と clear out`,chapter:5,hubId:`clear`,description:`clear up は「（天候・誤解等が）よくなる・解消する／片付ける」、clear out は「（不要な物を捨てて）空にする／立ち去る」。良い状態に向かうか、中身を空にするかの違いです。`,content:`## 良い状態に向かうか、中身を空にするか
+🎯 覚え方：**behind＝ペースより後ろに取り残される（遅れる）**、**apart＝まとまりが崩れてバラバラになる（壊れる・崩壊する）**。`,keyPoints:[`fall behind＝予定・仕事・支払いなどで遅れる（fall behind on/with 〜 の形が多い）`,`fall apart＝物が壊れる、組織や合意が機能しなくなる、人が精神的に取り乱す`,`behind はペースより後ろに取り残されるイメージ、apart はまとまりが崩れるイメージ`,`支払いの滞納は fall behind、関係や物の崩壊は fall apart（混同しやすいので要注意）`],quiz:[{id:`q-fallbehind-1`,question:`空所に入る適切な語はどれですか。「We fell ( ) schedule because of the bad weather.」`,options:[`apart`,`behind`,`through`,`for`],correctAnswer:1,explanation:`予定より遅れるという意味なので fall behind。`},{id:`q-fallbehind-2`,question:`空所に入る適切な語はどれですか。「The negotiations fell ( ) after months of disagreement.」`,options:[`behind`,`apart`,`out`,`back on`],correctAnswer:1,explanation:`交渉が決裂する・機能しなくなるという意味なので fall apart。`},{id:`q-fallbehind-3`,question:`fall behind の意味として最も適切なものはどれですか。`,options:[`バラバラに壊れる`,`予定・進度で遅れる`,`恋に落ちる`,`精神的に取り乱す`],correctAnswer:1,explanation:`fall behind は進度や予定で遅れることを表します。`},{id:`q-fallbehind-4`,question:`「彼は妻を亡くしたあと、すっかり取り乱してしまった」を最も自然に表す文はどれですか。`,options:[`He fell behind when his wife died.`,`He fell apart when his wife died.`,`He fell for when his wife died.`,`He fell out when his wife died.`],correctAnswer:1,explanation:`精神的に取り乱すという意味では fall apart が使われます。`},{id:`q-fallbehind-5`,question:`fall behind と fall apart の違いとして正しい説明はどれですか。`,options:[`両方とも同じ意味で置き換え可能`,`fall behind は進度で遅れる、fall apart はまとまりが崩れる・壊れる`,`fall behind はまとまりが崩れる、fall apart は進度で遅れる`,`意味の違いとは無関係`],correctAnswer:1,explanation:`遅れが fall behind、崩壊が fall apart です。`}]},{id:`fall-off-fall-in-with`,title:`fall off と fall in with`,chapter:5,hubId:`fall`,description:`同じ fall でも off は「（物理的に）落ちる」「量・質・人気が低下する」、in with は「（提案）に同調する」「（多くは好ましくない）人々と付き合うようになる」。下に落ちる・減るか、人や考えに合流するかの違いです。`,content:`## 下に落ちる・減るのか、人や考えに合流するのか
+
+fall off と fall in with はどちらも「fall＋副詞」ですが、対象と方向がまったく異なります。
+
+- **fall off** … 物から**落ちる**、量・質・人気などが**低下する**。
+- **fall in with** … 提案・計画に**同調する**、（多くは好ましくない）人々と**付き合うようになる**。
+
+| 熟語 | 中心の意味 | 典型的な文脈 |
+| --- | --- | --- |
+| fall **off** | 落ちる／量・質・人気が低下する | a bike, a ladder／sales, attendance, interest |
+| fall in **with** | 同調する／人々と付き合うようになる | a plan, an idea／a bad crowd, new friends |
+
+### fall off の使い分け
+
+fall off は文字通り「（自転車や梯子などから）落ちる」（He fell off his bike and broke his arm.）という物理的な意味が基本です。そこから比喩的に「数量・質・人気などが徐々に低下する」（Ticket sales have fallen off since the reviews came out.）という意味に広がり、ビジネスや統計の文脈で頻出します。
+
+### fall in with の使い分け
+
+fall in with は「相手の提案や計画にすんなり同調する」（She fell in with our suggestion without much resistance.）という意味と、「（多くは偶然）ある人々の集団と関わりを持つようになる」（He fell in with a group of gamblers after moving to the city.）という意味の2つがあります。後者は多くの場合、好ましくない仲間との付き合いを指す点が特徴です。
+
+### なぜ直訳で読み解けないか
+
+off は「表面から離れて落ちる」イメージで、物理的な落下にも、数値が本来の水準から離れて下がることにも使われます。in with は「相手の流れの中に入り込む」イメージで、提案の流れに合わせることにも、ある集団の中に入り込んで付き合うようになることにも使われます。同じ fall でも、off は下方向への離脱、in with は他者との合流という違いが意味の違いになっています。
+
+### よくある誤用
+
+⚠️ \`Ticket sales have fallen in with since last month.\`（誤）。売上が減ったなら fallen **off**。fall in with は同調・合流の意味なので、数量の低下には使いません。
+
+⚠️ \`He fell off a bad crowd after moving to the city.\`（誤）。悪い仲間と付き合うようになったなら fell **in with**。fall off は落下・低下の意味なので、人間関係の合流には使いません。
+
+🎯 覚え方：**off＝表面から離れて落ちる・水準が下がる**、**in with＝相手の流れに入り込んで同調する・付き合うようになる**。`,keyPoints:[`fall off＝物理的に落ちる。数量・質・人気などが低下する比喩にも使う`,`fall in with＝提案や計画に同調する。（多くは好ましくない）集団と付き合うようになる`,`off は表面から離れて下がるイメージ、in with は相手の流れに入り込むイメージ`,`売上や人気の低下は fall off、悪い仲間に加わったのは fall in with（混同しやすいので要注意）`],quiz:[{id:`q-falloff-1`,question:`空所に入る適切な語はどれですか。「Attendance at the meetings has fallen ( ) sharply this year.」`,options:[`in with`,`off`,`apart`,`behind`],correctAnswer:1,explanation:`出席者数が減ったという意味なので fall off。`},{id:`q-falloff-2`,question:`空所に入る適切な語はどれですか。「After moving to the city, he fell ( ) a group of gamblers.」`,options:[`off`,`in with`,`behind`,`apart`],correctAnswer:1,explanation:`好ましくない仲間と付き合うようになったという意味なので fall in with。`},{id:`q-falloff-3`,question:`fall off の意味として適切でないものはどれですか。`,options:[`物理的に落ちる`,`数量・質・人気が低下する`,`提案に同調する`,`売上が減る`],correctAnswer:2,explanation:`提案に同調するのは fall in with の意味です。`},{id:`q-falloff-4`,question:`「彼女は私たちの提案にすんなり同調してくれた」を最も自然に表す文はどれですか。`,options:[`She fell off our suggestion easily.`,`She fell in with our suggestion easily.`,`She fell behind our suggestion easily.`,`She fell apart our suggestion easily.`],correctAnswer:1,explanation:`提案に同調するという意味では fall in with が使われます。`},{id:`q-falloff-5`,question:`fall off と fall in with の違いとして正しい説明はどれですか。`,options:[`両方とも同じ意味で置き換え可能`,`fall off は落ちる・低下する、fall in with は同調する・付き合うようになる`,`fall off は同調する、fall in with は落ちる・低下する`,`意味の違いとは無関係`],correctAnswer:1,explanation:`落下・低下が fall off、同調・合流が fall in with です。`}]},{id:`clear-up-clear-out`,title:`clear up と clear out`,chapter:5,hubId:`clear`,description:`clear up は「（天候・誤解等が）よくなる・解消する／片付ける」、clear out は「（不要な物を捨てて）空にする／立ち去る」。良い状態に向かうか、中身を空にするかの違いです。`,content:`## 良い状態に向かうか、中身を空にするか
 
 clear up と clear out はどちらも「片付ける」に関わりますが、up の「良い状態まで持ち上げる」イメージと out の「中身を外へ出して空にする」イメージで、対象と結果が異なります。
 
@@ -9832,7 +9892,37 @@ up は「動きを引き上げて止める」イメージ、together は「バ�
 
 ⚠️ \`The car pulled together outside the bank.\`（誤）。車が停止したなら pull **up**。pull together は協力・立ち直りの意味なので、車の停止には使えません。
 
-🎯 覚え方：**up＝動きを引き上げて止める（停止する・叱責する）**、**together＝バラバラなものを1つにまとめる（協力する・立ち直る）**。`,keyPoints:[`pull up＝車などが停止する、椅子を引き寄せる、人の言動を叱責する`,`pull together＝集団が協力する、pull yourself together で自分を落ち着かせる・立ち直る`,`up は動きを引き止めるイメージ、together はバラバラなものを1つにまとめるイメージ`,`チームの協力は pull together、車の停止は pull up（混同しやすいので要注意）`],quiz:[{id:`q-pullup-1`,question:`空所に入る適切な語はどれですか。「A taxi pulled ( ) right in front of the hotel.」`,options:[`together`,`up`,`out`,`over`],correctAnswer:1,explanation:`車が停止するという意味なので pull up。`},{id:`q-pullup-2`,question:`空所に入る適切な語はどれですか。「The whole department pulled ( ) to meet the deadline.」`,options:[`up`,`together`,`out`,`through`],correctAnswer:1,explanation:`力を合わせて協力するという意味なので pull together。`},{id:`q-pullup-3`,question:`"Pull yourself together!" の意味として最も適切なものはどれですか。`,options:[`車を停めて`,`落ち着いて・取り乱すのをやめて`,`椅子を持ってきて`,`一緒に来て`],correctAnswer:1,explanation:`pull yourself together は動揺した人を落ち着かせる定型表現です。`},{id:`q-pullup-4`,question:`「上司は彼の遅刻を叱った」を最も自然に表す文はどれですか。`,options:[`His boss pulled him together for being late.`,`His boss pulled him up for being late.`,`His boss pulled him out for being late.`,`His boss pulled him over for being late.`],correctAnswer:1,explanation:`叱責するという意味では pull up が使われます。`},{id:`q-pullup-5`,question:`pull up と pull together の違いとして正しい説明はどれですか。`,options:[`両方とも同じ意味で置き換え可能`,`pull up は停止する・叱責する、pull together は協力する・立ち直る`,`pull up は協力する、pull together は停止する`,`意味の違いとは無関係`],correctAnswer:1,explanation:`停止・叱責が pull up、協力・立ち直りが pull together です。`}]},{id:`step-down-step-in`,title:`step down と step in`,chapter:5,hubId:`step`,description:`step down は「辞任する・退任する」、step in は「（争い等に）介入する・仲裁する」。役職を退くか、現場に足を踏み入れるかの違いです。`,content:`## 役職を退くか、現場に踏み込むか
+🎯 覚え方：**up＝動きを引き上げて止める（停止する・叱責する）**、**together＝バラバラなものを1つにまとめる（協力する・立ち直る）**。`,keyPoints:[`pull up＝車などが停止する、椅子を引き寄せる、人の言動を叱責する`,`pull together＝集団が協力する、pull yourself together で自分を落ち着かせる・立ち直る`,`up は動きを引き止めるイメージ、together はバラバラなものを1つにまとめるイメージ`,`チームの協力は pull together、車の停止は pull up（混同しやすいので要注意）`],quiz:[{id:`q-pullup-1`,question:`空所に入る適切な語はどれですか。「A taxi pulled ( ) right in front of the hotel.」`,options:[`together`,`up`,`out`,`over`],correctAnswer:1,explanation:`車が停止するという意味なので pull up。`},{id:`q-pullup-2`,question:`空所に入る適切な語はどれですか。「The whole department pulled ( ) to meet the deadline.」`,options:[`up`,`together`,`out`,`through`],correctAnswer:1,explanation:`力を合わせて協力するという意味なので pull together。`},{id:`q-pullup-3`,question:`"Pull yourself together!" の意味として最も適切なものはどれですか。`,options:[`車を停めて`,`落ち着いて・取り乱すのをやめて`,`椅子を持ってきて`,`一緒に来て`],correctAnswer:1,explanation:`pull yourself together は動揺した人を落ち着かせる定型表現です。`},{id:`q-pullup-4`,question:`「上司は彼の遅刻を叱った」を最も自然に表す文はどれですか。`,options:[`His boss pulled him together for being late.`,`His boss pulled him up for being late.`,`His boss pulled him out for being late.`,`His boss pulled him over for being late.`],correctAnswer:1,explanation:`叱責するという意味では pull up が使われます。`},{id:`q-pullup-5`,question:`pull up と pull together の違いとして正しい説明はどれですか。`,options:[`両方とも同じ意味で置き換え可能`,`pull up は停止する・叱責する、pull together は協力する・立ち直る`,`pull up は協力する、pull together は停止する`,`意味の違いとは無関係`],correctAnswer:1,explanation:`停止・叱責が pull up、協力・立ち直りが pull together です。`}]},{id:`pull-back-pull-down`,title:`pull back と pull down`,chapter:5,hubId:`pull`,description:`同じ pull でも back は「後退する・計画から手を引く」、down は「（建物）を取り壊す」「（インフォーマルに給料を）稼ぐ」。後ろへ引くか、上から下へ引き倒すかの違いです。`,content:`## 後ろへ引くのか、上から下へ引き倒すのか
+
+pull back と pull down はどちらも「pull＋副詞」ですが、動く方向がまったく異なります。
+
+- **pull back** … 軍・企業などが**後退する・撤退する**、計画から**手を引く**。
+- **pull down** … 建物を**取り壊す**、（インフォーマルに）高い給料を**稼ぐ**。
+
+| 熟語 | 中心の意味 | 典型的な文脈 |
+| --- | --- | --- |
+| pull **back** | 後退する・撤退する／計画から手を引く | troops, an army／a plan, an investment |
+| pull **down** | （建物を）取り壊す／（インフォーマルに）稼ぐ | an old building／a big salary |
+
+### pull back の使い分け
+
+pull back は「進んでいた軍や部隊が後方へ引く」（Troops pulled back from the border after the ceasefire.）という軍事的な意味から、「計画や事業から手を引く」（The company pulled back from its plan to expand overseas.）という比喩に広がります。イギリス英語では、負けているチームが得点を返して差を縮めることも "pull a goal back" と表現します。
+
+### pull down の使い分け
+
+pull down は「建物を解体して取り壊す」（They pulled down the old cinema to build a supermarket.）という意味が代表的です。くだけた口語表現として「（高い給料を）稼ぐ」（She pulls down over $100,000 a year.）という意味でも使われます。
+
+### なぜ直訳で読み解けないか
+
+back は「元の位置・後方へ引き戻す」イメージで、後退や計画の撤回を表します。down は「上にあるものを下へ引き倒す」イメージで、建物の解体や、多額の給料を「引き下ろしてくる」という比喩に使われます。同じ pull でも、back は後方への移動、down は上から下への引き倒しという違いが意味の違いになっています。
+
+### よくある誤用
+
+⚠️ \`They pulled back the old building to build a supermarket.\`（誤）。建物を取り壊すなら pulled **down**。pull back は後退・撤退の意味なので、建物の解体には使いません。
+
+⚠️ \`The company pulled down its plan to expand overseas.\`（誤）。計画から手を引いたなら pulled **back** from its plan。pull down は取り壊す・稼ぐという意味なので、計画の撤回には使いません。
+
+🎯 覚え方：**back＝後方へ引き戻す（後退する・手を引く）**、**down＝上から下へ引き倒す（取り壊す・多額を稼ぐ）**。`,keyPoints:[`pull back＝軍や企業などが後退する・撤退する。計画や事業から手を引く`,`pull down＝建物を取り壊す。インフォーマルに高い給料を稼ぐ`,`back は後方へ引き戻すイメージ、down は上から下へ引き倒すイメージ`,`計画の撤回は pull back、建物の解体は pull down（混同しやすいので要注意）`],quiz:[{id:`q-pullback-1`,question:`空所に入る適切な語はどれですか。「The troops ( ) from the border after the ceasefire was signed.」`,options:[`pulled down`,`pulled back`,`pulled up`,`pulled together`],correctAnswer:1,explanation:`部隊が後退したという意味なので pulled back。`},{id:`q-pullback-2`,question:`空所に入る適切な語はどれですか。「They ( ) the old cinema to build a supermarket.」`,options:[`pulled back`,`pulled down`,`pulled over`,`pulled through`],correctAnswer:1,explanation:`建物を取り壊すという意味なので pulled down。`},{id:`q-pullback-3`,question:`pull back の意味として最も適切なものはどれですか。`,options:[`建物を取り壊す`,`後退する・計画から手を引く`,`見事に成し遂げる`,`協力する・立ち直る`],correctAnswer:1,explanation:`pull back は後退・撤退・計画からの撤回を表します。`},{id:`q-pullback-4`,question:`「彼女は年間10万ドル以上を稼いでいる」を最も自然に表す文はどれですか。`,options:[`She pulls back over $100,000 a year.`,`She pulls down over $100,000 a year.`,`She pulls up over $100,000 a year.`,`She pulls together over $100,000 a year.`],correctAnswer:1,explanation:`インフォーマルに高い給料を稼ぐという意味では pull down が使われます。`},{id:`q-pullback-5`,question:`pull back と pull down の違いとして正しい説明はどれですか。`,options:[`両方とも同じ意味で置き換え可能`,`pull back は後退する・手を引く、pull down は取り壊す・稼ぐ`,`pull back は取り壊す、pull down は後退する`,`意味の違いとは無関係`],correctAnswer:1,explanation:`後退・撤回が pull back、解体・稼得が pull down です。`}]},{id:`step-down-step-in`,title:`step down と step in`,chapter:5,hubId:`step`,description:`step down は「辞任する・退任する」、step in は「（争い等に）介入する・仲裁する」。役職を退くか、現場に足を踏み入れるかの違いです。`,content:`## 役職を退くか、現場に踏み込むか
 
 step down と step in はどちらも一歩の動きの比喩ですが、down の「段差を下りる」イメージと in の「現場に足を踏み入れる」イメージで、方向がまったく異なります。
 
@@ -10306,8 +10396,10 @@ cut は「（刃物で）切る」が核となる意味です。物を切り分�
 | cut out | out（不要な部分を切り取って除く） | （不要なものを）やめる・除く／（エンジンが）止まる |
 | cut back | back（元の低い水準へ戻す） | 支出や活動の量を減らす |
 | cut through | through（障害物を突き抜ける） | 近道する・複雑な物事の本質を突く |
+| cut across | across（分野・集団の境界を横切る） | 分野・集団の境界を越えて影響する・近道で突っ切る |
+| cut up | up（対象を断片に仕上げる） | 細かく切り分ける・（be cut up で）深く傷つく |
 
-cut off は「つながっていたものを本体から切り離す」イメージで、電話・電気・水道などの供給停止や、人間関係の断絶に使われます。cut down on は「量を少しずつ下方へ削り取る」イメージで、食事や支出のような継続的な習慣の削減を表します。cut in は「列や会話の間に刃を入れるように割り込む」イメージで、車の急な割り込みにも会話への口出しにも使われ、cut out は「不要な部分を切り取って除く」イメージから、習慣をやめることにも、エンジンが突然停止することにも広がります。cut back は「増えすぎたものを元の低い水準へ切り戻す」イメージで支出や活動量の削減を表し、cut through は「障害物を突き抜けて核心に達する」イメージで近道や本質の理解を表します。`,previewPairs:[`cut off vs cut down on（遮断する／減らす）`,`cut in vs cut out（割り込む／やめる・除く）`,`cut back vs cut through（量を減らす／近道する・本質を突く）`]},{id:`fill`,verb:`fill`,title:`fill は前置詞でどう意味が変わる？`,description:`fill の中心イメージ「満たす」が、続く前置詞・副詞でどう枝分かれするかをまとめたハブページ。`,content:`## fill の中心イメージ
+cut off は「つながっていたものを本体から切り離す」イメージで、電話・電気・水道などの供給停止や、人間関係の断絶に使われます。cut down on は「量を少しずつ下方へ削り取る」イメージで、食事や支出のような継続的な習慣の削減を表します。cut in は「列や会話の間に刃を入れるように割り込む」イメージで、車の急な割り込みにも会話への口出しにも使われ、cut out は「不要な部分を切り取って除く」イメージから、習慣をやめることにも、エンジンが突然停止することにも広がります。cut back は「増えすぎたものを元の低い水準へ切り戻す」イメージで支出や活動量の削減を表し、cut through は「障害物を突き抜けて核心に達する」イメージで近道や本質の理解を表します。cut across は「分野やグループの境界を横切る」イメージで、政党や世代をまたいで共通に影響する話題や、回り道せず場所を突っ切る近道を表し、cut up は「対象を断片に仕上げる」イメージから、食材を切り分けることにも、（受動態で）心が打ちのめされることにも広がります。`,previewPairs:[`cut off vs cut down on（遮断する／減らす）`,`cut in vs cut out（割り込む／やめる・除く）`,`cut back vs cut through（量を減らす／近道する・本質を突く）`,`cut across vs cut up（境界を越える・近道する／切り分ける・深く傷つく）`]},{id:`fill`,verb:`fill`,title:`fill は前置詞でどう意味が変わる？`,description:`fill の中心イメージ「満たす」が、続く前置詞・副詞でどう枝分かれするかをまとめたハブページ。`,content:`## fill の中心イメージ
 
 fill は「（空いている場所を）満たす」が核となる意味です。容器を満たす動作から、書類の記入・代役・充満という比喩に広がり、続く前置詞・副詞が「何で、どのように満たすか」を決めます。
 
@@ -10356,8 +10448,10 @@ fall は「落ちる」が核となる意味です。物理的な落下から、
 | fall for | for（相手の魅力に落ちる） | 〜に恋をする／（うそ等に）だまされる |
 | fall behind | behind（ペースより後ろに残される） | 予定・進度・支払いなどで遅れる |
 | fall apart | apart（まとまりが崩れる） | 壊れる・崩壊する・取り乱す |
+| fall off | off（表面から離れて落ちる） | 物理的に落ちる・数量や人気が低下する |
+| fall in with | in with（相手の流れに入り込む） | 提案に同調する・（多くは好ましくない）人々と付き合うようになる |
 
-fall back on は「前方の足場を失った人物が背後の安全網に倒れ込んで身を預ける」イメージで、他に手段がないときに頼る最後の選択肢を表します。fall through は「床が抜けて底まで落ちる」イメージから、計画や取引が実現せずに終わることを表します。fall out は「枠組みの外へ落ちる」イメージから、関係が壊れて仲違いすることにも、髪や歯が抜け落ちることにも使われ、fall for は「相手の魅力に落ちる」イメージから、恋に落ちることにも、うまい話にだまされることにも広がります。fall behind は「ペースより後ろに取り残される」イメージで予定・支払いの遅れを表し、fall apart は「まとまりが崩れる」イメージで物の破損・組織の崩壊・精神的な取り乱しを表します。`,previewPairs:[`fall back on vs fall through（頼る／失敗に終わる）`,`fall out vs fall for（仲違いする・抜け落ちる／恋をする・だまされる）`,`fall behind vs fall apart（遅れる／崩壊する・取り乱す）`]},{id:`clear`,verb:`clear`,title:`clear は前置詞でどう意味が変わる？`,description:`clear の中心イメージ「取り除いて澄ませる」が、続く前置詞・副詞でどう枝分かれするかをまとめたハブページ。`,content:`## clear の中心イメージ
+fall back on は「前方の足場を失った人物が背後の安全網に倒れ込んで身を預ける」イメージで、他に手段がないときに頼る最後の選択肢を表します。fall through は「床が抜けて底まで落ちる」イメージから、計画や取引が実現せずに終わることを表します。fall out は「枠組みの外へ落ちる」イメージから、関係が壊れて仲違いすることにも、髪や歯が抜け落ちることにも使われ、fall for は「相手の魅力に落ちる」イメージから、恋に落ちることにも、うまい話にだまされることにも広がります。fall behind は「ペースより後ろに取り残される」イメージで予定・支払いの遅れを表し、fall apart は「まとまりが崩れる」イメージで物の破損・組織の崩壊・精神的な取り乱しを表します。fall off は「表面から離れて落ちる」イメージで、物理的な落下と、数量・人気の低下の両方を表し、fall in with は「相手の流れの中に入り込む」イメージで、提案への同調や、ある集団と付き合うようになることを表します。`,previewPairs:[`fall back on vs fall through（頼る／失敗に終わる）`,`fall out vs fall for（仲違いする・抜け落ちる／恋をする・だまされる）`,`fall behind vs fall apart（遅れる／崩壊する・取り乱す）`,`fall off vs fall in with（落ちる・低下する／同調する・付き合うようになる）`]},{id:`clear`,verb:`clear`,title:`clear は前置詞でどう意味が変わる？`,description:`clear の中心イメージ「取り除いて澄ませる」が、続く前置詞・副詞でどう枝分かれするかをまとめたハブページ。`,content:`## clear の中心イメージ
 
 clear は「（邪魔なものを取り除いて）澄ませる・空ける」が核となる意味です。物理的な片付けから、天候の好転・立ち去り・撤去という比喩に広がり、続く前置詞・副詞が「何を、どちらへ片付けるか」を決めます。
 
@@ -10408,8 +10502,10 @@ pull は「（力を加えて）引っ張る」が核となる意味です。物
 | pull over | over（道の脇へ引き寄せて止まる） | （車を）道路脇に寄せて停止する |
 | pull up | up（動きを引き上げて止める） | 車などが停止する・人の言動を叱責する |
 | pull together | together（バラバラなものを1つにまとめる） | 協力する・立ち直る |
+| pull back | back（後方へ引き戻す） | 後退する・撤退する／計画から手を引く |
+| pull down | down（上から下へ引き倒す） | 建物を取り壊す／（インフォーマルに）稼ぐ |
 
-pull through は「病魔や危機というトンネルを引っ張られるように抜ける」イメージで、深刻な病気や困難な状況からの回復・生還を表します。pull off は「困難な課題から成果を引き剥がすように取り出す」イメージで、難しいことを見事にやってのけることを表し、pull out は「その場から外へ引き出て離脱する」イメージから合意や場所からの撤退を、pull over は「車を道の脇へ引き寄せて止める」イメージから停車を表します。pull up は「動きを引き上げて止める」イメージで車の停止や叱責を表し、pull together は「バラバラなものを1つにまとめる」イメージで協力や立ち直りを表します。`,previewPairs:[`pull through vs pull off（回復する・乗り切る／見事に成し遂げる）`,`pull out vs pull over（撤退する・発進する／道路脇に停止する）`,`pull up vs pull together（停止する・叱責する／協力する・立ち直る）`]},{id:`step`,verb:`step`,title:`step は前置詞でどう意味が変わる？`,description:`step の中心イメージ「一歩踏み出す」が、続く前置詞・副詞でどう枝分かれするかをまとめたハブページ。`,content:`## step の中心イメージ
+pull through は「病魔や危機というトンネルを引っ張られるように抜ける」イメージで、深刻な病気や困難な状況からの回復・生還を表します。pull off は「困難な課題から成果を引き剥がすように取り出す」イメージで、難しいことを見事にやってのけることを表し、pull out は「その場から外へ引き出て離脱する」イメージから合意や場所からの撤退を、pull over は「車を道の脇へ引き寄せて止める」イメージから停車を表します。pull up は「動きを引き上げて止める」イメージで車の停止や叱責を表し、pull together は「バラバラなものを1つにまとめる」イメージで協力や立ち直りを表します。pull back は「後方へ引き戻す」イメージで軍や企業の撤退・計画からの撤回を表し、pull down は「上にあるものを下へ引き倒す」イメージで建物の解体や、インフォーマルに高い給料を稼ぐことを表します。`,previewPairs:[`pull through vs pull off（回復する・乗り切る／見事に成し遂げる）`,`pull out vs pull over（撤退する・発進する／道路脇に停止する）`,`pull up vs pull together（停止する・叱責する／協力する・立ち直る）`,`pull back vs pull down（後退する・手を引く／取り壊す・稼ぐ）`]},{id:`step`,verb:`step`,title:`step は前置詞でどう意味が変わる？`,description:`step の中心イメージ「一歩踏み出す」が、続く前置詞・副詞でどう枝分かれするかをまとめたハブページ。`,content:`## step の中心イメージ
 
 step は「（足を踏み出して）一歩進む」が核となる意味です。物理的な一歩から、地位の変化・介入・思考の距離感という比喩に広がり、続く前置詞・副詞が「どちらの方向に、どんな一歩を踏み出すか」を決めます。
 
