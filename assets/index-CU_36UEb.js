@@ -9402,7 +9402,37 @@ of は「対象について頭の中に浮かぶ・関わる」イメージ、ou
 
 ⚠️ \`I can't think out anything to say.\`（誤）。言うことが思いつかないなら can't think **of** anything to say。think out は細部まで考え抜く意味なので、単に思いつかない状況には使いません。
 
-🎯 覚え方：**of＝対象がふと頭に浮かぶ（思いつく・意見を持つ）**、**out＝考えを最後まで引き出し切る（練り上げる）**。`,keyPoints:[`think of＝考えが頭に浮かぶ、〜についてどう思うか意見を持つ、思い出す`,`think out＝計画や戦略を細部まで考え抜く（過去分詞 thought out が頻出）`,`of は考えがふと頭に浮かぶイメージ、out は考えを最後まで引き出し切るイメージ`,`思いつきは think of、周到に練られた計画は think out`],quiz:[{id:`q-thinkofout-1`,question:`空所に入る適切な語はどれですか。「What do you think ( ) the new proposal?」`,options:[`out`,`of`,`over`,`up`],correctAnswer:1,explanation:`意見を尋ねる定型表現なので think of。`},{id:`q-thinkofout-2`,question:`空所に入る適切な語はどれですか。「Their marketing plan was very carefully thought ( ).」`,options:[`of`,`out`,`back`,`over`],correctAnswer:1,explanation:`細部まで考え抜かれたという意味なので thought out。`},{id:`q-thinkofout-3`,question:`think of の意味として適切でないものはどれですか。`,options:[`考えが頭に浮かぶ`,`意見を持つ`,`計画を細部まで練り上げる`,`思い出す`],correctAnswer:2,explanation:`計画を細部まで練り上げるのは think out の意味です。`},{id:`q-thinkofout-4`,question:`「彼らに言われてすぐあなたのことを思い出した」を最も自然に表す文はどれですか。`,options:[`I thought out you when they mentioned it.`,`I thought of you when they mentioned it.`,`I thought over you when they mentioned it.`,`I thought back you when they mentioned it.`],correctAnswer:1,explanation:`人を思い出すという意味では think of が使われます。`},{id:`q-thinkofout-5`,question:`think of と think out の違いとして正しい説明はどれですか。`,options:[`両方とも同じ意味で置き換え可能`,`think of は考えがふと浮かぶ・意見を持つ、think out は細部まで考え抜く`,`think of は細部まで考え抜く、think out は考えがふと浮かぶ`,`意味の違いとは無関係`],correctAnswer:1,explanation:`軽い思考が think of、周到な検討が think out です。`}]},{id:`fall-back-on-fall-through`,title:`fall back on と fall through`,chapter:5,hubId:`fall`,description:`fall back on は「（最後の手段）に頼る」、fall through は「（計画等が）失敗に終わる」。支えに倒れ込むか、底が抜けて落ちるかの違いです。`,content:`## 支えに倒れ込むか、底が抜けて落ちるか
+🎯 覚え方：**of＝対象がふと頭に浮かぶ（思いつく・意見を持つ）**、**out＝考えを最後まで引き出し切る（練り上げる）**。`,keyPoints:[`think of＝考えが頭に浮かぶ、〜についてどう思うか意見を持つ、思い出す`,`think out＝計画や戦略を細部まで考え抜く（過去分詞 thought out が頻出）`,`of は考えがふと頭に浮かぶイメージ、out は考えを最後まで引き出し切るイメージ`,`思いつきは think of、周到に練られた計画は think out`],quiz:[{id:`q-thinkofout-1`,question:`空所に入る適切な語はどれですか。「What do you think ( ) the new proposal?」`,options:[`out`,`of`,`over`,`up`],correctAnswer:1,explanation:`意見を尋ねる定型表現なので think of。`},{id:`q-thinkofout-2`,question:`空所に入る適切な語はどれですか。「Their marketing plan was very carefully thought ( ).」`,options:[`of`,`out`,`back`,`over`],correctAnswer:1,explanation:`細部まで考え抜かれたという意味なので thought out。`},{id:`q-thinkofout-3`,question:`think of の意味として適切でないものはどれですか。`,options:[`考えが頭に浮かぶ`,`意見を持つ`,`計画を細部まで練り上げる`,`思い出す`],correctAnswer:2,explanation:`計画を細部まで練り上げるのは think out の意味です。`},{id:`q-thinkofout-4`,question:`「彼らに言われてすぐあなたのことを思い出した」を最も自然に表す文はどれですか。`,options:[`I thought out you when they mentioned it.`,`I thought of you when they mentioned it.`,`I thought over you when they mentioned it.`,`I thought back you when they mentioned it.`],correctAnswer:1,explanation:`人を思い出すという意味では think of が使われます。`},{id:`q-thinkofout-5`,question:`think of と think out の違いとして正しい説明はどれですか。`,options:[`両方とも同じ意味で置き換え可能`,`think of は考えがふと浮かぶ・意見を持つ、think out は細部まで考え抜く`,`think of は細部まで考え抜く、think out は考えがふと浮かぶ`,`意味の違いとは無関係`],correctAnswer:1,explanation:`軽い思考が think of、周到な検討が think out です。`}]},{id:`think-ahead-think-aloud`,title:`think ahead と think aloud`,chapter:5,hubId:`think`,description:`同じ think でも ahead は「先を見越して考える・計画する」、aloud は「思っていることをそのまま声に出す」。未来に向けて考えるか、頭の中をそのまま口にするかの違いです。`,content:`## 未来に向けて考えるのか、頭の中をそのまま口にするのか
+
+think ahead と think aloud はどちらも「think＋副詞」ですが、向いている方向がまったく異なります。
+
+- **think ahead** … **先を見越して**考える・計画する。
+- **think aloud**（米語では think out loud） … 思っていることをそのまま**声に出す**。
+
+| 熟語 | 中心の意味 | 典型的な文脈 |
+| --- | --- | --- |
+| think **ahead** | 先を見越して考える・計画する | for the future, to next year |
+| think **aloud** | 思っていることをそのまま声に出す | while solving a problem, to nobody in particular |
+
+### think ahead の使い分け
+
+think ahead は「まだ起きていない先のことを見越して考え、備える」という意味で、"A good manager needs to think ahead and plan for possible problems." のように使われます。新年や休暇の始まりなど、将来に向けて計画を立てる場面の定番表現です。
+
+### think aloud の使い分け
+
+think aloud（米語では think out loud）は「頭の中で考えていることを、誰かに伝えるためというより自然に声に出してしまう」という意味です。"Oh, don't mind me, I was just thinking aloud." のように、独り言のように考えを口にする場面や、問題を解きながら思考過程を声に出す場面で使われます。
+
+### なぜ直訳で読み解けないか
+
+ahead は「時間軸上の先」へ視線を向けるイメージで、まだ来ていない未来への備えを表します。aloud は「頭の中にとどめず声として外に出す」イメージで、考えの中身そのものではなく、それを口に出すという行為を表します。同じ think でも、ahead は考える対象の時間的方向、aloud は考えを表出する手段という、まったく別の軸の違いになっています。
+
+### よくある誤用
+
+⚠️ \`A good leader needs to think aloud about next year's budget.\`（誤）。将来を見越して計画するなら think **ahead**。think aloud は声に出すという意味なので、将来への備えには使いません。
+
+⚠️ \`Sorry, I was just thinking ahead — ignore me.\`（誤・意図不明瞭）。独り言のように考えを口にしていたなら thinking **aloud**。think ahead は将来への計画の意味なので、その場で口に出た独り言には使いません。
+
+🎯 覚え方：**ahead＝時間の先を見越して考える（計画する）**、**aloud＝考えを声に出す（独り言・思考の実況）**。`,keyPoints:[`think ahead＝先を見越して考える・計画する（未来への備え）`,`think aloud＝思っていることをそのまま声に出す（米語は think out loud）`,`ahead は時間軸上の先を見るイメージ、aloud は考えを声として外に出すイメージ`,`将来への計画は think ahead、独り言のような発話は think aloud（混同しやすいので要注意）`],quiz:[{id:`q-thinkahead-1`,question:`空所に入る適切な語はどれですか。「A good manager needs to think ( ) and plan for possible problems.」`,options:[`aloud`,`ahead`,`over`,`back`],correctAnswer:1,explanation:`将来を見越して計画するという意味なので think ahead。`},{id:`q-thinkahead-2`,question:`空所に入る適切な語はどれですか。「Sorry, don't mind me — I was just thinking ( ).」`,options:[`ahead`,`aloud`,`of`,`out`],correctAnswer:1,explanation:`独り言のように考えを口にしたという意味なので think aloud。`},{id:`q-thinkahead-3`,question:`think ahead の意味として最も適切なものはどれですか。`,options:[`思っていることを声に出す`,`先を見越して考える・計画する`,`細部まで考え抜く`,`過去を振り返る`],correctAnswer:1,explanation:`think ahead は将来を見越した計画を表します。`},{id:`q-thinkahead-4`,question:`「彼は問題を解きながら、考えていることをそのまま声に出していた」を最も自然に表す文はどれですか。`,options:[`He was thinking ahead as he solved the problem.`,`He was thinking aloud as he solved the problem.`,`He was thinking over as he solved the problem.`,`He was thinking back as he solved the problem.`],correctAnswer:1,explanation:`考えをそのまま声に出すという意味では think aloud が使われます。`},{id:`q-thinkahead-5`,question:`think ahead と think aloud の違いとして正しい説明はどれですか。`,options:[`両方とも同じ意味で置き換え可能`,`think ahead は先を見越して計画する、think aloud は考えを声に出す`,`think ahead は考えを声に出す、think aloud は先を見越して計画する`,`意味の違いとは無関係`],correctAnswer:1,explanation:`将来への計画が think ahead、発話としての独り言が think aloud です。`}]},{id:`fall-back-on-fall-through`,title:`fall back on と fall through`,chapter:5,hubId:`fall`,description:`fall back on は「（最後の手段）に頼る」、fall through は「（計画等が）失敗に終わる」。支えに倒れ込むか、底が抜けて落ちるかの違いです。`,content:`## 支えに倒れ込むか、底が抜けて落ちるか
 
 fall back on と fall through はどちらも「落ちる」の比喩ですが、back on の「後方の支えに倒れ込む」イメージと through の「底を突き抜けて落ちる」イメージで、主語も結果も異なります。
 
@@ -10435,8 +10465,10 @@ think は「考える」が核となる意味です。単純な思考から、�
 | think back | back（過去へ思考を巻き戻す） | （過去を）振り返る・思い出す |
 | think of | of（対象がふと頭に浮かぶ） | 思いつく・意見を持つ |
 | think out | out（考えを最後まで引き出し切る） | 細部まで考え抜く |
+| think ahead | ahead（時間軸上の先を見る） | 先を見越して考える・計画する |
+| think aloud | aloud（考えを声として外に出す） | 思っていることをそのまま声に出す |
 
-think over は「決断の前に物事を表裏じっくり検討する」イメージで、提案や申し出への返事を保留する場面で使われます。think up は「頭の中に何もないところから新しいものを立ち上げる」イメージで、アイデアや計画を創出することを表します。think through は「最初から最後まで筋道を辿って考え抜く」イメージで、think over よりも体系的・徹底的な検討を意味し、think back は「思考を過去へ巻き戻す」イメージから、過去の記憶を振り返ることを表します。think of は「対象がふと頭に浮かぶ」イメージで思いつき・意見を表し、think out は「考えを最後まで引き出し切る」イメージで周到な検討を表します。`,previewPairs:[`think over vs think up（よく考える／考え出す）`,`think through vs think back（筋道立てて考え抜く／過去を振り返る）`,`think of vs think out（思いつく・意見を持つ／細部まで考え抜く）`]},{id:`fall`,verb:`fall`,title:`fall は前置詞でどう意味が変わる？`,description:`fall の中心イメージ「落ちる・崩れる」が、続く前置詞・副詞でどう枝分かれするかをまとめたハブページ。`,content:`## fall の中心イメージ
+think over は「決断の前に物事を表裏じっくり検討する」イメージで、提案や申し出への返事を保留する場面で使われます。think up は「頭の中に何もないところから新しいものを立ち上げる」イメージで、アイデアや計画を創出することを表します。think through は「最初から最後まで筋道を辿って考え抜く」イメージで、think over よりも体系的・徹底的な検討を意味し、think back は「思考を過去へ巻き戻す」イメージから、過去の記憶を振り返ることを表します。think of は「対象がふと頭に浮かぶ」イメージで思いつき・意見を表し、think out は「考えを最後まで引き出し切る」イメージで周到な検討を表します。think ahead は「時間軸上の先を見越す」イメージで将来への計画を表し、think aloud は「考えを頭の中にとどめず声として外に出す」イメージで独り言のような発話を表します。`,previewPairs:[`think over vs think up（よく考える／考え出す）`,`think through vs think back（筋道立てて考え抜く／過去を振り返る）`,`think of vs think out（思いつく・意見を持つ／細部まで考え抜く）`,`think ahead vs think aloud（先を見越して計画する／考えを声に出す）`]},{id:`fall`,verb:`fall`,title:`fall は前置詞でどう意味が変わる？`,description:`fall の中心イメージ「落ちる・崩れる」が、続く前置詞・副詞でどう枝分かれするかをまとめたハブページ。`,content:`## fall の中心イメージ
 
 fall は「落ちる」が核となる意味です。物理的な落下から、失敗・依存・不和という比喩に広がり、続く前置詞・副詞が「どこへ、どんな形で落ちるか」を決めます。
 
