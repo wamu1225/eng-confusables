@@ -9661,7 +9661,13 @@ healthy は名詞 health に -y（〜の性質を持つ）が付いた形で、�
 
 ### night / knight の派生語で判別を強化
 
-**night 系**：複合語 **nightfall**（日暮れ）・**overnight**（一晩じゅう・一夜にして）・**nightmare**（悪夢）は、いずれも「夜」の意味そのものから広がった語です。**knight 系**：名詞 **knighthood**（騎士の身分・ナイト爵位）は、実際にイギリスで功績者に与えられる称号としても使われます。複合語 **midnight**（真夜中）も、night の中心の意味から広がった非常によく使う語です。`,
+**night 系**：複合語 **nightfall**（日暮れ）・**overnight**（一晩じゅう・一夜にして）・**nightmare**（悪夢）は、いずれも「夜」の意味そのものから広がった語です。**knight 系**：名詞 **knighthood**（騎士の身分・ナイト爵位）は、実際にイギリスで功績者に与えられる称号としても使われます。複合語 **midnight**（真夜中）も、night の中心の意味から広がった非常によく使う語です。
+
+### よくある誤用
+
+⚠️ \`He was a brave night in the story.\`（誤）。物語の登場人物としての「騎士」なら **knight**（k は無音）。night は「夜」という時間を表す語で、人物を指すことはできません。
+
+⚠️ \`We stayed up all knight studying.\`（誤）。「一晩中」なら **night**（all night）。knight は「騎士」を表す名詞なので、時間の長さを表す表現には使いません。`,
     keyPoints: [
       'night と knight は同音 /naɪt/（k は無音）',
       'night＝夜（反対は day）。nightfall/overnight/nightmare',
@@ -9726,7 +9732,13 @@ healthy は名詞 health に -y（〜の性質を持つ）が付いた形で、�
 
 ### role / roll の慣用句で判別を強化
 
-**role 系**：複合語 **role model**（お手本となる人）、**a leading role**（主役）は、role の「役割」という中心の意味そのものです。**roll 系**：句動詞 **roll out**（（新製品・政策を）展開する・発表する）、慣用句 **on a roll**（調子に乗って・好調で）は、roll の「転がる・進む」という意味から広がった表現です。`,
+**role 系**：複合語 **role model**（お手本となる人）、**a leading role**（主役）は、role の「役割」という中心の意味そのものです。**roll 系**：句動詞 **roll out**（（新製品・政策を）展開する・発表する）、慣用句 **on a roll**（調子に乗って・好調で）は、roll の「転がる・進む」という意味から広がった表現です。
+
+### よくある誤用
+
+⚠️ \`She played a key roll in the negotiation.\`（誤）。「重要な役割を果たした」なら名詞 **role**。roll は「転がる・巻く」という動作を表す語なので、抽象的な役目には使いません。
+
+⚠️ \`Please role the dice.\`（誤）。「サイコロを転がして」なら動詞 **roll**。role は名詞「役割」を表す語なので、動作を指示する文では使えません。`,
     keyPoints: [
       'role と roll は同音 /roʊl/',
       'role＝役割・役（play a role）。role model/leading role',
@@ -12439,7 +12451,13 @@ regretfully（後悔しながら・すまなそうに）は動作の様子を表
 
 ### toe / tow の派生語で判別を強化
 
-**toe 系**：複合語 **tiptoe**（つま先立ちで歩く）は、音を立てずそっと歩く動作を表します。**tow 系**：慣用句 **in tow**（連れて・引き連れて）は、with her kids in tow（子どもたちを連れて）のように、何かを伴っている様子を表す表現です。**tow truck**（レッカー車）は本文既出のとおり、tow の「牽引する」がそのまま職業名になった複合語です。身体の部位を表す複合語 **toenail**（足の爪）も、toe の中心の意味そのものです。`,
+**toe 系**：複合語 **tiptoe**（つま先立ちで歩く）は、音を立てずそっと歩く動作を表します。**tow 系**：慣用句 **in tow**（連れて・引き連れて）は、with her kids in tow（子どもたちを連れて）のように、何かを伴っている様子を表す表現です。**tow truck**（レッカー車）は本文既出のとおり、tow の「牽引する」がそのまま職業名になった複合語です。身体の部位を表す複合語 **toenail**（足の爪）も、toe の中心の意味そのものです。
+
+### よくある誤用
+
+⚠️ \`I need to toe my car to the garage.\`（誤）。車を「牽引する」なら動詞 **tow**。toe は「つま先」を表す名詞なので、車を引っぱる動作には使えません。
+
+⚠️ \`She stubbed her tow on the table leg.\`（誤）。「テーブルの脚につま先をぶつけた」なら **toe**。tow は牽引という動作を表す語なので、身体の部位には使いません。`,
     keyPoints: [
       'toe と tow は同音 /toʊ/',
       'toe＝足の指・つま先（名詞）。tiptoe（つま先立ちで歩く）',
@@ -13231,7 +13249,13 @@ vane は風見鶏（weather vane）だけでなく、風力や水力を受けて
 
 ### way / weigh の派生語で判別を強化
 
-**way 系**：慣用句 **make way for** ~（〜のために道を空ける）、**by the way**（ところで）は、way の「道」という中心の意味から広がった表現です。**weigh 系**：句動詞 **weigh in**（（議論に）加わって意見を述べる／計量を受ける）、**weigh up**（比較検討する）は、weigh の「重さを量る＝比較して考える」という意味から生まれた表現です。`,
+**way 系**：慣用句 **make way for** ~（〜のために道を空ける）、**by the way**（ところで）は、way の「道」という中心の意味から広がった表現です。**weigh 系**：句動詞 **weigh in**（（議論に）加わって意見を述べる／計量を受ける）、**weigh up**（比較検討する）は、weigh の「重さを量る＝比較して考える」という意味から生まれた表現です。
+
+### よくある誤用
+
+⚠️ \`I need to way the pros and cons before deciding.\`（誤）。「利点と欠点を比較検討する」なら動詞 **weigh** the pros and cons（比喩的に「秤にかける」）。way は名詞なので、動詞の代わりには使えません。
+
+⚠️ \`Which weigh should I take to the station?\`（誤）。「どの道を通るべきか」なら名詞 **way**。weigh は動詞で「重さを量る」という意味なので、道順を尋ねる文脈には使いません。`,
     keyPoints: [
       'way と weigh は同音 /weɪ/',
       'way＝名詞「道・方向・方法」。make way for/by the way',
@@ -14108,7 +14132,13 @@ meddle は語尾が -dle で、peddle（行商する）・paddle（漕ぐ・パ�
 
 ### tide / tied の慣用句で判別を強化
 
-**tide 系**：句動詞 **tide over**（（一時的に）〜を乗り切らせる＝This money will tide us over.）、慣用句 **turn the tide**（形勢を逆転させる）は、tide の「潮の流れ」という意味から生まれた比喩表現です。**tied 系**：形容詞的表現 **tied up**（（仕事などで）手が離せない・忙しい）は、tie の「縛る」という意味から広がった口語表現です。`,
+**tide 系**：句動詞 **tide over**（（一時的に）〜を乗り切らせる＝This money will tide us over.）、慣用句 **turn the tide**（形勢を逆転させる）は、tide の「潮の流れ」という意味から生まれた比喩表現です。**tied 系**：形容詞的表現 **tied up**（（仕事などで）手が離せない・忙しい）は、tie の「縛る」という意味から広がった口語表現です。
+
+### よくある誤用
+
+⚠️ \`The high tied brought driftwood onto the beach.\`（誤）。「満潮」なら名詞 **tide**（high tide）。tied は tie の過去形なので、潮の状態を表すことはできません。
+
+⚠️ \`He tide the boat to the dock.\`（誤）。「船を桟橋につないだ」なら tie の過去形 **tied**。tide は名詞「潮」を表す語なので、動詞として結ぶ・つなぐ動作には使えません。`,
     keyPoints: [
       'tide と tied は同音 /taɪd/',
       'tide＝名詞「潮・潮の満ち引き」（high tide＝満潮）。tide over/turn the tide',
