@@ -9450,7 +9450,13 @@ habit はラテン語 habitus（状態・身なり）、動詞 habere（持つ�
 
 ### shade / shadow の慣用句で判別を強化
 
-**shade 系**：口語で **shades**（サングラス）を指すこともあり、慣用句 **put ~ in the shade**（〜を見劣りさせる・かすませる）は、shade の「暗がり・陰る」という意味から広がった表現です。**shadow 系**：慣用句 **beyond a shadow of a doubt**（疑いの余地なく）、動詞 **shadow** ~（〜に密着して観察する＝job shadowing）は、shadow の「輪郭のある影・つきまとうもの」という意味から生まれた表現です。`,
+**shade 系**：口語で **shades**（サングラス）を指すこともあり、慣用句 **put ~ in the shade**（〜を見劣りさせる・かすませる）は、shade の「暗がり・陰る」という意味から広がった表現です。**shadow 系**：慣用句 **beyond a shadow of a doubt**（疑いの余地なく）、動詞 **shadow** ~（〜に密着して観察する＝job shadowing）は、shadow の「輪郭のある影・つきまとうもの」という意味から生まれた表現です。
+
+### よくある誤用
+
+⚠️ \`He always lives in his father's shade.\`（誤）。人の存在に押されて目立たないという慣用句は **live in ~'s shadow**。shade は日陰・色合いを表すだけで、人物を比喩する用法はありません。
+
+⚠️ \`Let's sit in the shadow of that tree and cool off.\`（誤・不自然）。涼むための「日陰」は **shade**。shadow は輪郭のある影の形そのものを指す語なので、涼む場所を表すには shade が自然です。`,
     keyPoints: [
       'shade＝日陰・光の当たらない領域／色合い。put ~ in the shade（見劣りさせる）',
       'shadow＝輪郭のある影（物・人がつくる形）。beyond a shadow of a doubt',
@@ -11188,7 +11194,13 @@ warn は見た目どおりの動詞で、warn-warned-warned と規則的に活�
 
 ### would / wood の慣用句で判別を強化
 
-**would 系**：**would rather** ~（むしろ〜したい）、**would have + 過去分詞**（〜しただろうに＝仮定法過去完了）は、would の「〜だろう」という中心の働きから広がった表現です。**wood 系**：慣用句 **out of the woods**（危機を脱して）、イギリスの縁起担ぎの言い回し **touch wood**（（不幸が起きないよう）幸運を祈って）は、wood の「木・森」という意味から生まれた表現です。`,
+**would 系**：**would rather** ~（むしろ〜したい）、**would have + 過去分詞**（〜しただろうに＝仮定法過去完了）は、would の「〜だろう」という中心の働きから広がった表現です。**wood 系**：慣用句 **out of the woods**（危機を脱して）、イギリスの縁起担ぎの言い回し **touch wood**（（不幸が起きないよう）幸運を祈って）は、wood の「木・森」という意味から生まれた表現です。
+
+### よくある誤用
+
+⚠️ \`I would like a table made of would.\`（誤）。材料の「木」は名詞 **wood**。would は助動詞なので、名詞が来る位置には置けません。
+
+⚠️ \`If I had more time, I wood have finished it.\`（誤）。仮定法過去完了「〜しただろうに」は助動詞 **would**（would have + 過去分詞）。wood は木材を表す名詞で、動詞の前には来ません。`,
     keyPoints: [
       'would と wood は同音 /wʊd/',
       'would＝助動詞「〜だろう・〜したものだ」（will の過去）。would rather',
@@ -11253,7 +11265,13 @@ warn は見た目どおりの動詞で、warn-warned-warned と規則的に活�
 
 ### scene の慣用句で判別を強化
 
-**scene 系**：慣用句 **behind the scenes**（舞台裏で・非公開で）、**make a scene**（人前で騒ぎを起こす）は、scene の「場面・舞台」という中心の意味から広がった表現です。**seen は see の過去分詞としてのみ使う語**で、この種の複合語や慣用句は作りません。has/have のあとに来ていれば seen、それ以外の名詞の位置なら scene と判断できます。`,
+**scene 系**：慣用句 **behind the scenes**（舞台裏で・非公開で）、**make a scene**（人前で騒ぎを起こす）は、scene の「場面・舞台」という中心の意味から広がった表現です。**seen は see の過去分詞としてのみ使う語**で、この種の複合語や慣用句は作りません。has/have のあとに来ていれば seen、それ以外の名詞の位置なら scene と判断できます。
+
+### よくある誤用
+
+⚠️ \`I have never scene anything like that.\`（誤）。have のあとの「見た」は過去分詞 **seen**。scene は名詞「場面」なので、have の直後には置けません。
+
+⚠️ \`The opening seen of the movie was breathtaking.\`（誤）。「場面」を表す名詞は **scene**。seen は see の過去分詞で、the の後ろに来る名詞としては使えません。`,
     keyPoints: [
       'scene と seen は同音 /siːn/',
       'scene＝名詞「場面・光景・現場」（sc- 始まり）。behind the scenes/make a scene',
@@ -11318,7 +11336,13 @@ warn は見た目どおりの動詞で、warn-warned-warned と規則的に活�
 
 ### profit / prophet の派生語で判別を強化
 
-**profit 系**：複合語 **non-profit**（非営利の）、ビジネス用語 **profit margin**（利益率）は、profit の中心の意味そのものです。**prophet 系**：名詞 **prophecy**（預言・予言）は prophet が語る内容そのものを指し、「預言する人（prophet）」と「預言の内容（prophecy）」を品詞・意味で区別します。`,
+**profit 系**：複合語 **non-profit**（非営利の）、ビジネス用語 **profit margin**（利益率）は、profit の中心の意味そのものです。**prophet 系**：名詞 **prophecy**（預言・予言）は prophet が語る内容そのものを指し、「預言する人（prophet）」と「預言の内容（prophecy）」を品詞・意味で区別します。
+
+### よくある誤用
+
+⚠️ \`The company's prophet increased by 20% last year.\`（誤）。「利益」を表す名詞は **profit**。prophet は「預言者」を指す全く別の語で、ビジネスの文脈では使いません。
+
+⚠️ \`Moses is often described as a great profit in the Bible.\`（誤）。宗教的な「預言者」は **prophet**（ph で綴る）。profit はお金の「利益」を表す語なので、人物を指すことはできません。`,
     keyPoints: [
       'profit と prophet は同音 /ˈprɒfɪt/',
       'profit＝利益・もうけ（反対は loss）。non-profit/profit margin',
@@ -11684,7 +11708,13 @@ eight から派生する数詞は綴りの変化に注意が必要です。序�
 
 ### higher / hire の複合語で判別を強化
 
-**higher 系**：複合語 **higher education**（高等教育）、口語表現 **the higher-ups**（上層部・お偉方）は、higher の「より上の」という中心の意味そのものです。**hire 系**：慣用句 **for hire**（貸し出し用の・雇われ待ちの＝a taxi for hire）、名詞 **a new hire**（新規採用者）は、hire の「雇う・貸す」という意味から広がった表現です。`,
+**higher 系**：複合語 **higher education**（高等教育）、口語表現 **the higher-ups**（上層部・お偉方）は、higher の「より上の」という中心の意味そのものです。**hire 系**：慣用句 **for hire**（貸し出し用の・雇われ待ちの＝a taxi for hire）、名詞 **a new hire**（新規採用者）は、hire の「雇う・貸す」という意味から広がった表現です。
+
+### よくある誤用
+
+⚠️ \`The company decided to higher three new engineers.\`（誤）。「雇う」は動詞 **hire**。higher は high の比較級「より高い」で、動詞として使うことはできません。
+
+⚠️ \`Salaries here are generally hire than average.\`（誤）。「より高い」は比較級 **higher**。hire は「雇う・借りる」を意味する動詞で、比較の意味は持ちません。`,
     keyPoints: [
       'higher と hire はほぼ同音 /ˈhaɪər/',
       'higher＝より高い（high の比較級）。higher education/the higher-ups',
