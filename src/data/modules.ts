@@ -10527,7 +10527,13 @@ in the past（昔は・かつては）は past が名詞として使われる代
 
 ### our の文法：ours との使い分け
 
-our は必ず**うしろに名詞**を伴う所有格（our house）ですが、名詞を伴わず単独で使う所有代名詞は **ours**（私たちのもの）です。**This house is ours.**（この家は私たちのものだ）のように、be動詞のあとや文末では our でなく ours を使います。時間の複合語では **rush hour**（通勤・通学ラッシュの時間帯）、形容詞 **hourly**（1時間ごとの）もよく使われます。**half an hour / a half-hour**（30分）のように、hour は数量表現でも頻出します。`,
+our は必ず**うしろに名詞**を伴う所有格（our house）ですが、名詞を伴わず単独で使う所有代名詞は **ours**（私たちのもの）です。**This house is ours.**（この家は私たちのものだ）のように、be動詞のあとや文末では our でなく ours を使います。時間の複合語では **rush hour**（通勤・通学ラッシュの時間帯）、形容詞 **hourly**（1時間ごとの）もよく使われます。**half an hour / a half-hour**（30分）のように、hour は数量表現でも頻出します。
+
+### よくある誤用
+
+⚠️ \`The meeting lasted an our.\`（誤）。「1時間続いた」なら名詞 **hour**（h は発音しないがスペルには残る）。our は所有格なので単位としては使えません。
+
+⚠️ \`This is hour classroom.\`（誤）。「私たちの教室」なら所有格 **our**。hour は「1時間」という時間の単位を表す名詞なので、所有を表すことはできません。`,
     keyPoints: [
       'hour と our はほぼ同音 /aʊər/（hour の h は無音）',
       'hour＝1時間・時刻（an hour）。rush hour/hourly',
@@ -11111,7 +11117,13 @@ warn は見た目どおりの動詞で、warn-warned-warned と規則的に活�
 
 ### wear / where の派生語で判別を強化
 
-**wear 系**：句動詞 **wear out**（使い古す・すり減らす）、**wear off**（（効果・痛みなどが）徐々に消える）は、wear の「身につける・すり減る」という意味から広がった表現です。**where 系**：名詞 **whereabouts**（居場所・行方）、複合語 **somewhere/anywhere/nowhere** はどれも where と同じ「場所」の要素を持つ仲間です。`,
+**wear 系**：句動詞 **wear out**（使い古す・すり減らす）、**wear off**（（効果・痛みなどが）徐々に消える）は、wear の「身につける・すり減る」という意味から広がった表現です。**where 系**：名詞 **whereabouts**（居場所・行方）、複合語 **somewhere/anywhere/nowhere** はどれも where と同じ「場所」の要素を持つ仲間です。
+
+### よくある誤用
+
+⚠️ \`Wear did you buy that jacket?\`（誤）。「どこでそのジャケットを買ったの？」と場所を尋ねるなら **Where**。wear は「身につける」という動詞なので、疑問詞として文頭には使えません。
+
+⚠️ \`You should where a helmet on a bike.\`（誤）。「ヘルメットを身につけるべき」なら動詞 **wear**。where は場所を表す語なので、衣服・防具を身につける動作には使えません。`,
     keyPoints: [
       'wear と where は同音 /wɛər/',
       'wear＝動詞「身につけている・着る」（wear-wore-worn）。wear out/wear off',
@@ -11883,7 +11895,13 @@ make は古英語 macian に由来するゲルマン語源の語で、ラテン�
 
 ### some / sum の派生語で判別を強化
 
-**some 系**：複合語 **something**（何か）・**somehow**（どうにかして）・**somewhat**（いくぶん）は、いずれも some の「ある程度の・いくらかの」という中心の意味から広がった語です。**sum 系**：句動詞 **sum up**（要約する）、フォーマルな接続語 **in sum**（要するに）は、sum の「合計する＝まとめる」という意味から来た表現です。代名詞 **somebody**（誰か）も、something/somehow/somewhat と並ぶ some 系の複合語です。`,
+**some 系**：複合語 **something**（何か）・**somehow**（どうにかして）・**somewhat**（いくぶん）は、いずれも some の「ある程度の・いくらかの」という中心の意味から広がった語です。**sum 系**：句動詞 **sum up**（要約する）、フォーマルな接続語 **in sum**（要するに）は、sum の「合計する＝まとめる」という意味から来た表現です。代名詞 **somebody**（誰か）も、something/somehow/somewhat と並ぶ some 系の複合語です。
+
+### よくある誤用
+
+⚠️ \`He spent a large some of money on the car.\`（誤）。「多額の金額」なら名詞 **sum**（a large sum of money）。some は限定詞「いくつかの」なので、金額そのものを表す名詞としては使えません。
+
+⚠️ \`I need sum apples for the recipe.\`（誤）。「いくつかのリンゴ」なら限定詞 **some**。sum は「合計・金額」を表す名詞なので、数量の限定詞としては使えません。`,
     keyPoints: [
       'some と sum は同音 /sʌm/',
       'some＝いくつかの・いくらかの（限定詞・代名詞）。something/somehow/somewhat',
@@ -11948,7 +11966,13 @@ make は古英語 macian に由来するゲルマン語源の語で、ラテン�
 
 ### great / grate の派生語で判別を強化
 
-**great 系**：慣用句 **a great deal**（多量・かなりの量）、複合語 **great-grandfather**（曾祖父＝great を世代の接頭語として使う）は、great の中心の意味から広がった語です。**grate 系**：形容詞 **grating**（（声・音が）耳障りな・不快な）は、grate の「きしむ・こすれる」という意味が比喩的に広がった語です。`,
+**great 系**：慣用句 **a great deal**（多量・かなりの量）、複合語 **great-grandfather**（曾祖父＝great を世代の接頭語として使う）は、great の中心の意味から広がった語です。**grate 系**：形容詞 **grating**（（声・音が）耳障りな・不快な）は、grate の「きしむ・こすれる」という意味が比喩的に広がった語です。
+
+### よくある誤用
+
+⚠️ \`She is a grate scientist.\`（誤）。「偉大な科学者」なら形容詞 **great**。grate は「すりおろす」「格子」を表す語なので、人を称賛する形容詞としては使えません。
+
+⚠️ \`Great some cheese on top of the pasta.\`（誤）。「チーズをすりおろして」なら動詞 **Grate**。great は形容詞「偉大な」なので、調理の動作を指示する動詞としては使えません。`,
     keyPoints: [
       'great と grate は同音 /ɡreɪt/',
       'great＝形容詞「偉大な・すばらしい」。a great deal/great-grandfather',
@@ -16805,7 +16829,13 @@ stair は建物内部の階段一式（複数形 stairs）を指すのに対し�
 
 ### idle / idol の派生語で判別を強化
 
-**idle 系**：句動詞 **idle away**（（時間を）だらだら過ごす＝idle away the afternoon）は、idle の「何もしない」という意味そのものです。**idol 系**：動詞 **idolize**（〜を偶像視する・熱狂的に崇拝する）は、idol の中心の意味から作られた語で、ファンが特定の人物を過度に崇拝する様子を表します。`,
+**idle 系**：句動詞 **idle away**（（時間を）だらだら過ごす＝idle away the afternoon）は、idle の「何もしない」という意味そのものです。**idol 系**：動詞 **idolize**（〜を偶像視する・熱狂的に崇拝する）は、idol の中心の意味から作られた語で、ファンが特定の人物を過度に崇拝する様子を表します。
+
+### よくある誤用
+
+⚠️ \`The singer became a national idle.\`（誤）。「国民的アイドル（崇拝の対象）」なら名詞 **idol**。idle は「稼働していない・怠惰な」という形容詞なので、人物を指す名詞には使えません。
+
+⚠️ \`The factory has been idol for months.\`（誤）。「工場が何か月も稼働していない」なら形容詞 **idle**。idol は「偶像」を表す名詞なので、機械の状態を表すことはできません。`,
     keyPoints: [
       'idle と idol は同音 /ˈaɪdl/',
       'idle＝稼働していない・怠惰な（動詞ではアイドリング）。idle away',
