@@ -1237,7 +1237,13 @@ beside oneself（我を忘れて）という熟語は、位置でも追加でも
 
 besides は文頭に置いて「そのうえ」と話を継ぎ足す働きもします。I don't want to go. Besides, it's raining.（行きたくない。それに雨も降っているし）のように、前の発言に理由を追加するときに使われ、この用法の besides は前置詞でなく副詞です。
 
-beside the point（的外れで）という言い方もよく使われ、こちらは「話の中心点からそれた場所にある」という位置のイメージが残っている分、beside oneself よりは元の意味とつながりやすい表現です。`,
+beside the point（的外れで）という言い方もよく使われ、こちらは「話の中心点からそれた場所にある」という位置のイメージが残っている分、beside oneself よりは元の意味とつながりやすい表現です。
+
+### よくある誤用
+
+⚠️ \`She sat besides me during the meeting.\`（誤）。「〜のそばに」という位置は **beside**（s なし）。besides は「〜に加えて」という追加の意味なので、位置を表す文脈では使えません。
+
+⚠️ \`Beside two novels, she has written several essays.\`（誤）。「〜に加えて」という追加の意味は **besides**。beside は位置を表す語なので、数量的な追加を表す文頭には使えません。`,
     keyPoints: [
       'beside＝前置詞「〜のそばに」（位置）',
       'besides＝前置詞「〜に加えて」／副詞「その上」（追加）',
@@ -2782,7 +2788,13 @@ The novel was adapted into a film.（その小説は映画化された）のよ�
 
 adopt a child（子どもを養子にする）は法的な手続きを伴う特定の行為で、比喩的に adapt a child と言い換えることはできません。同じ語根から分かれた2語ですが、家族に関する場面では adopt だけが使われ、adapt は環境や仕組みの変化にしか使われません。
 
-身近な名詞では adapter（電源アダプター）が ad**a**pt から作られ、電圧やプラグの形を「合わせる」道具を指します。adopt から作られる adopter（採用者）という語もありますが、日常での使用頻度は adapter よりずっと低い語です。`,
+身近な名詞では adapter（電源アダプター）が ad**a**pt から作られ、電圧やプラグの形を「合わせる」道具を指します。adopt から作られる adopter（採用者）という語もありますが、日常での使用頻度は adapter よりずっと低い語です。
+
+### よくある誤用
+
+⚠️ \`The country decided to adapt a new constitution.\`（誤）。「（方針・憲法などを）採用する」は **adopt**。adapt は「適応させる・改造する」という意味で、制度をそのまま取り入れる場合には使いません。
+
+⚠️ \`They plan to adopt the design to fit local needs.\`（誤）。「（状況に合わせて）改造する・適応させる」は **adapt**。adopt は「そのまま採用する」という意味なので、変更を加える文脈には使えません。`,
     keyPoints: [
       'adapt＝適応させる・合わせて変える・改造する（Adjust の a）',
       'adopt＝採用する・取り入れる・養子にする（Own の o）',
@@ -4952,7 +4964,13 @@ steal a glance at ~（〜をこっそり見る）・steal a kiss（不意にキ�
 
 rob にも比喩用法があり、rob someone of their dignity（人から尊厳を奪う）のように、rob A of B（AからBを奪う）という語法で物以外の抽象的なものを対象にできます。ここでも rob の目的語は常に「奪われる側（人）」で、steal のように奪われる「物」を直接目的語にすることはありません。
 
-住居に押し入って盗む行為には burglar（住居侵入窃盗犯）・burglary（住居侵入窃盗）という専用の語があり、steal や rob とは別の第三の語として法律用語や報道で使われます。`,
+住居に押し入って盗む行為には burglar（住居侵入窃盗犯）・burglary（住居侵入窃盗）という専用の語があり、steal や rob とは別の第三の語として法律用語や報道で使われます。
+
+### よくある誤用
+
+⚠️ \`Someone robbed my wallet on the train.\`（誤）。「（物）を盗む」は **steal**。rob のあとに来るのは奪われた「人・場所」で、盗まれた「物」を直接目的語にすることはできません。
+
+⚠️ \`Two men stole the bank yesterday.\`（誤）。「（銀行などを）襲う」は **rob**。steal のあとに来るのは盗まれた「物」で、場所を直接目的語にすることはできません。`,
     keyPoints: [
       'steal＝（物）を盗む（steal something・steal-stole-stolen）',
       'rob＝（人・場所）から奪う（rob someone of something）',
@@ -5766,7 +5784,13 @@ study は「勉強する」という**過程**、learn は「身につく」と�
 
 この「出ていくもの」はお金に限りません。cost は時間や健康や人間関係にも使えます。at the cost of one's health なら健康を引き換えにした、という意味で、ここに price は入りません。逆に at any price は「いくら払ってでも」から転じて、犠牲をいとわない決意を表します。**視点がどちら側にあるか**を見れば、慣用句もつながって覚えられます。
 
-動詞になると差はもっとはっきりします。This car costs 3 million yen とは言えますが、prices は「値をつける」という別の動作です。`,
+動詞になると差はもっとはっきりします。This car costs 3 million yen とは言えますが、prices は「値をつける」という別の動作です。
+
+### よくある誤用
+
+⚠️ \`This trip will price us a lot of money.\`（誤）。「（金額が）かかる」という動詞は **cost**。price は「値をつける」という別の動作を表すので、「費用がかかる」の意味では使えません。
+
+⚠️ \`The cost of this bag is written on the tag.\`（誤・不自然）。値札に書かれた「売値」は **price**。cost は買う側から見た「かかる費用」を表す語なので、値札の表示にはpriceが自然です。`,
     keyPoints: [
       'price＝名詞「価格・売値（値札の値段）」。at any price/a price tag',
       'cost＝名詞「費用」／動詞「（金額が）かかる」（cost-cost-cost）。at the cost of/cost-effective',
@@ -9089,7 +9113,13 @@ boring（退屈させる、退屈な）は原因側、bored（退屈させられ
 
 ### sight / site の慣用句で判別を強化
 
-**sight 系**：慣用句 **at first sight**（一目見て＝love at first sight）、**out of sight**（見えないところに）は、sight の「視界・見る」という中心の意味そのものです。**site 系**：形容詞 **on-site**（現地の・その場での）、複合語 **a construction site**（建設現場）は、site の「場所・敷地」という意味から広がった語です。`,
+**sight 系**：慣用句 **at first sight**（一目見て＝love at first sight）、**out of sight**（見えないところに）は、sight の「視界・見る」という中心の意味そのものです。**site 系**：形容詞 **on-site**（現地の・その場での）、複合語 **a construction site**（建設現場）は、site の「場所・敷地」という意味から広がった語です。
+
+### よくある誤用
+
+⚠️ \`They are building a new hospital on this sight.\`（誤）。「用地・敷地」は **site**。sight は「視界・光景」を表す語で、建設用地を指すことはできません。
+
+⚠️ \`The Grand Canyon is a breathtaking site to see.\`（誤）。「光景・見もの」は **sight**。site は場所・敷地を表す語なので、目に映る景色を指す文脈には sight が自然です。`,
     keyPoints: [
       'sight と site は同音 /saɪt/',
       'sight＝視界・光景・視力・名所（sightseeing）。at first sight/out of sight',
