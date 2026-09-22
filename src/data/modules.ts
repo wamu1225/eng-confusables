@@ -3112,7 +3112,13 @@ The car broke down on the highway.（車が高速道路で故障した）のよ�
 
 ビジネスでは break even（収支がとんとんになる）という言い方が定着しており、The company broke even in its second year.（その会社は2年目に収支均衡した）のように使われます。brake にはこの財務用語としての用法はありません。
 
-日常会話では Give me a break!（いい加減にして・大目に見て）という決まり文句もよく使われ、相手に譲歩や信じがたさを表すときに使います。この break は「休憩」から転じた口語表現で、brake に置き換えることはできません。`,
+日常会話では Give me a break!（いい加減にして・大目に見て）という決まり文句もよく使われ、相手に譲歩や信じがたさを表すときに使います。この break は「休憩」から転じた口語表現で、brake に置き換えることはできません。
+
+### よくある誤用
+
+⚠️ \`The driver pressed the break to stop at the red light.\`（誤）。「ブレーキ」は **brake**（a のあとに r と e）。break は「壊す・休憩」を表す語で、車を止める装置には使いません。
+
+⚠️ \`I need a brake from studying.\`（誤）。「休憩」は **break**。brake は車の制動装置を表す語なので、仕事や勉強を一休みする意味では使えません。`,
     keyPoints: [
       'break と brake は同音 /breɪk/',
       'break＝壊す・割れる／休憩（break-broke-broken）',
@@ -3713,7 +3719,13 @@ raw は印欧祖語の語根 *kreue-（生の肉）に遡り、crude（未加工
 
 ### sell はもともと「与える」を意味した
 
-sell は古英語 sellan に由来し、もとは対価の有無を問わず「与える・引き渡す」という広い意味を持っていた。時代とともに「対価と引き換えに与える」という意味に絞られ、現代の「売る」という限定的な意味に定着した。`,
+sell は古英語 sellan に由来し、もとは対価の有無を問わず「与える・引き渡す」という広い意味を持っていた。時代とともに「対価と引き換えに与える」という意味に絞られ、現代の「売る」という限定的な意味に定着した。
+
+### よくある誤用
+
+⚠️ \`They plan to cell their old car next month.\`（誤）。「売る」という動詞は **sell**。cell は「細胞・独房・電池」を表す名詞で、動詞として「売る」の意味では使いません。
+
+⚠️ \`A single sell can divide into two identical sells.\`（誤）。生物の「細胞」は **cell**。sell は動詞「売る」を表す語なので、生物学の名詞としては使えません。`,
     keyPoints: [
       'cell と sell は同音 /sel/',
       'cell＝名詞（細胞・独房・電池・携帯）。cellular',
@@ -12662,7 +12674,13 @@ ban は古英語 bannan（公に告げる・布告する）に由来し、教会
 
 ### band と bond は同じ語源から分かれた語
 
-band（帯・集団）は古ノルド語由来の語で、「縛るもの・結びつけるもの」を意味する bond（絆・拘束）と同じ語源から分かれたとされる。輪ゴムや指輪のような「物を束ねる帯」の意味と、人と人を結びつける抽象的な「絆」の意味が、根っこでつながっている。`,
+band（帯・集団）は古ノルド語由来の語で、「縛るもの・結びつけるもの」を意味する bond（絆・拘束）と同じ語源から分かれたとされる。輪ゴムや指輪のような「物を束ねる帯」の意味と、人と人を結びつける抽象的な「絆」の意味が、根っこでつながっている。
+
+### よくある誤用
+
+⚠️ \`Smoking is band in this building.\`（誤）。「禁止された」は ban の過去分詞 **banned**（n がふたつ）。band は楽団・帯を表す名詞で、禁止の意味では使いません。
+
+⚠️ \`My favorite banned played three encores last night.\`（誤）。「楽団・バンド」は **band**。banned は「禁止された」を意味する語なので、演奏する集団を指すことはできません。`,
     keyPoints: [
       'band と banned は同音 /bænd/',
       'band＝楽団・バンド／帯・ひも／集団（名詞）。wedding band/rubber band',
@@ -16036,7 +16054,13 @@ wander は古英語 wandrian に由来し、「向きを変える・巡る」を
 
 ### no wonder という成句と The Seven Wonders という固有名詞
 
-wonder は no wonder（〜も不思議ではない・当然だ）という成句でよく使われるほか、the Seven Wonders of the World（世界の七不思議）のように名詞として「驚異的な建造物・現象」を指す固有名詞的な用法もある。`,
+wonder は no wonder（〜も不思議ではない・当然だ）という成句でよく使われるほか、the Seven Wonders of the World（世界の七不思議）のように名詞として「驚異的な建造物・現象」を指す固有名詞的な用法もある。
+
+### よくある誤用
+
+⚠️ \`I often wonder around the park in the evening.\`（誤）。「あてもなく歩き回る」は **wander**。wonder は「不思議に思う」という別の意味の語で、歩く動作には使いません。
+
+⚠️ \`I wander why she didn't reply to my email.\`（誤）。「〜かしらと思う」は **wonder**。wander は「歩き回る」を表す語なので、疑問を述べる文脈には使えません。`,
     keyPoints: [
       'wander＝あてもなく歩き回る・さまよう /ˈwɑːndər/',
       'wonder＝不思議に思う・〜かしらと思う /ˈwʌndər/（名詞は驚異）',
@@ -16655,7 +16679,13 @@ confuse はラテン語 confundere（con-「共に」+ fundere「注ぐ」）に
 
 ### confusion は医学でも使われる状態を表す語
 
-confusion は日常語の「混乱」のほか、医療現場では a state of confusion（見当識障害・意識混濁の状態）のように、時間や場所、人物の認識が保てなくなる症状を指す臨床用語としても使われる。`,
+confusion は日常語の「混乱」のほか、医療現場では a state of confusion（見当識障害・意識混濁の状態）のように、時間や場所、人物の認識が保てなくなる症状を指す臨床用語としても使われる。
+
+### よくある誤用
+
+⚠️ \`The map was so confused that we got lost.\`（誤）。混乱させる「原因」を表すなら **confusing**。confused は「（人が）混乱している」状態を表す語なので、地図（物）を修飾するには使えません。
+
+⚠️ \`I am confusing about what to do next.\`（誤）。混乱している「人」の状態を表すなら **confused**。confusing は原因（物・事）を修飾する語なので、人の状態を述べる文には使えません。`,
     keyPoints: [
       '-ing 形＝感情を引き起こす原因（物・事）を表す',
       '-ed 形＝感情を受けた人の状態を表す',
