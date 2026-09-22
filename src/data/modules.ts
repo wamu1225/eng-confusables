@@ -1741,7 +1741,13 @@ historic には an historic moment という古い言い方が今も残ります
 
 作品のジャンルを表すときは historical のほうが定着しており、historical fiction（歴史小説）・historical drama（時代劇）のように「過去を舞台にした」という中立的な意味で使われます。historic fiction という言い方は一般的ではありません。
 
-アメリカには National Historic Landmark（国定歴史建造物）のような公式の指定制度があり、地名や施設名に historic がそのまま組み込まれます。この場合の historic は「政府が重要性を認めた」という制度的な重みを持っています。`,
+アメリカには National Historic Landmark（国定歴史建造物）のような公式の指定制度があり、地名や施設名に historic がそのまま組み込まれます。この場合の historic は「政府が重要性を認めた」という制度的な重みを持っています。
+
+### よくある誤用
+
+⚠️ \`My grandmother has a large collection of historic photographs from her childhood.\`（誤・不自然）。単に「昔の・過去の」写真なら **historical**。historic は「歴史に残るほど重要な」という意味なので、私的な家族写真には強すぎます。
+
+⚠️ \`The moon landing in 1969 was a historical moment for humanity.\`（誤・不十分）。人類の記憶に残る重大な出来事なら **historic**。historical は「重要かは問わない、ただ過去の」という意味なので、この文脈では弱すぎます。`,
     keyPoints: [
       'historic＝歴史に残るほど重要な（記憶される出来事）',
       'historical＝歴史上の・過去の（重要かは問わない）',
@@ -2228,7 +2234,13 @@ personnel は不可算名詞として扱われ、personnels という複数形�
 
 苦情を正式に申し立てるときは lodge a complaint（苦情を申し立てる）・file a complaint（苦情を提出する）という硬い言い方が使われ、単なる complain about ~ より公的な手続きのニュアンスが強くなります。
 
-complain には complain of ~（〜を訴える）という語法もあり、He complained of a headache.（頭痛を訴えた）のように症状を述べる場面で使われます。complain about とほぼ同じ意味ですが、of は体調不良を述べるときによく選ばれる前置詞です。`,
+complain には complain of ~（〜を訴える）という語法もあり、He complained of a headache.（頭痛を訴えた）のように症状を述べる場面で使われます。complain about とほぼ同じ意味ですが、of は体調不良を述べるときによく選ばれる前置詞です。
+
+### よくある誤用
+
+⚠️ \`She filed a complain with the manager about the service.\`（誤）。「苦情」という名詞は **complaint**（t 付き）。complain は動詞なので、a/the のあとに来る名詞の位置には置けません。
+
+⚠️ \`Customers often complaint about the long wait.\`（誤）。「苦情を言う」という動詞は **complain**（t なし）。complaint は名詞なので、主語のあとの動詞の位置には使えません。`,
     keyPoints: [
       'complain＝動詞「苦情を言う」（complain about/to）',
       'complaint＝名詞「苦情・不平」（make a complaint）',
@@ -2868,7 +2880,13 @@ Familiarity breeds contempt.（慣れ親しむと軽蔑を生む）という諺�
 
 bleed にも money bleeds away（お金がじわじわ失われる）のような比喩用法があり、bleed a company dry（会社の資金を吸い尽くす）のように、血が流れ出るイメージから「資源が漏れ出ていく」ことを表します。
 
-bleeding edge（最先端）という言い方もあり、cutting edge（最先端）よりさらにリスクの高い、実験段階の技術を指すときに使われます。breed にはこうした「最先端」を意味する熟語はありません。`,
+bleeding edge（最先端）という言い方もあり、cutting edge（最先端）よりさらにリスクの高い、実験段階の技術を指すときに使われます。breed にはこうした「最先端」を意味する熟語はありません。
+
+### よくある誤用
+
+⚠️ \`The cut on his hand started to breed heavily.\`（誤）。「出血する」は **bleed**（l の音）。breed は「繁殖させる・育てる」という別の意味の語で、傷口の描写には使えません。
+
+⚠️ \`This farm specializes in bleeding rare species of horses.\`（誤）。「（動物を）繁殖させる」は **breed**（r の音）。bleed は「出血する」を意味する語なので、飼育の文脈には使えません。`,
     keyPoints: [
       'breed /briːd/＝繁殖させる・品種（breed-bred-bred）',
       'bleed /bliːd/＝出血する（bleed-bled-bled）',
@@ -3988,7 +4006,13 @@ rather than ~（〜よりむしろ）は比較級を伴わずに than を使う�
 
 no sooner ... than ~（〜するとすぐに）という倒置構文も than を使い、No sooner had she arrived than it started to rain.（彼女が着くとすぐ雨が降り出した）のように、二つの出来事がほぼ同時に起きたことを表します。
 
-then には the then president（当時の大統領）のように、名詞の前に置いて「その当時の」という形容詞的な使い方もあります。than にはこの用法はなく、then だけが持つ独自の振る舞いです。`,
+then には the then president（当時の大統領）のように、名詞の前に置いて「その当時の」という形容詞的な使い方もあります。than にはこの用法はなく、then だけが持つ独自の振る舞いです。
+
+### よくある誤用
+
+⚠️ \`We finished dinner, than we watched a movie.\`（誤）。「それから」という時の順序を表す語は **then**。than は比較「〜より」を表す語で、比較級を伴わない場面では使いません。
+
+⚠️ \`She runs faster then her older brother.\`（誤）。「〜より」という比較を表す語は **than**。then は「そのとき・それから」を表す語なので、比較級のあとには使えません。`,
     keyPoints: [
       'than /ðæn/＝比較「〜より」（比較級とセット）',
       'then /ðen/＝「そのとき・それから・それなら」（時・順序・帰結）',
@@ -6383,7 +6407,13 @@ fourth を見ると four（4）が目に入るので、順番の話だとすぐ�
 
 見分けるコツは綴りの中の four を探すことに尽きます。**four の4文字がそのまま入っているかどうか**を見れば、fourth はすぐ見つかりますが forth には無いと分かります。put forth an idea（案を出す）のように forth が動詞のあとに付くときは、何かを前に押し出すイメージで使われています。
 
-third・fourth・fifth と序数を並べたとき、そこに forth が並ぶことはありません。forth は数列に属さない、方向・程度だけを表す副詞だからです。`,
+third・fourth・fifth と序数を並べたとき、そこに forth が並ぶことはありません。forth は数列に属さない、方向・程度だけを表す副詞だからです。
+
+### よくある誤用
+
+⚠️ \`This is the forth time I've watched this movie.\`（誤）。「4番目」という序数は **fourth**（four が入る）。forth は「前へ・外へ」という方向を表す副詞で、順番を表すことはできません。
+
+⚠️ \`They walked fourth into the dark forest.\`（誤）。「前へ・先へ」という方向を表す副詞は **forth**。fourth は数の「4番目」を表す語なので、方向を示す文脈には使えません。`,
     keyPoints: [
       'forth と fourth は同音 /fɔːrθ/',
       'forth＝前へ・外へ（back and forth／and so forth）。put forth/henceforth',
