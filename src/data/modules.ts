@@ -5267,7 +5267,13 @@ fortyish（40歳くらい）・reddish（赤みがかった）のように、-is
 
 同じ構図は womanly（女性らしい・上品な）／womanish（女々しい）、manly（男らしい）／mannish（男っぽい・無骨な）にも見られ、-ly が肯定、-ish が否定という組み合わせが child のペア以外にも存在します。
 
-くだけた会話では、大人が自分の趣味を Yeah, it's a bit childish, but I love it.（子どもっぽいけど好きなんだ）のように、childish を自嘲的に使って強い非難のニュアンスを和らげることもあります。`,
+くだけた会話では、大人が自分の趣味を Yeah, it's a bit childish, but I love it.（子どもっぽいけど好きなんだ）のように、childish を自嘲的に使って強い非難のニュアンスを和らげることもあります。
+
+### よくある誤用
+
+⚠️ \`Her painting has a wonderful childish charm.\`（誤・不適切）。「子どものように純真な」というほめ言葉は **childlike**。childish は「幼稚な」という否定的な意味なので、絵の魅力をほめる文脈には合いません。
+
+⚠️ \`He behaves in a very childlike way at meetings, always interrupting others.\`（誤・不自然）。会議で人の話を遮るような「幼稚な・大人げない」振る舞いを非難するなら **childish**。childlike は肯定的な語なので、批判の文脈には合いません。`,
     keyPoints: [
       'childish＝子どもっぽい・幼稚な（否定的）',
       'childlike＝子どものように純真な（肯定的）',
@@ -6974,7 +6980,13 @@ heel はプロレスの世界で「悪役レスラー」を指す俗語として
 
 ### write はもともと「刻む・引っかく」を意味した
 
-write は「引き裂く・引っかく」を意味するゲルマン祖語に由来し、古英語では rune wrítan（ルーン文字を彫る）のように「刻む・彫る」という意味で使われていた。ラテン語 scribere・ギリシャ語 graphein も同様に「刻む・切る」が原義で、初期の文字が硬い面に刻まれていた歴史が、印欧語族の「書く」を意味する語の多くに共通して残っている。`,
+write は「引き裂く・引っかく」を意味するゲルマン祖語に由来し、古英語では rune wrítan（ルーン文字を彫る）のように「刻む・彫る」という意味で使われていた。ラテン語 scribere・ギリシャ語 graphein も同様に「刻む・切る」が原義で、初期の文字が硬い面に刻まれていた歴史が、印欧語族の「書く」を意味する語の多くに共通して残っている。
+
+### よくある誤用
+
+⚠️ \`I need to right a letter to my grandmother.\`（誤）。「（手紙を）書く」という動詞は **write**。right は「右・正しい・権利」を表す語で、動詞「書く」の意味では使いません。
+
+⚠️ \`Turn write at the next corner.\`（誤）。方向の「右」は **right**。write は動詞「書く」を表す語なので、方向を示す語としては使えません。`,
     keyPoints: [
       'right と write は同音 /raɪt/（w は無音）',
       'right＝右・正しい・権利（反対は left / wrong）。human rights/right away',
@@ -8610,7 +8622,13 @@ moral に e を一つ足すだけで、単語は個人の倫理から集団の�
 
 この切り替わりは発音にも表れています。moral は前寄りの MOR-al、morale は後ろに強勢が来る mo-RALE で、読み上げると別の単語だと体で分かります。日本語の「モラル」はこの2語のうち moral のほうを借りた言葉で、morale（士気）は別に「モラール」とカタカナで区別されることがあります。
 
-複数形にすると意味も動きます。moral は名詞では「教訓」、morals は「（個人の）道徳観・品行」を指し、She has strong morals. は士気ではなく倫理観の強さを述べています。`,
+複数形にすると意味も動きます。moral は名詞では「教訓」、morals は「（個人の）道徳観・品行」を指し、She has strong morals. は士気ではなく倫理観の強さを述べています。
+
+### よくある誤用
+
+⚠️ \`The team's moral was low after the loss.\`（誤）。「士気・やる気」は e の付く **morale**。moral は「道徳的な」という形容詞、または「教訓」という名詞で、集団のやる気を表す語ではありません。
+
+⚠️ \`The fable teaches an important morale about honesty.\`（誤）。物語が伝える「教訓」は **moral**。morale は集団の「士気」を表す語なので、物語の教えを指す文脈には使えません。`,
     keyPoints: [
       'moral /ˈmɒrəl/＝道徳的な・教訓（前アクセント）。moral support/複数形morals（道徳観）',
       'morale /məˈræl/＝士気・やる気（後ろアクセント・e あり）。a morale booster',
@@ -12829,7 +12847,13 @@ serial は serial killer（連続殺人犯）、serial number（通し番号）�
 
 berry にはこうしたズレが一切なく、e-r-r-y は見たとおりに読めます。見たままの発音にならない方が bury、見たままの発音になる方が berry と考えれば、綴りを思い出す手がかりになります。
 
-bury the hatchet（仲直りする）のような慣用句を覚えるより先に、He buried his face in his hands.（両手に顔をうずめた）のような日常表現で bury の使われ方に触れておくほうが実用的です。一方 berry は raspberry や gooseberry のように、単独より複合語の一部として登場する場面のほうが多い語です。`,
+bury the hatchet（仲直りする）のような慣用句を覚えるより先に、He buried his face in his hands.（両手に顔をうずめた）のような日常表現で bury の使われ方に触れておくほうが実用的です。一方 berry は raspberry や gooseberry のように、単独より複合語の一部として登場する場面のほうが多い語です。
+
+### よくある誤用
+
+⚠️ \`The cat likes to berry its toys under the blanket.\`（誤）。「埋める」という動詞は **bury**。berry は名詞「ベリー（果実）」なので、動詞として「埋める」の意味では使えません。
+
+⚠️ \`We picked fresh buries from the garden this morning.\`（誤）。「ベリー（果実）」は **berry**。bury は動詞「埋める」を表す語なので、複数形にしても果物を指すことはできません。`,
     keyPoints: [
       'bury と berry は同音 /ˈbɛri/（bury の u は「エ」）',
       'bury＝動詞「埋める・葬る」（bury-buried-buried）。bury the hatchet（和解する）',
@@ -12973,7 +12997,13 @@ hurt は古フランス語 hurter（ぶつかる・突き当たる、現代フ�
 
 ### went はもともと go とは別の動詞 wend の過去形だった
 
-go の過去形 went は、実は go とは語源の異なる別の動詞 wend（進む・道を行く）の過去形が転用されたものである。中英語期に go の古い過去形が使われなくなり、代わりに wend の過去形 went が go の過去形として定着した。wend 自身は wended という新しい過去形を獲得し、went は go 専用の不規則形として残った。**go と went が語源的に無関係な語を組み合わせた「補充法」の代表例**とされる。`,
+go の過去形 went は、実は go とは語源の異なる別の動詞 wend（進む・道を行く）の過去形が転用されたものである。中英語期に go の古い過去形が使われなくなり、代わりに wend の過去形 went が go の過去形として定着した。wend 自身は wended という新しい過去形を獲得し、went は go 専用の不規則形として残った。**go と went が語源的に無関係な語を組み合わせた「補充法」の代表例**とされる。
+
+### よくある誤用
+
+⚠️ \`I'm going to your place now, so please wait for me.\`（誤・不自然）。聞き手のいる場所（＝基準）へ向かう動きは come で表すのが自然（I'm coming to your place now）。go は基準から離れる動きを表すので、相手のいる場所へ向かう文脈には合いません。
+
+⚠️ \`A: I'm at the station now. B: OK, I'll go there in 10 minutes.\`（誤・不自然）。電話などで相手のいる場所へ向かうときは **come**（I'll come there）を使うのが自然。go は基準から離れる動きを表すので、話し相手のいる場所へ向かう文脈には合いません。`,
     keyPoints: [
       'come＝基準（話し手・聞き手）の方へ「来る」（come-came-come）。come across/come up with',
       'go＝基準から離れて「行く」（go-went-gone）。go through/go ahead',
