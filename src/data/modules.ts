@@ -1525,7 +1525,13 @@ take advantage of a situation（状況を利用する）は前向きな意味で
 
 employee benefits（従業員向けの福利厚生）のように、benefits は複数形で「給与以外に会社が提供する諸手当」をまとめて指す名詞としてもよく使われます。健康保険・有給休暇・退職金制度などが該当し、この意味では advantage に置き換えられません。
 
-give someone the benefit of the doubt（疑わしきは罰せずで信じる）という熟語では、benefit が「判断を有利な方向へ振る」という抽象的な意味で使われており、ここでも advantage では代用できません。`,
+give someone the benefit of the doubt（疑わしきは罰せずで信じる）という熟語では、benefit が「判断を有利な方向へ振る」という抽象的な意味で使われており、ここでも advantage では代用できません。
+
+### よくある誤用
+
+⚠️ \`Speaking two languages is a big benefit over other candidates in the interview.\`（誤・不自然）。他の候補者と比べた「優位・強み」は **advantage**。benefit は「それ自体が与える恩恵」を表す語なので、他者との比較を含む文脈には合いません。
+
+⚠️ \`Exercise has many health advantages, like better sleep and more energy.\`（誤・不自然）。運動そのものがもたらす「恩恵」は **benefit**。advantage は「他と比べて有利な点」を表す語なので、比較を伴わない一般的な良い効果には合いません。`,
     keyPoints: [
       'benefit＝恩恵・利益（それ自体が与える良いこと）',
       'advantage＝優位・強み（他と比べて有利）',
@@ -4332,7 +4338,13 @@ except は except that ~（〜という点を除いて）という形で節を�
 
 名詞形は accept が acceptance（受諾）、except が exception（例外）とまったく違う形になり、語根の対応が見た目からは分かりにくくなっています。The exception proves the rule.（例外があるからこそ規則の存在が裏づけられる）という言い回しは、この exception を使った定番表現です。
 
-形容詞もそれぞれ acceptable（受け入れられる）・exceptional（並外れた・例外的に優れた）と別方向に発達しており、exceptional は多くの場合「例外的に悪い」でなく「例外的に素晴らしい」というプラスの意味で使われます。`,
+形容詞もそれぞれ acceptable（受け入れられる）・exceptional（並外れた・例外的に優れた）と別方向に発達しており、exceptional は多くの場合「例外的に悪い」でなく「例外的に素晴らしい」というプラスの意味で使われます。
+
+### よくある誤用
+
+⚠️ \`Everyone came accept Tom.\`（誤）。「〜を除いて」は **except**。accept は「受け入れる」を意味する動詞で、前置詞として例外を示すことはできません。
+
+⚠️ \`She finally excepted the job offer.\`（誤）。「（申し出などを）受け入れる」は **accept**。except は前置詞・接続詞「〜を除いて」を表す語なので、動詞として使うことはできません。`,
     keyPoints: [
       'accept /əkˈsept/＝動詞「受け入れる・受け取る」',
       'except /ɪkˈsept/＝前置詞・接続詞「〜を除いて」',
@@ -5604,7 +5616,13 @@ diary はラテン語 diarium（一日の記録）、さらに dies（日）に�
 
 council のメンバーは councillor（議員・評議員）と綴り、counsel から相談を受ける counselor（カウンセラー・相談員）とは l の数（councillor は l がふたつ、counselor は l がひとつ）で見分けられます。
 
-さらに紛らわしい同音語として consul（領事）があり、外国に駐在してその国との外交・領事業務を行う公務員を指します。council（議会）・counsel（助言）・consul（領事）は発音がほぼ同じ三つ子で、文脈の話題（自治体か、助言か、外交か）でしか判別できません。`,
+さらに紛らわしい同音語として consul（領事）があり、外国に駐在してその国との外交・領事業務を行う公務員を指します。council（議会）・counsel（助言）・consul（領事）は発音がほぼ同じ三つ子で、文脈の話題（自治体か、助言か、外交か）でしか判別できません。
+
+### よくある誤用
+
+⚠️ \`The lawyer gave her wise council before the trial.\`（誤）。「助言」は counsel（-sel）。council は「評議会・議会」を表す名詞なので、個人へのアドバイスを指すことはできません。
+
+⚠️ \`The city counsel voted to approve the new park.\`（誤）。「議会・評議会」は council（-cil）。counsel は「助言（する）」を表す語なので、自治体の議決機関を指すことはできません。`,
     keyPoints: [
       'council＝評議会・議会（集まった人の会・city council）',
       'counsel＝助言（する）・弁護人（counselor）',
@@ -8522,7 +8540,13 @@ sail には sail close to the wind（危険を承知でぎりぎりの行動を�
 
 ### sale は sell と同じゲルマン語根
 
-sale は動詞 sell（売る）と同じゲルマン語根に由来する名詞で、「売る」という行為そのものを表す sell に対し、sale は「販売という行為・機会」を指す名詞として役割を分けている。`,
+sale は動詞 sell（売る）と同じゲルマン語根に由来する名詞で、「売る」という行為そのものを表す sell に対し、sale は「販売という行為・機会」を指す名詞として役割を分けている。
+
+### よくある誤用
+
+⚠️ \`The boat began to sale slowly across the lake.\`（誤）。「航行する」という動詞は **sail**（ai）。sale は「販売・特売」を表す名詞で、船が進む動作には使いません。
+
+⚠️ \`The store is having a big sail this weekend.\`（誤）。「特売・セール」は **sale**（a）。sail は「帆・航行する」を表す語なので、値引き販売を指すことはできません。`,
     keyPoints: [
       'sale と sail は同音 /seɪl/',
       'sale＝名詞「販売・特売」（for sale／on sale）。clearance sale/sales pitch',
@@ -15833,7 +15857,13 @@ give birth と give a wide berth は、どちらも give のすぐあとに来�
 
 berth は船・列車・空港など特定の場面でしか使わない語で、日常会話での出番は birth よりずっと少ないため、聞き慣れない分だけ birth に引きずられて誤記しやすくなります。
 
-berth には動詞の用法もあり、The ship berthed at pier three.（船は3番埠頭に停泊した）のように使えますが、birth を動詞として使うことはありません。birth はもっぱら名詞で、give birth to ~（〜を産む）や birth control（産児制限）のように名詞のまま複合語を作ります。`,
+berth には動詞の用法もあり、The ship berthed at pier three.（船は3番埠頭に停泊した）のように使えますが、birth を動詞として使うことはありません。birth はもっぱら名詞で、give birth to ~（〜を産む）や birth control（産児制限）のように名詞のまま複合語を作ります。
+
+### よくある誤用
+
+⚠️ \`We celebrated the berth of our daughter last week.\`（誤）。「誕生・出産」は **birth**。berth は船・列車の「停泊所・寝台」を表す語なので、赤ちゃんの誕生を祝う文脈には使えません。
+
+⚠️ \`The ship returned to its birth after a long voyage.\`（誤）。船の「停泊所」は **berth**。birth は「誕生・出産」を表す語なので、船が戻る場所を指すことはできません。`,
     keyPoints: [
       'berth と birth は同音 /bɜːrθ/',
       'berth＝停泊所・寝台（give a wide berth＝大きく避ける）。動詞にもなる',
