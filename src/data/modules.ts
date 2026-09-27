@@ -1968,7 +1968,13 @@ respectful の反対は disrespectful（失礼な）で、be disrespectful of so
 
 イギリス英語では industrial action（労働争議・ストライキ）という言い方がよく使われ、take industrial action（争議行為に出る）のように使われます。この industrial は「工業の」という直訳では意味が通らず、労使関係という特定の文脈で覚える必要がある熟語です。
 
-industrious の名詞形 industriousness はあまり使われず、「勤勉さ」を表すときは diligence や hard work が好まれます。一方 industrial の名詞形 industrialization（産業化）は経済や歴史の文章で頻出します。`,
+industrious の名詞形 industriousness はあまり使われず、「勤勉さ」を表すときは diligence や hard work が好まれます。一方 industrial の名詞形 industrialization（産業化）は経済や歴史の文章で頻出します。
+
+### よくある誤用
+
+⚠️ \`She is one of the most industrial workers in the office, always finishing tasks early.\`（誤）。人の「勤勉な」性質は **industrious**。industrial は「工業の・産業の」というもの・分野を表す語なので、人の性質には使えません。
+
+⚠️ \`This industrious area has many factories and warehouses along the river.\`（誤）。工場が並ぶ「工業の」地域は **industrial**。industrious は人の性質「勤勉な」を表す語なので、地域や分野を修飾することはできません。`,
     keyPoints: [
       'industrial＝工業の・産業の（もの・分野）',
       'industrious＝勤勉な・よく働く（人）',
@@ -2176,7 +2182,13 @@ personnel はフランス語をそのまま取り入れた借用語で、後ろ�
 
 personnel は不可算名詞として扱われ、personnels という複数形は存在しません。military personnel（軍関係者）・medical personnel（医療従事者）のように「〜に従事する人々全体」を指す集合名詞として使われます。
 
-かつては人事部を Personnel Department と呼びましたが、現在は Human Resources（HR）という呼び方が主流になっています。personnel file（人事記録）・personnel management（人事管理）のような複合語には今も personnel が残っていますが、部署名としては HR に置き換わりつつあります。`,
+かつては人事部を Personnel Department と呼びましたが、現在は Human Resources（HR）という呼び方が主流になっています。personnel file（人事記録）・personnel management（人事管理）のような複合語には今も personnel が残っていますが、部署名としては HR に置き換わりつつあります。
+
+### よくある誤用
+
+⚠️ \`This is my personnel opinion about the project.\`（誤）。「個人の・私的な」という形容詞は **personal**。personnel は「職員・人員」を表す名詞なので、意見を修飾する形容詞としては使えません。
+
+⚠️ \`The company hired new personal last month.\`（誤）。「職員・人員」という名詞は **personnel**（-nnel）。personal は形容詞「個人の」を表す語なので、雇われる人々を指す名詞としては使えません。`,
     keyPoints: [
       'personal＝形容詞「個人の・私的な」（前にアクセント）',
       'personnel＝名詞「職員・人員・人事」（後ろにアクセント）',
@@ -2463,7 +2475,13 @@ institution は組織そのものだけでなく、long-established custom（長
 
 instruction は単数だと「一つの指示・命令」、複数の instructions は「一連の説明書・手順」を指すことが多く、プログラミングでは a single instruction（1個の命令）のように、コンピュータが実行する最小単位を指す専門用語としても使われます。
 
-under instruction from ~（〜の指示のもとで）という言い回しは法律や報道でよく使われ、The lawyer acted under instruction from his client.（弁護士は依頼人の指示に従って行動した）のように、誰の指示に基づく行動かを明示する場面に登場します。`,
+under instruction from ~（〜の指示のもとで）という言い回しは法律や報道でよく使われ、The lawyer acted under instruction from his client.（弁護士は依頼人の指示に従って行動した）のように、誰の指示に基づく行動かを明示する場面に登場します。
+
+### よくある誤用
+
+⚠️ \`Please follow the institutions printed on the box carefully.\`（誤）。箱に書かれた「説明書・指示」は **instruction**。institution は「機関・制度」を表す語なので、使い方の説明を指すことはできません。
+
+⚠️ \`A university is an educational instruction that offers many programs.\`（誤）。大学のような「機関」は **institution**。instruction は「指示・説明」を表す語なので、組織そのものを指すことはできません。`,
     keyPoints: [
       'institution＝機関・組織・制度',
       'instruction＝指示・説明・指導（instruct の名詞）',
@@ -8185,7 +8203,13 @@ reach は元来「手を伸ばして届く」という物理的な動作を表�
 
 ### get to という口語的な代替表現
 
-日常会話では reach や arrive at の代わりに get to ~（〜に着く）が好んで使われる。get to も arrive と同じく前置詞 to を伴う点は共通するが、reach のように前置詞なしで直接目的語を取ることはできない。`,
+日常会話では reach や arrive at の代わりに get to ~（〜に着く）が好んで使われる。get to も arrive と同じく前置詞 to を伴う点は共通するが、reach のように前置詞なしで直接目的語を取ることはできない。
+
+### よくある誤用
+
+⚠️ \`We arrived the station just in time for the train.\`（誤）。arrive は自動詞なので、場所の前に at/in が必要（arrived at the station）。前置詞なしで場所を直接続けられるのは **reach** だけです。
+
+⚠️ \`We reached at the summit just before sunset.\`（誤）。reach は他動詞なので前置詞なしで場所を続けます（reached the summit）。at を入れるのは自動詞 **arrive** の形なので、reach には使いません。`,
     keyPoints: [
       'reach＝他動詞（reach + 場所・前置詞なし）',
       'arrive＝自動詞（arrive at 狭い場所 / in 広い場所）',
@@ -10750,7 +10774,13 @@ know は印欧祖語の語根 *gno-（知る）に遡り、notice（気づく）
 
 ### new は印欧語族で最も古くから安定して残る語の一つ
 
-new はラテン語 novus、ギリシャ語 neos、サンスクリット語 navah と同じ語根を持ち、印欧祖語の段階からほとんど形を変えずに多くの言語に伝わった、きわめて保存性の高い基本語彙とされる。`,
+new はラテン語 novus、ギリシャ語 neos、サンスクリット語 navah と同じ語根を持ち、印欧祖語の段階からほとんど形を変えずに多くの言語に伝わった、きわめて保存性の高い基本語彙とされる。
+
+### よくある誤用
+
+⚠️ \`I bought a knew bag for the trip.\`（誤）。「新しい」という形容詞は **new**。knew は動詞 know の過去形「知っていた」を表す語なので、物を形容する語としては使えません。
+
+⚠️ \`I new the answer before she even asked.\`（誤）。「知っていた」は動詞 know の過去形 **knew**。new は形容詞「新しい」を表す語なので、動詞として使うことはできません。`,
     keyPoints: [
       'knew と new は同音 /njuː/（knew の k は無音）',
       'knew＝know の過去「知っていた」（know-knew-known）。複合語は作らない',
