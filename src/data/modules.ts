@@ -6152,7 +6152,13 @@ SF作品で頻出する「並行世界」は、アメリカ英語では alternat
 
 ### flour と flower はもともと同じ綴りの同じ単語だった
 
-flour と flower はもともと同じ語で、綴りも flower に統一されていた。「花」が比喩的に「物事の最良の部分」を意味する用法（the flower of youth＝若さの盛り）から、小麦粉のうち最も上質な部分を指す使い方が生まれ、13世紀以降この意味だけ徐々に flour という綴りに分かれていった。19世紀初頭になってようやく flour の綴りが定着し、2語として区別されるようになった。`,
+flour と flower はもともと同じ語で、綴りも flower に統一されていた。「花」が比喩的に「物事の最良の部分」を意味する用法（the flower of youth＝若さの盛り）から、小麦粉のうち最も上質な部分を指す使い方が生まれ、13世紀以降この意味だけ徐々に flour という綴りに分かれていった。19世紀初頭になってようやく flour の綴りが定着し、2語として区別されるようになった。
+
+### よくある誤用
+
+⚠️ \`She planted red flours in the garden last spring.\`（誤）。庭に植える「花」は **flower**（e が入る）。flour は「小麦粉」を表す語なので、植物を指すことはできません。
+
+⚠️ \`To make the bread, mix two cups of flower with water and yeast.\`（誤）。パン作りに使う「小麦粉」は **flour**。flower は「花」を表す語なので、料理の材料には使えません。`,
     keyPoints: [
       'flour と flower は同音 /ˈflaʊər/',
       'flour＝小麦粉・穀物の粉。plain flour/self-raising flourの区別',
@@ -7733,7 +7739,13 @@ no には見落としやすい文法上の特徴があります。**not a と違
 
 ### buy は by や bye とは無関係のゲルマン語源
 
-buy は古英語 bycgan（買う）に由来するゲルマン語源の動詞で、前置詞 by や間投詞 bye とは語源的なつながりが無い。3語がたまたま同じ発音になっただけの同音異義語である。`,
+buy は古英語 bycgan（買う）に由来するゲルマン語源の動詞で、前置詞 by や間投詞 bye とは語源的なつながりが無い。3語がたまたま同じ発音になっただけの同音異義語である。
+
+### よくある誤用
+
+⚠️ \`I want to bye a new phone next week.\`（誤）。「買う」という動詞は **buy**。bye は別れの挨拶「さようなら」を表す語なので、動詞として使うことはできません。
+
+⚠️ \`The letter was written buy hand.\`（誤）。「〜によって」という前置詞は **by**。buy は「買う」を表す動詞なので、前置詞の位置には置けません。`,
     keyPoints: [
       'buy＝動詞「買う」（buy-bought-bought）。buy into/a best buy',
       'by＝前置詞「〜のそば・〜によって・〜までに」。by far/by heart',
@@ -12353,7 +12365,13 @@ much・many はどちらも比較級・最上級が more・most という共通�
 
 ### many はゲルマン語源、対応するラテン語はmulti-系の語に残る
 
-many は古英語 manig に由来するゲルマン語源の語で、ラテン語に由来する「多い」を意味する語根（multi-）とは系統が異なる。multiple（複数の）・multitude（多数）のようなラテン語源の語と、日常語 many のゲルマン語源が、同じ「多い」という意味を別の語源で表している。`,
+many は古英語 manig に由来するゲルマン語源の語で、ラテン語に由来する「多い」を意味する語根（multi-）とは系統が異なる。multiple（複数の）・multitude（多数）のようなラテン語源の語と、日常語 many のゲルマン語源が、同じ「多い」という意味を別の語源で表している。
+
+### よくある誤用
+
+⚠️ \`She has much friends who live nearby.\`（誤）。可算名詞 friends（複数形）につく「多くの」は **many**。much は不可算名詞につく語なので、数えられる名詞には使えません。
+
+⚠️ \`I don't have many time to finish this today.\`（誤）。不可算名詞 time につく「多くの」は **much**。many は可算名詞の複数形につく語なので、time のような不可算名詞には使えません。`,
     keyPoints: [
       'much＝（不可算に）多くの（much water/time）。not much of a ~/as much as ~',
       'many＝（可算・複数に）多くの（many books/people）。many a + 単数名詞（文語）',
@@ -13313,7 +13331,13 @@ tale は古英語 talu（話・物語）に由来し、動詞 tell（話す）�
 
 ### the tail wagging the dogという成句
 
-tail には the tail wagging the dog（本来従属する立場のものが全体を動かす＝主客転倒）という成句があり、しっぽが体全体を振り回すという不自然な情景を使って、小さな部分が全体を支配する状況を皮肉る表現になっている。`,
+tail には the tail wagging the dog（本来従属する立場のものが全体を動かす＝主客転倒）という成句があり、しっぽが体全体を振り回すという不自然な情景を使って、小さな部分が全体を支配する状況を皮肉る表現になっている。
+
+### よくある誤用
+
+⚠️ \`The dog wagged its tale happily when I came home.\`（誤）。動物の「しっぽ」は **tail**（ai）。tale は「物語・話」を表す語なので、体の部位を指すことはできません。
+
+⚠️ \`Grandma told us an exciting tail before bed.\`（誤）。「物語・お話」は **tale**。tail は「しっぽ・後部」を表す語なので、物語を指すことはできません。`,
     keyPoints: [
       'tail と tale は同音 /teɪl/',
       'tail＝しっぽ・尾／後部。tail off（先細りになる）/ponytail',
@@ -15144,7 +15168,13 @@ hangar はフランス語 hangar（小屋・格納庫）を経て、古フラン
 
 ### 針金ハンガーは1903年に社員が即興で発明した
 
-現在も広く使われる針金ハンガーは、1903年にアメリカ・ミシガン州の会社員アルバート・パークハウスが、コート掛けのフックが全て使用中だったため、手近な針金を曲げて即席で作ったのが始まりとされる。特許は雇い主の会社が取得した。`,
+現在も広く使われる針金ハンガーは、1903年にアメリカ・ミシガン州の会社員アルバート・パークハウスが、コート掛けのフックが全て使用中だったため、手近な針金を曲げて即席で作ったのが始まりとされる。特許は雇い主の会社が取得した。
+
+### よくある誤用
+
+⚠️ \`Hang your coat on a hangar by the door.\`（誤）。衣類を掛ける「ハンガー」は **hanger**（hang+-er）。hangar は飛行機の「格納庫」を表す語なので、衣類掛けには使えません。
+
+⚠️ \`The old plane was kept in a hanger near the runway.\`（誤）。飛行機の「格納庫」は **hangar**（-ar）。hanger は衣類を掛ける道具を表す語なので、大きな建物を指すことはできません。`,
     keyPoints: [
       'hangar と hanger は同音 /ˈhæŋər/',
       'hangar＝（飛行機の）格納庫（-ar）。比喩表現を作らない',
