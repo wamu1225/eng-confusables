@@ -2550,7 +2550,13 @@ No Admittance（立入禁止）という掲示は、建物や部屋への**物�
 
 permit には名詞の用法もあり、a parking permit（駐車許可証）のように**許可を証明する実物の書類**を指します。permission は許可という抽象的な状態そのものを指すので、「許可証を見せて」は Show me your permit. であって Show me your permission. とは言いません。
 
-admission には「（過ちなどを）認める発言」という意味もあり、an admission of guilt（罪の認め）のように使われます。confession（告白）より軽い認めにも使えるやわらかい語で、「非を認める」程度の場面にも登場します。`,
+admission には「（過ちなどを）認める発言」という意味もあり、an admission of guilt（罪の認め）のように使われます。confession（告白）より軽い認めにも使えるやわらかい語で、「非を認める」程度の場面にも登場します。
+
+### よくある誤用
+
+⚠️ \`We need admission from our teacher before we can leave the classroom early.\`（誤）。「〜してよいという許可」は **permission**。admission は入場・入学や罪の認めを表す語なので、行為の許しには使えません。
+
+⚠️ \`Permission to the art exhibit costs 500 yen for adults.\`（誤）。「入場料」は **admission**。permission は行為への許可を表す語で、入場料や入場資格には使いません。`,
     keyPoints: [
       'permission＝（行為をする）許可（permit の名詞）',
       'admission＝入場・入学／入場料／（罪・事実の）認め（admit の名詞）',
@@ -9107,7 +9113,13 @@ die は古ノルド語 deyja に由来する借用語で、この語が定着す
 
 ### dye は die とは無関係のゲルマン語源
 
-dye は古英語 deagian（染める）に由来する語で、「死ぬ」を意味する die とは語源的な関係が無い。たまたま同じ発音になった同音異義語である。`,
+dye は古英語 deagian（染める）に由来する語で、「死ぬ」を意味する die とは語源的な関係が無い。たまたま同じ発音になった同音異義語である。
+
+### よくある誤用
+
+⚠️ \`Without water, the plant will dye within a few days.\`（誤）。「死ぬ・枯れる」は **die**。dye は「染める」を表す語なので、植物が枯れる意味では使えません。
+
+⚠️ \`She died her hair a bright shade of red last weekend.\`（誤）。「（髪などを）染める」は **dye**（dyed）。die は「死ぬ」を表す動詞なので、染色の意味では使えません。`,
     keyPoints: [
       'die と dye は同音 /daɪ/',
       'die＝動詞「死ぬ・枯れる」（進行形 dying）。die out/die down',
@@ -9474,7 +9486,13 @@ salary はラテン語 salarium（塩の手当）に由来し、さらに sal（
 
 ### wage は gage・wager と同じ語根
 
-wage は古フランス語 gage（担保・誓約）と同じ語源を持ち、賭け金を意味する wager（賭け）とも同根である。「約束の担保として差し出すもの」という原義が、「労働の対価として支払われるもの」という現代の wage の意味につながっている。`,
+wage は古フランス語 gage（担保・誓約）と同じ語源を持ち、賭け金を意味する wager（賭け）とも同根である。「約束の担保として差し出すもの」という原義が、「労働の対価として支払われるもの」という現代の wage の意味につながっている。
+
+### よくある誤用
+
+⚠️ \`Part-time workers here are paid a fixed salary of $15 for every hour they work.\`（誤・不自然）。時給で支払われる賃金は **wage**。salary は月給・年俸のような固定給を表す語なので、時間単位の支払いには合いません。
+
+⚠️ \`As a manager, she receives a fixed wage of $80,000 a year.\`（誤・不自然）。年俸のような固定給は **salary**。wage は主に時給・週給を表す語なので、年単位の固定給には合いません。`,
     keyPoints: [
       'salary＝固定給（月給・年俸）。形容詞salaried',
       'wage＝時間給・週給（働いた時間・量で払う。複数 wages）。a living wage/wage war',
@@ -10862,7 +10880,13 @@ new はラテン語 novus、ギリシャ語 neos、サンスクリット語 nava
 
 住む場所を失った状態を英語では homeless（家庭・帰る場所を失った）と言い、houseless とはほぼ言いません。建物としての住居だけでなく「安心して帰属できる場」を失っているというニュアンスを、home のこの語が正面から担っています。a broken home（崩壊した家庭）という言い方も、home が建物ではなく家族関係そのものを指す典型例です。
 
-🎯 覚え方：**建物は house、気持ち・帰属は home**。迷ったら「建てられる？」＝house、「帰る場所？」＝home。`,
+🎯 覚え方：**建物は house、気持ち・帰属は home**。迷ったら「建てられる？」＝house、「帰る場所？」＝home。
+
+### よくある誤用
+
+⚠️ \`I have to finish my housework before the test tomorrow.\`（誤）。学校の「宿題」は **homework**。housework は掃除・洗濯などの「家事」を表す語なので、勉強の課題には使いません。
+
+⚠️ \`After a long trip, it feels great to finally get house and relax.\`（誤）。「家に帰る」は **go/get home**（前置詞なし）。house は「建物としての家」を表す語で、この決まった言い方には使いません。`,
     keyPoints: [
       'house＝建物としての家・家屋（数えられる建造物）',
       'home＝家庭・我が家・故郷（帰属・感情を含む）',
@@ -14469,7 +14493,13 @@ wine はラテン語 vinum を経由した語だが、その起源はさらに�
 
 ### whine はもともと矢が風を切る音を表した擬音語
 
-whine は古英語 hwinan（ヒューッと音を立てる）に由来し、もともとは矢が空気を切る音や風の音を表す擬音語だった。16世紀ごろに「弱々しく泣き言を言う」という意味に転じ、鋭い音のイメージが人の泣き言・不満の声に重ねられるようになった。`,
+whine は古英語 hwinan（ヒューッと音を立てる）に由来し、もともとは矢が空気を切る音や風の音を表す擬音語だった。16世紀ごろに「弱々しく泣き言を言う」という意味に転じ、鋭い音のイメージが人の泣き言・不満の声に重ねられるようになった。
+
+### よくある誤用
+
+⚠️ \`He ordered a glass of whine with dinner.\`（誤）。飲み物の「ワイン」は **wine**（w-）。whine は「泣き言を言う」を表す動詞なので、飲み物を指すことはできません。
+
+⚠️ \`The children began to wine loudly when the store closed.\`（誤）。「めそめそ泣く・泣き言を言う」は **whine**（wh-）。wine は「ワイン」を表す名詞なので、動詞として泣く様子を表すことはできません。`,
     keyPoints: [
       'whine と wine は同音 /waɪn/',
       'whine＝めそめそ泣く・泣き言を言う（動詞・wh-、名詞にも）',
