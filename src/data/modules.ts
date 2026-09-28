@@ -4928,7 +4928,13 @@ angel はギリシャ語 angelos（使者・伝令）に由来し、evangelist�
 
 ### angle は ankle（足首）と同じ語根
 
-angle はラテン語 angulus（角・曲がり角）に由来し、体の「曲がる部分」を指す ankle（足首）と同じ語根を持つ。「曲がる・折れる」という共通のイメージが、幾何学の「角度」と身体の「関節」という一見遠い2つの語をつないでいる。`,
+angle はラテン語 angulus（角・曲がり角）に由来し、体の「曲がる部分」を指す ankle（足首）と同じ語根を持つ。「曲がる・折れる」という共通のイメージが、幾何学の「角度」と身体の「関節」という一見遠い2つの語をつないでいる。
+
+### よくある誤用
+
+⚠️ \`The children drew a picture of an angle with white wings.\`（誤）。「天使」は **angel**（e が先）。angle は「角度・角」を表す語なので、翼を持つ存在を指すことはできません。
+
+⚠️ \`Please measure the angel of the triangle's corner.\`（誤）。「角度」は **angle**（l が先）。angel は「天使」を表す語なので、図形の測定には使えません。`,
     keyPoints: [
       'angel /ˈeɪndʒəl/＝天使（g は /dʒ/）。guardian angel/angel investor',
       'angle /ˈæŋɡəl/＝角度・角（g は /ɡ/）。right angle/angle for（遠回しに求める）',
@@ -7471,7 +7477,13 @@ harm は人にも物にも使え、抽象的な「害」も表します。hurt �
 
 ### 成句に残る使い分け
 
-damage control は不祥事などのあとで被害の広がりを抑える「事態収拾」を指し、企業や政治の記事でよく出てきます。add insult to injury は、けがをさせたうえに侮辱まで重ねるという成句で、日本語の「踏んだり蹴ったり」に近い場面で使われます。壊れる側と傷つく側で、成句に選ばれる語もきれいに分かれています。`,
+damage control は不祥事などのあとで被害の広がりを抑える「事態収拾」を指し、企業や政治の記事でよく出てきます。add insult to injury は、けがをさせたうえに侮辱まで重ねるという成句で、日本語の「踏んだり蹴ったり」に近い場面で使われます。壊れる側と傷つく側で、成句に選ばれる語もきれいに分かれています。
+
+### よくある誤用
+
+⚠️ \`The car accident damaged the driver's leg badly.\`（誤・不自然）。人の体が「けがをする」なら **injure**。damage は主に物・建物などに使う語で、人の体を主語や目的語にする表現には合いません。
+
+⚠️ \`The storm injured several houses along the coast.\`（誤）。建物に「損害を与える」は **damage**。injure は人や動物の体を傷つける場合に使う語なので、建物には使いません。`,
     keyPoints: [
       'damage＝（物・評判）に損害を与える（名詞「損害」も）',
       'injure＝（人・体）を傷つける・負傷させる（injury）',
@@ -10309,7 +10321,13 @@ realize には「実現する」という意味もあり、He finally realized h
 
 ### 綴りの英米差
 
-realize はアメリカ英語の綴りで、イギリス英語では realise とも書かれます（-ize/-ise はどちらの綴りもイギリスで許容されていますが、-ise がより一般的です）。notice にはこの種の綴り差はありません。`,
+realize はアメリカ英語の綴りで、イギリス英語では realise とも書かれます（-ize/-ise はどちらの綴りもイギリスで許容されていますが、-ise がより一般的です）。notice にはこの種の綴り差はありません。
+
+### よくある誤用
+
+⚠️ \`I didn't notice how important the meeting was until it was too late.\`（誤・不自然）。重要さを頭で「理解する・悟る」は **realize**。notice は五感で表面的に気づくことを表す語なので、重要性の理解には弱すぎます。
+
+⚠️ \`She realized a new poster on the wall as she walked past.\`（誤）。目で見て「気づく」は **notice**。realize は頭の中で事実・重要さを理解することを表す語なので、掲示物を見かけただけの場面には強すぎます。`,
     keyPoints: [
       'notice＝五感で「気づく・目に留める」',
       'realize＝頭で「はっきり理解する・悟る」（「実現する」も）',
@@ -13932,7 +13950,13 @@ tall には「背が高い」から離れて「並外れた・大げさな」と
 
 ### high にしかない抽象的な用法
 
-high は程度・地位・音の高さなど、tall には広がらない抽象的な意味を数多く持ちます。high prices（高い値段）、high standards（高い水準）、a high note（高い音）、high season（繁忙期・最盛期）のように、縦の長さを持たない対象にも使えるのが high の守備範囲の広さです。`,
+high は程度・地位・音の高さなど、tall には広がらない抽象的な意味を数多く持ちます。high prices（高い値段）、high standards（高い水準）、a high note（高い音）、high season（繁忙期・最盛期）のように、縦の長さを持たない対象にも使えるのが high の守備範囲の広さです。
+
+### よくある誤用
+
+⚠️ \`The mountain is very tall, covered with snow at the top.\`（誤・不自然）。山のような対象の「高さ」は **high**。tall は人・木・ビルなど縦に細長いものの背の高さを表す語なので、山には合いません。
+
+⚠️ \`He is one of the highest students in his class.\`（誤）。人の「背が高い」は **tall**。high は位置・程度の高さを表す語なので、人の身長には使いません。`,
     keyPoints: [
       'tall＝縦に細長いものの背が高い（人・木・ビル）',
       'high＝位置・程度が高い／地面から高い所（山・棚・値段）',
@@ -16455,7 +16479,13 @@ marital はラテン語 maritus（夫）に由来し、動詞 marry（結婚す�
 
 ### martial law が発動された歴史的な例
 
-martial law（戒厳令）は、通常の司法手続きを停止し軍が治安維持を担う非常事態の措置で、大規模な災害や暴動の際に発動されてきた歴史がある。marital status（婚姻状況）との一字違いは、書類の記入ミスとしてしばしば話題になる。`,
+martial law（戒厳令）は、通常の司法手続きを停止し軍が治安維持を担う非常事態の措置で、大規模な災害や暴動の際に発動されてきた歴史がある。marital status（婚姻状況）との一字違いは、書類の記入ミスとしてしばしば話題になる。
+
+### よくある誤用
+
+⚠️ \`The form asked me to fill in my martial status: single or married.\`（誤）。「婚姻状況」は **marital status**。martial は「軍事の・戦いの」を表す語なので、結婚に関する項目には使えません。
+
+⚠️ \`He has practiced marital arts like judo and karate since childhood.\`（誤）。「武術」は **martial arts**。marital は「結婚の」を表す語なので、武道を指すことはできません。`,
     keyPoints: [
       'martial＝軍事の・戦いの（martial arts / martial law）',
       'marital＝結婚の・婚姻の（marital status）',
