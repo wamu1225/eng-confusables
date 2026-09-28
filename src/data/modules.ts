@@ -1385,7 +1385,13 @@ revenue は政府にも使われ、tax revenue（税収）は国や自治体が�
 
 profit margin（利益率）という言い方では、profit が revenue に対してどれだけの割合を占めるかを示します。Profit margin = profit ÷ revenue × 100 で計算され、同じ利益額でも売上が小さいほど margin は高くなるので、絶対額の profit と割合の profit margin は別の指標として使い分けられます。
 
-non-profit organization（非営利団体）という表現では、profit が「団体の活動目的として利益を追求すること」を意味しており、収入がゼロという意味ではありません。寄付や会費という revenue はあっても、それを分配せず活動に還元する団体を指します。`,
+non-profit organization（非営利団体）という表現では、profit が「団体の活動目的として利益を追求すること」を意味しており、収入がゼロという意味ではありません。寄付や会費という revenue はあっても、それを分配せず活動に還元する団体を指します。
+
+### よくある誤用
+
+⚠️ \`The company's profit rose to $10 million before any expenses were subtracted.\`（誤・矛盾）。経費を引く前の「総収入」は **revenue**。profit は経費を引いた後の「純利益」を表す語なので、経費差引前の金額には使いません。
+
+⚠️ \`After paying all the costs, the company's revenue was surprisingly small.\`（誤）。経費を引いた後に残る「純利益」は **profit**。revenue は経費を引く前の「総収入」を表す語なので、経費差引後の金額には使いません。`,
     keyPoints: [
       'revenue＝総収入・売上（経費を引く前）',
       'profit＝純利益（売上から経費を引いた後）',
@@ -2113,7 +2119,13 @@ effective には「（規則・契約が）発効して」という意味もあ�
 
 ビジネス用語では cost-effective（費用対効果が良い）が定着表現として広く使われますが、cost-efficient は日常的にはあまり使われません。費用の話をするときは、無駄のなさより「払った分に見合う結果が出るか」に焦点が置かれるため、effective 系の語のほうが好まれます。
 
-効率を表す名詞 efficiency は物理学でも使われ、機関の効率を熱効率（thermal efficiency）と呼ぶように、エネルギーの入力に対する出力の比率という工学的な意味も持ちます。effectiveness にはこうした数値化された技術用語としての用法はありません。`,
+効率を表す名詞 efficiency は物理学でも使われ、機関の効率を熱効率（thermal efficiency）と呼ぶように、エネルギーの入力に対する出力の比率という工学的な意味も持ちます。effectiveness にはこうした数値化された技術用語としての用法はありません。
+
+### よくある誤用
+
+⚠️ \`The new factory process is very effective; it wastes almost no time or material.\`（誤・不自然）。無駄がない「効率的」は **efficient**。effective は「結果を出す」ことを表す語なので、無駄のなさを述べる文脈には合いません。
+
+⚠️ \`This medicine is highly efficient at curing headaches within minutes.\`（誤・不自然）。頭痛を治すという「結果を出す」ことを表すなら **effective**。efficient は時間・資源の無駄のなさを表す語なので、治療効果そのものを述べる文脈には弱すぎます。`,
     keyPoints: [
       'effective＝効果的・有効（望む結果を出す）',
       'efficient＝効率的（時間・資源を無駄にしない）',
@@ -2406,7 +2418,13 @@ imaginative の対義語 unimaginative（発想が乏しい）は創作物や企
 
 literate は identity のように -cy を付けて名詞化でき、literacy（識字・読み書き能力）に加え、computer-literate（パソコンに強い）・media-literate（メディアを読み解く力がある）のように**特定分野への精通**を表す複合語にも広がっています。この拡張用法は literal・literary には見られません。
 
-反対語はそれぞれ形が違い、literate の反対は illiterate（読み書きができない）、literal の反対は figurative（比喩的な）で、否定の接頭辞を付ける illiterate とは作り方が異なります。`,
+反対語はそれぞれ形が違い、literate の反対は illiterate（読み書きができない）、literal の反対は figurative（比喩的な）で、否定の接頭辞を付ける illiterate とは作り方が異なります。
+
+### よくある誤用
+
+⚠️ \`She works as an editor at a literal magazine that publishes short stories and poetry.\`（誤）。「文学の」という意味は **literary**。literal は「文字どおりの」を表す語なので、文学作品を扱う雑誌を修飾することはできません。
+
+⚠️ \`Thanks to the new program, more adults in the village became literary.\`（誤）。「読み書きができる」は **literate**。literary は「文学の」を表す語なので、識字能力を述べる文脈には合いません。`,
     keyPoints: [
       'literal＝文字どおりの・逐語的な',
       'literary＝文学の・文芸の',
@@ -13835,7 +13853,13 @@ hope は詩人アレクサンダー・ポープの一節 hope springs eternal（
 
 ### expecting は「妊娠している」を婉曲的に表す
 
-expect は be expecting（妊娠している）という婉曲表現でも使われ、単に「予期する」という一般的な意味から、出産を待つという特定の状況を指す慣用的な用法に特化している。`,
+expect は be expecting（妊娠している）という婉曲表現でも使われ、単に「予期する」という一般的な意味から、出産を待つという特定の状況を指す慣用的な用法に特化している。
+
+### よくある誤用
+
+⚠️ \`I wish to see you at the meeting tomorrow, since you already confirmed you'll attend.\`（誤・不自然）。出席が確定している、実現可能なことを望むなら **hope**。wish は実現しにくい願いや仮定法で使う語なので、確実な予定を望む文脈には弱すぎます。
+
+⚠️ \`I hope I could speak five languages like my grandfather.\`（誤）。実現しにくい願いには **wish**（wish + 過去形）。hope は実現可能なことに使う語なので、この仮定的な願望には合いません。`,
     keyPoints: [
       'hope＝実現可能なことを望む（hope to do／hope that ~）',
       'wish＝実現しにくい願い（wish + 過去＝仮定法）',
@@ -16597,7 +16621,13 @@ while は接続詞だけでなく、for a while（しばらくの間）・worth 
 
 ### meanwhile という複合語
 
-while は meanwhile（その間に・一方で）という複合語にも使われており、while の「〜の間」という時間の幅を表す中心義が、複合語の中でもそのまま生きている。`,
+while は meanwhile（その間に・一方で）という複合語にも使われており、while の「〜の間」という時間の幅を表す中心義が、複合語の中でもそのまま生きている。
+
+### よくある誤用
+
+⚠️ \`He fell asleep during he was watching the film.\`（誤）。during は前置詞なので後ろに名詞が来ます（during the film）。「主語＋動詞」の節を続けるのは接続詞 **while** です。
+
+⚠️ \`He fell asleep while the film.\`（誤）。while は接続詞なので後ろに「主語＋動詞」の節が来ます（while he was watching the film）。名詞（句）を直接続けるのは前置詞 **during** です。`,
     keyPoints: [
       'during＝前置詞。後ろは名詞（during the trip）',
       'while＝接続詞。後ろは主語＋動詞（while I was traveling）',
