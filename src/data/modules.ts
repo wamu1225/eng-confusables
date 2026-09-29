@@ -2049,7 +2049,13 @@ industrious の名詞形 industriousness はあまり使われず、「勤勉さ
 
 considerate の対義語 inconsiderate（思いやりのない）はよく使われますが、considerable の否定は not inconsiderable（決して小さくない＝婉曲的にかなり大きい、という二重否定）という形で登場することがあり、単純な対義語のペアにはなっていません。
 
-It was considerate of you to do ~（〜してくれるとは思いやりがある）という形は、of の後ろに人を置く独特の構文です。considerable にはこの「of + 人」の構文はなく、amount of ~（〜の量）のように名詞を直接修飾する使い方が中心です。`,
+It was considerate of you to do ~（〜してくれるとは思いやりがある）という形は、of の後ろに人を置く独特の構文です。considerable にはこの「of + 人」の構文はなく、amount of ~（〜の量）のように名詞を直接修飾する使い方が中心です。
+
+### よくある誤用
+
+⚠️ \`Thank you for being so considerable and letting me borrow your car.\`（誤）。人が「思いやりのある」は **considerate**。considerable は量・程度が「かなりの」ことを表す語なので、人の親切な態度を述べる文脈には使えません。
+
+⚠️ \`The renovation cost a considerate amount of money.\`（誤）。「かなりの（量）」は **considerable**。considerate は人の思いやりを表す語なので、金額の大きさを述べることはできません。`,
     keyPoints: [
       'considerable＝かなりの・相当の（量・程度）',
       'considerate＝思いやりのある（人の態度）',
@@ -2347,7 +2353,13 @@ imaginable は every imaginable excuse（考えうる限りのあらゆる言い
 
 数学の imaginary number（虚数）は、実際に存在しない値という意味から転用された専門用語で、architecture（建築）のimaginative designと同じ語根から出ながら、日常の「空想」とはかけ離れた分野で使われています。
 
-imaginative の対義語 unimaginative（発想が乏しい）は創作物や企画への評価によく使われ、an unimaginative solution（ありきたりな解決策）のように新しさの欠如を指摘する場面で登場します。`,
+imaginative の対義語 unimaginative（発想が乏しい）は創作物や企画への評価によく使われ、an unimaginative solution（ありきたりな解決策）のように新しさの欠如を指摘する場面で登場します。
+
+### よくある誤用
+
+⚠️ \`As a child, she had an imaginative friend that only she could see.\`（誤）。「架空の・実在しない」は **imaginary**。imaginative は「想像力豊かな」という人・作品の性質を表す語なので、実在しない友達そのものを指すことはできません。
+
+⚠️ \`We tried every imaginative solution before giving up.\`（誤）。「考えうる限りの」は **imaginable**。imaginative は「想像力豊かな」を表す語で、every と組んで「あらゆる」を表す用法はありません。`,
     keyPoints: [
       'imaginative＝想像力豊かな・創造的な（-ative）',
       'imaginary＝実在しない・架空の（-ary）',
@@ -8869,7 +8881,13 @@ prevent はラテン語 praevenire（pre-「前に」+ venire「来る」）に�
 
 ### preventable disease という医療用語
 
-prevent の形容詞形 preventable は preventable disease（予防可能な病気）のように公衆衛生の分野で頻出する。avoid にも avoidable という同型の形容詞はあるが、医療・疫学の専門文脈では prevent 系の語がほぼ一貫して使われる。`,
+prevent の形容詞形 preventable は preventable disease（予防可能な病気）のように公衆衛生の分野で頻出する。avoid にも avoidable という同型の形容詞はあるが、医療・疫学の専門文脈では prevent 系の語がほぼ一貫して使われる。
+
+### よくある誤用
+
+⚠️ \`The heavy rain avoided us from going out that day.\`（誤）。「（人が）〜するのを妨げる」は **prevent**（prevent 人 from doing）。avoid は自分がそれを避けるという意味の語なので、他人の行動を妨げる用法では使いません。
+
+⚠️ \`I try to prevent eating too much sugar every day.\`（誤）。「（自分が）〜するのを避ける」は **avoid**（avoid doing）。prevent は通常「人 from doing」の形をとる語なので、単独で doing を続けるのは avoid の形です。`,
     keyPoints: [
       'avoid＝（自分が）避ける（avoid doing）',
       'prevent＝防ぐ・妨げる（prevent 人 from doing）',
@@ -15385,7 +15403,13 @@ emigrate（出る）・immigrate（入る）はどちらも、方向を問わな
 
 ### migrant worker が示す第三の語 migrant
 
-immigrant（入ってくる移住者）・emigrant（出ていく移住者）に加えて、migrant という語は季節労働などで一時的に移動する人を指す場合に使われ、必ずしも定住を含意しない。migrant worker（出稼ぎ労働者）のように、定住を前提とする immigrant とは異なるニュアンスで使われる。`,
+immigrant（入ってくる移住者）・emigrant（出ていく移住者）に加えて、migrant という語は季節労働などで一時的に移動する人を指す場合に使われ、必ずしも定住を含意しない。migrant worker（出稼ぎ労働者）のように、定住を前提とする immigrant とは異なるニュアンスで使われる。
+
+### よくある誤用
+
+⚠️ \`They emigrated to Canada last year, leaving their hometown behind.\`（誤・不自然）。「入ってくる」到着地を強調するなら **immigrate to**。emigrate は「出ていく」ことに重点を置く語で、通常は emigrate from（出発国）の形で使います。
+
+⚠️ \`Many people immigrated from Ireland during the famine.\`（誤・不自然）。「出ていく」出発地を強調するなら **emigrate from**。immigrate は「入ってくる」ことに重点を置く語で、通常は immigrate to（到着国）の形で使います。`,
     keyPoints: [
       'emigrate＝（自国から）出ていく（e-＝exit・emigrate from）',
       'immigrate＝（他国へ）入ってくる（im-＝in・immigrate to）',
@@ -16839,7 +16863,13 @@ client はラテン語 cliens（庇護を受ける者）に由来し、古代ロ
 
 ### customer と customs が共有する語源
 
-customer は「習慣・関税」を意味するラテン語 custuma に由来する語で、customs（税関・輸入関税）と同じ語根を共有する。店に習慣的に通う人という意味が中世に生まれ、それが今日の「顧客」の意味に定着した。似た綴りの customs との関係は偶然ではない。`,
+customer は「習慣・関税」を意味するラテン語 custuma に由来する語で、customs（税関・輸入関税）と同じ語根を共有する。店に習慣的に通う人という意味が中世に生まれ、それが今日の「顧客」の意味に定着した。似た綴りの customs との関係は偶然ではない。
+
+### よくある誤用
+
+⚠️ \`The law firm has thousands of loyal customers who return every month to buy legal services.\`（誤・不自然）。弁護士事務所のような専門サービスを継続的に依頼する人は **client**。customer は店で商品を買う客を表す語なので、専門家への依頼人を指すには弱すぎます。
+
+⚠️ \`The convenience store thanked its clients for their support during the anniversary sale.\`（誤・不自然）。コンビニで買い物をする「客」は **customer**。client は専門的サービスを契約的に依頼する人を表す語なので、小売店の客には合いません。`,
     keyPoints: [
       'customer＝商品・サービスを買う客（小売や飲食）',
       'client＝専門的サービスを依頼する人（法律・会計・広告など）',
