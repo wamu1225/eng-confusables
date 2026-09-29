@@ -3476,7 +3476,13 @@ blush は動詞だけでなく、化粧品の**チーク（頬紅）**を指す�
 
 ### room はラテン語の camera と違うゲルマン語源
 
-room は古英語 rum（空間）に由来するゲルマン語源の語で、フランス語経由で英語に入った chamber（部屋、ラテン語 camera 由来）とは系統が異なる。「部屋」を表す英語には、ゲルマン語源の room とラテン語源の chamber という2つの語群が並存している。`,
+room は古英語 rum（空間）に由来するゲルマン語源の語で、フランス語経由で英語に入った chamber（部屋、ラテン語 camera 由来）とは系統が異なる。「部屋」を表す英語には、ゲルマン語源の room とラテン語源の chamber という2つの語群が並存している。
+
+### よくある誤用
+
+⚠️ \`A large shadow began to room over the small village at dusk.\`（誤）。「ぬっと現れる・迫る」は **loom**（l）。room は「部屋・余地」を表す語なので、不気味なものが迫る様子には使えません。
+
+⚠️ \`There isn't much loom left in the suitcase for more clothes.\`（誤）。「余地・空間」は **room**（r）。loom は「織機」または「迫る」を表す語なので、空間の余裕を表すことはできません。`,
     keyPoints: [
       'room /ruːm/＝部屋・空間・余地。room for improvement/roommate',
       'loom /luːm/＝織機／ぬっと現れる・迫る。loom large（大きくのしかかる）',
@@ -4855,7 +4861,13 @@ sooner or later（遅かれ早かれ）という決まり文句も later の定�
 
 ### late・later・latter・last は1つの語族の不規則な変化形
 
-late の比較級には規則形 later（あとで）のほかに、不規則な latter（後者の）という形も残っている。最上級も規則形 latest（最新の）と不規則形 last（最後の）の両方があり、同じ形容詞 late から2系統の比較変化が並存する珍しいケースになっている。`,
+late の比較級には規則形 later（あとで）のほかに、不規則な latter（後者の）という形も残っている。最上級も規則形 latest（最新の）と不規則形 last（最後の）の両方があり、同じ形容詞 late から2系統の比較変化が並存する珍しいケースになっている。
+
+### よくある誤用
+
+⚠️ \`Of the two options, I prefer the later one because it's cheaper.\`（誤）。「後者」は **latter**（t が2つ）。later は「後で（時間）」を表す語なので、二つのうち後の方を指すことはできません。
+
+⚠️ \`I'll finish this report latter, after lunch.\`（誤）。「後で・のちほど」は **later**（t が1つ）。latter は「後者」を表す語なので、時間的な「あとで」を表すことはできません。`,
     keyPoints: [
       'later /ˈleɪtər/＝「後で」（時間・late の比較級）',
       'latter /ˈlætər/＝「後者」（former と対）',
@@ -5237,7 +5249,13 @@ beat around the bush（遠回しに言う・要点を避ける）という熟語
 
 ### beat は police beat という巡回区域を指す用語にも残る
 
-警察官が定期的に巡回する担当区域を英語で a beat（受け持ちの巡回路）と呼び、walk the beat（巡回する）という表現がある。足を規則的に「たたく（歩く）」という beat の動作イメージが、巡回の意味に転じたとされる。`,
+警察官が定期的に巡回する担当区域を英語で a beat（受け持ちの巡回路）と呼び、walk the beat（巡回する）という表現がある。足を規則的に「たたく（歩く）」という beat の動作イメージが、巡回の意味に転じたとされる。
+
+### よくある誤用
+
+⚠️ \`Our team beat the championship trophy after a hard season.\`（誤）。「（試合・賞）に勝つ」は **win**。beat は「（相手）を負かす」を表す語なので、賞やトロフィーを目的語にすることはできません。
+
+⚠️ \`We won the defending champions in the final match.\`（誤）。「（対戦相手）を負かす」は **beat**。win は「（試合・賞）に勝つ」を表す語なので、対戦相手を直接目的語にすることはできません。`,
     keyPoints: [
       'win＝（試合・賞）に勝つ・を得る（win-won-won）',
       'beat＝（相手）を負かす（beat-beat-beaten）',
@@ -11217,7 +11235,13 @@ rein はラテン語 retinere（引き留める・抑える）に由来し、ret
 
 ### the reins of power と reign supreme は語源が別
 
-「権力の手綱」を意味する the reins of power と「君臨する」を意味する reign supreme はどちらも支配のイメージを喚起するため混同されやすいが、rein と reign は綴りも語源も無関係である。馬具の比喩（rein）と王権の語（reign）が偶然同じ発音になったために生じる混同で、書き分けには注意が要る。`,
+「権力の手綱」を意味する the reins of power と「君臨する」を意味する reign supreme はどちらも支配のイメージを喚起するため混同されやすいが、rein と reign は綴りも語源も無関係である。馬具の比喩（rein）と王権の語（reign）が偶然同じ発音になったために生じる混同で、書き分けには注意が要る。
+
+### よくある誤用
+
+⚠️ \`The queen's rain lasted for over fifty years.\`（誤）。王の「統治・治世」は **reign**（g 入り）。rain は「雨」を表す語なので、王の支配を指すことはできません。
+
+⚠️ \`She pulled the reigns to stop the horse suddenly.\`（誤）。馬の「手綱」は **rein**。reign は「統治」を表す語なので、馬具を指すことはできません。`,
     keyPoints: [
       'rain・reign・rein は同音 /reɪn/',
       'rain＝雨／reign＝統治・治世（g 入り）／rein＝手綱',
@@ -12903,7 +12927,13 @@ cereal はラテン語 Cerealis（ケレースの、の意）に由来し、ロ�
 
 ### serial が作る複合語の広がり
 
-serial は serial killer（連続殺人犯）、serial number（通し番号）のほかに、イギリス英語では連続ドラマを serial（各話が連続する物語）と呼び、アメリカ英語で好まれる series と使い分けられることがある。「連続している」という一つの中心義が、犯罪から製品管理、放送用語まで広い分野に枝分かれしている。`,
+serial は serial killer（連続殺人犯）、serial number（通し番号）のほかに、イギリス英語では連続ドラマを serial（各話が連続する物語）と呼び、アメリカ英語で好まれる series と使い分けられることがある。「連続している」という一つの中心義が、犯罪から製品管理、放送用語まで広い分野に枝分かれしている。
+
+### よくある誤用
+
+⚠️ \`I always eat a bowl of serial for breakfast before school.\`（誤）。朝食の「シリアル・穀物」は **cereal**（c）。serial は「連続的な・連載の」を表す語なので、食べ物を指すことはできません。
+
+⚠️ \`The detective was investigating a cereal killer who had struck three times.\`（誤）。「連続殺人犯」は **serial** killer（s）。cereal は「穀物・シリアル」を表す語なので、この複合語には使えません。`,
     keyPoints: [
       'cereal と serial は同音 /ˈsɪəriəl/',
       'cereal＝穀物・シリアル（食品・c 始まり）',
