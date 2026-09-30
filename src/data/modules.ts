@@ -8972,7 +8972,13 @@ my big brother は「兄」であって、体格の大きい兄弟という意�
 
 ### at large という成句
 
-large を使った成句に at large があり、The suspect is still at large.（容疑者はまだ捕まっていない）のように逃走中であることを表します。名詞のあとに置いて the public at large（一般大衆）と言えば「全体としての」という意味になります。どちらも大きさそのものからは離れた使い方です。`,
+large を使った成句に at large があり、The suspect is still at large.（容疑者はまだ捕まっていない）のように逃走中であることを表します。名詞のあとに置いて the public at large（一般大衆）と言えば「全体としての」という意味になります。どちらも大きさそのものからは離れた使い方です。
+
+### よくある誤用
+
+⚠️ \`It was a large decision to move to a new city.\`（誤・不自然）。決断の「重大さ」は **big** が自然（a big decision）。large は主にサイズ・量・数の大きさを表す語なので、抽象的な重要さには合いません。
+
+⚠️ \`They bought a big amount of land outside the city.\`（誤・不自然）。数量の「量が多い」は **large**（a large amount of）。big は口語的な語で、数量を表す定型表現には合いません。`,
     keyPoints: [
       'big＝大きい・重大な（口語的・重要さにも）',
       'large＝サイズ・量・数が大きい（ややフォーマル）',
@@ -10667,7 +10673,13 @@ threw と through はどちらも /θruː/ で同音ですが、threw は throw�
 
 ### in the past という決まった言い方
 
-in the past（昔は・かつては）は past が名詞として使われる代表的な成句で、In the past, this area was farmland.（かつてこの一帯は農地だった）のように現在との対比を表します。同じ意味を動詞で言うなら used to（かつて〜した）が使えますが、passed に置き換えることはできません。`,
+in the past（昔は・かつては）は past が名詞として使われる代表的な成句で、In the past, this area was farmland.（かつてこの一帯は農地だった）のように現在との対比を表します。同じ意味を動詞で言うなら used to（かつて〜した）が使えますが、passed に置き換えることはできません。
+
+### よくある誤用
+
+⚠️ \`We walked passed the old church on our way home.\`（誤）。「〜を過ぎて」という前置詞は **past**。passed は動詞 pass の過去形なので、前置詞の位置には使えません。
+
+⚠️ \`She past the exam after months of hard study.\`（誤）。「合格した」は動詞 pass の過去形 **passed**。past は名詞・前置詞・形容詞を表す語なので、動詞の位置には使えません。`,
     keyPoints: [
       'passed と past はほぼ同音 /pæst/',
       'passed＝pass の過去「通り過ぎた・合格した」（動詞）',
@@ -13789,7 +13801,13 @@ isle は「島」を意味するラテン語 insula から来ているが、本�
 
 ### the British Isles と aisle は無関係な語源が偶然同じ綴りの流れを辿った
 
-isle が本来の「島」の語義を保ち the British Isles のような正式な地名に使われるのに対し、aisle は「通路」というまったく別の語義でありながら、綴りの成り立ちだけは isle と同じ「誤った s の挿入」を経ている。同じ現象が2つの無関係な語に起きた珍しい例。`,
+isle が本来の「島」の語義を保ち the British Isles のような正式な地名に使われるのに対し、aisle は「通路」というまったく別の語義でありながら、綴りの成り立ちだけは isle と同じ「誤った s の挿入」を経ている。同じ現象が2つの無関係な語に起きた珍しい例。
+
+### よくある誤用
+
+⚠️ \`They sailed for days before reaching a small aisle in the Pacific.\`（誤）。「島」は **isle**。aisle は座席や棚の間の「通路」を表す語なので、海に浮かぶ陸地を指すことはできません。
+
+⚠️ \`I always ask for an isle seat so I can get up easily.\`（誤）。座席の「通路」は **aisle**。isle は「島」を表す語なので、座席の位置を指すことはできません。`,
     keyPoints: [
       'aisle と isle は同音 /aɪl/（黙字を含む）',
       'aisle＝（座席・棚の間の）通路。cross the aisle（党派を超えて協力する）',
@@ -14765,7 +14783,13 @@ seat は名詞では「座席」だけでなく、a seat in parliament（議会�
 
 ### sit down と be seated の距離感
 
-Please sit down. はどんな場面でも使える中立的な言い方ですが、Please be seated. はフォーマルな式典や航空機のアナウンスで使われる硬い表現です。この距離感は、sit が自分の動作をそのまま述べるのに対し、be seated が「座らせられる」という受け身の形を借りて丁寧さを出しているために生まれます。`,
+Please sit down. はどんな場面でも使える中立的な言い方ですが、Please be seated. はフォーマルな式典や航空機のアナウンスで使われる硬い表現です。この距離感は、sit が自分の動作をそのまま述べるのに対し、be seated が「座らせられる」という受け身の形を借りて丁寧さを出しているために生まれます。
+
+### よくある誤用
+
+⚠️ \`The usher seated down next to the aisle to watch the show.\`（誤・不自然）。自分が「座る」動作は **sit**（sit down）。seat は他動詞で「（人を）座らせる」を表す語なので、自分の動作には使いません。
+
+⚠️ \`The host sat the guests at the table near the window.\`（誤）。「（人を）座らせる・案内する」は他動詞 **seat**。sit は自動詞「（自分が）座る」を表す語なので、他人を目的語にとることはできません。`,
     keyPoints: [
       'sit＝自動詞「（自分が）座る」（sit down・sit-sat-sat）',
       'seat＝他動詞「（人を）座らせる」（be seated／seat oneself）',
@@ -16186,7 +16210,13 @@ dark horse（意外な実力者・穴馬）は、競馬でどんな馬か情報�
 
 ### hoarse の語源は horse と無関係
 
-hoarse は古英語 has（ゲルマン祖語 *haisa-「乾いた・かすれた」）に由来し、horse とは語源上まったく関係がない。中英語期に説明のつかない r が挿入されて hoarse という綴りになったとされ、たまたま horse と似た綴りになったのは偶然の一致にすぎない。`,
+hoarse は古英語 has（ゲルマン祖語 *haisa-「乾いた・かすれた」）に由来し、horse とは語源上まったく関係がない。中英語期に説明のつかない r が挿入されて hoarse という綴りになったとされ、たまたま horse と似た綴りになったのは偶然の一致にすぎない。
+
+### よくある誤用
+
+⚠️ \`After riding for hours, we finally stopped to rest the hoarse.\`（誤）。動物の「馬」は **horse**。hoarse は「（声が）しゃがれた」を表す形容詞なので、動物を指す名詞としては使えません。
+
+⚠️ \`My voice sounded horse after cheering at the game all afternoon.\`（誤）。声が「しゃがれた」は **hoarse**。horse は「馬」を表す名詞なので、声の状態を形容することはできません。`,
     keyPoints: [
       'hoarse と horse は同音 /hɔːrs/',
       'hoarse＝形容詞「（声が）しゃがれた・かすれた」。a hoarse whisper',
