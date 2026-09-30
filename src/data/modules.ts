@@ -7904,7 +7904,13 @@ two はゲルマン祖語 *twa を経て印欧祖語の語根 *dwo-（2）に遡
 
 ### too はもともと to の強勢形だった
 
-too はもともと前置詞・副詞の to が文末などで強く発音されたときの変異形で、もとは同じ語だった。強調して発音されるという特徴が、16世紀以降 oo という綴りの違いとして固定され、現在は完全に別の語として扱われている。`,
+too はもともと前置詞・副詞の to が文末などで強く発音されたときの変異形で、もとは同じ語だった。強調して発音されるという特徴が、16世紀以降 oo という綴りの違いとして固定され、現在は完全に別の語として扱われている。
+
+### よくある誤用
+
+⚠️ \`I have two many things to do today.\`（誤）。「〜すぎる」という副詞は **too**（o が2つ）。two は数の「2」を表す語なので、much/many の前に置いて程度を表すことはできません。
+
+⚠️ \`Can you pass me too apples from the basket?\`（誤）。数の「2」は **two**（w 入り）。too は副詞「〜も・〜すぎる」を表す語なので、数量を表すことはできません。`,
     keyPoints: [
       'to＝前置詞「〜へ」・不定詞の to',
       'too＝副詞「〜も・〜すぎる」（o がふたつ）。too much（不可算）/too many（可算）',
@@ -8196,7 +8202,13 @@ further には動詞の用法があり、further your career（キャリアを�
 
 ### 最上級と、教育制度に残る further
 
-最上級は farthest と furthest で、使い分けの傾向は比較級と同じです。イギリスの教育制度でいう further education は義務教育のあとに続く継続教育を指し、学位課程を指す higher education と区別されます。ここでの further も距離ではなく、その先へ進むという程度の意味で使われています。`,
+最上級は farthest と furthest で、使い分けの傾向は比較級と同じです。イギリスの教育制度でいう further education は義務教育のあとに続く継続教育を指し、学位課程を指す higher education と区別されます。ここでの further も距離ではなく、その先へ進むという程度の意味で使われています。
+
+### よくある誤用
+
+⚠️ \`We need farther information before we make a decision.\`（誤・不自然）。「さらなる（情報・程度）」は **further**。farther は主に物理的な距離に使う語なので、情報のような抽象的な対象には合いません。
+
+⚠️ \`He wants to farther his career by studying abroad.\`（誤）。「（キャリアなどを）促進する」という動詞は **further**。farther には動詞の用法が無いので、この意味では使えません。`,
     keyPoints: [
       'farther＝主に物理的な距離「より遠くに」',
       'further＝程度・追加「さらに・追加の」（距離にも可）',
@@ -13698,7 +13710,13 @@ vane は風見鶏（weather vane）だけでなく、風力や水力を受けて
 
 ### miss the boat という成句
 
-miss the boat（好機を逃す）は、もともと乗るはずの船に乗り遅れるという文字どおりの意味から生まれた表現で、20世紀初頭には「機会を逃す」という比喩的な意味で広く使われるようになった。miss の「逃す」という中心義がそのまま定型句に生きている。`,
+miss the boat（好機を逃す）は、もともと乗るはずの船に乗り遅れるという文字どおりの意味から生まれた表現で、20世紀初頭には「機会を逃す」という比喩的な意味で広く使われるようになった。miss の「逃す」という中心義がそのまま定型句に生きている。
+
+### よくある誤用
+
+⚠️ \`Thick missed covered the valley early in the morning.\`（誤）。「霧」は **mist**。missed は動詞 miss の過去形なので、天候を表す名詞としては使えません。
+
+⚠️ \`I mist the bus this morning and had to wait twenty minutes for the next one.\`（誤）。「（バスなどを）逃した」は **missed**（miss の過去形）。mist は「霧」を表す名詞なので、動詞として使うことはできません。`,
     keyPoints: [
       'mist と missed は同音 /mɪst/',
       'mist＝名詞「霧・かすみ」（fog より薄い）。misty/mist over',
@@ -13844,7 +13862,13 @@ isle が本来の「島」の語義を保ち the British Isles のような正�
 
 ### currant の語源はギリシャの都市コリントス
 
-currant はもともと、ギリシャの都市コリントスから輸出された小粒の種なしぶどうを指す古フランス語 raisins de Corauntz（コリントスの干しぶどう）に由来する。今日「カラント」と呼ばれる赤スグリ・黒スグリ（Ribes属）の果実は、この乾しぶどうと見た目が似ていたために後から同じ名前で呼ばれるようになったもので、植物としては別の種である。`,
+currant はもともと、ギリシャの都市コリントスから輸出された小粒の種なしぶどうを指す古フランス語 raisins de Corauntz（コリントスの干しぶどう）に由来する。今日「カラント」と呼ばれる赤スグリ・黒スグリ（Ribes属）の果実は、この乾しぶどうと見た目が似ていたために後から同じ名前で呼ばれるようになったもので、植物としては別の種である。
+
+### よくある誤用
+
+⚠️ \`Please tell me about the currant situation in the company.\`（誤）。「現在の」は **current**（-ent）。currant は「干しブドウ・スグリ」を表す語なので、状況を形容することはできません。
+
+⚠️ \`The cake recipe calls for a handful of dried currents.\`（誤）。お菓子に入れる「干しブドウ」は **currant**（-ant）。current は「現在の・流れ」を表す語なので、果実を指すことはできません。`,
     keyPoints: [
       'currant と current は同音 /ˈkʌrənt/',
       'currant＝干しブドウ・スグリ（果実・-ant）',
@@ -16383,7 +16407,13 @@ expand と expend はどちらも「外へ」を意味する接頭辞 ex- を持
 
 ### expandable と expendable は1文字違いで意味が大きく異なる
 
-expand の形容詞形 expandable（拡張可能な）と、expend の形容詞形 expendable（消費してよい・使い捨てにできる）は綴りが1文字違いだが、意味は大きく異なる。特に expendable は「（人や物が）犠牲にしてもよい」という重い意味で軍事・ビジネスの文脈で使われることがあり、誤読すると深刻な誤解を招く。`,
+expand の形容詞形 expandable（拡張可能な）と、expend の形容詞形 expendable（消費してよい・使い捨てにできる）は綴りが1文字違いだが、意味は大きく異なる。特に expendable は「（人や物が）犠牲にしてもよい」という重い意味で軍事・ビジネスの文脈で使われることがあり、誤読すると深刻な誤解を招く。
+
+### よくある誤用
+
+⚠️ \`The company expended into three new markets last year.\`（誤）。「拡大する」は **expand**。expend は「（お金・時間・労力を）費やす」を表す語なので、事業展開を述べる文脈には使えません。
+
+⚠️ \`They expanded a great deal of time and money on the new project.\`（誤）。「（お金・時間・労力を）費やす」は **expend**。expand は「拡大する」を表す語なので、資源を使う意味では使えません。`,
     keyPoints: [
       'expand＝拡大する・膨張する（名詞 expansion）',
       'expend＝金・時間・労力を費やす（名詞 expenditure）',
