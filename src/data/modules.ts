@@ -6464,7 +6464,13 @@ lightning は名詞だけでなく lightning-fast（電光石火の）・at ligh
 
 ### lighten が持つ「明るくする」と「軽くする」の二つの意味
 
-lightening のもとになる動詞 lighten は、light（光）から「明るくする」という意味と、light（軽い）から「軽くする」という意味の両方を持つ。lightening the mood（雰囲気を明るくする）と lightening the load（荷を軽くする）はどちらも同じ lighten の -ing 形で、文脈によって意味が分かれる。`,
+lightening のもとになる動詞 lighten は、light（光）から「明るくする」という意味と、light（軽い）から「軽くする」という意味の両方を持つ。lightening the mood（雰囲気を明るくする）と lightening the load（荷を軽くする）はどちらも同じ lighten の -ing 形で、文脈によって意味が分かれる。
+
+### よくある誤用
+
+⚠️ \`The sky lit up as lightening struck the old oak tree.\`（誤）。「稲妻」は **lightning**（e なし）。lightening は動詞 lighten（明るく／軽くする）の -ing 形なので、天候現象を指すことはできません。
+
+⚠️ \`The new paint job is lightning up the whole room.\`（誤）。「明るくすること」は **lightening**（lighten の -ing 形）。lightning は「稲妻」を表す名詞なので、動詞として使うことはできません。`,
     keyPoints: [
       'lightning＝稲妻・雷光（e なし）',
       'lightening＝明るく／軽くすること（lighten + -ing）',
@@ -9793,7 +9799,13 @@ luxurious とは別に、luxury car（高級車）、luxury goods（高級品）
 
 ### the luxury of という成句
 
-the luxury of ~ing（〜するというぜいたく）という形もよく使われ、We had the luxury of taking our time.（じっくり時間をかけるという贅沢が許された）のように、金銭的な贅沢だけでなく「めったにない余裕」を指す比喩としても使われます。`,
+the luxury of ~ing（〜するというぜいたく）という形もよく使われ、We had the luxury of taking our time.（じっくり時間をかけるという贅沢が許された）のように、金銭的な贅沢だけでなく「めったにない余裕」を指す比喩としても使われます。
+
+### よくある誤用
+
+⚠️ \`The hotel room felt incredibly luxury, with silk sheets and a view of the ocean.\`（誤）。部屋を形容する「豪華な」は形容詞 **luxurious**。luxury は名詞なので、be動詞のあとで「豪華だ」を述べる位置には使いません。
+
+⚠️ \`Owning a yacht is considered a luxurious by many people.\`（誤）。「贅沢品」という数えられる名詞は a **luxury**。luxurious は形容詞なので、a を伴って名詞として使うことはできません。`,
     keyPoints: [
       'luxury /ˈlʌkʃəri/＝名詞「ぜいたく・高級品」',
       'luxurious /lʌɡˈʒʊəriəs/＝形容詞「豪華な・ぜいたくな」',
@@ -10083,7 +10095,13 @@ scent はもともと中英語で sent と綴られ、古フランス語 sentir�
 
 ### put someone off the scent という成句
 
-scent は狩猟や捜査の場面での比喩表現にも使われ、put someone off the scent（人の追跡をかく乱する）、on the scent of ~（〜の手がかりをつかんで）のように、犬が匂いをたどるイメージがそのまま「手がかり」の比喩に転用されている。`,
+scent は狩猟や捜査の場面での比喩表現にも使われ、put someone off the scent（人の追跡をかく乱する）、on the scent of ~（〜の手がかりをつかんで）のように、犬が匂いをたどるイメージがそのまま「手がかり」の比喩に転用されている。
+
+### よくある誤用
+
+⚠️ \`I scent the package to my grandmother last week.\`（誤）。「送った」は動詞 send の過去形 **sent**。scent は「香り」を表す名詞なので、動詞として使うことはできません。
+
+⚠️ \`The perfume has a wonderful sent of lavender and vanilla.\`（誤）。「香り」は **scent**（s付き）。sent は send の過去形を表す語なので、匂いを指す名詞としては使えません。`,
     keyPoints: [
       'cent・scent・sent は同音 /sɛnt/',
       'cent＝通貨のセント／scent＝香り（s 付き）／sent＝send の過去',
@@ -10600,7 +10618,13 @@ throw は throw-threw-thrown と活用し、threw は過去形だけを担いま
 
 ### 発音は同じでも綴りの由来は別
 
-threw と through はどちらも /θruː/ で同音ですが、threw は throw（投げる）という動詞の屈折形、through は古英語 þurh に由来する独立した前置詞で、語源上のつながりはありません。たまたま音が一致しただけの同音異義語で、意味の面でも共通点はありません。`,
+threw と through はどちらも /θruː/ で同音ですが、threw は throw（投げる）という動詞の屈折形、through は古英語 þurh に由来する独立した前置詞で、語源上のつながりはありません。たまたま音が一致しただけの同音異義語で、意味の面でも共通点はありません。
+
+### よくある誤用
+
+⚠️ \`We walked threw the park on our way to the station.\`（誤）。「〜を通って」という前置詞は **through**。threw は動詞 throw の過去形「投げた」なので、前置詞の位置には使えません。
+
+⚠️ \`She through the ball across the yard to her brother.\`（誤）。「投げた」は動詞 throw の過去形 **threw**。through は前置詞「〜を通って」を表す語なので、動詞の位置には使えません。`,
     keyPoints: [
       'threw と through は同音 /θruː/',
       'threw＝throw の過去「投げた」（throw-threw-thrown）',
@@ -16848,7 +16872,13 @@ almost と似た副詞に mostly（大部分は・たいてい）があるが、
 
 ### almost never という頻度表現
 
-almost は almost never（めったに〜ない）・almost always（ほとんどいつも）のように頻度を表す副詞と組み合わさり、100%に近い極端な頻度をわずかに緩める働きをする。most には無いこの「あと少しで到達する・しない」という近似のニュアンスが、almost の中心的な機能である。`,
+almost は almost never（めったに〜ない）・almost always（ほとんどいつも）のように頻度を表す副詞と組み合わさり、100%に近い極端な頻度をわずかに緩める働きをする。most には無いこの「あと少しで到達する・しない」という近似のニュアンスが、almost の中心的な機能である。
+
+### よくある誤用
+
+⚠️ \`Almost students in the class passed the final exam.\`（誤）。「ほとんどの学生」のように名詞を直接修飾するなら **most**。almost は副詞なので、名詞を直接修飾することはできません（almost all students なら可）。
+
+⚠️ \`I most finished the report before the deadline, but a few sections are still missing.\`（誤）。「もう少しで・ほとんど」という副詞は **almost**。most は名詞・代名詞を修飾する語で、動詞を修飾する副詞としては使えません。`,
     keyPoints: [
       'almost＝副詞。名詞を直接修飾しない',
       '「ほとんどの〜」は most 〜 または almost all 〜',
