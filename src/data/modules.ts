@@ -1077,7 +1077,13 @@ lie/lay と同じ「自動詞 vs 他動詞」の関係です。決め手も同�
 
 raise には「上げる」以外の意味も多く、raise a family（子を育てる）・raise an issue（問題を提起する）・raise money（資金を集める）のように、**物理的に高くする動作を伴わない用法**が日常でよく出てきます。目的語があるかどうかで rise/raise を判断するルールは、こうした比喩的な raise にもそのまま使えます。
 
-見た目が似た arise（生じる・起こる）は rise の親戚ですが、上下運動でなく**問題や状況が発生すること**を表す独立した動詞です。A problem arose during the meeting.（会議中に問題が生じた）のように使い、rise/raise の対応関係には含まれません。`,
+見た目が似た arise（生じる・起こる）は rise の親戚ですが、上下運動でなく**問題や状況が発生すること**を表す独立した動詞です。A problem arose during the meeting.（会議中に問題が生じた）のように使い、rise/raise の対応関係には含まれません。
+
+### よくある誤用
+
+⚠️ \`Prices raise every year because of inflation.\`（誤）。目的語なしで「（物価などが）上がる」は自動詞 **rise**。raise は他動詞で目的語が必要な語なので、主語が自分で上がる文脈には使えません。
+
+⚠️ \`Please rise your hand if you have a question.\`（誤）。「（手などを）上げる」は他動詞 **raise**。rise は自動詞で目的語をとらない語なので、何かを目的語にして「上げる」ことはできません。`,
     keyPoints: [
       'rise＝自動詞「上がる」（目的語なし）、活用 rise-rose-risen',
       'raise＝他動詞「〜を上げる」（目的語あり）、活用 raise-raised-raised',
@@ -1314,7 +1320,13 @@ inappropriate は unsuitable より強い否定を含み、社会的な規範を
 
 suitable は動詞 suit（似合う・都合がよい）と語根を共有しており、Does this time suit you?（この時間で都合はいいですか）のように suit 単独でも「合う」を表せます。appropriate にはこうした無接尾辞の動詞形が無く、形容詞のまま使うのが基本です。
 
-前置詞は suitable for（〜に適した）、appropriate for／to（〜にふさわしい）のどちらも取りますが、appropriate to は「その状況に固有の」というつながりをやや強く示すときに好まれます。`,
+前置詞は suitable for（〜に適した）、appropriate for／to（〜にふさわしい）のどちらも取りますが、appropriate to は「その状況に固有の」というつながりをやや強く示すときに好まれます。
+
+### よくある誤用
+
+⚠️ \`Wearing jeans to the funeral was not suitable, since it showed disrespect.\`（誤・不自然）。社会的な場面に「ふさわしくない」は **appropriate**（inappropriate）。suitable は主に目的・用途への適合を表す語なので、礼儀にかなうかを問う文脈には弱すぎます。
+
+⚠️ \`These gloves are appropriate for working with chemicals in the lab.\`（誤・不自然）。作業の「目的に合っている」は **suitable**。appropriate は場面・礼儀への適切さを表す語なので、道具の実用的な適合を述べる文脈には合いません。`,
     keyPoints: [
       'suitable＝目的・用途・条件に合う（fit for purpose）',
       'appropriate＝その場・状況・社会的礼儀にふさわしい',
@@ -6015,7 +6027,13 @@ journey は古フランス語 journée（一日・一日分の仕事や移動）
 
 ### a business trip と journey of a lifetime の語感差
 
-trip は business trip・day trip のように「目的があって戻ってくる」短い往復を指すことが多く、journey は journey of a lifetime（一生に一度の旅）のように、道のりそのものの重みや変化に焦点が当たる。同じ「旅」でも、trip が用件寄り、journey が体験・過程寄りという語感の違いがここに表れる。`,
+trip は business trip・day trip のように「目的があって戻ってくる」短い往復を指すことが多く、journey は journey of a lifetime（一生に一度の旅）のように、道のりそのものの重みや変化に焦点が当たる。同じ「旅」でも、trip が用件寄り、journey が体験・過程寄りという語感の違いがここに表れる。
+
+### よくある誤用
+
+⚠️ \`We are planning a travel to Kyoto next month.\`（誤）。「（一回の）旅行」という可算名詞は a **trip**。travel は主に動詞、または不可算名詞として使う語なので、a を付けて数えることはできません。
+
+⚠️ \`The journey to the convenience store takes only five minutes on foot.\`（誤・不自然）。コンビニへの「ちょっとした移動」は a **trip**。journey は長い・片道の道のりを表す語なので、近所への短い移動には大げさです。`,
     keyPoints: [
       'travel＝動詞「旅行する」／不可算名詞（a travel は不可）',
       'trip＝可算「往復の（短い）旅行」（a business trip）',
@@ -11808,7 +11826,13 @@ gain には gain ground（形勢を盛り返す・優勢になる）、gain acce
 
 ### earned run のような専門用語にも痕跡が残る
 
-野球の earned run（自責点）は、守備側のミスによらず打者が「働いて」得点を許した場合を指す統計用語で、earn の「対価としてもたらされた」という核の意味がそのまま専門用語に転用された例です。unearned run（守備側のミスによる失点）と対になっており、gain では表せない区別です。`,
+野球の earned run（自責点）は、守備側のミスによらず打者が「働いて」得点を許した場合を指す統計用語で、earn の「対価としてもたらされた」という核の意味がそのまま専門用語に転用された例です。unearned run（守備側のミスによる失点）と対になっており、gain では表せない区別です。
+
+### よくある誤用
+
+⚠️ \`She earned five kilograms over the winter after eating more than usual.\`（誤）。体重が「増える」は **gain**（gain weight）。earn は労働・努力の対価として「稼ぐ」を表す語なので、体重の増加には使いません。
+
+⚠️ \`He gained a good salary working long hours at the company.\`（誤）。労働の対価として「稼ぐ」は **earn**。gain は量・程度が増えることを表す語なので、給料を得る対価的な意味には弱すぎます。`,
     keyPoints: [
       'earn＝（労働・努力の対価で）稼ぐ・得る（earn money/respect）',
       'gain＝（量・程度を）増やして得る（gain weight/experience/speed）',
@@ -15178,7 +15202,13 @@ pedal はラテン語 pes/pedis（足）に由来し、pedestrian（歩行者）
 
 ### peddle から生まれる職業名・比喩表現
 
-peddle の行為者を表す名詞は peddler（行商人）で、door-to-door peddler（訪問販売の行商人）のように使われます。比喩的には peddle influence（影響力を売り歩く＝コネを利用して便宜を図る）、peddle rumors（噂を広める）のように、物ではなく情報や影響力を「あちこちに広める」という否定的なニュアンスで使われることもあります。`,
+peddle の行為者を表す名詞は peddler（行商人）で、door-to-door peddler（訪問販売の行商人）のように使われます。比喩的には peddle influence（影響力を売り歩く＝コネを利用して便宜を図る）、peddle rumors（噂を広める）のように、物ではなく情報や影響力を「あちこちに広める」という否定的なニュアンスで使われることもあります。
+
+### よくある誤用
+
+⚠️ \`The street vendor pedals handmade jewelry to tourists every afternoon.\`（誤）。「売り歩く」は **peddle**（d が2つ）。pedal は「ペダル・（自転車を）こぐ」を表す語なので、商品を売る行為には使えません。
+
+⚠️ \`She peddled hard to climb the steep hill on her bike.\`（誤）。自転車を「こぐ」は **pedal**（ped-＝足）。peddle は「売り歩く」を表す語なので、自転車の動作には使えません。`,
     keyPoints: [
       'pedal と peddle は同音 /ˈpɛdəl/',
       'pedal＝ペダル／（自転車を）こぐ（ped-＝足）',
