@@ -4812,7 +4812,13 @@ waist の語源は中英語 wast に遡るが、確定した定説は無い。�
 
 ### waste not, want not という古い格言
 
-waste not, want not（無駄にしなければ、不足することもない）は18世紀に記録が残る古い格言で、さらに古い形 willful waste makes woeful want（わざとの浪費は悲惨な欠乏を招く）にも遡る。資源を大切に使う倫理観を説く言い回しとして、道徳的な説教でも好んで引用されてきた。`,
+waste not, want not（無駄にしなければ、不足することもない）は18世紀に記録が残る古い格言で、さらに古い形 willful waste makes woeful want（わざとの浪費は悲惨な欠乏を招く）にも遡る。資源を大切に使う倫理観を説く言い回しとして、道徳的な説教でも好んで引用されてきた。
+
+### よくある誤用
+
+⚠️ \`She wore a wide belt around her waste to complete the outfit.\`（誤）。体の「腰・ウエスト」は **waist**（i が入る）。waste は「無駄・廃棄物」を表す語なので、体の部位を指すことはできません。
+
+⚠️ \`Please don't waist your money on things you don't need.\`（誤）。「無駄にする」という動詞は **waste**（s）。waist は体の部位を表す名詞なので、動詞として使うことはできません。`,
     keyPoints: [
       'waist と waste は同音 /weɪst/',
       'waist＝名詞「腰・ウエスト」。waistline',
@@ -8769,7 +8775,13 @@ conscious は self-conscious（自意識過剰な・人目を気にする）と�
 
 ### guilty conscience という定型句
 
-conscience は a guilty conscience（やましい良心）・a clear conscience（やましいところのない良心）という形でよく使われ、in all conscience（良心に照らして・誠実に言えば）という副詞的な定型句もある。良心の状態を形容詞で挟む言い方が定着している。`,
+conscience は a guilty conscience（やましい良心）・a clear conscience（やましいところのない良心）という形でよく使われ、in all conscience（良心に照らして・誠実に言えば）という副詞的な定型句もある。良心の状態を形容詞で挟む言い方が定着している。
+
+### よくある誤用
+
+⚠️ \`He had a guilty conscious about lying to his best friend.\`（誤）。「良心」は名詞 **conscience**（-ence）。conscious は「意識のある」を表す形容詞なので、良心という名詞の位置には使えません。
+
+⚠️ \`After the accident, she wasn't fully conscience for several minutes.\`（誤）。「意識のある」は形容詞 **conscious**（-ous）。conscience は「良心」を表す名詞なので、意識の状態を形容することはできません。`,
     keyPoints: [
       'conscious /ˈkɒnʃəs/＝形容詞「意識のある・気づいている」',
       'conscience /ˈkɒnʃəns/＝名詞「良心」',
@@ -9448,7 +9460,13 @@ male はラテン語 masculus（mas「男性」の指小形）に由来し、mas
 
 ### 郵便の mail は「かばん・袋」を意味する語が語源
 
-郵便を意味する mail は中英語 male（かばん・かばん袋）、さらにゲルマン祖語の「袋・雑嚢」を意味する語に由来する。17世紀に「手紙の詰まった袋」という意味に広がり、そこから「配達人」「郵便物全体」「郵便制度」へと意味が広がっていった。フランス語 malle（大型トランク）やスペイン語 mala（かばん・郵便）にも同じ語根が残っている。`,
+郵便を意味する mail は中英語 male（かばん・かばん袋）、さらにゲルマン祖語の「袋・雑嚢」を意味する語に由来する。17世紀に「手紙の詰まった袋」という意味に広がり、そこから「配達人」「郵便物全体」「郵便制度」へと意味が広がっていった。フランス語 malle（大型トランク）やスペイン語 mala（かばん・郵便）にも同じ語根が残っている。
+
+### よくある誤用
+
+⚠️ \`I sent the package by regular male last week.\`（誤）。「郵便」は **mail**（ai が入る）。male は「男性の・オスの」を表す語なので、配送手段を指すことはできません。
+
+⚠️ \`The zoo welcomed a new mail elephant born last spring.\`（誤）。「オスの」は **male**。mail は「郵便」を表す語なので、動物の性別を示すことはできません。`,
     keyPoints: [
       'male と mail は同音 /meɪl/',
       'male＝男性の・オスの（反対は female）',
@@ -10265,7 +10283,13 @@ Are you inferring that I'm lying?（私が嘘をついているとほのめか�
 
 ### 名詞形も向きが対応する
 
-imply の名詞形は implication（含意・暗示）、infer の名詞形は inference（推論）です。The implications of the report are serious.（その報告書が示唆する事態は深刻だ）は書き手側の含みを、I drew the wrong inference.（私は誤った推論を導いた）は読み手側の結論を指しており、動詞と同じ向きの区別が名詞にも引き継がれます。`,
+imply の名詞形は implication（含意・暗示）、infer の名詞形は inference（推論）です。The implications of the report are serious.（その報告書が示唆する事態は深刻だ）は書き手側の含みを、I drew the wrong inference.（私は誤った推論を導いた）は読み手側の結論を指しており、動詞と同じ向きの区別が名詞にも引き継がれます。
+
+### よくある誤用
+
+⚠️ \`From the evidence, the detective implied that the butler was guilty.\`（誤・不自然）。証拠から「推測する」のは聞き手側の行為 **infer**。imply は話し手・文章がほのめかす側の語なので、刑事が証拠から結論を導く場面には合いません。
+
+⚠️ \`His tone of voice inferred that he was annoyed, even though he said nothing.\`（誤）。声の調子が「ほのめかす」のは **imply**。infer は聞き手が推測する側の語なので、態度や口調そのものが主語になる文には使いません。`,
     keyPoints: [
       'imply＝（話し手が）ほのめかす・暗に示す',
       'infer＝（聞き手が）推測する・読み取る',
@@ -10490,7 +10514,13 @@ realize はアメリカ英語の綴りで、イギリス英語では realise と
 
 ### comprehensive insurance という保険用語
 
-自動車保険の comprehensive insurance（車両保険）は、事故だけでなく火災・盗難・自然災害など幅広い損害を補償する契約を指す。事故の相手への賠償に限定した third-party insurance と対比され、「幅広くカバーする」という comprehensive の中心義がそのまま保険商品名になっている。`,
+自動車保険の comprehensive insurance（車両保険）は、事故だけでなく火災・盗難・自然災害など幅広い損害を補償する契約を指す。事故の相手への賠償に限定した third-party insurance と対比され、「幅広くカバーする」という comprehensive の中心義がそのまま保険商品名になっている。
+
+### よくある誤用
+
+⚠️ \`The manual was written in simple, comprehensive language that any customer could follow.\`（誤・不自然）。「わかりやすい」言葉遣いを表すなら **comprehensible**。comprehensive は「包括的な・網羅的な」を表す語なので、理解しやすさそのものを述べる文脈には弱すぎます。
+
+⚠️ \`The report gave a comprehensible overview covering every department in the company.\`（誤・不自然）。全部門を網羅する「包括的な」概観は **comprehensive**。comprehensible は「理解できる」を表す語なので、網羅性を述べる文脈には合いません。`,
     keyPoints: [
       'comprehensible＝理解できる・わかりやすい（-ible）',
       'comprehensive＝包括的な・網羅的な（-ive）',
