@@ -685,7 +685,13 @@ export const modules: Module[] = [
 
 rest assured that ~（〜だから安心してください）という決まり文句もよく使われ、ここでは assure の過去分詞 assured が形容詞として定着しています。You can rest assured that your data is safe. のように、動詞 assure と同じく人を安心させる文脈で登場します。
 
-アメリカ英語では insure が ensure の代わりに使われることがあり、Please insure the door is locked. のような表記も実際に見られます。ただしイギリス英語や試験問題では ensure と insure の区別は厳密に保たれるので、学習段階では対象で機械的に判断するほうが安全です。`,
+アメリカ英語では insure が ensure の代わりに使われることがあり、Please insure the door is locked. のような表記も実際に見られます。ただしイギリス英語や試験問題では ensure と insure の区別は厳密に保たれるので、学習段階では対象で機械的に判断するほうが安全です。
+
+### よくある誤用
+
+⚠️ \`I ensure you that everything will be fine.\`（誤）。人を「安心させる・保証する」は **assure**（目的語は人）。ensure は事柄を確実にする語で、人を目的語にとる「安心させる」の意味では使いません。
+
+⚠️ \`We need to assure that the door is locked before leaving.\`（誤）。事柄を「確実にする」は **ensure**。assure は人を安心させる語なので、事実・状態を確実にする文脈には使えません。`,
     keyPoints: [
       'ensure＝事を確実にする',
       'assure＝人を安心させる（目的語は人）',
@@ -6715,7 +6721,13 @@ breathe には文字どおりの呼吸だけでなく、breathe life into ~（�
 
 ### 同じ th の綴りで音が変わる仲間
 
-breath と breathe のように、語尾に e が付くと th の発音が無声音 /θ/ から有声音 /ð/ に変わる語は他にもあります。cloth（布・/θ/）と clothe（服を着せる・/ð/）、bath（風呂・/θ/）と bathe（入浴する・/ð/）が同じパターンで、名詞と動詞の区別に発音の濁りが連動している英語の綴りの規則性の一例です。`,
+breath と breathe のように、語尾に e が付くと th の発音が無声音 /θ/ から有声音 /ð/ に変わる語は他にもあります。cloth（布・/θ/）と clothe（服を着せる・/ð/）、bath（風呂・/θ/）と bathe（入浴する・/ð/）が同じパターンで、名詞と動詞の区別に発音の濁りが連動している英語の綴りの規則性の一例です。
+
+### よくある誤用
+
+⚠️ \`Take a deep breathe before you start speaking.\`（誤）。「息（1回分）」という名詞は **breath**（e なし）。breathe は動詞「呼吸する」を表す語なので、a のあとの名詞としては使えません。
+
+⚠️ \`It's hard to breath at this altitude because the air is so thin.\`（誤）。「呼吸する」という動詞は **breathe**（e あり）。breath は名詞「息」を表す語なので、動詞の位置には使えません。`,
     keyPoints: [
       'breath /brɛθ/＝名詞「息」（e なし・/θ/）',
       'breathe /briːð/＝動詞「呼吸する」（e あり・/ð/）',
@@ -7464,7 +7476,13 @@ do は do the dishes のような一般動詞のほかに、Do you like coffee?�
 
 ### 動作の主体が「作る側」か「担う側」かで見分ける
 
-make a decision（決定を下す）は「決定」という新しい状態をゼロから生み出す動作、do one's duty（義務を果たす）は既に存在する「義務」という枠組みを自分の行動でこなす動作です。迷ったときは、対象がその場で初めて生まれるものか、すでに決まっている務めや作業かを考えると、make と do のどちらを選ぶべきかの手がかりになります。`,
+make a decision（決定を下す）は「決定」という新しい状態をゼロから生み出す動作、do one's duty（義務を果たす）は既に存在する「義務」という枠組みを自分の行動でこなす動作です。迷ったときは、対象がその場で初めて生まれるものか、すでに決まっている務めや作業かを考えると、make と do のどちらを選ぶべきかの手がかりになります。
+
+### よくある誤用
+
+⚠️ \`She made her homework before dinner every night.\`（誤）。「（課題を）する」は **do**（do homework）。make は新しいものを作り出す語で、既にある課題をこなす意味では使いません。
+
+⚠️ \`He always does a good decision when under pressure.\`（誤）。「（決定を）下す」は **make**（make a decision）。do は行為・作業をこなす語なので、新しく決定という状態を生み出す意味には使いません。`,
     keyPoints: [
       'make＝（新しく）作り出す・生じさせる（make a plan/mistake）',
       'do＝（行為・仕事）を行う・こなす（do homework/the dishes）',
@@ -8086,7 +8104,13 @@ prove には他動詞「〜を証明する」だけでなく、The plan proved s
 
 ### the proof is in the pudding の成り立ち
 
-「結果を見て初めて真価が分かる」という意味の言い回し the proof is in the pudding は、もとは the proof of the pudding is in the eating（プディングの良し悪しは食べてみないと分からない）という17世紀以来の諺の短縮形です。ここでの proof は「証拠」ではなく「試すこと・検証」という古い意味で使われており、prove の語源であるラテン語 probare（試す・検証する）に近い使い方が残っています。`,
+「結果を見て初めて真価が分かる」という意味の言い回し the proof is in the pudding は、もとは the proof of the pudding is in the eating（プディングの良し悪しは食べてみないと分からない）という17世紀以来の諺の短縮形です。ここでの proof は「証拠」ではなく「試すこと・検証」という古い意味で使われており、prove の語源であるラテン語 probare（試す・検証する）に近い使い方が残っています。
+
+### よくある誤用
+
+⚠️ \`Can you provide any prove that you were here last night?\`（誤）。「証拠」という名詞は **proof**（-f）。prove は動詞「証明する」を表す語なので、名詞の位置には使えません。
+
+⚠️ \`The lawyer tried to proof that her client was innocent.\`（誤）。「証明する」という動詞は **prove**（-ve）。proof は名詞「証拠」を表す語なので、動詞の位置には使えません。`,
     keyPoints: [
       'proof /pruːf/＝名詞「証拠・証明」（-f）',
       'prove /pruːv/＝動詞「証明する」（-ve）',
@@ -16142,7 +16166,13 @@ elicit は elicit a response（反応を引き出す）、elicit information fro
 
 ### elicit と illicit を分ける唯一の視覚的な手がかりは l の数
 
-発音がほぼ同じであるため、書くときの最大の手がかりは l の数です。elicit は l が1つ（e-licit）、illicit は l が2つ（il-licit）で、後者は否定の接頭辞 il-（in- が l の前で同化した形）が licit（合法の）に付いた構造だと分かれば、なぜ l が重なるのかも説明がつきます。`,
+発音がほぼ同じであるため、書くときの最大の手がかりは l の数です。elicit は l が1つ（e-licit）、illicit は l が2つ（il-licit）で、後者は否定の接頭辞 il-（in- が l の前で同化した形）が licit（合法の）に付いた構造だと分かれば、なぜ l が重なるのかも説明がつきます。
+
+### よくある誤用
+
+⚠️ \`The reporter's question failed to illicit any useful information.\`（誤）。「（反応・情報を）引き出す」は動詞 **elicit**（l が1つ）。illicit は「不法の」を表す形容詞なので、動詞の位置には使えません。
+
+⚠️ \`Police seized a large shipment of elicit drugs at the port.\`（誤）。「不法の・違法の」は **illicit**（l が2つ）。elicit は「引き出す」を表す動詞なので、薬物を形容する形容詞としては使えません。`,
     keyPoints: [
       'elicit と illicit はほぼ同音 /ɪˈlɪsɪt/',
       'elicit＝動詞「（反応・情報を）引き出す」',
