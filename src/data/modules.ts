@@ -4507,7 +4507,13 @@ except は except that ~（〜という点を除いて）という形で節を�
 
 ### plain sailing の語源は plane sailing かもしれない
 
-「順調な進行」を意味する plain sailing は、実は地球を平面とみなして計算する航海術 plane sailing（平面航法）に由来する可能性が指摘されている。短い距離であれば地球の丸みを無視しても十分正確に船の位置を計算できたことから、「簡単で問題のない」という意味が生まれたとされる。plain と plane が語源の議論の中でも混同されている、この2語の紛らわしさを象徴する成句。`,
+「順調な進行」を意味する plain sailing は、実は地球を平面とみなして計算する航海術 plane sailing（平面航法）に由来する可能性が指摘されている。短い距離であれば地球の丸みを無視しても十分正確に船の位置を計算できたことから、「簡単で問題のない」という意味が生まれたとされる。plain と plane が語源の議論の中でも混同されている、この2語の紛らわしさを象徴する成句。
+
+### よくある誤用
+
+⚠️ \`We boarded the plain at gate 12 and took off on time.\`（誤）。「飛行機」は **plane**（airplane の一部）。plain は「明白な・質素な」または「平原」を表す語なので、乗り物を指すことはできません。
+
+⚠️ \`Her explanation was plane and easy to follow.\`（誤）。「明白な・わかりやすい」は **plain**。plane は「飛行機・平面」を表す語なので、説明の分かりやすさを形容することはできません。`,
     keyPoints: [
       'plain と plane は同音 /pleɪn/',
       'plain＝明白な・質素な（形容詞）／平原（名詞）。in plain sight/plain sailing',
@@ -11807,7 +11813,13 @@ let は9世紀から「妨げる・邪魔する」という、現在とは正反
 
 ### permit は mission・transmit と同じ語根
 
-permit はラテン語 permittere（per-「通して」+ mittere「送る」）に由来し、mission・transmit・emit と同じ語根 mittere（送る）を共有する。「相手に通す・送り届ける」という原義が、「許可する」という現代の意味につながっている。`,
+permit はラテン語 permittere（per-「通して」+ mittere「送る」）に由来し、mission・transmit・emit と同じ語根 mittere（送る）を共有する。「相手に通す・送り届ける」という原義が、「許可する」という現代の意味につながっている。
+
+### よくある誤用
+
+⚠️ \`Please let me to go to the concert tonight.\`（誤）。let のあとは to のない原形（let me go）。to を入れると allow/permit の語法と混同したことになり、**let** には使いません。
+
+⚠️ \`The rules allow visitors take photos inside the museum.\`（誤）。allow のあとは「人 to do」の形（allow visitors **to** take photos）。to を省略すると let の語法になってしまい、allow には使えません。`,
     keyPoints: [
       'allow 人 to do／permit 人 to do（permit は硬め）',
       'let 人 do（動詞の原形・to なし）',
@@ -13522,7 +13534,13 @@ infamous の in- は否定の接頭辞ですが、打ち消しているのは形
 
 ### for のあとを見れば評価がわかる
 
-be famous for も be infamous for も同じ形をとるため、判断の手がかりは後ろに来る語のほうにあります。famous for its beaches（ビーチで有名）と infamous for its traffic jams（渋滞で悪名高い）を並べると、前置詞ではなく目的語が評価を決めていることが見て取れます。悪い事柄に famous を皮肉として使う例もありますが、読み手に伝わりにくいので書き言葉では避けます。`,
+be famous for も be infamous for も同じ形をとるため、判断の手がかりは後ろに来る語のほうにあります。famous for its beaches（ビーチで有名）と infamous for its traffic jams（渋滞で悪名高い）を並べると、前置詞ではなく目的語が評価を決めていることが見て取れます。悪い事柄に famous を皮肉として使う例もありますが、読み手に伝わりにくいので書き言葉では避けます。
+
+### よくある誤用
+
+⚠️ \`The scientist became infamous worldwide for her groundbreaking discovery.\`（誤・不自然）。良い業績で「有名な」は **famous**。infamous は悪い行いで知られることを表す語なので、称賛すべき功績には合いません。
+
+⚠️ \`The dictator was famous for the brutal crackdown that killed thousands.\`（誤・不自然）。残虐な行為で「悪名高い」は **infamous**。famous は良い意味・中立の評判を表す語なので、非難すべき行為を述べる文脈には合いません。`,
     keyPoints: [
       'famous＝有名な（良い・中立）',
       'infamous＝悪名高い（悪い評判で有名・notorious）',
@@ -15110,7 +15128,13 @@ canvass は選挙の票集めだけでなく、canvass opinions（意見を聞�
 
 ### canvas は絵画以外の場面にも広がっている
 
-canvas は元来テントや帆に使われた丈夫な麻布を指し、canvas shoes（キャンバス地の靴）、canvas bag（帆布のバッグ）のように、絵画のキャンバスに限らず丈夫な布地全般を指す語として使われます。比喩的に on a broader canvas（もっと大きな枠組みで）という言い方もあり、「まだ何も描かれていない広がり」というイメージから発展した用法です。`,
+canvas は元来テントや帆に使われた丈夫な麻布を指し、canvas shoes（キャンバス地の靴）、canvas bag（帆布のバッグ）のように、絵画のキャンバスに限らず丈夫な布地全般を指す語として使われます。比喩的に on a broader canvas（もっと大きな枠組みで）という言い方もあり、「まだ何も描かれていない広がり」というイメージから発展した用法です。
+
+### よくある誤用
+
+⚠️ \`The painter stretched a new canvass before starting the portrait.\`（誤）。絵を描く「画布」は **canvas**（s が1つ）。canvass は「票などを求めて回る」を表す動詞なので、布地を指すことはできません。
+
+⚠️ \`Volunteers plan to canvas the neighborhood for votes next weekend.\`（誤）。「（票を求めて）回る」という動詞は **canvass**（s が2つ）。canvas は名詞「画布」を表す語なので、動詞として使うことはできません。`,
     keyPoints: [
       'canvas＝名詞「帆布・画布（キャンバス）」（s ひとつ）',
       'canvass＝動詞「票・意見を求めて回る・世論調査する」（s ふたつ）',
@@ -17212,7 +17236,13 @@ beyond compare（比類ないほど・並ぶものがないほど）は、比較
 
 ### 文法の comparative と superlative の違い
 
-comparative は文法用語としては「比較級」（bigger、more difficult）を指し、3つ以上を比べて最上位を示す「最上級」（superlative：biggest、most difficult）とは区別される。2つを比べるか、3つ以上の中で一番かという対象の数が、この2つの文法用語の違いを決めている。`,
+comparative は文法用語としては「比較級」（bigger、more difficult）を指し、3つ以上を比べて最上位を示す「最上級」（superlative：biggest、most difficult）とは区別される。2つを比べるか、3つ以上の中で一番かという対象の数が、この2つの文法用語の違いを決めている。
+
+### よくある誤用
+
+⚠️ \`She wrote a comparable study of two cities, comparing their transit systems.\`（誤）。「比較による」研究は **comparative** study。comparable は「同等の」を表す語なので、研究の種類を形容する語としては使えません。
+
+⚠️ \`The two phones are comparative in price, both costing around $500.\`（誤）。「同程度の・比較できるほど似ている」は **comparable**。comparative は「比較の・相対的な」を表す語なので、2つの物の価格が近いことを述べる文脈には合いません。`,
     keyPoints: [
       'comparable＝同等の・比較しうる（品質や規模が近い）',
       'comparative＝比較による・相対的な（比較研究／文法の比較級）',
