@@ -1923,7 +1923,13 @@ irrespective of ~（〜にかかわらず）という熟語は、見た目こそ
 
 respectable にはもう一つ、「立派」から広がった「かなりの・相当な」という数量の意味もあります。She finished in a respectable time.（彼女はまずまずの好記録でゴールした）のように、量や成績が十分に評価に値する水準であることを表します。
 
-respectful の反対は disrespectful（失礼な）で、be disrespectful of someone's opinion（人の意見を軽んじる）のように使われます。respectable・respective にはこの un-/dis- を付けた対義語は一般的ではありません。`,
+respectful の反対は disrespectful（失礼な）で、be disrespectful of someone's opinion（人の意見を軽んじる）のように使われます。respectable・respective にはこの un-/dis- を付けた対義語は一般的ではありません。
+
+### よくある誤用
+
+⚠️ \`Please listen to each other's respectable opinions during the debate.\`（誤）。「それぞれの」は **respective**。respectable は「立派な・尊敬に値する」を表す語なので、個々に対応する意見を指す文脈には合いません。
+
+⚠️ \`It's important to be respective toward people from different cultures.\`（誤）。「敬意を払う・礼儀正しい」は **respectful**。respective は「それぞれの」を表す語なので、人への態度を述べる文脈には使えません。`,
     keyPoints: [
       'respectable＝立派な・世間体の良い（-able）',
       'respectful＝敬意を払う・礼儀正しい（-ful）',
@@ -9117,7 +9123,13 @@ confidant・confident の元になる動詞 confide は、confide in someone（�
 
 ### confidential という派生語との違い
 
-confident と語根を共有する confidential（機密の・内密の）は、情報の性質を表す形容詞であり、人の性格を表す confident（自信のある）とは意味の向きが異なる。同じ confid-（信頼する）という語根から、「自信」「機密」「打ち明け相手」という3つの異なる語義が枝分かれしている。`,
+confident と語根を共有する confidential（機密の・内密の）は、情報の性質を表す形容詞であり、人の性格を表す confident（自信のある）とは意味の向きが異なる。同じ confid-（信頼する）という語根から、「自信」「機密」「打ち明け相手」という3つの異なる語義が枝分かれしている。
+
+### よくある誤用
+
+⚠️ \`She has always been my closest confident, sharing every secret with me.\`（誤）。「腹心の友」という名詞は **confidant**（-ant）。confident は「自信のある」を表す形容詞なので、人を指す名詞としては使えません。
+
+⚠️ \`He felt very confidant before stepping onto the stage.\`（誤）。「自信のある」という形容詞は **confident**（-ent）。confidant は「秘密を打ち明ける相手」を表す名詞なので、気持ちを形容する語としては使えません。`,
     keyPoints: [
       'confident /ˈkɒnfɪdənt/＝形容詞「自信のある」（-ent）',
       'confidant /ˈkɒnfɪdænt/＝名詞「腹心の友」（-ant）',
@@ -12562,7 +12574,13 @@ a number of students は「多くの生徒」を指すので複数扱いにな�
 
 ### 動詞に転じたときの意味
 
-amount は動詞では amount to の形をとり、The bill amounted to 12,000 yen.（勘定は1万2千円になった）のように合計を表します。比喩的に His excuse amounts to a confession.（彼の弁解は自白に等しい）とも言えます。number も動詞になり、The crowd numbered about 5,000.（群衆は約5千人だった）のように総数を述べる形で使われます。`,
+amount は動詞では amount to の形をとり、The bill amounted to 12,000 yen.（勘定は1万2千円になった）のように合計を表します。比喩的に His excuse amounts to a confession.（彼の弁解は自白に等しい）とも言えます。number も動詞になり、The crowd numbered about 5,000.（群衆は約5千人だった）のように総数を述べる形で使われます。
+
+### よくある誤用
+
+⚠️ \`We need to reduce the amount of plastic bottles we use.\`（誤・不自然）。bottles は可算名詞なので「数」を表す **number**（the number of plastic bottles）が適切。amount は不可算名詞に使う語なので、数えられる物の多さには合いません。
+
+⚠️ \`The number of rainfall this month was higher than usual.\`（誤）。rainfall は不可算名詞なので「量」を表す **amount**（the amount of rainfall）が適切。number は可算名詞の数を表す語なので、量を表す文脈には合いません。`,
     keyPoints: [
       'amount＝（不可算の）量（an amount of water）',
       'number＝（可算の）数（a number of people）',
@@ -12714,7 +12732,13 @@ few and far between（まれにしか起こらない・数が少なく間隔も�
 
 ### little のもう一つの顔＝形容詞としての「小さい」
 
-little には量の少なさを表す用法とは別に、a little dog（小さな犬）のように「小さい・幼い」という大きさや年齢を表す形容詞の用法があります。この場合は few との対比の話ではなく small に近い意味で、a little town（小さな町）のように親しみを込めた響きを伴うことが多い点も、量を表す little とは異なる特徴です。`,
+little には量の少なさを表す用法とは別に、a little dog（小さな犬）のように「小さい・幼い」という大きさや年齢を表す形容詞の用法があります。この場合は few との対比の話ではなく small に近い意味で、a little town（小さな町）のように親しみを込めた響きを伴うことが多い点も、量を表す little とは異なる特徴です。
+
+### よくある誤用
+
+⚠️ \`Few money was left after paying for the trip.\`（誤）。money は不可算名詞なので「ほとんどない」は **little**。few は可算名詞（複数）に使う語なので、不可算のお金には使いません。
+
+⚠️ \`A little students volunteered to help clean the classroom.\`（誤）。students は可算名詞なので「少しいる」は **a few**。little は不可算名詞に使う語なので、数えられる人には使いません。`,
     keyPoints: [
       'little＝（不可算に）ほとんどない／a little＝少しある',
       'few＝（可算・複数に）ほとんどない／a few＝少しある',
@@ -15207,7 +15231,13 @@ straitjacket は正しくは strait（狭い・きつい）の意味で綴られ
 
 ### in dire straits という決まり文句
 
-strait は現代英語では単独よりも複数形 straits で使われることが多く、in dire straits（切迫した苦境にある）という決まり文句が代表例です。dire（恐ろしい・切迫した）と組み合わさることで、「狭い水路に追い詰められて身動きが取れない」という原義がそのまま比喩として定着しています。`,
+strait は現代英語では単独よりも複数形 straits で使われることが多く、in dire straits（切迫した苦境にある）という決まり文句が代表例です。dire（恐ろしい・切迫した）と組み合わさることで、「狭い水路に追い詰められて身動きが取れない」という原義がそのまま比喩として定着しています。
+
+### よくある誤用
+
+⚠️ \`The ship had to navigate through a narrow straight between the two islands.\`（誤）。「海峡」という名詞は **strait**（-t）。straight は「まっすぐな」を表す形容詞・副詞なので、水路の名称としては使えません。
+
+⚠️ \`Draw a strait line from this point to the edge of the page.\`（誤）。「まっすぐな」は **straight**（-ght）。strait は「海峡・苦境」を表す名詞なので、線の形を表す形容詞としては使えません。`,
     keyPoints: [
       'straight と strait は同音 /streɪt/',
       'straight＝まっすぐな・率直な・連続した（gh は無音）',
