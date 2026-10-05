@@ -1480,7 +1480,13 @@ propose to someone は「（人に）結婚を申し込む」という決まっ�
 
 suggest には「示す・暗示する」という、人が主語でない使い方もあります。The data suggests that sales will increase.（データは売上増加を示唆している）のように、証拠や兆候が何かを物語るときに使え、この意味では propose に置き換えられません。
 
-名詞形の proposal は結婚の申し込みそのものも指し、accept a proposal（プロポーズを受け入れる）のように使われます。suggestion にはこの特定の意味はなく、あくまで一般的な「提案・示唆」を表す名詞にとどまります。`,
+名詞形の proposal は結婚の申し込みそのものも指し、accept a proposal（プロポーズを受け入れる）のように使われます。suggestion にはこの特定の意味はなく、あくまで一般的な「提案・示唆」を表す名詞にとどまります。
+
+### よくある誤用
+
+⚠️ \`He proposed to going to the beach for the weekend.\`（誤）。「〜することを提案する」は **propose doing**（to を入れない）。to を入れると propose to someone（結婚を申し込む）の形と混同してしまいます。
+
+⚠️ \`The data proposes that sales will increase next quarter.\`（誤）。データなどが「何かを示す・示唆する」という意味では **suggest**（the data suggests）を使います。propose は人が正式に提案する動詞なので、データが主語になるこの意味には使いません。`,
     keyPoints: [
       'propose＝正式・直接的に提案、suggest＝控えめに提案・示唆',
       '語法：suggest doing / suggest that (should) V',
@@ -6130,7 +6136,13 @@ succeed には「成功する」と「後を継ぐ」という二つの意味が
 
 ### 取り違えが目立つ場面
 
-「3年連続で優勝した」を He won three successful times. と書くと、意味の取れない句になります。ここは three successive years か three years in a row です。逆に successive governments は「歴代の政権」を指すだけで、その政権が成功したかどうかは何も述べていません。`,
+「3年連続で優勝した」を He won three successful times. と書くと、意味の取れない句になります。ここは three successive years か three years in a row です。逆に successive governments は「歴代の政権」を指すだけで、その政権が成功したかどうかは何も述べていません。
+
+### よくある誤用
+
+⚠️ \`She has been successive in her career, landing every job she applied for.\`（誤）。「成功した」は **successful**。successive は「連続する」を表す語なので、人の実績がうまくいっていることを述べる文脈には使えません。
+
+⚠️ \`The team celebrated its successive launch of the new product.\`（誤）。「成功した」は **successful**。successive は「連続する」を表す語なので、1回の出来事がうまくいったことを形容する語としては使えません。`,
     keyPoints: [
       'successful＝成功した（success の形容詞）',
       'successive＝連続する・引き続いての（succession の形容詞）',
@@ -7415,7 +7427,13 @@ relief には「安心」以外にも、relief map（起伏を表す立体地図
 
 ### relieve of という構文が持つ独特の意味
 
-relieve には relieve someone of something（人から〜を取り除く・免除する）という構文があり、relieve him of his duties（彼を職務から解任する）のように、婉曲的に「役目や責任を取り上げる」という意味で使われます。この用法は「苦痛を和らげる」という基本義から、「負担そのものを取り除く」という方向に意味が広がったものです。`,
+relieve には relieve someone of something（人から〜を取り除く・免除する）という構文があり、relieve him of his duties（彼を職務から解任する）のように、婉曲的に「役目や責任を取り上げる」という意味で使われます。この用法は「苦痛を和らげる」という基本義から、「負担そのものを取り除く」という方向に意味が広がったものです。
+
+### よくある誤用
+
+⚠️ \`The medicine helped relief her headache within minutes.\`（誤）。「和らげる」という動詞は **relieve**（-ve）。relief は名詞「安心・緩和」を表す語なので、動詞の位置には使えません。
+
+⚠️ \`She felt a huge sense of relieve when she heard the good news.\`（誤）。「安心・ほっとすること」という名詞は **relief**（-f）。relieve は動詞「和らげる」を表す語なので、名詞の位置には使えません。`,
     keyPoints: [
       'relief /rɪˈliːf/＝名詞「安心・緩和・救援」（-f）',
       'relieve /rɪˈliːv/＝動詞「和らげる・軽減する」（-ve）',
@@ -10404,7 +10422,13 @@ refuse は refuse a gift（贈り物を受け取らない）、refuse an offer�
 
 ### 名詞形が示す結果の重さ
 
-refusal（拒否）は一回の断りを指す比較的軽い名詞ですが、rejection（拒絶・却下）は不合格通知や失恋など、人の心に残るような重い結果を指すことが多い語です。a rejection letter（不採用通知）という定型句があるように、reject 側は「選考の結果として退けられた」という制度的な重みを伴う場面でよく使われます。`,
+refusal（拒否）は一回の断りを指す比較的軽い名詞ですが、rejection（拒絶・却下）は不合格通知や失恋など、人の心に残るような重い結果を指すことが多い語です。a rejection letter（不採用通知）という定型句があるように、reject 側は「選考の結果として退けられた」という制度的な重みを伴う場面でよく使われます。
+
+### よくある誤用
+
+⚠️ \`The university refused her application after reviewing her test scores.\`（誤・不自然）。審査して「不合格にする・却下する」は **reject**。refuse は申し出・依頼をきっぱり断ることを表す語なので、審査プロセスを経た不合格を述べる文脈には弱すぎます。
+
+⚠️ \`He rejected to answer any questions from the reporters.\`（誤）。「〜するのを拒む」という語法は **refuse to do**。reject には to do を続ける語法が無いので、動詞の原形を続ける文脈には使えません。`,
     keyPoints: [
       'refuse＝（申し出・依頼）を断る（refuse to do）',
       'reject＝（案・応募・品）を拒絶・却下・不合格にする',
@@ -15843,7 +15867,13 @@ continual と continuous は歴史的にも厳密に使い分けられてきた�
 
 ### 副詞形にも同じ区別が引き継がれる
 
-continually（断続的に・たびたび）と continuously（連続して・絶え間なく）も、形容詞と同じ区別を保ちます。He continually checks his phone.（彼はしょっちゅうスマホを確認する）は何度も繰り返す動作、The machine ran continuously for 24 hours.（機械は24時間ぶっ通しで稼働した）は一度も止まらない動作を表し、動詞を修飾する場面でも断続か連続かの判断基準は変わりません。`,
+continually（断続的に・たびたび）と continuously（連続して・絶え間なく）も、形容詞と同じ区別を保ちます。He continually checks his phone.（彼はしょっちゅうスマホを確認する）は何度も繰り返す動作、The machine ran continuously for 24 hours.（機械は24時間ぶっ通しで稼働した）は一度も止まらない動作を表し、動詞を修飾する場面でも断続か連続かの判断基準は変わりません。
+
+### よくある誤用
+
+⚠️ \`The machine ran continually for 24 hours without a single stop.\`（誤・不自然）。一度も止まらず「連続して」なら **continuously**。continual は断続的に繰り返すことを表す語なので、止まらず続く場面には合いません。
+
+⚠️ \`His continuous complaints about the weather annoyed everyone at the office.\`（誤）。何度も繰り返す「たびたびの」不満は **continual**。continuous は途切れず続くことを表す語なので、間を置いて繰り返される言動には合いません。`,
     keyPoints: [
       'continual＝繰り返し起こる・断続的（合間に途切れあり）',
       'continuous＝途切れずに続く（連続・切れ目なし）',
