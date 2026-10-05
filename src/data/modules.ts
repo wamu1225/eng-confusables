@@ -6672,7 +6672,13 @@ third・fourth・fifth と序数を並べたとき、そこに forth が並ぶ�
 
 ### カタカナ「デバイス」が指す範囲の狭さ
 
-日本語のカタカナ語「デバイス」はスマートフォンやセンサーなど電子機器を指す場合がほとんどだが、英語の device はもっと範囲が広く、safety device（安全装置）、explosive device（爆発物）、さらに文学用語の literary device（表現技法）・plot device（物語を動かすための仕掛け）のように、抽象的な「仕組み・仕掛け」全般を指す。電子機器に限定して覚えると英語本来の広さを見落とす。`,
+日本語のカタカナ語「デバイス」はスマートフォンやセンサーなど電子機器を指す場合がほとんどだが、英語の device はもっと範囲が広く、safety device（安全装置）、explosive device（爆発物）、さらに文学用語の literary device（表現技法）・plot device（物語を動かすための仕掛け）のように、抽象的な「仕組み・仕掛け」全般を指す。電子機器に限定して覚えると英語本来の広さを見落とす。
+
+### よくある誤用
+
+⚠️ \`Engineers worked for months to device a solution to the power problem.\`（誤）。「考案する」という動詞は **devise**（-se、/z/）。device は名詞「装置・工夫」を表す語なので、動詞の位置には使えません。
+
+⚠️ \`She bought a new devise to monitor her sleep patterns.\`（誤）。「装置・機器」という名詞は **device**（-ce、/s/）。devise は動詞「考案する」を表す語なので、名詞の位置には使えません。`,
     keyPoints: [
       'device /dɪˈvaɪs/＝名詞「装置・機器」（-ce、/s/）',
       'devise /dɪˈvaɪz/＝動詞「考案する」（-se、/z/）',
@@ -8213,7 +8219,13 @@ succeed は succeed in doing（〜することに成功する）のように前�
 
 ### success という結果を修飾する形容詞は successful
 
-success 自体は名詞専用で、形容詞として「成功した」を表したいときは successful を使います。a success story（成功物語）のように success が名詞のまま名詞を修飾する言い方もありますが、これは複合語的な用法で、a successful story とは意味の焦点が異なります。`,
+success 自体は名詞専用で、形容詞として「成功した」を表したいときは successful を使います。a success story（成功物語）のように success が名詞のまま名詞を修飾する言い方もありますが、これは複合語的な用法で、a successful story とは意味の焦点が異なります。
+
+### よくある誤用
+
+⚠️ \`After years of hard work, he finally succeeded a successful business.\`（誤）。「成功する」は動詞 **succeed**（succeed in doing）。success は名詞「成功」を表す語なので、動詞の位置に置くことはできません。
+
+⚠️ \`The new product was a great succeed for the company this year.\`（誤）。「成功（という結果・状態）」は名詞 **success**。succeed は動詞「成功する」を表す語なので、a のあとの名詞の位置には使えません。`,
     keyPoints: [
       'success /səkˈsɛs/＝名詞「成功」（形容詞は successful）',
       'succeed /səkˈsiːd/＝動詞「成功する・後を継ぐ」',
@@ -9220,7 +9232,13 @@ moment はラテン語 momentum（動かす力、重み）に由来し、英語�
 
 ### どちらの名詞が来ているかで決まる
 
-a momentary decision は「一瞬で下した決断」を指し、重大さについては何も言いません。重みを表したいなら a momentous decision です。momentary lapse（一瞬の失念）、momentary pause（つかの間の間）のように時間の長さに関わる名詞が来れば前者、momentous occasion（記念すべき機会）、momentous change（重大な変化）のように出来事の意義に関わる名詞なら後者を選びます。`,
+a momentary decision は「一瞬で下した決断」を指し、重大さについては何も言いません。重みを表したいなら a momentous decision です。momentary lapse（一瞬の失念）、momentary pause（つかの間の間）のように時間の長さに関わる名詞が来れば前者、momentous occasion（記念すべき機会）、momentous change（重大な変化）のように出来事の意義に関わる名詞なら後者を選びます。
+
+### よくある誤用
+
+⚠️ \`Winning the championship was a momentary achievement that the team would remember forever.\`（誤・不自然）。一生記憶に残るほどの「重大な」出来事は **momentous**。momentary は「一瞬の・つかの間の」ことを表す語なので、重みのある出来事を形容する文脈には合いません。
+
+⚠️ \`There was a momentous pause before she answered the question.\`（誤・不自然）。ほんの「一瞬の」間は **momentary**。momentous は出来事の重大さを表す語なので、短い時間の長さを述べる文脈には合いません。`,
     keyPoints: [
       'momentary /ˈmoʊməntɛri/＝一瞬の・つかの間の（時間）',
       'momentous /moʊˈmɛntəs/＝重大な・重要な（意義）',
@@ -14287,7 +14305,13 @@ memorable と memorial はどちらもラテン語 memoria（記憶）に由来�
 
 ### Memorial Day に見る memorial の使われ方
 
-アメリカの Memorial Day（戦没将兵追悼記念日）は、memorial が「記念の・追悼の」という形容詞として国家的な行事名にまで使われる例です。同様に war memorial（戦争記念碑）、memorial service（追悼式）もこの用法で、いずれも「忘れないよう記念する」という memorial の中心義がそのまま行事名・建造物名になっています。`,
+アメリカの Memorial Day（戦没将兵追悼記念日）は、memorial が「記念の・追悼の」という形容詞として国家的な行事名にまで使われる例です。同様に war memorial（戦争記念碑）、memorial service（追悼式）もこの用法で、いずれも「忘れないよう記念する」という memorial の中心義がそのまま行事名・建造物名になっています。
+
+### よくある誤用
+
+⚠️ \`The city built a memorable statue to honor the soldiers who died in the war.\`（誤）。「記念の・追悼の」は **memorial**。memorable は「記憶に残る・印象的な」を表す語なので、記念碑のような建造物の種類を表すことはできません。
+
+⚠️ \`Our trip to the mountains last summer was truly memorial, full of laughter and good food.\`（誤）。「記憶に残る・忘れられない」は **memorable**。memorial は記念・追悼を表す語なので、楽しい思い出を形容する文脈には合いません。`,
     keyPoints: [
       'memorable＝記憶に残る・忘れられない（形容詞）',
       'memorial＝記念の・追悼の／記念碑（名詞）',
@@ -15103,7 +15127,13 @@ social には sociable のような「性格」の意味がなく、social media
 
 ### 名詞形は society で共通する
 
-sociable も social も、名詞形をたどると society（社会）に行き着きます。socialize（社交する・社会化する）という動詞もこの語根から派生しており、He doesn't socialize much.（彼はあまり人付き合いをしない）のように、sociable の意味に近い場面で使われます。`,
+sociable も social も、名詞形をたどると society（社会）に行き着きます。socialize（社交する・社会化する）という動詞もこの語根から派生しており、He doesn't socialize much.（彼はあまり人付き合いをしない）のように、sociable の意味に近い場面で使われます。
+
+### よくある誤用
+
+⚠️ \`He gave a speech about sociable issues like poverty and education.\`（誤）。「社会の」という意味は **social**。sociable は人の性格「社交的な」を表す語なので、社会問題を形容することはできません。
+
+⚠️ \`My new coworker is very social; she always invites everyone to lunch and remembers everyone's name.\`（誤・不自然）。人の性格として「社交的な」は **sociable**。social は社会・社交全般を指す広い語なので、人の人付き合いの良さを直接ほめる文脈には sociable が自然です。`,
     keyPoints: [
       'sociable＝社交的な・人付き合いのよい（人の性格）',
       'social＝社会の／社交の・親睦の（社会・集まり全般）',
