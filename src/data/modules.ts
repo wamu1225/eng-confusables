@@ -7287,7 +7287,13 @@ cloth は裁断されていない布地・生地そのものを指す不可算�
 
 ### tablecloth に見る cloth の広がり
 
-cloth を使った複合語には、tablecloth（テーブルクロス）、washcloth（体を洗う布）、sackcloth（粗布、悔悟の象徴として聖書にも登場）などがあり、いずれも「用途に応じた布」を指しています。動詞 clothe にはこうした複合語での広がりはなく、「服を着せる」という一つの動作に意味が絞られています。`,
+cloth を使った複合語には、tablecloth（テーブルクロス）、washcloth（体を洗う布）、sackcloth（粗布、悔悟の象徴として聖書にも登場）などがあり、いずれも「用途に応じた布」を指しています。動詞 clothe にはこうした複合語での広がりはなく、「服を着せる」という一つの動作に意味が絞られています。
+
+### よくある誤用
+
+⚠️ \`The charity works to feed and cloth homeless families in the city.\`（誤）。「服を着せる」という動詞は **clothe**（-e、/ð/）。cloth は名詞「布」を表す語なので、動詞の位置には使えません。
+
+⚠️ \`She used a soft clothe to clean the glass table.\`（誤）。「布・生地」という名詞は **cloth**（-θ）。clothe は動詞「服を着せる」を表す語なので、物を拭く布を指す名詞としては使えません。`,
     keyPoints: [
       'cloth /klɔːθ/＝名詞「布・生地」（e なし・/θ/）',
       'clothe /kloʊð/＝動詞「服を着せる」（e あり・/ð/）',
@@ -9617,7 +9623,13 @@ descent は飛行機の降下（The plane began its descent.）のような物�
 
 ### decent は「まあまあ良い」という控えめな評価を表す
 
-decent は excellent（優秀な）ほど強くはなく、「十分にまとも・悪くない」という控えめな肯定の評価を表す語です。a decent meal（まずまずの食事）、a decent salary（まずまずの給料）のように、最高ではないが不満はないという中庸のニュアンスを持ち、この控えめさが decent という語の使いどころを特徴づけています。`,
+decent は excellent（優秀な）ほど強くはなく、「十分にまとも・悪くない」という控えめな肯定の評価を表す語です。a decent meal（まずまずの食事）、a decent salary（まずまずの給料）のように、最高ではないが不満はないという中庸のニュアンスを持ち、この控えめさが decent という語の使いどころを特徴づけています。
+
+### よくある誤用
+
+⚠️ \`The plane made a sudden decent due to turbulence.\`（誤）。「下降・降下」という名詞は **descent**（アクセント後ろ）。decent は「まともな・きちんとした」を表す形容詞なので、飛行機の動きを指すことはできません。
+
+⚠️ \`He comes from a long line of descent people who worked hard all their lives.\`（誤・不自然）。「まともな・きちんとした」という形容詞は **decent**（アクセント前）。descent は「下降・家系」を表す名詞なので、人の性質を形容する語としては使えません。`,
     keyPoints: [
       'decent /ˈdiːsənt/＝形容詞「きちんとした・まともな」',
       'descent /dɪˈsɛnt/＝名詞「下降・降下・家系」（反対 ascent）',
@@ -11285,7 +11297,13 @@ practicable であることと practical であることは独立した評価軸
 
 ### 法律・行政文書での使われ方
 
-practicable は as soon as practicable（実行可能になり次第）、so far as practicable（実行可能な範囲で）のように、契約書や行政文書で「コスト・技術・状況を考慮したうえで可能な限り」という含みを持たせるために好んで使われます。日常会話では practical のほうが圧倒的に多く使われ、practicable はこうした改まった文脈に偏って現れる語です。`,
+practicable は as soon as practicable（実行可能になり次第）、so far as practicable（実行可能な範囲で）のように、契約書や行政文書で「コスト・技術・状況を考慮したうえで可能な限り」という含みを持たせるために好んで使われます。日常会話では practical のほうが圧倒的に多く使われ、practicable はこうした改まった文脈に偏って現れる語です。
+
+### よくある誤用
+
+⚠️ \`She is known as a very practicable person who always finds a way to get things done.\`（誤）。人の性質「現実的な・実用的な」は **practical**。practicable は計画・方法など実行される対象にしか使わない語なので、人を形容することはできません。
+
+⚠️ \`The engineers confirmed that the design is practical within the current budget and timeline.\`（誤・不自然）。予算や期限の制約の中で「実行できるか」は **practicable**。practical は「役に立つ・現実的」を表す語で、技術的な実行可能性そのものを述べる文脈には弱すぎます。`,
     keyPoints: [
       'practical＝実用的な・現実的な（役立つ・人にも使う）',
       'practicable＝実行可能な（計画・方法が実施できる・人には使わない）',
@@ -12543,7 +12561,13 @@ mourning は「悲しむ気持ち」だけでなく、in mourning（喪に服し
 
 ### -ing 形が名詞になっている点で共通する構造
 
-morning はもともと morn（古い形の「朝」）に -ing に似た接尾辞が付いた古語由来の形ですが、現代英語の感覚では単なる名詞として扱われます。一方 mourning は動詞 mourn の現在分詞・動名詞形がそのまま名詞化したもので、doing や reading と同じ -ing 名詞の仲間です。綴りは似ていても、morning は語源的に独立した名詞、mourning は動詞由来の名詞という成り立ちの違いがあります。`,
+morning はもともと morn（古い形の「朝」）に -ing に似た接尾辞が付いた古語由来の形ですが、現代英語の感覚では単なる名詞として扱われます。一方 mourning は動詞 mourn の現在分詞・動名詞形がそのまま名詞化したもので、doing や reading と同じ -ing 名詞の仲間です。綴りは似ていても、morning は語源的に独立した名詞、mourning は動詞由来の名詞という成り立ちの違いがあります。
+
+### よくある誤用
+
+⚠️ \`The whole family wore black and spent the day in morning after the funeral.\`（誤）。「喪・哀悼」は **mourning**（u が入る）。morning は「朝・午前」を表す語なので、悲しみの状態を指すことはできません。
+
+⚠️ \`I always drink a cup of coffee in the mourning before I start work.\`（誤）。「朝」は **morning**（u なし）。mourning は「喪・哀悼」を表す語なので、1日の時間帯を指すことはできません。`,
     keyPoints: [
       'morning と mourning は同音 /ˈmɔːrnɪŋ/',
       'morning＝朝・午前（反対は evening）',
@@ -14457,7 +14481,13 @@ born and bred（生まれも育ちも）は、a Bostonian, born and bred（生�
 
 ### by が続くと「〜によって負担された」という受動の意味になる
 
-borne by ~（〜によって負担された）という形は、The cost was borne by the company.（費用は会社が負担した）のように、責任や費用の所在を示す改まった言い方でよく使われます。born にはこの受動構文がなく、be born の形以外で使われることはありません。動詞 bear の「支える・担う」という中心義が、borne 側にのみ引き継がれていることがこの構文差からも見て取れます。`,
+borne by ~（〜によって負担された）という形は、The cost was borne by the company.（費用は会社が負担した）のように、責任や費用の所在を示す改まった言い方でよく使われます。born にはこの受動構文がなく、be born の形以外で使われることはありません。動詞 bear の「支える・担う」という中心義が、borne 側にのみ引き継がれていることがこの構文差からも見て取れます。
+
+### よくある誤用
+
+⚠️ \`All the travel expenses were born by the company during the business trip.\`（誤）。「（費用などを）負担した」という意味の bear の過去分詞は **borne**（e が付く）。born は「生まれる（be born）」専用の語なので、費用の負担を表すことはできません。
+
+⚠️ \`She was borne in a small village in the mountains.\`（誤）。「生まれる」は be born 専用の **born**。borne は bear のそれ以外（運ぶ・耐える・負担する）の過去分詞なので、出生を表す文脈には使えません。`,
     keyPoints: [
       'born＝「生まれる（be born）」の意味専用',
       'borne＝bear のそれ以外（運ぶ・耐える・負担する・実らせる）の過去分詞',
