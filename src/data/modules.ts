@@ -6215,7 +6215,13 @@ SF作品で頻出する「並行世界」は、アメリカ英語では alternat
 
 ### 語源：alter「二つのうちの他方」から分かれた歴史
 
-どちらの語もラテン語 alter（二つのうちの他方）に由来する。alternate は「交互に行う」を意味する alternare から中英語期に借用され、「一つおきに起こる」という周期的な意味を保持した。一方 alternative は16世紀に「二つの選択肢の間で選ぶ」という意味を表すために新しく作られた語で、alternate よりも遅れて英語に定着した。`,
+どちらの語もラテン語 alter（二つのうちの他方）に由来する。alternate は「交互に行う」を意味する alternare から中英語期に借用され、「一つおきに起こる」という周期的な意味を保持した。一方 alternative は16世紀に「二つの選択肢の間で選ぶ」という意味を表すために新しく作られた語で、alternate よりも遅れて英語に定着した。
+
+### よくある誤用
+
+⚠️ \`The two teachers alternative between morning and afternoon shifts each week.\`（誤）。「交互に行う」という動詞は **alternate**。alternative は形容詞・名詞「代わりの・別の選択肢」を表す語なので、交互に入れ替わる動作を表す動詞としては使えません。
+
+⚠️ \`We meet on alternative Fridays, skipping every other week.\`（誤・試験では誤答）。「一つおきの」は **alternate**。alternative は「代わりの・別の選択肢」を表す語なので、周期的な間隔を表す文脈には合いません（米口語の俗用を除く）。`,
     keyPoints: [
       'alternate＝交互の・一つおきの（alternate days＝一日おき）',
       'alternative＝代わりの・別の選択肢（an alternative plan）',
@@ -7366,7 +7372,13 @@ believe には believe him（彼の言うことを信じる＝真実だと思う
 
 ### belief は具体的な信条を数えられる形でも使う
 
-belief は不可算の「信じること」だけでなく、a belief（一つの信条・考え）、beliefs（複数の信条）のように数えられる名詞としても使われます。religious beliefs（宗教的信条）、firmly held beliefs（固く信じられている考え）のように、個々の具体的な考えを指すときは可算名詞として扱われます。`,
+belief は不可算の「信じること」だけでなく、a belief（一つの信条・考え）、beliefs（複数の信条）のように数えられる名詞としても使われます。religious beliefs（宗教的信条）、firmly held beliefs（固く信じられている考え）のように、個々の具体的な考えを指すときは可算名詞として扱われます。
+
+### よくある誤用
+
+⚠️ \`She has a strong believe in justice and fairness.\`（誤）。「信念」という名詞は **belief**（-f）。believe は動詞「信じる」を表す語なので、a strong のあとの名詞の位置には使えません。
+
+⚠️ \`I belief you are telling the truth about what happened.\`（誤）。「信じる」という動詞は **believe**（-ve）。belief は名詞「信念」を表す語なので、動詞の位置には使えません。`,
     keyPoints: [
       'belief /bɪˈliːf/＝名詞「信念」（-f、/f/）',
       'believe /bɪˈliːv/＝動詞「信じる」（-ve、/v/）',
@@ -11224,7 +11236,13 @@ receive は receive news（知らせを受け取る）、receive a phone call（
 
 ### 名詞形にも同じ向きの違いが残る
 
-receive の名詞は receipt（領収書、受領）、accept の名詞は acceptance（受諾、承認）です。a receipt for the payment（支払いの領収書）は取引が完了した証拠にすぎませんが、the acceptance of the offer（申し出の承諾）は当事者が意志を持って同意したことを示します。動詞のニュアンスの違いが、名詞になっても保たれています。`,
+receive の名詞は receipt（領収書、受領）、accept の名詞は acceptance（受諾、承認）です。a receipt for the payment（支払いの領収書）は取引が完了した証拠にすぎませんが、the acceptance of the offer（申し出の承諾）は当事者が意志を持って同意したことを示します。動詞のニュアンスの違いが、名詞になっても保たれています。
+
+### よくある誤用
+
+⚠️ \`She received the job offer after thinking it over for a week.\`（誤・不自然）。意志を持って「受け入れる・承諾する」は **accept**。receive は単に届いたものを手にすることを表す語なので、熟考して承諾した決断を述べる文脈には弱すぎます。
+
+⚠️ \`I accepted a letter from my grandmother in the mail yesterday.\`（誤）。郵便で「届いたものを受け取る」は **receive**。accept は意志を持って受け入れることを表す語なので、単に手紙が届いた事実を述べる文脈には強すぎます。`,
     keyPoints: [
       'receive＝（届いたもの）を受け取る（受動的）',
       'accept＝（申し出・贈り物）を受け入れる・承諾する（意志的）',
@@ -14932,7 +14950,13 @@ give rise to ~（〜を引き起こす）は、rise を使いながら arise（�
 
 ### 名詞としての rise と、動詞 arise には無い用法
 
-rise は名詞としても頻繁に使われ、a rise in prices（物価の上昇）、get a rise（昇給を得る、英）、a pay rise（昇給、英）のように、上昇そのものを指す名詞になります。arise にはこうした名詞用法がなく、「問題や状況が生じること」自体を名詞で表したいときは an occurrence や the emergence of ~ のような別の語を使います。`,
+rise は名詞としても頻繁に使われ、a rise in prices（物価の上昇）、get a rise（昇給を得る、英）、a pay rise（昇給、英）のように、上昇そのものを指す名詞になります。arise にはこうした名詞用法がなく、「問題や状況が生じること」自体を名詞で表したいときは an occurrence や the emergence of ~ のような別の語を使います。
+
+### よくある誤用
+
+⚠️ \`Prices have arisen sharply over the past year due to inflation.\`（誤）。物価や数値が「上がる」は **rise**（rise-rose-risen）。arise は問題・状況が「生じる」ことを表す語なので、数値の上昇には使いません。
+
+⚠️ \`A serious problem rose during the meeting that nobody had expected.\`（誤）。問題・状況が「生じる」は **arise**（arise-arose-arisen）。rise は物・数値が物理的に上がることを表す語なので、問題の発生を表すことはできません。`,
     keyPoints: [
       'rise＝（物・数値が）上がる・のぼる（rise-rose-risen）',
       'arise＝（問題・状況が）生じる・起こる（arise-arose-arisen）',
@@ -16091,7 +16115,13 @@ adverse は adverse weather conditions（悪天候）、adverse effects（副作
 
 ### 覚え方の鍵は d を取り除くと「向き合わない」姿勢が残ること
 
-adverse から d を取り除くと averse になるという綴りの近さは偶然ではなく、どちらもラテン語 vertere（向きを変える）に由来する語族です。ad-（〜へ）+ vertere で「（不利に）向いた」状況を表す adverse、ab-（〜から離れて）+ vertere で「（嫌って）背を向ける」averse という、正反対の前置詞的接頭辞の違いが元になっています。`,
+adverse から d を取り除くと averse になるという綴りの近さは偶然ではなく、どちらもラテン語 vertere（向きを変える）に由来する語族です。ad-（〜へ）+ vertere で「（不利に）向いた」状況を表す adverse、ab-（〜から離れて）+ vertere で「（嫌って）背を向ける」averse という、正反対の前置詞的接頭辞の違いが元になっています。
+
+### よくある誤用
+
+⚠️ \`He is adverse to taking risks and always chooses the safest option.\`（誤）。人が「〜を嫌って・気が進まない」は **averse**（to）。adverse は物事・状況に使う語なので、人の気持ちを表すことはできません。
+
+⚠️ \`The medicine caused several averse reactions in some patients.\`（誤）。「不利な・好ましくない」状況や結果は **adverse**。averse は人の気持ちを表す語なので、薬の副作用のような客観的な結果には使いません。`,
     keyPoints: [
       'adverse＝不利な・好ましくない・逆の（物事・状況）',
       'averse＝（〜を）嫌って・気が進まない（人・averse to ~）',
