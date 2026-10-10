@@ -3295,7 +3295,13 @@ a bear market（弱気相場）は、株価が下落し続ける市場を指す�
 
 bear には bear responsibility（責任を負う）・bear in mind（心に留めておく）のような熟語も多く、「重さを支える」という中心義から「義務・記憶を抱える」という比喩へ広がっています。bare にはこうした抽象的な熟語は少なく、bare minimum（必要最低限）のように「削ぎ落として何も残っていない」状態を表す言い方が中心です。
 
-bare-bones（最低限の・骨組みだけの）という複合形容詞もよく使われ、a bare-bones budget（切り詰めた予算）のように、装飾や余裕を削ぎ落とした状態を表します。`,
+bare-bones（最低限の・骨組みだけの）という複合形容詞もよく使われ、a bare-bones budget（切り詰めた予算）のように、装飾や余裕を削ぎ落とした状態を表します。
+
+### よくある誤用
+
+⚠️ \`I cannot bare this noise any longer.\`（誤）。「耐える・我慢する」は **bear**。bare は「むき出しの」を表す語なので、耐える意味の動詞としては使いません。
+
+⚠️ \`She walked across the sand in her bear feet.\`（誤）。「裸の・むき出しの」は **bare**。bear はクマや「耐える」を表す語なので、feet を修飾する形容詞には使えません（bare feet）。`,
     keyPoints: [
       'bear と bare は同音 /beə(r)/',
       'bear＝クマ／耐える・支える・運ぶ（bear-bore-borne）',
@@ -4063,7 +4069,13 @@ quite good（まあまあ良い）のように、程度に幅のある形容詞�
 
 この違いは日本語の「かなり」だけでは訳しきれないので、修飾している形容詞が**段階的に変化しうる語か、それとも極端で二択の語か**を見て強さを判断する必要があります。
 
-quite a ~（なかなかの〜）という形もよく使われ、quite a surprise（かなりの驚き）・quite a task（なかなか大変な仕事）のように、a を挟んで名詞を強調します。quiet にはこうした「a + 名詞」を強める用法はありません。`,
+quite a ~（なかなかの〜）という形もよく使われ、quite a surprise（かなりの驚き）・quite a task（なかなか大変な仕事）のように、a を挟んで名詞を強調します。quiet にはこうした「a + 名詞」を強める用法はありません。
+
+### よくある誤用
+
+⚠️ \`The library was very quite, so I could study well.\`（誤）。「静かな」は **quiet**（2音節）。quite は「かなり」を表す副詞なので、名詞や状態を説明する形容詞の位置には使えません。
+
+⚠️ \`The soup is quiet hot, so be careful.\`（誤）。「かなり」と程度を強めるのは **quite**（1音節）。quiet は「静かな」を表す形容詞なので、hot を修飾する副詞としては使えません。`,
     keyPoints: [
       'quiet /ˈkwaɪət/＝形容詞「静かな」（2音節）',
       'quite /kwaɪt/＝副詞「かなり・まったく」（1音節）',
@@ -5075,7 +5087,13 @@ I'm through with this project.（このプロジェクトはもう終わった�
 
 thoroughfare（大通り・幹線道路）という単語は thorough と同じ語根から生まれており、「端から端まで通り抜けられる道」という意味です。through の「通り抜ける」という中心義が、thorough の側にもこうした形で痕跡を残しています。
 
-イギリス英語には a through train（直通列車）という言い方があり、乗り換えなしで通り抜けられる列車を指します。through がそのまま名詞の前に付く数少ない例で、thorough train という言い方は存在しません。`,
+イギリス英語には a through train（直通列車）という言い方があり、乗り換えなしで通り抜けられる列車を指します。through がそのまま名詞の前に付く数少ない例で、thorough train という言い方は存在しません。
+
+### よくある誤用
+
+⚠️ \`The police made a through search of the house.\`（誤）。名詞の前で「徹底的な」を表すのは **thorough**（o がふたつ）。through は前置詞・副詞で、名詞を修飾する形容詞としては基本的に使えません。
+
+⚠️ \`We drove thorough the tunnel to reach the city.\`（誤）。「〜を通って」は **through**。thorough は「徹底的な」を表す形容詞なので、前置詞の位置には使えません。`,
     keyPoints: [
       'through /θruː/＝前置詞「〜を通って・通じて」',
       'thorough /ˈθʌrə/＝形容詞「徹底的な・完全な」',
@@ -8719,7 +8737,13 @@ wait は古フランス語 waitier（見張る）に由来し、さらにゲル�
 
 ### weigh anchor という航海用語
 
-weight の動詞形 weigh には weigh anchor（錨を上げる・出航する）という航海用語があり、重い錨を「持ち上げる」という物理的な動作から、船旅の出発そのものを指す比喩に広がっている。`,
+weight の動詞形 weigh には weigh anchor（錨を上げる・出航する）という航海用語があり、重い錨を「持ち上げる」という物理的な動作から、船旅の出発そのものを指す比喩に広がっている。
+
+### よくある誤用
+
+⚠️ \`Please weight for me at the station.\`（誤）。「待つ」という動詞は **wait**。weight は名詞「重さ」を表す語なので、動詞として使えません（動詞「量る」は weigh）。
+
+⚠️ \`He has lost a lot of wait since last summer.\`（誤）。「体重・重さ」は **weight**。wait は動詞「待つ」を表す語なので、lost a lot of の後ろの名詞には使えません。`,
     keyPoints: [
       'wait と weight は同音 /weɪt/',
       'wait＝動詞「待つ」（wait for ~）。wait on/can\'t wait',
@@ -11562,7 +11586,13 @@ warn は見た目どおりの動詞で、warn-warned-warned と規則的に活�
 
 見分けたいときは、その文を wear に置き換えられるか試すのが早道です。These shoes are badly worn. は These shoes are badly worn out（履き古された）と同じ流れなので worn、Signs warn drivers of danger. は「危険を伝える」という別の動作なので warn、というように判断できます。
 
-ことわざ Forewarned is forearmed.（前もって知れば備えられる）の forewarned も、この warn に fore-（前もって）が付いた形です。`,
+ことわざ Forewarned is forearmed.（前もって知れば備えられる）の forewarned も、この warn に fore-（前もって）が付いた形です。
+
+### よくある誤用
+
+⚠️ \`The sign worn drivers about the icy road ahead.\`（誤）。「警告する」という動詞は **warn**（過去形は warned）。worn は wear の過去分詞なので、警告する動作は表せません。
+
+⚠️ \`My jacket is so warn that the elbows have holes.\`（誤）。「着古した・すり減った」は **worn**（wear の過去分詞）。warn は「警告する」という動詞なので、状態を表す文脈には合いません。`,
     keyPoints: [
       'warn と worn は同音 /wɔːrn/',
       'warn＝動詞「警告する」（warn 人 of/about ~）。a warning sign',
