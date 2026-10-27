@@ -1741,7 +1741,13 @@ historic には an historic moment という古い言い方が今も残ります
 
 作品のジャンルを表すときは historical のほうが定着しており、historical fiction（歴史小説）・historical drama（時代劇）のように「過去を舞台にした」という中立的な意味で使われます。historic fiction という言い方は一般的ではありません。
 
-アメリカには National Historic Landmark（国定歴史建造物）のような公式の指定制度があり、地名や施設名に historic がそのまま組み込まれます。この場合の historic は「政府が重要性を認めた」という制度的な重みを持っています。`,
+アメリカには National Historic Landmark（国定歴史建造物）のような公式の指定制度があり、地名や施設名に historic がそのまま組み込まれます。この場合の historic は「政府が重要性を認めた」という制度的な重みを持っています。
+
+### よくある誤用
+
+⚠️ \`Today's agreement is a historical achievement.\`（誤・不自然）。後世に残る重要さを言うなら **historic**。historical は「歴史に関する」という中立的な語で、重要性は含みません。
+
+⚠️ \`The museum keeps historic records of the town.\`（不自然）。重要かどうかを問わず「過去の記録・資料」を指すなら **historical** が自然です。historic だと「歴史的に重要な記録」の意味になります。`,
     keyPoints: [
       'historic＝歴史に残るほど重要な（記憶される出来事）',
       'historical＝歴史上の・過去の（重要かは問わない）',
@@ -2868,7 +2874,13 @@ Familiarity breeds contempt.（慣れ親しむと軽蔑を生む）という諺�
 
 bleed にも money bleeds away（お金がじわじわ失われる）のような比喩用法があり、bleed a company dry（会社の資金を吸い尽くす）のように、血が流れ出るイメージから「資源が漏れ出ていく」ことを表します。
 
-bleeding edge（最先端）という言い方もあり、cutting edge（最先端）よりさらにリスクの高い、実験段階の技術を指すときに使われます。breed にはこうした「最先端」を意味する熟語はありません。`,
+bleeding edge（最先端）という言い方もあり、cutting edge（最先端）よりさらにリスクの高い、実験段階の技術を指すときに使われます。breed にはこうした「最先端」を意味する熟語はありません。
+
+### よくある誤用
+
+⚠️ \`My finger is breeding.\`（誤）。「出血している」は **bleed**（My finger is bleeding.）。breed は「繁殖させる・品種」という語です。
+
+⚠️ \`This dog is a rare bleed.\`（誤）。「品種」は **breed**。bleed は「出血する」という動詞で、品種の意味はありません。`,
     keyPoints: [
       'breed /briːd/＝繁殖させる・品種（breed-bred-bred）',
       'bleed /bliːd/＝出血する（bleed-bled-bled）',
@@ -5267,7 +5279,13 @@ fortyish（40歳くらい）・reddish（赤みがかった）のように、-is
 
 同じ構図は womanly（女性らしい・上品な）／womanish（女々しい）、manly（男らしい）／mannish（男っぽい・無骨な）にも見られ、-ly が肯定、-ish が否定という組み合わせが child のペア以外にも存在します。
 
-くだけた会話では、大人が自分の趣味を Yeah, it's a bit childish, but I love it.（子どもっぽいけど好きなんだ）のように、childish を自嘲的に使って強い非難のニュアンスを和らげることもあります。`,
+くだけた会話では、大人が自分の趣味を Yeah, it's a bit childish, but I love it.（子どもっぽいけど好きなんだ）のように、childish を自嘲的に使って強い非難のニュアンスを和らげることもあります。
+
+### よくある誤用
+
+⚠️ \`Everyone loved her childish smile.\`（誤・不自然）ほめて「無邪気な」と言うなら **childlike**。childish は大人への非難を含む語で、ほめ言葉には向きません。
+
+⚠️ \`Stop being so childlike and grow up!\`（誤・不自然）「幼稚だ」と責める場面は **childish**。childlike は肯定的な語なので、叱る文には合いません。`,
     keyPoints: [
       'childish＝子どもっぽい・幼稚な（否定的）',
       'childlike＝子どものように純真な（肯定的）',
@@ -6377,7 +6395,13 @@ fourth を見ると four（4）が目に入るので、順番の話だとすぐ�
 
 見分けるコツは綴りの中の four を探すことに尽きます。**four の4文字がそのまま入っているかどうか**を見れば、fourth はすぐ見つかりますが forth には無いと分かります。put forth an idea（案を出す）のように forth が動詞のあとに付くときは、何かを前に押し出すイメージで使われています。
 
-third・fourth・fifth と序数を並べたとき、そこに forth が並ぶことはありません。forth は数列に属さない、方向・程度だけを表す副詞だからです。`,
+third・fourth・fifth と序数を並べたとき、そこに forth が並ぶことはありません。forth は数列に属さない、方向・程度だけを表す副詞だからです。
+
+### よくある誤用
+
+⚠️ \`She finished in forth place.\`（誤）。順位の「4番目」は **fourth**。forth は「前へ・外へ」を表す副詞で、数には使いません。
+
+⚠️ \`The pendulum swung back and fourth.\`（誤）。「行ったり来たり」は back and **forth**。fourth は「4番目」で、方向の意味はありません。`,
     keyPoints: [
       'forth と fourth は同音 /fɔːrθ/',
       'forth＝前へ・外へ（back and forth／and so forth）。put forth/henceforth',
@@ -6592,7 +6616,13 @@ breath と breathe のように、語尾に e が付くと th の発音が無声
 
 例外がひとつあり、「作品」を指すときの work は数えられます。a work of art、the complete works of Shakespeare がそれです。同じ綴りでも、労働を指すか作品を指すかで数え方が入れ替わります。
 
-複合語もこの線に沿います。雇用そのものを指す job security は job 側、動詞句の work out（運動する、うまくいく、解決する）は work 側で、後者は文脈ごとに訳が変わるため、出てきた場面ごとに意味を取る必要があります。`,
+複合語もこの線に沿います。雇用そのものを指す job security は job 側、動詞句の work out（運動する、うまくいく、解決する）は work 側で、後者は文脈ごとに訳が変わるため、出てきた場面ごとに意味を取る必要があります。
+
+### よくある誤用
+
+⚠️ \`I'm looking for a work at a trading company.\`（誤）。「職を探す」は look for **a job**（または a なしで look for work）。work は不可算名詞なので a は付けられません。
+
+⚠️ \`She has too many works to finish this week.\`（誤）。仕事の意味の work は複数形にできません。件数で数えたいときは **jobs** や tasks を使います。`,
     keyPoints: [
       'job＝可算「具体的な職・仕事」（a job／two jobs）。job security/odd jobs',
       'work＝不可算「労働・仕事一般」（a work は不可）。work out。例外：a work of art（可算）',
@@ -6974,7 +7004,13 @@ heel はプロレスの世界で「悪役レスラー」を指す俗語として
 
 ### write はもともと「刻む・引っかく」を意味した
 
-write は「引き裂く・引っかく」を意味するゲルマン祖語に由来し、古英語では rune wrítan（ルーン文字を彫る）のように「刻む・彫る」という意味で使われていた。ラテン語 scribere・ギリシャ語 graphein も同様に「刻む・切る」が原義で、初期の文字が硬い面に刻まれていた歴史が、印欧語族の「書く」を意味する語の多くに共通して残っている。`,
+write は「引き裂く・引っかく」を意味するゲルマン祖語に由来し、古英語では rune wrítan（ルーン文字を彫る）のように「刻む・彫る」という意味で使われていた。ラテン語 scribere・ギリシャ語 graphein も同様に「刻む・切る」が原義で、初期の文字が硬い面に刻まれていた歴史が、印欧語族の「書く」を意味する語の多くに共通して残っている。
+
+### よくある誤用
+
+⚠️ \`Please right your name on the paper.\`（誤）。「書く」は **write**。right は「右・正しい・権利」で、書く動作は表せません。
+
+⚠️ \`You have the write to remain silent.\`（誤）。「権利」は **right**。write は「書く」という動詞なので、権利の意味では使えません。`,
     keyPoints: [
       'right と write は同音 /raɪt/（w は無音）',
       'right＝右・正しい・権利（反対は left / wrong）。human rights/right away',
@@ -8610,7 +8646,13 @@ moral に e を一つ足すだけで、単語は個人の倫理から集団の�
 
 この切り替わりは発音にも表れています。moral は前寄りの MOR-al、morale は後ろに強勢が来る mo-RALE で、読み上げると別の単語だと体で分かります。日本語の「モラル」はこの2語のうち moral のほうを借りた言葉で、morale（士気）は別に「モラール」とカタカナで区別されることがあります。
 
-複数形にすると意味も動きます。moral は名詞では「教訓」、morals は「（個人の）道徳観・品行」を指し、She has strong morals. は士気ではなく倫理観の強さを述べています。`,
+複数形にすると意味も動きます。moral は名詞では「教訓」、morals は「（個人の）道徳観・品行」を指し、She has strong morals. は士気ではなく倫理観の強さを述べています。
+
+### よくある誤用
+
+⚠️ \`The team's moral was very low after the defeat.\`（誤）。「士気」は **morale**（e あり・後ろにアクセント）。moral は「道徳的な・教訓」で、集団のやる気は表せません。
+
+⚠️ \`The morale of the story is that honesty pays.\`（誤）。「教訓」は **moral**。morale は「士気」という別の語です。`,
     keyPoints: [
       'moral /ˈmɒrəl/＝道徳的な・教訓（前アクセント）。moral support/複数形morals（道徳観）',
       'morale /məˈræl/＝士気・やる気（後ろアクセント・e あり）。a morale booster',
@@ -10498,7 +10540,13 @@ in the past（昔は・かつては）は past が名詞として使われる代
 
 ### fair / fare の語源で判別を強化
 
-**fair 系**：慣用句 **fair play**（正々堂々のふるまい）、**fair share**（正当な取り分）は、fair の「公平な」という中心の意味そのものです。**fare の隠れた意味**：fare はもともと「旅する・やっていく」という意味の動詞で、その名残が **welfare**（幸福・福祉＝wel + fare「うまくやっていく」）や **farewell**（別れの言葉＝fare well「道中無事に」の意）に残っています。運賃の fare とは別の顔を持つ語だと知っておくと、fair と混同しにくくなります。`,
+**fair 系**：慣用句 **fair play**（正々堂々のふるまい）、**fair share**（正当な取り分）は、fair の「公平な」という中心の意味そのものです。**fare の隠れた意味**：fare はもともと「旅する・やっていく」という意味の動詞で、その名残が **welfare**（幸福・福祉＝wel + fare「うまくやっていく」）や **farewell**（別れの言葉＝fare well「道中無事に」の意）に残っています。運賃の fare とは別の顔を持つ語だと知っておくと、fair と混同しにくくなります。
+
+### よくある誤用
+
+⚠️ \`How much is the bus fair?\`（誤）。「運賃」は **fare**。fair は「公平な」などを表す語で、乗り物の料金には使えません。
+
+⚠️ \`The judge made a fare decision.\`（誤）。「公平な」は **fair**。fare は運賃・料金を表す名詞なので、判断を形容することはできません。`,
     keyPoints: [
       'fair と fare は同音 /fɛər/',
       'fair＝公平な・見本市・晴れの・色白の。fair play/fair share',
@@ -14151,7 +14199,13 @@ medal は語尾が -al で、metal（金属）・pedal（ペダル）・petal（
 
 meddle は語尾が -dle で、peddle（行商する）・paddle（漕ぐ・パドル）・saddle（鞍）と同じグループです。こちらは子音字を二つ重ねてから -le を付けるパターンで、meddle の dd もこの型どおりです。
 
-つまり medal を思い出すときは metal や pedal を、meddle を思い出すときは peddle や paddle を連想すれば、それぞれ別の語群の一員として自然に綴りが決まります。`,
+つまり medal を思い出すときは metal や pedal を、meddle を思い出すときは peddle や paddle を連想すれば、それぞれ別の語群の一員として自然に綴りが決まります。
+
+### よくある誤用
+
+⚠️ \`Please don't medal in their private matters.\`（誤）。「干渉する」は動詞 **meddle**（dd）。medal は「メダル」という名詞で、動詞としては使いません。
+
+⚠️ \`He won a silver meddle at the games.\`（誤）。「メダル」は **medal**。meddle は「干渉する」という動詞で、賞の名前には使えません。`,
     keyPoints: [
       'medal と meddle は同音 /ˈmɛdəl/',
       'medal＝メダル・勲章（名詞）。a medalist',
@@ -14871,7 +14925,13 @@ peddle の行為者を表す名詞は peddler（行商人）で、door-to-door p
 
 ### plum / plumb の慣用句で判別を強化
 
-**plum 系**：形容詞的に使う **a plum job**（誰もが欲しがる好条件の仕事）は、果実のすももが「甘い・上等な」というイメージから転じた表現です。**plumb 系**：名詞 **plumbing**（配管設備）、慣用句 **plumb the depths of** ~（〜のどん底を経験する・徹底的に探る）は、plumb の「深さを測る」という意味から広がった表現です。`,
+**plum 系**：形容詞的に使う **a plum job**（誰もが欲しがる好条件の仕事）は、果実のすももが「甘い・上等な」というイメージから転じた表現です。**plumb 系**：名詞 **plumbing**（配管設備）、慣用句 **plumb the depths of** ~（〜のどん底を経験する・徹底的に探る）は、plumb の「深さを測る」という意味から広がった表現です。
+
+### よくある誤用
+
+⚠️ \`I bought a bag of plumb at the market.\`（誤）。「すもも」は **plum**（b なし）。plumb は「鉛直の・測る」という語で、果物は指しません。
+
+⚠️ \`We called a plummer to fix the leaking pipe.\`（誤）。「配管工」は **plumber**。b は発音しませんが綴りには必要で、b を落として m を重ねた plummer という語はありません。`,
     keyPoints: [
       'plum と plumb は同音 /plʌm/（plumb の b は無音）',
       'plum＝プラム・すもも（果実）。a plum job（好条件の仕事）',
