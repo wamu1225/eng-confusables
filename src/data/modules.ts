@@ -4389,7 +4389,13 @@ peace はラテン語 pax（平和・協定）に由来し、pacify（なだめ�
 
 ### piece はケルト語由来の珍しい語
 
-piece は古フランス語 piece、俗ラテン語 *pettia を経て、ガリア語（古代ケルト語の一系統）の語根に遡るとされる。フランス語経由で英語に入った語の多くがラテン語源であるのに対し、piece はケルト語系の基層語という珍しい経路をたどっている。`,
+piece は古フランス語 piece、俗ラテン語 *pettia を経て、ガリア語（古代ケルト語の一系統）の語根に遡るとされる。フランス語経由で英語に入った語の多くがラテン語源であるのに対し、piece はケルト語系の基層語という珍しい経路をたどっている。
+
+### よくある誤用
+
+⚠️ \`Would you like a peace of cake?\`（誤）。「ひと切れ」は a **piece** of 〜。peace は「平和・平穏」で、数える単位にはなりません。
+
+⚠️ \`Everyone wants piece in the world.\`（誤）。「平和」は **peace**。piece は「一片・断片」で、世界平和の意味にはなりません。`,
     keyPoints: [
       'peace と piece は同音 /piːs/',
       'peace＝平和・平穏（反対は war）。make peace/peace of mind',
@@ -5550,7 +5556,13 @@ whether or not ~ という形も頻出で、whether or not it rains（雨が降�
 
 ### whether は「2つのうちどちら」を意味する印欧語族に広く残る疑問語
 
-whether は古英語 hwæðer（2つのうちどちらか）に由来し、ラテン語 uter・ギリシャ語 poteros・サンスクリット語 katarah など、印欧語族の多くの言語に同じ役割の同根語が見つかる。「2つの選択肢を尋ねる」という機能そのものが、非常に古い時代から言語に組み込まれていたことが分かる。`,
+whether は古英語 hwæðer（2つのうちどちらか）に由来し、ラテン語 uter・ギリシャ語 poteros・サンスクリット語 katarah など、印欧語族の多くの言語に同じ役割の同根語が見つかる。「2つの選択肢を尋ねる」という機能そのものが、非常に古い時代から言語に組み込まれていたことが分かる。
+
+### よくある誤用
+
+⚠️ \`I don't know weather he will come.\`（誤）。「〜かどうか」は **whether**。weather は「天気」で、if に近い働きはしません。
+
+⚠️ \`Whether is nice today.\`（誤）。「天気」は **weather**。主語に天気を置く文では weather と綴ります。なお \`weather or not\` という綴りも誤りで、正しくは **whether or not** です。`,
     keyPoints: [
       'weather /ˈweðər/＝名詞「天気・天候」',
       'whether /ˈweðər/＝接続詞「〜かどうか」（whether A or B）',
@@ -5703,7 +5715,13 @@ dairy は形容詞として dairy farm（酪農場）・dairy cattle（乳牛）
 
 ### diary は journey・journal と同じラテン語 dies に由来
 
-diary はラテン語 diarium（一日の記録）、さらに dies（日）に由来し、journal（日誌）・journey（元は「一日分の道のり」）と同じ語根を共有する。「日」を単位に記録し、移動し、区切るという発想が、複数の英単語に共通して残っている。`,
+diary はラテン語 diarium（一日の記録）、さらに dies（日）に由来し、journal（日誌）・journey（元は「一日分の道のり」）と同じ語根を共有する。「日」を単位に記録し、移動し、区切るという発想が、複数の英単語に共通して残っている。
+
+### よくある誤用
+
+⚠️ \`I'm allergic to diary products.\`（誤）。「乳製品」は **dairy**。diary は「日記・予定帳」で、乳製品の意味はありません。
+
+⚠️ \`She keeps a dairy and writes in it every night.\`（誤）。「日記」は **diary**。dairy は酪農・乳製品の語なので、書き留める話には使えません。`,
     keyPoints: [
       'diary /ˈdaɪəri/＝日記（day の記録）',
       'dairy /ˈdɛəri/＝乳製品・酪農',
@@ -6395,7 +6413,13 @@ there は here（ここ）・where（どこ）と同じ古英語の指示語の�
 
 ### they're のアポストロフィが示す省略の位置
 
-they're のアポストロフィは、they are の a が省略された位置を示す記号であり、can't（cannot）や don't（do not）と同じ「文字が消えた場所に打つ」という一貫したルールに従っている。their や there にアポストロフィが付かないのは、そもそも2語の短縮ではなく単独の語だからである。`,
+they're のアポストロフィは、they are の a が省略された位置を示す記号であり、can't（cannot）や don't（do not）と同じ「文字が消えた場所に打つ」という一貫したルールに従っている。their や there にアポストロフィが付かないのは、そもそも2語の短縮ではなく単独の語だからである。
+
+### よくある誤用
+
+⚠️ \`Their going to be late.\`（誤）。主語と動詞の働きをする「彼らは〜だ」は **They're**（They are の短縮形）。Their は「彼らの」で、名詞の前にしか置けません。
+
+⚠️ \`I left my keys over their.\`（誤）。場所を示す「そこに」は **there**。また \`There car is red.\` も誤りで、持ち主を表すなら **Their** car です。`,
     keyPoints: [
       'their＝彼らの（所有・うしろに名詞）',
       'there＝そこに（場所・there is/are）',
@@ -7718,7 +7742,13 @@ steel は古英語 style に由来し、ドイツ語 Stahl と同根のゲルマ
 
 ### nerves of steel という成句
 
-nerves of steel（鋼の神経・不屈の精神力）は、19世紀末にスポーツの世界で使われ始めたとされる成句で、圧力がかかる場面でも冷静さを失わない胆力を指す。鋼のように曲がらず壊れない強さのイメージが、精神的な強靭さの比喩に転用されている。`,
+nerves of steel（鋼の神経・不屈の精神力）は、19世紀末にスポーツの世界で使われ始めたとされる成句で、圧力がかかる場面でも冷静さを失わない胆力を指す。鋼のように曲がらず壊れない強さのイメージが、精神的な強靭さの比喩に転用されている。
+
+### よくある誤用
+
+⚠️ \`The thief tried to steel my bag.\`（誤）。「盗む」は動詞の **steal**（steal – stole – stolen）。steel は「鋼鉄」という名詞です。
+
+⚠️ \`The bridge is made of steal.\`（誤）。「鋼鉄」は **steel**。steal は動詞なので、made of のあとの名詞の位置には置けません。`,
     keyPoints: [
       'steal と steel は同音 /stiːl/',
       'steal＝動詞「盗む」（steal-stole-stolen）。steal the show/steal a glance',
@@ -14626,7 +14656,13 @@ steak は古ノルド語 steik（あぶり肉）、動詞 steikja（串に刺し
 
 ### stakeholder はもともと賭け金を預かる人を指した
 
-stakeholder は1700年代初頭、賭けの当事者双方から賭け金（stake）を預かって保管する第三者を指す語として生まれた。「利害関係者」という現代のビジネス用語としての意味は1960年代以降に定着したもので、原義の「賭け金を持つ人」からは大きく意味が広がっている。`,
+stakeholder は1700年代初頭、賭けの当事者双方から賭け金（stake）を預かって保管する第三者を指す語として生まれた。「利害関係者」という現代のビジネス用語としての意味は1960年代以降に定着したもので、原義の「賭け金を持つ人」からは大きく意味が広がっている。
+
+### よくある誤用
+
+⚠️ \`I ordered a stake and fries.\`（誤）。レストランの「ステーキ」は **steak**。stake は「杭」や「賭け金」の意味です。
+
+⚠️ \`He drove a steak into the ground to mark the spot.\`（誤）。地面に打つ「杭」は **stake**。steak は食べる肉で、同じ発音でも意味は別物です。`,
     keyPoints: [
       'stake と steak は同音 /steɪk/',
       'stake＝杭／賭け金／利害（at stake＝危機にさらされて）。stakeholder/raise the stakes',
@@ -15860,7 +15896,13 @@ biannual は「年2回」の意味で広く使われますが、辞書によっ�
 
 ### bi- を含む紛らわしい期間の語群
 
-bi- は「2」を表す接頭辞ですが、biweekly（隔週または週2回）、bimonthly（隔月または月2回）も biannual と同じ曖昧さを抱えています。文脈や a biweekly magazine（隔週刊行の雑誌）のような具体例で判断するのが実務的な対処法で、正確に伝えたい場面では every two weeks（2週間ごとに）のように数字を明示する言い方が好まれます。`,
+bi- は「2」を表す接頭辞ですが、biweekly（隔週または週2回）、bimonthly（隔月または月2回）も biannual と同じ曖昧さを抱えています。文脈や a biweekly magazine（隔週刊行の雑誌）のような具体例で判断するのが実務的な対処法で、正確に伝えたい場面では every two weeks（2週間ごとに）のように数字を明示する言い方が好まれます。
+
+### よくある誤用
+
+⚠️ \`Our company publishes a biennial report in June and December.\`（誤）。6月と12月の年2回なら **biannual**（または semiannual）。biennial は「2年に1回」です。
+
+⚠️ \`The prize is biannual, so the next winner will be chosen in two years.\`（誤解のもと）。「2年に1回」を言うなら **biennial**。biannual は辞書によって解釈が割れるため、誤解を避けるなら twice a year や every two years と書くのが確実です。`,
     keyPoints: [
       'biannual＝年に2回・半年ごと（＝semiannual）',
       'biennial＝2年に1回・2年ごと',
@@ -16254,7 +16296,13 @@ allusion はもとの動詞 allude to（〜にそれとなく触れる）から�
 
 ### illusion はエンタメから錯視科学まで使われる幅が広い
 
-illusion は magic trick（手品）のようなエンターテインメントの文脈にも、an optical illusion（目の錯覚）のような視覚科学の文脈にも使われる語です。an illusion of choice（選んでいるように見せかけた実は無い選択肢）のように、心理的な思い込みを指す比喩表現にも広がっており、allusion の「間接的な言及」という一点に絞られた用法とは対照的です。`,
+illusion は magic trick（手品）のようなエンターテインメントの文脈にも、an optical illusion（目の錯覚）のような視覚科学の文脈にも使われる語です。an illusion of choice（選んでいるように見せかけた実は無い選択肢）のように、心理的な思い込みを指す比喩表現にも広がっており、allusion の「間接的な言及」という一点に絞られた用法とは対照的です。
+
+### よくある誤用
+
+⚠️ \`The magician created an allusion of floating.\`（誤）。目の錯覚を作るのは **illusion**（an illusion of floating）。allusion は「言及」で、錯覚の意味はありません。
+
+⚠️ \`The novel's illusion to Hamlet is easy to miss.\`（誤）。「〜へのそれとない言及」は **allusion to** 〜。illusion to という形は成り立ちません。`,
     keyPoints: [
       'allusion＝それとない言及・ほのめかし（allude の名詞）',
       'illusion＝錯覚・幻想・思い違い',
@@ -16327,7 +16375,13 @@ illegible は legible（読める・判読できる）に否定の il-（in- が
 
 ### 医師の悪筆というジョークが定番の連想材料になっている
 
-英語圏では「医師の処方箋の字が illegible で薬剤師が読めない」という定番のジョークがあり、illegible の実例として頻繁に引き合いに出されます。The doctor's handwriting was illegible.（医師の字は判読できなかった）のような文は、eligible（資格）と混同しやすい illegible（読めない）を、具体的な情景とセットで記憶に定着させるのに役立ちます。`,
+英語圏では「医師の処方箋の字が illegible で薬剤師が読めない」という定番のジョークがあり、illegible の実例として頻繁に引き合いに出されます。The doctor's handwriting was illegible.（医師の字は判読できなかった）のような文は、eligible（資格）と混同しやすい illegible（読めない）を、具体的な情景とセットで記憶に定着させるのに役立ちます。
+
+### よくある誤用
+
+⚠️ \`I couldn't read the note because it was eligible.\`（誤）。「読めない」は **illegible**。eligible は「資格がある」で、字の読みやすさとは関係しません。
+
+⚠️ \`Only members are illegible for the discount.\`（誤）。「資格がある」は **eligible for** 〜。illegible は「判読できない」なので、割引の対象を述べる文には合いません。`,
     keyPoints: [
       'eligible＝（〜の）資格がある・適格な（eligible for/to do）',
       'illegible＝判読できない・読めない（il-＋legible、反対 legible）',
@@ -16866,7 +16920,13 @@ perspective は美術用語としては線遠近法（linear perspective）を�
 
 ### prospective と retrospective は向きが逆の対の語
 
-医学・研究の分野では、prospective study（前向き研究＝対象を追跡しながら調査する）と retrospective study（後ろ向き研究＝過去のデータをさかのぼって調査する）が対で使われる。pro-（前へ）と retro-（後ろへ）という反対の接頭辞が、研究の時間軸の向きをそのまま表している。`,
+医学・研究の分野では、prospective study（前向き研究＝対象を追跡しながら調査する）と retrospective study（後ろ向き研究＝過去のデータをさかのぼって調査する）が対で使われる。pro-（前へ）と retro-（後ろへ）という反対の接頭辞が、研究の時間軸の向きをそのまま表している。
+
+### よくある誤用
+
+⚠️ \`She is a perspective student of our school.\`（誤）。名詞の前で「入学見込みの」と修飾するのは形容詞の **prospective**。perspective は名詞で、このように名詞を修飾できません。
+
+⚠️ \`Let me explain it from a child's prospective.\`（誤）。「〜の観点から」は **perspective**（from a child's perspective）。prospective は形容詞なので、前置詞のあとの名詞の位置には置けません。`,
     keyPoints: [
       'perspective＝名詞「観点・見方・遠近法」',
       'prospective＝形容詞「見込みの・将来の」（名詞は prospect）',
