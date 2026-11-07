@@ -306,8 +306,8 @@ function PairPage({ id, navigate }: { id: string; navigate: (r: Route) => void }
       </section>
 
       <nav className="pair-nav">
-        {prev ? <button className="btn" onClick={() => navigate({ view: 'pair', id: prev.id })}>← {prev.title}</button> : <span />}
-        {next ? <button className="btn btn-primary" onClick={() => navigate({ view: 'pair', id: next.id })}>{next.title} →</button> : <button className="btn" onClick={() => navigate({ view: 'home' })}>一覧へ戻る</button>}
+        {prev ? <a className="btn" href={hrefFor({ view: 'pair', id: prev.id })} onClick={(e) => { e.preventDefault(); navigate({ view: 'pair', id: prev.id }); }}>← {prev.title}</a> : <span />}
+        {next ? <a className="btn btn-primary" href={hrefFor({ view: 'pair', id: next.id })} onClick={(e) => { e.preventDefault(); navigate({ view: 'pair', id: next.id }); }}>{next.title} →</a> : <a className="btn" href={hrefFor({ view: 'home' })} onClick={(e) => { e.preventDefault(); navigate({ view: 'home' }); }}>一覧へ戻る</a>}
       </nav>
     </article>
   );
@@ -356,7 +356,7 @@ function HubPage({ id, navigate }: { id: string; navigate: (r: Route) => void })
       </section>
 
       <nav className="pair-nav">
-        <button className="btn" onClick={() => navigate({ view: 'home' })}>一覧へ戻る</button>
+        <a className="btn" href={hrefFor({ view: 'home' })} onClick={(e) => { e.preventDefault(); navigate({ view: 'home' }); }}>一覧へ戻る</a>
       </nav>
     </article>
   );
