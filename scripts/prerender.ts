@@ -4,6 +4,7 @@
 // 実行: npx tsx scripts/prerender.ts（npm run predeploy 内）
 import * as fs from 'fs';
 import * as path from 'path';
+import { execSync } from 'child_process';
 import { modules } from '../src/data/modules';
 import { chapterNames } from '../src/data/chapters';
 import { hubs } from '../src/data/hubs';
@@ -260,20 +261,50 @@ writePage('privacy', `プライバシーポリシー | ${SITE_NAME}`, 'まぎら
   { '@context': 'https://schema.org', '@type': 'WebPage', name: 'プライバシーポリシー', url: `${BASE_URL}/privacy/`, inLanguage: 'ja' });
 
 // ── sitemap.xml ──
-// ⚠️ ビルド時の日付を使う（2026-08-28 修正）。以前はここが公開日の固定文字列で、
-// サイトを毎日更新しても sitemap の lastmod が 2026-06-15 のまま3か月動かず、
-// Google に「更新されていないサイト」と申告し続けていた。_pipeline/incidents.md 2026-08-28
+// lastmod は各ページの中身が最後に変わった日（2026-11-07 監督）。以前はビルドした日を全 URL に入れていて、
+// 418 URL が毎回そろって「今日」になり、Google に どのページが変わったかが伝わらなかった。
+// ペアのページは modules.ts のそのペアの行を git blame して、いちばん新しいコミットの日。git が使えなければ今日に戻す
 const today = new Date().toISOString().split('T')[0];
+const dayOf = (t: number) => new Date(t * 1000).toISOString().split('T')[0];
+function blameDates(file: string): number[] | null {
+  try {
+    const out = execSync(`git blame --line-porcelain ${file}`, { maxBuffer: 1 << 28, stdio: ['ignore', 'pipe', 'ignore'] }).toString().split('\n');
+    const times: number[] = []; let cur = 0;
+    for (const l of out) { if (l.startsWith('committer-time ')) cur = Number(l.slice(15)); else if (l.startsWith('\t')) times.push(cur); }
+    return times;
+  } catch { return null; }
+}
+function lastCommitDay(file: string): string {
+  try { return execSync(`git log -1 --format=%cs -- ${file}`, { stdio: ['ignore', 'pipe', 'ignore'] }).toString().trim() || today; } catch { return today; }
+}
+const moduleDay = new Map<string, string>();
+{
+  const src = fs.readFileSync(path.resolve(process.cwd(), 'src/data/modules.ts'), 'utf8').split('\n');
+  const times = blameDates('src/data/modules.ts');
+  if (times && times.length >= src.length - 1) {
+    const starts = modules.map((m) => src.findIndex((l) => l.startsWith(`    id: '${m.id}',`)));
+    modules.forEach((m, k) => {
+      const a = starts[k], b = starts.slice(k + 1).find((x) => x > a) ?? src.length;
+      if (a < 0) return;
+      const t = Math.max(...times.slice(a, b));
+      if (t > 0) moduleDay.set(m.id, dayOf(t));
+    });
+  }
+}
+const pairDays = [...moduleDay.values()].sort();
+const newest = pairDays[pairDays.length - 1] ?? today;
+const hubDay = lastCommitDay('src/data/hubs.ts');
+const staticDay = lastCommitDay('scripts/prerender.ts');
 const urls = [
-  { loc: `${BASE_URL}/`, priority: '1.0', changefreq: 'weekly' },
-  ...modules.map((m) => ({ loc: `${BASE_URL}/${m.id}/`, priority: '0.8', changefreq: 'monthly' })),
-  ...hubs.map((h) => ({ loc: `${BASE_URL}/${hubSlug(h.verb)}/`, priority: '0.7', changefreq: 'weekly' })),
-  { loc: `${BASE_URL}/about/`, priority: '0.4', changefreq: 'yearly' },
-  { loc: `${BASE_URL}/privacy/`, priority: '0.3', changefreq: 'yearly' },
+  { loc: `${BASE_URL}/`, priority: '1.0', changefreq: 'weekly', lastmod: newest },
+  ...modules.map((m) => ({ loc: `${BASE_URL}/${m.id}/`, priority: '0.8', changefreq: 'monthly', lastmod: moduleDay.get(m.id) ?? today })),
+  ...hubs.map((h) => ({ loc: `${BASE_URL}/${hubSlug(h.verb)}/`, priority: '0.7', changefreq: 'weekly', lastmod: hubDay })),
+  { loc: `${BASE_URL}/about/`, priority: '0.4', changefreq: 'yearly', lastmod: staticDay },
+  { loc: `${BASE_URL}/privacy/`, priority: '0.3', changefreq: 'yearly', lastmod: staticDay },
 ];
 const sitemap = `<?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-${urls.map((u) => `  <url><loc>${u.loc}</loc><lastmod>${today}</lastmod><changefreq>${u.changefreq}</changefreq><priority>${u.priority}</priority></url>`).join('\n')}
+${urls.map((u) => `  <url><loc>${u.loc}</loc><lastmod>${u.lastmod}</lastmod><changefreq>${u.changefreq}</changefreq><priority>${u.priority}</priority></url>`).join('\n')}
 </urlset>`;
 fs.writeFileSync(path.join(DIST_DIR, 'sitemap.xml'), sitemap);
 
