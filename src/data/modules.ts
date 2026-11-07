@@ -3071,7 +3071,13 @@ glow はゲルマン祖語 *glo-（輝く）に由来し、さらに印欧祖語
 
 ### grow on someoneという句動詞
 
-grow には grow on someone（次第に人に好かれるようになる）という句動詞があり、最初はピンとこなかったものが少しずつ気に入られていく過程を、植物がじわじわ根を張るイメージで表している。grow の「じわじわ育つ」という中心義がそのまま生きた比喩。`,
+grow には grow on someone（次第に人に好かれるようになる）という句動詞があり、最初はピンとこなかったものが少しずつ気に入られていく過程を、植物がじわじわ根を張るイメージで表している。grow の「じわじわ育つ」という中心義がそのまま生きた比喩。
+
+### よくある誤用
+
+⚠️ \`The embers still grow in the dark.\`（誤）。「赤く光る」は **glow**。grow は「育つ・増える」で、光の意味はありません。
+
+⚠️ \`Tomatoes glow best in warm weather.\`（誤）。「育つ」は **grow**。glow は「輝く」で、植物の成長を表せません。`,
     keyPoints: [
       'grow /ɡroʊ/＝成長する・育つ・増える（grow-grew-grown）。grow up/outgrow',
       'glow /ɡloʊ/＝輝く・赤熱する。形容詞aglow',
@@ -3766,7 +3772,13 @@ raw には in the raw（生のままの・ありのままの）という成句�
 
 ### raw は crude・cruel と同じ印欧祖語の語根を持つ
 
-raw は印欧祖語の語根 *kreue-（生の肉）に遡り、crude（未加工の・粗野な）・cruel（残酷な）と同じ語根を共有する。「生の肉・血」という原義から、「未加工」（raw・crude）と「血なまぐさい・冷酷な」（cruel）という2方向の意味が枝分かれした。`,
+raw は印欧祖語の語根 *kreue-（生の肉）に遡り、crude（未加工の・粗野な）・cruel（残酷な）と同じ語根を共有する。「生の肉・血」という原義から、「未加工」（raw・crude）と「血なまぐさい・冷酷な」（cruel）という2方向の意味が枝分かれした。
+
+### よくある誤用
+
+⚠️ \`This fish is served row.\`（誤）。「生の」は **raw**。row は「列」「漕ぐ」で、火を通していない状態は表せません。
+
+⚠️ \`We sat in the back raw.\`（誤）。「列」は **row**（in the back row）。raw は「生の」で、座席の列は表せません。`,
     keyPoints: [
       'raw /rɔː/＝生の・未加工の・未経験の。a raw deal/raw talent',
       'row /roʊ/＝（横の）列／（舟を）漕ぐ。in a row（連続して）',
@@ -4626,7 +4638,13 @@ week という7日周期の単位そのものは、古代バビロニアで知�
 
 ### weekendはもともとイングランド北部の方言だった
 
-weekend という語自体は17世紀にも記録が見られるが、「土曜の昼から月曜の朝まで」を指す語として一般化したのはイングランド北部の方言としてで、19世紀末になって初めて広く使われるようになった。産業化にともなう労働時間の変化が、週末という概念とその呼び名を定着させた。`,
+weekend という語自体は17世紀にも記録が見られるが、「土曜の昼から月曜の朝まで」を指す語として一般化したのはイングランド北部の方言としてで、19世紀末になって初めて広く使われるようになった。産業化にともなう労働時間の変化が、週末という概念とその呼び名を定着させた。
+
+### よくある誤用
+
+⚠️ \`See you next weak.\`（誤）。「来週」は next **week**。weak は「弱い」で、期間を表しません。
+
+⚠️ \`I feel week today.\`（誤）。「体に力が入らない」は **weak**。week は「週」で、体調を表す形容詞にはなりません。`,
     keyPoints: [
       'weak と week は同音 /wiːk/',
       'weak＝形容詞「弱い」（反対は strong）。weaken/weakness',
@@ -7199,7 +7217,13 @@ well-heeled（裕福な・金回りの良い）は19世紀末のアメリカで�
 
 ### heelには「見下げた人物」という俗語の意味もある
 
-heel はプロレスの世界で「悪役レスラー」を指す俗語としても使われ、そこから一般に「卑劣な人物・裏切り者」を指す口語表現としても定着している。かかとという体の一番低い部分のイメージが、人物評価の比喩に転用された。`,
+heel はプロレスの世界で「悪役レスラー」を指す俗語としても使われ、そこから一般に「卑劣な人物・裏切り者」を指す口語表現としても定着している。かかとという体の一番低い部分のイメージが、人物評価の比喩に転用された。
+
+### よくある誤用
+
+⚠️ \`The cut will heel in a few days.\`（誤）。「傷が治る」は **heal**。heel は「かかと」で、治癒の意味はありません。
+
+⚠️ \`I got a blister on my heal.\`（誤）。「かかと」は **heel**。heal は「治す・癒える」という動詞で、体の部位は表せません。`,
     keyPoints: [
       'heal と heel は同音 /hiːl/',
       'heal＝動詞「治す・癒える」（health の仲間）。healing/healer',
@@ -8534,7 +8558,13 @@ pray はラテン語 precari（懇願する）に由来し、precarious（不安
 
 ### prey は predator（捕食者）と同じラテン語根
 
-prey はラテン語 praeda（戦利品・獲物）に由来し、predator（捕食者）・depredation（略奪）と同じ語根を共有する。「奪い取られたもの」という原義が、動物界の「捕食される側」を指す現代の意味にそのまま受け継がれている。`,
+prey はラテン語 praeda（戦利品・獲物）に由来し、predator（捕食者）・depredation（略奪）と同じ語根を共有する。「奪い取られたもの」という原義が、動物界の「捕食される側」を指す現代の意味にそのまま受け継がれている。
+
+### よくある誤用
+
+⚠️ \`Let's prey for his recovery.\`（誤）。「祈る」は **pray**（pray for 〜）。prey は「獲物」で、祈りの意味はありません。
+
+⚠️ \`The owl pray on small mice at night.\`（誤）。「〜を捕食する」は **prey** on 〜。pray は「祈る」なので、動物が獲物を狙う文では綴りを prey にします（三単現なら preys）。`,
     keyPoints: [
       'pray と prey は同音 /preɪ/',
       'pray＝動詞「祈る」（名詞形はprayer＝祈り）',
@@ -12442,7 +12472,13 @@ maid は maiden（未婚の若い女性）が短縮してできた語で、も�
 
 ### make と manufacture は同じ「作る」でも語源が別
 
-make は古英語 macian に由来するゲルマン語源の語で、ラテン語 manus（手）+ facere（作る）に由来する manufacture（製造する）とは語源が異なる。日常語の make とかたい語感の manufacture・fabricate・construct はどれも「作る」を意味するが、ゲルマン語源かラテン語源かで文体の硬さが変わるという英語特有の二重語彙構造の一例になっている。`,
+make は古英語 macian に由来するゲルマン語源の語で、ラテン語 manus（手）+ facere（作る）に由来する manufacture（製造する）とは語源が異なる。日常語の make とかたい語感の manufacture・fabricate・construct はどれも「作る」を意味するが、ゲルマン語源かラテン語源かで文体の硬さが変わるという英語特有の二重語彙構造の一例になっている。
+
+### よくある誤用
+
+⚠️ \`This table is maid of oak.\`（誤）。「〜でできている」は be **made** of 〜。maid は「メイド」で、素材を述べる文には使えません。
+
+⚠️ \`They hired a made to clean the house.\`（誤）。「メイド・お手伝い」は **maid**。made は make の過去形・過去分詞で、人を指す名詞にはなりません。`,
     keyPoints: [
       'made と maid は同音 /meɪd/',
       'made＝make の過去「作った」（be made of ~）。homemade/man-made',
@@ -13498,7 +13534,13 @@ injure はラテン語 in-（否定）+ jus（正しいこと・法）に由来�
 
 ### hurt は「衝突する」を意味する古フランス語が語源
 
-hurt は古フランス語 hurter（ぶつかる・突き当たる、現代フランス語では heurter）に由来し、さらに遡るとフランク語で「雄羊」を意味する語につながる。頭突きするように「ぶつかる」という物理的な衝撃のイメージが、「（心身を）傷つける」という現代の意味の土台にある。`,
+hurt は古フランス語 hurter（ぶつかる・突き当たる、現代フランス語では heurter）に由来し、さらに遡るとフランク語で「雄羊」を意味する語につながる。頭突きするように「ぶつかる」という物理的な衝撃のイメージが、「（心身を）傷つける」という現代の意味の土台にある。
+
+### よくある誤用
+
+⚠️ \`I wounded my knee while jogging.\`（誤）。運動中の故障を言うなら **hurt**（または injure）my knee。wound は武器・刃物などで傷を負わせる場面に使う語で、ジョギング中の痛めには使いません。
+
+⚠️ \`He was injure in the crash.\`（誤）。受け身は **injured**（be injured）。injure は原形なので、過去分詞にしないと「負傷した」の意味になりません。`,
     keyPoints: [
       'hurt＝一般的に痛める・傷つける（体も心も・hurt-hurt-hurt）',
       'injure＝事故・競技で負傷させる（injury）',
@@ -13880,7 +13922,13 @@ vein は血管だけでなく、a vein of gold（金の鉱脈）のように地�
 
 ### vane は weathervane 以外に機械部品も指す
 
-vane は風見鶏（weather vane）だけでなく、風力や水力を受けて回転する羽根板全般を指し、風車のブレードやタービンの羽根も vane と呼ばれる。「風や流れを受けて向きや回転を生む板状の部品」という工学的な意味が、日常語の風見鶏の用法の背後にある。`,
+vane は風見鶏（weather vane）だけでなく、風力や水力を受けて回転する羽根板全般を指し、風車のブレードやタービンの羽根も vane と呼ばれる。「風や流れを受けて向きや回転を生む板状の部品」という工学的な意味が、日常語の風見鶏の用法の背後にある。
+
+### よくある誤用
+
+⚠️ \`The nurse found a vain in his arm.\`（誤）。「静脈」は **vein**。vain は「うぬぼれた・むだな」で、血管の意味はありません。
+
+⚠️ \`Our efforts were in vein.\`（誤）。「むだに」は in **vain**。vein は血管・筋のことで、成句の綴りは入れ替えられません。`,
     keyPoints: [
       'vain・vein・vane は同音 /veɪn/',
       'vain＝うぬぼれた・むだな（in vain＝むだに）',
@@ -16691,7 +16739,13 @@ muscle はラテン語 musculus（小さなネズミ、mus「ネズミ」の指�
 
 ### mussel も同じ musculus に由来する
 
-ムール貝を意味する mussel も、同じラテン語 musculus に由来する語である。貝の形がやはり小さなネズミを思わせたためとされ、筋肉とムール貝という一見無関係な2つの語が、まったく同じ語源から枝分かれしたという珍しい例になっている。`,
+ムール貝を意味する mussel も、同じラテン語 musculus に由来する語である。貝の形がやはり小さなネズミを思わせたためとされ、筋肉とムール貝という一見無関係な2つの語が、まったく同じ語源から枝分かれしたという珍しい例になっている。
+
+### よくある誤用
+
+⚠️ \`I strained a mussel in my leg.\`（誤）。「筋肉」は **muscle**。mussel は貝で、体の部位を表せません。
+
+⚠️ \`We ordered a plate of muscles.\`（誤）。「ムール貝」は **mussels**。muscle は筋肉で、料理名には使えません。`,
     keyPoints: [
       'muscle と mussel は同音 /ˈmʌsl/',
       'muscle＝筋肉（c あり・muscular）。muscle in/flex one\'s muscles',
@@ -17662,7 +17716,13 @@ stare down（にらみ合いで相手をひるませる）は、2人が視線を
 
 ### stairs と steps の使い分け
 
-stair は建物内部の階段一式（複数形 stairs）を指すのに対し、屋外や一段だけの段差には steps（step の複数形）が好まれます。the front steps（玄関前の階段）、the stairs to the second floor（2階への階段）のように、屋内外や規模の大きさで stairs と steps の使用に傾向差があります。stair は建物に組み込まれた構造物、step は個々の踏み段そのものを指すというのが原義の違いです。`,
+stair は建物内部の階段一式（複数形 stairs）を指すのに対し、屋外や一段だけの段差には steps（step の複数形）が好まれます。the front steps（玄関前の階段）、the stairs to the second floor（2階への階段）のように、屋内外や規模の大きさで stairs と steps の使用に傾向差があります。stair は建物に組み込まれた構造物、step は個々の踏み段そのものを指すというのが原義の違いです。
+
+### よくある誤用
+
+⚠️ \`He stairs at the screen all day.\`（誤）。「じっと見つめる」は動詞の **stare**（stare at 〜）。stair は名詞なので、動詞としては使えません。
+
+⚠️ \`Watch your step on the stares.\`（誤）。「階段」は **stairs**。stare は動詞「見つめる」で、階段の意味はありません。`,
     keyPoints: [
       'stair と stare は同音 /ster/',
       'stair＝階段（ふつう複数形 stairs）',
