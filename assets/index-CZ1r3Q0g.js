@@ -1088,7 +1088,13 @@ glow はゲルマン祖語 *glo-（輝く）に由来し、さらに印欧祖語
 
 ### grow on someoneという句動詞
 
-grow には grow on someone（次第に人に好かれるようになる）という句動詞があり、最初はピンとこなかったものが少しずつ気に入られていく過程を、植物がじわじわ根を張るイメージで表している。grow の「じわじわ育つ」という中心義がそのまま生きた比喩。`,keyPoints:[`grow /ɡroʊ/＝成長する・育つ・増える（grow-grew-grown）。grow up/outgrow`,`glow /ɡloʊ/＝輝く・赤熱する。形容詞aglow`,`g の直後が /r/ か /l/ か`],quiz:[{id:`q-grow-1`,question:`「（火や金属が）赤く光る・輝く」という意味の語はどれですか。`,options:[`grow`,`grew`,`gloom`,`glow`],correctAnswer:3,explanation:`glow /ɡloʊ/ が「輝く・赤熱する」。grow は「成長する」です。`},{id:`q-grow-2`,question:`空所に入る適切な語はどれですか。「Children ( ) quickly.（子どもは早く成長する）」`,options:[`glow`,`grow`,`glew`,`gloom`],correctAnswer:1,explanation:`「成長する」は grow（/r/）。`},{id:`q-grow-3`,question:`grow と glow を分けている音の違いはどれですか。`,options:[`母音の違い`,`語尾の違い`,`アクセント`,`子音 /r/ と /l/`],correctAnswer:3,explanation:`grow は /r/、glow は /l/ の対立です。`},{id:`q-grow-4`,question:`grow の過去形はどれですか。`,options:[`growed`,`grew`,`grown`,`glew`],correctAnswer:1,explanation:`grow-grew-grown。過去形は grew です。`},{id:`q-grow-5`,question:`空所に入る適切な語はどれですか。「Her face began to ( ) with happiness.（彼女の顔は幸せで輝き始めた）」`,options:[`grow`,`grew`,`grown`,`glow`],correctAnswer:3,explanation:`「輝く」は glow。比喩的に「（感情で）顔が輝く」にも使います。`}]},{id:`flow-flaw`,title:`flow と flaw`,chapter:4,description:`母音 /oʊ/ と /ɔː/ の違い。flow /floʊ/「流れる」、flaw /flɔː/「欠点・きず」。`,content:`## 音のちがいで見分ける
+grow には grow on someone（次第に人に好かれるようになる）という句動詞があり、最初はピンとこなかったものが少しずつ気に入られていく過程を、植物がじわじわ根を張るイメージで表している。grow の「じわじわ育つ」という中心義がそのまま生きた比喩。
+
+### よくある誤用
+
+⚠️ \`The embers still grow in the dark.\`（誤）。「赤く光る」は **glow**。grow は「育つ・増える」で、光の意味はありません。
+
+⚠️ \`Tomatoes glow best in warm weather.\`（誤）。「育つ」は **grow**。glow は「輝く」で、植物の成長を表せません。`,keyPoints:[`grow /ɡroʊ/＝成長する・育つ・増える（grow-grew-grown）。grow up/outgrow`,`glow /ɡloʊ/＝輝く・赤熱する。形容詞aglow`,`g の直後が /r/ か /l/ か`],quiz:[{id:`q-grow-1`,question:`「（火や金属が）赤く光る・輝く」という意味の語はどれですか。`,options:[`grow`,`grew`,`gloom`,`glow`],correctAnswer:3,explanation:`glow /ɡloʊ/ が「輝く・赤熱する」。grow は「成長する」です。`},{id:`q-grow-2`,question:`空所に入る適切な語はどれですか。「Children ( ) quickly.（子どもは早く成長する）」`,options:[`glow`,`grow`,`glew`,`gloom`],correctAnswer:1,explanation:`「成長する」は grow（/r/）。`},{id:`q-grow-3`,question:`grow と glow を分けている音の違いはどれですか。`,options:[`母音の違い`,`語尾の違い`,`アクセント`,`子音 /r/ と /l/`],correctAnswer:3,explanation:`grow は /r/、glow は /l/ の対立です。`},{id:`q-grow-4`,question:`grow の過去形はどれですか。`,options:[`growed`,`grew`,`grown`,`glew`],correctAnswer:1,explanation:`grow-grew-grown。過去形は grew です。`},{id:`q-grow-5`,question:`空所に入る適切な語はどれですか。「Her face began to ( ) with happiness.（彼女の顔は幸せで輝き始めた）」`,options:[`grow`,`grew`,`grown`,`glow`],correctAnswer:3,explanation:`「輝く」は glow。比喩的に「（感情で）顔が輝く」にも使います。`}]},{id:`flow-flaw`,title:`flow と flaw`,chapter:4,description:`母音 /oʊ/ と /ɔː/ の違い。flow /floʊ/「流れる」、flaw /flɔː/「欠点・きず」。`,content:`## 音のちがいで見分ける
 
 子音は同じ fl-。違うのは**母音 /oʊ/ と /ɔː/** です。
 
@@ -1338,7 +1344,13 @@ raw には in the raw（生のままの・ありのままの）という成句�
 
 ### raw は crude・cruel と同じ印欧祖語の語根を持つ
 
-raw は印欧祖語の語根 *kreue-（生の肉）に遡り、crude（未加工の・粗野な）・cruel（残酷な）と同じ語根を共有する。「生の肉・血」という原義から、「未加工」（raw・crude）と「血なまぐさい・冷酷な」（cruel）という2方向の意味が枝分かれした。`,keyPoints:[`raw /rɔː/＝生の・未加工の・未経験の。a raw deal/raw talent`,`row /roʊ/＝（横の）列／（舟を）漕ぐ。in a row（連続して）`,`/ɔː/（オー）と /oʊ/（オウ）の母音対立`],quiz:[{id:`q-raw-1`,question:`「生の・未加工の」という意味の語はどれですか。`,options:[`row`,`roar`,`raw`,`raw`],correctAnswer:3,explanation:`raw /rɔː/ が「生の・未加工の」。row は「列／漕ぐ」です。`},{id:`q-raw-2`,question:`空所に入る適切な語はどれですか。「The students sat in a long ( ).（生徒たちは長い列に座った）」`,options:[`row`,`raw`,`roar`,`raw`],correctAnswer:0,explanation:`「（横の）列」は row（/roʊ/）。`},{id:`q-raw-3`,question:`raw と row を分けている音の違いはどれですか。`,options:[`子音 /r/ と /l/`,`語尾の子音`,`アクセント`,`母音 /ɔː/ と /oʊ/`],correctAnswer:3,explanation:`raw は /ɔː/、row は /oʊ/ の母音対立です。`},{id:`q-raw-4`,question:`空所に入る適切な語はどれですか。「This factory processes ( ) materials.（この工場は原料を加工する）」`,options:[`row`,`roar`,`raw`,`raw`],correctAnswer:3,explanation:`「原料（raw material）」は raw。未加工という意味です。`},{id:`q-raw-5`,question:`「（舟を）漕ぐ」の意味で使えるのはどちらですか。`,options:[`row`,`raw`,`どちらも`,`どちらも不可`],correctAnswer:0,explanation:`row /roʊ/ には「（舟を）漕ぐ」の意味があります。`}]},{id:`cell-sell`,title:`cell と sell`,chapter:4,description:`同音 /sel/。cell「細胞・独房・電池・携帯」、sell「売る」。文脈とスペルで判断。`,content:`## 音は同じ、意味で見分ける
+raw は印欧祖語の語根 *kreue-（生の肉）に遡り、crude（未加工の・粗野な）・cruel（残酷な）と同じ語根を共有する。「生の肉・血」という原義から、「未加工」（raw・crude）と「血なまぐさい・冷酷な」（cruel）という2方向の意味が枝分かれした。
+
+### よくある誤用
+
+⚠️ \`This fish is served row.\`（誤）。「生の」は **raw**。row は「列」「漕ぐ」で、火を通していない状態は表せません。
+
+⚠️ \`We sat in the back raw.\`（誤）。「列」は **row**（in the back row）。raw は「生の」で、座席の列は表せません。`,keyPoints:[`raw /rɔː/＝生の・未加工の・未経験の。a raw deal/raw talent`,`row /roʊ/＝（横の）列／（舟を）漕ぐ。in a row（連続して）`,`/ɔː/（オー）と /oʊ/（オウ）の母音対立`],quiz:[{id:`q-raw-1`,question:`「生の・未加工の」という意味の語はどれですか。`,options:[`row`,`roar`,`raw`,`raw`],correctAnswer:3,explanation:`raw /rɔː/ が「生の・未加工の」。row は「列／漕ぐ」です。`},{id:`q-raw-2`,question:`空所に入る適切な語はどれですか。「The students sat in a long ( ).（生徒たちは長い列に座った）」`,options:[`row`,`raw`,`roar`,`raw`],correctAnswer:0,explanation:`「（横の）列」は row（/roʊ/）。`},{id:`q-raw-3`,question:`raw と row を分けている音の違いはどれですか。`,options:[`子音 /r/ と /l/`,`語尾の子音`,`アクセント`,`母音 /ɔː/ と /oʊ/`],correctAnswer:3,explanation:`raw は /ɔː/、row は /oʊ/ の母音対立です。`},{id:`q-raw-4`,question:`空所に入る適切な語はどれですか。「This factory processes ( ) materials.（この工場は原料を加工する）」`,options:[`row`,`roar`,`raw`,`raw`],correctAnswer:3,explanation:`「原料（raw material）」は raw。未加工という意味です。`},{id:`q-raw-5`,question:`「（舟を）漕ぐ」の意味で使えるのはどちらですか。`,options:[`row`,`raw`,`どちらも`,`どちらも不可`],correctAnswer:0,explanation:`row /roʊ/ には「（舟を）漕ぐ」の意味があります。`}]},{id:`cell-sell`,title:`cell と sell`,chapter:4,description:`同音 /sel/。cell「細胞・独房・電池・携帯」、sell「売る」。文脈とスペルで判断。`,content:`## 音は同じ、意味で見分ける
 
 **cell と sell は同じ発音 /sel/（同音異義語）**。意味と品詞で見分けます。
 
@@ -1656,7 +1668,13 @@ week という7日周期の単位そのものは、古代バビロニアで知�
 
 ### weekendはもともとイングランド北部の方言だった
 
-weekend という語自体は17世紀にも記録が見られるが、「土曜の昼から月曜の朝まで」を指す語として一般化したのはイングランド北部の方言としてで、19世紀末になって初めて広く使われるようになった。産業化にともなう労働時間の変化が、週末という概念とその呼び名を定着させた。`,keyPoints:[`weak と week は同音 /wiːk/`,`weak＝形容詞「弱い」（反対は strong）。weaken/weakness`,`week＝名詞「週」（ee で7日を連想）。weekday/weekend/weekly`],quiz:[{id:`q-weak-1`,question:`空所に入る適切な語はどれですか。「The coffee is too ( ) for me.（このコーヒーは私には薄すぎる）」`,options:[`weak`,`week`,`wake`,`weaken`],correctAnswer:0,explanation:`「薄い・弱い」は形容詞 weak です。`},{id:`q-weak-2`,question:`「週・1週間」という意味の語はどれですか。`,options:[`week`,`weak`,`wake`,`weekly`],correctAnswer:0,explanation:`名詞「週」は week /wiːk/ です。`},{id:`q-weak-3`,question:`空所に入る適切な語はどれですか。「The bridge was ( ) and unsafe.（その橋はもろくて危険だった）」`,options:[`weak`,`week`,`wake`,`weekly`],correctAnswer:0,explanation:`「もろい・弱い」は weak です。`},{id:`q-weak-4`,question:`weak と week の発音の関係はどれですか。`,options:[`母音が違う`,`子音が違う`,`同じ発音（同音異義語）`,`アクセントが違う`],correctAnswer:2,explanation:`どちらも /wiːk/ で同音異義語です。`},{id:`q-weak-5`,question:`空所に入る適切な語はどれですか。「We have a meeting once a ( ).（週に一度会議がある）」`,options:[`week`,`weak`,`wake`,`weakly`],correctAnswer:0,explanation:`「週」は week。a week で「週に」です。`}]},{id:`bring-take`,title:`bring と take`,chapter:2,description:`移動の向きで使い分ける。bring は話し手（や話題の中心）の方へ「持ってくる」、take はそこから離す方へ「持っていく」。`,content:`## 向きで見分ける
+weekend という語自体は17世紀にも記録が見られるが、「土曜の昼から月曜の朝まで」を指す語として一般化したのはイングランド北部の方言としてで、19世紀末になって初めて広く使われるようになった。産業化にともなう労働時間の変化が、週末という概念とその呼び名を定着させた。
+
+### よくある誤用
+
+⚠️ \`See you next weak.\`（誤）。「来週」は next **week**。weak は「弱い」で、期間を表しません。
+
+⚠️ \`I feel week today.\`（誤）。「体に力が入らない」は **weak**。week は「週」で、体調を表す形容詞にはなりません。`,keyPoints:[`weak と week は同音 /wiːk/`,`weak＝形容詞「弱い」（反対は strong）。weaken/weakness`,`week＝名詞「週」（ee で7日を連想）。weekday/weekend/weekly`],quiz:[{id:`q-weak-1`,question:`空所に入る適切な語はどれですか。「The coffee is too ( ) for me.（このコーヒーは私には薄すぎる）」`,options:[`weak`,`week`,`wake`,`weaken`],correctAnswer:0,explanation:`「薄い・弱い」は形容詞 weak です。`},{id:`q-weak-2`,question:`「週・1週間」という意味の語はどれですか。`,options:[`week`,`weak`,`wake`,`weekly`],correctAnswer:0,explanation:`名詞「週」は week /wiːk/ です。`},{id:`q-weak-3`,question:`空所に入る適切な語はどれですか。「The bridge was ( ) and unsafe.（その橋はもろくて危険だった）」`,options:[`weak`,`week`,`wake`,`weekly`],correctAnswer:0,explanation:`「もろい・弱い」は weak です。`},{id:`q-weak-4`,question:`weak と week の発音の関係はどれですか。`,options:[`母音が違う`,`子音が違う`,`同じ発音（同音異義語）`,`アクセントが違う`],correctAnswer:2,explanation:`どちらも /wiːk/ で同音異義語です。`},{id:`q-weak-5`,question:`空所に入る適切な語はどれですか。「We have a meeting once a ( ).（週に一度会議がある）」`,options:[`week`,`weak`,`wake`,`weakly`],correctAnswer:0,explanation:`「週」は week。a week で「週に」です。`}]},{id:`bring-take`,title:`bring と take`,chapter:2,description:`移動の向きで使い分ける。bring は話し手（や話題の中心）の方へ「持ってくる」、take はそこから離す方へ「持っていく」。`,content:`## 向きで見分ける
 
 どちらも物や人を移動させますが、**基準点（多くは話し手のいる場所）に近づけるか遠ざけるか**で使い分けます。
 
@@ -2603,7 +2621,13 @@ well-heeled（裕福な・金回りの良い）は19世紀末のアメリカで�
 
 ### heelには「見下げた人物」という俗語の意味もある
 
-heel はプロレスの世界で「悪役レスラー」を指す俗語としても使われ、そこから一般に「卑劣な人物・裏切り者」を指す口語表現としても定着している。かかとという体の一番低い部分のイメージが、人物評価の比喩に転用された。`,keyPoints:[`heal と heel は同音 /hiːl/`,`heal＝動詞「治す・癒える」（health の仲間）。healing/healer`,`heel＝名詞「かかと・靴のかかと」。Achilles' heel/head over heels`],quiz:[{id:`q-heal-1`,question:`空所に入る適切な語はどれですか。「These shoes have a high ( ).（この靴はかかとが高い）」`,options:[`heel`,`heal`,`heals`,`heels`],correctAnswer:0,explanation:`「かかと」は heel です。`},{id:`q-heal-2`,question:`「治す・（傷が）癒える」という意味の動詞はどれですか。`,options:[`heel`,`heil`,`hell`,`heal`],correctAnswer:3,explanation:`動詞「治す・癒える」は heal /hiːl/ です。`},{id:`q-heal-3`,question:`heal と heel の発音の関係はどれですか。`,options:[`母音が違う`,`子音が違う`,`同じ発音（同音異義語）`,`アクセントが違う`],correctAnswer:2,explanation:`どちらも /hiːl/ で同音異義語です。`},{id:`q-heal-4`,question:`空所に入る適切な語はどれですか。「Time will ( ) a broken heart.（時が傷心を癒すだろう）」`,options:[`heel`,`heil`,`held`,`heal`],correctAnswer:3,explanation:`「癒す」は heal です。`},{id:`q-heal-5`,question:`足の「かかと」を意味するのはどちらですか。`,options:[`heel`,`heal`,`どちらも`,`どちらも違う`],correctAnswer:0,explanation:`かかとは heel。heal は「治す」です。`}]},{id:`right-write`,title:`right と write`,chapter:4,description:`同音 /raɪt/。right「右・正しい・権利」、write「書く」（動詞）。意味とスペルで判断する同音異義語。`,content:`## 音は同じ、意味とスペルで見分ける
+heel はプロレスの世界で「悪役レスラー」を指す俗語としても使われ、そこから一般に「卑劣な人物・裏切り者」を指す口語表現としても定着している。かかとという体の一番低い部分のイメージが、人物評価の比喩に転用された。
+
+### よくある誤用
+
+⚠️ \`The cut will heel in a few days.\`（誤）。「傷が治る」は **heal**。heel は「かかと」で、治癒の意味はありません。
+
+⚠️ \`I got a blister on my heal.\`（誤）。「かかと」は **heel**。heal は「治す・癒える」という動詞で、体の部位は表せません。`,keyPoints:[`heal と heel は同音 /hiːl/`,`heal＝動詞「治す・癒える」（health の仲間）。healing/healer`,`heel＝名詞「かかと・靴のかかと」。Achilles' heel/head over heels`],quiz:[{id:`q-heal-1`,question:`空所に入る適切な語はどれですか。「These shoes have a high ( ).（この靴はかかとが高い）」`,options:[`heel`,`heal`,`heals`,`heels`],correctAnswer:0,explanation:`「かかと」は heel です。`},{id:`q-heal-2`,question:`「治す・（傷が）癒える」という意味の動詞はどれですか。`,options:[`heel`,`heil`,`hell`,`heal`],correctAnswer:3,explanation:`動詞「治す・癒える」は heal /hiːl/ です。`},{id:`q-heal-3`,question:`heal と heel の発音の関係はどれですか。`,options:[`母音が違う`,`子音が違う`,`同じ発音（同音異義語）`,`アクセントが違う`],correctAnswer:2,explanation:`どちらも /hiːl/ で同音異義語です。`},{id:`q-heal-4`,question:`空所に入る適切な語はどれですか。「Time will ( ) a broken heart.（時が傷心を癒すだろう）」`,options:[`heel`,`heil`,`held`,`heal`],correctAnswer:3,explanation:`「癒す」は heal です。`},{id:`q-heal-5`,question:`足の「かかと」を意味するのはどちらですか。`,options:[`heel`,`heal`,`どちらも`,`どちらも違う`],correctAnswer:0,explanation:`かかとは heel。heal は「治す」です。`}]},{id:`right-write`,title:`right と write`,chapter:4,description:`同音 /raɪt/。right「右・正しい・権利」、write「書く」（動詞）。意味とスペルで判断する同音異義語。`,content:`## 音は同じ、意味とスペルで見分ける
 
 **right と write は同じ発音 /raɪt/（同音異義語）**。意味とスペルで決めます（w は発音しない）。
 
@@ -3103,7 +3127,13 @@ pray はラテン語 precari（懇願する）に由来し、precarious（不安
 
 ### prey は predator（捕食者）と同じラテン語根
 
-prey はラテン語 praeda（戦利品・獲物）に由来し、predator（捕食者）・depredation（略奪）と同じ語根を共有する。「奪い取られたもの」という原義が、動物界の「捕食される側」を指す現代の意味にそのまま受け継がれている。`,keyPoints:[`pray と prey は同音 /preɪ/`,`pray＝動詞「祈る」（名詞形はprayer＝祈り）`,`prey＝名詞「獲物・えじき」。birds of prey/fall prey to`],quiz:[{id:`q-pray-1`,question:`空所に入る適切な語はどれですか。「Owls hunt small animals as ( ).（フクロウは小動物を獲物として狩る）」`,options:[`pray`,`prey`,`prays`,`preys'`],correctAnswer:1,explanation:`「獲物・えじき」は prey です。`},{id:`q-pray-2`,question:`「祈る」という意味の動詞はどれですか。`,options:[`pray`,`prey`,`preys`,`praying'`],correctAnswer:0,explanation:`動詞「祈る」は pray /preɪ/ です。`},{id:`q-pray-3`,question:`pray と prey の発音の関係はどれですか。`,options:[`母音が違う`,`子音が違う`,`同じ発音（同音異義語）`,`アクセントが違う`],correctAnswer:2,explanation:`どちらも /preɪ/ で同音異義語です。`},{id:`q-pray-4`,question:`空所に入る適切な語はどれですか。「She went to the temple to ( ).（彼女は祈るために寺へ行った）」`,options:[`pray`,`prey`,`preys`,`prayed'`],correctAnswer:0,explanation:`「祈る」は pray です。`},{id:`q-pray-5`,question:`捕食される側「獲物」を意味するのはどちらですか。`,options:[`pray`,`prey`,`どちらも`,`どちらも違う`],correctAnswer:1,explanation:`獲物は prey。pray は「祈る」です。`}]},{id:`here-hear`,title:`here と hear`,chapter:4,description:`同音 /hɪər/。here「ここに」（副詞）、hear「聞く・聞こえる」（動詞）。意味とスペルで判断する同音異義語。`,content:`## 音は同じ、意味とスペルで見分ける
+prey はラテン語 praeda（戦利品・獲物）に由来し、predator（捕食者）・depredation（略奪）と同じ語根を共有する。「奪い取られたもの」という原義が、動物界の「捕食される側」を指す現代の意味にそのまま受け継がれている。
+
+### よくある誤用
+
+⚠️ \`Let's prey for his recovery.\`（誤）。「祈る」は **pray**（pray for 〜）。prey は「獲物」で、祈りの意味はありません。
+
+⚠️ \`The owl pray on small mice at night.\`（誤）。「〜を捕食する」は **prey** on 〜。pray は「祈る」なので、動物が獲物を狙う文では綴りを prey にします（三単現なら preys）。`,keyPoints:[`pray と prey は同音 /preɪ/`,`pray＝動詞「祈る」（名詞形はprayer＝祈り）`,`prey＝名詞「獲物・えじき」。birds of prey/fall prey to`],quiz:[{id:`q-pray-1`,question:`空所に入る適切な語はどれですか。「Owls hunt small animals as ( ).（フクロウは小動物を獲物として狩る）」`,options:[`pray`,`prey`,`prays`,`preys'`],correctAnswer:1,explanation:`「獲物・えじき」は prey です。`},{id:`q-pray-2`,question:`「祈る」という意味の動詞はどれですか。`,options:[`pray`,`prey`,`preys`,`praying'`],correctAnswer:0,explanation:`動詞「祈る」は pray /preɪ/ です。`},{id:`q-pray-3`,question:`pray と prey の発音の関係はどれですか。`,options:[`母音が違う`,`子音が違う`,`同じ発音（同音異義語）`,`アクセントが違う`],correctAnswer:2,explanation:`どちらも /preɪ/ で同音異義語です。`},{id:`q-pray-4`,question:`空所に入る適切な語はどれですか。「She went to the temple to ( ).（彼女は祈るために寺へ行った）」`,options:[`pray`,`prey`,`preys`,`prayed'`],correctAnswer:0,explanation:`「祈る」は pray です。`},{id:`q-pray-5`,question:`捕食される側「獲物」を意味するのはどちらですか。`,options:[`pray`,`prey`,`どちらも`,`どちらも違う`],correctAnswer:1,explanation:`獲物は prey。pray は「祈る」です。`}]},{id:`here-hear`,title:`here と hear`,chapter:4,description:`同音 /hɪər/。here「ここに」（副詞）、hear「聞く・聞こえる」（動詞）。意味とスペルで判断する同音異義語。`,content:`## 音は同じ、意味とスペルで見分ける
 
 **here と hear は同じ発音 /hɪər/（同音異義語）**。意味とスペルで決めます。
 
@@ -4508,7 +4538,13 @@ maid は maiden（未婚の若い女性）が短縮してできた語で、も�
 
 ### make と manufacture は同じ「作る」でも語源が別
 
-make は古英語 macian に由来するゲルマン語源の語で、ラテン語 manus（手）+ facere（作る）に由来する manufacture（製造する）とは語源が異なる。日常語の make とかたい語感の manufacture・fabricate・construct はどれも「作る」を意味するが、ゲルマン語源かラテン語源かで文体の硬さが変わるという英語特有の二重語彙構造の一例になっている。`,keyPoints:[`made と maid は同音 /meɪd/`,`made＝make の過去「作った」（be made of ~）。homemade/man-made`,`maid＝名詞「メイド・お手伝い」。bridesmaid`],quiz:[{id:`q-made-1`,question:`空所に入る適切な語はどれですか。「The hotel ( ) makes up the beds daily.（ホテルのメイドが毎日ベッドを整える）」`,options:[`maid`,`made`,`maids'`,`making`],correctAnswer:0,explanation:`「メイド・お手伝い」は名詞 maid です。`},{id:`q-made-2`,question:`make の過去形「作った」を表す語はどれですか。`,options:[`maid`,`maids`,`making`,`made`],correctAnswer:3,explanation:`make の過去は made です。`},{id:`q-made-3`,question:`made と maid の発音の関係はどれですか。`,options:[`母音が違う`,`子音が違う`,`同じ発音（同音異義語）`,`アクセントが違う`],correctAnswer:2,explanation:`どちらも /meɪd/ で同音異義語です。`},{id:`q-made-4`,question:`空所に入る適切な語はどれですか。「This ring is ( ) of gold.（この指輪は金でできている）」`,options:[`maid`,`maids`,`making`,`made`],correctAnswer:3,explanation:`be made of ~「〜でできている」の made です。`},{id:`q-made-5`,question:`「お手伝い・女中」を意味するのはどちらですか。`,options:[`maid`,`made`,`どちらも`,`どちらも違う`],correctAnswer:0,explanation:`お手伝いは maid。made は「作った」です。`}]},{id:`some-sum`,title:`some と sum`,chapter:4,description:`同音 /sʌm/。some「いくつかの・いくらかの」（限定詞）、sum「合計・金額」（名詞）。意味と品詞で判断。`,content:`## 音は同じ、意味と品詞で見分ける
+make は古英語 macian に由来するゲルマン語源の語で、ラテン語 manus（手）+ facere（作る）に由来する manufacture（製造する）とは語源が異なる。日常語の make とかたい語感の manufacture・fabricate・construct はどれも「作る」を意味するが、ゲルマン語源かラテン語源かで文体の硬さが変わるという英語特有の二重語彙構造の一例になっている。
+
+### よくある誤用
+
+⚠️ \`This table is maid of oak.\`（誤）。「〜でできている」は be **made** of 〜。maid は「メイド」で、素材を述べる文には使えません。
+
+⚠️ \`They hired a made to clean the house.\`（誤）。「メイド・お手伝い」は **maid**。made は make の過去形・過去分詞で、人を指す名詞にはなりません。`,keyPoints:[`made と maid は同音 /meɪd/`,`made＝make の過去「作った」（be made of ~）。homemade/man-made`,`maid＝名詞「メイド・お手伝い」。bridesmaid`],quiz:[{id:`q-made-1`,question:`空所に入る適切な語はどれですか。「The hotel ( ) makes up the beds daily.（ホテルのメイドが毎日ベッドを整える）」`,options:[`maid`,`made`,`maids'`,`making`],correctAnswer:0,explanation:`「メイド・お手伝い」は名詞 maid です。`},{id:`q-made-2`,question:`make の過去形「作った」を表す語はどれですか。`,options:[`maid`,`maids`,`making`,`made`],correctAnswer:3,explanation:`make の過去は made です。`},{id:`q-made-3`,question:`made と maid の発音の関係はどれですか。`,options:[`母音が違う`,`子音が違う`,`同じ発音（同音異義語）`,`アクセントが違う`],correctAnswer:2,explanation:`どちらも /meɪd/ で同音異義語です。`},{id:`q-made-4`,question:`空所に入る適切な語はどれですか。「This ring is ( ) of gold.（この指輪は金でできている）」`,options:[`maid`,`maids`,`making`,`made`],correctAnswer:3,explanation:`be made of ~「〜でできている」の made です。`},{id:`q-made-5`,question:`「お手伝い・女中」を意味するのはどちらですか。`,options:[`maid`,`made`,`どちらも`,`どちらも違う`],correctAnswer:0,explanation:`お手伝いは maid。made は「作った」です。`}]},{id:`some-sum`,title:`some と sum`,chapter:4,description:`同音 /sʌm/。some「いくつかの・いくらかの」（限定詞）、sum「合計・金額」（名詞）。意味と品詞で判断。`,content:`## 音は同じ、意味と品詞で見分ける
 
 **some と sum は同じ発音 /sʌm/（同音異義語）**。意味と品詞で決めます。
 
@@ -4878,7 +4914,13 @@ injure はラテン語 in-（否定）+ jus（正しいこと・法）に由来�
 
 ### hurt は「衝突する」を意味する古フランス語が語源
 
-hurt は古フランス語 hurter（ぶつかる・突き当たる、現代フランス語では heurter）に由来し、さらに遡るとフランク語で「雄羊」を意味する語につながる。頭突きするように「ぶつかる」という物理的な衝撃のイメージが、「（心身を）傷つける」という現代の意味の土台にある。`,keyPoints:[`hurt＝一般的に痛める・傷つける（体も心も・hurt-hurt-hurt）`,`injure＝事故・競技で負傷させる（injury）`,`wound＝武器・刃物で傷を負わせる（戦争・攻撃）`],quiz:[{id:`q-hurt-1`,question:`空所に入る適切な語はどれですか。「Three soldiers were ( ) by gunfire.（3人の兵士が銃撃で負傷した）」`,options:[`hurt`,`injured`,`hurts`,`wounded`],correctAnswer:3,explanation:`武器（銃）による負傷は wound（受け身 wounded）が典型です。`},{id:`q-hurt-2`,question:`空所に入る適切な語はどれですか。「Several players were ( ) during the match.（試合中に数人の選手が負傷した）」`,options:[`injured`,`wounded`,`hurt`,`wounds`],correctAnswer:0,explanation:`スポーツ・事故の負傷は injure（injured）が自然です。`},{id:`q-hurt-3`,question:`最も一般的に「痛める・（心も）傷つける」を表すのはどれですか。`,options:[`hurt`,`injure`,`wound`,`どれも同じ`],correctAnswer:0,explanation:`一般的な「痛める・傷つける」は hurt です。`},{id:`q-hurt-4`,question:`空所に入る適切な語はどれですか。「Her cruel words really ( ) him.（彼女の冷たい言葉は彼をひどく傷つけた）」`,options:[`hurt`,`wounded`,`injured`,`injures`],correctAnswer:0,explanation:`心を「傷つける」は hurt が自然です。`},{id:`q-hurt-5`,question:`刃物・銃など武器による「負傷」に典型的に使うのはどれですか。`,options:[`hurt`,`injure`,`wound`,`どれも同じ`],correctAnswer:2,explanation:`武器による負傷は wound です。`}]},{id:`come-go`,title:`come と go`,chapter:2,description:`向きが逆。come は話し手（や聞き手）の方へ「来る・行く」、go はそこから離れて「行く」。`,content:`## だれの方へ向かうかで見分ける
+hurt は古フランス語 hurter（ぶつかる・突き当たる、現代フランス語では heurter）に由来し、さらに遡るとフランク語で「雄羊」を意味する語につながる。頭突きするように「ぶつかる」という物理的な衝撃のイメージが、「（心身を）傷つける」という現代の意味の土台にある。
+
+### よくある誤用
+
+⚠️ \`I wounded my knee while jogging.\`（誤）。運動中の故障を言うなら **hurt**（または injure）my knee。wound は武器・刃物などで傷を負わせる場面に使う語で、ジョギング中の痛めには使いません。
+
+⚠️ \`He was injure in the crash.\`（誤）。受け身は **injured**（be injured）。injure は原形なので、過去分詞にしないと「負傷した」の意味になりません。`,keyPoints:[`hurt＝一般的に痛める・傷つける（体も心も・hurt-hurt-hurt）`,`injure＝事故・競技で負傷させる（injury）`,`wound＝武器・刃物で傷を負わせる（戦争・攻撃）`],quiz:[{id:`q-hurt-1`,question:`空所に入る適切な語はどれですか。「Three soldiers were ( ) by gunfire.（3人の兵士が銃撃で負傷した）」`,options:[`hurt`,`injured`,`hurts`,`wounded`],correctAnswer:3,explanation:`武器（銃）による負傷は wound（受け身 wounded）が典型です。`},{id:`q-hurt-2`,question:`空所に入る適切な語はどれですか。「Several players were ( ) during the match.（試合中に数人の選手が負傷した）」`,options:[`injured`,`wounded`,`hurt`,`wounds`],correctAnswer:0,explanation:`スポーツ・事故の負傷は injure（injured）が自然です。`},{id:`q-hurt-3`,question:`最も一般的に「痛める・（心も）傷つける」を表すのはどれですか。`,options:[`hurt`,`injure`,`wound`,`どれも同じ`],correctAnswer:0,explanation:`一般的な「痛める・傷つける」は hurt です。`},{id:`q-hurt-4`,question:`空所に入る適切な語はどれですか。「Her cruel words really ( ) him.（彼女の冷たい言葉は彼をひどく傷つけた）」`,options:[`hurt`,`wounded`,`injured`,`injures`],correctAnswer:0,explanation:`心を「傷つける」は hurt が自然です。`},{id:`q-hurt-5`,question:`刃物・銃など武器による「負傷」に典型的に使うのはどれですか。`,options:[`hurt`,`injure`,`wound`,`どれも同じ`],correctAnswer:2,explanation:`武器による負傷は wound です。`}]},{id:`come-go`,title:`come と go`,chapter:2,description:`向きが逆。come は話し手（や聞き手）の方へ「来る・行く」、go はそこから離れて「行く」。`,content:`## だれの方へ向かうかで見分ける
 
 移動の向きが逆です。**基準（話し手・聞き手のいる所）に近づくか離れるか**で使い分けます。
 
@@ -5015,7 +5057,13 @@ vein は血管だけでなく、a vein of gold（金の鉱脈）のように地�
 
 ### vane は weathervane 以外に機械部品も指す
 
-vane は風見鶏（weather vane）だけでなく、風力や水力を受けて回転する羽根板全般を指し、風車のブレードやタービンの羽根も vane と呼ばれる。「風や流れを受けて向きや回転を生む板状の部品」という工学的な意味が、日常語の風見鶏の用法の背後にある。`,keyPoints:[`vain・vein・vane は同音 /veɪn/`,`vain＝うぬぼれた・むだな（in vain＝むだに）`,`vein＝静脈・血管／vane＝風見・羽根（weather vane）`],quiz:[{id:`q-vain-1`,question:`空所に入る適切な語はどれですか。「The nurse found a ( ) to draw blood.（看護師は採血のため血管を探した）」`,options:[`vain`,`vein`,`vane`,`vains`],correctAnswer:1,explanation:`血管の「静脈」は vein です。`},{id:`q-vain-2`,question:`「うぬぼれた／むだな」を表す形容詞はどれですか。`,options:[`vein`,`vane`,`veins`,`vain`],correctAnswer:3,explanation:`「うぬぼれた・むだな」は vain です（in vain）。`},{id:`q-vain-3`,question:`屋根の上で風向きを示す「風見」を表す語はどれですか。`,options:[`vain`,`vein`,`vains`,`vane`],correctAnswer:3,explanation:`「風見・羽根」は vane（weather vane）です。`},{id:`q-vain-4`,question:`3語 vain・vein・vane の発音の関係はどれですか。`,options:[`すべて違う`,`すべて同じ（同音異義語）`,`2つだけ同じ`,`アクセントが違う`],correctAnswer:1,explanation:`すべて /veɪn/ で同音異義語です。`},{id:`q-vain-5`,question:`空所に入る適切な語はどれですか。「They searched all night, but in ( ).（一晩中探したが、むだだった）」`,options:[`vein`,`vane`,`veins`,`vain`],correctAnswer:3,explanation:`成句 in vain「むだに」の vain です。`}]},{id:`way-weigh`,title:`way と weigh`,chapter:4,description:`同音 /weɪ/。way「道・方法」（名詞）、weigh「重さを量る・重さがある」（動詞）。意味と品詞で判断。`,content:`## 音は同じ、意味と品詞で見分ける
+vane は風見鶏（weather vane）だけでなく、風力や水力を受けて回転する羽根板全般を指し、風車のブレードやタービンの羽根も vane と呼ばれる。「風や流れを受けて向きや回転を生む板状の部品」という工学的な意味が、日常語の風見鶏の用法の背後にある。
+
+### よくある誤用
+
+⚠️ \`The nurse found a vain in his arm.\`（誤）。「静脈」は **vein**。vain は「うぬぼれた・むだな」で、血管の意味はありません。
+
+⚠️ \`Our efforts were in vein.\`（誤）。「むだに」は in **vain**。vein は血管・筋のことで、成句の綴りは入れ替えられません。`,keyPoints:[`vain・vein・vane は同音 /veɪn/`,`vain＝うぬぼれた・むだな（in vain＝むだに）`,`vein＝静脈・血管／vane＝風見・羽根（weather vane）`],quiz:[{id:`q-vain-1`,question:`空所に入る適切な語はどれですか。「The nurse found a ( ) to draw blood.（看護師は採血のため血管を探した）」`,options:[`vain`,`vein`,`vane`,`vains`],correctAnswer:1,explanation:`血管の「静脈」は vein です。`},{id:`q-vain-2`,question:`「うぬぼれた／むだな」を表す形容詞はどれですか。`,options:[`vein`,`vane`,`veins`,`vain`],correctAnswer:3,explanation:`「うぬぼれた・むだな」は vain です（in vain）。`},{id:`q-vain-3`,question:`屋根の上で風向きを示す「風見」を表す語はどれですか。`,options:[`vain`,`vein`,`vains`,`vane`],correctAnswer:3,explanation:`「風見・羽根」は vane（weather vane）です。`},{id:`q-vain-4`,question:`3語 vain・vein・vane の発音の関係はどれですか。`,options:[`すべて違う`,`すべて同じ（同音異義語）`,`2つだけ同じ`,`アクセントが違う`],correctAnswer:1,explanation:`すべて /veɪn/ で同音異義語です。`},{id:`q-vain-5`,question:`空所に入る適切な語はどれですか。「They searched all night, but in ( ).（一晩中探したが、むだだった）」`,options:[`vein`,`vane`,`veins`,`vain`],correctAnswer:3,explanation:`成句 in vain「むだに」の vain です。`}]},{id:`way-weigh`,title:`way と weigh`,chapter:4,description:`同音 /weɪ/。way「道・方法」（名詞）、weigh「重さを量る・重さがある」（動詞）。意味と品詞で判断。`,content:`## 音は同じ、意味と品詞で見分ける
 
 **way と weigh は同じ発音 /weɪ/（同音異義語）**（weigh の gh は無音）。意味と品詞で決めます。
 
@@ -6058,7 +6106,13 @@ muscle はラテン語 musculus（小さなネズミ、mus「ネズミ」の指�
 
 ### mussel も同じ musculus に由来する
 
-ムール貝を意味する mussel も、同じラテン語 musculus に由来する語である。貝の形がやはり小さなネズミを思わせたためとされ、筋肉とムール貝という一見無関係な2つの語が、まったく同じ語源から枝分かれしたという珍しい例になっている。`,keyPoints:[`muscle と mussel は同音 /ˈmʌsl/`,`muscle＝筋肉（c あり・muscular）。muscle in/flex one's muscles`,`mussel＝ムール貝・イガイ（s がふたつ）。比喩表現を作らない`],quiz:[{id:`q-muscle-1`,question:`空所に入る適切な語はどれですか。「The restaurant serves fresh ( ) from the coast.（その店は海岸産の新鮮なムール貝を出す）」`,options:[`mussels`,`muscles`,`muscle`,`muscular`],correctAnswer:0,explanation:`食用の貝「ムール貝」は mussel（複数 mussels）です。`},{id:`q-muscle-2`,question:`「筋肉」という意味の名詞はどれですか。`,options:[`mussel`,`mussels`,`muscle`,`mussel'`],correctAnswer:2,explanation:`体の「筋肉」は muscle /ˈmʌsl/ です。`},{id:`q-muscle-3`,question:`muscle と mussel の発音の関係はどれですか。`,options:[`母音が違う`,`子音が違う`,`同じ発音（同音異義語）`,`アクセントが違う`],correctAnswer:2,explanation:`どちらも /ˈmʌsl/ で同音異義語です。`},{id:`q-muscle-4`,question:`空所に入る適切な語はどれですか。「He pulled a ( ) while running.（走っていて筋肉を痛めた）」`,options:[`mussel`,`mussels`,`muscle`,`muscled`],correctAnswer:2,explanation:`体の「筋肉（を痛める）」は muscle です。`},{id:`q-muscle-5`,question:`食用の二枚貝「ムール貝」を意味するのはどちらですか。`,options:[`muscle`,`mussel`,`どちらも`,`どちらも違う`],correctAnswer:1,explanation:`ムール貝は mussel。muscle は「筋肉」です。`}]},{id:`wander-wonder`,title:`wander と wonder`,chapter:1,description:`wander /ˈwɑːndər/「あてもなく歩き回る」、wonder /ˈwʌndər/「不思議に思う・〜かしらと思う」。母音が違い、意味も別。`,content:`## 1文字違いで、母音も意味も別
+ムール貝を意味する mussel も、同じラテン語 musculus に由来する語である。貝の形がやはり小さなネズミを思わせたためとされ、筋肉とムール貝という一見無関係な2つの語が、まったく同じ語源から枝分かれしたという珍しい例になっている。
+
+### よくある誤用
+
+⚠️ \`I strained a mussel in my leg.\`（誤）。「筋肉」は **muscle**。mussel は貝で、体の部位を表せません。
+
+⚠️ \`We ordered a plate of muscles.\`（誤）。「ムール貝」は **mussels**。muscle は筋肉で、料理名には使えません。`,keyPoints:[`muscle と mussel は同音 /ˈmʌsl/`,`muscle＝筋肉（c あり・muscular）。muscle in/flex one's muscles`,`mussel＝ムール貝・イガイ（s がふたつ）。比喩表現を作らない`],quiz:[{id:`q-muscle-1`,question:`空所に入る適切な語はどれですか。「The restaurant serves fresh ( ) from the coast.（その店は海岸産の新鮮なムール貝を出す）」`,options:[`mussels`,`muscles`,`muscle`,`muscular`],correctAnswer:0,explanation:`食用の貝「ムール貝」は mussel（複数 mussels）です。`},{id:`q-muscle-2`,question:`「筋肉」という意味の名詞はどれですか。`,options:[`mussel`,`mussels`,`muscle`,`mussel'`],correctAnswer:2,explanation:`体の「筋肉」は muscle /ˈmʌsl/ です。`},{id:`q-muscle-3`,question:`muscle と mussel の発音の関係はどれですか。`,options:[`母音が違う`,`子音が違う`,`同じ発音（同音異義語）`,`アクセントが違う`],correctAnswer:2,explanation:`どちらも /ˈmʌsl/ で同音異義語です。`},{id:`q-muscle-4`,question:`空所に入る適切な語はどれですか。「He pulled a ( ) while running.（走っていて筋肉を痛めた）」`,options:[`mussel`,`mussels`,`muscle`,`muscled`],correctAnswer:2,explanation:`体の「筋肉（を痛める）」は muscle です。`},{id:`q-muscle-5`,question:`食用の二枚貝「ムール貝」を意味するのはどちらですか。`,options:[`muscle`,`mussel`,`どちらも`,`どちらも違う`],correctAnswer:1,explanation:`ムール貝は mussel。muscle は「筋肉」です。`}]},{id:`wander-wonder`,title:`wander と wonder`,chapter:1,description:`wander /ˈwɑːndər/「あてもなく歩き回る」、wonder /ˈwʌndər/「不思議に思う・〜かしらと思う」。母音が違い、意味も別。`,content:`## 1文字違いで、母音も意味も別
 
 **wander と wonder はスペルが a と o の1文字違い**ですが、発音する母音も意味も別です。
 
@@ -6440,7 +6494,13 @@ stare down（にらみ合いで相手をひるませる）は、2人が視線を
 
 ### stairs と steps の使い分け
 
-stair は建物内部の階段一式（複数形 stairs）を指すのに対し、屋外や一段だけの段差には steps（step の複数形）が好まれます。the front steps（玄関前の階段）、the stairs to the second floor（2階への階段）のように、屋内外や規模の大きさで stairs と steps の使用に傾向差があります。stair は建物に組み込まれた構造物、step は個々の踏み段そのものを指すというのが原義の違いです。`,keyPoints:[`stair と stare は同音 /ster/`,`stair＝階段（ふつう複数形 stairs）`,`stare＝じっと見つめる（stare at 〜）`],quiz:[{id:`q-stair-1`,question:`空所に入る適切な語はどれですか。「He waited at the bottom of the ( ).（彼は階段の下で待っていた）」`,options:[`stares`,`stare`,`staring`,`stairs`],correctAnswer:3,explanation:`階段は stairs です。`},{id:`q-stair-2`,question:`空所に入る適切な語はどれですか。「The boy ( ) at the huge cake.（少年は巨大なケーキをじっと見つめた）」`,options:[`stared`,`staired`,`stairs`,`stair`],correctAnswer:0,explanation:`「じっと見つめる」は stare（過去形 stared）です。`},{id:`q-stair-3`,question:`stair と stare の発音の関係はどれですか。`,options:[`母音が違う`,`子音が違う`,`同じ発音（同音異義語）`,`アクセントが違う`],correctAnswer:2,explanation:`どちらも /ster/（英 /steə/）で同音異義語です。`},{id:`q-stair-4`,question:`stare の後ろに置く前置詞として自然なものはどれですか。`,options:[`on`,`at`,`to`,`of`],correctAnswer:1,explanation:`stare at 〜 で「〜をじっと見つめる」です。`},{id:`q-stair-5`,question:`「階段一式」を表す語はどれですか。`,options:[`starecase`,`staircase`,`stairing`,`staringcase`],correctAnswer:1,explanation:`建物の階段は staircase と言います。`}]},{id:`idle-idol`,title:`idle と idol`,chapter:4,description:`同音 /ˈaɪdl/。idle は形容詞「働いていない・遊んでいる」、idol は名詞「偶像・崇拝の対象」。`,content:`## 音は同じ、状態か対象か
+stair は建物内部の階段一式（複数形 stairs）を指すのに対し、屋外や一段だけの段差には steps（step の複数形）が好まれます。the front steps（玄関前の階段）、the stairs to the second floor（2階への階段）のように、屋内外や規模の大きさで stairs と steps の使用に傾向差があります。stair は建物に組み込まれた構造物、step は個々の踏み段そのものを指すというのが原義の違いです。
+
+### よくある誤用
+
+⚠️ \`He stairs at the screen all day.\`（誤）。「じっと見つめる」は動詞の **stare**（stare at 〜）。stair は名詞なので、動詞としては使えません。
+
+⚠️ \`Watch your step on the stares.\`（誤）。「階段」は **stairs**。stare は動詞「見つめる」で、階段の意味はありません。`,keyPoints:[`stair と stare は同音 /ster/`,`stair＝階段（ふつう複数形 stairs）`,`stare＝じっと見つめる（stare at 〜）`],quiz:[{id:`q-stair-1`,question:`空所に入る適切な語はどれですか。「He waited at the bottom of the ( ).（彼は階段の下で待っていた）」`,options:[`stares`,`stare`,`staring`,`stairs`],correctAnswer:3,explanation:`階段は stairs です。`},{id:`q-stair-2`,question:`空所に入る適切な語はどれですか。「The boy ( ) at the huge cake.（少年は巨大なケーキをじっと見つめた）」`,options:[`stared`,`staired`,`stairs`,`stair`],correctAnswer:0,explanation:`「じっと見つめる」は stare（過去形 stared）です。`},{id:`q-stair-3`,question:`stair と stare の発音の関係はどれですか。`,options:[`母音が違う`,`子音が違う`,`同じ発音（同音異義語）`,`アクセントが違う`],correctAnswer:2,explanation:`どちらも /ster/（英 /steə/）で同音異義語です。`},{id:`q-stair-4`,question:`stare の後ろに置く前置詞として自然なものはどれですか。`,options:[`on`,`at`,`to`,`of`],correctAnswer:1,explanation:`stare at 〜 で「〜をじっと見つめる」です。`},{id:`q-stair-5`,question:`「階段一式」を表す語はどれですか。`,options:[`starecase`,`staircase`,`stairing`,`staringcase`],correctAnswer:1,explanation:`建物の階段は staircase と言います。`}]},{id:`idle-idol`,title:`idle と idol`,chapter:4,description:`同音 /ˈaɪdl/。idle は形容詞「働いていない・遊んでいる」、idol は名詞「偶像・崇拝の対象」。`,content:`## 音は同じ、状態か対象か
 
 **idle と idol は同じ発音 /ˈaɪdl/**の同音異義語です。
 
