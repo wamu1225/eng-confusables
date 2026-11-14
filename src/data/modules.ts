@@ -1708,7 +1708,13 @@ so to speak（いわば）という決まり文句は、比喩的な言い方を
 
 economical の対義語は uneconomical で、This car is uneconomical to run.（この車は燃費が悪い）のように無駄の多さを表します。一方 economic の対義語は場面によって変わり、社会の話なら non-economic、採算の話なら uneconomic が使われます。
 
-名詞形も語根が分かれ、economy（経済・節約）は economical と、economics（経済学）は economic と結びついています。study economics（経済学を学ぶ）とは言っても study economy とは言いません。`,
+名詞形も語根が分かれ、economy（経済・節約）は economical と、economics（経済学）は economic と結びついています。study economics（経済学を学ぶ）とは言っても study economy とは言いません。
+
+### よくある誤用
+
+⚠️ \`Walking to work is an economic way to commute.\`（誤）。「節約になる・お得な」は **economical**。economic は「経済の」で、出費が少ないことは表せません。
+
+⚠️ \`The country has economical growth.\`（誤）。国の経済成長は **economic** growth。economical は「無駄がない」で、経済活動の話には使いません。`,
     keyPoints: [
       'economic＝経済の・経済学の（国・社会の経済）',
       'economical＝節約的・無駄がない・お得な',
@@ -2689,7 +2695,13 @@ agent はラテン語 agere（動かす・行う）の現在分詞形に由来�
 
 ### agent は人以外の「作用するもの」も指す
 
-agent は人だけでなく、化学・生物学の分野では a cleaning agent（洗浄剤）・a bleaching agent（漂白剤）のように、何かに作用を及ぼす物質を指す語としても使われる。近年では AI 分野で「自律的に判断し行動する AI システム」を agentic（エージェント的）と呼ぶ用法も広がっており、「独立して動作する主体」という語の核が現代でも生き続けている。`,
+agent は人だけでなく、化学・生物学の分野では a cleaning agent（洗浄剤）・a bleaching agent（漂白剤）のように、何かに作用を及ぼす物質を指す語としても使われる。近年では AI 分野で「自律的に判断し行動する AI システム」を agentic（エージェント的）と呼ぶ用法も広がっており、「独立して動作する主体」という語の核が現代でも生き続けている。
+
+### よくある誤用
+
+⚠️ \`She works at a travel agent.\`（誤）。会社・機関は **agency**（a travel agency）。agent は「代理人」という人を指します。
+
+⚠️ \`The agency who handles my contract called me.\`（誤）。契約を扱う「人」なら **agent**（The agent who handles ...）。agency は組織で、who で受ける対象ではありません。`,
     keyPoints: [
       'agent＝代理人・取次人・行為者（人）。free agent/secret agent',
       'agency＝代理店・機関・取次業（組織）。employment agency',
@@ -3613,7 +3625,13 @@ a crash course（速習コース）は、短期間に詰め込んで学ぶ集中
 
 these colors clash（この色の組み合わせは合わない）のように、clash はファッションの世界で色や柄が調和しない状態にも使われます。意見の対立と同じく、「両立しないものがぶつかる」という核から生まれた用法です。
 
-crush には orange crush（オレンジスカッシュ＝果汁を搾った飲み物）のように、「搾る」という原義がそのまま残った食品名もあります。have a crush on someone（〜に片思いする）の crush とは別の枝から来ていますが、どちらも「押しつぶすほどの強い力」というイメージでつながっています。`,
+crush には orange crush（オレンジスカッシュ＝果汁を搾った飲み物）のように、「搾る」という原義がそのまま残った食品名もあります。have a crush on someone（〜に片思いする）の crush とは別の枝から来ていますが、どちらも「押しつぶすほどの強い力」というイメージでつながっています。
+
+### よくある誤用
+
+⚠️ \`They crashed the grapes to make wine.\`（誤）。ぶどうを「押しつぶす・搾る」は **crush**。crash は車や飛行機が激しくぶつかる場面の語です。
+
+⚠️ \`I have a crash on my classmate.\`（誤）。「片思い」は have a **crush** on 〜。crash は「衝突・墜落」で、恋心は表せません。`,
     keyPoints: [
       'crash /kræʃ/＝激突・墜落・(システム)クラッシュ',
       'crush /krʌʃ/＝押しつぶす／（名詞）夢中・片思い',
@@ -3934,7 +3952,13 @@ eat crow（自分の非を認めて屈辱を味わう）は、カラスが不味
 
 ### crowbar（バール）という工具名にもcrowが残る
 
-てこの原理で釘を抜いたり物をこじ開けたりする工具 crowbar（バール）は、先端の曲がって平らになった部分がカラスのくちばしに似ていることから名付けられた。18世紀半ばには単に crow と呼ばれており、後に bar が付いて crowbar という複合語になった。`,
+てこの原理で釘を抜いたり物をこじ開けたりする工具 crowbar（バール）は、先端の曲がって平らになった部分がカラスのくちばしに似ていることから名付けられた。18世紀半ばには単に crow と呼ばれており、後に bar が付いて crowbar という複合語になった。
+
+### よくある誤用
+
+⚠️ \`A claw sat on the roof and cawed.\`（誤）。鳥の「カラス」は **crow**。claw は動物の爪で、鳥そのものは指しません。
+
+⚠️ \`The cat crowed the sofa.\`（誤）。猫が爪でひっかくのは **clawed** the sofa。crow は動詞なら「（鶏が）鳴く・自慢する」の意味です。`,
     keyPoints: [
       'claw /klɔː/＝（動物の）かぎ爪・はさみ。claw back（取り戻す）',
       'crow /kroʊ/＝カラス。as the crow flies（直線距離で）',
@@ -5426,7 +5450,13 @@ beat around the bush（遠回しに言う・要点を避ける）という熟語
 
 classic には名詞としての使い方もあり、a classic（不朽の名作）・a classic car（旧車・ヴィンテージカー）のように、時代を超えて評価され続けるものを指します。classical にはこの「名詞としての名作」という使い方はありません。
 
-学術分野では classical economics（古典派経済学）・classical physics（古典力学）のように、classical が「その分野の初期の確立された理論体系」を指す専門用語として使われます。この場合の classical は「音楽の古典」とは別の、学問史上の位置づけを示す語です。`,
+学術分野では classical economics（古典派経済学）・classical physics（古典力学）のように、classical が「その分野の初期の確立された理論体系」を指す専門用語として使われます。この場合の classical は「音楽の古典」とは別の、学問史上の位置づけを示す語です。
+
+### よくある誤用
+
+⚠️ \`We went to a classic music concert.\`（誤）。「クラシック音楽」は **classical** music。classic music では「時代を超えた音楽」という別の響きになります。
+
+⚠️ \`This novel is a classical of the 19th century.\`（誤）。「名作」という名詞は **a classic**。classical は形容詞で、名詞として「名作」を表す用法がありません。`,
     keyPoints: [
       'classic＝一流の・典型的な・名作（classic example）',
       'classical＝古典の・古典様式の（classical music）',
@@ -5887,7 +5917,13 @@ course を使った最も頻度の高い言い方は of course（もちろん）
 
 ### coarse には人の振る舞いを評する用法がある
 
-coarse は物の手触りだけでなく、coarse language（下品な言葉遣い）、coarse manners（粗野な振る舞い）のように、人の言動の品位の低さを評する形容詞としても使われます。布や砂の「粒が粗い」という物理的な感触から、「洗練されていない」という比喩的な意味へ広がっている点は、日本語の「粗野」という言葉が持つ二重の意味と似た構造です。`,
+coarse は物の手触りだけでなく、coarse language（下品な言葉遣い）、coarse manners（粗野な振る舞い）のように、人の言動の品位の低さを評する形容詞としても使われます。布や砂の「粒が粗い」という物理的な感触から、「洗練されていない」という比喩的な意味へ広がっている点は、日本語の「粗野」という言葉が持つ二重の意味と似た構造です。
+
+### よくある誤用
+
+⚠️ \`I took a coarse in statistics.\`（誤）。「講座・課程」は **course**。coarse は「粗い」という形容詞です。
+
+⚠️ \`Her hands felt course and dry.\`（誤）。「ざらざらした」は **coarse**。course は名詞で、手触りを表す形容詞にはなりません。`,
     keyPoints: [
       'coarse と course は同音 /kɔːrs/',
       'coarse＝形容詞「粗い・ざらざらの」（反対は fine）',
@@ -8169,7 +8205,13 @@ envelop は The mist enveloped the mountains.（霧が山々を包み込んだ�
 
 ### 発音のアクセント移動が品詞を教えてくれる
 
-envelope と envelop は綴りがほぼ同じですが、名詞 envelope は最初の音節にアクセントが来る一方、動詞 envelop は2番目の音節にアクセントが来ます。record（名詞レコード／動詞記録する）や present（名詞プレゼント／動詞贈る）と同じく、英語には名詞と動詞でアクセント位置が変わる語が多くあり、envelope・envelop もこの仲間に入ります。`,
+envelope と envelop は綴りがほぼ同じですが、名詞 envelope は最初の音節にアクセントが来る一方、動詞 envelop は2番目の音節にアクセントが来ます。record（名詞レコード／動詞記録する）や present（名詞プレゼント／動詞贈る）と同じく、英語には名詞と動詞でアクセント位置が変わる語が多くあり、envelope・envelop もこの仲間に入ります。
+
+### よくある誤用
+
+⚠️ \`Put the letter in an envelop.\`（誤）。「封筒」は末尾に e を付けた **envelope**。e のない envelop は動詞で、モノの名前としては使えません。
+
+⚠️ \`Mist began to envelope the valley.\`（誤）。「包み込む」という動詞は **envelop**（アクセントは後ろ）。envelope は名詞なので、動詞の位置には置けません。`,
     keyPoints: [
       'envelope /ˈɛnvəloʊp/＝名詞「封筒」（末尾 e・前アクセント）',
       'envelop /ɪnˈvɛləp/＝動詞「包み込む」（e なし・後ろアクセント）',
@@ -9504,7 +9546,13 @@ bore には「退屈させる」のほかに「穴をあける・くり抜く」
 
 ### boring と bored の主客の向きに注意
 
-boring（退屈させる、退屈な）は原因側、bored（退屈させられた、退屈している）は結果側を表す点は、interesting/interested と同じ構造です。The lecture was boring, so I was bored.（講義が退屈だったので、私は退屈した）のように、主語がどちら側かで -ing と -ed を使い分けます。`,
+boring（退屈させる、退屈な）は原因側、bored（退屈させられた、退屈している）は結果側を表す点は、interesting/interested と同じ構造です。The lecture was boring, so I was bored.（講義が退屈だったので、私は退屈した）のように、主語がどちら側かで -ing と -ed を使い分けます。
+
+### よくある誤用
+
+⚠️ \`The film was so long that I was board.\`（誤）。「退屈した」は **bored**（bore の過去分詞）。board は「板・委員会」で、気持ちは表せません。
+
+⚠️ \`Please bored the train at gate 5.\`（誤）。「乗り込む」は **board** the train。bored は形容詞「退屈した」で、動詞の原形としては使えません。`,
     keyPoints: [
       'board と bored は同音 /bɔːrd/',
       'board＝板・掲示板・委員会／乗り込む',
@@ -9889,7 +9937,13 @@ custom（慣習）・customer（顧客）・customs（税関）はいずれも�
 
 ### habit はもともと修道士の衣服を意味した
 
-habit はラテン語 habitus（状態・身なり）、動詞 habere（持つ・身につける）に由来し、13世紀の英語では修道士や聖職者の特徴的な衣服を指す語として使われていた。「その人の外見・身につけているもの」から「その人の状態・ふるまい」へ、さらに「繰り返す行動パターン」へと意味が広がった。今も a riding habit（乗馬服）のように衣服の意味が残っている。`,
+habit はラテン語 habitus（状態・身なり）、動詞 habere（持つ・身につける）に由来し、13世紀の英語では修道士や聖職者の特徴的な衣服を指す語として使われていた。「その人の外見・身につけているもの」から「その人の状態・ふるまい」へ、さらに「繰り返す行動パターン」へと意味が広がった。今も a riding habit（乗馬服）のように衣服の意味が残っている。
+
+### よくある誤用
+
+⚠️ \`Biting my nails is my custom.\`（誤）。個人の癖は **habit**。custom は社会・集団のならわしを指すため、個人の無意識の癖には合いません。
+
+⚠️ \`Taking off your shoes indoors is a habit in Japan.\`（誤）。社会に共有されるならわしは **custom**。habit では「個人の癖」に聞こえ、文化の話になりません。`,
     keyPoints: [
       'custom＝社会・集団の慣習・風習・しきたり。複数customs（税関）は別語義',
       'habit＝個人の癖・習慣（無意識に繰り返す）。habitual/kick the habit',
@@ -10112,7 +10166,13 @@ healthy は名詞 health に -y（〜の性質を持つ）が付いた形で、�
 
 ### unhealthy が引き受ける範囲の広さ
 
-否定形の unhealthy は、healthy と healthful の両方の否定的な意味をまとめて引き受けています。an unhealthy person（不健康な人）にも、an unhealthy diet（不健康な食事）にも同じ unhealthy が使え、unhealthful という語はほとんど使われません。肯定形では分かれていた区別が、否定形では healthy 側に吸収されているのも、healthy の使用範囲の広さを示しています。`,
+否定形の unhealthy は、healthy と healthful の両方の否定的な意味をまとめて引き受けています。an unhealthy person（不健康な人）にも、an unhealthy diet（不健康な食事）にも同じ unhealthy が使え、unhealthful という語はほとんど使われません。肯定形では分かれていた区別が、否定形では healthy 側に吸収されているのも、healthy の使用範囲の広さを示しています。
+
+### よくある誤用
+
+⚠️ \`He is a healthful boy.\`（誤）。人が「健康だ」と言うときは **healthy**。healthful は食事・環境など、健康を促すものにつける語です。
+
+⚠️ \`The doctor said she has become healthful again.\`（誤）。体の状態が良いことは **healthy**。healthful は「健康に良い」で、人の状態は表しません。`,
     keyPoints: [
       'healthy＝健康な・健康的な（人・状態）',
       'healthful＝健康に良い・健康を促す（食べ物・環境）',
