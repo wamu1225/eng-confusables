@@ -10468,7 +10468,13 @@ allowed は be allowed to do（〜することが許されている）という�
 
 ### allowed for という熟語は許可とは別の意味を持つ
 
-動詞 allow には「見込む・計上する」という別の意味があり、allow for delays（遅れを見込んでおく）、time allowed for the test（試験に割り当てられた時間）のように、余裕や予算をあらかじめ考慮に入れるという意味で使われます。この allow for の allowed は「許可された」ではなく「考慮に入れられた」という意味で、aloud との混同とは別の注意点として押さえておく価値があります。`,
+動詞 allow には「見込む・計上する」という別の意味があり、allow for delays（遅れを見込んでおく）、time allowed for the test（試験に割り当てられた時間）のように、余裕や予算をあらかじめ考慮に入れるという意味で使われます。この allow for の allowed は「許可された」ではなく「考慮に入れられた」という意味で、aloud との混同とは別の注意点として押さえておく価値があります。
+
+### よくある誤用
+
+⚠️ \`Please read the passage allowed.\`（誤）。「声に出して読む」は read **aloud**。allowed は「許された」で、読み方を表せません。
+
+⚠️ \`Photos are not aloud in the museum.\`（誤）。「許されている」は be **allowed**。aloud は副詞で、「許可」の意味は表せません。`,
     keyPoints: [
       'allowed と aloud は同音 /əˈlaʊd/',
       'allowed＝許された（allow の過去分詞・be allowed to do）',
@@ -10857,7 +10863,13 @@ credible と綴りが近い creditable（称賛に値する・立派な）は、
 
 ### credulity という名詞が持つ皮肉な響き
 
-credulous の名詞形 credulity（軽信・だまされやすさ）は、strain credulity（信じ難い・にわかには信じがたい）という成句でよく使われ、「読者や聞き手の信じる力を限界まで試す」という皮肉な文脈で登場します。sceptical（懐疑的な）が credulous の対義に近い性質を表す語として使われることもあります。`,
+credulous の名詞形 credulity（軽信・だまされやすさ）は、strain credulity（信じ難い・にわかには信じがたい）という成句でよく使われ、「読者や聞き手の信じる力を限界まで試す」という皮肉な文脈で登場します。sceptical（懐疑的な）が credulous の対義に近い性質を表す語として使われることもあります。
+
+### よくある誤用
+
+⚠️ \`Don't be so credible. That email is a scam.\`（誤）。人が「すぐ信じる」性質は **credulous**。credible は情報・証言が「信用できる」ことで、人の軽信は表せません。
+
+⚠️ \`The scientist's explanation was credulous.\`（誤）。説明が「信用できる」は **credible**。credulous は「（人が）だまされやすい」で、説明の評価には使いません。`,
     keyPoints: [
       'credible＝信用できる・もっともらしい（情報・証人）',
       'credulous＝（人が）すぐ信じる・だまされやすい',
@@ -11556,7 +11568,13 @@ desirable は a desirable neighborhood（住み心地の良い地域）、a high
 
 ### desire という動詞に立ち返ると両語の関係が見える
 
-形容詞2つの元になっている動詞 desire（強く望む）は want よりも改まった響きを持ち、I desire to know the truth.（真実を知ることを強く望む）のように使われます。desirable は「desire される対象」、desirous は「desire している主体」という構図で、同じ動詞から反対方向の形容詞が作られている点を意識すると、この2語の関係がすっきり整理できます。`,
+形容詞2つの元になっている動詞 desire（強く望む）は want よりも改まった響きを持ち、I desire to know the truth.（真実を知ることを強く望む）のように使われます。desirable は「desire される対象」、desirous は「desire している主体」という構図で、同じ動詞から反対方向の形容詞が作られている点を意識すると、この2語の関係がすっきり整理できます。
+
+### よくある誤用
+
+⚠️ \`He is desirable of a promotion.\`（誤）。「〜を望んでいる」は **desirous** of 〜。desirable は「望ましい」で、of を伴って人の願望は表せません。
+
+⚠️ \`A short commute is desirous.\`（誤）。「望ましい（条件）」は **desirable**。desirous は望む「人」が主語で、条件や物の評価には使いません。`,
     keyPoints: [
       'desirable＝望ましい・好ましい（望まれる側）',
       'desirous＝（〜を）望んでいる（望む側・desirous of ~）',
@@ -12229,7 +12247,13 @@ I have two brothers. One lives in Osaka, and the other lives in Sendai. のよ�
 
 ### every other day の other
 
-every other day は「1日おきに」で、「毎日ほかの日」ではありません。この other は間にもう一つはさんで次に来るという意味で、every other week（隔週）、every other line（1行おき）も同じ作りです。one after another（次々と）、each other（互いに）とあわせて、成句のまま覚えておくと形で迷わなくなります。`,
+every other day は「1日おきに」で、「毎日ほかの日」ではありません。この other は間にもう一つはさんで次に来るという意味で、every other week（隔週）、every other line（1行おき）も同じ作りです。one after another（次々と）、each other（互いに）とあわせて、成句のまま覚えておくと形で迷わなくなります。
+
+### よくある誤用
+
+⚠️ \`Do you have another ideas?\`（誤）。another は単数名詞に付く語。複数なら **other** ideas（any other ideas）です。
+
+⚠️ \`Please give me other cup of tea.\`（誤）。単数の「もう一杯」は **another** cup。other は冠詞なしで単数名詞に直接付けられません。`,
     keyPoints: [
       'another＝an+other「もう一つの（単数・可算）」',
       'other＝他の（複数名詞／the other(s) で特定の残り）',
@@ -13069,7 +13093,13 @@ regretfully（後悔しながら・すまなそうに）は動作の様子を表
 
 ### 動詞 regret のあとに来る形にも規則性がある
 
-動詞 regret は regret + 動名詞（regret doing、すでにした行為を悔やむ）と regret + to不定詞（regret to say、これから言う内容を残念に思う）の両方を取りますが、意味が変わります。I regret telling him.（彼に話したことを後悔している）は過去の行為への後悔、I regret to tell him.（残念ながら彼に伝えねばならない）はこれから行う行為への遺憾です。regretful・regrettable の使い分けと同じく、時間の向きが意味を決めています。`,
+動詞 regret は regret + 動名詞（regret doing、すでにした行為を悔やむ）と regret + to不定詞（regret to say、これから言う内容を残念に思う）の両方を取りますが、意味が変わります。I regret telling him.（彼に話したことを後悔している）は過去の行為への後悔、I regret to tell him.（残念ながら彼に伝えねばならない）はこれから行う行為への遺憾です。regretful・regrettable の使い分けと同じく、時間の向きが意味を決めています。
+
+### よくある誤用
+
+⚠️ \`The accident was very regretful.\`（誤）。出来事が「残念だ」は **regrettable**。regretful は後悔している「人」の気持ちを表します。
+
+⚠️ \`I am regrettable about what I said.\`（誤）。人が「後悔している」は **regretful**（または I regret what I said）。regrettable は主語に人を取りません。`,
     keyPoints: [
       'regretful＝（人が）後悔している・すまなく思う',
       'regrettable＝（事・状況が）残念な・遺憾な',
@@ -13142,7 +13172,13 @@ regretfully（後悔しながら・すまなそうに）は動作の様子を表
 
 ### 動詞 officiate は official の側から派生する
 
-儀式や試合を「公式に取り仕切る」という動詞 officiate（司会を務める、審判を務める）は official と同じ語根から生まれています。The referee officiated the match.（審判がその試合を裁いた）のように、公的な役割を果たすという official 側の意味を受け継いでおり、officious とは別の系統です。`,
+儀式や試合を「公式に取り仕切る」という動詞 officiate（司会を務める、審判を務める）は official と同じ語根から生まれています。The referee officiated the match.（審判がその試合を裁いた）のように、公的な役割を果たすという official 側の意味を受け継いでおり、officious とは別の系統です。
+
+### よくある誤用
+
+⚠️ \`She gave an officious statement on behalf of the company.\`（誤）。「公式の声明」は **official** statement。officious は「お節介な」で、公式という意味は持ちません。
+
+⚠️ \`The official clerk kept telling us what to do.\`（誤）。頼まれてもいないのに口出しする様子は **officious** clerk。official では「公式の」になり、お節介という否定的な評価が伝わりません。`,
     keyPoints: [
       'official＝公式の・正式の／職員・役人',
       'officious＝お節介な・でしゃばりな（否定的）',
@@ -13444,7 +13480,13 @@ serial は serial killer（連続殺人犯）、serial number（通し番号）�
 
 ### patience と patients を結ぶ共通の祖先
 
-一見無関係に見える patience と patients だが、どちらも「耐え忍ぶ」を意味するラテン語 pati の現在分詞 patiens に由来する。形容詞 patient（我慢強い／病を耐え忍ぶ人）から、抽象的な性質を表す patience と、具体的な人を表す patient の複数形 patients が、別々の方向へ枝分かれした。`,
+一見無関係に見える patience と patients だが、どちらも「耐え忍ぶ」を意味するラテン語 pati の現在分詞 patiens に由来する。形容詞 patient（我慢強い／病を耐え忍ぶ人）から、抽象的な性質を表す patience と、具体的な人を表す patient の複数形 patients が、別々の方向へ枝分かれした。
+
+### よくある誤用
+
+⚠️ \`Learning to cook requires a lot of patients.\`（誤）。「忍耐」は不可算の **patience**。patients は「患者たち」で、忍耐の意味にはなりません。
+
+⚠️ \`The hospital has three hundred patience.\`（誤）。「患者」は **patients**（-ts）。patience は忍耐で、人数は数えられません。`,
     keyPoints: [
       'patience と patients はほぼ同音 /ˈpeɪʃ(ə)ns/',
       'patience＝忍耐・辛抱（不可算名詞・-ce）',
@@ -13749,7 +13791,13 @@ flammable はラテン語 flamma（炎）に由来し、flame（炎）・flamboy
 
 ### combustible との違いは発火のしやすさを示す専門用語
 
-flammable と似た語に combustible（可燃性の）があるが、消防関連の専門規格（NFPA）では両者を引火点（flash point）の温度で区別する＝引火点が華氏100度未満なら flammable、100度以上なら combustible と分類される。日常語ではほぼ同じ「燃える」という意味で使われるが、危険物の取り扱いでは発火のしやすさの度合いを示す専門用語として使い分けられている。`,
+flammable と似た語に combustible（可燃性の）があるが、消防関連の専門規格（NFPA）では両者を引火点（flash point）の温度で区別する＝引火点が華氏100度未満なら flammable、100度以上なら combustible と分類される。日常語ではほぼ同じ「燃える」という意味で使われるが、危険物の取り扱いでは発火のしやすさの度合いを示す専門用語として使い分けられている。
+
+### よくある誤用
+
+⚠️ \`Use inflammable materials for the safety door.\`（誤）。「燃えにくい素材」のつもりなら **non-flammable**。inflammable の in- は否定ではなく、inflammable も「燃えやすい」です。
+
+⚠️ \`Inflammable is the opposite of flammable.\`（誤）。反対語ではなく **同義**（どちらも「燃えやすい」）。反対は non-flammable です。`,
     keyPoints: [
       'flammable と inflammable は同義＝「燃えやすい」',
       'inflammable の in- は否定でなく強め（誤解注意）',
@@ -14608,11 +14656,17 @@ forgetful の反対はふつう mindful（気を配る）や attentive（注意�
 
 ### forgetful は加齢や病気の文脈で使われやすい
 
-forgetful は日常会話で「うっかり屋」という軽い意味でも使われますが、becoming forgettable（もの忘れが増える）、forgetfulness（もの忘れ）という形で高齢者の認知機能の話題でも頻繁に使われます。My grandfather is getting forgetful. という例文のように、加齢に伴う変化を穏やかに表現する語として選ばれることが多い語です。
+forgetful は日常会話で「うっかり屋」という軽い意味でも使われますが、becoming forgetful（もの忘れが増える）、forgetfulness（もの忘れ）という形で高齢者の認知機能の話題でも頻繁に使われます。My grandfather is getting forgetful. という例文のように、加齢に伴う変化を穏やかに表現する語として選ばれることが多い語です。
 
 ### -ful と -able がそれぞれ持つ意味の型
 
--ful は careful（気をつける）、helpful（助けになる）のように「その性質で満ちている」という能動的な性質を表し、-able は washable（洗える）、readable（読める）のように「〜されることができる」という受け身の可能性を表します。forgetful/forgettable のペアはこの2つの接尾辞の型の違いをそのまま体現しており、他の -ful/-able 語のペアを考えるときの手がかりにもなります。`,
+-ful は careful（気をつける）、helpful（助けになる）のように「その性質で満ちている」という能動的な性質を表し、-able は washable（洗える）、readable（読める）のように「〜されることができる」という受け身の可能性を表します。forgetful/forgettable のペアはこの2つの接尾辞の型の違いをそのまま体現しており、他の -ful/-able 語のペアを考えるときの手がかりにもなります。
+
+### よくある誤用
+
+⚠️ \`I'm so forgettable that I lose my phone every day.\`（誤）。人が「忘れっぽい」は **forgetful**。forgettable は「印象に残らない」で、人に使うと「存在感がない」という意味になります。
+
+⚠️ \`It was a forgetful film with no memorable scene.\`（誤）。作品が「印象に残らない」は **forgettable**。forgetful は人の性質を表します。`,
     keyPoints: [
       'forgetful＝（人が）忘れっぽい・物覚えが悪い',
       'forgettable＝（物・事が）忘れられやすい・印象に残らない',
@@ -15306,7 +15360,13 @@ intelligible の -ible は、readable（読める）、understandable（理解�
 
 ### 反対語で確認すると意味の違いがはっきりする
 
-intelligent の反対語は stupid や unintelligent（愚かな）で、人の能力の評価です。intelligible の反対語は unintelligible や incomprehensible（理解不能な）で、伝わり方の評価です。His mumbling was unintelligible.（彼のつぶやきは聞き取れなかった）を He is unintelligent. と言い換えると、話し方の問題を人格の評価にすり替えてしまう誤りになります。`,
+intelligent の反対語は stupid や unintelligent（愚かな）で、人の能力の評価です。intelligible の反対語は unintelligible や incomprehensible（理解不能な）で、伝わり方の評価です。His mumbling was unintelligible.（彼のつぶやきは聞き取れなかった）を He is unintelligent. と言い換えると、話し方の問題を人格の評価にすり替えてしまう誤りになります。
+
+### よくある誤用
+
+⚠️ \`Her handwriting is hardly intelligent.\`（誤）。字が「判読できる」は **intelligible**（hardly intelligible）。intelligent は人や生物の賢さを表します。
+
+⚠️ \`The students of this school are very intelligible.\`（誤）。人が「頭がいい」は **intelligent**。intelligible は「（言葉が）理解できる」で、人の賢さは表せません。`,
     keyPoints: [
       'intelligent＝頭がいい・知的な（人・生物）',
       'intelligible＝（言葉・説明が）理解できる・分かりやすい',
